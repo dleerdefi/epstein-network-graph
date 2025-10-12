@@ -1,0 +1,292 @@
+{
+  "page_number": 3,
+  "file_path": "data/flight_logs_images/page-003.png",
+  "type": "aircraft_flight_log",
+  "content": {
+    "text": "DATE | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARKS | POINTS OF DEPARTURE & ARRIVAL | FROM | TO | MILEAGE | SINGLE PILOT | FLT TIME | REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS | AIRCRAFT CATEGORY\n\n29 N[?]20 N908JE CMH TEB 20 23 JEFFREY EPSTEIN\n29 TGIS NEW 35 24 JEFFREY, GM, MARISSA\n29 NEW JFK 11\n1 APA CB TEB 20 5 JEFFREY GIRADINO, MARIA KNAULL, CURTIS\n5 TEB CMH 15 JEFFREY\n6 CMH LGB 65 23 JEFFREY GIRADINO MARY CELESTE\n6 LAB BTA 24 JEFFREY MARY CELESTE A/R LEE RICK CEL\n9 BTA TEB 50 24 GHISLAINE + N JE\n9 TEB CMH 21 JEFFREY GHISLAINE\n11 CMH BLL 42\n13 BLL CMH 39 LENO\n17 CMH PNI 24 JEFFREY, JEAN SPRINGLE\n18 PNI TEB 25 JEFFKEY, MARY, ANNIKA, LES TICO\n13 TEB BVI 31 JEFFRREY, MARK\n15 BVI CMH 37\n9 CMH CMH 15 JEFFREY\n19 CMH PBL 45 JEFFREY\n19 PBL SPL 25 JEFFREY\n7 SPL CMH 20 JEFFREY, JUAN ALESSI, SARAH G, VANESSA G, JE, LES, ALAN, MARY, JOAN, GLEN DUBIN, ELLA\n\nPAGE TOTAL\nAMT. FORWARD: 33.0 + 54.5 = 87.5\nTOTAL TO DATE: 54.5 + 87.5 = 142.0\n\nI certify that the statements made by me on this form are true.\n\nPILOT'S SIGNATURE: David Rodgers",
+    "handwritten": false,
+    "typed": true,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "See above 'text' field for complete transcription",
+      "flight_records": [
+        {
+          "date": "8/29/91",
+          "departure": "CMH",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "2.0 hrs",
+          "passengers": ["Jeffrey Epstein"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY EPSTEIN"
+        },
+        {
+          "date": "8/29/91",
+          "departure": "TGIS",
+          "arrival": "NEW",
+          "aircraft": "",
+          "flight_time": "3.5 hrs",
+          "passengers": ["Jeffrey", "GM", "Marissa"],
+          "pilot": "Unknown",
+          "notes": "JEFFREY, GM, MARISSA"
+        },
+        {
+          "date": "8/29/91",
+          "departure": "NEW",
+          "arrival": "JFK",
+          "aircraft": "",
+          "flight_time": "1.1 hrs",
+          "passengers": [],
+          "pilot": "Unknown",
+          "notes": ""
+        },
+        {
+          "date": "8/30/91",
+          "departure": "APA CB",
+          "arrival": "TEB",
+          "aircraft": "",
+          "flight_time": "2.0 hrs",
+          "passengers": ["Jeffrey", "Giradino", "Maria Knaull", "Curtis"],
+          "pilot": "Unknown",
+          "notes": "JEFFREY GIRADINO, MARIA KNAULL, CURTIS"
+        },
+        {
+          "date": "8/31/91",
+          "departure": "TEB",
+          "arrival": "CMH",
+          "aircraft": "",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "Unknown",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "9/6/91",
+          "departure": "CMH",
+          "arrival": "LGB",
+          "aircraft": "",
+          "flight_time": "6.5 hrs",
+          "passengers": ["Jeffrey", "Giradino", "Mary", "Celeste"],
+          "pilot": "Unknown",
+          "notes": "JEFFREY GIRADINO MARY CELESTE"
+        },
+        {
+          "date": "9/6/91",
+          "departure": "LAB",
+          "arrival": "BTA",
+          "aircraft": "",
+          "flight_time": "2.4 hrs",
+          "passengers": ["Jeffrey", "Mary", "Celeste", "Lee", "Rick", "Cel"],
+          "pilot": "Unknown",
+          "notes": "JEFFREY MARY CELESTE A/R LEE RICK CEL"
+        },
+        {
+          "date": "9/8/91",
+          "departure": "BTA",
+          "arrival": "TEB",
+          "aircraft": "",
+          "flight_time": "5.0 hrs",
+          "passengers": ["Ghislaine"],
+          "pilot": "Unknown",
+          "notes": "GHISLAINE + N JE"
+        },
+        {
+          "date": "9/9/91",
+          "departure": "TEB",
+          "arrival": "CMH",
+          "aircraft": "",
+          "flight_time": "2.1 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "Unknown",
+          "notes": "JEFFREY GHISLAINE"
+        },
+        {
+          "date": "9/11/91",
+          "departure": "CMH",
+          "arrival": "BLL",
+          "aircraft": "",
+          "flight_time": "4.2 hrs",
+          "passengers": [],
+          "pilot": "Unknown",
+          "notes": ""
+        },
+        {
+          "date": "9/13/91",
+          "departure": "BLL",
+          "arrival": "CMH",
+          "aircraft": "",
+          "flight_time": "3.9 hrs",
+          "passengers": ["Leno"],
+          "pilot": "Unknown",
+          "notes": "LENO"
+        },
+        {
+          "date": "9/17/91",
+          "departure": "CMH",
+          "arrival": "PNI",
+          "aircraft": "",
+          "flight_time": "2.4 hrs",
+          "passengers": ["Jeffrey", "Jean Springle"],
+          "pilot": "Unknown",
+          "notes": "JEFFREY, JEAN SPRINGLE"
+        },
+        {
+          "date": "9/18/91",
+          "departure": "PNI",
+          "arrival": "TEB",
+          "aircraft": "",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Mary", "Annika", "Les Tico"],
+          "pilot": "Unknown",
+          "notes": "JEFFKEY, MARY, ANNIKA, LES TICO"
+        },
+        {
+          "date": "9/13/91",
+          "departure": "TEB",
+          "arrival": "BVI",
+          "aircraft": "",
+          "flight_time": "3.1 hrs",
+          "passengers": ["Jeffrey", "Mark"],
+          "pilot": "Unknown",
+          "notes": "JEFFRREY, MARK"
+        },
+        {
+          "date": "9/15/91",
+          "departure": "BVI",
+          "arrival": "CMH",
+          "aircraft": "",
+          "flight_time": "3.7 hrs",
+          "passengers": [],
+          "pilot": "Unknown",
+          "notes": ""
+        },
+        {
+          "date": "9/9/91",
+          "departure": "CMH",
+          "arrival": "CMH",
+          "aircraft": "",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "Unknown",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "9/19/91",
+          "departure": "CMH",
+          "arrival": "PBL",
+          "aircraft": "",
+          "flight_time": "4.5 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "Unknown",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "9/19/91",
+          "departure": "PBL",
+          "arrival": "SPL",
+          "aircraft": "",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "Unknown",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "9/7/91",
+          "departure": "SPL",
+          "arrival": "CMH",
+          "aircraft": "",
+          "flight_time": "2.0 hrs",
+          "passengers": ["Jeffrey", "Juan Alessi", "Sarah G", "Vanessa G", "JE", "Les", "Alan", "Mary", "Joan", "Glen Dubin", "Ella"],
+          "pilot": "Unknown",
+          "notes": "JEFFREY, JUAN ALESSI, SARAH G, VANESSA G, JE, LES, ALAN, MARY, JOAN, GLEN DUBIN, ELLA"
+        }
+      ],
+      "headers": ["DATE", "AIRCRAFT MAKE AND MODEL", "AIRCRAFT IDENTIFICATION MARKS", "POINTS OF DEPARTURE & ARRIVAL", "FROM", "TO", "MILEAGE", "SINGLE PILOT", "FLT TIME", "REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS", "AIRCRAFT CATEGORY"],
+      "annotations": ["PAGE TOTAL", "AMT. FORWARD: 33.0 + 54.5 = 87.5", "TOTAL TO DATE: 54.5 + 87.5 = 142.0"]
+    }
+  },
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Jeffrey",
+      "GM",
+      "Marissa",
+      "Giradino",
+      "Maria Knaull",
+      "Curtis",
+      "Mary",
+      "Celeste",
+      "Lee",
+      "Rick",
+      "Cel",
+      "Ghislaine",
+      "Leno",
+      "Jean Springle",
+      "Annika",
+      "Les Tico",
+      "Mark",
+      "Juan Alessi",
+      "Sarah G",
+      "Vanessa G",
+      "JE",
+      "Les",
+      "Alan",
+      "Mary",
+      "Joan",
+      "Glen Dubin",
+      "Ella",
+      "David Rodgers"
+    ],
+    "organizations": [],
+    "locations": [
+      "CMH",
+      "TEB",
+      "TGIS",
+      "NEW",
+      "JFK",
+      "APA",
+      "CB",
+      "LGB",
+      "LAB",
+      "BTA",
+      "BLL",
+      "PNI",
+      "BVI",
+      "PBL",
+      "SPL"
+    ],
+    "dates": ["8/29/91", "8/30/91", "8/31/91", "9/6/91", "9/7/91", "9/8/91", "9/9/91", "9/11/91", "9/13/91", "9/15/91", "9/17/91", "9/18/91", "9/19/91"],
+    "aircraft": ["N908JE"],
+    "phones": [],
+    "emails": []
+  },
+  "visual_elements": {
+    "signatures": ["David Rodgers (pilot signature at bottom)"],
+    "stamps": [],
+    "logos": [],
+    "redactions": []
+  },
+  "metadata": {
+    "log_type": "passenger_and_cargo_manifest",
+    "time_period": "August-September 1991",
+    "total_flights": 19,
+    "page_condition": "good",
+    "aircraft_registration": "N908JE",
+    "running_total_hours": "142.0"
+  },
+  "insights": [
+    "Jeffrey Epstein's full name appears explicitly on first entry",
+    "GM likely refers to Ghislaine Maxwell, who also appears as 'Ghislaine' later",
+    "BVI (British Virgin Islands) appears as destination, consistent with Epstein's Little St. James Island",
+    "Glen Dubin appears as passenger - a known financier and Epstein associate",
+    "Juan Alessi appears - known as Epstein's house manager in Palm Beach",
+    "Large group flight on the 7th with 11 named passengers including Glen Dubin and Ella",
+    "Flight times accumulating to 142.0 hours total across three pages",
+    "Multiple flights to/from CMH (Columbus, OH) continue as pattern",
+    "Some flights show circular routes (CMH to CMH) suggesting local trips",
+    "Maria Knaull and Curtis appear together suggesting they may be associates",
+    "Jean Springle appears as passenger",
+    "Sarah G and Vanessa G appear together, possibly related (same last initial)",
+    "Continuation of David Rodgers as pilot throughout"
+  ]
+}

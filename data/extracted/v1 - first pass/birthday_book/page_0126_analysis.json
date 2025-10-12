@@ -1,0 +1,154 @@
+{
+  "page_number": 126,
+  "file_path": "data/birthday_book_images/page_0126.png",
+  "file_size_mb": 0.1603860855102539,
+  "type": "handwritten_birthday_note_prominent_figure",
+  "content": {
+    "text": "Jeffrey -\n\nHappy 50th -\nIt's a dubious [unclear] to be, to have\nlasted so long, across all the years\nof learning and hustling,\nadventure and worry, old pals\nto have your discipline curiosity,\nthe drive to build a difference\nand the balance of friends -\n\nBill Clinton",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "description": "Handwritten personal birthday note",
+    "text_sections": {
+      "full_transcription": "Jeffrey -\n\nHappy 50th -\nIt's a dubious [unclear] to be, to have\nlasted so long, across all the years\nof learning and hustling,\nadventure and worry, old pals\nto have your discipline curiosity,\nthe drive to build a difference\nand the balance of friends -\n\nBill Clinton",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          126
+        ]
+      },
+      {
+        "name": "Bill Clinton",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          126
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "50th birthday"
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Bill Clinton",
+    "recipient": "Jeffrey Epstein",
+    "date": "50th Birthday (January 20, 2003)",
+    "subject": "Personal birthday wishes",
+    "theme": "reflective_personal_tribute",
+    "significance": "high_profile_political_figure",
+    "document_type": "handwritten_birthday_note_prominent_figure"
+  },
+  "insights": [
+    "CRITICAL: Birthday message from former U.S. President Bill Clinton",
+    "Confirms personal relationship between Clinton and Epstein",
+    "Written for Epstein's 50th birthday in 2003",
+    "References 'years of learning and hustling' - long-term acquaintance implied",
+    "'Adventure and worry' suggests shared experiences or knowledge of challenges",
+    "'Old pals' explicitly confirms friendship",
+    "Praises Epstein's 'discipline' and 'curiosity'",
+    "'Drive to build a difference' - acknowledges Epstein's ambitions",
+    "'Balance of friends' - references Epstein's social network",
+    "Personal, reflective tone indicates genuine relationship",
+    "Handwritten format shows personal effort from Clinton",
+    "Document provides evidence of Clinton-Epstein relationship",
+    "Written during period when both were prominent public figures",
+    "Language suggests admiration and respect from Clinton",
+    "No mention of any concerns about Epstein's activities"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000126",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.181475",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [
+      {
+        "name": "Bill Clinton",
+        "style": "cursive",
+        "location": "bottom_center",
+        "notable": "Former U.S. President signature",
+        "identified_as": "Bill Clinton",
+        "confidence": "medium",
+        "characteristics": [],
+        "matches_pages": []
+      }
+    ],
+    "logos": [],
+    "redactions": [],
+    "handwritten_notes": [
+      {
+        "type": "full_page_personal_note",
+        "style": "cursive",
+        "ink_color": "black"
+      }
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "CRITICAL DOCUMENT: Handwritten note from Bill Clinton",
+    "Addressed to 'Jeffrey -'",
+    "Opening: 'Happy 50th -'",
+    "'It's a dubious [unclear] to be, to have'",
+    "'lasted so long, across all the years'",
+    "'of learning and hustling,'",
+    "'adventure and worry, old pals'",
+    "'to have your discipline curiosity,'",
+    "'the drive to build a difference'",
+    "'and the balance of friends -'",
+    "Signed 'Bill Clinton'",
+    "Former U.S. President's personal handwriting",
+    "Black ink on white paper",
+    "Document stamped HOUSE_OVERSIGHT_000126",
+    "Confirms personal relationship between Clinton and Epstein in 2003"
+  ],
+  "investigative_leads": []
+}

@@ -1,0 +1,452 @@
+{
+  "page_number": 16,
+  "alphabetical_section": "D-E",
+  "contacts": [
+    {
+      "name": "Duchess of York",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Sunninghill Park / Ascot Berkshire / SL5 7TH",
+          "city": "Ascot",
+          "region": "Berkshire",
+          "postal_code": "SL5 7TH",
+          "country": "UK",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "01344 873222",
+          "geographic_indicator": "UK Ascot area",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01344 XXXXX",
+          "confidence": "low"
+        }
+      ],
+      "emails": [
+        "Yarah@royal-gov.co.uk"
+      ],
+      "notes": "Sarah Ferguson",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Duchin, Peter",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "(0207 370 9795)",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 370 9795",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Ducray-Giordano, Francesca",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "c/ Avilion Di San Vito 26 / 00196 Rome",
+          "city": "Rome",
+          "postal_code": "00196",
+          "country": "Italy",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "06 36 17 8007838 (o)",
+          "country_code": "39",
+          "geographic_indicator": "Italy",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "06 36 3220848 (h)",
+          "country_code": "39",
+          "geographic_indicator": "Italy",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Dussing, Paul",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Lloyds Blanco / 1 Wilshire Avenue / Calavera Palace / Los Angeles",
+          "city": "Los Angeles",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "213 790 0008 (o)",
+          "area_code": "213",
+          "geographic_indicator": "Downtown Los Angeles",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Duke of York",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Buckingham Palace / London",
+          "city": "London",
+          "country": "UK",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 024 4000/30",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 024 8300/25",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "[illegible]@royalfamilyfoundation.com"
+      ],
+      "notes": "Prince Andrew",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Dunbar Johnson, Miranda & Lisa",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "7751 Lookout Point Villas / USVI [illegible]",
+          "country": "US Virgin Islands",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "340 XXX XXXX",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone number mostly illegible"]
+      }
+    },
+    {
+      "name": "Dunne, Griffin",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "0207 328 [illegible]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 328 18 XXX (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "office",
+          "number": "001 310 550 XXX (o)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Actor/Director",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Some digits illegible"]
+      }
+    },
+    {
+      "name": "Dunne, Philip & Dominique",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "3 Sloane Street",
+          "city": "London",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0208 761 44XX (h)",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Duong, Anh",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "117 Rue Station",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 475 516 7915[0]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "01 475 513 7915[0]",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Durso Luigi",
+      "addresses": [
+        "Ireos de la Fressange"
+      ],
+      "phones": [],
+      "notes": "Possibly connected to Ines de la Fressange",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Limited information"]
+      }
+    },
+    {
+      "name": "Duthie, John & Charlotte",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "41 Cowley Gate House / London SW[X]",
+          "city": "London",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 589 7863 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Dzhabrailov, Umar",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "00 7 095 928 1220[00]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 7 095 928 1220[00]",
+          "country_code": "7",
+          "area_code": "095",
+          "geographic_indicator": "Moscow, Russia",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 7 095 9233 0903[0]",
+          "country_code": "7",
+          "area_code": "095",
+          "geographic_indicator": "Moscow, Russia",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Russian contact",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Ecclestone, Bernie",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "La Gavellanerie / 24 avenue Princess Grace / [illegible]",
+          "street": "24 avenue Princess Grace",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "44 207 589 65 [illegible]",
+          "country_code": "44",
+          "area_code": "207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "33 493 30 80 21",
+          "country_code": "33",
+          "geographic_indicator": "France (Monaco area)",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "London: [illegible]@rj.UK"
+      ],
+      "notes": "Formula 1 CEO",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Ecken, Paul",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "001 212 688 (h) / 917 656 8888 (c)",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "212 688 [illegible] (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "cell",
+          "number": "917 656 8888 (c)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Edsel, Lucinda",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "c/o The Times / London SW1X1",
+          "city": "London",
+          "postal_code": "SW1X1",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 522 8736 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Connected to The Times newspaper",
+      "data_quality": {
+        "confidence": "high"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 15,
+    "quality": "good",
+    "legibility": "mostly clear",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "Duchess of York (Sarah Ferguson)",
+      "Duke of York (Prince Andrew)",
+      "Bernie Ecclestone - Formula 1 CEO",
+      "Griffin Dunne - Actor/Director",
+      "Umar Dzhabrailov - Russian contact"
+    ]
+  },
+  "insights": [
+    "Page contains both Duke and Duchess of York with separate entries",
+    "Bernie Ecclestone entry shows Monaco/London connections typical of F1 world",
+    "Russian contact (Dzhabrailov) with Moscow phone numbers",
+    "Mix of entertainment (Griffin Dunne), royalty, and business figures",
+    "US Virgin Islands contact suggests Caribbean connections",
+    "Several London-based contacts with 0207/0208 numbers",
+    "Italian contact in Rome (Ducray-Giordano)",
+    "The Times newspaper connection through Lucinda Edsel",
+    "Multiple couple entries indicating social network",
+    "Transition from D to E section of alphabetical listing"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "high",
+    "total_contacts": 15,
+    "high_confidence": 9,
+    "medium_confidence": 5,
+    "low_confidence": 1,
+    "extraction_issues": [
+      "Some phone numbers partially illegible",
+      "Email addresses partially obscured",
+      "Some addresses incomplete"
+    ]
+  }
+}

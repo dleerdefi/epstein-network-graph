@@ -1,0 +1,141 @@
+{
+  "page_number": 103,
+  "file_path": "data/birthday_book_images/page_0103.png",
+  "file_size_mb": 2.046816825866699,
+  "type": "photo_collage_sports_skiing",
+  "content": {
+    "text": "This is what I am suppose\nto like !!\n[Three skiing photos showing people on snowy slopes]",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "description": "Skiing photographs with sarcastic commentary",
+    "text_sections": {
+      "full_transcription": "This is what I am suppose\nto like !!",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Individuals skiing in winter sports activities",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          103
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      "Ski slopes",
+      "Winter sports locations"
+    ],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Skiing activities with commentary",
+    "theme": "winter_sports_activities",
+    "significance": "medium",
+    "document_type": "photo_collage_sports_skiing"
+  },
+  "insights": [
+    "Sarcastic tone in 'supposed to like' suggests ambivalence about skiing",
+    "Winter sports photos indicate seasonal recreational activities",
+    "Commentary suggests pressure or expectation to enjoy certain activities",
+    "Personal photos indicate participation in upscale winter sports",
+    "Tone suggests possible reluctance or humor about skiing expectations"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000103",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.170783",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Person skiing on snowy slopes",
+        "theme": "winter_sports",
+        "setting": "ski_slope",
+        "elements": [
+          "skiing",
+          "snow",
+          "winter_clothing"
+        ],
+        "individual_count": 2,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      },
+      {
+        "description": "Multiple skiing scenes showing winter sports activities",
+        "theme": "recreational_skiing",
+        "setting": "mountain_ski_resort",
+        "individual_count": 2,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": [],
+    "handwritten_notes": [
+      "This is what I am supposed to like !!"
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Three skiing/winter sports photographs",
+    "Top left: Person in orange/red ski outfit on slopes",
+    "Top right: Person in ski lodge or indoor setting",
+    "Bottom: Snowy slope/mountain scene",
+    "Handwritten caption: 'This is what I am suppose to like !!'",
+    "Two exclamation marks suggest emphatic tone",
+    "Sarcastic or reluctant tone about skiing",
+    "Photos show typical ski resort activities",
+    "Winter clothing and equipment visible",
+    "Photos appear to be from 1980s-1990s",
+    "Document stamped HOUSE_OVERSIGHT_000103",
+    "Suggests social pressure to enjoy elite activities"
+  ],
+  "investigative_leads": []
+}

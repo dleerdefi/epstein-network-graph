@@ -1,0 +1,659 @@
+{
+  "page_number": 68,
+  "section": "Island, Israel, Italy and Jeffrey Contacts",
+  "entries": [
+    {
+      "name": "Massage A - Island",
+      "category": "Service",
+      "location": "Island",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Caneel, East Grapetree Salon",
+          "location": "Caneel, East Grapetree Salon",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "Lynn",
+          "number": "340-998-6373 Lynn & Kevin Gray",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        },
+        {
+          "type": "Mattie",
+          "number": "340-776-2414 Mattie Landi",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        },
+        {
+          "type": "Kevin Home",
+          "number": "340-693-8410 Kevin Home",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        },
+        {
+          "type": "Kevin W",
+          "number": "340-693-5974 Kevin W",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        },
+        {
+          "type": "Robert",
+          "number": "340-693-4407 [Robert] (Acupuncture)",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        },
+        {
+          "type": "Gretchen's cell",
+          "number": "340-514-4725 Gretchen's cell",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        }
+      ],
+      "additional_contacts": [
+        "Lynn & Kevin Gray",
+        "Mattie Landi",
+        "Robert (Acupuncture)",
+        "Gretchen"
+      ],
+      "notes": "Massage A - Island services, multiple practitioners",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Massey, Brian",
+      "category": "Personal",
+      "location": "Island",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "340 776 5500",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "340 714 7489",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "brian@yachtaccess.net",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Brian Massey - yacht access",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Roberts, Theresa",
+      "category": "Personal",
+      "location": "Island",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Estate Gift Point Estate",
+          "location": "Estate Gift Point Estate",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "St Thomas St John 00802-1306",
+          "city": "St Thomas St John",
+          "postal_code": "00802-1306",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "340-776-3000 EXT. 2",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        },
+        {
+          "type": "Yacht Point",
+          "number": "340-776-3603",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        },
+        {
+          "type": "Fax",
+          "number": "340-776-1000 FAX",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "info@giftpointestates.com",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Theresa Roberts - Gift Point Estate St Thomas",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Email partially unclear"]
+      }
+    },
+    {
+      "name": "Rompiades, Daniel",
+      "category": "Personal",
+      "location": "Island",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "170 West 23rd Street",
+          "street": "170 West 23rd Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "notes": "Daniel Rompiades - West 23rd Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Rudy (boat)",
+      "category": "Service",
+      "location": "Island",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 666 0911",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 967 4505 W",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Boat services",
+        "Susan Malone Deacon",
+        "Sharpley - Punta Alana",
+        "1750 18 St",
+        "Panama office"
+      ],
+      "notes": "Rudy boat services with Panama office connection",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Sanchez, Carlos",
+      "category": "Personal",
+      "location": "Island",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Puerto Antonia, Republicon #1",
+          "location": "Puerto Antonia, Republicon #1",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "305 15026",
+          "area_code": "305",
+          "geographic_indicator": "Miami",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "00 345 958 150004 H",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 34 958 295346 Off",
+          "area_code": "34",
+          "geographic_indicator": "Spain",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Carlos Sanchez - Puerto Antonia, Spain connection",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Tropical Shipping",
+      "category": "Service",
+      "location": "Island",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Ft Lauderdale FEX 00802",
+          "city": "Ft Lauderdale",
+          "postal_code": "FEX 00802",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "340-776-9500 (T)",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Tropical Shipping - Fort Lauderdale to USVI",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Water Taxi",
+      "category": "Service",
+      "location": "Island",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "340-775-6501",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Water Taxi service",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "ISRAEL",
+      "category": "Section Header",
+      "entries": [],
+      "notes": "Israel section header",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Eshad, Elisa",
+      "category": "Personal",
+      "location": "Israel",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "00 972 55 972 10516",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Elisa@E-[illegible]-hd.gov.il",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Elisa Eshad - Israeli government email",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Email domain partially illegible"]
+      }
+    },
+    {
+      "name": "Evant Daud Eitrat",
+      "category": "Personal",
+      "location": "Israel",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 972 54 500927",
+          "area_code": "972",
+          "geographic_indicator": "Israel",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 972 3 5602 3998 Kikar",
+          "area_code": "972",
+          "geographic_indicator": "Israel",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Daud Eitrat Evant - Israel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Gil Avi",
+      "category": "Personal",
+      "location": "Israel",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 972 67 4115486",
+          "area_code": "972",
+          "geographic_indicator": "Israel",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Email: gil_avi@[illegible].net.il",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Gil Avi - Israel",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Email domain partially illegible"]
+      }
+    },
+    {
+      "name": "Nelms, Yaknof",
+      "category": "Personal",
+      "location": "Israel",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Howard Pins 96 Jerusalem",
+          "street": "Howard Pins 96",
+          "city": "Jerusalem",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 972 50 555 [illegible]",
+          "area_code": "972",
+          "geographic_indicator": "Israel",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "00 972 2 533 2000",
+          "area_code": "972",
+          "geographic_indicator": "Israel",
+          "confidence": "high"
+        },
+        {
+          "type": "H",
+          "number": "0001 212 343 0090 (H)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "Off",
+          "number": "0001 212 583 8787 Off",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "Cell",
+          "number": "0001 917 334 6006",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Yaknof Nelms - Jerusalem and NYC addresses",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One phone number partially illegible"]
+      }
+    },
+    {
+      "name": "Olmert, Ehud",
+      "category": "Personal",
+      "location": "Israel",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 972 3 69000 H",
+          "area_code": "972",
+          "geographic_indicator": "Israel",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 972 2 5303333",
+          "area_code": "972",
+          "geographic_indicator": "Israel",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00972 2 6496514",
+          "area_code": "972",
+          "geographic_indicator": "Israel",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Ehud Olmert - Israeli politician",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "ITALY (I)",
+      "category": "Section Header",
+      "entries": [],
+      "notes": "Italy section header",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Torre di Pisa",
+      "category": "Location/Hotel",
+      "location": "Italy",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Via Marcelle 26",
+          "street": "Via Marcelle 26",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "011 6 20 3201",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "799-60",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Torre di Pisa - Via Marcelle 26",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone numbers unclear"]
+      }
+    },
+    {
+      "name": "Gutman, Arik",
+      "category": "Personal",
+      "location": "Italy",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 972 54-545 [illegible]",
+          "area_code": "972",
+          "geographic_indicator": "Israel",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "00 972-2-537 13003",
+          "area_code": "972",
+          "geographic_indicator": "Israel",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Arik Gutman - Italian section but Israeli phone",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["One phone number partially illegible"]
+      }
+    },
+    {
+      "name": "Train Info",
+      "category": "Service",
+      "location": "Italy",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "019 39 2 80231",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Train Info service Italy",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Jerusalem Hyatt",
+      "category": "Hotel",
+      "location": "Israel",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00-972-2-533-1234",
+          "area_code": "972",
+          "geographic_indicator": "Israel",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Jerusalem Hyatt hotel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "JEFFREY (J)",
+      "category": "Section Header",
+      "entries": [],
+      "notes": "Jeffrey section header",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Jeffrey Entry",
+      "category": "Personal",
+      "location": "Unknown",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "301 East 66th St.",
+          "street": "301 East 66th Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 288 3838",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Apl kardasheds",
+        "Handwritten notation at bottom"
+      ],
+      "notes": "Jeffrey entry - East 66th Street Manhattan",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Handwritten notation unclear"]
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 20,
+    "illegible_entries": 0,
+    "partial_entries": 7,
+    "sections": ["Island continuation", "ISRAEL", "ITALY (I)", "JEFFREY (J)"],
+    "notable_entries": [
+      "Ehud Olmert - Israeli politician with 3 phone numbers",
+      "Massage services - Island with 6 practitioners",
+      "Jeffrey section - 301 East 66th Street Manhattan",
+      "Multiple Israeli government contacts",
+      "USVI shipping and transportation services"
+    ],
+    "geographic_distribution": {
+      "usvi": 8,
+      "israel": 6,
+      "italy": 4,
+      "usa": 2
+    },
+    "location_highlights": [
+      "Gift Point Estate St Thomas",
+      "Jerusalem contacts including Hyatt hotel",
+      "Fort Lauderdale to USVI shipping route",
+      "301 East 66th Street Manhattan (Jeffrey section)"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 13,
+      "medium_confidence": 6,
+      "low_confidence": 1,
+      "specific_issues": [
+        "Several Israeli email domains illegible",
+        "Some phone numbers partially illegible",
+        "Italian phone formats unclear",
+        "Handwritten notations difficult to read"
+      ]
+    }
+  }
+}

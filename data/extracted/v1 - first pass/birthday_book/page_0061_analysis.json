@@ -1,0 +1,94 @@
+{
+  "page_number": 61,
+  "file_path": "data/birthday_book_images/page_0061.png",
+  "file_size_mb": 0.1716747283935547,
+  "type": "handwritten_narrative_with_redactions",
+  "content": {
+    "text": "[REDACTED] & [REDACTED] Two very young girls Probable just 17 & were Riding in My fathers caddy, Park Ave Top Down Smooching it up in cars. Drop dead Laughing. Ocean Reef trip Start off you get speeding ticket, you're with [REDACTED] & here Mothers looking at me Like I'm a Box of candy & shoving food the whole time Down My Mouth. The Boat Ride in [REDACTED] Birthday Present Boat",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "[REDACTED] & [REDACTED] Two very young girls Probable just 17 & were Riding in My fathers caddy, Park Ave Top Down Smooching it up in cars. Drop dead Laughing. Ocean Reef trip Start off you get speeding ticket, you're with [REDACTED] & here Mothers looking at me Like I'm a Box of candy & shoving food the whole time Down My Mouth. The Boat Ride in [REDACTED] Birthday Present Boat",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Ocean Reef"
+    ],
+    "locations": [
+      "Park Ave",
+      "Ocean Reef"
+    ],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Ocean Reef trip narrative",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "handwritten_narrative_with_redactions"
+  },
+  "insights": [
+    "Contains references to 'very young girls' age 17",
+    "Mentions Ocean Reef trip",
+    "Describes car rides and boat activities",
+    "Multiple redactions suggest sensitive content",
+    "References to Cadillac and Park Avenue location"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000061",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.148477",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": [
+      "Multiple black redaction bars throughout text",
+      "Names and identifying information redacted"
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [],
+  "investigative_leads": []
+}

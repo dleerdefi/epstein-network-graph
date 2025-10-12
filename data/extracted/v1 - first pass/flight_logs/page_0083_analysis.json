@@ -1,0 +1,330 @@
+{
+  "page_number": 83,
+  "date_header": "MAY-JUNE 2001",
+  "time_period": "May 2001 - June 2001",
+  "aircraft": {
+    "registration": "Multiple (G-1159B N909JE, C141D N908JM, N908GM, G1159B N908JE)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "MAY 5",
+      "date": "05/05/2001",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1503",
+      "remarks": "PBI - CHS - FORMAN, GT, EMMANUEL, ANDREAS",
+      "passengers": ["FORMAN", "GT", "EMMANUEL", "ANDREAS"],
+      "crew": "1/1 2/6"
+    },
+    {
+      "entry_number": "7",
+      "date": "05/07/2001",
+      "departure": "",
+      "arrival": "CHS",
+      "flight_time": "1504",
+      "remarks": "TEB - JG, GM, GT, EMMA BALDWIN",
+      "passengers": ["JG", "GM", "GT", "EMMA BALDWIN"],
+      "crew": "1"
+    },
+    {
+      "entry_number": "10",
+      "date": "05/10/2001",
+      "departure": "C141D",
+      "arrival": "N908JM",
+      "flight_time": "",
+      "remarks": "PBI - MCN - JENNIFER PARKS, GREG STONE, BB, CHRISTOPHER, PATRICIA GENTRY, BENJAMIN JOHNSTON, ERA KRUM, CATHY JENNIFER TORAL, PRATHER, BENEDICT CASEY, MARCUS",
+      "passengers": ["JENNIFER PARKS", "GREG STONE", "BB", "CHRISTOPHER", "PATRICIA GENTRY", "BENJAMIN JOHNSTON", "ERA KRUM", "CATHY", "JENNIFER TORAL", "PRATHER", "BENEDICT", "CASEY", "MARCUS"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "10",
+      "date": "05/10/2001",
+      "departure": "",
+      "arrival": "MCN",
+      "flight_time": "",
+      "remarks": "27K - CHRISTOPHER",
+      "passengers": ["CHRISTOPHER"],
+      "crew": "2/7"
+    },
+    {
+      "entry_number": "10",
+      "date": "05/10/2001",
+      "departure": "",
+      "arrival": "27K",
+      "flight_time": "",
+      "remarks": "OSU - LARRY ANDERSON",
+      "passengers": ["LARRY ANDERSON"],
+      "crew": "1/2"
+    },
+    {
+      "entry_number": "10",
+      "date": "05/10/2001",
+      "departure": "",
+      "arrival": "OSU",
+      "flight_time": "",
+      "remarks": "JAX - BARRY HAVORD, CVS, GREGG SONS",
+      "passengers": ["BARRY HAVORD", "CVS", "GREGG SONS"],
+      "crew": "1/2"
+    },
+    {
+      "entry_number": "11",
+      "date": "05/11/2001",
+      "departure": "",
+      "arrival": "JUV",
+      "flight_time": "",
+      "remarks": "27K - JW, BROADCAST",
+      "passengers": ["JW", "BROADCAST"],
+      "crew": "7"
+    },
+    {
+      "entry_number": "12",
+      "date": "05/12/2001",
+      "departure": "",
+      "arrival": "27K",
+      "flight_time": "",
+      "remarks": "LAS - JW, BROADCAST",
+      "passengers": ["JW", "BROADCAST"],
+      "crew": "7"
+    },
+    {
+      "entry_number": "13",
+      "date": "05/13/2001",
+      "departure": "",
+      "arrival": "LAS",
+      "flight_time": "",
+      "remarks": "SNV - RYAN STEPHENS, MARY, KATHY, ROBERT HILL, PETER BEATA MOSCOW, CHRIS RICHARD, GORDON",
+      "passengers": ["RYAN STEPHENS", "MARY", "KATHY", "ROBERT HILL", "PETER", "BEATA MOSCOW", "CHRIS RICHARD", "GORDON"],
+      "crew": "3/0"
+    },
+    {
+      "entry_number": "13",
+      "date": "05/13/2001",
+      "departure": "",
+      "arrival": "SNV",
+      "flight_time": "",
+      "remarks": "PBI - ERICA VISIT, AGNES",
+      "passengers": ["ERICA VISIT", "AGNES"],
+      "crew": "1/8"
+    },
+    {
+      "entry_number": "14",
+      "date": "05/14/2001",
+      "departure": "G1159B",
+      "arrival": "N908JE",
+      "flight_time": "1506",
+      "remarks": "TEB - ESM, GR, BVR, ELEANOR",
+      "passengers": ["ESM", "GR", "BVR", "ELEANOR"],
+      "crew": "3/9"
+    },
+    {
+      "entry_number": "20",
+      "date": "05/20/2001",
+      "departure": "C141B",
+      "arrival": "N908GM",
+      "flight_time": "",
+      "remarks": "PBI - ESM, NELSON, ALEXIS",
+      "passengers": ["ESM", "NELSON", "ALEXIS"],
+      "crew": "1/1"
+    },
+    {
+      "entry_number": "20",
+      "date": "05/20/2001",
+      "departure": "",
+      "arrival": "ESM",
+      "flight_time": "",
+      "remarks": "PBI - SUSAN GRANT, PAULA AUDREY",
+      "passengers": ["SUSAN GRANT", "PAULA AUDREY"],
+      "crew": "1/1"
+    },
+    {
+      "entry_number": "24",
+      "date": "05/24/2001",
+      "departure": "C1159B",
+      "arrival": "N908JE",
+      "flight_time": "1507",
+      "remarks": "TEB - PBI - JG, GM, GT, AY, PALMIKA",
+      "passengers": ["JG", "GM", "GT", "AY", "PALMIKA"],
+      "crew": "2/6"
+    },
+    {
+      "entry_number": "25",
+      "date": "05/25/2001",
+      "departure": "C141B",
+      "arrival": "N908GM",
+      "flight_time": "",
+      "remarks": "PBI - LAL - PATSY, NELSON, ALEXIS",
+      "passengers": ["PATSY", "NELSON", "ALEXIS"],
+      "crew": "1/3"
+    },
+    {
+      "entry_number": "26",
+      "date": "05/26/2001",
+      "departure": "",
+      "arrival": "LAL",
+      "flight_time": "",
+      "remarks": "MCN - PATSY, DEBBIE, ALLISON, SCOT, DONALD, VINCE, TERRY, NANCY LAMAR, IRA",
+      "passengers": ["PATSY", "DEBBIE", "ALLISON", "SCOT", "DONALD", "VINCE", "TERRY", "NANCY LAMAR", "IRA"],
+      "crew": "1/2"
+    },
+    {
+      "entry_number": "27",
+      "date": "05/27/2001",
+      "departure": "",
+      "arrival": "MCN",
+      "flight_time": "",
+      "remarks": "TSTA - PATSY NELSON, JJ",
+      "passengers": ["PATSY", "NELSON", "JJ"],
+      "crew": "1/8"
+    },
+    {
+      "entry_number": "28",
+      "date": "05/28/2001",
+      "departure": "",
+      "arrival": "TSTA",
+      "flight_time": "",
+      "remarks": "PBI - PATSY, KRIST, LEW, BRANDON, B CHRIS, B CHRISTOPHER, JACK",
+      "passengers": ["PATSY", "KRIST", "LEW", "BRANDON", "B CHRIS", "B CHRISTOPHER", "JACK"],
+      "crew": "1/1"
+    },
+    {
+      "entry_number": "29",
+      "date": "05/29/2001",
+      "departure": "G1159B",
+      "arrival": "N908JE",
+      "flight_time": "1509",
+      "remarks": "PBI - TEB - JG, GM, GT, AY, JOEL, MARK BAIN, MARCI, NICKY LAMAR",
+      "passengers": ["JG", "GM", "GT", "AY", "JOEL", "MARK BAIN", "MARCI", "NICKY LAMAR"],
+      "crew": "2/5"
+    }
+  ],
+  "entities": {
+    "people": [
+      "FORMAN",
+      "GT",
+      "EMMANUEL",
+      "ANDREAS",
+      "JG",
+      "GM",
+      "EMMA BALDWIN",
+      "JENNIFER PARKS",
+      "GREG STONE",
+      "BB",
+      "CHRISTOPHER",
+      "PATRICIA GENTRY",
+      "BENJAMIN JOHNSTON",
+      "ERA KRUM",
+      "CATHY",
+      "JENNIFER TORAL",
+      "PRATHER",
+      "BENEDICT",
+      "CASEY",
+      "MARCUS",
+      "LARRY ANDERSON",
+      "BARRY HAVORD",
+      "CVS",
+      "GREGG SONS",
+      "JW",
+      "BROADCAST",
+      "RYAN STEPHENS",
+      "MARY",
+      "KATHY",
+      "ROBERT HILL",
+      "PETER",
+      "BEATA MOSCOW",
+      "CHRIS RICHARD",
+      "GORDON",
+      "ERICA VISIT",
+      "AGNES",
+      "ESM",
+      "GR",
+      "BVR",
+      "ELEANOR",
+      "NELSON",
+      "ALEXIS",
+      "SUSAN GRANT",
+      "PAULA AUDREY",
+      "AY",
+      "PALMIKA",
+      "PATSY",
+      "DEBBIE",
+      "ALLISON",
+      "SCOT",
+      "DONALD",
+      "VINCE",
+      "TERRY",
+      "NANCY LAMAR",
+      "IRA",
+      "JJ",
+      "KRIST",
+      "LEW",
+      "BRANDON",
+      "B CHRIS",
+      "B CHRISTOPHER",
+      "JACK",
+      "JOEL",
+      "MARK BAIN",
+      "MARCI",
+      "NICKY LAMAR",
+      "David Rodgers"
+    ],
+    "locations": [
+      "PBI",
+      "CHS",
+      "TEB",
+      "MCN",
+      "27K",
+      "OSU",
+      "JAX",
+      "JUV",
+      "LAS",
+      "SNV",
+      "ESM",
+      "LAL",
+      "TSTA"
+    ],
+    "aircraft": [
+      "G-1159B",
+      "N909JE",
+      "C141D",
+      "N908JM",
+      "N908GM",
+      "G1159B",
+      "N908JE",
+      "C141B",
+      "C1159B"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": [
+      "FILE 117 TIMES ACKNOWLEDGES TO THANK MIKE SCOTT AIRLINES ASSOCIATION"
+    ]
+  },
+  "metadata": {
+    "page_total": "3/3",
+    "amount_forward": "8203",
+    "total_to_date": "8233",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page covers May 2001 entries only",
+    "Large group flight on May 10 with 13+ passengers",
+    "Multiple aircraft types used including N908JM and N909JE variants",
+    "West Coast operations continue (LAS, SNV)",
+    "Susan Grant appears as passenger",
+    "Flight numbers reach 1509",
+    "Mix of domestic operations",
+    "Multiple charter operations with various passenger groups",
+    "Handwritten note about thanking Mike Scott Airlines Association",
+    "No June entries despite date header"
+  ]
+}

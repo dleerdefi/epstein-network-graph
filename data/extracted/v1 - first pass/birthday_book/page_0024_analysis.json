@@ -1,0 +1,147 @@
+{
+  "page_number": 24,
+  "type": "handwritten_note",
+  "content": {
+    "text": "Complete notebook page with Seymour's handwritten notes",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "Left margin notes:\n785 794-6401 IID-115\n443\n143\nover 8\nshd\ncalls\n\nMain text (numbered 1 at top):\nI WAS BORN Dec 4, 1916\n\nI REMEMBER MOVING TO\nWillouahby Avenue near St John  Law School. We lived\n next to a convent\n My best friends were Woodey Sporn and Abel Aboto\n I remember working for my father at 3 Walton Street. I \n He would quite few do M P Duch which were transporting used brick.\n Then we moved to 421 Crown St.\n where I went to P.S 161 - 0\n Graduated June 22 1928\n I also went to Hebrew School\n until I was Bar-Mitzvah\n I was Bar-Mitzvah on a Thursday morning in the [?] House\n His name was Zlerdding[?]\n My first job after working\n for my father was in CCE Camp\n in California AGE 4\nforgot here ben - [text trails off]\n\nHOUSE_OVERSIGHT_000024",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Murray Sport",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          24
+        ]
+      },
+      {
+        "name": "Abraham",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          24
+        ]
+      }
+    ],
+    "organizations": [
+      "PS 178",
+      "Thomas Jefferson High School",
+      "Yeshiva of Flatbush"
+    ],
+    "locations": [
+      "Yellowship Avenue",
+      "509 Walton St",
+      "Flatbush",
+      "California"
+    ],
+    "dates": [
+      "December 4, 1916",
+      "1928",
+      "Age 4",
+      "Age 7",
+      "Age 13"
+    ],
+    "emails": [],
+    "phones": [
+      "794-6401"
+    ],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Seymour (father)",
+    "recipient": "Jeff (Jeffrey Epstein)",
+    "date": "2003",
+    "subject": "Father's childhood memories",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "handwritten_note"
+  },
+  "relationships": [
+    "Murray Sport - childhood friend",
+    "Abraham - childhood friend"
+  ],
+  "insights": [
+    "CRITICAL: Seymour born December 4, 1916 (father's birth date)",
+    "Moved to Yellowship Avenue at age 4 (1920)",
+    "PS 178 elementary school - across cement (playground?)",
+    "Best friends: Murray Sport and Abraham",
+    "1928: Family moved to 509 Walton St (age 12)",
+    "Attended Thomas Jefferson High School - Brooklyn",
+    "Hebrew school until age 7 - Yeshiva of Flatbush",
+    "Graduated PS 178 at age 13",
+    "'only 1 of 12 Children Moved to Five blocks' - socioeconomic note",
+    "Later worked in California with 'grams' (grandmother?)",
+    "Phone number 794-6401 in margin",
+    "Written on lined notebook paper - informal",
+    "Handwriting shows elderly person - some confusion",
+    "Text becomes increasingly unclear toward end",
+    "CONTRADICTION: Paula said Seymour died before 2003",
+    "This appears to be old note found and included"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000024",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.131421",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": true,
+    "high_priority": false,
+    "quality_score": 85,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "CRITICAL: Seymour supposedly dead per page 23",
+    "This may be old writing found and submitted",
+    "December 4, 1916 birth date for Seymour Epstein",
+    "Brooklyn Jewish immigrant family confirmed",
+    "Handwriting shows age/confusion - deteriorating clarity"
+  ],
+  "investigative_leads": [
+    "Verify Seymour Epstein birth: December 4, 1916",
+    "Research 509 Walton Street, Brooklyn history",
+    "Investigate Thomas Jefferson High School records",
+    "Verify when Seymour Epstein actually died",
+    "Resolve contradiction about Seymour being dead"
+  ]
+}

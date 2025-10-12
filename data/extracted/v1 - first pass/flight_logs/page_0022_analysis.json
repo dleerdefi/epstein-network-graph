@@ -1,0 +1,366 @@
+{
+  "page_number": 22,
+  "file_path": "data/flight_logs_images/page-022.png",
+  "type": "aircraft_flight_log",
+  "content": {
+    "text": "DATE 1993 JUL | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARKS | POINTS OF DEPARTURE & ARRIVAL | FROM | TO | MILEAGE | FLT TIME | REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS | AIRCRAFT CATEGORY\n\n12 '' N908JE TGB CDYF 1.5 366 JEFFREY, GINA ALAM\n13 '' '' '' '' '' '' ''\n14 '' '' CDC BUS 1.5 367 GINA ALAM, STEPHANIE\n15 '' '' '' '' 2.5 368 GINA ALAM, STEPHANIE\n16 '' '' '' '' '' '' ''\n17 '' '' BJS YGBR 2.5 369 JEFFREY, STEVE ALAM\n18 '' '' '' '' '' '' ''\n19 '' '' BJS LGP 2.5 370 JEFFREY, ANETTE, MARIE\n20 '' '' '' '' 1.5 371 JEFFREY, ANETTE, MARIE\n21 '' '' '' '' '' '' ''\n22 '' '' HLB HMGT 1.5 372 JEFFREY, GINA ALAM\n23 '' '' CDI HFKD 2.5 373 JEFFREY, LYN MARIE, RICARDO LYN, TOM LYN, NANCY LYN, GINA\n24 '' '' BDA CDI 1.5 374 JEFFREY, GINA ALAM\n25 '' '' '' '' 2.5 375 JEFFREY, GINA ALAM\n26 '' '' CHLA GOCAL 2.5 376 JEFFREY, MARIE ANN, MARIE\n27 '' '' '' '' 1.5 377 JEFFREY, MARIE ANN, MARIE\n28 '' '' BCS GOCAL 2.5 378 JEFFREY, MARIE ANN, MARIE\n29 '' '' CHLA AFL 1.5 379 GINA ALAN\n30 '' '' '' '' 1.5 380 GINA ALAN\n31 '' '' ECH AFL 2.5 381 GINA ALAN\n\nPAGE TOTAL\nAMT. FORWARD 38.5 + 33.5 = 72.0\nTOTAL TO DATE 5543 + 4543 = 10086\n\nI certify that the statements made by me on this form are true.\n\nPILOT'S SIGNATURE David Rodgers",
+    "handwritten": true,
+    "typed": false,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "Complete cell-by-cell transcription provided above",
+      "flight_records": [
+        {
+          "date": "8/12/93",
+          "departure": "TGB",
+          "arrival": "CDYF",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Gina Alam"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GINA ALAM"
+        },
+        {
+          "date": "8/14/93",
+          "departure": "CDC",
+          "arrival": "BUS",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Gina Alam", "Stephanie"],
+          "pilot": "David Rodgers",
+          "notes": "GINA ALAM, STEPHANIE"
+        },
+        {
+          "date": "8/15/93",
+          "departure": "BUS",
+          "arrival": "BUS",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Gina Alam", "Stephanie"],
+          "pilot": "David Rodgers",
+          "notes": "GINA ALAM, STEPHANIE"
+        },
+        {
+          "date": "8/17/93",
+          "departure": "BJS",
+          "arrival": "YGBR",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Steve Alam"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, STEVE ALAM"
+        },
+        {
+          "date": "8/19/93",
+          "departure": "BJS",
+          "arrival": "LGP",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Anette", "Marie"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, ANETTE, MARIE"
+        },
+        {
+          "date": "8/20/93",
+          "departure": "LGP",
+          "arrival": "LGP",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Anette", "Marie"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, ANETTE, MARIE"
+        },
+        {
+          "date": "8/22/93",
+          "departure": "HLB",
+          "arrival": "HMGT",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Gina Alam"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GINA ALAM"
+        },
+        {
+          "date": "8/23/93",
+          "departure": "CDI",
+          "arrival": "HFKD",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Lyn Marie", "Ricardo Lyn", "Tom Lyn", "Nancy Lyn", "Gina"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, LYN MARIE, RICARDO LYN, TOM LYN, NANCY LYN, GINA"
+        },
+        {
+          "date": "8/24/93",
+          "departure": "BDA",
+          "arrival": "CDI",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Gina Alam"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GINA ALAM"
+        },
+        {
+          "date": "8/25/93",
+          "departure": "CDI",
+          "arrival": "CDI",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Gina Alam"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GINA ALAM"
+        },
+        {
+          "date": "8/26/93",
+          "departure": "CHLA",
+          "arrival": "GOCAL",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Marie Ann", "Marie"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, MARIE ANN, MARIE"
+        },
+        {
+          "date": "8/27/93",
+          "departure": "GOCAL",
+          "arrival": "GOCAL",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Marie Ann", "Marie"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, MARIE ANN, MARIE"
+        },
+        {
+          "date": "8/28/93",
+          "departure": "BCS",
+          "arrival": "GOCAL",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Marie Ann", "Marie"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, MARIE ANN, MARIE"
+        },
+        {
+          "date": "8/29/93",
+          "departure": "CHLA",
+          "arrival": "AFL",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Gina Alan"],
+          "pilot": "David Rodgers",
+          "notes": "GINA ALAN"
+        },
+        {
+          "date": "8/30/93",
+          "departure": "AFL",
+          "arrival": "AFL",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Gina Alan"],
+          "pilot": "David Rodgers",
+          "notes": "GINA ALAN"
+        },
+        {
+          "date": "8/31/93",
+          "departure": "ECH",
+          "arrival": "AFL",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Gina Alan"],
+          "pilot": "David Rodgers",
+          "notes": "GINA ALAN"
+        }
+      ],
+      "date_header": "DATE 1993 AUG",
+      "date_range": "August 1993",
+      "starting_month": "August",
+      "starting_year": "1993"
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey",
+        "context": "Primary passenger appearing frequently",
+        "occurrences": 9
+      },
+      {
+        "name": "Gina Alam",
+        "context": "Frequent passenger - appears multiple times",
+        "occurrences": 5
+      },
+      {
+        "name": "Gina Alan",
+        "context": "Frequent passenger - possibly same as Gina Alam with spelling variation",
+        "occurrences": 3
+      },
+      {
+        "name": "Stephanie",
+        "context": "Passenger - travels with Gina Alam",
+        "occurrences": 2
+      },
+      {
+        "name": "Steve Alam",
+        "context": "Passenger - continues from previous page",
+        "occurrences": 1
+      },
+      {
+        "name": "Anette",
+        "context": "Passenger - travels with Jeffrey and Marie",
+        "occurrences": 2
+      },
+      {
+        "name": "Marie",
+        "context": "Passenger - appears multiple times with different companions",
+        "occurrences": 5
+      },
+      {
+        "name": "Lyn Marie",
+        "context": "Passenger - member of Lyn family group",
+        "occurrences": 1
+      },
+      {
+        "name": "Ricardo Lyn",
+        "context": "Passenger - member of Lyn family group",
+        "occurrences": 1
+      },
+      {
+        "name": "Tom Lyn",
+        "context": "Passenger - member of Lyn family group",
+        "occurrences": 1
+      },
+      {
+        "name": "Nancy Lyn",
+        "context": "Passenger - member of Lyn family group",
+        "occurrences": 1
+      },
+      {
+        "name": "Gina",
+        "context": "Passenger - possibly same as Gina Alam/Alan",
+        "occurrences": 1
+      },
+      {
+        "name": "Marie Ann",
+        "context": "Passenger - travels with Jeffrey and Marie",
+        "occurrences": 3
+      },
+      {
+        "name": "David Rodgers",
+        "context": "Pilot signature",
+        "occurrences": 1
+      }
+    ],
+    "locations": [
+      {
+        "code": "TGB",
+        "context": "Airport code - continues from previous page"
+      },
+      {
+        "code": "CDYF",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "CDC",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "BUS",
+        "context": "Airport code - frequent location"
+      },
+      {
+        "code": "BJS",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "YGBR",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "LGP",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "HLB",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "HMGT",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "CDI",
+        "context": "Airport code - frequent location"
+      },
+      {
+        "code": "HFKD",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "BDA",
+        "context": "Airport code - new location, likely Bermuda"
+      },
+      {
+        "code": "CHLA",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "GOCAL",
+        "context": "Airport code - frequent destination"
+      },
+      {
+        "code": "BCS",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "AFL",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "ECH",
+        "context": "Airport code - new location"
+      }
+    ],
+    "aircraft": [
+      {
+        "registration": "N908JE",
+        "context": "Primary aircraft used for all flights"
+      }
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "signature": "David Rodgers",
+        "context": "Pilot's signature at bottom of page",
+        "deciphered": true
+      }
+    ],
+    "stamps": [],
+    "handwriting_analysis": "Consistent handwriting throughout, same person filling out all entries. Notable introduction of Lyn family group and Gina Alam/Alan name variations.",
+    "page_totals": {
+      "mileage": "38.5 + 33.5 = 72.0",
+      "total_to_date": "5543 + 4543 = 10086"
+    }
+  },
+  "metadata": {
+    "time_period": "August 1993",
+    "total_flights": 16,
+    "unique_passengers": 14,
+    "primary_aircraft": "N908JE",
+    "pilot": "David Rodgers"
+  },
+  "insights": [
+    "Complete August 1993 coverage, continuing chronologically from page 21",
+    "Gina Alam/Alan/Gina appears to be same person with name variations",
+    "Introduction of Lyn family group - all members travel together on August 23",
+    "BDA likely refers to Bermuda - significant Atlantic destination",
+    "Pattern of same-day returns continues with multiple location repeats",
+    "Marie appears with different combinations - with Anette and with Marie Ann",
+    "Flight numbering continues sequential pattern (366-381)",
+    "Total mileage exceeds 10,000 for cumulative record",
+    "Some passengers travel without Jeffrey (Gina alone on multiple flights)",
+    "GOCAL becomes frequent destination for extended stays",
+    "Family groups and individual travelers mixed throughout month",
+    "Significant geographic expansion with new Caribbean/Atlantic destinations"
+  ]
+}

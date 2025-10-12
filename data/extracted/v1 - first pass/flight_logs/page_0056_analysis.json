@@ -1,0 +1,276 @@
+{
+  "page_number": 56,
+  "date_header": "MAY 1998",
+  "time_period": "May 1998 - June 1998",
+  "aircraft": {
+    "registration": "G1159B N908JE",
+    "type": "G1159B"
+  },
+  "flight_records": [
+    {
+      "entry_number": "7",
+      "date": "05/07/1998",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "1108",
+      "remarks": "JE, ET",
+      "passengers": ["JE", "ET"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "9",
+      "date": "05/09/1998",
+      "departure": "PBI",
+      "arrival": "TJSJ",
+      "flight_time": "1109",
+      "remarks": "JE, ET, CLARENCE, CLAIR HAZEL",
+      "passengers": ["JE", "ET", "CLARENCE", "CLAIR HAZEL"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "11",
+      "date": "05/11/1998",
+      "departure": "TJSJ",
+      "arrival": "TEB",
+      "flight_time": "1110",
+      "remarks": "JE, GM, ET, CLAIRE HAZEL, CHRIS TUCKER",
+      "passengers": ["JE", "GM", "ET", "CLAIRE HAZEL", "CHRIS TUCKER"],
+      "crew": ""
+    },
+    {
+      "entry_number": "15",
+      "date": "05/15/1998",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "1111",
+      "remarks": "JE, SANDY ELLISON",
+      "passengers": ["JE", "SANDY ELLISON"],
+      "crew": ""
+    },
+    {
+      "entry_number": "17",
+      "date": "05/17/1998",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "",
+      "remarks": "JE",
+      "passengers": ["JE"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "18",
+      "date": "05/18/1998",
+      "departure": "TEB",
+      "arrival": "MDW",
+      "flight_time": "1113",
+      "remarks": "GM, ET, ALBERTO PINTO, XAVIER",
+      "passengers": ["GM", "ET", "ALBERTO PINTO", "XAVIER"],
+      "crew": ""
+    },
+    {
+      "entry_number": "18",
+      "date": "05/18/1998",
+      "departure": "MDW",
+      "arrival": "SAF",
+      "flight_time": "1114",
+      "remarks": "GM, ET, ALBERTO PINTO, LAURIE, STACEY AUBREY",
+      "passengers": ["GM", "ET", "ALBERTO PINTO", "LAURIE", "STACEY AUBREY"],
+      "crew": ""
+    },
+    {
+      "entry_number": "20",
+      "date": "05/20/1998",
+      "departure": "SAF",
+      "arrival": "LAX",
+      "flight_time": "1115",
+      "remarks": "JE, GM, ET, ALBERTO PASCONI",
+      "passengers": ["JE", "GM", "ET", "ALBERTO PASCONI"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "20",
+      "date": "05/20/1998",
+      "departure": "LAX",
+      "arrival": "TEB",
+      "flight_time": "1116",
+      "remarks": "GM, ALBERTO PASCONI",
+      "passengers": ["GM", "ALBERTO PASCONI"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "JUNE 4",
+      "date": "06/04/1998",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "1117",
+      "remarks": "JE, MANDY ELLISON, 1 FEMALE",
+      "passengers": ["JE", "MANDY ELLISON", "1 FEMALE"],
+      "crew": ""
+    },
+    {
+      "entry_number": "8",
+      "date": "06/08/1998",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "1118",
+      "remarks": "JE, GWENDOLYN BECK, 1 FEMALE",
+      "passengers": ["JE", "GWENDOLYN BECK", "1 FEMALE"],
+      "crew": ""
+    },
+    {
+      "entry_number": "12",
+      "date": "06/12/1998",
+      "departure": "TEB",
+      "arrival": "TJSJ",
+      "flight_time": "1119",
+      "remarks": "JE, GM, ET, DON WARD, 1 FEMALE",
+      "passengers": ["JE", "GM", "ET", "DON WARD", "1 FEMALE"],
+      "crew": ""
+    },
+    {
+      "entry_number": "15",
+      "date": "06/15/1998",
+      "departure": "TJSJ",
+      "arrival": "JFK",
+      "flight_time": "1120",
+      "remarks": "JE, GM, ET, CLAIRE HAZEL, MARANDA",
+      "passengers": ["JE", "GM", "ET", "CLAIRE HAZEL", "MARANDA"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "18",
+      "date": "06/18/1998",
+      "departure": "JFK",
+      "arrival": "PBI",
+      "flight_time": "1121",
+      "remarks": "JE, PEPE FANJUL, JHOON",
+      "passengers": ["JE", "PEPE FANJUL", "JHOON"],
+      "crew": ""
+    },
+    {
+      "entry_number": "21",
+      "date": "06/21/1998",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "1122",
+      "remarks": "JE, RALPH ELLISON, CINDY, GWENDOLYN BECK",
+      "passengers": ["JE", "RALPH ELLISON", "CINDY", "GWENDOLYN BECK"],
+      "crew": ""
+    },
+    {
+      "entry_number": "23",
+      "date": "06/23/1998",
+      "departure": "TEB",
+      "arrival": "BGD",
+      "flight_time": "1123",
+      "remarks": "JE",
+      "passengers": ["JE"],
+      "crew": ""
+    },
+    {
+      "entry_number": "23",
+      "date": "06/23/1998",
+      "departure": "BGD",
+      "arrival": "ENBR",
+      "flight_time": "",
+      "remarks": "JE, HENRY ROSOVSKY, BOBBI, JANN WENNER",
+      "passengers": ["JE", "HENRY ROSOVSKY", "BOBBI", "JANN WENNER"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "26",
+      "date": "06/26/1998",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "1125",
+      "remarks": "JE, GM, MELINDA LUNTZ, CINDY, GWENDOLYN",
+      "passengers": ["JE", "GM", "MELINDA LUNTZ", "CINDY", "GWENDOLYN"],
+      "crew": ""
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "GM",
+      "ET",
+      "CLARENCE",
+      "CLAIR HAZEL",
+      "CLAIRE HAZEL",
+      "CHRIS TUCKER",
+      "SANDY ELLISON",
+      "ALBERTO PINTO",
+      "XAVIER",
+      "LAURIE",
+      "STACEY AUBREY",
+      "ALBERTO PASCONI",
+      "MANDY ELLISON",
+      "1 FEMALE",
+      "GWENDOLYN BECK",
+      "DON WARD",
+      "MARANDA",
+      "PEPE FANJUL",
+      "JHOON",
+      "RALPH ELLISON",
+      "CINDY",
+      "HENRY ROSOVSKY",
+      "BOBBI",
+      "JANN WENNER",
+      "MELINDA LUNTZ",
+      "GWENDOLYN",
+      "David Rodgers"
+    ],
+    "locations": [
+      "TEB",
+      "PBI",
+      "TJSJ",
+      "MDW",
+      "SAF",
+      "LAX",
+      "JFK",
+      "BGD",
+      "ENBR"
+    ],
+    "aircraft": [
+      "G1159B",
+      "N908JE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": [
+      {
+        "location": "bottom",
+        "content": "TOTAL D1 BOTTOM OF PAGE REPORTED TO ENSURANCE CAPTAIN",
+        "description": "Certification note"
+      }
+    ]
+  },
+  "metadata": {
+    "page_total": "56",
+    "amount_forward": "12069",
+    "total_to_date": "12506",
+    "document_quality": "good",
+    "legibility": "clear"
+  },
+  "insights": [
+    "Page transitions from May 1998 to June 1998",
+    "Chris Tucker (actor/comedian) appears as passenger on May 11",
+    "Pepe Fanjul (sugar baron) appears as passenger on June 18",
+    "Jann Wenner (Rolling Stone founder) appears as passenger on June 23",
+    "Henry Rosovsky (Harvard dean/economist) appears as passenger",
+    "Alberto Pinto (interior designer) appears multiple times",
+    "Gwendolyn Beck appears as recurring passenger",
+    "Claire/Clair Hazel appears multiple times",
+    "San Juan, Puerto Rico (TJSJ) frequent destination",
+    "Multiple unidentified females noted as '1 FEMALE'",
+    "Flight numbers exceeding 1125",
+    "Mix of celebrities, business leaders, and academics as passengers"
+  ]
+}

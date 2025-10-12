@@ -1,0 +1,729 @@
+{
+  "page_number": 37,
+  "alphabetical_section": "M",
+  "contacts": [
+    {
+      "name": "Maxwell, Marcella",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "127 Kent Road",
+          "street": "127 Kent Road",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SE1",
+          "city": "London",
+          "postal_code": "SE1",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 500 1277 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Mayhew, Mr John",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Royal Opera Lewisham",
+          "organization": "Royal Opera Lewisham",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Box 2, WC2E 7QA",
+          "postal_code": "WC2E 7QA",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "XX London WC2E",
+          "postal_code": "WC2E",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 240 1200 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 836 6[71] (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 499 5314 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Mazenel, Yessi",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "47 Charlotte Street",
+          "street": "47 Charlotte Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London W1P 1",
+          "city": "London",
+          "postal_code": "W1P 1",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 691 4590 (h)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 718 414 656 (w)",
+          "area_code": "718",
+          "geographic_indicator": "Brooklyn/Queens, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 XX 3299 (m)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Mazzoli, Mateo",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 39 335 1331 3432",
+          "country_code": "39",
+          "area_code": "335",
+          "geographic_indicator": "Italy mobile",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "MC & Alienor",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Little Alder",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Home Barn, Haddenham",
+          "city": "Haddenham",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00134 0788",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "01844 291036",
+          "area_code": "01844",
+          "geographic_indicator": "Thame, UK",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0374 8317641(m)",
+          "area_code": "0374",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "mcallen[illegible]@syngenta.com"
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "0831 661 488 Mobile",
+          "area_code": "0831",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "McAlpine Allister & Romilly",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "36 The Cedars",
+          "street": "36 The Cedars",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Stone House Close",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "Putney London SW15",
+          "city": "Putney London",
+          "postal_code": "SW15",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "SW15 1TL",
+          "postal_code": "SW15 1TL",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0208 785 5541 (h)",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0802 2017100027",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "McDonald, John",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 966 2727 (w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "McFarland, Anthony",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 508 357 2121 (h)",
+          "area_code": "508",
+          "geographic_indicator": "Massachusetts",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 508 892 4434 (w)",
+          "area_code": "508",
+          "geographic_indicator": "Massachusetts",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "McKenzie, Raymond",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "305 Maple Ave East",
+          "street": "305 Maple Ave East",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Vienna VA 22180",
+          "city": "Vienna",
+          "state": "VA",
+          "postal_code": "22180",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 799 1109 Ringsley",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Mclancy, Cas",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "New York, NY 10021",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 734 2003",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "631 612 968 1386 (h)",
+          "area_code": "631",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "[illegible]@aol.nydealer.com"
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "001 917 293 7301",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "McInns, Shannon",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "515 W23rd",
+          "street": "515 W23rd",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Suite 12-7",
+          "unit": "Suite 12-7",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 886 4210",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Meleod Jack & Pru",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "4 Cambridge Road",
+          "street": "4 Cambridge Road",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW11",
+          "city": "London",
+          "postal_code": "SW11",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 924 8855(h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Meister, Todd",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "759 Boulevard Marterey",
+          "street": "759 Boulevard Marterey",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York, NY",
+          "city": "New York",
+          "state": "NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 701 5050",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 478 233636",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "[illegible]@meijerfinancebanks.com"
+      ],
+      "addresses_additional": [
+        {
+          "type": "secondary",
+          "address": "Hotel Barnes Avis [CA]",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "(Palm Beach) FL 33480",
+          "city": "Palm Beach",
+          "state": "FL",
+          "postal_code": "33480",
+          "confidence": "high"
+        }
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "561 833 XXX[XXX]",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach, FL",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "212 478 6270 (w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 478 4398",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "New[address]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "212 288 4400 Ringsley",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Mendoza, Neil",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "114 Whitton Gardens",
+          "street": "114 Whitton Gardens",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW3 3RX",
+          "city": "London",
+          "postal_code": "SW3 3RX",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 351 6055 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "314 753 9066 (h)",
+          "area_code": "314",
+          "geographic_indicator": "St. Louis, MO",
+          "confidence": "high"
+        }
+      ],
+      "addresses_additional": [
+        {
+          "type": "secondary",
+          "address": "20 New Road Street",
+          "street": "20 New Road Street",
+          "confidence": "medium"
+        },
+        {
+          "type": "secondary",
+          "address": "London EC2[illegible]",
+          "city": "London",
+          "postal_code": "EC2",
+          "geographic_indicator": "City of London",
+          "confidence": "medium"
+        }
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "0207194 9300 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 154 9389 [fix]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Mendez, Kate",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "104 Pennsylvania House",
+          "street": "104 Pennsylvania House",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Dryden St WXXXX",
+          "street": "Dryden St",
+          "postal_code": "WXXXX",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 836 6777",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 491 03444 fix",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Mendelson, Guy & Caroline",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 439 3221",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Merivale-Austen, Bruce",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "26 Manor Vil",
+          "street": "26 Manor Vil",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London NW9",
+          "city": "London",
+          "postal_code": "NW9",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "London SW6",
+          "city": "London",
+          "postal_code": "SW6",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 381 2939 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Mendoza, Neil",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "851 903 6112 Wills",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "916 218 XXX",
+          "area_code": "916",
+          "geographic_indicator": "Sacramento, CA",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "212 916 8981 West Work UK",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 18,
+    "quality": "fair",
+    "legibility": "moderate degradation",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "Royal Opera connection (Mr John Mayhew)"
+    ]
+  },
+  "insights": [
+    "Royal Opera Lewisham connection",
+    "Strong Massachusetts presence (508 area code)",
+    "Vienna, Virginia connection",
+    "Long Island NY presence (631)",
+    "Palm Beach, Florida connection (561)",
+    "St. Louis, Missouri connection (314)",
+    "Sacramento, California connection (916)",
+    "Italy mobile connection",
+    "Thame/Haddenham UK area (01844)",
+    "Mix of London financial district (EC2) and residential areas"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "high",
+    "total_contacts": 18,
+    "high_confidence": 14,
+    "medium_confidence": 4,
+    "low_confidence": 0,
+    "extraction_issues": [
+      "Some addresses partially illegible",
+      "A few phone numbers incomplete",
+      "Moderate page quality compared to previous pages"
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "page_number": 22,
+  "type": "handwritten_letter_continued",
+  "content": {
+    "text": "Complete page 3 of Paula's letter with all text",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "After a time you switched to\nPiano because Mr. Jerome Jolles recommended\nyou to Interlochen where you had fun.\nI don't know if it improved your Piano.\nToday you own a Log cabin there.\n\nAT age 27 Cosmopolitan Magazine\nfeatured you as \"Bachelor of the Month.\"\nToday you still hold that TITLE.\n\nWe objected 100% your going to\nEurope at that time. After graduation\nwe would have been to it you would\nTravel as a Gentleman tourist. Instead\nYou went with Terry Kafka - We\nPictured you coming home tired,\nunder-nourished - sickly. To our\nsurprise you looked great and\nhad a great time.\nYour experiences in Europe\nhelped you get the job at Dalton. (3)\n\nHOUSE_OVERSIGHT_000022",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Mr. Jerome Tulles",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          22
+        ]
+      },
+      {
+        "name": "Terry Kafka",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          22
+        ]
+      }
+    ],
+    "organizations": [
+      "Interlochen",
+      "Cosmopolitan Magazine",
+      "Dalton"
+    ],
+    "locations": [
+      "Europe",
+      "Interlochen"
+    ],
+    "dates": [
+      "Age 27 (Cosmopolitan Bachelor)"
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Mother (Paula)",
+    "recipient": "Jeff (Jeffrey Epstein)",
+    "date": "2003",
+    "subject": "Young adult memories",
+    "significance": "high",
+    "theme": null,
+    "document_type": "handwritten_letter_continued"
+  },
+  "relationships": [
+    "Mr. Jerome Tulles - piano teacher who recommended Interlochen",
+    "Terry Kafka - travel companion to Europe"
+  ],
+  "insights": [
+    "Transitioned from accordion to piano",
+    "Mr. Jerome Tulles recommended Interlochen",
+    "Interlochen - prestigious arts camp in Michigan",
+    "Mother uncertain if Interlochen improved piano skills",
+    "Now owns log cabin at Interlochen - maintained connection",
+    "CRITICAL: Cosmopolitan 'Bachelor of the Month' at age 27 (1980)",
+    "'still hold that TITLE' - never married by age 50",
+    "Parents strongly opposed Europe trip post-graduation",
+    "Expected him to travel as 'Gentleman tourist' later",
+    "Traveled with Terry Kafka instead (Brooklyn friend from TOC)",
+    "Parents worried: 'tired, under-nourished - lonely'",
+    "Returned looking 'great' - exceeded expectations",
+    "Europe experience directly led to Dalton School job",
+    "Dalton School - where Epstein taught without degree",
+    "Shows progression: musician → traveler → teacher",
+    "Page 3 continues mother's reminiscences"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000022",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.130741",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": true,
+    "high_priority": false,
+    "quality_score": 95,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Cosmopolitan Bachelor feature - 1980 public profile",
+    "Terry Kafka confirmed as Brooklyn childhood friend",
+    "Dalton School hiring linked to Europe experience",
+    "Interlochen property ownership documented",
+    "Never married status confirmed by mother"
+  ],
+  "investigative_leads": [
+    "Locate Cosmopolitan Magazine Bachelor feature from 1980",
+    "Research Interlochen property records",
+    "Interview Terry Kafka about Europe trip",
+    "Investigate Dalton School hiring circumstances",
+    "Verify Mr. Jerome Tulles as piano teacher"
+  ]
+}

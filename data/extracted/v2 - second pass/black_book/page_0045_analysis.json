@@ -1,0 +1,966 @@
+{
+  "page_number": 45,
+  "alphabetical_section": "P-Q",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "045_power_jane",
+      "name": {
+        "full_name": "Power, Jane",
+        "prefix": null,
+        "first_name": "Jane",
+        "middle_name": null,
+        "last_name": "Power",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-221 7943",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "001 212 642 6450 (h)",
+          "formatting": "International to US - NYC"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "20 Egerton Gdns",
+            "London SW3"
+          ],
+          "city": "London",
+          "postal_code": "SW3",
+          "country": "UK",
+          "notes": "Egerton Gardens - Knightsbridge area"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Knightsbridge residence"
+    },
+    {
+      "entry_id": "045_price_charles_h_ii",
+      "name": {
+        "full_name": "Price, Charles H. II",
+        "prefix": null,
+        "first_name": "Charles",
+        "middle_name": "H.",
+        "last_name": "Price",
+        "suffix": "II"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 816 932 0175",
+          "formatting": "001 816 932 0175"
+        },
+        {
+          "type": "unknown",
+          "number": "001 816 931 2720",
+          "formatting": "001 816 931 2720"
+        },
+        {
+          "type": "unknown",
+          "number": "001 816 931 5585",
+          "formatting": "001 816 931 5585"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "One West Armour Blvd.",
+            "Kansas City, Missouri 64111"
+          ],
+          "city": "Kansas City",
+          "state": "MO",
+          "postal_code": "64111",
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Kansas City based - Charles H. Price II (former US Ambassador)"
+    },
+    {
+      "entry_id": "045_price_judy",
+      "name": {
+        "full_name": "Price, Judy",
+        "prefix": null,
+        "first_name": "Judy",
+        "middle_name": null,
+        "last_name": "Price",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 541 9465",
+          "formatting": "001 212 541 9465"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "950 3rd Ave. 5th fl",
+            "New York, NY"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Third Avenue - Midtown Manhattan work address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'Avenue'"
+    },
+    {
+      "entry_id": "045_princess_firyal",
+      "name": {
+        "full_name": "Princess Firyal",
+        "prefix": "Princess",
+        "first_name": "Firyal",
+        "middle_name": null,
+        "last_name": null,
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 879 3900",
+          "formatting": "International to US - NYC"
+        },
+        {
+          "type": "unknown",
+          "number": "0207 235 2143",
+          "formatting": "0207 235 2143"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "1 East 66th St.",
+            "New York, NY 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "East 66th Street - Upper East Side, prestigious address"
+        },
+        {
+          "type": "home",
+          "address_lines": [
+            "35 Chapel St.",
+            "London SW1"
+          ],
+          "city": "London",
+          "postal_code": "SW1",
+          "country": "UK",
+          "notes": "London address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Royal title - Princess Firyal of Jordan"
+    },
+    {
+      "entry_id": "045_pritzker_nick",
+      "name": {
+        "full_name": "Pritzker, Nick",
+        "prefix": null,
+        "first_name": "Nick",
+        "middle_name": null,
+        "last_name": "Pritzker",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "312 750 8401",
+          "formatting": "312 750 8401 (w)"
+        },
+        {
+          "type": "portable",
+          "number": "312 593 8401",
+          "formatting": "312 593 8401 (p)"
+        },
+        {
+          "type": "Mary Ryan",
+          "number": "312 750 8347",
+          "formatting": "312 750 8347 (Mary Ryan)"
+        },
+        {
+          "type": "home",
+          "number": "312 664 2599",
+          "formatting": "312 664 2599 (h)"
+        },
+        {
+          "type": "home",
+          "number": "312 664 0889",
+          "formatting": "312 664 0889 (hf)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "npritzker@earthlink.net",
+          "type": "personal",
+          "notes": "Earthlink email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "200 West Madison",
+            "Chicago, IL 60606"
+          ],
+          "city": "Chicago",
+          "state": "IL",
+          "postal_code": "60606",
+          "country": "USA",
+          "notes": "'Hyatt Development Corp.'"
+        },
+        {
+          "type": "home",
+          "address_lines": [
+            "1518 N. Astor Street",
+            "Chicago, IL 60606"
+          ],
+          "city": "Chicago",
+          "state": "IL",
+          "postal_code": "60606",
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Pritzker family - Chicago business dynasty, Hyatt hotels. Possibly related to Pritzker, Thomas."
+    },
+    {
+      "entry_id": "045_pritzker_thomas",
+      "name": {
+        "full_name": "Pritzker, Thomas",
+        "prefix": null,
+        "first_name": "Thomas",
+        "middle_name": null,
+        "last_name": "Pritzker",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "office",
+          "number": "001 312 750 8101",
+          "formatting": "001 312 750 8101 (o)"
+        },
+        {
+          "type": "fax",
+          "number": "001 920 2395",
+          "formatting": "001 920 2395 (f)"
+        },
+        {
+          "type": "unknown",
+          "number": "07881 507181",
+          "formatting": "07881 507181"
+        },
+        {
+          "type": "portable",
+          "number": "312 420 8101",
+          "formatting": "312 420 8101 (p)"
+        },
+        {
+          "type": "home",
+          "number": "773 327 1313",
+          "formatting": "773 327 1313 (h)"
+        },
+        {
+          "type": "home",
+          "number": "312 787 5153",
+          "formatting": "312 787 5153 (hf)"
+        },
+        {
+          "type": "farm",
+          "number": "847 362 1802",
+          "formatting": "847 362 1802 (farm)"
+        },
+        {
+          "type": "home",
+          "number": "312 787 5132",
+          "formatting": "312 787 5132 (h)"
+        },
+        {
+          "type": "home",
+          "number": "312 787 5153",
+          "formatting": "312 787 5153 (hf)"
+        },
+        {
+          "type": "work",
+          "number": "312 750 8101",
+          "formatting": "312 750 8101 (w)"
+        },
+        {
+          "type": "work",
+          "number": "312 920 2395",
+          "formatting": "312 920 2395 (wf)"
+        },
+        {
+          "type": "emergency",
+          "number": "312 750 8451",
+          "formatting": "312 750 8451 (emergency contact)"
+        },
+        {
+          "type": "office",
+          "number": "312 750 8400",
+          "formatting": "312 750 8400 (main office number)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "tomp@interacess.com",
+          "type": "unknown",
+          "notes": "interacess.com email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "200 W. Madison",
+            "Suite 3800",
+            "Chicago, IL 60606"
+          ],
+          "city": "Chicago",
+          "state": "IL",
+          "postal_code": "60606",
+          "country": "USA",
+          "notes": "Chicago Loop - business district"
+        },
+        {
+          "type": "home",
+          "address_lines": [
+            "2430 North Lakeview #7N",
+            "Chicago, IL 60614"
+          ],
+          "city": "Chicago",
+          "state": "IL",
+          "postal_code": "60614",
+          "country": "USA",
+          "notes": "Chicago Loop - business district"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'Numero Uno' Possibly related to Pritzker, Nick. Pritzker family - billionaire, Hyatt hotels chairman"
+    },
+    {
+      "entry_id": "045_propp_rodney",
+      "name": {
+        "full_name": "Propp, Rodney",
+        "prefix": null,
+        "first_name": "Rodney",
+        "middle_name": null,
+        "last_name": "Propp",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 421 1117",
+          "formatting": "001 212 421 1117 (w)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "propppbros@aol.com",
+          "type": "unknown",
+          "notes": "aol.com email"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "overall_legibility": "good"
+      },
+      "formatting_notes": "'Birkman friend'"
+    },
+    {
+      "entry_id": "045_prunier_christy_david",
+      "name": {
+        "full_name": "Prunier, Christy & David Doss",
+        "prefix": null,
+        "first_name": "Christy",
+        "middle_name": null,
+        "last_name": "Prunier",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "David Doss"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 864 0424",
+          "formatting": "001 212 864 0424"
+        },
+        {
+          "type": "unknown",
+          "number": "001 917 648 5003",
+          "formatting": "01 917 648 5003"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "315 Riverside dr #15D",
+            "New York, NY 10025"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10025",
+          "country": "USA",
+          "notes": "Riverside Drive - Upper West Side"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Upper West Side couple"
+    },
+    {
+      "entry_id": "045_pucci_laudomia",
+      "name": {
+        "full_name": "Pucci, Laudomia",
+        "prefix": null,
+        "first_name": "Laudomia",
+        "middle_name": null,
+        "last_name": "Pucci",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "0039335 615 3240",
+          "formatting": "0039335 615 3240 (p)"
+        },
+        {
+          "type": "work",
+          "number": "00 39 55 2618431",
+          "formatting": "00 39 55 2618431 (w) Florence"
+        },
+        {
+          "type": "home",
+          "number": "00 39 55 290619",
+          "formatting": "00 39 55 290619 (h) Florence"
+        },
+        {
+          "type": "home",
+          "number": "00 39 6 32650295",
+          "formatting": "00 39 6 32650295 (h) Rome"
+        },
+        {
+          "type": "fax",
+          "number": "00 39 55 280 451",
+          "formatting": "00 39 55 280 451 (f) Florence"
+        },
+        {
+          "type": "home",
+          "number": "1 212 355 2800",
+          "formatting": "1 212 355 2800 (h)"
+        },
+        {
+          "type": "work",
+          "number": "1 212 752 4777",
+          "formatting": "1 212 752 4777 (w)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "laopucci@tin.it",
+          "type": "unknown",
+          "notes": "tin.it email Italy domain"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Via de Pucci 6",
+            "50100 Florence, Italy"
+          ],
+          "city": "Florence",
+          "postal_code": "50100",
+          "country": "Italy",
+          "notes": "Emilio Pucci headquarters - famous Italian fashion house"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'Husband: Alessandro Castelleno' Pucci fashion family - Florence/Rome/NYC"
+    },
+    {
+      "entry_id": "045_puig_marc",
+      "name": {
+        "full_name": "Puig, Marc",
+        "prefix": null,
+        "first_name": "Marc",
+        "middle_name": null,
+        "last_name": "Puig",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "34 93 400 71 41",
+          "formatting": "34 93 400 71 41 (w)"
+        },
+        {
+          "type": "fax",
+          "number": "34 93 400 70 15",
+          "formatting": "34 93 400 70 15 (f)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "pincortede@wanadoo.es",
+          "type": "unknown",
+          "notes": "Spanish email - wanadoo domain"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Travessera de Gracia 9",
+            "Barcelona 08021",
+            "Spain"
+          ],
+          "city": "Barcelona",
+          "postal_code": "08021",
+          "country": "Spain",
+          "notes": "Barcelona business address - Puig fragrance/fashion company"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'President Fashion Di' Barcelona - Puig family fragrance empire. Possibly related to Puig, Tara"
+    },
+    {
+      "entry_id": "045_puig_taria",
+      "name": {
+        "full_name": "Puig, Taria",
+        "prefix": null,
+        "first_name": "Taria",
+        "middle_name": null,
+        "last_name": "Puig",
+        "suffix": null
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Esperanza No. 15",
+            "Barcelona 08017",
+            "Spain"
+          ],
+          "city": "Barcelona",
+          "postal_code": "08017",
+          "country": "Spain",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Barcelona - Puig family member. Possibly related to Puig, Marc"
+    },
+    {
+      "entry_id": "045_puopolo_sonia",
+      "name": {
+        "full_name": "Puopolo, Sonia",
+        "prefix": null,
+        "first_name": "Sonia",
+        "middle_name": null,
+        "last_name": "Puopolo",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "617 510 9292",
+          "formatting": "617 510 9292"
+        },
+        {
+          "type": "unknown",
+          "number": "305 860 8066",
+          "formatting": "305 860 8066"
+        },
+        {
+          "type": "unknown",
+          "number": "305 860 1060",
+          "formatting": "305 860 1060"
+        }
+      ],
+      "emails": [
+        {
+          "address": "soniatita@yahoo.com",
+          "type": "personal",
+          "notes": "Yahoo email"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Boston/Miami connections"
+    },
+    {
+      "entry_id": "045_puttnam_david",
+      "name": {
+        "full_name": "Puttnam, David",
+        "prefix": null,
+        "first_name": "David",
+        "middle_name": null,
+        "last_name": "Puttnam",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207 529 0500",
+          "formatting": "0207 529 0500 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "Kingsmead Mill",
+            "Little Somerford",
+            "Nr. Chippenham",
+            "Wiltshire",
+            "Malmesbury 4431"
+          ],
+          "city": "Malmesbury",
+          "postal_code": null,
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "medium",
+        "overall_legibility": "good"
+      },
+      "formatting_notes": "UK film producer Lord Puttnam"
+    },
+    {
+      "entry_id": "045_pymont_chris",
+      "name": {
+        "full_name": "Pymont, Chris",
+        "prefix": null,
+        "first_name": "Chris",
+        "middle_name": null,
+        "last_name": "Pymont",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 353 6210",
+          "formatting": "0207 353 6210 (h)"
+        },
+        {
+          "type": "home",
+          "number": "0494 814615",
+          "formatting": "0494 814615 (h)"
+        },
+        {
+          "type": "work",
+          "number": "0207 404 4800",
+          "formatting": "0207 404 4800 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "4 Crane Court",
+            "London EC4"
+          ],
+          "city": "London",
+          "postal_code": "EC4",
+          "country": "UK",
+          "notes": "Crane Court - City of London"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "City of London address"
+    },
+    {
+      "entry_id": "045_quartucci_alan",
+      "name": {
+        "full_name": "Quartucci, Alan",
+        "prefix": null,
+        "first_name": "Alan",
+        "middle_name": null,
+        "last_name": "Quartucci",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 421 0043",
+          "formatting": "001 212 421 0043 (w)"
+        },
+        {
+          "type": "portable",
+          "number": "001 212 414 0472",
+          "formatting": "001 212 414 0472 (portable)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 516 287 1588",
+          "formatting": "001 516 287 1588"
+        },
+        {
+          "type": "country",
+          "number": "001 518 584 9175",
+          "formatting": "001 518 584 9175 Country"
+        },
+        {
+          "type": "saratoga",
+          "number": "001 318 584 9175",
+          "formatting": "001 318 584 9175 Saratoga"
+        },
+        {
+          "type": "florida",
+          "number": "001 407 842 8448",
+          "formatting": "001 407 842 8448 Florida"
+        },
+        {
+          "type": "portable",
+          "number": "001 407 758 5101",
+          "formatting": "001 407 758 5101 (p)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Multiple locations: NYC, Long Island, Saratoga, Florida"
+    },
+    {
+      "entry_id": "045_quinn_topper",
+      "name": {
+        "full_name": "Quinn, Topper",
+        "prefix": null,
+        "first_name": "Topper",
+        "middle_name": null,
+        "last_name": "Quinn",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 779 4882",
+          "formatting": "001 212 779 4882"
+        },
+        {
+          "type": "home",
+          "number": "0207 493 2223",
+          "formatting": "0207 493 2223 (h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 18,
+    "entries_with_emails": 6,
+    "entries_with_addresses": 14,
+    "entries_with_handwritten_notes": 0,
+    "couples": 1,
+    "average_confidence": "high",
+    "notable_figures_count": 5
+  },
+  "cross_references": [
+    {
+      "from": "045_pritzker_nick",
+      "to": "045_pritzker_thomas",
+      "relationship": "family",
+      "note": "Pritzker family - billionaire hotel dynasty (Hyatt)"
+    },
+    {
+      "from": "045_puig_marc",
+      "to": "045_puig_taria",
+      "relationship": "possibly_related",
+      "note": "Same surname and both in Barcelona - likely family"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jane Power",
+      "Charles H. Price II",
+      "Judy Price",
+      "Princess Firyal",
+      "Nick Pritzker",
+      "Thomas Pritzker",
+      "Rodney Propp",
+      "Christy Prunner",
+      "David Prunner",
+      "Laudomia Pucci",
+      "Marc Puig",
+      "Taria Puig",
+      "Sonia Puopolo",
+      "David Puttnam",
+      "Chris Pymont",
+      "Alan Quartucci",
+      "Topper Quinn"
+    ],
+    "organizations": [
+      "Pritzker family (Hyatt Hotels)",
+      "Emilio Pucci (fashion house)",
+      "Puig (fragrance/fashion company)",
+      "Aon Corporation"
+    ],
+    "locations": {
+      "international": [
+        "London, UK (multiple contacts)",
+        "Florence, Italy (Pucci headquarters)",
+        "Rome, Italy",
+        "Barcelona, Spain (Puig family)",
+        "Chicago, IL (Pritzker family)"
+      ],
+      "us_cities": [
+        "New York City (multiple contacts)",
+        "Kansas City, MO",
+        "Chicago, IL",
+        "Boston, MA",
+        "Miami, FL",
+        "Saratoga, NY",
+        "Orlando, FL"
+      ],
+      "elite_addresses": [
+        "20 Egerton Gardens, London SW3 (Knightsbridge)",
+        "1 East 66th Street, NYC (Princess Firyal)",
+        "315 Riverside Drive, NYC (Prunner)",
+        "Via de Pucci 6, Florence (Pucci headquarters)",
+        "1518 N. Astor Street, Chicago (Gold Coast)"
+      ]
+    }
+  },
+  "insights": [
+    "Princess Firyal - Jordanian royalty with dual NYC/London residences",
+    "Pritzker family (Nick & Thomas) - Chicago billionaire hotel dynasty, Hyatt Hotels founders",
+    "Charles H. Price II - former US Ambassador to UK (1989-1991), Kansas City base",
+    "Laudomia Pucci - Emilio Pucci fashion house family, Florence/Rome/NYC presence",
+    "Marc & Taria Puig - Barcelona fragrance/fashion empire (Puig company)",
+    "David Puttnam - British film producer, Lord Puttnam, Oscar winner",
+    "Multiple billionaire families: Pritzker (hotels), Pucci (fashion), Puig (fragrances)",
+    "Strong Chicago presence: Pritzker family base, Astor Street Gold Coast address",
+    "International luxury fashion connections: Pucci (Italy), Puig (Spain)",
+    "Geographic diversity: NYC, London, Chicago, Florence, Barcelona, Kansas City",
+    "Alan Quartucci has 7 phone numbers across NYC, Long Island, Saratoga, Florida - extensive travel pattern",
+    "Email domains: earthlink.net, btinternet.com, yahoo.com, wanadoo.es, pritzkerlaw.com",
+    "Princess Firyal's dual residences indicate international aristocratic lifestyle",
+    "Incomplete entry for Astor Street address suggests high-profile contact with Hon title",
+    "Upper West Side presence (Prunner at Riverside Drive)",
+    "City of London business connection (Pymont at Crane Court EC4)"
+  ]
+}

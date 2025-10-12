@@ -1,0 +1,258 @@
+{
+  "page_number": 2,
+  "file_path": "data/birthday_book_images/page_0002.png",
+  "file_size_mb": 0.1889333724975586,
+  "type": "table_of_contents",
+  "content": {
+    "text": "CONTENTS\n\nPROLOGUE                    Ghislaine Maxwell\n\nFAMILY                      Paula\n                            Seymour\n                            Mark\n\nBROOKLYN                    [REDACTED]\n                            Warren Eisenstein\n                            Neutral\n                            Terry Kafka\n                            Michael Buchholtz\n                            Dr Stephen Levy\n\nGIRLFRIENDS                [REDACTED]\n\nCHILDREN                   [REDACTED]\n\nFRIENDS                     Ron Altbach\n                            Leon Black\n                            [REDACTED]\n                            Jean luc Brunel\n                            Bill Clinton\n                            Alan Dershowitz\n                            Bill Elkus",
+    "handwritten": false,
+    "typed": true,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "CONTENTS\n\nPROLOGUE                    Ghislaine Maxwell\n\nFAMILY                      Paula\n                            Seymour\n                            Mark\n\nBROOKLYN                    [REDACTED]\n                            Warren Eisenstein\n                            Neutral\n                            Terry Kafka\n                            Michael Buchholtz\n                            Dr Stephen Levy\n\nGIRLFRIENDS                [REDACTED]\n\nCHILDREN                   [REDACTED]\n\nFRIENDS                     Ron Altbach\n                            Leon Black\n                            [REDACTED]\n                            Jean luc Brunel\n                            Bill Clinton\n                            Alan Dershowitz\n                            Bill Elkus",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ghislaine Maxwell",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          2
+        ]
+      },
+      {
+        "name": "Paula",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          2
+        ]
+      },
+      {
+        "name": "Seymour",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          2
+        ]
+      },
+      {
+        "name": "Mark",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          2
+        ]
+      },
+      {
+        "name": "Warren Eisenstein",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          2
+        ]
+      },
+      {
+        "name": "Terry Kafka",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          2
+        ]
+      },
+      {
+        "name": "Michael Buchholtz",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          2
+        ]
+      },
+      {
+        "name": "Dr Stephen Levy",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          2
+        ]
+      },
+      {
+        "name": "Ron Altbach",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          2
+        ]
+      },
+      {
+        "name": "Leon Black",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          2
+        ]
+      },
+      {
+        "name": "Jean luc Brunel",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          2
+        ]
+      },
+      {
+        "name": "Bill Clinton",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          2
+        ]
+      },
+      {
+        "name": "Alan Dershowitz",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          2
+        ]
+      },
+      {
+        "name": "Bill Elkus",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          2
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      "Brooklyn"
+    ],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Multiple contributors",
+    "recipient": "Jeffrey Epstein",
+    "date": "January 20, 2003 (50th birthday)",
+    "subject": "Table of Contents for 50th birthday book contributors",
+    "significance": "extremely_high",
+    "theme": "relationship_mapping",
+    "document_type": "table_of_contents"
+  },
+  "insights": [
+    "CRITICAL: Ghislaine Maxwell authored PROLOGUE - primary organizer of birthday book",
+    "Complete contents listing for 50th birthday book Volume I",
+    "GIRLFRIENDS section ENTIRELY REDACTED - multiple names hidden",
+    "CHILDREN section ENTIRELY REDACTED - extremely concerning",
+    "Bill Clinton listed as contributor under FRIENDS",
+    "Alan Dershowitz listed as contributor under FRIENDS",
+    "Leon Black (billionaire financier) listed as contributor",
+    "Jean-Luc Brunel listed (died in French prison 2022 awaiting trial)",
+    "Family: Paula (mother), Seymour (father), Mark (brother) all contributed",
+    "Brooklyn section suggests childhood friends contributed",
+    "'Neutral' listed - unusual name or nickname",
+    "Dr. Stephen Levy - medical professional in Brooklyn circle",
+    "Warren Eisenstein - possibly relative given surname similarity",
+    "Redactions appear strategic - protecting minors and women",
+    "Document reveals inner circle hierarchy and categorization",
+    "Structure shows Maxwell's coordinating role in Epstein's social network"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000002",
+  "processed_at": "2025-09-23 03:15:00",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.121695",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": [
+      "Name under Brooklyn section - redacted with black bar",
+      "Entire Girlfriends section - redacted with black bar",
+      "Entire Children section - redacted with black bar",
+      "One name in Friends section - redacted with black bar"
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": true,
+    "contains_sensitive_info": true,
+    "legal_implications": true,
+    "extraction_complete": true,
+    "high_priority": true,
+    "quality_score": 95,
+    "review_notes": [
+      "Redacted GIRLFRIENDS and CHILDREN sections are critical",
+      "This page maps entire social network structure"
+    ]
+  },
+  "forensic_notes": [
+    "Maxwell's role as prologue author confirms coordinating position",
+    "Categorization reveals how Epstein compartmentalized relationships",
+    "Redacted sections likely contain most sensitive names",
+    "'Neutral' may be nickname - requires identification"
+  ],
+  "investigative_leads": [
+    "Identify all redacted names through cross-reference",
+    "Investigate 'Neutral' identity",
+    "Map each contributor's page location in book",
+    "Determine why CHILDREN section exists in birthday book"
+  ]
+}

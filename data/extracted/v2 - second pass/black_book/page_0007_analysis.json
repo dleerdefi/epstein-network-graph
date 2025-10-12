@@ -1,0 +1,1059 @@
+{
+  "page_number": 7,
+  "alphabetical_section": "B",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "007_bosson_bruce",
+      "name": {
+        "full_name": "Bosson, Hon Bruce and Jill",
+        "title": "Hon",
+        "first_name": "Bruce",
+        "last_name": "Bosson",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "001 212 397 4545(h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC home",
+          "is_primary": true,
+          "formatting": "001 212 397 4545"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "29 Arrowgate Road\nGranton MA 11949",
+          "street_line1": "29 Arrowgate Road",
+          "street_line2": null,
+          "city": "Granton",
+          "state_province": "MA",
+          "postal_code": "11949",
+          "country": "USA",
+          "notes": "Massachusetts"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_boucherie_sylviane",
+      "name": {
+        "full_name": "Boucherie, Sylviane",
+        "title": null,
+        "first_name": "Sylviane",
+        "last_name": "Boucherie",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "00 33 6075 1793",
+          "type": "mobile",
+          "label": "",
+          "country_code": "+33",
+          "area_code": "6075",
+          "extension": null,
+          "notes": "French mobile",
+          "is_primary": true,
+          "formatting": "00 33 6075 1793"
+        }
+      ],
+      "emails": [
+        {
+          "address": "sylviane.boucherie@club-internet.fr",
+          "type": "personal",
+          "domain": "club-internet.fr",
+          "notes": "French ISP email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "25 Rue Du Bouloi\n75001 Paris France",
+          "street_line1": "25 Rue Du Bouloi",
+          "street_line2": null,
+          "city": "Paris",
+          "state_province": null,
+          "postal_code": "75001",
+          "country": "France",
+          "notes": "Central Paris"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_bourke_rick",
+      "name": {
+        "full_name": "Bourke, Rick",
+        "title": null,
+        "first_name": "Rick",
+        "last_name": "Bourke",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "001 206 285 1999(h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+1",
+          "area_code": "206",
+          "extension": null,
+          "notes": "Seattle home",
+          "is_primary": true,
+          "formatting": "001 206 285 1999"
+        },
+        {
+          "number": "001 609 924 9511",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+1",
+          "area_code": "609",
+          "extension": null,
+          "notes": "New Jersey area",
+          "is_primary": false,
+          "formatting": "001 609 924 9511"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_bowles_hamish",
+      "name": {
+        "full_name": "Bowles, Hamish",
+        "title": null,
+        "first_name": "Hamish",
+        "last_name": "Bowles",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "001 212 555 5541(h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC home",
+          "is_primary": true,
+          "formatting": "001 212 555 5541"
+        },
+        {
+          "number": "001 212 880 8900",
+          "type": "work",
+          "label": "",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC work",
+          "is_primary": false,
+          "formatting": "001 212 880 8900"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_brachetti_peretti_alexander",
+      "name": {
+        "full_name": "Brachetti, Peretti Alexander",
+        "title": null,
+        "first_name": "Alexander",
+        "last_name": "Brachetti Peretti",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "0207-589 8919",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+44",
+          "area_code": "207",
+          "extension": null,
+          "notes": "London landline",
+          "is_primary": true,
+          "formatting": "0207-589 8919"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_brachetti_anna",
+      "name": {
+        "full_name": "Brachetti, Anna",
+        "title": null,
+        "first_name": "Anna",
+        "last_name": "Brachetti",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "0039 338 8912",
+          "type": "mobile",
+          "label": "",
+          "country_code": "+39",
+          "area_code": "338",
+          "extension": null,
+          "notes": "Italian mobile",
+          "is_primary": true,
+          "formatting": "0039 338 8912"
+        },
+        {
+          "number": "0039 0568 48080(h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+39",
+          "area_code": "0568",
+          "extension": null,
+          "notes": "Italian home",
+          "is_primary": false,
+          "formatting": "0039 0568 48080"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_braine_caroline",
+      "name": {
+        "full_name": "Braine, Caroline",
+        "title": null,
+        "first_name": "Caroline",
+        "last_name": "Braine",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "0207-221 1889(h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+44",
+          "area_code": "207",
+          "extension": null,
+          "notes": "London home",
+          "is_primary": true,
+          "formatting": "0207-221 1889"
+        },
+        {
+          "number": "0207-352 4690",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+44",
+          "area_code": "207",
+          "extension": null,
+          "notes": "London landline",
+          "is_primary": false,
+          "formatting": "0207-352 4690"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_braithe_katie",
+      "name": {
+        "full_name": "Braithe, Ms Katie & Serge",
+        "title": "Ms",
+        "first_name": "Katie",
+        "last_name": "Braithe",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "001 919 403 0300",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+1",
+          "area_code": "919",
+          "extension": null,
+          "notes": "North Carolina area",
+          "is_primary": false,
+          "formatting": "001 919 403 0300"
+        },
+        {
+          "number": "0207 937 4130",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+44",
+          "area_code": "207",
+          "extension": null,
+          "notes": "London landline",
+          "is_primary": false,
+          "formatting": "0207 937 4130"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "9 Canning Place\nKensington\nLondon W8 5AA",
+          "street_line1": "9 Canning Place",
+          "street_line2": "Kensington",
+          "city": "London",
+          "state_province": null,
+          "postal_code": "W8 5AA",
+          "country": "UK",
+          "notes": "Kensington area"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_bram_ben",
+      "name": {
+        "full_name": "Bram, Ben",
+        "title": null,
+        "first_name": "Ben",
+        "last_name": "Bram",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "212 502 8800",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC",
+          "is_primary": true,
+          "formatting": "212 502 8800"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_brand_tony",
+      "name": {
+        "full_name": "Brand, Tony",
+        "title": null,
+        "first_name": "Tony",
+        "last_name": "Brand",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "212 333 8333",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC",
+          "is_primary": true,
+          "formatting": "212 333 8333"
+        },
+        {
+          "number": "212 421 9231",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC",
+          "is_primary": false,
+          "formatting": "212 421 9231"
+        }
+      ],
+      "emails": [
+        {
+          "address": "tonybrand@newyorker.com",
+          "type": "work",
+          "domain": "newyorker.com",
+          "notes": "The New Yorker magazine"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_011",
+      "name": {
+        "full_name": "Brandolini, d'Alba",
+        "title": null,
+        "first_name": null,
+        "last_name": "Brandolini d'Alba",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "Dorsoduro\n3499 Calle Giustiniani\nVenezia Italia",
+          "street_line1": "Dorsoduro",
+          "street_line2": "3499 Calle Giustiniani",
+          "city": "Venice",
+          "state_province": null,
+          "postal_code": null,
+          "country": "Italy",
+          "notes": "Venice address"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [
+          "See also for tel"
+        ],
+        "corrections": [],
+        "cross_references": [
+          "See also for tel"
+        ],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_brandolini_nuno",
+      "name": {
+        "full_name": "Brandolini, Nuno & Muriel",
+        "title": null,
+        "first_name": "Nuno",
+        "last_name": "Brandolini",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "041 528 5961(h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+39",
+          "area_code": "041",
+          "extension": null,
+          "notes": "Venice home",
+          "is_primary": true,
+          "formatting": "041 528 5961"
+        },
+        {
+          "number": "041 2400 500",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+39",
+          "area_code": "041",
+          "extension": null,
+          "notes": "Venice landline",
+          "is_primary": false,
+          "formatting": "041 2400 500"
+        }
+      ],
+      "emails": [
+        {
+          "address": "brandnuno@aol.com",
+          "type": "personal",
+          "domain": "aol.com",
+          "notes": "AOL email"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_brandt_peter",
+      "name": {
+        "full_name": "Brandt, Peter",
+        "title": null,
+        "first_name": "Peter",
+        "last_name": "Brandt",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "212 688 5395(h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC home - (Senator)",
+          "is_primary": true,
+          "formatting": "212 688 5395"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [
+          "(Senator)"
+        ],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_branson_richard",
+      "name": {
+        "full_name": "Branson, Richard",
+        "title": null,
+        "first_name": "Richard",
+        "last_name": "Branson",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "001 891 795 4138(h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+1",
+          "area_code": "891",
+          "extension": null,
+          "notes": "Unusual area code",
+          "is_primary": true,
+          "formatting": "001 891 795 4138"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_bristow_flavia",
+      "name": {
+        "full_name": "Bristow, Flavia",
+        "title": null,
+        "first_name": "Flavia",
+        "last_name": "Bristow",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "39 02 76 00 57 60",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+39",
+          "area_code": "02",
+          "extension": null,
+          "notes": "Milan landline",
+          "is_primary": true,
+          "formatting": "39 02 76 00 57 60"
+        }
+      ],
+      "emails": [
+        {
+          "address": "flaviabristow@msn.com",
+          "type": "personal",
+          "domain": "msn.com",
+          "notes": "MSN email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "5 Corso Magenta\n20123 Milano",
+          "street_line1": "5 Corso Magenta",
+          "street_line2": null,
+          "city": "Milan",
+          "state_province": null,
+          "postal_code": "20123",
+          "country": "Italy",
+          "notes": "Milan city center"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_broadhurst_julia",
+      "name": {
+        "full_name": "Broadhurst, Julia",
+        "title": null,
+        "first_name": "Julia",
+        "last_name": "Broadhurst",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "+44 7788 590 205(m)",
+          "type": "mobile",
+          "label": "m",
+          "country_code": "+44",
+          "area_code": "7788",
+          "extension": null,
+          "notes": "UK mobile",
+          "is_primary": true,
+          "formatting": "+44 7788 590 205"
+        },
+        {
+          "number": "+44 7553 900 900(h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+44",
+          "area_code": "7553",
+          "extension": null,
+          "notes": "UK mobile used as home",
+          "is_primary": false,
+          "formatting": "+44 7553 900 900"
+        },
+        {
+          "number": "+44 20 7581 9344(w)",
+          "type": "work",
+          "label": "w",
+          "country_code": "+44",
+          "area_code": "20",
+          "extension": null,
+          "notes": "London work",
+          "is_primary": false,
+          "formatting": "+44 20 7581 9344"
+        },
+        {
+          "number": "+44 1604 875 510(home)",
+          "type": "home",
+          "label": "home",
+          "country_code": "+44",
+          "area_code": "1604",
+          "extension": null,
+          "notes": "Northampton area home",
+          "is_primary": false,
+          "formatting": "+44 1604 875 510"
+        },
+        {
+          "number": "+44 7788 301 543(home)",
+          "type": "home",
+          "label": "home",
+          "country_code": "+44",
+          "area_code": "7788",
+          "extension": null,
+          "notes": "UK mobile as home",
+          "is_primary": false,
+          "formatting": "+44 7788 301 543"
+        }
+      ],
+      "emails": [
+        {
+          "address": "jbroadhurst@saflink.com",
+          "type": "work",
+          "domain": "saflink.com",
+          "notes": "Work email"
+        },
+        {
+          "address": "juliabroadhurst@gmail.com",
+          "type": "personal",
+          "domain": "gmail.com",
+          "notes": "Personal Gmail"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "20 Eaton Lane\nBelgravia SW1",
+          "street_line1": "20 Eaton Lane",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW1",
+          "country": "UK",
+          "notes": "Belgravia - elite London area"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_brandt_ben",
+      "name": {
+        "full_name": "Brandt, Ben",
+        "title": null,
+        "first_name": "Ben",
+        "last_name": "Brandt",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "001 561 758 0460(h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+1",
+          "area_code": "561",
+          "extension": null,
+          "notes": "Palm Beach County, FL home",
+          "is_primary": true,
+          "formatting": "001 561 758 0460"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 17,
+    "legibility": "excellent",
+    "notable_features": [
+      "Multiple international contacts (US, UK, France, Italy)",
+      "Notable figures including Richard Branson",
+      "Italian nobility connections (Brandolini family)",
+      "Senator notation for Peter Brandt",
+      "Mix of European aristocracy and business elite"
+    ],
+    "extraction_timestamp": "2025-09-29T12:45:17.351935",
+    "extractor_version": "2.0"
+  },
+  "cross_references": [
+    {
+      "entry_id": "007_011",
+      "reference": "See also for tel",
+      "target": "Unknown - phone numbers referenced elsewhere"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Bruce Bosson",
+      "Jill Bosson",
+      "Sylviane Boucherie",
+      "Rick Bourke",
+      "Hamish Bowles",
+      "Alexander Brachetti Peretti",
+      "Anna Brachetti",
+      "Caroline Braine",
+      "Katie Braithe",
+      "Serge",
+      "Ben Bram",
+      "Tony Brand",
+      "Nuno Brandolini",
+      "Muriel Brandolini",
+      "Peter Brandt",
+      "Richard Branson",
+      "Flavia Bristow",
+      "Julia Broadhurst",
+      "Ben Brandt"
+    ],
+    "organizations": [
+      "The New Yorker",
+      "Virgin Group"
+    ],
+    "locations": {
+      "cities": [
+        "Granton",
+        "Paris",
+        "Seattle",
+        "New York",
+        "London",
+        "Venice",
+        "Milan",
+        "Northampton"
+      ],
+      "states": [
+        "MA",
+        "WA",
+        "NJ",
+        "NY",
+        "NC",
+        "FL"
+      ],
+      "countries": [
+        "USA",
+        "France",
+        "UK",
+        "Italy"
+      ]
+    }
+  },
+  "insights": [
+    "Page features mix of US East Coast, European, and UK contacts",
+    "Strong Italian connection with multiple Venice/Milan entries (Brandolini family, Brachetti, Bristow)",
+    "Notable figures include Richard Branson (Virgin Group founder) with unusual area code",
+    "Peter Brandt noted as Senator - political connection",
+    "Hamish Bowles likely the Vogue editor - fashion industry connection",
+    "Tony Brand connected to The New Yorker magazine - media connection",
+    "Brandolini entries suggest Italian nobility (d'Alba suffix, Venice addresses)",
+    "Julia Broadhurst has extensive contact details (5 phone numbers) with Belgravia address - elite London",
+    "Multiple couples listed together (Bruce & Jill Bosson, Katie & Serge Braithe, Nuno & Muriel Brandolini)",
+    "Phone patterns show mix of landlines and early mobile numbers",
+    "Cross-reference note for Brandolini d'Alba suggests incomplete entry",
+    "Geographic spread: US (NYC, Seattle, Palm Beach), UK (London), France (Paris), Italy (Venice, Milan)"
+  ]
+}

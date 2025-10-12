@@ -1,0 +1,809 @@
+{
+  "page_number": 89,
+  "section": "Travel Services Continued",
+  "entries": [
+    {
+      "name": "Hickory, Eileen",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "101-66668-BIA",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Eileen Hickory - BIA",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": []
+      }
+    },
+    {
+      "name": "Immunisation",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "071-829 8984",
+          "area_code": "071",
+          "geographic_indicator": "London (old)",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Immunisation services",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Kent, Geoffrey",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Abercrombie & Kent",
+          "company": "Abercrombie & Kent",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Sloane Square House",
+          "location": "Sloane Square House",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0171 730 9600",
+          "area_code": "0171",
+          "geographic_indicator": "London (old)",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 630 9543553",
+          "area_code": "630",
+          "geographic_indicator": "Chicago suburbs",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 773 3316051",
+          "area_code": "773",
+          "geographic_indicator": "Chicago",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 630 3733001",
+          "area_code": "630",
+          "geographic_indicator": "Chicago suburbs",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "011 44 71 730 9600 G.T. London",
+        "Number"
+      ],
+      "notes": "Geoffrey Kent - Abercrombie & Kent travel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "London Airways",
+      "category": "Service",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207-403 2298",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "London Airways",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Lonsdale",
+      "category": "Service",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207-486 1313",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Lonsdale service",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Net Jets",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Richard Santulli east: Carol 732",
+          "contact": "Richard Santulli",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "732 664 0865",
+          "area_code": "732",
+          "geographic_indicator": "New Jersey",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "732 664 0844 Peggy Culver",
+          "area_code": "732",
+          "geographic_indicator": "New Jersey",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "732 576 8027 Peggy (h)",
+          "area_code": "732",
+          "geographic_indicator": "New Jersey",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "732 576 8028 Peggy (h) west 8026",
+          "area_code": "732",
+          "geographic_indicator": "New Jersey",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01 80 374 1500 G&G Portugal",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Net Jets - Richard Santulli",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Nile & Day",
+      "category": "Service",
+      "location": "UK",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "010 Managing Road",
+          "street": "Managing Road",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0171-323-5678",
+          "area_code": "0171",
+          "geographic_indicator": "London (old)",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Nile & Day travel service",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Northwest Airlines",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 800 225 2525",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Northwest Airlines",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Omey",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "JFK Tower",
+          "location": "JFK Airport",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 718 557 3700",
+          "area_code": "718",
+          "geographic_indicator": "NYC outer boroughs",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 800 225 57425",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 808 248 666080",
+          "area_code": "808",
+          "geographic_indicator": "Hawaii",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Omey - JFK Tower",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Phone",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0800 174 0555",
+          "area_code": "0800",
+          "geographic_indicator": "UK toll-free",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "516 239 4700",
+          "area_code": "516",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "516 234 4713 (24)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "516 234 4714 (24) #3197373L",
+          "area_code": "516",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "h.: 24 - airline #9 & 2172 274 2012",
+        "cell 1-800-774-86",
+        "A/F direct: 1-800-99 direct ? 110",
+        "941 637 7107",
+        "AA 000 00 0011 ATT access for",
+        "England",
+        "Fed ex for another phone call"
+      ],
+      "notes": "Phone services",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Some entries incomplete"]
+      }
+    },
+    {
+      "name": "Pics Brothers",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Thompson Travel",
+          "company": "Thompson Travel",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "800 4436 Concorde",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 924 4713 ext.10111",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 682 4713",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Pics Brothers - Thompson Travel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Plane Charter",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "61052 377 950",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "01052 377 849 m",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Plane Charter services",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone format unclear"]
+      }
+    },
+    {
+      "name": "Platinum Travel",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0900 800 0800",
+          "area_code": "0900",
+          "geographic_indicator": "Premium rate",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 247 9244 ask 8-10",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0118 9762 6681 (UK FAX tab.)",
+          "area_code": "0118",
+          "geographic_indicator": "UK",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Platinum Travel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Stoness East",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "New Borough",
+          "location": "New Borough",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "3718463688+1034 AMA (014)",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "3718 406688 +1000 AMA (006)",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0203 2710 03388 AMA (08)",
+          "area_code": "0203",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Stoness East - New Borough",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Some phone formats unclear"]
+      }
+    },
+    {
+      "name": "Raytheon Travel Air",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Palm International Office Park",
+          "location": "Palm International Office Park",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "545 S. Flagler Dr.",
+          "street": "545 S. Flagler Drive",
+          "confidence": "high"
+        },
+        {
+          "type": "tertiary",
+          "address": "West Palm Beach, FL",
+          "city": "West Palm Beach",
+          "state": "FL",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 659 6224",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 659 890920",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Raytheon Travel Air - West Palm Beach",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Travel Consolidator Europe",
+      "category": "Service",
+      "location": "Europe",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0800 917 4335",
+          "area_code": "0800",
+          "geographic_indicator": "UK toll-free",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0800 917 6385",
+          "area_code": "0800",
+          "geographic_indicator": "UK toll-free",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Travel Europe concorde",
+        "1000 £ for trans Europe",
+        "age—Pasacare"
+      ],
+      "notes": "Travel Consolidator Europe",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Travel Consolidators",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "1 800 577 1000 Air Cheap",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "1 800 577 1000 Very Cheap",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "1 800 192 1133 Very Cheap",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "1 800 3333 3333 Safire",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "1 800 397 1000 Europe",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "euro or very thrifty flight",
+        "800 397 3342 Skyline 3342",
+        "212 570 1179 Adam Sharp",
+        "214 634 3336 O'Haire",
+        "513 834 9200 O'Haire",
+        "212 6613535 Skyline"
+      ],
+      "notes": "Various travel consolidators",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Red Carpet Limousine Company",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "516-221-6033",
+          "area_code": "516",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Red Carpet Limousine Company",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Saphire Travel",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "01170 224 4041",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Saphire Travel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Shopper's Travel",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "701 Fifth Avenue, Suite 1007",
+          "street": "701 Fifth Avenue Suite 1007",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "New York NY 10019",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10019",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 370 8300",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Shopper's Travel - Fifth Avenue NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Sprint",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 355 0605 2732",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "800 999 5643 customer call",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "scheduling"
+      ],
+      "notes": "Sprint telecommunications",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Travelling Traveller",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "310 273 7938",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "617 266 8989",
+          "area_code": "617",
+          "geographic_indicator": "Boston",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "617 351 1353",
+          "area_code": "617",
+          "geographic_indicator": "Boston",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "scheduling",
+        "330 W 58St suite 201 New York",
+        "212 753 1100 Generals Tours",
+        "212 647 0700 Suite Barbara rate",
+        "817 335 8747 Tarpine Eaton",
+        "2410 444 1934 [illegible]flights.co.uk",
+        "0870 731 0042 easy"
+      ],
+      "notes": "Travelling Traveller - Multiple locations",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One URL partially illegible"]
+      }
+    },
+    {
+      "name": "SIS Reservations",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001-439-6144",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310-760-3737 FlyTime Travel",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        }
+      ],
+      "notes": "SIS Reservations and FlyTime Travel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 23,
+    "illegible_entries": 0,
+    "partial_entries": 5,
+    "sections": ["Travel Services Continued"],
+    "notable_entries": [
+      "Geoffrey Kent - Abercrombie & Kent travel",
+      "Net Jets - Richard Santulli",
+      "Raytheon Travel Air - West Palm Beach",
+      "Multiple airline and travel consolidators",
+      "Red Carpet Limousine Company"
+    ],
+    "geographic_distribution": {
+      "usa": 18,
+      "uk": 4,
+      "europe": 1
+    },
+    "location_highlights": [
+      "Abercrombie & Kent - Sloane Square House",
+      "Net Jets private aviation",
+      "Raytheon Travel Air - Palm Beach",
+      "Multiple travel consolidators",
+      "International travel services"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 18,
+      "medium_confidence": 5,
+      "low_confidence": 0,
+      "specific_issues": [
+        "Some phone formats unclear",
+        "Several entries incomplete",
+        "One URL partially illegible"
+      ]
+    }
+  }
+}

@@ -1,0 +1,847 @@
+{
+  "page_number": 35,
+  "alphabetical_section": "M",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "035_manners_teresa",
+      "name": {
+        "full_name": "Manners, Teresa",
+        "prefix": null,
+        "first_name": "Teresa",
+        "middle_name": null,
+        "last_name": "Manners",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "28 Brynmaer Rd",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "home",
+          "number": "0207-498 1712",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "mobile",
+          "number": "0207-498 4735",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "28 Brynmaer Rd",
+            "London"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "London residence"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Manners family - likely related to Eddie and Lucy Manners"
+    },
+    {
+      "entry_id": "035_manzano_joseluis_alejandra",
+      "name": {
+        "full_name": "Manzano, Jose Luis & Alejandra",
+        "prefix": null,
+        "first_name": "Jose Luis",
+        "middle_name": null,
+        "last_name": "Manzano",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Alejandra"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "00 54 11 4806 2878 (h)",
+          "formatting": "International - Argentina, Buenos Aires"
+        },
+        {
+          "type": "work",
+          "number": "00 54 11 4806 2875 (w)",
+          "formatting": "International - Argentina, Buenos Aires"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Buenos Aires, Argentina couple"
+    },
+    {
+      "entry_id": "035_mappin_john",
+      "name": {
+        "full_name": "Mappin, John",
+        "prefix": null,
+        "first_name": "John",
+        "middle_name": null,
+        "last_name": "Mappin",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "00 44 20 7924 9288",
+          "formatting": "International to UK - London"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Camelot Castle",
+            "Tintagel Cornwall"
+          ],
+          "city": "Tintagel",
+          "county": "Cornwall",
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Camelot Castle - historic property in Cornwall"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Camelot Castle owner in Cornwall"
+    },
+    {
+      "entry_id": "035_margolis_eric",
+      "name": {
+        "full_name": "Margolis, Eric",
+        "prefix": null,
+        "first_name": "Eric",
+        "middle_name": null,
+        "last_name": "Margolis",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "230 E E. 48th Street",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "work",
+          "number": "001 212 752 West 8 (w)",
+          "formatting": "International to US - NYC"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [ "margolis@foreincorrespondent"
+          ],
+          "city": "Toronto",
+          "state": "",
+          "postal_code": null,
+          "country": "Canada",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [
+        "6 Rua",
+        "212 688 090900 MAV U.S.",
+        "212 688 5969 (h)",
+        "212 686 7887 Work fax",
+        "00 351 282 MAV ALG",
+        "00 351 282 340001 work",
+        "00 351 282 341061"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Chairman Jamieson Laboratories"
+    },
+    {
+      "entry_id": "035_marks_stephen_allsa",
+      "name": {
+        "full_name": "Marks, Stephen & Allsa",
+        "prefix": null,
+        "first_name": "Stephen",
+        "middle_name": null,
+        "last_name": "Marks",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Allsa"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "23 The Boltons",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "home",
+          "number": "SW10 9RQ UK",
+          "formatting": "Postal code in phone field"
+        },
+        {
+          "type": "home",
+          "number": "244 207 835 2791 (h)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "244 207 589 7488 (w)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "23 The Boltons",
+            "London SW10 9RQ"
+          ],
+          "city": "London",
+          "postal_code": "SW10 9RQ",
+          "country": "UK",
+          "notes": "The Boltons - exclusive garden square in Chelsea/Kensington"
+        }
+      ],
+      "handwritten_notes": [
+        "244 207 351 7178",
+        "244 207 835 9393 fax",
+        "244 207 376 6776 (h)",
+        "244 207 589 7488 (h)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Stephen Marks - French Connection fashion brand founder 'stephen@frenchconnection.com'"
+    },
+    {
+      "entry_id": "035_marocco_manilo_pia",
+      "name": {
+        "full_name": "Marocco, Manilo & Pia",
+        "prefix": null,
+        "first_name": "Manilo",
+        "middle_name": null,
+        "last_name": "Marocco",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Pia"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-584 4329",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "0207-584 9345 (w)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [
+        {
+          "address": "pia@marocco.co.uk",
+          "type": "work",
+          "notes": "Business email - Marocco company"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [
+        "Email: info@marocco.co.uk",
+        "0207-581 2279",
+        "0207-589 0314 (w)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK business couple with company email"
+    },
+    {
+      "entry_id": "035_marsh_jeremy",
+      "name": {
+        "full_name": "Marsh, Jeremy",
+        "prefix": null,
+        "first_name": "Jeremy",
+        "middle_name": null,
+        "last_name": "Marsh",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "White Lodge 35 Pal Ad New",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "home",
+          "number": "0208-940 (h)",
+          "formatting": "UK landline - incomplete"
+        }
+      ],
+      "emails": [
+        {
+          "address": "jeremy.marsh@telstar.co.uk",
+          "type": "personal",
+          "notes": "UK email domain"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "White Lodge 35 Pal Ad New",
+            "Richmond"
+          ],
+          "city": "Richmond",
+          "state": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Richmond area"
+        }
+      ],
+      "handwritten_notes": [
+        "Email: jeremy@whitelletter.co.uk",
+        "0208-940 2227 (h)",
+        "0956 155906 (m)",
+        "0208 940 5050"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Richmond residence with UK email'Swalles Farm 8 Giralles Rd W14'"
+    },
+    {
+      "entry_id": "035_del_210",
+      "name": {
+        "full_name": null,
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": null,
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "Del 210",
+          "formatting": "Unclear"
+        },
+        {
+          "type": "home",
+          "number": "001 212 772 5061",
+          "formatting": "International to US - NYC"
+        },
+        {
+          "type": "mobile",
+          "number": "001 917 723 6760 (m)",
+          "formatting": "International to US - NYC mobile"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "40 E 80th Street Penthouse con-",
+            "New York, NY 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side penthouse"
+        }
+      ],
+      "handwritten_notes": [
+        "40 E 80th Street Penthouse con-",
+        "New York, NY 10021 (corner of park)"
+      ],
+      "confidence": {
+        "phones": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Orphan entry - Upper East Side penthouse contact"
+    },
+    {
+      "entry_id": "035_massimo_parisi",
+      "name": {
+        "full_name": "Massimo Parisi",
+        "prefix": null,
+        "first_name": "Massimo",
+        "middle_name": null,
+        "last_name": "Parisi",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "011 39 2 876 96900",
+          "formatting": "International - Italy, Milan (02 prefix)"
+        },
+        {
+          "type": "mobile",
+          "number": "011 39 2 876 96959 (telefax)",
+          "formatting": "Italy fax"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Via Gesù 3",
+            "20121 Milan, Italy"
+          ],
+          "city": "Milan",
+          "postal_code": "20121",
+          "country": "Italy",
+          "notes": "Central Milan address - fashion district 'Baltil Models'"
+        }
+      ],
+      "handwritten_notes": [
+        "011 39 337 642 850 (cell)",
+        "011 39 2 780 360 Elementa (h)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'Baltic Models' Milan fashion district contact"
+    },
+    {
+      "entry_id": "035_marterier_astrid",
+      "name": {
+        "full_name": "Marterier, Astrid",
+        "prefix": null,
+        "first_name": "Astrid",
+        "middle_name": null,
+        "last_name": "Marterier",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 288 1500(h)",
+          "formatting": "International to US - NYC"
+        },
+        {
+          "type": "work",
+          "number": "001 212 765 0540(w)",
+          "formatting": "International to US - NYC"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC contact"
+    },
+    {
+      "entry_id": "035_martins_peter",
+      "name": {
+        "full_name": "Martins, Peter",
+        "prefix": null,
+        "first_name": "Peter",
+        "middle_name": null,
+        "last_name": "Martins",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "212 870 5656",
+          "formatting": "NYC direct dial"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Peter Martins - NYC Ballet master, choreographer 'Director NYC Ballet'"
+    },
+    {
+      "entry_id": "035_marzotto_matteo",
+      "name": {
+        "full_name": "Marzotto, Matteo",
+        "prefix": null,
+        "first_name": "Matteo",
+        "middle_name": null,
+        "last_name": "Marzotto",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "00 39 041 524 0771",
+          "formatting": "International - Italy, Venice (041 prefix)"
+        },
+        {
+          "type": "mobile",
+          "number": "347 29 82022 (m)",
+          "formatting": "Italian mobile"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Venice, Italy contact 'Valentino'"
+    },
+    {
+      "entry_id": "035_mason_christopher",
+      "name": {
+        "full_name": "Mason, Christopher",
+        "prefix": null,
+        "first_name": "Christopher",
+        "middle_name": null,
+        "last_name": "Mason",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "320 East 72nd",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "home",
+          "number": "001 212 772 7265(h)",
+          "formatting": "International to US - NYC"
+        },
+        {
+          "type": "work",
+          "number": "001 212 517 6740(w)",
+          "formatting": "International to US - NYC"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "320 East 72nd",
+            "New York"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Upper East Side"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC Upper East Side"
+    },
+    {
+      "entry_id": "035_mattsson_carolina",
+      "name": {
+        "full_name": "Mattsson, Carolina",
+        "prefix": null,
+        "first_name": "Carolina",
+        "middle_name": null,
+        "last_name": "Mattsson",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 751 1455 (h)",
+          "formatting": "International to US - NYC"
+        },
+        {
+          "type": "mobile",
+          "number": "001 646 415 4444 (w)",
+          "formatting": "International to US - NYC"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Vanadisgatan 9 42678 V. Frolunda",
+            "Gothenberg, Sweden"
+          ],
+          "city": "Gothenberg",
+          "state": "Sweden",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Midtown East Manhattan"
+        }
+      ],
+      "handwritten_notes": [
+        "917 974 5454 (c)",
+        "212 486 0240"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Phone numbers also provided for father and mother. 'Mom - Dr. Sylvia Mattsson'"
+    },
+    {
+      "entry_id": "035_mavroleon_cailin",
+      "name": {
+        "full_name": "Mavroleon, Cailin",
+        "prefix": null,
+        "first_name": "Cailin",
+        "middle_name": null,
+        "last_name": "Mavroleon",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 584 2331",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK contact - Greek shipping family name"
+    },
+    {
+      "entry_id": "035_mavroleon_basil_carina",
+      "name": {
+        "full_name": "Mavroleon, Basil & Carina",
+        "prefix": null,
+        "first_name": "Basil",
+        "middle_name": null,
+        "last_name": "Mavroleon",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Carina"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "44 Cadogan Sq",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "home",
+          "number": "001 213 838 2083 (h)",
+          "formatting": "International to US - LA area"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "44 Cadogan Square",
+            "London SW1"
+          ],
+          "city": "London",
+          "postal_code": "SW1",
+          "country": "UK",
+          "notes": "Cadogan Square - prestigious Knightsbridge/Chelsea location"
+        }
+      ],
+      "handwritten_notes": [
+        "001 213 838 8867 London"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Greek shipping family - Cadogan Square address"
+    },
+    {
+      "entry_id": "035_mavroleon_carlos",
+      "name": {
+        "full_name": "Mavroleon, Carlos",
+        "prefix": null,
+        "first_name": "Carlos",
+        "middle_name": null,
+        "last_name": "Mavroleon",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "143 Beaufort St",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "home",
+          "number": "0207-351 3936",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "143 Beaufort Street",
+            "London"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Chelsea location"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Mavroleon family - Greek shipping dynasty"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 17,
+    "entries_with_emails": 3,
+    "entries_with_addresses": 12,
+    "entries_with_handwritten_notes": 7,
+    "couples": 5,
+    "average_confidence": "high",
+    "notable_figures_count": 2
+  },
+  "cross_references": [
+    {
+      "entry_id": "035_manners_teresa",
+      "reference": "Manners family - see page 34 for Eddie and Lucy Manners",
+      "related_pages": [34]
+    },
+    {
+      "entry_id": "035_mavroleon_basil_catherine",
+      "reference": "Mavroleon shipping family - multiple family members on this page",
+      "related_entries": ["035_mavroleon_cailin", "035_mavroleon_carlos"]
+    }
+  ],
+  "entities": {
+    "people": [
+      "Teresa Manners",
+      "Jose Luis Manzano",
+      "Alejandra Manzano",
+      "John Mappin",
+      "Eric Margolis",
+      "Stephen Marks",
+      "Allsa Marks",
+      "Manilo Marocco",
+      "Pia Marocco",
+      "Jeremy Marsh",
+      "Massimo Parisi",
+      "Astrid Marterier",
+      "Peter Martins",
+      "Matteo Marzotto",
+      "Christopher Mason",
+      "Carolina Mattsson",
+      "Cailin Mavroleon",
+      "Basil Mavroleon",
+      "Carina Mavroleon",
+      "Carlos Mavroleon"
+    ],
+    "organizations": [
+      "French Connection (Stephen Marks)",
+      "New York City Ballet"
+    ],
+    "locations": {
+      "international": [
+        "London, UK (multiple contacts)",
+        "Buenos Aires, Argentina",
+        "Milan, Italy",
+        "Venice, Italy",
+        "Cornwall, UK",
+        "Richmond, UK",
+        "Portugal (Algarve)"
+      ],
+      "us_cities": [
+        "New York City (multiple contacts)",
+        "Los Angeles, CA"
+      ],
+      "elite_addresses": [
+        "The Boltons, London (exclusive garden square)",
+        "Cadogan Square, London (Knightsbridge)",
+        "Chelsea, London (multiple addresses)",
+        "Upper East Side NYC (multiple addresses)",
+        "Camelot Castle, Cornwall"
+      ]
+    }
+  },
+  "insights": [
+    "Stephen Marks - founder of French Connection fashion brand, The Boltons residence",
+    "Peter Martins - NYC Ballet master and choreographer",
+    "Mavroleon family - prominent Greek shipping dynasty with multiple family members (Basil, Catherine, Cailin, Carlos)",
+    "John Mappin - Camelot Castle owner in Tintagel, Cornwall",
+    "Geographic concentration: London elite addresses (Cadogan Square, The Boltons, Chelsea), NYC Upper East Side",
+    "International business reach: Argentina, Italy (Milan/Venice fashion centers), Portugal",
+    "Manners family continued from page 34 with Teresa Manners",
+    "Multiple couples indicating social circle connections",
+    "Fashion industry connections: Stephen Marks (French Connection), Milan contacts",
+    "Greek shipping dynasty well-represented through Mavroleon family entries"
+  ]
+}

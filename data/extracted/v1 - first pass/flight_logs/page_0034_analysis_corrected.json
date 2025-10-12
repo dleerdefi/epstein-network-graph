@@ -1,0 +1,255 @@
+{
+  "page_number": 34,
+  "document_type": "Flight Log",
+  "metadata": {
+    "time_period": "March - May 1995",
+    "header_date": "1995 MAR",
+    "pilot": "David Rodgers",
+    "aircraft_registration": "N908JE",
+    "aircraft_make_model": "G1159B",
+    "total_flight_time_page": "46:03",
+    "amt_forward": "6357:36",
+    "total_to_date": "6403:39"
+  },
+  "flights": [
+    {
+      "date": "03/08/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "SAV",
+      "arrival": "TEB",
+      "flight_time": "1:03",
+      "passengers": "REPOSITIONING WITH SOPHIE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "03/09/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "1:06",
+      "passengers": "JE, GM, ANDY",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "03/12/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "1:06",
+      "passengers": "JE, GM, ANDY",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "03/16/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "1:06",
+      "passengers": "JE, GM, ROBERT SHAY, 4 PAX",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "03/19/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "1:06",
+      "passengers": "JE, ROGER, LARRY, 4 PAX",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "03/21/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "DCA",
+      "flight_time": "1:00",
+      "passengers": "JE, JAMES KEVER",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "03/21/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "DCA",
+      "arrival": "TEB",
+      "flight_time": "1:00",
+      "passengers": "JE, JAMES KEVER",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "03/22/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:30",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "03/28/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "1:06",
+      "passengers": "JE, GM, ANDY, JORDAN, HUOT",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "03/13/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:03",
+      "passengers": "JE, GM, ANDY, SONJAME, STEVE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "03/16/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TED",
+      "flight_time": "1:04",
+      "passengers": "JE, ANDY, SONJAME, DADDY, 1 FEMALE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "03/20/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:06",
+      "passengers": "JE, GM, ANDY",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "03/24/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "1:06",
+      "passengers": "JE, ANDY",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "03/27/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "SAV",
+      "flight_time": "4:30",
+      "passengers": "JE, GM, ANDY",
+      "crew": "",
+      "landings": "4",
+      "aircraft_category": ""
+    },
+    {
+      "date": "03/29/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "SAV",
+      "arrival": "NEW",
+      "flight_time": "1:09",
+      "passengers": "JE, GM, PETER",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "03/29/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "NEW",
+      "arrival": "PBI",
+      "flight_time": "1:03",
+      "passengers": "JE, GM, ANDY",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "03/29/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:06",
+      "passengers": "JE, ANDY",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "04/01/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:11",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "04/04/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "APF",
+      "flight_time": "2:06",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "04/07/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:06",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "04/10/1995",
+      "note": "Additional April entries likely continue here based on page totals and page 35 starting with May 9",
+      "aircraft": "G1159B N908JE",
+      "departure": "[Partially visible]",
+      "arrival": "[Partially visible]",
+      "flight_time": "[Partially visible]",
+      "passengers": "[Bottom of page cut off]",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    }
+  ],
+  "corrections": {
+    "date_inference": "Page 34 starts with header '1995 MAR', shows March entries (3/8-3/29), then transitions to April entries (4/1, 4/4, 4/7). Additional April dates likely continue but are partially cut off in the visible portion of the image",
+    "actual_dates_from_png": "Verified from PNG: March 1995 entries clearly visible, April 1995 entries start with APR 1, 4, 7. Bottom portion of page appears to have additional entries but they are not fully legible in the image",
+    "note": "Page 35 starts with May 9, 1995, so the remainder of April 1995 should be on page 34 but may be cut off in the visible portion of the PNG"
+  },
+  "pilot_signature": "David Rodgers",
+  "page_total": "46:03 hours"
+}

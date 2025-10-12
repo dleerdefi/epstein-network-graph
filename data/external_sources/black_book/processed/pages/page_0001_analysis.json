@@ -1,0 +1,637 @@
+{
+  "page_number": 1,
+  "alphabetical_section": "A",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "001_unknown_abby",
+      "name": {
+        "full_name": "Abby",
+        "prefix": null,
+        "first_name": "Abby",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "7944574202",
+          "formatting": "7944574202"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "001_abousleiman_joanna",
+      "name": {
+        "full_name": "Abousleiman Joanna",
+        "prefix": null,
+        "first_name": "Joanna",
+        "middle_name": null,
+        "last_name": "Abousleiman",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "603338787",
+          "formatting": "603338787"
+        }
+      ],
+      "emails": [
+        {
+          "address": "joannachevalier@hotmail.c",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "001_adam_nick",
+      "name": {
+        "full_name": "Adam Nick",
+        "prefix": null,
+        "first_name": "Nick",
+        "middle_name": null,
+        "last_name": "Adam",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "603338787",
+          "formatting": "603338787"
+        },
+        {
+          "type": "home",
+          "number": "00331 40150061",
+          "formatting": "00331 40150061 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "33607341980",
+          "formatting": "33607341980"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "19 rue De Lille"
+          ],
+          "city": "Paris",
+          "state": null,
+          "postal_code": "75007",
+          "country": "France",
+          "notes": "Paris residential"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "001_agag_alejandro",
+      "name": {
+        "full_name": "Agag Alejandro",
+        "prefix": null,
+        "first_name": "Alejandro",
+        "middle_name": null,
+        "last_name": "Agag",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0044 771 730 6038",
+          "formatting": "0044 771 730 6038 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "aagag@aslinvestments.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "001_agnew_marie_claire_&_john",
+      "name": {
+        "full_name": "Agnew, Marie Claire",
+        "prefix": null,
+        "first_name": "Marie Claire & John",
+        "middle_name": null,
+        "last_name": "Agnew",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "John"
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207 621 0011",
+          "formatting": "0207 621 0011 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-235 7589",
+          "formatting": "0207-235 7589 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "51 Eaton Square"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW1 0QY",
+          "country": "UK",
+          "notes": "Eaton Square/Place elite"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "001_alai_azzedine",
+      "name": {
+        "full_name": "Alai Azzedine",
+        "prefix": null,
+        "first_name": "Azzedine",
+        "middle_name": null,
+        "last_name": "Alai",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00331 4272 1919",
+          "formatting": "00331 4272 1919 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "001_albermarle_rufus_&_sally",
+      "name": {
+        "full_name": "Albermarle, Rufus",
+        "prefix": null,
+        "first_name": "Rufus & Sally",
+        "middle_name": null,
+        "last_name": "Albermarle",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Sally"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 271 3481 (try this first)",
+          "formatting": "212 271 3481 (try this first)"
+        },
+        {
+          "type": "work",
+          "number": "1 212 465 9867",
+          "formatting": "1 212 465 9867"
+        },
+        {
+          "type": "portable",
+          "number": "1 917 969 2168 Rufus",
+          "formatting": "1 917 969 2168 Rufus"
+        },
+        {
+          "type": "portable",
+          "number": "1 917 257 9735 Sally",
+          "formatting": "1 917 257 9735 Sally"
+        }
+      ],
+      "emails": [
+        {
+          "address": "rufusa@mac.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "511 6th Ave, P.O. Box 394"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10011",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "001_aldridge_saffron",
+      "name": {
+        "full_name": "Aldridge Saffron",
+        "prefix": null,
+        "first_name": "Saffron",
+        "middle_name": null,
+        "last_name": "Aldridge",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-727 1006",
+          "formatting": "0207-727 1006 (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 212-879-7653",
+          "formatting": "001 212-879-7653 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "0207-221-3627",
+          "formatting": "0207-221-3627 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "47 Ladbroke Rd"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W11 3PD",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "001_alexander_pam",
+      "name": {
+        "full_name": "Alexander Pam",
+        "prefix": null,
+        "first_name": "Pam",
+        "middle_name": null,
+        "last_name": "Alexander",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "01 415 644 3055",
+          "formatting": "01 415 644 3055"
+        },
+        {
+          "type": "portable",
+          "number": "01 415 515 9708",
+          "formatting": "01 415 515 9708"
+        }
+      ],
+      "emails": [
+        {
+          "address": "palexander@alexanderrogil",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "001_aligranti_giacomo",
+      "name": {
+        "full_name": "Aligranti Giacomo",
+        "prefix": null,
+        "first_name": "Giacomo",
+        "middle_name": null,
+        "last_name": "Aligranti",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0385 261 390",
+          "formatting": "0385 261 390"
+        },
+        {
+          "type": "unknown",
+          "number": "0207-746 1157 (f)",
+          "formatting": "0207-746 1157 (f) (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "0207-930-3703 (gw)",
+          "formatting": "0207-930-3703 (gw) (UK London)"
+        },
+        {
+          "type": "work",
+          "number": "0208-746-1181",
+          "formatting": "0208-746-1181 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0208-969 0027",
+          "formatting": "0208-969 0027 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "386438218",
+          "formatting": "386438218"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Flat 4, 83 Dilke St."
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W1",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "001_allan_paul",
+      "name": {
+        "full_name": "Allan Paul",
+        "prefix": null,
+        "first_name": "Paul",
+        "middle_name": null,
+        "last_name": "Allan",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 206 355 5777",
+          "formatting": "001 206 355 5777 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "paul@vulcan.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "001_allan_nick_&_sarah",
+      "name": {
+        "full_name": "Allan Nick",
+        "prefix": null,
+        "first_name": "Nick & Sarah",
+        "middle_name": null,
+        "last_name": "Allan",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Sarah"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00-852-813-0762",
+          "formatting": "00-852-813-0762 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "B5 Banyan Villas, 9 Stanley Village Road"
+          ],
+          "city": "Hong Kong",
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "001_althorp_charlie",
+      "name": {
+        "full_name": "Althorp Charlie",
+        "prefix": null,
+        "first_name": "Charlie",
+        "middle_name": null,
+        "last_name": "Althorp",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-637 8655",
+          "formatting": "0207-637 8655 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-229-1573",
+          "formatting": "0207-229-1573 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 13,
+    "entries_with_emails": 5,
+    "entries_with_addresses": 6,
+    "entries_with_handwritten_notes": 0,
+    "couples": 3,
+    "average_confidence": "high",
+    "notable_figures_count": 0
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Abby",
+      "Abousleiman Joanna",
+      "Adam Nick",
+      "Agag Alejandro",
+      "Agnew, Marie Claire",
+      "John",
+      "Alai Azzedine",
+      "Albermarle, Rufus",
+      "Sally",
+      "Aldridge Saffron",
+      "Alexander Pam",
+      "Aligranti Giacomo",
+      "Allan Paul",
+      "Allan Nick",
+      "Sarah",
+      "Althorp Charlie"
+    ],
+    "organizations": [],
+    "locations": {
+      "international": [
+        "UK",
+        "France"
+      ],
+      "us_cities": [
+        "Hong Kong",
+        "New York",
+        "Paris",
+        "London"
+      ],
+      "elite_addresses": [
+        "19 rue De Lille",
+        "51 Eaton Square"
+      ]
+    }
+  },
+  "insights": [
+    "First page of alphabetical listings - 'A' section"
+  ]
+}

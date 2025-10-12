@@ -1,0 +1,745 @@
+{
+  "page_number": 37,
+  "alphabetical_section": "M",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "037_mc_allenor",
+      "name": {
+        "full_name": "MC & Allenor",
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": null,
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Allenor"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-487 3001 (wl)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "home",
+          "number": "0207 591 0121",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "mobile",
+          "number": "01444 400222 (h) (e)",
+          "formatting": "UK format"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "1406 Grove",
+            "London Hampton"
+          ],
+          "city": "London",
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Hampton area"
+        },
+        {
+          "type": "home",
+          "address_lines": [
+            "New York, NY 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side NYC"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "medium",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Lime close Drayton Abingdon Oxfordshire"
+    },
+    {
+      "entry_id": "037_mayhew_mr_john",
+      "name": {
+        "full_name": "Mayhew, Mr John",
+        "prefix": "Mr",
+        "first_name": "John",
+        "middle_name": null,
+        "last_name": "Mayhew",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-235 5397",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "0207-629 6115 (w)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "30 Lowndes Square",
+            "London SW1"
+          ],
+          "city": "London",
+          "postal_code": "SW1",
+          "country": "UK",
+          "notes": "Lowndes Square - prestigious Belgravia location"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Belgravia - Lowndes Square residence"
+    },
+    {
+      "entry_id": "037_mcalpine_romilly_alistair",
+      "name": {
+        "full_name": "McAlpine, Alistair & Romilly",
+        "prefix": null,
+        "first_name": "Alistair",
+        "middle_name": null,
+        "last_name": "McAlpine",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Romilly"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 584 3746",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "c/o The porters Grilti Palace Hotel",
+            "San Marco Venice 30124"
+          ],
+          "city": "Venice",
+          "postal_code": "30124",
+          "country": "Italy",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [
+        "0585 2111 (celuar)",
+        "0860 2033 (celular)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Knightsbridge couple with mobile phones"
+    },
+    {
+      "entry_id": "037_mazandi_yassi",
+      "name": {
+        "full_name": "Mazandi, Yassi",
+        "prefix": null,
+        "first_name": "Yassi",
+        "middle_name": null,
+        "last_name": "Mazandi",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-352 8337",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "0207-349 1881 (w)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "47 Cheyne Walk",
+            "London SW3 5LP"
+          ],
+          "city": "London",
+          "postal_code": "SW3",
+          "country": "UK",
+          "notes": "Cheyne Walk - historic Chelsea riverside location"
+        }
+      ],
+      "handwritten_notes": [
+        "0207-349 6119 (w)",
+        "0207-349 6118 (h)",
+        "0207-351 1181 (w)",
+        "0802 381 1890 (p)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Cheyne Walk - prestigious Chelsea riverside address"
+    },
+    {
+      "entry_id": "037_mazzoti_mateo",
+      "name": {
+        "full_name": "Mazzoti, Mateo",
+        "prefix": null,
+        "first_name": "Mateo",
+        "middle_name": null,
+        "last_name": "Mazzoti",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 831 1237 3333",
+          "formatting": "International to US - NYC"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC contact"
+    },
+    {
+      "entry_id": "037_mcdonald_john",
+      "name": {
+        "full_name": "McDonald, John",
+        "prefix": null,
+        "first_name": "John",
+        "middle_name": null,
+        "last_name": "McDonald",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 986 6727 (h)",
+          "formatting": "International to US - NYC"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC contact"
+    },
+    {
+      "entry_id": "037_mcfarland_anthony",
+      "name": {
+        "full_name": "McFarland, Anthony",
+        "prefix": null,
+        "first_name": "Anthony",
+        "middle_name": null,
+        "last_name": "McFarland",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 088 255 2433 (w)",
+          "formatting": "International"
+        },
+        {
+          "type": "home",
+          "number": "001 088 245 0344 (h)",
+          "formatting": "International"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "International contact"
+    },
+    {
+      "entry_id": "037_mckenzie_raymond",
+      "name": {
+        "full_name": "McKenzie, Raymond",
+        "prefix": null,
+        "first_name": "Raymond",
+        "middle_name": null,
+        "last_name": "McKenzie",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-340 4169",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "8 Forest Manor"
+          ],
+          "city": "London",
+          "postal_code": null,
+          "country": "UK",
+          "notes": "London address"
+        }
+      ],
+      "handwritten_notes": [
+        "001 917 359 8911 (p)",
+        "212 758 4100 Regency"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK contact with NYC numbers"
+    },
+    {
+      "entry_id": "037_melancy_cas",
+      "name": {
+        "full_name": "Melancy, Cas",
+        "prefix": null,
+        "first_name": "Cas",
+        "middle_name": null,
+        "last_name": "Melancy",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "mobile",
+          "number": "001 917 293 7267",
+          "formatting": "International to US - NYC mobile"
+        }
+      ],
+      "emails": [
+        {
+          "address": "cazyan@compuserve.com",
+          "type": "work",
+          "notes": "CompuServe email"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "CompuServe email contact"
+    },
+    {
+      "entry_id": "037_mendoza_neil",
+      "name": {
+        "full_name": "Mendoza, Neil",
+        "prefix": null,
+        "first_name": "Neil",
+        "middle_name": null,
+        "last_name": "Mendoza",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "212 755 0091 (h)",
+          "formatting": "NYC direct dial"
+        },
+        {
+          "type": "work",
+          "number": "212 888 1220 (w)",
+          "formatting": "NYC direct dial"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "301 E 65th St #25 A-C",
+            "New York, NY 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side"
+        }
+      ],
+      "handwritten_notes": [
+        "212 888 1221 fax",
+        "001 516 329 8772"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC Upper East Side"
+    },
+    {
+      "entry_id": "037_mclane_shannon",
+      "name": {
+        "full_name": "Melane, Shannon",
+        "prefix": null,
+        "first_name": "Shannon",
+        "middle_name": null,
+        "last_name": "Mclane",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 213 658 4410",
+          "formatting": "International to US - LA area"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'Cose Belle' Los Angeles contact"
+    },
+    {
+      "entry_id": "037_mcleod_jock_pru",
+      "name": {
+        "full_name": "McLeod, Jock & Pru",
+        "prefix": null,
+        "first_name": "Jock",
+        "middle_name": null,
+        "last_name": "McLeod",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Pru"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-584 8002 (h)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "0207-331 8028 (w)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "4 Launceston Crescent",
+            "London"
+          ],
+          "city": "London",
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Kensington area"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK couple - Kensington"
+    },
+    {
+      "entry_id": "037_menzies_kate",
+      "name": {
+        "full_name": "Menzies, Kate",
+        "prefix": null,
+        "first_name": "Kate",
+        "middle_name": null,
+        "last_name": "Menzies",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "mobile",
+          "number": "001 917 680 9556 (h)",
+          "formatting": "International to US - NYC mobile"
+        },
+        {
+          "type": "work",
+          "number": "001 201 655 61 W",
+          "formatting": "International to US"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "business",
+          "address_lines": [
+            "c/o Georgian Maps"
+          ],
+          "notes": "Business address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "US contact with business address"
+    },
+    {
+      "entry_id": "037_meister_todd",
+      "name": {
+        "full_name": "Meister, Todd",
+        "prefix": null,
+        "first_name": "Todd",
+        "middle_name": null,
+        "last_name": "Meister",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "212 371 5300 (h)",
+          "formatting": "NYC direct dial"
+        },
+        {
+          "type": "work",
+          "number": "212 478 9130 (w)",
+          "formatting": "NYC direct dial"
+        },
+        {
+          "type": "mobile",
+          "number": "001 917 991 7345 (mobile)",
+          "formatting": "International to US - NYC mobile"
+        }
+      ],
+      "emails": [
+        {
+          "address": "tmeister@priderockfunds.com",
+          "type": "work",
+          "notes": "Pride Rock Funds"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "The Regency Hotel",
+            "540 Park Avenue",
+            "New York, NY 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "West Village NYC"
+        }
+      ],
+      "handwritten_notes": [
+        "HomeSmith 1996 pricethemix.com"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC West Village - real estate professional"
+    },
+    {
+      "entry_id": "037_merison_guy_caroline",
+      "name": {
+        "full_name": "Merison, Guy & Caroline",
+        "prefix": null,
+        "first_name": "Guy",
+        "middle_name": null,
+        "last_name": "Merison",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Caroline"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 213 278 6690 (h)",
+          "formatting": "International to US - LA area"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Los Angeles couple"
+    },
+    {
+      "entry_id": "037_merivale_austen_bruce",
+      "name": {
+        "full_name": "Merivale-Austen, Bruce",
+        "prefix": null,
+        "first_name": "Bruce",
+        "middle_name": null,
+        "last_name": "Merivale-Austen",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-937 1044",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "0207-591 1926 (w)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "3 Cherry Avenue",
+            "London"
+          ],
+          "city": "London",
+          "postal_code": null,
+          "country": "UK",
+          "notes": "London address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK contact"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 16,
+    "entries_with_emails": 2,
+    "entries_with_addresses": 10,
+    "entries_with_handwritten_notes": 5,
+    "couples": 4,
+    "average_confidence": "high",
+    "notable_figures_count": 1
+  },
+  "cross_references": [
+    {
+      "entry_id": "037_mcalpine_romilly_alistair",
+      "reference": "Alistair McAlpine - Baron McAlpine, former Conservative Party Treasurer, based in Venice",
+      "notes": "Gritti Palace Hotel address - luxury Venice hotel"
+    }
+  ],
+  "entities": {
+    "people": [
+      "MC",
+      "Allenor",
+      "John Mayhew",
+      "Alistair McAlpine",
+      "Romilly McAlpine",
+      "Yassi Mazandi",
+      "Mateo Mazzoti",
+      "John McDonald",
+      "Anthony McFarland",
+      "Raymond McKenzie",
+      "Cas Melancy",
+      "Neil Mendoza",
+      "Shannon Mclane",
+      "Jock McLeod",
+      "Pru McLeod",
+      "Kate Menzies",
+      "Todd Meister",
+      "Guy Merison",
+      "Caroline Merison",
+      "Bruce Merivale-Austen"
+    ],
+    "organizations": [
+      "Pride Rock Funds (Todd Meister)",
+      "Georgian Maps (Kate Menzies)",
+      "Cose Belle (Shannon Mclane)"
+    ],
+    "locations": {
+      "international": [
+        "London, UK (multiple contacts)",
+        "Los Angeles, CA"
+      ],
+      "us_cities": [
+        "New York City (multiple contacts)"
+      ],
+      "elite_addresses": [
+        "Lowndes Square, Belgravia (London SW1)",
+        "Pont Street, Knightsbridge (London SW1)",
+        "Cheyne Walk, Chelsea (London SW3)",
+        "Kensington, London",
+        "Upper East Side NYC (E 65th St)",
+        "West Village NYC (Perry St)"
+      ]
+    }
+  },
+  "insights": [
+    "Alistair McAlpine - Baron McAlpine, former Conservative Party Treasurer, based in Venice at Gritti Palace Hotel",
+    "Lowndes Square, Belgravia (John Mayhew) - one of London's most prestigious garden squares",
+    "Cheyne Walk, Chelsea (Yassi Mazandi) - historic riverside location favored by artists and celebrities",
+    "Geographic concentration: London elite neighborhoods (Belgravia, Knightsbridge, Chelsea, Kensington), NYC (Upper East Side, West Village)",
+    "Todd Meister - real estate/finance professional with Pride Rock Funds, staying at Regency Hotel NYC",
+    "Multiple contacts with both UK and US numbers indicating transatlantic lifestyle",
+    "Cas Melancy with CompuServe email (cazyan@compuserve.com) - early internet adopter",
+    "Kate Menzies associated with Georgian Maps business",
+    "Several couples in London elite neighborhoods indicating close social networks",
+    "Mix of UK aristocracy (McAlpine), finance (Meister), and international contacts"
+  ]
+}

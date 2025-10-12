@@ -1,0 +1,1073 @@
+{
+  "page_number": 17,
+  "alphabetical_section": "C/E",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "017_edwards_andrew_&_tracy",
+      "name": {
+        "full_name": "Edwards, Andrew",
+        "prefix": null,
+        "first_name": "Andrew & Tracy",
+        "middle_name": null,
+        "last_name": "Edwards",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Tracy"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-235 4121",
+          "formatting": "0207-235 4121 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "9 Eaton Mews South"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW1W 9HP",
+          "country": "UK",
+          "notes": "Eaton Square/Place elite"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "017_elian_johnathan",
+      "name": {
+        "full_name": "Elian, Johnathan",
+        "prefix": null,
+        "first_name": "Johnathan",
+        "middle_name": null,
+        "last_name": "Elian",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 203 422 7711",
+          "formatting": "001 203 422 7711 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 203 496 6251",
+          "formatting": "001 203 496 6251 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "1 203 249 8645",
+          "formatting": "1 203 249 8645"
+        }
+      ],
+      "emails": [
+        {
+          "address": "eilianj@starwood.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "7 Hill Road"
+          ],
+          "city": "Greenwich",
+          "state": null,
+          "postal_code": "CT 06830",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "017_elias_brian",
+      "name": {
+        "full_name": "Elias, Brian",
+        "prefix": null,
+        "first_name": "Brian",
+        "middle_name": null,
+        "last_name": "Elias",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 305 789 9242",
+          "formatting": "001 305 789 9242 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 305 538 0010",
+          "formatting": "001 305 538 0010 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 305 798 3831",
+          "formatting": "001 305 798 3831 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "017_eliasch_johan_&_amanda",
+      "name": {
+        "full_name": "Eliasch, Johan",
+        "prefix": null,
+        "first_name": "Johan & Amanda",
+        "middle_name": null,
+        "last_name": "Eliasch",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Amanda"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "+44 207 629 4399 (f)",
+          "formatting": "+44 207 629 4399 (f)"
+        },
+        {
+          "type": "home",
+          "number": "+44 207 730 6459",
+          "formatting": "+44 207 730 6459"
+        }
+      ],
+      "emails": [
+        {
+          "address": "aeratbag@aol.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "31 Chester Square"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW1W 9HT",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "017_eliasch_johan_&_amanda",
+      "name": {
+        "full_name": "Eliasch, Johan",
+        "prefix": null,
+        "first_name": "Johan & Amanda",
+        "middle_name": null,
+        "last_name": "Eliasch",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Amanda"
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "917 330 6039",
+          "formatting": "917 330 6039 (NYC mobile)"
+        },
+        {
+          "type": "portable",
+          "number": "+44 77 67 87 2059 (Amanda)",
+          "formatting": "+44 77 67 87 2059 (Amanda)"
+        },
+        {
+          "type": "portable",
+          "number": "001 347 672 7268",
+          "formatting": "001 347 672 7268 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "00 43 66 4381 4724 (Johan)",
+          "formatting": "00 43 66 4381 4724 (Johan) (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "71 South Audley Street"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": "WIK 15A",
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "017_unknown_elizabeth",
+      "name": {
+        "full_name": "Elizabeth",
+        "prefix": null,
+        "first_name": "Elizabeth",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "33660596267",
+          "formatting": "33660596267"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "017_ellenbogen_eric",
+      "name": {
+        "full_name": "Ellenbogen Eric",
+        "prefix": null,
+        "first_name": "Eric",
+        "middle_name": null,
+        "last_name": "Ellenbogen",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 659 1970",
+          "formatting": "001 212 659 1970 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 353 1275",
+          "formatting": "001 212 353 1275 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "22 Gramercy Park"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10003",
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "017_ellingworth_mr_&_mrs",
+      "name": {
+        "full_name": "Ellingworth, Mr",
+        "prefix": null,
+        "first_name": "Mr & Mrs",
+        "middle_name": null,
+        "last_name": "Ellingworth",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Mrs"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0747 870754 (c)",
+          "formatting": "0747 870754 (c)"
+        },
+        {
+          "type": "work",
+          "number": "0208-994 3782",
+          "formatting": "0208-994 3782 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0208-734 5129",
+          "formatting": "0208-734 5129 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "The Old House, Leicestershire"
+          ],
+          "city": "Laughton",
+          "state": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "017_elliot_ben",
+      "name": {
+        "full_name": "Elliot, Ben",
+        "prefix": null,
+        "first_name": "Ben",
+        "middle_name": null,
+        "last_name": "Elliot",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 917 320 6405 (wf)",
+          "formatting": "001 917 320 6405 (wf) (International)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 837 7740",
+          "formatting": "001 212 837 7740 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "ben@quintessentially.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "80 Broad Street, 5th Floor"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10004",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Quintessentially"
+    },
+    {
+      "entry_id": "017_elliot_ben",
+      "name": {
+        "full_name": "Elliot, Ben",
+        "prefix": null,
+        "first_name": "Ben",
+        "middle_name": null,
+        "last_name": "Elliot",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207 436 6980 (wf)",
+          "formatting": "0207 436 6980 (wf) (UK London)"
+        },
+        {
+          "type": "work",
+          "number": "0207 908 7270",
+          "formatting": "0207 908 7270 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 553 6784",
+          "formatting": "001 917 553 6784 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "15-19 Great Titchfield Street"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W1W",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Quintessentially"
+    },
+    {
+      "entry_id": "017_elliot_gail",
+      "name": {
+        "full_name": "Elliot, Gail",
+        "prefix": null,
+        "first_name": "Gail",
+        "middle_name": null,
+        "last_name": "Elliot",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "01 212 571 6178 (fax)",
+          "formatting": "01 212 571 6178 (fax)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 571 6153",
+          "formatting": "001 212 571 6153 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 692 2299",
+          "formatting": "001 917 692 2299 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "72 Reade Street #5"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10007",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "017_coffey_joe",
+      "name": {
+        "full_name": "Coffey",
+        "prefix": null,
+        "first_name": "Joe",
+        "middle_name": null,
+        "last_name": "Coffey",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "01 212 571 6178 (fax)",
+          "formatting": "01 212 571 6178 (fax)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 571 6153",
+          "formatting": "001 212 571 6153 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 692 2299",
+          "formatting": "001 917 692 2299 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "72 Reade Street #5"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10007",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "017_ellison_mandy_&_ralph",
+      "name": {
+        "full_name": "Ellison, Mandy",
+        "prefix": null,
+        "first_name": "Mandy & Ralph",
+        "middle_name": null,
+        "last_name": "Ellison",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Ralph"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "581-881-5748",
+          "formatting": "581-881-5748"
+        },
+        {
+          "type": "unknown",
+          "number": "561 881 5749 (f)",
+          "formatting": "561 881 5749 (f)"
+        },
+        {
+          "type": "unknown",
+          "number": "561 863 4791 (Voice Mail)",
+          "formatting": "561 863 4791 (Voice Mail)"
+        },
+        {
+          "type": "home",
+          "number": "561-881-9093",
+          "formatting": "561-881-9093"
+        },
+        {
+          "type": "home",
+          "number": "561 881-5748",
+          "formatting": "561 881-5748"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "218 Mediterranean Road"
+          ],
+          "city": "Palm Beach",
+          "state": null,
+          "postal_code": "FL 33480",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "017_elwes_anabel",
+      "name": {
+        "full_name": "Elwes, Anabel",
+        "prefix": null,
+        "first_name": "Anabel",
+        "middle_name": null,
+        "last_name": "Elwes",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-629 5955",
+          "formatting": "0207-629 5955 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "41A Limerston Street"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW10",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "017_epstein_ed",
+      "name": {
+        "full_name": "Epstein, Ed",
+        "prefix": null,
+        "first_name": "Ed",
+        "middle_name": null,
+        "last_name": "Epstein",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 249 4003",
+          "formatting": "001 212 249 4003 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "430 East 86th St."
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10028",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "017_erba_noona",
+      "name": {
+        "full_name": "Erba Noona",
+        "prefix": null,
+        "first_name": "Noona",
+        "middle_name": null,
+        "last_name": "Erba",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0039 02 550 0510",
+          "formatting": "0039 02 550 0510 (International)"
+        },
+        {
+          "type": "home",
+          "number": "00 39 02 481 7343",
+          "formatting": "00 39 02 481 7343 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Tall Blonde Armanai"
+    },
+    {
+      "entry_id": "017_espirito_santo_manuel_&_ros",
+      "name": {
+        "full_name": "Espirito Santo, Manuel",
+        "prefix": null,
+        "first_name": "Manuel & Ros",
+        "middle_name": null,
+        "last_name": "Espirito Santo",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Ros"
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "00 35 113974740",
+          "formatting": "00 35 113974740 (International)"
+        },
+        {
+          "type": "home",
+          "number": "0207-730 7768",
+          "formatting": "0207-730 7768 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "00 35 936 445877",
+          "formatting": "00 35 936 445877 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "017_estlin_jean-marc",
+      "name": {
+        "full_name": "Estlin, Jean-Marc",
+        "prefix": null,
+        "first_name": "Jean-Marc",
+        "middle_name": null,
+        "last_name": "Estlin",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 331 5375 0376 (f)",
+          "formatting": "00 331 5375 0376 (f) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 331 4020 0763",
+          "formatting": "00 331 4020 0763 (International)"
+        },
+        {
+          "type": "work",
+          "number": "00 331 5375 0333",
+          "formatting": "00 331 5375 0333 (International)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 751 9600",
+          "formatting": "001 212 751 9600 (International)"
+        },
+        {
+          "type": "home",
+          "number": "00 55 11 852 2466",
+          "formatting": "00 55 11 852 2466 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 769 9760 (frnd h)",
+          "formatting": "001 212 769 9760 (frnd h) (International)"
+        },
+        {
+          "type": "portable",
+          "number": "00 55 11 9935 3391 (Brazil)",
+          "formatting": "00 55 11 9935 3391 (Brazil) (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "7 Rue des Saints-Peres"
+          ],
+          "city": "Paris",
+          "state": null,
+          "postal_code": "75006",
+          "country": "France",
+          "notes": "Paris residential"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "017_estrada_juffali_christina",
+      "name": {
+        "full_name": "Estrada Juffali, Christina",
+        "prefix": null,
+        "first_name": "Christina",
+        "middle_name": null,
+        "last_name": "Estrada Juffali",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-823 8822",
+          "formatting": "0207-823 8822 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "07769 678776",
+          "formatting": "07769 678776"
+        }
+      ],
+      "emails": [
+        {
+          "address": "chrstinaestrada@hotmail.",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "50 Hyde Park Gate"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW7 5DH",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Juffali, Walid"
+    },
+    {
+      "entry_id": "017_estrada_juffali_christina",
+      "name": {
+        "full_name": "Estrada Juffali, Christina",
+        "prefix": null,
+        "first_name": "Christina",
+        "middle_name": null,
+        "last_name": "Estrada Juffali",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "00 9662 6600005",
+          "formatting": "00 9662 6600005 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "7769678776",
+          "formatting": "7769678776"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "P.O.Box 1049"
+          ],
+          "city": "Jeddah",
+          "state": null,
+          "postal_code": "21431",
+          "country": "Saudi Arabia",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Juffali, Walid"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 20,
+    "entries_with_emails": 4,
+    "entries_with_addresses": 16,
+    "entries_with_handwritten_notes": 0,
+    "couples": 6,
+    "average_confidence": "high",
+    "notable_figures_count": 0
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Edwards, Andrew",
+      "Tracy",
+      "Elian, Johnathan",
+      "Elias, Brian",
+      "Eliasch, Johan",
+      "Amanda",
+      "Eliasch, Johan",
+      "Amanda",
+      "Elizabeth",
+      "Ellenbogen Eric",
+      "Ellingworth, Mr",
+      "Mrs",
+      "Elliot, Ben",
+      "Elliot, Ben",
+      "Elliot, Gail",
+      "Coffey",
+      "Ellison, Mandy",
+      "Ralph",
+      "Elwes, Anabel",
+      "Epstein, Ed",
+      "Erba Noona",
+      "Espirito Santo, Manuel",
+      "Ros",
+      "Estlin, Jean-Marc",
+      "Estrada Juffali, Christina",
+      "Estrada Juffali, Christina"
+    ],
+    "organizations": [],
+    "locations": {
+      "international": [
+        "Saudi Arabia",
+        "UK",
+        "France"
+      ],
+      "us_cities": [
+        "Paris",
+        "London",
+        "Laughton",
+        "Palm Beach",
+        "Jeddah",
+        "Greenwich",
+        "New York"
+      ],
+      "elite_addresses": [
+        "9 Eaton Mews South",
+        "7 Rue des Saints-Peres"
+      ]
+    }
+  },
+  "insights": [
+    "Geographic cluster: London (5 entries)",
+    "Geographic cluster: New York (5 entries)"
+  ]
+}

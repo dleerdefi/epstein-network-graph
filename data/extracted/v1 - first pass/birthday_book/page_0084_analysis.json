@@ -1,0 +1,97 @@
+{
+  "page_number": 84,
+  "file_path": "data/birthday_book_images/page_0084.png",
+  "file_size_mb": 0.2678098678588867,
+  "type": "business_information",
+  "content": {
+    "text": "This album was specially designed and hand-bound for you by WEITZ-COLEMAN using only the finest calf and Moroccan skins which are individually selected and tanned for bookbinding. Variations in color and surface markings are natural characteristics of fine leather and are your assurance of its quality. The buttery softness of calfskin give it great tactile appeal and lends itself to easy scuffing which develops into an exquisite antique patina. We recommend that the binding be treated with lanolin and gristfoot oil at least once a year. You may bring in your WEITZ-COLEMAN binding for a complimentary treatment.\n\nWEITZ & SIMPLY THE FINEST BOOKBINDING - ESTABLISHED 1909\nCOLEMAN - 1377 LEXINGTON AVENUE, NEW YORK, N.Y. 10128\n(212) 831-2213\nwww.weitzcoleman.com\nwww.albumsalbums.com",
+    "handwritten": false,
+    "typed": true,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "This album was specially designed and hand-bound for you by WEITZ-COLEMAN using only the finest calf and Moroccan skins which are individually selected and tanned for bookbinding. Variations in color and surface markings are natural characteristics of fine leather and are your assurance of its quality. The buttery softness of calfskin give it great tactile appeal and lends itself to easy scuffing which develops into an exquisite antique patina. We recommend that the binding be treated with lanolin and gristfoot oil at least once a year. You may bring in your WEITZ-COLEMAN binding for a complimentary treatment.\n\nWEITZ & SIMPLY THE FINEST BOOKBINDING - ESTABLISHED 1909\nCOLEMAN - 1377 LEXINGTON AVENUE, NEW YORK, N.Y. 10128\n(212) 831-2213\nwww.weitzcoleman.com\nwww.albumsalbums.com",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [],
+    "organizations": [
+      "WEITZ-COLEMAN",
+      "WEITZ & COLEMAN"
+    ],
+    "locations": [
+      "1377 LEXINGTON AVENUE",
+      "NEW YORK, N.Y. 10128"
+    ],
+    "dates": [
+      "1909"
+    ],
+    "emails": [],
+    "phones": [
+      "(212) 831-2213"
+    ],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "WEITZ-COLEMAN",
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Album binding information",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "business_information"
+  },
+  "insights": [
+    "Birthday book was custom bound by Weitz-Coleman, a luxury bookbinding company established in 1909",
+    "Located on Lexington Avenue in Manhattan's Upper East Side (wealthy area)",
+    "Album uses high-end materials: finest calf and Moroccan skins",
+    "Indicates significant expense and personal investment in creating this birthday book",
+    "Professional bookbinding service suggests this was an important keepsake or gift",
+    "Upper East Side location consistent with Epstein's wealthy social circle"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000084",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.161640",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [],
+  "investigative_leads": []
+}

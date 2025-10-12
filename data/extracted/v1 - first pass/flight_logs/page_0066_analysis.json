@@ -1,0 +1,287 @@
+{
+  "page_number": 66,
+  "date_header": "MAY 1999",
+  "time_period": "May 1999 - June 1999",
+  "aircraft": {
+    "registration": "Multiple (G1159B N908JE, 206LB, N500JP)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "17",
+      "date": "05/17/1999",
+      "departure": "G1159B N908JE",
+      "arrival": "TEB",
+      "flight_time": "1235",
+      "remarks": "SJU - ES, HOBA",
+      "passengers": ["ES", "HOBA"],
+      "crew": "3/8"
+    },
+    {
+      "entry_number": "17",
+      "date": "05/17/1999",
+      "departure": "",
+      "arrival": "SJU",
+      "flight_time": "1236",
+      "remarks": "MIA - ES, HOBA",
+      "passengers": ["ES", "HOBA"],
+      "crew": "3"
+    },
+    {
+      "entry_number": "18",
+      "date": "05/18/1999",
+      "departure": "",
+      "arrival": "MIA",
+      "flight_time": "1237",
+      "remarks": "NYL",
+      "passengers": ["NYL"],
+      "crew": "1/3"
+    },
+    {
+      "entry_number": "18",
+      "date": "05/18/1999",
+      "departure": "",
+      "arrival": "NYL",
+      "flight_time": "1238",
+      "remarks": "OOL - JE, GM, TD, JANET GF ODESSA",
+      "passengers": ["JE", "GM", "TD", "JANET", "GF ODESSA"],
+      "crew": "3/3"
+    },
+    {
+      "entry_number": "19",
+      "date": "05/19/1999",
+      "departure": "206LB N500JP",
+      "arrival": "PBI-LNA-PBI",
+      "flight_time": "",
+      "remarks": "KENNETH FDB + TOL PRACTICE MANOEUVRES",
+      "passengers": ["KENNETH FDB", "TOL"],
+      "crew": ""
+    },
+    {
+      "entry_number": "20",
+      "date": "05/20/1999",
+      "departure": "",
+      "arrival": "AAD",
+      "flight_time": "",
+      "remarks": "MIA - M, N + NOO-HOBA, P, W + ALT CHECK",
+      "passengers": ["M", "N", "NOO-HOBA", "P", "W", "ALT CHECK"],
+      "crew": ""
+    },
+    {
+      "entry_number": "21",
+      "date": "05/21/1999",
+      "departure": "",
+      "arrival": "PMP",
+      "flight_time": "",
+      "remarks": "OAD - D - VIA SHORELINE",
+      "passengers": ["D"],
+      "crew": "2"
+    },
+    {
+      "entry_number": "21",
+      "date": "05/21/1999",
+      "departure": "",
+      "arrival": "OAD",
+      "flight_time": "",
+      "remarks": "PBI - D - VIA I-95",
+      "passengers": ["D"],
+      "crew": "1"
+    },
+    {
+      "entry_number": "21",
+      "date": "05/21/1999",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "",
+      "remarks": "PBI - RETURN",
+      "passengers": [],
+      "crew": ""
+    },
+    {
+      "entry_number": "25",
+      "date": "05/25/1999",
+      "departure": "G1159B N908JE",
+      "arrival": "PBI",
+      "flight_time": "1239",
+      "remarks": "TEB - JG, GM, SK, TIFFANY GAMBA",
+      "passengers": ["JG", "GM", "SK", "TIFFANY GAMBA"],
+      "crew": "2/7"
+    },
+    {
+      "entry_number": "27",
+      "date": "05/27/1999",
+      "departure": "FLIGHT TIMES",
+      "arrival": "INCREASED TO",
+      "flight_time": "",
+      "remarks": "HZURWG COMPANY P-4",
+      "passengers": [],
+      "crew": ""
+    },
+    {
+      "entry_number": "27",
+      "date": "05/27/1999",
+      "departure": "G1159B N908JE",
+      "arrival": "TEB",
+      "flight_time": "1240",
+      "remarks": "PBI - JG, GM, SK, CHRISANNA ROGERS, CLAIRE HAZEL, NICOLE",
+      "passengers": ["JG", "GM", "SK", "CHRISANNA ROGERS", "CLAIRE HAZEL", "NICOLE"],
+      "crew": "2/3"
+    },
+    {
+      "entry_number": "29",
+      "date": "05/29/1999",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1241",
+      "remarks": "TJSJ - JG, GM STEVEN DRY DOCK DENT",
+      "passengers": ["JG", "GM", "STEVEN DRY DOCK DENT"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "30",
+      "date": "05/30/1999",
+      "departure": "",
+      "arrival": "TJSJ",
+      "flight_time": "",
+      "remarks": "PBI - JG, GM, ET",
+      "passengers": ["JG", "GM", "ET"],
+      "crew": "2/8"
+    },
+    {
+      "entry_number": "31",
+      "date": "05/31/1999",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1242",
+      "remarks": "SAY - JG, GM, ET",
+      "passengers": ["JG", "GM", "ET"],
+      "crew": "3/7"
+    },
+    {
+      "entry_number": "JUN",
+      "date": "06/01/1999",
+      "departure": "",
+      "arrival": "SAF",
+      "flight_time": "1243",
+      "remarks": "PBI - JG, GM, ET, TIFFANY GRBA 24",
+      "passengers": ["JG", "GM", "ET", "TIFFANY GRBA 24"],
+      "crew": "3/2"
+    },
+    {
+      "entry_number": "7",
+      "date": "06/07/1999",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1245",
+      "remarks": "TEB - JG, GM, SK, HERSHEY GRBA 23",
+      "passengers": ["JG", "GM", "SK", "HERSHEY GRBA 23"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "11",
+      "date": "06/11/1999",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1246",
+      "remarks": "PBI - JG, SAMMY COOPER, HERSHEY GRBA",
+      "passengers": ["JG", "SAMMY COOPER", "HERSHEY GRBA"],
+      "crew": "2/3"
+    },
+    {
+      "entry_number": "15",
+      "date": "06/15/1999",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1247",
+      "remarks": "TEB - JG, GM, TIFFANY GRBA 23, BISPCHUN",
+      "passengers": ["JG", "GM", "TIFFANY GRBA 23", "BISPCHUN"],
+      "crew": "2/5"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "JG",
+      "GM",
+      "ET",
+      "SK",
+      "ES",
+      "TD",
+      "D",
+      "M",
+      "N",
+      "P",
+      "W",
+      "HOBA",
+      "NYL",
+      "JANET",
+      "GF ODESSA",
+      "KENNETH FDB",
+      "TOL",
+      "NOO-HOBA",
+      "ALT CHECK",
+      "TIFFANY GAMBA",
+      "CHRISANNA ROGERS",
+      "CLAIRE HAZEL",
+      "NICOLE",
+      "STEVEN DRY DOCK DENT",
+      "TIFFANY GRBA 24",
+      "TIFFANY GRBA 23",
+      "HERSHEY GRBA",
+      "SAMMY COOPER",
+      "BISPCHUN",
+      "David Rodgers"
+    ],
+    "locations": [
+      "TEB",
+      "SJU",
+      "MIA",
+      "NYL",
+      "OOL",
+      "PBI",
+      "LNA",
+      "AAD",
+      "PMP",
+      "OAD",
+      "TJSJ",
+      "SAY",
+      "SAF"
+    ],
+    "aircraft": [
+      "G1159B",
+      "N908JE",
+      "206LB",
+      "N500JP"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "66",
+    "amount_forward": "15099",
+    "total_to_date": "15120",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page transitions from May 1999 to June 1999",
+    "Claire Hazel continues as recurring passenger",
+    "Multiple passengers with 'GRBA' notation (GRBA 23, GRBA 24)",
+    "Tiffany appears multiple times with different GRBA numbers",
+    "Hershey GRBA appears as passenger",
+    "San Juan (SJU) and San Juan, Puerto Rico (TJSJ) operations",
+    "Miami (MIA) operations noted",
+    "Training maneuvers noted for Kenneth FDB",
+    "Flight numbers reach 1247",
+    "Sammy Cooper appears as passenger"
+  ]
+}

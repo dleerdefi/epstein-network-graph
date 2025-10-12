@@ -1,0 +1,169 @@
+{
+  "page_number": 127,
+  "file_path": "data/birthday_book_images/page_0127.png",
+  "file_size_mb": 0.1000051498413086,
+  "type": "formal_letter_prominent_lawyer",
+  "content": {
+    "text": "ALAN M. DERSHOWITZ\n1575 MASSACHUSETTS AVENUE\nCAMBRIDGE \u2022 MASSACHUSETTS \u2022 02138\n\nDecember 11, 2002\n\nDear Jeffrey,\n\nAs a birthday gift to you, I managed to obtain an early version of the Vanity Unfair article. I talked them into changing the focus from you to Bill Clinton, as you will see from the enclosed excerpt. Happy birthday and best regards.\n\n[Signature]",
+    "handwritten": false,
+    "typed": true,
+    "mixed": true,
+    "description": "Typed letter on professional letterhead with handwritten signature",
+    "text_sections": {
+      "full_transcription": "ALAN M. DERSHOWITZ\n1575 MASSACHUSETTS AVENUE\nCAMBRIDGE \u2022 MASSACHUSETTS \u2022 02138\n\nDecember 11, 2002\n\nDear Jeffrey,\n\nAs a birthday gift to you, I managed to obtain an early version of the Vanity Unfair article. I talked them into changing the focus from you to Bill Clinton, as you will see from the enclosed excerpt. Happy birthday and best regards.\n\n[Signature]",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          127
+        ]
+      },
+      {
+        "name": "Alan M. Dershowitz",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          127
+        ]
+      },
+      {
+        "name": "Bill Clinton",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          127
+        ]
+      }
+    ],
+    "organizations": [
+      "Vanity Fair (called 'Vanity Unfair')"
+    ],
+    "locations": [
+      "1575 Massachusetts Avenue",
+      "Cambridge, Massachusetts 02138"
+    ],
+    "dates": [
+      "December 11, 2002"
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Alan M. Dershowitz",
+    "recipient": "Jeffrey Epstein",
+    "date": "December 11, 2002",
+    "subject": "Birthday gift - Vanity Fair article manipulation",
+    "theme": "media_influence_legal_protection",
+    "significance": "extremely_high",
+    "document_type": "formal_letter_prominent_lawyer"
+  },
+  "insights": [
+    "CRITICAL: Dershowitz admits to manipulating Vanity Fair article about Epstein",
+    "'Talked them into changing the focus from you to Bill Clinton' - direct media manipulation",
+    "Dated December 11, 2002 - month before Epstein's January 2003 50th birthday",
+    "Refers to 'Vanity Unfair' - derogatory term for Vanity Fair magazine",
+    "Dershowitz obtained 'early version' of article before publication",
+    "Shows Dershowitz actively protecting Epstein's media image",
+    "Confirms close relationship between Dershowitz and Epstein",
+    "Redirecting negative coverage from Epstein to Clinton",
+    "Professional letterhead from Harvard address",
+    "'Birthday gift' framing of media manipulation",
+    "Suggests coordinated effort to manage Epstein's public image",
+    "Dershowitz had influence with major media outlets",
+    "Shows preemptive damage control before article publication",
+    "Indicates awareness of potentially damaging content about Epstein",
+    "Document evidence of legal counsel actively managing media relations",
+    "Reveals strategic deflection tactics using Clinton as alternative focus"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000127",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.181942",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [
+      {
+        "name": "Alan Dershowitz",
+        "style": "cursive",
+        "location": "bottom_center",
+        "identified_as": "Alan Dershowitz",
+        "confidence": "medium",
+        "characteristics": [],
+        "matches_pages": []
+      }
+    ],
+    "logos": [],
+    "redactions": [],
+    "letterhead": [
+      {
+        "type": "professional",
+        "name": "ALAN M. DERSHOWITZ",
+        "address": "1575 MASSACHUSETTS AVENUE, CAMBRIDGE \u2022 MASSACHUSETTS \u2022 02138"
+      }
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "CRITICAL DOCUMENT: Letter from Alan M. Dershowitz",
+    "Professional letterhead: ALAN M. DERSHOWITZ",
+    "Address: 1575 MASSACHUSETTS AVENUE",
+    "CAMBRIDGE • MASSACHUSETTS • 02138",
+    "Date: December 11, 2002",
+    "Salutation: 'Dear Jeffrey,'",
+    "Key admission: 'As a birthday gift to you, I managed to obtain'",
+    "'an early version of the Vanity Unfair article.'",
+    "CRITICAL: 'I talked them into changing the focus from you to Bill Clinton,'",
+    "'as you will see from the enclosed excerpt.'",
+    "'Happy birthday and best regards.'",
+    "Handwritten signature below typed text",
+    "Shows media manipulation to protect Epstein",
+    "Deflected negative coverage to Bill Clinton",
+    "Document stamped HOUSE_OVERSIGHT_000127"
+  ],
+  "investigative_leads": []
+}

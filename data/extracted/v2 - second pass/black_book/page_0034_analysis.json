@@ -1,0 +1,840 @@
+{
+  "page_number": 34,
+  "alphabetical_section": "M",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "034_macmillan_dave_bella",
+      "name": {
+        "full_name": "Macmillan, Dave & Bella",
+        "prefix": null,
+        "first_name": "Dave",
+        "middle_name": null,
+        "last_name": "Macmillan",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Bella"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "1 Clivoy Court",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "home",
+          "number": "0207 584 7100 (h)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "mobile",
+          "number": "0956 383 019 (w)",
+          "formatting": "UK mobile"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "1 Clivoy Court",
+            "London SW1X OTJ"
+          ],
+          "city": "London",
+          "postal_code": "SW1X OTJ",
+          "country": "UK",
+          "notes": "Belgravia area"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK couple with Belgravia address"
+    },
+    {
+      "entry_id": "034_magaziner_ira_c",
+      "name": {
+        "full_name": "Magaziner, Ira C.",
+        "prefix": null,
+        "first_name": "Ira",
+        "middle_name": "C.",
+        "last_name": "Magaziner",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "212 574 0282 (w)",
+          "formatting": "NYC direct dial"
+        },
+        {
+          "type": "mobile",
+          "number": "917 860 8133 (c)",
+          "formatting": "NYC mobile"
+        }
+      ],
+      "emails": [
+        {
+          "address": "ira@sjsadvsiors.com",
+          "type": "work",
+          "notes": "SJS Advisors email"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "SJS Advisors - senior advisor to President Clinton"
+    },
+    {
+      "entry_id": "034_maguire_jennifer",
+      "name": {
+        "full_name": "Maguire, Jennifer",
+        "prefix": null,
+        "first_name": "Jennifer",
+        "middle_name": null,
+        "last_name": "Maguire",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 Or 646 Greycut (h)",
+          "formatting": "Unclear format"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "New York 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side"
+        }
+      ],
+      "handwritten_notes": [
+        "001 212 737 1500 (w)",
+        "212 744 2525",
+        "212 744 2525 (h) family",
+        "212 744 2325"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC contact with multiple phone numbers"
+    },
+    {
+      "entry_id": "034_mahler_giovanni",
+      "name": {
+        "full_name": "Mahler, Giovanni",
+        "prefix": null,
+        "first_name": "Giovanni",
+        "middle_name": null,
+        "last_name": "Mahler",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "02 91 01 737044 (Lugano)",
+          "formatting": "International - Switzerland, Lugano"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Lugano, Switzerland contact"
+    },
+    {
+      "entry_id": "034_mahoney_sean",
+      "name": {
+        "full_name": "Mahoney, Sean",
+        "prefix": null,
+        "first_name": "Sean",
+        "middle_name": null,
+        "last_name": "Mahoney",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 617 267 8909",
+          "formatting": "International to US - Boston area"
+        },
+        {
+          "type": "work",
+          "number": "001 617 330 8000 #1004",
+          "formatting": "International to US - Boston"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "39 Marlborough Street #1004",
+            "Boston, MA 02116"
+          ],
+          "city": "Boston",
+          "state": "MA",
+          "postal_code": "02116",
+          "country": "USA",
+          "notes": "Back Bay Boston"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Boston Back Bay residence"
+    },
+    {
+      "entry_id": "034_mailer_michael",
+      "name": {
+        "full_name": "Mailer, Michael",
+        "prefix": null,
+        "first_name": "Michael",
+        "middle_name": null,
+        "last_name": "Mailer",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "66 Old Fellow St. #211",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "home",
+          "number": "001 718 222 8121",
+          "formatting": "International to US - Brooklyn"
+        },
+        {
+          "type": "mobile",
+          "number": "001 917 743 8088 (m)",
+          "formatting": "International to US - NYC mobile"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "66 Old Fellow St. #211",
+            "Brooklyn, NY 11201"
+          ],
+          "city": "Brooklyn",
+          "state": "NY",
+          "postal_code": "11201",
+          "country": "USA",
+          "notes": "DUMBO/Brooklyn Heights area"
+        }
+      ],
+      "handwritten_notes": [
+        "001 718 625 1414 (h)",
+        "001 718 625 5844 fax (h)",
+        "212 941 4929 Soho",
+        "25 Heyworth Street, Soho",
+        "New York, NY 10013"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Son of Norman Mailer - filmmaker"
+    },
+    {
+      "entry_id": "034_mailman_josh",
+      "name": {
+        "full_name": "Mailman, Josh",
+        "prefix": null,
+        "first_name": "Josh",
+        "middle_name": null,
+        "last_name": "Mailman",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 362 4732",
+          "formatting": "International to US - NYC"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC contact"
+    },
+    {
+      "entry_id": "034_malek_harry_didi",
+      "name": {
+        "full_name": "Malek, Harry & Didi",
+        "prefix": null,
+        "first_name": "Harry",
+        "middle_name": null,
+        "last_name": "Malek",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Didi"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "56 Beacon 270 Park (h)",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "mobile",
+          "number": "0207-584 3707 (m)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [
+        "0207-584 7233 (w)",
+        "0207-584 3707 (m)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK couple with London numbers"
+    },
+    {
+      "entry_id": "034_malenga_mandola_machel",
+      "name": {
+        "full_name": "Malenga (Mandela) Machel",
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Malenga",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "00 39 6 68803850(w)",
+          "formatting": "International - Italy, Rome"
+        }
+      ],
+      "emails": [
+        {
+          "address": "rissi@yahoo.com",
+          "type": "Personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [
+        "Email: dmalouf@fandola.com"
+      ],
+      "confidence": {
+        "name": "medium",
+        "phones": "high",
+        "emails": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Rome contact with alternate name Mandela"
+    },
+    {
+      "entry_id": "034_malina_marjorie",
+      "name": {
+        "full_name": "Malina, Marjorie",
+        "prefix": null,
+        "first_name": "Marjorie",
+        "middle_name": null,
+        "last_name": "Malina",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "00 33 1 4605263(h)",
+          "formatting": "International to France - Paris"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Paris contact"
+    },
+    {
+      "entry_id": "034_malkin_shelly_tony",
+      "name": {
+        "full_name": "Malkin, Shelly & Tony",
+        "prefix": null,
+        "first_name": "Shelly",
+        "middle_name": null,
+        "last_name": "Malkin",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Tony"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "244 2017a 09 03 (w)",
+          "formatting": "International - unclear"
+        },
+        {
+          "type": "mobile",
+          "number": "914640427 194 work fax",
+          "formatting": "Work fax"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [
+        "112 Mortos Street",
+        "W1 York London England",
+        "SW6"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "London contact - antiques dealer"
+    },
+    {
+      "entry_id": "034_mallinckrodt_philip",
+      "name": {
+        "full_name": "Mallinckrodt, Mr Philip",
+        "prefix": "Mr",
+        "first_name": "Philip",
+        "middle_name": null,
+        "last_name": "Mallinckrodt",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-584 3181(h)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "0207-584 1941(w)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "mobile",
+          "number": "0207-937 3181 (h)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK contact with multiple London numbers"
+    },
+    {
+      "entry_id": "034_manfredini_alessandro",
+      "name": {
+        "full_name": "Manfredini, Alessandro",
+        "prefix": null,
+        "first_name": "Alessandro",
+        "middle_name": null,
+        "last_name": "Manfredini",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "112 Mortos Street",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "work",
+          "number": "0207-594 1446 work fax",
+          "formatting": "UK fax"
+        },
+        {
+          "type": "mobile",
+          "number": "914640427194 work fax",
+          "formatting": "Fax number"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "112 Mortos Street",
+            "London England"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Address partially visible"
+        }
+      ],
+      "handwritten_notes": [
+        "SW6"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "London contact"
+    },
+    {
+      "entry_id": "034_manconi_john",
+      "name": {
+        "full_name": "Manconi, John",
+        "prefix": null,
+        "first_name": "John",
+        "middle_name": null,
+        "last_name": "Manconi",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "46 Creech Street",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "home",
+          "number": "0207- 589 2433 (h)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "46 Creech Street",
+            "London SW6"
+          ],
+          "city": "London",
+          "postal_code": "SW6",
+          "country": "UK",
+          "notes": "Fulham area"
+        }
+      ],
+      "handwritten_notes": [
+        "0207- 581 4111 dinar fax",
+        "0207- 590 4181 (w) (to office)",
+        "001 0181 208 0410 (h)",
+        "001 208 0417 (w) dinar office"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "London contact with extensive phone list"
+    },
+    {
+      "entry_id": "034_mangope_eddie",
+      "name": {
+        "full_name": "Mangope, Eddie",
+        "prefix": null,
+        "first_name": "Eddie",
+        "middle_name": null,
+        "last_name": "Mangope",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "00 20 2 392 28037",
+          "formatting": "International - Egypt, Cairo (20 2 prefix)"
+        },
+        {
+          "type": "mobile",
+          "number": "00 10 160 3877",
+          "formatting": "Egyptian mobile"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Cairo, Egypt contact. 'Las Arcadas Leopard Park'"
+    },
+    {
+      "entry_id": "034_manners_eddie",
+      "name": {
+        "full_name": "Manners, Eddie",
+        "prefix": null,
+        "first_name": "Eddie",
+        "middle_name": null,
+        "last_name": "Manners",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "49 Ladbroke Road London W11",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "home",
+          "number": "0207-584 5877(h)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "201 Lexington",
+            "London SW3"
+          ],
+          "city": "London",
+          "postal_code": "SW3",
+          "country": "UK",
+          "notes": "Chelsea area"
+        }
+      ],
+      "handwritten_notes": [
+        "0207-349 4188(w)",
+        "001 413 243 Strickhouser"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Chelsea London residence"
+    },
+    {
+      "entry_id": "034_mandelson_peter",
+      "name": {
+        "full_name": "Mandelson, Peter",
+        "prefix": null,
+        "first_name": "Peter",
+        "middle_name": null,
+        "last_name": "Mandelson",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "89 Fourth Ave S",
+          "formatting": "Address in phone field. Many different contacts listed."
+        },
+        {
+          "type": "work",
+          "number": "0207- 219 4259 (w)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "89 Fourth Ave S",
+            "London SW7 2SA"
+          ],
+          "city": "London",
+          "postal_code": "SW7 2SA",
+          "country": "UK",
+          "notes": "South Kensington"
+        }
+      ],
+      "handwritten_notes": [
+        "244 7985 288 7980(h)",
+        "244 7985 319 0899",
+        "0207 219 5823 (w) fax",
+        "Member of Parliament",
+        "Minister for Scotland +WA",
+        "Europe Minister",
+        "0207 676 8820"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Peter Mandelson - UK Labour politician, Member of Parliament, Europe Minister 'The Right Honorable Peter Mandelson'"
+    },
+    {
+      "entry_id": "034_manners_miss_lucy",
+      "name": {
+        "full_name": "Manners, Miss Lucy",
+        "prefix": "Miss",
+        "first_name": "Lucy",
+        "middle_name": null,
+        "last_name": "Manners",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207- 584 1 4PR",
+          "formatting": "UK format - unclear"
+        },
+        {
+          "type": "work",
+          "number": "0207- 581 2010 (w)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "19 Kersley St",
+            "London SW11 4PR"
+          ],
+          "city": "London",
+          "postal_code": "SW11",
+          "country": "UK",
+          "notes": "Battersea/Clapham area - different from Eddie's Chelsea address"
+        }
+      ],
+      "handwritten_notes": [
+        "0207- 581 2010 (w)",
+        "0831 305 7270 (p)",
+        "0207 585 3250 (w)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Likely related to Eddie Manners but different address"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 18,
+    "entries_with_emails": 2,
+    "entries_with_addresses": 11,
+    "entries_with_handwritten_notes": 10,
+    "couples": 4,
+    "average_confidence": "high",
+    "notable_figures_count": 3
+  },
+  "cross_references": [
+    {
+      "entry_id": "034_manners_eddie",
+      "reference": "Related to Lucy Manners (different addresses - Eddie: 201 Lexington SW3, Lucy: 19 Kersley St SW11)",
+      "related_entries": ["034_manners_miss_lucy"]
+    }
+  ],
+  "entities": {
+    "people": [
+      "Dave Macmillan",
+      "Bella Macmillan",
+      "Ira C. Magaziner",
+      "Jennifer Maguire",
+      "Giovanni Mahler",
+      "Sean Mahoney",
+      "Michael Mailer",
+      "Josh Mailman",
+      "Harry Malek",
+      "Didi Malek",
+      "Malenga (Mandela) Machel",
+      "Marjorie Malina",
+      "Tony Malkin",
+      "Shelly Malkin",
+      "Philip Mallinckrodt",
+      "Alessandro Manfredini",
+      "John Manconi",
+      "Eddie Mangope",
+      "Eddie Manners",
+      "Peter Mandelson",
+      "Lucy Manners"
+    ],
+    "organizations": [
+      "SJS Advisors",
+      "UK Parliament"
+    ],
+    "locations": {
+      "international": [
+        "London, UK (multiple contacts)",
+        "Lugano, Switzerland",
+        "Rome, Italy",
+        "Paris, France",
+        "Cairo, Egypt"
+      ],
+      "us_cities": [
+        "New York City (multiple contacts)",
+        "Brooklyn, NY",
+        "Boston, MA"
+      ],
+      "elite_addresses": [
+        "Belgravia, London",
+        "Chelsea, London (SW3)",
+        "South Kensington, London (SW7)",
+        "Fulham, London (SW6)",
+        "Upper East Side NYC (10021)",
+        "Back Bay Boston"
+      ]
+    }
+  },
+  "insights": [
+    "Peter Mandelson - prominent UK Labour politician, Member of Parliament, Europe Minister, Minister for Scotland",
+    "Ira C. Magaziner - senior advisor to President Clinton, SJS Advisors contact",
+    "Michael Mailer - filmmaker, son of author Norman Mailer",
+    "Geographic concentration: Strong UK presence (Chelsea, Belgravia, South Kensington), NYC, international reach",
+    "Multiple London SW3 (Chelsea) addresses indicating elite social circle",
+    "Political connections: Peter Mandelson with Parliament work numbers",
+    "International business contacts spanning Switzerland, Italy, France, Egypt",
+    "Manners family entries (Eddie and Lucy) - related but different London addresses (Eddie in Chelsea SW3, Lucy in Battersea SW11)",
+    "Mix of politicians, Clinton administration figures, entertainment industry",
+    "Multiple couples indicating social/family networks"
+  ]
+}

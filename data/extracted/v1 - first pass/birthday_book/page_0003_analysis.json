@@ -1,0 +1,315 @@
+{
+  "page_number": 3,
+  "file_path": "data/birthday_book_images/page_0003.png",
+  "file_size_mb": 0.28200244903564453,
+  "type": "table_of_contents_continued",
+  "content": {
+    "text": "Bran Ferren\nHenry Jarecki\nNick Leese\nPeter Mandelson\nGeorge Mitchel\nNathan Myhrvold\nJoel Pashow\nJo Pagano\nAlberto Pinto\nStuart Pivar\nDonald Trump\nHenry Rosovsky\n\nLesley Wexner\nMort Zuckerman\nUnknown\n\nSCIENCE\nGerry Edelman\nMurray Gellman\nSteve Kosslyn\nMartin Nowak\nLee Smolin\n\nGIRL- FRIENDS    [REDACTED]\n\nSPECIAL ASSISTANTS    [REDACTED]\n\nBUISNESS\nAce Greenberg",
+    "handwritten": false,
+    "typed": true,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "                            Bran Ferren\n                            Henry Jarecki\n                            Nick Leese\n                            Peter Mandelson\n                            George Mitchell\n                            Nathan Myhrvold\n                            Joel Pashcow\n                            Jo Pagano\n                            Alberto Pinto\n                            Stuart Pivar\n                            Donald Trump\n                            Henry Rosovsky\n\n                            Lesley Wexner\n                            Mort Zuckerman\n                            Unknown\n\n\nSCIENCE                     Gerry Edelman\n                            Murray Gellman\n                            Steve Kosslyn\n                            Martin Nowak\n                            Lee Smolin\n\n\nGIRL- FRIENDS               [REDACTED - large black box covering multiple names]\n\n\nSPECIAL ASSISTANTS          [REDACTED - black box]\n\n\nBUISNESS                    Ace Greenberg\n\n\n\nHOUSE_OVERSIGHT_000003",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Bran Ferren",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          3
+        ]
+      },
+      {
+        "name": "Henry Jarecki",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          3
+        ]
+      },
+      {
+        "name": "Nick Leese",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          3
+        ]
+      },
+      {
+        "name": "Peter Mandelson",
+        "title": "UK Labour Party politician",
+        "relationship": "Friend",
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          3
+        ]
+      },
+      {
+        "name": "George Mitchell",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          3
+        ]
+      },
+      {
+        "name": "Nathan Myhrvold",
+        "title": "Former Microsoft CTO",
+        "relationship": "Friend/Tech connection",
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          3
+        ]
+      },
+      {
+        "name": "Joel Pashcow",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          3
+        ]
+      },
+      {
+        "name": "Jo Pagano",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          3
+        ]
+      },
+      {
+        "name": "Alberto Pinto",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          3
+        ]
+      },
+      {
+        "name": "Stuart Pivar",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          3
+        ]
+      },
+      {
+        "name": "Donald Trump",
+        "title": "Real Estate Developer/Future President",
+        "relationship": "Friend (listed under Friends section)",
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          3
+        ]
+      },
+      {
+        "name": "Henry Rosovsky",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          3
+        ]
+      },
+      {
+        "name": "Leslie Wexner",
+        "title": "CEO L Brands/Victoria's Secret",
+        "relationship": "Friend/Primary financial patron",
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          3
+        ]
+      },
+      {
+        "name": "Mort Zuckerman",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          3
+        ]
+      },
+      {
+        "name": "Gerry Edelman",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          3
+        ]
+      },
+      {
+        "name": "Murray Gell-Mann",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          3
+        ]
+      },
+      {
+        "name": "Steve Kosslyn",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          3
+        ]
+      },
+      {
+        "name": "Martin Nowak",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          3
+        ]
+      },
+      {
+        "name": "Lee Smolin",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          3
+        ]
+      },
+      {
+        "name": "Ace Greenberg",
+        "title": "Chairman Bear Stearns",
+        "relationship": "Business connection",
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          3
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Multiple contributors",
+    "recipient": "Jeffrey Epstein",
+    "date": "January 20, 2003 (50th birthday)",
+    "subject": "Table of Contents page 2 - Friends/Science/Business contributors",
+    "significance": "extremely_high",
+    "theme": "power_network_mapping",
+    "document_type": "table_of_contents_continued"
+  },
+  "insights": [
+    "CRITICAL: Donald Trump listed as contributor to Epstein's 50th birthday book",
+    "Leslie Wexner listed - Epstein's primary financial patron and power source",
+    "Peter Mandelson - senior UK Labour politician (later EU Trade Commissioner)",
+    "George Mitchell - former US Senator and peace negotiator",
+    "Nathan Myhrvold - former Microsoft CTO, intellectual property mogul",
+    "Murray Gell-Mann - Nobel Prize physicist (quark theory)",
+    "Gerry Edelman - Nobel Prize neuroscientist",
+    "Mort Zuckerman - media mogul (NY Daily News, US News & World Report)",
+    "Ace Greenberg - Bear Stearns chairman (Wall Street power)",
+    "Henry Jarecki - billionaire psychiatrist/commodities trader",
+    "Alberto Pinto - celebrity interior designer",
+    "GIRL-FRIENDS section remains completely redacted (multiple names)",
+    "SPECIAL ASSISTANTS section redacted - likely staff members",
+    "'Unknown' entry suggests someone contributed anonymously",
+    "SCIENCE section shows Epstein's cultivation of Nobel laureates",
+    "BUISNESS (misspelled) has only one visible name - more may be redacted",
+    "Friends list continues from page 2 showing extensive network"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000003",
+  "processed_at": "2025-09-23 03:18:00",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.122488",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": [
+      "Girl-Friends section - redacted with black bar",
+      "Special Assistants section - redacted with black bar"
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": true,
+    "contains_sensitive_info": true,
+    "legal_implications": true,
+    "extraction_complete": true,
+    "high_priority": true,
+    "quality_score": 95,
+    "review_notes": [
+      "Trump, Wexner, and other major figures documented",
+      "Redacted sections likely contain most sensitive names"
+    ]
+  },
+  "forensic_notes": [
+    "Trump's inclusion predates his presidency by 13+ years",
+    "Wexner was primary financial enabler - gave Epstein power of attorney",
+    "Science section shows systematic cultivation of Nobel laureates",
+    "BUISNESS misspelling suggests rushed production or non-native English speaker"
+  ],
+  "investigative_leads": [
+    "Cross-reference all Science contributors with Epstein foundation donations",
+    "Investigate Wexner financial relationship timeline",
+    "Determine what 'Special Assistants' role was",
+    "Identify the 'Unknown' contributor"
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "page_number": 117,
+  "file_path": "data/birthday_book_images/page_0117.png",
+  "file_size_mb": 2.572956085205078,
+  "type": "group_photo_behavioral_note",
+  "content": {
+    "text": "Then things began to change. I think it was shortly after he encouraged Margaux to see 'Sarah' on the phone to me that I noticed the beginning. And then, while his friends were willing to either go limitlessly chase him or take warning to the Almighty, Jeffrey began to get that look in his eye. He was marking his territory, sometimes I think anyone else I think could. I always hoped he wasn't spurred to action by my silence. We don't care - let's get rid of all prying eyes.",
+    "handwritten": false,
+    "typed": true,
+    "mixed": false,
+    "description": "Group photo with typed text describing behavioral change",
+    "text_sections": {
+      "full_transcription": "Then things began to change. I think it was shortly after he encouraged Margaux to see 'Sarah' on the phone to me that I noticed the beginning. And then, while his friends were willing to either go limitlessly chase him or take warning to the Almighty, Jeffrey began to get that look in his eye. He was marking his territory, sometimes I think anyone else I think could. I always hoped he wasn't spurred to action by my silence. We don't care - let's get rid of all prying eyes.",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          117
+        ]
+      },
+      {
+        "name": "Margaux",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          117
+        ]
+      },
+      {
+        "name": "Sarah",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          117
+        ]
+      },
+      {
+        "name": "Five men in photo",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          117
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Unnamed observer/friend",
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Behavioral change observation with group photo",
+    "theme": "personality_change_territorial_behavior",
+    "significance": "medium",
+    "document_type": "group_photo_behavioral_note"
+  },
+  "insights": [
+    "Describes noticeable behavioral change in Epstein",
+    "References 'Margaux' and 'Sarah' as key figures in timeline",
+    "Phone call with Sarah appears to be turning point",
+    "Describes territorial marking behavior - 'marking his territory'",
+    "Suggests possessive or controlling tendencies emerging",
+    "Writer expresses concern about potentially triggering behavior through silence",
+    "'Get rid of all prying eyes' suggests desire for privacy/secrecy",
+    "Military decorated individual in photo suggests high-level connections",
+    "Group photo indicates social network of formal/elite circles",
+    "Text suggests insider perspective on personality transformation",
+    "Religious reference ('the Almighty') in context of friends' reactions",
+    "Implies friends noticed changes and either pursued or warned him"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000117",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.177877",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Five men in formal attire at social event",
+        "theme": "social_gathering",
+        "setting": "formal_event",
+        "elements": [
+          "5 men",
+          "formal wear",
+          "tuxedos",
+          "military-style uniform with medals"
+        ],
+        "notable_details": [
+          "One person wearing military decorations",
+          "Indoor setting",
+          "Formal/celebratory atmosphere"
+        ],
+        "individual_count": 5,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": [],
+    "handwritten_notes": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Group photograph of five men in formal attire",
+    "Second from left wearing military uniform with medals",
+    "Other four men in tuxedos/formal suits",
+    "Appears to be formal event or celebration",
+    "Typed text describes behavioral change in Jeffrey",
+    "References Margaux and 'Sarah' phone call as turning point",
+    "Describes 'marking his territory' behavior",
+    "'Get rid of all prying eyes' suggests secretiveness",
+    "Writer observed personality transformation",
+    "Friends either 'chased' or 'warned' Jeffrey",
+    "Military decorations suggest high-level connections",
+    "Document stamped HOUSE_OVERSIGHT_000117",
+    "Part of Friends section observations"
+  ],
+  "investigative_leads": []
+}

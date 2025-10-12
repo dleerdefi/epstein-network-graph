@@ -1,0 +1,779 @@
+{
+  "page_number": 88,
+  "section": "Switzerland and Travel Services",
+  "entries": [
+    {
+      "name": "South Ken",
+      "category": "Location",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207-741 6212",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "South Kensington",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "The Home Office",
+      "category": "Service",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207-273 3149",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "UK Home Office",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "SWITZERLAND (SW)",
+      "category": "Section Header",
+      "location": "Switzerland",
+      "entries": [],
+      "notes": "Switzerland section header",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Bristol Hotel",
+      "category": "Hotel",
+      "location": "Switzerland",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Wil rue du Mont-Blanc",
+          "street": "rue du Mont-Blanc",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Geneva, Switzerland 1201",
+          "city": "Geneva",
+          "country": "Switzerland",
+          "postal_code": "1201",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "41 22 716 5700",
+          "country_code": "41",
+          "geographic_indicator": "Switzerland",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "41 22 716 5555",
+          "country_code": "41",
+          "geographic_indicator": "Switzerland",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "41 22 738 9032 FA Paris",
+          "country_code": "41",
+          "geographic_indicator": "Switzerland",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Bristol Hotel - Geneva Switzerland",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "The Corviglia Club",
+      "category": "Club",
+      "location": "Switzerland",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "010 41 8334964",
+          "country_code": "41",
+          "geographic_indicator": "Switzerland",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Corviglia Club - Switzerland",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "The Steffani",
+      "category": "Hotel",
+      "location": "Switzerland",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "756 22 22101",
+          "confidence": "high"
+        }
+      ],
+      "notes": "The Steffani Hotel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "TRAVEL (T)",
+      "category": "Section Header",
+      "location": "Unknown",
+      "entries": [],
+      "notes": "Travel section header",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Aero Leasing",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "111/116 5700 (Athens)",
+          "reference": "Athens",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "111/116 5700 (Athens)",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "591 352-0742 International",
+          "area_code": "591",
+          "geographic_indicator": "Bolivia",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Aero Leasing - Athens and International",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Athens phone format unclear"]
+      }
+    },
+    {
+      "name": "Air France",
+      "category": "Service",
+      "location": "France",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0800 801 8017",
+          "area_code": "0800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 3415411 frequent flier (GM)",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "100 minutes to frequent flier transfer",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Air France - Frequent Flier services",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Air Hansen",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0060-690-328",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0025-690-369",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Air Hansen",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "American Airlines",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "8 Berkeley Square/Admiral",
+          "street": "8 Berkeley Square",
+          "location": "Admiral",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 997 2171",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 997 4141",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "1-800-433-7300",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0208 572 5555",
+          "area_code": "0208",
+          "geographic_indicator": "London outer",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0190 656 5656 Gatwick to Vineyard",
+          "area_code": "0190",
+          "geographic_indicator": "UK",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "MVP #21 Book @ T Brands Bosnie",
+        "100322 Tokyo",
+        "Ref 222 981 #ell on efc-ba-Mo",
+        "2R33 222"
+      ],
+      "notes": "American Airlines - Berkeley Square",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "American Express",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "1-800-297-5288 Membership Re-",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "773 377 6887 at 273",
+          "area_code": "773",
+          "geographic_indicator": "Chicago",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "217 973 9481 platinum",
+          "area_code": "217",
+          "geographic_indicator": "Illinois",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "877 877 0987 (card?) RR Routine",
+          "area_code": "877",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Louis Canada London"
+      ],
+      "notes": "American Express services",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "AT&T",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "1-800-225-5288",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        }
+      ],
+      "notes": "AT&T telecommunications",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "British Airways",
+      "category": "Service",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 800 247 9297",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0345 222 111 res",
+          "area_code": "0345",
+          "geographic_indicator": "UK",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "21565446 Pin WV is club member",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "21566445",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0171 573 2955 cust serv(old)",
+          "area_code": "0171",
+          "geographic_indicator": "London (old)",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0181 897 1000 exec club res VIP)",
+          "area_code": "0181",
+          "geographic_indicator": "London outer (old)",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 247 8463 Robt Garner/esquire",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Ref. 607",
+        "212 247 8459",
+        "212 949 8599 cust servc",
+        "212 932 8363 Robt home (anson"
+      ],
+      "notes": "British Airways - multiple services",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Some PIN/member numbers unclear"]
+      }
+    },
+    {
+      "name": "Concord Tickets",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "211 San Rafael",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "415 491 4000 San Rafael,CA",
+          "area_code": "415",
+          "geographic_indicator": "San Francisco Bay Area",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "415 491 0180 (Ellsworth VVK",
+          "area_code": "415",
+          "geographic_indicator": "San Francisco Bay Area",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "9116 321 0700 (Robert Seale III)",
+          "area_code": "916",
+          "geographic_indicator": "Sacramento",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "2101 943 8866 (Wagvon Montant",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Concord Tickets - San Rafael CA",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Some entries incomplete"]
+      }
+    },
+    {
+      "name": "Continental Airlines",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 800 525 0280 domestic",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 9173 567 frequent flier number",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Continental Airlines",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Delta Airlines",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 800 323 2323",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 239 0700 frequent flier number",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "1-800-325-1999 Flight information",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "9292 info",
+        "0010829439 frequent flier number"
+      ],
+      "notes": "Delta Airlines services",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Delta Dash",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "1-800-638-7333",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Delta Dash cargo service",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "DHL Courier",
+      "category": "Service",
+      "location": "International",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "800-225-5345",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        }
+      ],
+      "notes": "DHL Courier service",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Citicor",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "0515 9TH Avenue",
+          "street": "515 9th Avenue",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "New York NY 10021",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 912 7626",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 912 7624",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 489 3443 Steve Tasckie",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Wight Contos-Wright Parkway",
+        "Combined County Airport",
+        "NY 11371 Fl 12210",
+        "218 707 3535 (all)"
+      ],
+      "notes": "Citicor - 9th Avenue NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Flyaway",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561-799-10010080",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Flyaway travel service",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Frequent Flyer Clubs",
+      "category": "Service",
+      "location": "Various",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 661 1999",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "92 Park Ave",
+          "street": "92 Park Avenue",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "42.152.105-93 frequent flier num",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Frequent Flyer Clubs services",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Some entries unclear"]
+      }
+    },
+    {
+      "name": "Garnero, Jr., Mario B.",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "501 33 11 apt 8 3808",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "additional_info": [
+        "Travel agent de champ on",
+        "gishanow"
+      ],
+      "notes": "Mario B. Garnero Jr. - Travel agent",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Helicopters",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "516 931 9700 (Ken)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "011 931 9700 Web Paris",
+          "confidence": "medium"
+        }
+      ],
+      "additional_info": [
+        "Very limited service",
+        "Anderson Cove off Hour",
+        "(NONE)",
+        "516 92 82 8 to",
+        "212 243 8445 (7)",
+        "212 24 3844",
+        "516 656 3818 80"
+      ],
+      "notes": "Helicopter services",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Some numbers incomplete"]
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 25,
+    "illegible_entries": 0,
+    "partial_entries": 6,
+    "sections": ["SWITZERLAND (SW)", "TRAVEL (T)"],
+    "notable_entries": [
+      "Multiple airline services (American, British Airways, Delta, Continental)",
+      "Switzerland hotels and clubs",
+      "UK Home Office contact",
+      "Extensive travel agency contacts",
+      "Helicopter services"
+    ],
+    "geographic_distribution": {
+      "usa": 15,
+      "uk": 5,
+      "switzerland": 3,
+      "international": 2
+    },
+    "location_highlights": [
+      "Geneva Switzerland hotels",
+      "Corviglia Club Switzerland",
+      "Multiple airline frequent flyer programs",
+      "International courier services",
+      "Travel agencies and charter services"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 19,
+      "medium_confidence": 4,
+      "low_confidence": 2,
+      "specific_issues": [
+        "Some phone numbers incomplete",
+        "Several frequent flyer numbers unclear",
+        "Some service details partially illegible"
+      ]
+    }
+  }
+}

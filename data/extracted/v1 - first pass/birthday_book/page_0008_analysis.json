@@ -1,0 +1,112 @@
+{
+  "page_number": 8,
+  "file_path": "data/birthday_book_images/page_0008.png",
+  "file_size_mb": 5.548941612243652,
+  "type": "cub_scout_graduation_certificate",
+  "content": {
+    "text": "CUB SCOUT GRADUATION\n\nThis is to certify that Jeffrey Epstein is a member of Pack [number] has fulfilled all requirements for advancement. After a satisfactory review of his record by his Scoutmaster, he is eligible to join a Boy Scout Troop. I especially recommend that the Boy Scout organization for further advancement in the various activities of scouting.\n\n[Signatures and scout emblems visible]\n\nHandwritten note below: 'No graduation kept!'",
+    "handwritten": true,
+    "typed": true,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "CUB SCOUT GRADUATION\n\nThis is to certify that Jeffrey Epstein is a member of Pack [number] has fulfilled all requirements for advancement. After a satisfactory review of his record by his Scoutmaster, he is eligible to join a Boy Scout Troop. I especially recommend that the Boy Scout organization for further advancement in the various activities of scouting.\n\n[Signatures and scout emblems visible]\n\nHandwritten note below: 'No graduation kept!'",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          8
+        ]
+      }
+    ],
+    "organizations": [
+      "Cub Scouts",
+      "Boy Scout organization"
+    ],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Jeffrey Epstein's Cub Scout graduation certificate",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "cub_scout_graduation_certificate"
+  },
+  "insights": [
+    "Official Cub Scout graduation certificate for Jeffrey Epstein",
+    "Shows participation in scouting as a youth",
+    "Certificate has official Boy Scout emblems and signatures",
+    "Handwritten note 'No graduation kept!' suggests someone noted this was retained",
+    "Personal childhood document included in birthday book",
+    "Demonstrates early organizational involvement and achievement"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000008",
+  "processed_at": "2025-09-23 03:37:00",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.124944",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [
+      {
+        "identified_as": "Official scout leader signatures on certificate",
+        "confidence": "medium",
+        "style": null,
+        "characteristics": [],
+        "location": null,
+        "matches_pages": []
+      }
+    ],
+    "logos": [
+      "Boy Scout emblems and badges visible on certificate"
+    ],
+    "redactions": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [],
+  "investigative_leads": []
+}

@@ -1,0 +1,600 @@
+{
+  "page_number": 24,
+  "alphabetical_section": "G-H",
+  "contacts": [
+    {
+      "name": "Grossman Lloyd",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 736 7919",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Grubelmann, Marjorie",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "46 East 82nd St / New York",
+          "street": "46 East 82nd St",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 249 6300",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 742 2000",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Guccioni, Tony",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 831 0200(h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 274 8001 (o)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Possibly related to Penthouse/Bob Guccioni",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Gudefin, Christian",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "31 XXXX",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "01 213 252 5000",
+          "area_code": "213",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 221 0394(h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "[illegible]@[illegible].com"
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "0207 201 1055 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Guesiroitz, Solina & Marc",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "21/a & Royal Apartments / 43 Bryanston / 17 W[XX]00",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "011 44 207 723 [XXXX] GLJ",
+          "country_code": "44",
+          "area_code": "207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "011 44 207 730 14417",
+          "country_code": "44",
+          "area_code": "207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Guerlini Marcela, Alessandro",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "41 Glen Park Rd / [illegible]",
+          "street": "41 Glen Park Rd",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0702 062 1906 (h)",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0702 062 1906 (b)",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0702 062 1906 (m)",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Guerrand-Hermes, Valesca",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "New York",
+          "city": "New York",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "1 212 927 [illegible]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "1 212 927 2772",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "1 212 922 2114 (o)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Hermès family connection",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Guest, Cornelia",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 516 607 2436(w)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 607 2434",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        }
+      ],
+      "notes": "NYC socialite",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Guggenheim, Barbara & Bert Fie",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "[illegible]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "[illegible] Avenue Venice",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Guggenheim family",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Most information illegible"]
+      }
+    },
+    {
+      "name": "Los Angeles CA 90066 (h)",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Los Angeles, CA 90066",
+          "city": "Los Angeles",
+          "state": "CA",
+          "postal_code": "90066",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "213 827 0000 (home)",
+          "area_code": "213",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 712 3830",
+          "area_code": "310",
+          "geographic_indicator": "West LA/Beverly Hills",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "213 828 30xx (home o)",
+          "area_code": "213",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "310 712 3830 (cell)",
+          "area_code": "310",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Name not visible",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Name missing"]
+      }
+    },
+    {
+      "name": "Gutfreund Susan &John",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "834 Fifth Avenue",
+          "street": "834 Fifth Avenue",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 517 1268",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 744 1971 john work",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "305 349 5400 Sea Diana",
+          "area_code": "305",
+          "geographic_indicator": "Miami, Florida",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Former Salomon Brothers CEO",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Hahn, Dr & Mrs",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "PO Box 225 / North Beach, Gautburg / South Africa 5160 Kluwzburg",
+          "country": "South Africa",
+          "postal_code": "5160",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "011 2751 208 [illegible] work",
+          "country_code": "27",
+          "geographic_indicator": "South Africa",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "011 2751 3088",
+          "country_code": "27",
+          "geographic_indicator": "South Africa",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Guinness, Sabrina",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 888 0419",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 914 666 0410 (h)",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Guinness family",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Guinness, Mr Hugo",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "35 Somerset Ave / [illegible]",
+          "street": "35 Somerset Ave",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London: 8877XX",
+          "geographic_indicator": "London",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 603 1007 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Guinness family",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Guissaini, Luca",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "011 306 923 991[0]",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "011 306 923 9931",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Gumberg, Ira",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 412 243 3007",
+          "area_code": "412",
+          "geographic_indicator": "Pittsburgh, PA",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Hall, Pippa",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0841 93343",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Halpern, Jeri",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "18 Birnamwood Street SW6 / South Kensington Greenwich / London SW3",
+          "city": "London",
+          "postal_code": "SW6/SW3",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 385 3055 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 352 6083 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 584 5544 (o)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Hambro, Clementine",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "0171 249 00XX",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0171 249 00XX",
+          "area_code": "0171",
+          "geographic_indicator": "London (old code)",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0941 469 716",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Hambro banking family",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Hamilton, George",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "21 Eaton Mews South SW1",
+          "street": "21 Eaton Mews South",
+          "postal_code": "SW1",
+          "city": "London",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "notes": "Actor George Hamilton",
+      "data_quality": {
+        "confidence": "high"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 20,
+    "quality": "fair",
+    "legibility": "partially obscured",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "John & Susan Gutfreund - Former Salomon Brothers CEO",
+      "Valesca Guerrand-Hermès - Hermès family",
+      "Barbara Guggenheim - Guggenheim family",
+      "Sabrina & Hugo Guinness - Guinness brewing family",
+      "Cornelia Guest - NYC socialite",
+      "Clementine Hambro - Banking family",
+      "George Hamilton - Actor"
+    ]
+  },
+  "insights": [
+    "Transition from G to H section of alphabetical listing",
+    "Multiple prominent business families (Hermès, Guggenheim, Guinness, Hambro)",
+    "John Gutfreund - major Wall Street figure (Salomon Brothers)",
+    "Strong NYC Upper East Side presence (Fifth Avenue address)",
+    "International connections: South Africa, Los Angeles",
+    "Mix of finance, fashion (Hermès), and entertainment (George Hamilton)",
+    "Long Island connections continue (516 area code)",
+    "Miami/Florida presence (305 area code)",
+    "Pittsburgh connection (412 area code) - unusual for this list",
+    "Mix of old UK codes (0171) and newer (0207)"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "high",
+    "total_contacts": 20,
+    "high_confidence": 13,
+    "medium_confidence": 6,
+    "low_confidence": 1,
+    "extraction_issues": [
+      "One entry missing name (LA address)",
+      "Guggenheim entry mostly illegible",
+      "Some phone numbers partially obscured"
+    ]
+  }
+}

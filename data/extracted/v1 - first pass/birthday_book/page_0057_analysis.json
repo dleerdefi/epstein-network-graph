@@ -1,0 +1,121 @@
+{
+  "page_number": 57,
+  "file_path": "data/birthday_book_images/page_0057.png",
+  "file_size_mb": 1.781205177307129,
+  "type": "handwritten_note_with_photo",
+  "content": {
+    "text": "Girls on my Boat We picked up girls on Beach - went out on Boat. I tell them with knife in my hand to take suits off. But Warren tells dont worry his name is J.N. hes just joking he live at so & so, I tell Mark to throw him into water, he did",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "Girls on my Boat We picked up girls on Beach - went out on Boat. I tell them with knife in my hand to take suits off. But Warren tells dont worry his name is J.N. hes just joking he live at so & so, I tell Mark to throw him into water, he did",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Woody",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          57
+        ]
+      },
+      {
+        "name": "Mark",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          57
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      "Beach",
+      "Boat"
+    ],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Boat experience with girls",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "handwritten_note_with_photo"
+  },
+  "insights": [
+    "Handwritten account of boat trip with girls picked up from beach",
+    "Mentions individuals named Woody and Mark",
+    "Describes conflict resulting in someone being thrown into water",
+    "Accompanied by photograph of boat/dock setting",
+    "Personal narrative style writing"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000057",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.146825",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "People on boat or dock setting",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": null,
+        "era_indicators": [],
+        "photo_quality": null,
+        "photo_type": null
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [],
+  "investigative_leads": []
+}

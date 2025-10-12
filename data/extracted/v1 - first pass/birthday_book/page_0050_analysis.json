@@ -1,0 +1,166 @@
+{
+  "page_number": 50,
+  "file_path": "data/birthday_book_images/page_0050.png",
+  "file_size_mb": 2.7,
+  "type": "school_photos_collage",
+  "content": {
+    "text": "HOUSE_OVERSIGHT_000050",
+    "handwritten": false,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "Three school class photographs displayed vertically",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [
+        "HOUSE_OVERSIGHT_000050 (bottom right)"
+      ],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "[Multiple unidentified students and teachers]",
+        "count": "approximately 75-90 total across three photos",
+        "confidence": "high"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "[School - likely Lafayette High School]",
+        "type": "Educational institution",
+        "confidence": "medium"
+      }
+    ],
+    "locations": [
+      "Brooklyn (implied from context)"
+    ],
+    "dates": [
+      {
+        "period": "1960s-1970s",
+        "context": "Based on clothing and photo style",
+        "confidence": "high"
+      }
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "School class photos collection",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "school_photos_collage"
+  },
+  "insights": [
+    "Three formal school class photographs from 1960s-1970s era",
+    "Library setting with bookshelves visible in top two photos",
+    "Approximately 85 total individuals across three photos",
+    "Mixed gender classes typical of public high school",
+    "Formal posed arrangement standard for yearbook photos",
+    "Clothing styles consistent with late 1960s to early 1970s",
+    "Photos appear to be from same school, possibly different years",
+    "Library setting suggests academic context",
+    "Professional school photography typical of era",
+    "No visible text or banners to identify specific school",
+    "Photos contributed to birthday album from school years",
+    "Likely Lafayette High School based on earlier references",
+    "Standard class size of approximately 25-30 students",
+    "Teachers/faculty visible in formal attire",
+    "Photos preserved in good condition"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000050",
+  "processed_at": "2025-09-23 02:19:00",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.143581",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Top photo - formal school class photo with approximately 30 students",
+        "individual_count": 30,
+        "setting": "Indoor, appears to be library or classroom with bookshelves",
+        "arrangement": "Three rows - standing, middle seated, front seated on floor",
+        "era_indicators": [
+          "1960s-70s clothing styles",
+          "Formal class photo setup"
+        ],
+        "demographics": "Mixed gender class, appears to be high school age"
+      },
+      {
+        "description": "Middle photo - formal school class photo with approximately 30 students",
+        "individual_count": 30,
+        "setting": "Same location as top photo, library/classroom setting",
+        "arrangement": "Three rows similar to top photo",
+        "era_indicators": [
+          "Similar era to top photo",
+          "Formal posed arrangement"
+        ],
+        "demographics": "Mixed gender class, high school age"
+      },
+      {
+        "description": "Bottom photo - formal school class photo with approximately 25 students",
+        "individual_count": 25,
+        "setting": "Different location, appears to be auditorium or formal room",
+        "arrangement": "Two-three rows, more formal posed setup",
+        "era_indicators": [
+          "Slightly different era or grade level",
+          "More formal attire"
+        ],
+        "demographics": "Mixed gender, possibly older students or different year"
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Three class photos arranged vertically on page",
+    "Professional school photography from 1960s-1970s",
+    "Photos appear to be reproductions or copies",
+    "Document stamped HOUSE_OVERSIGHT_000050",
+    "No identifying text on photos themselves",
+    "Photos mounted or arranged for album presentation"
+  ],
+  "investigative_leads": [
+    "Identify specific school (likely Lafayette High School)",
+    "Date photos based on clothing and hairstyles",
+    "Identify individuals in photos",
+    "Connection to earlier Lafayette references",
+    "Yearbook or graduation years",
+    "Teacher identifications possible"
+  ]
+}

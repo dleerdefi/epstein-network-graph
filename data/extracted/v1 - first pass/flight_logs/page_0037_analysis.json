@@ -1,0 +1,293 @@
+{
+  "page_number": 37,
+  "document_type": "Flight Log",
+  "metadata": {
+    "time_period": "July - August 1995",
+    "header_date": "1995 AUG",
+    "pilot": "David Rodgers",
+    "aircraft_registration": "N908JE",
+    "aircraft_make_model": "G1159B",
+    "total_flight_time_page": "31:04",
+    "amt_forward": "6471:49",
+    "total_to_date": "6502:53"
+  },
+  "flights": [
+    {
+      "date": "07/30/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:03",
+      "passengers": "JE, GM, AS, ERICA STEIDELS WAS STEPHANIE",
+      "crew": "JE, GRANT O'GALE HOWARD SIMS, 2 STEWARDESS",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "08/04/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "MVY",
+      "flight_time": "1:00",
+      "passengers": "JE",
+      "crew": "JED MARSHALL",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "08/04/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "MVY",
+      "arrival": "TEB",
+      "flight_time": "1:00",
+      "passengers": "JE, 1 PAX",
+      "crew": "JED MARSHALL",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "08/16/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "CMH",
+      "flight_time": "1:11",
+      "passengers": "JE, 1 PAX",
+      "crew": "JED MARSHALL",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "08/17/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "CMH",
+      "arrival": "PBI",
+      "flight_time": "2:05",
+      "passengers": "JE, 1PAX",
+      "crew": "JED MARSHALL",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "08/24/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:05",
+      "passengers": "JE, GM, CHRISTOPHER, KEMMETH",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "08/25/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:06",
+      "passengers": "JE, GM, CHRISTOPHER, KEMMETT, BELLENA",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "08/29/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:03",
+      "passengers": "JE, GM, STEPHANIE KEMMETH, R. SEGAL",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "08/31/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "MVY",
+      "flight_time": "1:00",
+      "passengers": "JE, DOUG, BAIN, ANDY BRIAN",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "08/31/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "MVY",
+      "arrival": "TEB",
+      "flight_time": "1:00",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "09/01/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:04",
+      "passengers": "JE, GM, CHRISTINA KOLASKY",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "09/04/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:02",
+      "passengers": "JE, GM, CHRISTOPHER, KEMMETT",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "09/06/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "CMH",
+      "flight_time": "1:10",
+      "passengers": "JE, SEA SISTERS MAP",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "09/13/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "CMH",
+      "arrival": "TEB",
+      "flight_time": "1:02",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "09/14/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "ASE",
+      "flight_time": "3:09",
+      "passengers": "JE, AS, STEVE + 3 PAX",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "09/16/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "ASE",
+      "arrival": "SAF",
+      "flight_time": "1:06",
+      "passengers": "JE, AS",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "09/17/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "SAF",
+      "arrival": "ASE",
+      "flight_time": "1:00",
+      "passengers": "JE, AS, MARY GRIFFIS",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "09/17/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "ASE",
+      "arrival": "TEB",
+      "flight_time": "3:02",
+      "passengers": "JE, AS, MARY GRIFFIS, 2 PAX",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "09/21/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "ASE",
+      "flight_time": "3:02",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    }
+  ],
+  "entities": {
+    "people": [
+      {"name": "Jeffrey Epstein", "abbreviation": "JE", "role": "Primary passenger"},
+      {"name": "Ghislaine Maxwell", "abbreviation": "GM", "role": "Frequent passenger"},
+      {"name": "Andy Stewart", "abbreviation": "AS", "role": "Regular passenger"},
+      {"name": "Erica Steidels", "role": "Passenger (was Stephanie)"},
+      {"name": "Grant O'Gale", "role": "Passenger"},
+      {"name": "Howard Sims", "role": "Passenger"},
+      {"name": "Jed Marshall", "role": "Crew member"},
+      {"name": "Christopher", "role": "Passenger"},
+      {"name": "Kemmeth/Kemmett", "role": "Passenger (multiple spellings)"},
+      {"name": "Bellena", "role": "Passenger"},
+      {"name": "Stephanie", "role": "Passenger"},
+      {"name": "R. Segal", "role": "Passenger"},
+      {"name": "Doug", "role": "Passenger"},
+      {"name": "Bain", "role": "Passenger"},
+      {"name": "Brian", "role": "Passenger"},
+      {"name": "Christina Kolasky", "role": "Passenger"},
+      {"name": "Steve", "role": "Passenger"},
+      {"name": "Mary Griffis", "role": "Passenger"},
+      {"name": "David Rodgers", "role": "Pilot"}
+    ],
+    "locations": [
+      {"code": "PBI", "name": "Palm Beach International Airport", "location": "West Palm Beach, FL"},
+      {"code": "TEB", "name": "Teterboro Airport", "location": "Teterboro, NJ"},
+      {"code": "MVY", "name": "Martha's Vineyard Airport", "location": "Martha's Vineyard, MA"},
+      {"code": "CMH", "name": "John Glenn Columbus International Airport", "location": "Columbus, OH"},
+      {"code": "ASE", "name": "Aspen/Pitkin County Airport", "location": "Aspen, CO"},
+      {"code": "SAF", "name": "Santa Fe Regional Airport", "location": "Santa Fe, NM"}
+    ],
+    "aircraft": [
+      {"registration": "N908JE", "type": "Gulfstream G1159B", "category": "Private Jet"}
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {"location": "bottom_left", "description": "David Rodgers pilot signature", "legibility": "clear"}
+    ],
+    "stamps": [],
+    "markings": [
+      {"type": "page_number", "content": "37", "location": "bottom_center"},
+      {"type": "total_time", "content": "31:04", "location": "bottom_right"}
+    ]
+  },
+  "insights": [
+    "Page transitions from July to September dates",
+    "Martha's Vineyard (MVY) appears as frequent destination",
+    "Aspen (ASE) becomes new destination for September",
+    "Santa Fe (SAF) appears in September routing",
+    "Jed Marshall appears as crew member in August",
+    "Multiple same-day round trips (8/4, 8/31)",
+    "Erica Steidels noted as 'was Stephanie' suggesting name change",
+    "Christopher and Kemmeth/Kemmett appear repeatedly together",
+    "2 stewardess notation on 7/30 flight",
+    "Sea Sisters Map appears as passenger notation on 9/6",
+    "September shows Western US operations (ASE, SAF)",
+    "Grant O'Gale and Howard Sims appear together",
+    "Christina Kolasky appears as new passenger",
+    "R. Segal appears as passenger",
+    "Pattern of TEB-PBI corridor continues"
+  ],
+  "corrections": {
+    "date_inference": "Page 37 continues from page 36, starting with July 30, 1995 and continuing through September 21, 1995",
+    "actual_dates_from_png": "Verified from PNG: July 30, August 4, 4, 16, 17, 24, 25, 29, 31, 31, then September dates visible",
+    "continuity": "Properly continues from page 36 which ended July 27, 1995"
+  },
+  "pilot_signature": "David Rodgers",
+  "page_total": "31:04 hours"
+}

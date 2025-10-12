@@ -1,0 +1,303 @@
+{
+  "page_number": 101,
+  "date_header": "APR-MAY 2003",
+  "time_period": "April 2003 - May 2003",
+  "aircraft": {
+    "registration": "Multiple (B-727-31B N908JE, G-1159B N909JE)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "APR 10",
+      "date": "04/10/2003",
+      "departure": "B-727-31B",
+      "arrival": "N908JE",
+      "flight_time": "198",
+      "remarks": "CYRX - PBI - JE, SK, AY, Quassi, Don Lane Cooper, GM, LAY, SK, FM, SA, BT",
+      "passengers": ["JE", "SK", "AY", "Quassi", "Don Lane Cooper", "GM", "LAY", "FM", "SA", "BT"],
+      "crew": "12/6 9/4"
+    },
+    {
+      "entry_number": "12",
+      "date": "04/12/2003",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "CA11",
+      "remarks": "TEB - GM, JE, MD, SA, BT",
+      "passengers": ["GM", "JE", "MD", "SA", "BT"],
+      "crew": "1/2"
+    },
+    {
+      "entry_number": "14",
+      "date": "04/14/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "TEB - MTV - GM, JE, MD, BT, AT",
+      "passengers": ["GM", "JE", "MD", "BT", "AT"],
+      "crew": "REDACTED"
+    },
+    {
+      "entry_number": "14",
+      "date": "04/14/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "LM - REDACTED",
+      "passengers": ["LM", "REDACTED"],
+      "crew": "0"
+    },
+    {
+      "entry_number": "16",
+      "date": "04/16/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "MTV - TEB - REDACTED",
+      "passengers": ["REDACTED"],
+      "crew": "0"
+    },
+    {
+      "entry_number": "17",
+      "date": "04/17/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "TEB - PBI - JE, CL, DT, GM",
+      "passengers": ["JE", "CL", "DT", "GM"],
+      "crew": "REDACTED 3/4"
+    },
+    {
+      "entry_number": "21",
+      "date": "04/21/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "PBI - ADS - JE, JG, BT, CL",
+      "passengers": ["JE", "JG", "BT", "CL"],
+      "crew": "REDACTED 1/1 3/0"
+    },
+    {
+      "entry_number": "21",
+      "date": "04/21/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "ADS - DAF - JE, CL, JG, BT",
+      "passengers": ["JE", "CL", "JG", "BT"],
+      "crew": "1/3"
+    },
+    {
+      "entry_number": "22",
+      "date": "04/22/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "SAC - SBA - JE, JG, Trail",
+      "passengers": ["JE", "JG", "Trail"],
+      "crew": "Duvick, Olivia 2/0"
+    },
+    {
+      "entry_number": "24",
+      "date": "04/24/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "SBA - VNY - JE, JG",
+      "passengers": ["JE", "JG"],
+      "crew": "REDACTED"
+    },
+    {
+      "entry_number": "26",
+      "date": "04/26/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "VNY - TEB - JG, SK",
+      "passengers": ["JG", "SK"],
+      "crew": "E Tony 1/0"
+    },
+    {
+      "entry_number": "3",
+      "date": "05/03/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "TEB - FAY - Marcus Mestre, Freckly, SK, BT",
+      "passengers": ["Marcus Mestre", "Freckly", "SK", "BT"],
+      "crew": "3"
+    },
+    {
+      "entry_number": "3",
+      "date": "05/03/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "FAY - PBI - JE, AM, JG, BT",
+      "passengers": ["JE", "AM", "JG", "BT"],
+      "crew": "1/1"
+    },
+    {
+      "entry_number": "7",
+      "date": "05/07/2003",
+      "departure": "B HT-40",
+      "arrival": "N410P",
+      "flight_time": "",
+      "remarks": "BELL GIUM - HLR, TX - Mark John Guest, Steph, Mitch Andrus, Marie, Anja",
+      "passengers": ["Mark John Guest", "Steph", "Mitch Andrus", "Marie", "Anja"],
+      "crew": "1/3"
+    },
+    {
+      "entry_number": "7",
+      "date": "05/07/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "Nick Anderson, Marie Avens",
+      "passengers": ["Nick Anderson", "Marie Avens"],
+      "crew": "1/2"
+    },
+    {
+      "entry_number": "8",
+      "date": "05/08/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "Walter",
+      "passengers": ["Walter"],
+      "crew": "1/1"
+    },
+    {
+      "entry_number": "9",
+      "date": "05/09/2003",
+      "departure": "",
+      "arrival": "N460JE",
+      "flight_time": "",
+      "remarks": "Mark",
+      "passengers": ["Mark"],
+      "crew": ""
+    },
+    {
+      "entry_number": "12",
+      "date": "05/12/2003",
+      "departure": "",
+      "arrival": "N491GM",
+      "flight_time": "TIST",
+      "remarks": "TIST - TEB, Alex, Nadia",
+      "passengers": ["Alex", "Nadia"],
+      "crew": "REDACTED 1/0"
+    },
+    {
+      "entry_number": "12",
+      "date": "05/12/2003",
+      "departure": "B-727-200",
+      "arrival": "N908JE",
+      "flight_time": "TIST",
+      "remarks": "JFK - JE, AM, SK, BT, Alice Harper",
+      "passengers": ["JE", "AM", "SK", "BT", "Alice Harper"],
+      "crew": "Jason Kline, Drake 3/7"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "SK",
+      "AY",
+      "Quassi",
+      "Don Lane Cooper",
+      "GM",
+      "LAY",
+      "FM",
+      "SA",
+      "BT",
+      "MD",
+      "AT",
+      "LM",
+      "REDACTED",
+      "CL",
+      "DT",
+      "JG",
+      "Trail",
+      "Duvick",
+      "Olivia",
+      "E Tony",
+      "Marcus Mestre",
+      "Freckly",
+      "AM",
+      "Mark John Guest",
+      "Steph",
+      "Mitch Andrus",
+      "Marie",
+      "Anja",
+      "Nick Anderson",
+      "Marie Avens",
+      "Walter",
+      "Mark",
+      "Alex",
+      "Nadia",
+      "Alice Harper",
+      "Jason Kline",
+      "Drake",
+      "David Rodgers"
+    ],
+    "locations": [
+      "CYRX",
+      "PBI",
+      "TEB",
+      "MTV",
+      "ADS",
+      "DAF",
+      "SAC",
+      "SBA",
+      "VNY",
+      "FAY",
+      "BELL GIUM",
+      "HLR",
+      "TX",
+      "TIST",
+      "JFK"
+    ],
+    "aircraft": [
+      "B-727-31B",
+      "N908JE",
+      "G-1159B",
+      "N909JE",
+      "B HT-40",
+      "N410P",
+      "N460JE",
+      "N491GM",
+      "B-727-200"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "Total to Date: 9371 9102.15",
+    "amount_forward": "9371",
+    "total_to_date": "9102.15",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page covers April-May 2003 transition",
+    "JE (Jeffrey Epstein) appears frequently throughout April and May",
+    "SK (Sarah Kellen) appears multiple times",
+    "Multiple REDACTED entries preserved",
+    "California operations noted (SAC, SBA, VNY)",
+    "Caribbean operations continue (TIST)",
+    "Various aircraft types including B-727-31B, G-1159B, B HT-40",
+    "Flight numbers reach 198 for B-727 and CA11 for G-1159B",
+    "Mix of domestic and Caribbean operations",
+    "Notable passengers include Don Lane Cooper, Marcus Mestre",
+    "Several crew members named including Jason Kline, Drake, Duvick, Olivia"
+  ]
+}

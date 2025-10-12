@@ -1,0 +1,339 @@
+{
+  "page_number": 13,
+  "file_path": "data/flight_logs_images/page-013.png",
+  "type": "aircraft_flight_log",
+  "content": {
+    "text": "DATE 1992 AUG | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARKS | POINTS OF DEPARTURE & ARRIVAL | FROM | TO | MILEAGE | FLT TIME | REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS | AIRCRAFT CATEGORY\n\n4 '' N908JE N908JE CBA JED 1⁄4 199 Jeffrey Ghislaine\n26 '' '' TED CMH 1.6 200 Jeffrey\n31 '' '' CMH TED 1.6 201 Jeffrey\n1 [SEP] '' '' TED DMS 3.0 202 Jeffrey 3 CHILDREN & 8/29 LOS Angeles\n1 '' '' DOD POX 2.1 203 3\n12 '' '' PAX PAQ .3 204 Jeffrey\n19 '' '' DAG PAG 1.5 205 Jeffrey\n19 '' '' PAG TED 1.0 206 Jeffrey\n12 '' '' DOS LTO .7 207 Jeffrey 3 FEMALE 6 Males NO Details\n26 '' '' LTO TED 2.0 208 Jeffrey\n30 '' '' TED LFPG 5.0 209 Jeffrey GHISLAINE LOS Angeles NO Details\n2 '' '' CAIN SAE 1.5 210 SEAN BLAINE LOS Angeles NO Details [ANI?]\n14 '' '' SAE PBI 2.5 211 3 FEMALE LOS Angeles NO Details\n19 '' '' CAIN SDQ 3.0 212 Jeffrey 5 LOS Angeles\n24 '' '' SAE PBI 1.5 213 Jeffrey LOS Angeles\n24 '' '' TED PLO 1.5 214 SEAN Q LOS Angeles GO\n9 '' '' TED JED 1⁄4 215 Jeffrey\n\nPAGE TOTAL\nAMT. FORWARD: 273 + 34 + 25.5 = 332.5\nTOTAL TO DATE: 3046 + 473 + 25.5 = 3544.5\n\nI certify that the statements made by me on this form are true.\n\nPILOT'S SIGNATURE: David Rodgers",
+    "handwritten": true,
+    "typed": false,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "Complete cell-by-cell transcription provided above",
+      "flight_records": [
+        {
+          "date": "8/4/92",
+          "departure": "CBA",
+          "arrival": "JED",
+          "aircraft": "N908JE",
+          "flight_time": "0.25 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "Jeffrey Ghislaine"
+        },
+        {
+          "date": "8/26/92",
+          "departure": "TED",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "1.6 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "Jeffrey"
+        },
+        {
+          "date": "8/31/92",
+          "departure": "CMH",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "1.6 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "Jeffrey"
+        },
+        {
+          "date": "9/1/92",
+          "departure": "TED",
+          "arrival": "DMS",
+          "aircraft": "N908JE",
+          "flight_time": "3.0 hrs",
+          "passengers": ["Jeffrey", "3 Children"],
+          "pilot": "David Rodgers",
+          "notes": "Jeffrey 3 CHILDREN & 8/29 LOS Angeles"
+        },
+        {
+          "date": "9/1/92",
+          "departure": "DOD",
+          "arrival": "POX",
+          "aircraft": "N908JE",
+          "flight_time": "2.1 hrs",
+          "passengers": ["3"],
+          "pilot": "David Rodgers",
+          "notes": "3"
+        },
+        {
+          "date": "9/12/92",
+          "departure": "PAX",
+          "arrival": "PAQ",
+          "aircraft": "N908JE",
+          "flight_time": "0.3 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "Jeffrey"
+        },
+        {
+          "date": "9/19/92",
+          "departure": "DAG",
+          "arrival": "PAG",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "Jeffrey"
+        },
+        {
+          "date": "9/19/92",
+          "departure": "PAG",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "1.0 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "Jeffrey"
+        },
+        {
+          "date": "9/12/92",
+          "departure": "DOS",
+          "arrival": "LTO",
+          "aircraft": "N908JE",
+          "flight_time": "0.7 hrs",
+          "passengers": ["Jeffrey", "3 Female", "6 Males"],
+          "pilot": "David Rodgers",
+          "notes": "Jeffrey 3 FEMALE 6 Males NO Details"
+        },
+        {
+          "date": "9/26/92",
+          "departure": "LTO",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "2.0 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "Jeffrey"
+        },
+        {
+          "date": "9/30/92",
+          "departure": "TED",
+          "arrival": "LFPG",
+          "aircraft": "N908JE",
+          "flight_time": "5.0 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "Jeffrey GHISLAINE LOS Angeles NO Details"
+        },
+        {
+          "date": "9/2/92",
+          "departure": "CAIN",
+          "arrival": "SAE",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Sean", "Blaine"],
+          "pilot": "David Rodgers",
+          "notes": "SEAN BLAINE LOS Angeles NO Details [ANI?]"
+        },
+        {
+          "date": "9/14/92",
+          "departure": "SAE",
+          "arrival": "PBI",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["3 Female"],
+          "pilot": "David Rodgers",
+          "notes": "3 FEMALE LOS Angeles NO Details"
+        },
+        {
+          "date": "9/19/92",
+          "departure": "CAIN",
+          "arrival": "SDQ",
+          "aircraft": "N908JE",
+          "flight_time": "3.0 hrs",
+          "passengers": ["Jeffrey", "5"],
+          "pilot": "David Rodgers",
+          "notes": "Jeffrey 5 LOS Angeles"
+        },
+        {
+          "date": "9/24/92",
+          "departure": "SAE",
+          "arrival": "PBI",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "Jeffrey LOS Angeles"
+        },
+        {
+          "date": "9/24/92",
+          "departure": "TED",
+          "arrival": "PLO",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Sean Q"],
+          "pilot": "David Rodgers",
+          "notes": "SEAN Q LOS Angeles GO"
+        },
+        {
+          "date": "9/9/92",
+          "departure": "TED",
+          "arrival": "JED",
+          "aircraft": "N908JE",
+          "flight_time": "0.25 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "Jeffrey"
+        }
+      ],
+      "date_header": "DATE 1992 AUG",
+      "date_range": "August - September 1992",
+      "starting_month": "August",
+      "starting_year": "1992"
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Jeffrey",
+          "context": "Frequent passenger",
+          "occurrences": 13
+        },
+        {
+          "name": "Ghislaine",
+          "context": "Passenger",
+          "occurrences": 3
+        },
+        {
+          "name": "David Rodgers",
+          "context": "Pilot signature",
+          "occurrences": 1
+        },
+        {
+          "name": "Sean",
+          "context": "Passenger",
+          "occurrences": 1
+        },
+        {
+          "name": "Blaine",
+          "context": "Passenger",
+          "occurrences": 1
+        },
+        {
+          "name": "Sean Q",
+          "context": "Passenger",
+          "occurrences": 1
+        }
+      ],
+      "locations": [
+        {
+          "code": "CBA",
+          "context": "Airport code - departure point"
+        },
+        {
+          "code": "JED",
+          "context": "Airport code - arrival point"
+        },
+        {
+          "code": "TED",
+          "context": "Airport code - frequent location"
+        },
+        {
+          "code": "CMH",
+          "context": "Airport code - Columbus, OH"
+        },
+        {
+          "code": "DMS",
+          "context": "Airport code"
+        },
+        {
+          "code": "DOD",
+          "context": "Airport code"
+        },
+        {
+          "code": "POX",
+          "context": "Airport code"
+        },
+        {
+          "code": "PAX",
+          "context": "Airport code"
+        },
+        {
+          "code": "PAQ",
+          "context": "Airport code"
+        },
+        {
+          "code": "DAG",
+          "context": "Airport code"
+        },
+        {
+          "code": "PAG",
+          "context": "Airport code"
+        },
+        {
+          "code": "DOS",
+          "context": "Airport code"
+        },
+        {
+          "code": "LTO",
+          "context": "Airport code"
+        },
+        {
+          "code": "LFPG",
+          "context": "Airport code - Paris Charles de Gaulle"
+        },
+        {
+          "code": "CAIN",
+          "context": "Airport code"
+        },
+        {
+          "code": "SAE",
+          "context": "Airport code"
+        },
+        {
+          "code": "PBI",
+          "context": "Airport code - Palm Beach International"
+        },
+        {
+          "code": "SDQ",
+          "context": "Airport code - Santo Domingo"
+        },
+        {
+          "code": "PLO",
+          "context": "Airport code"
+        },
+        {
+          "name": "Los Angeles",
+          "context": "Referenced in multiple flight notes"
+        }
+      ],
+      "aircraft": [
+        {
+          "registration": "N908JE",
+          "context": "Primary aircraft used for all flights"
+        }
+      ]
+    },
+    "visual_elements": {
+      "signatures": [
+        {
+          "signature": "David Rodgers",
+          "context": "Pilot's signature at bottom of page",
+          "deciphered": true
+        }
+      ],
+      "stamps": [],
+      "handwriting_analysis": "Consistent handwriting throughout, appears to be same person filling out all entries",
+      "page_totals": {
+        "mileage": "273 + 34 + 25.5 = 332.5",
+        "total_to_date": "3046 + 473 + 25.5 = 3544.5"
+      }
+    },
+    "insights": [
+      "Page begins with August 1992 entries, transitions to September 1992",
+      "Jeffrey Epstein appears as 'Jeffrey' in most entries",
+      "Ghislaine Maxwell appears as 'Ghislaine' in several entries",
+      "Multiple references to 'LOS Angeles' in passenger notes",
+      "Several flights with multiple unnamed passengers (3 FEMALE, 6 Males, etc.)",
+      "Flight to Paris (LFPG) on September 30, 1992",
+      "Some entries have unclear passenger counts or names",
+      "Page shows cumulative flight totals indicating systematic record keeping",
+      "Date progression shows flights from August 4 through September 30, 1992",
+      "Multiple Caribbean destinations including Santo Domingo (SDQ)"
+    ]
+  }
+}

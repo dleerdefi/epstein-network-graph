@@ -1,0 +1,306 @@
+{
+  "page_number": 98,
+  "date_header": "NOV 2002-JAN 2003",
+  "time_period": "November 2002 - January 2003",
+  "aircraft": {
+    "registration": "Multiple (B-727-31W N908JE, G-1159B N909JE)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "NOV 20",
+      "date": "11/20/2002",
+      "departure": "B-727-31W",
+      "arrival": "N908JE",
+      "flight_time": "151",
+      "remarks": "PBI - JFK - RAED FURST",
+      "passengers": ["RAED FURST"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "18",
+      "date": "11/18/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "152",
+      "remarks": "TIST - LPAZ - JG, GM, SK, JE, NADIA MARCINKOVA",
+      "passengers": ["JG", "GM", "SK", "JE", "NADIA MARCINKOVA"],
+      "crew": "3/8"
+    },
+    {
+      "entry_number": "19",
+      "date": "11/19/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "153",
+      "remarks": "LPAZ - LFPB - RAED FURST, JEANIENE WITTSHOCK",
+      "passengers": ["RAED FURST", "JEANIENE WITTSHOCK"],
+      "crew": "4/1"
+    },
+    {
+      "entry_number": "21",
+      "date": "11/21/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "154",
+      "remarks": "LFPB - CKCH - SEVEN FURST, MICHAEL, RYAN, JOE INVITAE",
+      "passengers": ["SEVEN FURST", "MICHAEL", "RYAN", "JOE INVITAE"],
+      "crew": "6"
+    },
+    {
+      "entry_number": "22",
+      "date": "11/22/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "160",
+      "remarks": "CKCH - OUWW - JE, GM, SK, ANDREA MITROVICH",
+      "passengers": ["JE", "GM", "SK", "ANDREA MITROVICH"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "24",
+      "date": "11/24/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "161",
+      "remarks": "OUWW - ULLI - GM, SK, REDACTED",
+      "passengers": ["GM", "SK", "REDACTED"],
+      "crew": "1/1"
+    },
+    {
+      "entry_number": "24",
+      "date": "11/24/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "162",
+      "remarks": "ULLI - EINN - JE, GM, SK, ANDREA MITROVICH",
+      "passengers": ["JE", "GM", "SK", "ANDREA MITROVICH"],
+      "crew": "3/6"
+    },
+    {
+      "entry_number": "24",
+      "date": "11/24/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "163",
+      "remarks": "EINN - JFK - JE, GM, SK, ANDREA MITROVICH",
+      "passengers": ["JE", "GM", "SK", "ANDREA MITROVICH"],
+      "crew": "5/0"
+    },
+    {
+      "entry_number": "25",
+      "date": "11/25/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "164",
+      "remarks": "JFK - PBI - JE, JEAN LUC BRUNEL, AUDREY RAIMBAULT",
+      "passengers": ["JE", "JEAN LUC BRUNEL", "AUDREY RAIMBAULT"],
+      "crew": "2/7"
+    },
+    {
+      "entry_number": "DEC 1",
+      "date": "12/01/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "165",
+      "remarks": "PBI - JCK - JE, GM, SK, S. NAVADES ELIZABETH",
+      "passengers": ["JE", "GM", "SK", "S. NAVADES", "ELIZABETH"],
+      "crew": "2/9"
+    },
+    {
+      "entry_number": "4",
+      "date": "12/04/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "166",
+      "remarks": "JCK - PBI - GM, SK, ELIZABETH HURLEY, D. YAMINI",
+      "passengers": ["GM", "SK", "ELIZABETH HURLEY", "D. YAMINI"],
+      "crew": "2/6"
+    },
+    {
+      "entry_number": "9",
+      "date": "12/09/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "167",
+      "remarks": "PBI - TIST - JE, GM, SK, TONY PODESTA, HEATHER PODESTA",
+      "passengers": ["JE", "GM", "SK", "TONY PODESTA", "HEATHER PODESTA"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "11",
+      "date": "12/11/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "168",
+      "remarks": "TIST - PBI - JE, GM, SK, T & H P, CHANNING, R. CHANNING, HEATHER",
+      "passengers": ["JE", "GM", "SK", "T & H P", "CHANNING", "R. CHANNING", "HEATHER"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "21",
+      "date": "12/21/2002",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1609",
+      "remarks": "PBI - PBI - REDACTED, JE, NADIA",
+      "passengers": ["REDACTED", "JE", "NADIA"],
+      "crew": "2/0"
+    },
+    {
+      "entry_number": "21",
+      "date": "12/21/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1610",
+      "remarks": "PBI - PBI - JE, REDACTED",
+      "passengers": ["JE", "REDACTED"],
+      "crew": "0"
+    },
+    {
+      "entry_number": "23",
+      "date": "12/23/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1611",
+      "remarks": "PBI - TIST - JE, SK, JON ELLIS, NANCY",
+      "passengers": ["JE", "SK", "JON ELLIS", "NANCY"],
+      "crew": "2/3"
+    },
+    {
+      "entry_number": "26",
+      "date": "12/26/2002",
+      "departure": "DEC 26 DEC 26",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "TIST - PBI - JE, SK, JE, KELLY SPAMM, ARINNE BROWN, STEVEN BELCHER, JACK SWANBERG, AUB LAYTON, MARY PLUMMET, RON BURKLE",
+      "passengers": ["JE", "SK", "JE", "KELLY SPAMM", "ARINNE BROWN", "STEVEN BELCHER", "JACK SWANBERG", "AUB LAYTON", "MARY PLUMMET", "RON BURKLE"],
+      "crew": "1/1 2/8"
+    },
+    {
+      "entry_number": "JAN 2",
+      "date": "01/02/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "PBI - TEB - JE, GM, SK, VADERO",
+      "passengers": ["JE", "GM", "SK", "VADERO"],
+      "crew": "2/0"
+    },
+    {
+      "entry_number": "6",
+      "date": "01/06/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "[unclear]",
+      "passengers": ["[unclear]"],
+      "crew": ""
+    },
+    {
+      "entry_number": "9",
+      "date": "01/09/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "TEB - PBI - JE, SK, AIDAN",
+      "passengers": ["JE", "SK", "AIDAN"],
+      "crew": "2/4"
+    }
+  ],
+  "entities": {
+    "people": [
+      "RAED FURST",
+      "JG",
+      "GM",
+      "SK",
+      "JE",
+      "NADIA MARCINKOVA",
+      "JEANIENE WITTSHOCK",
+      "SEVEN FURST",
+      "MICHAEL",
+      "RYAN",
+      "JOE INVITAE",
+      "ANDREA MITROVICH",
+      "REDACTED",
+      "JEAN LUC BRUNEL",
+      "AUDREY RAIMBAULT",
+      "S. NAVADES",
+      "ELIZABETH",
+      "ELIZABETH HURLEY",
+      "D. YAMINI",
+      "TONY PODESTA",
+      "HEATHER PODESTA",
+      "T & H P",
+      "CHANNING",
+      "R. CHANNING",
+      "HEATHER",
+      "NADIA",
+      "JON ELLIS",
+      "NANCY",
+      "KELLY SPAMM",
+      "ARINNE BROWN",
+      "STEVEN BELCHER",
+      "JACK SWANBERG",
+      "AUB LAYTON",
+      "MARY PLUMMET",
+      "RON BURKLE",
+      "VADERO",
+      "AIDAN",
+      "David Rodgers"
+    ],
+    "locations": [
+      "PBI",
+      "JFK",
+      "TIST",
+      "LPAZ",
+      "LFPB",
+      "CKCH",
+      "OUWW",
+      "ULLI",
+      "EINN",
+      "JCK",
+      "TEB"
+    ],
+    "aircraft": [
+      "B-727-31W",
+      "N908JE",
+      "G-1159B",
+      "N909JE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "7/6 53",
+    "amount_forward": "8891",
+    "total_to_date": "8944",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page transitions from November 2002 through December 2002 to January 2003",
+    "JE (Jeffrey Epstein) appears frequently throughout November, December, and January",
+    "Jean Luc Brunel appears on November 25",
+    "Audrey Raimbault appears on November 25",
+    "Elizabeth Hurley appears on December 4",
+    "Tony and Heather Podesta appear on December 9 and 11",
+    "Ron Burkle appears on December 26",
+    "SK (Sarah Kellen) appears frequently throughout including January 2003",
+    "Nadia Marcinkova appears multiple times",
+    "International operations to Russia (ULLI), Ireland (EINN), and Europe",
+    "Caribbean operations continue (TIST, JCK)",
+    "Flight numbers reach 1611 for G-1159B",
+    "Multiple REDACTED entries preserved",
+    "Final entries show January 2003 flights"
+  ]
+}

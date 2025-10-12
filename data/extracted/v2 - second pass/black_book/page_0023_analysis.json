@@ -1,0 +1,662 @@
+{
+  "page_number": 23,
+  "alphabetical_section": "G",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "023_gomme_william_emma",
+      "name": {
+        "full_name": "Gomme, William & Emma",
+        "prefix": null,
+        "first_name": "William",
+        "middle_name": null,
+        "last_name": "Gomme",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Emma"
+      },
+      "phones": [
+        {"type": "home", "number": "01 435 6363 (h)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["47 Holbrook Course", "London NW3"],
+          "city": "London",
+          "postal_code": "NW3",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "UK couple"
+    },
+    {
+      "entry_id": "023_gordon_jacobo",
+      "name": {
+        "full_name": "Gordon, Jacobo",
+        "prefix": null,
+        "first_name": "Jacobo",
+        "middle_name": null,
+        "last_name": "Gordon",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "34 914 117 968 (h)", "formatting": "International to Spain"},
+        {"type": "home", "number": "34 914 117 988 (f)", "formatting": "International to Spain - fax"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Rua de Vergara, 126.", "Pozuelo de", "28224 Spain"],
+          "city": "Pozuelo de Alarcón",
+          "postal_code": "28224",
+          "country": "Spain"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Spanish contact"
+    },
+    {
+      "entry_id": "023_gore_juliet",
+      "name": {
+        "full_name": "Gore, Juliet",
+        "prefix": null,
+        "first_name": "Juliet",
+        "middle_name": null,
+        "last_name": "Gore",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0370 141 711", "formatting": "UK format"},
+        {"type": "work", "number": "0333 816124", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["48 South Street", "London W14"],
+          "city": "London",
+          "postal_code": "W14",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "UK contact"
+    },
+    {
+      "entry_id": "023_gottlieb_steve",
+      "name": {
+        "full_name": "Gottlieb, Steve",
+        "prefix": null,
+        "first_name": "Steve",
+        "middle_name": null,
+        "last_name": "Gottlieb",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "mobile", "number": "001 213 699 0215 (c)", "formatting": "International to US"},
+        {"type": "mobile", "number": "001 213 699 0216 (c)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Los Angeles area code"
+    },
+    {
+      "entry_id": "023_goulandris_dimitri",
+      "name": {
+        "full_name": "Goulandris Dimitri",
+        "prefix": null,
+        "first_name": "Dimitri",
+        "middle_name": null,
+        "last_name": "Goulandris",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207-243 5034(h)", "formatting": "UK format"},
+        {"type": "home", "number": "0044 320 243 5034", "formatting": "International to UK"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Greek shipping family"
+    },
+    {
+      "entry_id": "023_grabau_lorenzo",
+      "name": {
+        "full_name": "Grabau, Lorenzo",
+        "prefix": null,
+        "first_name": "Lorenzo",
+        "middle_name": null,
+        "last_name": "Grabau",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207-370 8854 (h)", "formatting": "UK format"},
+        {"type": "home", "number": "00 39 6 322 6774 (Rome)", "formatting": "International to Italy"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": ["00 39 6 322 6774 (Rome)"],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "UK/Italy connections"
+    },
+    {
+      "entry_id": "023_graff_francois",
+      "name": {
+        "full_name": "Graff, François",
+        "prefix": null,
+        "first_name": "François",
+        "middle_name": null,
+        "last_name": "Graff",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 917 1 735 05700", "formatting": "International to US"},
+        {"type": "home", "number": "001 212 (f) fax.", "formatting": "International to US - fax"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["24 Avenue York", "NY Meridien Ave.", "3615"],
+          "notes": "Address unclear"
+        }
+      ],
+      "handwritten_notes": ["Phone #'s", "4 rose David Street", "Knightsbridge"],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "addresses": "medium"
+      },
+      "formatting_notes": "Graff Diamonds connection likely"
+    },
+    {
+      "entry_id": "023_granby_david",
+      "name": {
+        "full_name": "Granby, David",
+        "prefix": null,
+        "first_name": "David",
+        "middle_name": null,
+        "last_name": "Granby",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "01932 857074", "formatting": "UK format"},
+        {"type": "home", "number": "01932 843013", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["41 Beauchamp Walk", "Weybridge", "SURREY KT13 8TY"],
+          "city": "Weybridge",
+          "county": "Surrey",
+          "postal_code": "KT13 8TY",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Surrey residence"
+    },
+    {
+      "entry_id": "023_grange_jacques",
+      "name": {
+        "full_name": "Grange, Jacques",
+        "prefix": null,
+        "first_name": "Jacques",
+        "middle_name": null,
+        "last_name": "Grange",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "work", "number": "00 33 1 42037856-7", "formatting": "International to France"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "business",
+          "address_lines": ["12 rue Ravignan", "Paris, France"],
+          "city": "Paris",
+          "country": "France"
+        }
+      ],
+      "handwritten_notes": ["Colombe Pringle"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Interior designer"
+    },
+    {
+      "entry_id": "023_grant_jamie",
+      "name": {
+        "full_name": "Grant Jamie",
+        "prefix": null,
+        "first_name": "Jamie",
+        "middle_name": null,
+        "last_name": "Grant",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 861 850 h(s)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "US contact"
+    },
+    {
+      "entry_id": "023_greece_mc_pavlos",
+      "name": {
+        "full_name": "Greece, MC & Pavlos",
+        "prefix": null,
+        "first_name": "MC",
+        "middle_name": null,
+        "last_name": "Greece",
+        "suffix": null,
+        "partner_name": "Pavlos"
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 582 1003(h)", "formatting": "International to US"},
+        {"type": "home", "number": "001 917 657 8270 MC.com", "formatting": "International to US"}
+      ],
+      "emails": [
+        {"type": "business", "email": "MC@millerduty.com"}
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["401 East 52 Apt 7A", "New York, NY 10022"],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10022",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": ["Email: MC@millerduty.com", "001 917 743 1620 (P)", "001 212 861 668 0647", "001 917 861 6560(c)"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Greek royalty connection - Prince Pavlos"
+    },
+    {
+      "entry_id": "023_gregg_geordie_katherine",
+      "name": {
+        "full_name": "Gregg Geordie & Katherine",
+        "prefix": null,
+        "first_name": "Geordie",
+        "middle_name": null,
+        "last_name": "Gregg",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Katherine"
+      },
+      "phones": [
+        {"type": "home", "number": "077 47 694 850 car", "formatting": "UK mobile"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["32 Phillimoro Park Gdns", "London SW10"],
+          "city": "London",
+          "postal_code": "SW10",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "medium",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "UK couple"
+    },
+    {
+      "entry_id": "023_green_deborah",
+      "name": {
+        "full_name": "Green, Deborah",
+        "prefix": null,
+        "first_name": "Deborah",
+        "middle_name": null,
+        "last_name": "Green",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "work", "number": "0207-353 0101", "formatting": "UK format"},
+        {"type": "work", "number": "007 213 899 8050 (w)", "formatting": "International"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "UK/International connections"
+    },
+    {
+      "entry_id": "023_green_jeremy",
+      "name": {
+        "full_name": "Green, Jeremy",
+        "prefix": null,
+        "first_name": "Jeremy",
+        "middle_name": null,
+        "last_name": "Green",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "(FAX) 213105", "formatting": "Fax number"},
+        {"type": "mobile", "number": "0956 152 343 (m)", "formatting": "UK mobile"}
+      ],
+      "emails": [
+        {"type": "personal", "email": "jeremygreenfairman.com"}
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["4 Avenue Apartments(c)", "Gweather South", "Honiton(b) EX10 oj Africa"],
+          "notes": "Address unclear"
+        }
+      ],
+      "handwritten_notes": ["11 Rossway - 15m, Peckingham(w)", "0031 44 5 81012"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "low"
+      },
+      "formatting_notes": "Complex address information"
+    },
+    {
+      "entry_id": "023_green_judy",
+      "name": {
+        "full_name": "Green, Judy",
+        "prefix": null,
+        "first_name": "Judy",
+        "middle_name": null,
+        "last_name": "Green",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 986 0937", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["200 Park Ave", "New York, NY 10017"],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10017",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "NYC contact"
+    },
+    {
+      "entry_id": "023_greece_princess_olga",
+      "name": {
+        "full_name": "Greece Princess Olga",
+        "prefix": "Princess",
+        "first_name": "Olga",
+        "middle_name": null,
+        "last_name": "Greece",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 628 1915", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Greek royalty"
+    },
+    {
+      "entry_id": "023_grenfell_natasha",
+      "name": {
+        "full_name": "Grenfell, Natasha",
+        "prefix": null,
+        "first_name": "Natasha",
+        "middle_name": null,
+        "last_name": "Grenfell",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207 371 1419", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["25 St Mary Abbots Place", "London W8"],
+          "city": "London",
+          "postal_code": "W8",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Kensington, London"
+    },
+    {
+      "entry_id": "023_griffen_ted",
+      "name": {
+        "full_name": "Griffen, Ted",
+        "prefix": null,
+        "first_name": "Ted",
+        "middle_name": null,
+        "last_name": "Griffen",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "mobile", "number": "001 646 698 6973", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "NYC mobile"
+    },
+    {
+      "entry_id": "023_griscom_nina",
+      "name": {
+        "full_name": "Griscom, Nina",
+        "prefix": null,
+        "first_name": "Nina",
+        "middle_name": null,
+        "last_name": "Griscom",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001-917-353-0321", "formatting": "International to US"},
+        {"type": "home", "number": "001-6-779 8650(h)", "formatting": "International"}
+      ],
+      "emails": [
+        {"type": "personal", "email": "ngriffith@aol.com"}
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["232 Fifth Avenue", "New York N.Y. 10021"],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": ["Email: ngriffith@aol.com", "001-212-353-0340"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "NYC contact"
+    },
+    {
+      "entry_id": "023_gross_pamela_jimmy_finkeist",
+      "name": {
+        "full_name": "Gross, Pamela & Jimmy Finkeist",
+        "prefix": null,
+        "first_name": "Pamela",
+        "middle_name": null,
+        "last_name": "Gross",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Jimmy Finkeist"
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 787 2821", "formatting": "International to US"},
+        {"type": "home", "number": "001 914 833 0831", "formatting": "International to US"}
+      ],
+      "emails": [
+        {"type": "personal", "email": "jfinkelstein@pamela"}
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Four Oaks", "New York, NY 10021"],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA"
+        },
+        {
+          "type": "business",
+          "address_lines": ["333 E. 56 St(off)"],
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": ["31 West 88 Street", "George Fritz Heck Lane"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high"
+      },
+      "formatting_notes": "NYC media couple"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 20,
+    "legibility": "excellent",
+    "page_condition": "good",
+    "notes": "Notable entries include Greek royalty (Prince Pavlos, Princess Olga), Goulandris shipping family, Jacques Grange (interior designer), and Graff connection"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "William Gomme",
+      "Emma Gomme",
+      "Jacobo Gordon",
+      "Juliet Gore",
+      "Steve Gottlieb",
+      "Dimitri Goulandris",
+      "Lorenzo Grabau",
+      "François Graff",
+      "David Granby",
+      "Jacques Grange",
+      "Jamie Grant",
+      "MC Greece",
+      "Pavlos Greece",
+      "Geordie Gregg",
+      "Katherine Gregg",
+      "Deborah Green",
+      "Jeremy Green",
+      "Judy Green",
+      "Princess Olga Greece",
+      "Natasha Grenfell",
+      "Ted Griffen",
+      "Nina Griscom",
+      "Pamela Gross",
+      "Jimmy Finkeist"
+    ],
+    "organizations": [
+      "Graff Diamonds",
+      "Miller Duty"
+    ],
+    "locations": [
+      "London, UK",
+      "Spain",
+      "Rome, Italy",
+      "Paris, France",
+      "New York, NY",
+      "Los Angeles, CA",
+      "Surrey, UK"
+    ]
+  },
+  "insights": [
+    "Greek royalty connections - Prince Pavlos and Princess Olga",
+    "Goulandris family - prominent Greek shipping dynasty",
+    "Jacques Grange - famous French interior designer",
+    "Possible Graff Diamonds connection through François Graff",
+    "Jimmy Finkelstein - media figure paired with Pamela Gross",
+    "Mix of European aristocracy and business figures",
+    "Strong NYC presence with multiple Manhattan addresses",
+    "International scope spanning UK, Spain, Italy, France, Greece, USA",
+    "Several entries with Surrey and outer London addresses",
+    "Combination of old money families and new business elite"
+  ]
+}

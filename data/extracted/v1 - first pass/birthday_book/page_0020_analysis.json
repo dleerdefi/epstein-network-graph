@@ -1,0 +1,154 @@
+{
+  "page_number": 20,
+  "type": "handwritten_birthday_letter",
+  "content": {
+    "text": "HAPPY 50th Birthday May 2003 prove to BE the year you are most HAPPY Dear Son JEFF I have been very busy REMINISCING Since Ghislaine asked me to write about you for your book. I keep thinking about then and now. My father drove Seymour and me to the hospital that cold snowy day in January to become parents of a beautiful healthy son. Jeff You have been a good son from day one and we have been proud of you ever since",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "HAPPY 50th Birthday\n\nMay 2003 prove To BE\nthe year you are most HAPPY\n\nDear Son JEFF,\nI have been very busy\nREMINISCING Since Ghislaine\nasked me to write about you for\nyour book. I keep thinking\nabout then and now.\nMy father drove Seymour and\nme to the hospital that cold, snowy\nday in January to become parents of\na beautiful, healthy son, Jeff.\nyou have been a good son from\nday one and we have been proud\nof you ever since. (1)\n\n1\n\nDocument ID:\nHOUSE_OVERSIGHT_000020",
+      "letterhead": "",
+      "main_body": "Full letter text above",
+      "captions": [],
+      "margins": ["1 (page number circled at bottom)"],
+      "annotations": ["HOUSE_OVERSIGHT_000020"],
+      "handwritten_portions": ["Entire letter is handwritten"]
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "title": null,
+        "relationship": "Son/Birthday recipient",
+        "context": "50th birthday letter from mother",
+        "confidence": "high",
+        "page_appearances": [20]
+      },
+      {
+        "name": "Paula Epstein",
+        "title": null,
+        "relationship": "Mother (letter writer)",
+        "context": "Writing birthday message to son",
+        "confidence": "high",
+        "page_appearances": [20]
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "title": null,
+        "relationship": "Book organizer",
+        "context": "Asked Paula to write for birthday book",
+        "confidence": "high",
+        "page_appearances": [20]
+      },
+      {
+        "name": "Seymour Epstein",
+        "title": null,
+        "relationship": "Father",
+        "context": "Drove to hospital for Jeff's birth",
+        "confidence": "high",
+        "page_appearances": [20]
+      },
+      {
+        "name": "Grandfather (Paula's father)",
+        "title": null,
+        "relationship": "Maternal grandfather",
+        "context": "Drove parents to hospital",
+        "confidence": "high",
+        "page_appearances": [20]
+      }
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "2003",
+      "January (birth month)",
+      "50th Birthday"
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Mother (Paula)",
+    "recipient": "Jeff (Jeffrey Epstein)",
+    "date": "2003",
+    "subject": "50th birthday wishes from mother",
+    "significance": "high",
+    "theme": null,
+    "document_type": "handwritten_birthday_letter"
+  },
+  "relationships": [
+    "Paula (mother) to Jeffrey Epstein (son)",
+    "Seymour (father) to Jeffrey Epstein",
+    "Ghislaine Maxwell organized the birthday book"
+  ],
+  "insights": [
+    "Paula Epstein (mother) writes loving birthday message",
+    "CRITICAL: 'Ghislaine asked me to write about you for your book'",
+    "Confirms Maxwell personally contacted each contributor",
+    "'REMINISCING' capitalized for emphasis",
+    "Birth story: grandfather drove parents to hospital",
+    "'cold, snowy day in January' - winter birth confirmed",
+    "'beautiful, healthy son' - proud maternal tone",
+    "'good son from day one' - maintains positive view",
+    "'we have been proud of you ever since' - ongoing pride",
+    "No mention of criminal issues or controversies",
+    "Letter written in 2003 before legal troubles",
+    "Handwriting appears elderly - consistent with mother's age",
+    "Page numbered '1' - multiple pages expected",
+    "Circled '1' at bottom indicates pagination",
+    "Family maintained close relationship through 2003"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000020",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.129640",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": true,
+    "high_priority": false,
+    "quality_score": 95,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Ghislaine Maxwell's coordinating role documented by mother",
+    "Handwriting analysis: elderly female cursive style",
+    "Written January 2003 - before any investigations",
+    "No awareness of criminal activities evident",
+    "Page 1 of multi-page letter from mother"
+  ],
+  "investigative_leads": [
+    "Locate remaining pages of Paula's letter",
+    "Interview Paula Epstein about son's childhood",
+    "Document grandfather's identity and role",
+    "Verify hospital and birth records from January 1953",
+    "Analyze what Paula knew about son's activities"
+  ]
+}

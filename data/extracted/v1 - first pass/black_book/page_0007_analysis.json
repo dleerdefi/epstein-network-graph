@@ -1,0 +1,1198 @@
+{
+  "page_number": 7,
+  "alphabetical_section": "B",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "page7_bosson_hon_bruce_perdita",
+      "name": {
+        "full_name": "Bosson, Hon Bruce and Perdita",
+        "title": "Hon",
+        "first_name": "Bruce",
+        "last_name": "Bosson",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 212 397 44XX(h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "001",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan",
+          "is_primary": false,
+          "formatting": "001 212 397 44XX(h)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "24 Roosevelt Road\nExeter, EX1 1 [illegible]\nEngland UK",
+          "street_line1": "24 Roosevelt Road",
+          "street_line2": null,
+          "city": "Exeter",
+          "state_province": null,
+          "postal_code": "EX1 1 [illegible]",
+          "country": "UK",
+          "notes": "Devon, England"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Perdita Bosson"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Honorable title"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page7_boucherle_sylvianne",
+      "name": {
+        "full_name": "Boucherle Sylvianne",
+        "title": null,
+        "first_name": "Sylvianne",
+        "last_name": "Boucherle",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "[illegible]",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Not legible",
+          "is_primary": false,
+          "formatting": "[illegible]"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "86 rue Du Mar [illegible]\nParis\n75016 [illegible]",
+          "street_line1": "86 rue Du Mar",
+          "street_line2": null,
+          "city": "Paris",
+          "state_province": null,
+          "postal_code": "75016",
+          "country": "France",
+          "notes": "16th arrondissement, upscale Paris"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page7_bourke_rick",
+      "name": {
+        "full_name": "Bourke, Rick",
+        "title": null,
+        "first_name": "Rick",
+        "last_name": "Bourke",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 203 820 XXXX(Connecticut, 00527",
+          "type": "home",
+          "label": "Connecticut",
+          "country_code": "001",
+          "area_code": "203",
+          "extension": null,
+          "notes": "Connecticut area",
+          "is_primary": false,
+          "formatting": "001 203 820 XXXX"
+        },
+        {
+          "number": "001 203 661 226X(h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "001",
+          "area_code": "203",
+          "extension": null,
+          "notes": "Connecticut area",
+          "is_primary": false,
+          "formatting": "001 203 661 226X(h)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Fort Hills Lane\nGreenwich, Connecticut 00527",
+          "street_line1": "Fort Hills Lane",
+          "street_line2": null,
+          "city": "Greenwich",
+          "state_province": "Connecticut",
+          "postal_code": "00527",
+          "country": "USA",
+          "notes": "Wealthy Connecticut suburb"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page7_bowles_hamish",
+      "name": {
+        "full_name": "Bowles, Hamish",
+        "title": null,
+        "first_name": "Hamish",
+        "last_name": "Bowles",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": "Vogue",
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 212 286 7644 (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": "001",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan, Vogue office",
+          "is_primary": false,
+          "formatting": "001 212 286 7644 (w)"
+        },
+        {
+          "number": "001 212 879 86XX(h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "001",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan",
+          "is_primary": false,
+          "formatting": "001 212 879 86XX(h)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "label": "Vogue",
+          "full_address": "Vogue\n350 Madison Avenue\nNew York",
+          "street_line1": "350 Madison Avenue",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Vogue headquarters"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": "Vogue"
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Fashion industry connection"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "medium",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page7_brachetti_peretti_ordinando",
+      "name": {
+        "full_name": "Brachetti Peretti Ordinando",
+        "title": null,
+        "first_name": "Ordinando",
+        "last_name": "Brachetti Peretti",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0207-589 8919",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": "0207",
+          "extension": null,
+          "notes": "Central London",
+          "is_primary": false,
+          "formatting": "0207-589 8919"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Gresso\nCortina\n00 39 04 36 877 [illegible]\n00 39 336 338 214 (Italia)",
+          "street_line1": "Gresso",
+          "street_line2": null,
+          "city": "Cortina",
+          "state_province": null,
+          "postal_code": null,
+          "country": "Italy",
+          "notes": "Cortina d'Ampezzo, ski resort"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Italian nobility name"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "medium",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page7_brachetti_peretti_carlo",
+      "name": {
+        "full_name": "Brachetti, Prince Carlo",
+        "title": "Prince",
+        "first_name": "Carlo",
+        "last_name": "Brachetti",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "00 39 0105 474967(h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "00 39",
+          "area_code": "0105",
+          "extension": null,
+          "notes": "Italy",
+          "is_primary": false,
+          "formatting": "00 39 0105 474967(h)"
+        },
+        {
+          "number": "00 39 335 6827816",
+          "type": "mobile",
+          "label": null,
+          "country_code": "00 39",
+          "area_code": "335",
+          "extension": null,
+          "notes": "Italian mobile",
+          "is_primary": false,
+          "formatting": "00 39 335 6827816"
+        }
+      ],
+      "addresses": [],
+      "emails": [
+        {
+          "address": "cb.zip@libero.it",
+          "type": "personal",
+          "domain": "libero.it",
+          "notes": "Italian ISP"
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": ["Related to Brachetti Peretti Ordinando"],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Italian Prince title"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page7_braine_caroline",
+      "name": {
+        "full_name": "Braine, Caroline",
+        "title": null,
+        "first_name": "Caroline",
+        "last_name": "Braine",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0207-351 XXXX (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": null,
+          "area_code": "0207",
+          "extension": null,
+          "notes": "Central London",
+          "is_primary": false,
+          "formatting": "0207-351 XXXX (h)"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page7_braine_ms_katie",
+      "name": {
+        "full_name": "Braine, Ms Katie &",
+        "title": "Ms",
+        "first_name": "Katie",
+        "last_name": "Braine",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0207 581 5X (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": null,
+          "area_code": "0207",
+          "extension": null,
+          "notes": "Central London",
+          "is_primary": false,
+          "formatting": "0207 581 5X (h)"
+        },
+        {
+          "number": "0207 XXXX7 (h)(Carey)",
+          "type": "home",
+          "label": "h)(Carey",
+          "country_code": null,
+          "area_code": "0207",
+          "extension": null,
+          "notes": "Central London, Carey's number",
+          "is_primary": false,
+          "formatting": "0207 XXXX7 (h)(Carey)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "10 Ovington Place\nLondon SW3",
+          "street_line1": "10 Ovington Place",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW3",
+          "country": "UK",
+          "notes": "Knightsbridge area"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Carey"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page7_bram_ben",
+      "name": {
+        "full_name": "Bram, Ben",
+        "title": null,
+        "first_name": "Ben",
+        "last_name": "Bram",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "212 903 8620",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan",
+          "is_primary": false,
+          "formatting": "212 903 8620"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page7_brand_tony",
+      "name": {
+        "full_name": "Brand Tony",
+        "title": null,
+        "first_name": "Tony",
+        "last_name": "Brand",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "212 215 8890",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan",
+          "is_primary": false,
+          "formatting": "212 215 8890"
+        },
+        {
+          "number": "516 671 8413",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": "516",
+          "extension": null,
+          "notes": "Long Island area",
+          "is_primary": false,
+          "formatting": "516 671 8413"
+        }
+      ],
+      "addresses": [],
+      "emails": [
+        {
+          "address": "[illegible]@brandpartners.com",
+          "type": "business",
+          "domain": "brandpartners.com",
+          "notes": null
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "medium",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page7_brandolini_dadda",
+      "name": {
+        "full_name": "Brandolini d'Adda",
+        "title": null,
+        "first_name": null,
+        "last_name": "Brandolini d'Adda",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "011 4367 9915 (work)",
+          "type": "work",
+          "label": "work",
+          "country_code": "011",
+          "area_code": "4367",
+          "extension": null,
+          "notes": "International",
+          "is_primary": false,
+          "formatting": "011 4367 9915 (work)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Giustina & Tiberto\n77 Anthony Picano\nUE Santa Marta Campo\nVenezia",
+          "street_line1": "77 Anthony Picano",
+          "street_line2": "UE Santa Marta Campo",
+          "city": "Venezia",
+          "state_province": null,
+          "postal_code": null,
+          "country": "Italy",
+          "notes": "Venice, Italy"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Giustina", "Tiberto"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Italian nobility name"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "medium",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page7_brandolini_nuno_murtas",
+      "name": {
+        "full_name": "Brandolini Nuno & Murtas",
+        "title": null,
+        "first_name": "Nuno",
+        "last_name": "Brandolini",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "011 XXXX (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "011",
+          "area_code": null,
+          "extension": null,
+          "notes": "International",
+          "is_primary": false,
+          "formatting": "011 XXXX (h)"
+        },
+        {
+          "number": "011 336 888 XXXX (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "011",
+          "area_code": "336",
+          "extension": null,
+          "notes": "International mobile",
+          "is_primary": false,
+          "formatting": "011 336 888 XXXX (h)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Sao Torroea [illegible]\nParma[?]",
+          "street_line1": "Sao Torroea",
+          "street_line2": null,
+          "city": "Parma",
+          "state_province": null,
+          "postal_code": null,
+          "country": "Italy",
+          "notes": "Possibly Italy"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Murtas Brandolini"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "low",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page7_branson_richard",
+      "name": {
+        "full_name": "Branson, Richard",
+        "title": null,
+        "first_name": "Richard",
+        "last_name": "Branson",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 561 795 4138 (f)",
+          "type": "fax",
+          "label": "f",
+          "country_code": "001",
+          "area_code": "561",
+          "extension": null,
+          "notes": "Palm Beach fax",
+          "is_primary": false,
+          "formatting": "001 561 795 4138 (f)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "55 Dream Island\nLondon SWXX\n0208-748 1414 (h)\n0370-381 1814 (h)",
+          "street_line1": "55 Dream Island",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SWXX",
+          "country": "UK",
+          "notes": null
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Virgin Group founder"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "medium",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page7_bristowe_flavio",
+      "name": {
+        "full_name": "Bristowe, Flavio",
+        "title": null,
+        "first_name": "Flavio",
+        "last_name": "Bristowe",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "[illegible]",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Not legible",
+          "is_primary": false,
+          "formatting": "[illegible]"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Frasara Helens\nPietersberg\n14 Horsley Close\nSW19 4EQ (post central)\nEpsom, Surrey",
+          "street_line1": "14 Horsley Close",
+          "street_line2": null,
+          "city": "Epsom",
+          "state_province": "Surrey",
+          "postal_code": "SW19 4EQ",
+          "country": "UK",
+          "notes": null
+        }
+      ],
+      "emails": [
+        {
+          "address": "flavio@bristowe.com",
+          "type": "personal",
+          "domain": "bristowe.com",
+          "notes": null
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page7_brandt_peter",
+      "name": {
+        "full_name": "Brandt, Peter",
+        "title": null,
+        "first_name": "Peter",
+        "last_name": "Brandt",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 561 798 0480 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "001",
+          "area_code": "561",
+          "extension": null,
+          "notes": "Palm Beach area",
+          "is_primary": false,
+          "formatting": "001 561 798 0480 (h)"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page7_broadhurst_julia",
+      "name": {
+        "full_name": "Broadhurst, Julia",
+        "title": null,
+        "first_name": "Julia",
+        "last_name": "Broadhurst",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "020 7170 14XXXX",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": "020",
+          "extension": null,
+          "notes": "London area code",
+          "is_primary": false,
+          "formatting": "020 7170 14XXXX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "6 Amen Lane\nAmpthill 773\nSocotra",
+          "street_line1": "6 Amen Lane",
+          "street_line2": "Ampthill 773",
+          "city": "Socotra",
+          "state_province": null,
+          "postal_code": null,
+          "country": null,
+          "notes": "Unclear location"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "low",
+        "overall_legibility": "poor"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 16,
+    "complete_entries": 0,
+    "partial_entries": 12,
+    "minimal_entries": 4,
+    "redacted_entries": 0,
+    "handwritten_additions": 0,
+    "crossed_out_entries": 0,
+    "quality": "fair",
+    "legibility": "partially obscured",
+    "notable_features": ["Richard Branson entry", "Italian nobility entries", "Vogue connection through Hamish Bowles"],
+    "continues_to_page": 8,
+    "continued_from_page": 6,
+    "split_entry_note": "No clear continuation from page 6"
+  },
+  "cross_references": [
+    {
+      "from_name": "Brachetti, Prince Carlo",
+      "to_name": "Brachetti Peretti Ordinando",
+      "reference_type": "related_to",
+      "page_reference": null
+    }
+  ],
+  "entities": {
+    "people": ["Hon Bruce Bosson", "Perdita Bosson", "Sylvianne Boucherle", "Rick Bourke", "Hamish Bowles", "Ordinando Brachetti Peretti", "Prince Carlo Brachetti", "Caroline Braine", "Katie Braine", "Carey", "Ben Bram", "Tony Brand", "Brandolini d'Adda", "Giustina", "Tiberto", "Nuno Brandolini", "Murtas Brandolini", "Richard Branson", "Flavio Bristowe", "Peter Brandt", "Julia Broadhurst"],
+    "organizations": ["Vogue"],
+    "locations": {
+      "cities": ["Exeter", "Paris", "Greenwich", "New York", "Cortina", "Venice", "Parma", "London", "Epsom", "Palm Beach"],
+      "states": ["Connecticut", "NY", "Surrey"],
+      "countries": ["UK", "France", "USA", "Italy"]
+    }
+  },
+  "insights": [
+    "Page 7 continues B section with 16 entries",
+    "Richard Branson entry with Palm Beach fax and London address",
+    "Hamish Bowles connected to Vogue magazine at 350 Madison Avenue",
+    "Italian nobility entries (Prince Carlo Brachetti, Brachetti Peretti)",
+    "Greenwich, Connecticut address for Rick Bourke - wealthy suburb",
+    "Paris 75016 postal code for Sylvianne Boucherle - exclusive 16th arrondissement",
+    "Cortina d'Ampezzo, Italy address - famous ski resort destination",
+    "Multiple Italian phone codes (00 39) indicating Venice/Italian connections",
+    "203 area code confirms Greenwich/Connecticut location",
+    "561 area code appears twice - Palm Beach Florida connections",
+    "516 area code for Tony Brand - Long Island/Nassau County",
+    "Mix of British nobility (Hon Bruce Bosson) and Italian nobility",
+    "brandpartners.com domain suggests business partnership firm",
+    "libero.it email domain - Italian internet service provider",
+    "Several entries with prestigious London SW3 postcodes (Knightsbridge)"
+  ]
+}

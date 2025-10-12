@@ -1,0 +1,837 @@
+{
+  "page_number": 87,
+  "section": "Various Contacts and Services",
+  "entries": [
+    {
+      "name": "Home entries",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212-566-1212 home",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212-999-1633(w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212-999-0000 Travel",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212-999-0099",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Home and travel services",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Ellis Freedman",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 513 337 5500(o)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 513 337 5550(h) (w)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Ellis Freedman",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Grumbridge, Malcolm",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "150 Private Street",
+          "street": "150 Private Street",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "NY 10125 Stamford 2NW",
+          "city": "NY",
+          "postal_code": "10125",
+          "location": "Stamford",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0208 235 8413 (h)",
+          "area_code": "0208",
+          "geographic_indicator": "London outer",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "020871 Kensington Avenue",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "Robert Reed",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0208 839 4576 (h)",
+          "area_code": "0208",
+          "geographic_indicator": "London outer",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0208 891 3425 Goodwin board",
+          "area_code": "0208",
+          "geographic_indicator": "London outer",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01 29 3952 1373 (m)",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Malcolm Grumbridge - Private Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Some entries incomplete"]
+      }
+    },
+    {
+      "name": "Lamaine, Pierre",
+      "category": "Personal",
+      "location": "France",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 33 1 4296 4490 (#184)",
+          "area_code": "33",
+          "geographic_indicator": "France",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 33 1 4269 5514",
+          "area_code": "33",
+          "geographic_indicator": "France",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 33 1 4269 5513 Daphnie",
+          "area_code": "33",
+          "geographic_indicator": "France",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 33 1 4269 3513",
+          "area_code": "33",
+          "geographic_indicator": "France",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Pierre Lamaine - France",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Marden Scott and Sarah Nurse",
+      "category": "Personal",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 762 686600",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Scott and Sarah Marden - Nurse",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Marden, Scott & Sarah",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 762 567570",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 762 668620",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Scott & Sarah Marden",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Miranda, Bob",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 339 0231",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 339 0019",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Bob Miranda",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Moss Brian /Carolin Coleman",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "01883 881163",
+          "area_code": "01883",
+          "geographic_indicator": "UK",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Brian Moss and Carolin Coleman",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Nessen, Mauri",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 323 654 8037",
+          "area_code": "323",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Mauri Nessen",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Oliver, Keith",
+      "category": "Personal",
+      "location": "UK",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Prince & Devine",
+          "company": "Prince & Devine",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Prince accounts s(us)",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "Hobson Kerry",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 351 1109 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 365 7905 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 388 5300 Hampsteasdcoleston",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "07801 323 850",
+          "area_code": "07801",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "St James's House",
+        "3-4 St John Street N7 8FR",
+        "Street. Keither"
+      ],
+      "notes": "Keith Oliver - Prince & Devine",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Some entries unclear"]
+      }
+    },
+    {
+      "name": "Onekewe, Rodolph",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "12 Rue de Chaillot",
+          "street": "12 Rue de Chaillot",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "75116 Paris",
+          "city": "Paris",
+          "postal_code": "75116",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "notes": "Rodolph Onekewe - Rue de Chaillot Paris",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Ord, Robert",
+      "category": "Personal",
+      "location": "Unknown",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0449 38786297",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Robert Ord",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "0836 208069",
+      "category": "Service",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0836 208069",
+          "area_code": "0836",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Mobile number entry",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Paul Cox",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "703229",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Paul Cox",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Phone incomplete"]
+      }
+    },
+    {
+      "name": "Peters & Peters",
+      "category": "Business",
+      "location": "UK",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "2 Harewood place",
+          "street": "2 Harewood place",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Hanover Sq",
+          "location": "Hanover Square",
+          "confidence": "high"
+        },
+        {
+          "type": "tertiary",
+          "address": "London w1",
+          "city": "London",
+          "postal_code": "W1",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 491 0709",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 495 8157(d)",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 229 1477",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Peters & Peters - Hanover Square law firm",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Pisar, Samuel",
+      "category": "Personal",
+      "location": "France",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "331 431 47100 E114 (o)",
+          "area_code": "331",
+          "geographic_indicator": "Paris",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "331 421 24000 (h)",
+          "area_code": "331",
+          "geographic_indicator": "Paris",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "331 431 47101 #113 (o)",
+          "area_code": "331",
+          "geographic_indicator": "Paris",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "331 412 82017(h)",
+          "area_code": "331",
+          "geographic_indicator": "Paris",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 644 0404 Lauine/Caroline",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "617 531 0416 #416 Caroline",
+          "area_code": "617",
+          "geographic_indicator": "Boston",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Samuel Pisar - Paris and US locations",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Shaw Derek",
+      "category": "Personal",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0208 833044",
+          "area_code": "0208",
+          "geographic_indicator": "London outer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Derek Shaw",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Shelly Aloof",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 323 939 8850 (o)",
+          "area_code": "323",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 323 939 8850 (w)",
+          "area_code": "323",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Shelly Aloof - Los Angeles",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Tony Busby",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "plaza bonds 432050",
+          "reference": "plaza bonds 432050",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "notes": "Tony Busby - plaza bonds",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Travis, Paul",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0343 545656",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Paul Travis",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Tuttle, Jim",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 408 0202",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0867 408682 23817",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Jim Tuttle",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "White, Justin",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0783 544 312",
+          "area_code": "0783",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Justin White",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "RUGS",
+      "category": "Section Header",
+      "location": "Unknown",
+      "entries": [],
+      "notes": "RUGS section header",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Pierre, Jerome",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Gournay Court",
+          "location": "Gournay Court",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 307 4045",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 641 7966 (p)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Jerome Pierre - Gournay Court",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Posen, Felix",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "28 Kensington Gate",
+          "street": "28 Kensington Gate",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "London S.W.5-Eng",
+          "city": "London",
+          "postal_code": "SW5",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "020775816780",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "fposen@aol.com",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Poste.compaq@waadoo.co.uk",
+        "Martin Felix Road",
+        "0207 586 3334 (h)",
+        "0171 584 3445 Beesuruit"
+      ],
+      "notes": "Felix Posen - Kensington Gate London",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "SECURITY (SC)",
+      "category": "Section Header",
+      "location": "Unknown",
+      "entries": [],
+      "notes": "SECURITY section header",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Scotland Yard",
+      "category": "Service",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207-230 1212",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Scotland Yard - Metropolitan Police",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 28,
+    "illegible_entries": 0,
+    "partial_entries": 5,
+    "sections": ["Various Contacts", "RUGS", "SECURITY (SC)"],
+    "notable_entries": [
+      "Scotland Yard contact",
+      "Peters & Peters law firm Hanover Square",
+      "Samuel Pisar - Paris and US",
+      "Multiple international contacts",
+      "Security section"
+    ],
+    "geographic_distribution": {
+      "usa": 12,
+      "uk": 10,
+      "france": 3,
+      "london": 8,
+      "palm_beach": 3,
+      "manhattan": 5,
+      "los_angeles": 2
+    },
+    "location_highlights": [
+      "Scotland Yard security contact",
+      "Peters & Peters - Hanover Square London",
+      "Multiple Paris contacts",
+      "International network spanning US, UK, France",
+      "Security and RUGS sections"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 23,
+      "medium_confidence": 2,
+      "low_confidence": 3,
+      "specific_issues": [
+        "Some phone numbers incomplete",
+        "Several entries with partial information",
+        "Some formatting unclear"
+      ]
+    }
+  }
+}

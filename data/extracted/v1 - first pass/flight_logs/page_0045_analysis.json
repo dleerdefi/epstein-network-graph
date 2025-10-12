@@ -1,0 +1,314 @@
+{
+  "page_number": 45,
+  "document_type": "Flight Log",
+  "metadata": {
+    "time_period": "November 1996 - January 1997",
+    "header_date": "1996 NOV",
+    "pilot": "David Rodgers",
+    "aircraft_registration": "N908JE",
+    "aircraft_make_model": "G1159B",
+    "total_flight_time_page": "31:00",
+    "amt_forward": "6790:30",
+    "total_to_date": "6821:30"
+  },
+  "flights": [
+    {
+      "date": "11/15/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "CMH",
+      "arrival": "PBI",
+      "flight_time": "2:01",
+      "passengers": "JE, GM, CLAIRE",
+      "crew": "NICK JONAS",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "11/17/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "BED",
+      "flight_time": "2:06",
+      "passengers": "JE, PAUL LUND, CLAIRE PARIS, JANET MARY, JUDY",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "11/17/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "BED",
+      "arrival": "TEB",
+      "flight_time": ":06",
+      "passengers": "GM, J PAX, RICKY JOHNSON, JUDY",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "11/21/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:02",
+      "passengers": "JE, JENNY MORRIS, CELESTE MCCAFFREY, PEG GULLION",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "11/26/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "LAU",
+      "flight_time": "1:03",
+      "passengers": "JE, MARY E. ANNE, MANDY CATHERINE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "11/28/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "LAU",
+      "arrival": "PBI",
+      "flight_time": "1:02",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "11/30/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "ABY",
+      "flight_time": "1:01",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "11/30/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "ABY",
+      "arrival": "LAU",
+      "flight_time": ":05",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "11/30/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "LAU",
+      "arrival": "PBI",
+      "flight_time": "1:03",
+      "passengers": "JE, GM, CAROL PAULA EPSTEIN, JOE",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "12/04/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:03",
+      "passengers": "JE, JOE PAGANO, 2 KIDS, PAUL G. EPSTEIN, SANDI, BOB, JEAN JONES RODG",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "12/04/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:03",
+      "passengers": "JE, NANCY JEFFREY JONES",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "12/09/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "ETK",
+      "flight_time": "2:01",
+      "passengers": "JE, GM, PEOPLE CHRISTINA",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "12/09/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "ETK",
+      "arrival": "TEB",
+      "flight_time": "1:06",
+      "passengers": "GM, JOE PAGANO, CHRISTINA RODRIGUEZ",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "12/13/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:02",
+      "passengers": "JE, JOE PAGANO, DAVID PECKER, J. LISA, PAM SWINN [unclear], MARK LLOYD",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "12/20/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:03",
+      "passengers": "JE, PEGGY WILLIAMS JACKSON",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "12/23/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:06",
+      "passengers": "WILLIAM HAMMOND, JEFFREY JORGENSEN",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "12/26/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "EWR",
+      "flight_time": "2:01",
+      "passengers": "DAVID NORWIN, DANIEL MITCHELL, CHARLES LIGHT, J. LISA",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "01/01/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "EWR",
+      "arrival": "TEB",
+      "flight_time": ":02",
+      "passengers": "KATHY MICHAEL DAVIDSON, 2 MALES, STEPHEN",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "01/09/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:03",
+      "passengers": "JE, PAM ANDREWS, MICHELLE JONES",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    }
+  ],
+  "entities": {
+    "people": [
+      {"name": "Jeffrey Epstein", "abbreviation": "JE", "role": "Primary passenger"},
+      {"name": "Ghislaine Maxwell", "abbreviation": "GM", "role": "Frequent passenger"},
+      {"name": "Claire", "role": "Passenger"},
+      {"name": "Nick Jonas", "role": "Crew member"},
+      {"name": "Paul Lund", "role": "Passenger"},
+      {"name": "Claire Paris", "role": "Passenger"},
+      {"name": "Janet Mary", "role": "Passenger"},
+      {"name": "Judy", "role": "Passenger (multiple flights)"},
+      {"name": "Ricky Johnson", "role": "Passenger"},
+      {"name": "Jenny Morris", "role": "Passenger"},
+      {"name": "Celeste McCaffrey", "role": "Passenger"},
+      {"name": "Peg Gullion", "role": "Passenger"},
+      {"name": "Mary E. Anne", "role": "Passenger"},
+      {"name": "Mandy Catherine", "role": "Passenger"},
+      {"name": "Carol Paula Epstein", "role": "Passenger (possibly related)"},
+      {"name": "Joe", "role": "Passenger"},
+      {"name": "Joe Pagano", "role": "Passenger (multiple flights)"},
+      {"name": "Paul G. Epstein", "role": "Passenger (possibly related)"},
+      {"name": "Sandi", "role": "Passenger"},
+      {"name": "Bob", "role": "Passenger"},
+      {"name": "Jean Jones Rodg", "role": "Passenger"},
+      {"name": "Nancy Jeffrey Jones", "role": "Passenger"},
+      {"name": "Christina", "role": "Passenger"},
+      {"name": "Christina Rodriguez", "role": "Passenger"},
+      {"name": "David Pecker", "role": "Passenger (media executive)"},
+      {"name": "J. Lisa", "role": "Passenger (multiple flights)"},
+      {"name": "Pam Swinn", "role": "Passenger"},
+      {"name": "Mark Lloyd", "role": "Passenger"},
+      {"name": "Peggy Williams Jackson", "role": "Passenger"},
+      {"name": "William Hammond", "role": "Passenger"},
+      {"name": "Jeffrey Jorgensen", "role": "Passenger"},
+      {"name": "David Norwin", "role": "Passenger"},
+      {"name": "Daniel Mitchell", "role": "Passenger"},
+      {"name": "Charles Light", "role": "Passenger"},
+      {"name": "Kathy Michael Davidson", "role": "Passenger"},
+      {"name": "Stephen", "role": "Passenger"},
+      {"name": "Pam Andrews", "role": "Passenger"},
+      {"name": "Michelle Jones", "role": "Passenger"},
+      {"name": "David Rodgers", "role": "Pilot"}
+    ],
+    "locations": [
+      {"code": "CMH", "name": "John Glenn Columbus International Airport", "location": "Columbus, OH"},
+      {"code": "PBI", "name": "Palm Beach International Airport", "location": "West Palm Beach, FL"},
+      {"code": "BED", "name": "Laurence G. Hanscom Field", "location": "Bedford, MA"},
+      {"code": "TEB", "name": "Teterboro Airport", "location": "Teterboro, NJ"},
+      {"code": "LAU", "name": "Unknown airport", "location": "Unknown"},
+      {"code": "ABY", "name": "Southwest Georgia Regional Airport", "location": "Albany, GA"},
+      {"code": "ETK", "name": "Unknown airport", "location": "Unknown"},
+      {"code": "EWR", "name": "Newark Liberty International Airport", "location": "Newark, NJ"}
+    ],
+    "aircraft": [
+      {"registration": "N908JE", "type": "Gulfstream G1159B", "category": "Private Jet"}
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {"location": "bottom_left", "description": "David Rodgers pilot signature", "legibility": "clear"}
+    ],
+    "stamps": [],
+    "markings": [
+      {"type": "page_number", "content": "45", "location": "bottom_center"},
+      {"type": "total_time", "content": "31:00", "location": "bottom_right"}
+    ]
+  },
+  "insights": [
+    "Page transitions from November 1996 through December 1996 to January 1997",
+    "Year transition from 1996 to 1997 occurs on this page",
+    "David Pecker (media executive) appears on December 13",
+    "Two possible Epstein family members (Carol Paula Epstein, Paul G. Epstein)",
+    "Joe Pagano appears on multiple flights",
+    "Multiple same-day flights on November 30",
+    "Complex passenger manifests with 6-7 people on December 4 and 13",
+    "Nick Jonas noted as crew (not the singer, different person)",
+    "Pattern of TEB-PBI corridor continues",
+    "New destinations ABY (Albany, GA) and ETK appear",
+    "Multiple unnamed passengers (2 KIDS, 2 MALES)",
+    "December shows increased activity with various business associates",
+    "J. Lisa appears on multiple flights"
+  ],
+  "corrections": {
+    "date_inference": "Page 45 covers November 15, 1996 through January 9, 1997",
+    "actual_dates_from_png": "Verified from PNG: November 15, 17 (twice), 21, 26, 28, 30 (three times), December 4 (twice), 9 (twice), 13, 20, 23, 26, January 1, 9 (1997)",
+    "continuity": "Continues from page 44 which should end in November 1996",
+    "correction_note": "Corrected to show November 1996 - January 1997 based on PNG verification, capturing year transition"
+  },
+  "pilot_signature": "David Rodgers",
+  "page_total": "31:00 hours"
+}

@@ -1,0 +1,676 @@
+{
+  "page_number": 75,
+  "section": "K-M Names",
+  "entries": [
+    {
+      "name": "Kravis, Henry",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Underwood International",
+          "company": "Underwood International",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "16 West Central Park West",
+          "street": "16 West Central Park West",
+          "confidence": "high"
+        },
+        {
+          "type": "tertiary",
+          "address": "24 Kirkland Street",
+          "street": "24 Kirkland Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212-790-0759",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917-853-9400",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212-750-9448",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "emergency",
+          "number": "917 804 8158 sec emergency",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 444 8119 F",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 444 8119 W",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 993 9901 (9)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 993 8988 (alt)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "emergency contact",
+          "number": "917 859 4499 emergency contact",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "KKR Partners",
+        "9 West 57th Street 42fl",
+        "New York, NY 10019"
+      ],
+      "notes": "Henry Kravis - KKR Partners, Central Park West",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Lang, Adam Perry",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1 Orley Road",
+          "street": "1 Orley Road",
+          "location": "NYC, NYC 10006",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "917 543 7399 (h)",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 543 7399 fax",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Adam Perry Lang - Orley Road NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Leach, Robin",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "150 E 69th Street Delegates",
+          "street": "150 E 69th Street",
+          "location": "Delegates",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "New York",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "702-307-1000",
+          "area_code": "702",
+          "geographic_indicator": "Las Vegas",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "516-365-5000 (O)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212-387-4361",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "leaching@aol.com or",
+          "confidence": "high"
+        },
+        {
+          "email": "leachprg@[illegible]",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Robin Leach - East 69th Street NYC and Las Vegas",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Second email partially illegible"]
+      }
+    },
+    {
+      "name": "Lassey, Nick",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "320 W Fullerton #4214",
+          "street": "320 W Fullerton #4214",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "166 Lassey Traverly Road",
+          "street": "166 Lassey Traverly Road",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "773 209 7854",
+          "area_code": "773",
+          "geographic_indicator": "Chicago",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "773 209 1782",
+          "area_code": "773",
+          "geographic_indicator": "Chicago",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "773 209 7857",
+          "area_code": "773",
+          "geographic_indicator": "Chicago",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "PO Box 20124-708 lot og",
+        "Chi 60620-20124",
+        "773 929 7856",
+        "773 543 7857 (h)",
+        "773 222 1775 (cl)",
+        "544-448-5417 (p)"
+      ],
+      "notes": "Nick Lassey - Fullerton Chicago",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Lopez (Bunkierowicz) Serge",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "10039 Broadsword",
+          "street": "10039 Broadsword",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Floor 18, New York",
+          "floor": "Floor 18",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 431 8374",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 544 9388",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Brooklyn Model?",
+        "A Model Law or 36424",
+        "957 East 91st Street",
+        "212 431 8378 landline"
+      ],
+      "notes": "Serge Lopez (Bunkierowicz) - Broadsword NYC, possible model",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "(Model) Moll #200",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "166 North [illegible] Marina 92103",
+          "street": "166 North [illegible] Marina",
+          "postal_code": "92103",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "202 994 8489 (winery)",
+          "area_code": "202",
+          "geographic_indicator": "Washington DC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "202 544 8700 (h)",
+          "area_code": "202",
+          "geographic_indicator": "Washington DC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "202 994 0001",
+          "area_code": "202",
+          "geographic_indicator": "Washington DC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "831 602 8700 (h) off",
+          "area_code": "831",
+          "geographic_indicator": "California Central Coast",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "831 602 0700 Villa La Penna",
+          "area_code": "831",
+          "geographic_indicator": "California Central Coast",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Model Moll #200 - Marina location",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Address partially illegible"]
+      }
+    },
+    {
+      "name": "Lindberg, Marc",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "5 A Riverside Deal",
+          "street": "5 A Riverside Deal",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "8229 West Riverside Deal",
+          "street": "8229 West Riverside Deal",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "917 914 122 8969",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "Laundry@laundryagency.com",
+          "confidence": "low"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Laundry@laundryagency.com",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Agency: L4 Associates",
+        "917 755 6060 Marc's res at co",
+        "greo"
+      ],
+      "notes": "Marc Lindberg - Riverside Deal",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Luntz, Melinda",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "343 E. 21st Street #1",
+          "street": "343 E. 21st Street #1",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "New York, NY",
+          "city": "New York",
+          "state": "NY",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 982 1647",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 854 0667 (h)",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "mluntz@aladyguru.com",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "33 Jane St. 10014",
+        "212 255 1765"
+      ],
+      "notes": "Melinda Luntz - East 21st Street NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Mael Industries - Milan",
+      "category": "Business",
+      "location": "Italy",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Milan",
+          "city": "Milan",
+          "country": "Italy",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "39 365 Autorappresone",
+          "area_code": "39",
+          "geographic_indicator": "Italy",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "1902- 203 1319",
+          "confidence": "medium"
+        }
+      ],
+      "additional_info": [
+        "06396 369 3134"
+      ],
+      "notes": "Mael Industries - Milan Italy",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "McMillen, C. Thomas",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "8231 Corporate Drive (W)",
+          "street": "8231 Corporate Drive (W)",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Landover, MD 20785",
+          "city": "Landover",
+          "state": "MD",
+          "postal_code": "20785",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "301 333 0410 O",
+          "area_code": "301",
+          "geographic_indicator": "Maryland",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "301 865 3418 (off)",
+          "area_code": "301",
+          "geographic_indicator": "Maryland",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "tmcmillen@aolguru[illegible]",
+          "confidence": "low"
+        }
+      ],
+      "additional_info": [
+        "10 Wisconsin Ave Suite 350",
+        "Chevy Chase MD 20850",
+        "202 333 0075",
+        "202 333 1275 (f)"
+      ],
+      "notes": "C. Thomas McMillen - Corporate Drive Landover MD",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Email domain partially illegible"]
+      }
+    },
+    {
+      "name": "McMillen, Thomas C.",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "McMillen Jones",
+          "company": "McMillen Jones",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "8231 Corporate Drive",
+          "street": "8231 Corporate Drive",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "240 566",
+          "area_code": "240",
+          "geographic_indicator": "Maryland",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "301 865 3418 Off",
+          "area_code": "301",
+          "geographic_indicator": "Maryland",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "301 865 2410",
+          "area_code": "301",
+          "geographic_indicator": "Maryland",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "tmcmillen@mcmillenjones.com",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Home: David A Realer Business",
+        "Res: Georgetown Wash Fax",
+        "916 515 0444",
+        "916 515 0121"
+      ],
+      "notes": "Thomas C. McMillen - McMillen Jones, Corporate Drive",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One phone number incomplete"]
+      }
+    },
+    {
+      "name": "Mael Industries",
+      "category": "Business",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "7165 Alief Ave",
+          "street": "7165 Alief Avenue",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Mael Indusr Business",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "Real/Estate/Smart Business HK",
+          "confidence": "low"
+        }
+      ],
+      "additional_info": [
+        "San Francisco 94113",
+        "699 311-4441 John Wade Fax"
+      ],
+      "notes": "Mael Industries - Alief Avenue",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone numbers unclear"]
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 12,
+    "illegible_entries": 0,
+    "partial_entries": 4,
+    "sections": ["K-M Names"],
+    "notable_entries": [
+      "Henry Kravis - KKR Partners, Central Park West",
+      "Robin Leach - Lifestyles of Rich & Famous host",
+      "C. Thomas McMillen - Former Congressman",
+      "Adam Perry Lang - Chef",
+      "Marc Lindberg - Laundry Agency"
+    ],
+    "geographic_distribution": {
+      "usa": 11,
+      "italy": 1,
+      "nyc": 6,
+      "maryland": 2,
+      "chicago": 1,
+      "las_vegas": 1
+    },
+    "location_highlights": [
+      "KKR Partners - 9 West 57th Street",
+      "Central Park West addresses",
+      "Corporate Drive Landover MD",
+      "Milan Italy business connection",
+      "Chicago Fullerton area"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 8,
+      "medium_confidence": 3,
+      "low_confidence": 1,
+      "specific_issues": [
+        "Some email domains illegible",
+        "Model entry address partially unclear",
+        "Some phone numbers incomplete"
+      ]
+    }
+  }
+}

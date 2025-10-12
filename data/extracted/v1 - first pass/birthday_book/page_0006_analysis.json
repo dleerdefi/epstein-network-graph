@@ -1,0 +1,105 @@
+{
+  "page_number": 6,
+  "file_path": "data/birthday_book_images/page_0006.png",
+  "file_size_mb": 0.5007009506225586,
+  "type": "birth_certificate_and_handwritten_notes",
+  "content": {
+    "text": "Certificate of Birth [Certificate Number visible but redacted]\n\n[Handwritten notes below - partially legible]\nJeffrey - Born circa 1950s, Brooklyn [various handwritten notes about dates, locations, and personal details - some text unclear due to handwriting]",
+    "handwritten": false,
+    "typed": true,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "Certificate of Birth [Certificate Number visible but redacted]\n\n[Handwritten notes below - partially legible]\nJeffrey - Born circa 1950s, Brooklyn [various handwritten notes about dates, locations, and personal details - some text unclear due to handwriting]",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          6
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      "Brooklyn"
+    ],
+    "dates": [
+      "1950s birth era"
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Birth certificate with handwritten genealogical notes",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "birth_certificate_and_handwritten_notes"
+  },
+  "insights": [
+    "Official birth certificate document included in birthday book",
+    "Accompanied by handwritten genealogical research notes",
+    "Certificate details largely obscured or redacted for privacy",
+    "Personal document inclusion suggests intimate nature of gift",
+    "Handwritten notes appear to trace family history or background research",
+    "Mixed format combining official documents with personal annotations"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000006",
+  "processed_at": "2025-09-23 03:30:00",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.124392",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": [
+      "Certificate details largely redacted/obscured",
+      "Personal identifying information on certificate blocked out"
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [],
+  "investigative_leads": []
+}

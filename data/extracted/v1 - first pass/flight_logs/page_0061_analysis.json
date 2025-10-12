@@ -1,0 +1,274 @@
+{
+  "page_number": 61,
+  "date_header": "NOV 1998",
+  "time_period": "November 1998 - February 1999",
+  "aircraft": {
+    "registration": "G1159B N908JE",
+    "type": "G1159B"
+  },
+  "flight_records": [
+    {
+      "entry_number": "26",
+      "date": "11/26/1998",
+      "departure": "PBI",
+      "arrival": "PBI",
+      "flight_time": "1184",
+      "remarks": "JE, GM",
+      "passengers": ["JE", "GM"],
+      "crew": "1/"
+    },
+    {
+      "entry_number": "28",
+      "date": "11/28/1998",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "1185",
+      "remarks": "JE, GM, ALEXIA DEMOPOULOS",
+      "passengers": ["JE", "GM", "ALEXIA DEMOPOULOS"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "DEC 3",
+      "date": "12/03/1998",
+      "departure": "TEB",
+      "arrival": "TEB",
+      "flight_time": "1186",
+      "remarks": "JG, ALEXIA",
+      "passengers": ["JG", "ALEXIA"],
+      "crew": "2/2"
+    },
+    {
+      "entry_number": "9",
+      "date": "12/09/1998",
+      "departure": "PBI",
+      "arrival": "TJSJ",
+      "flight_time": "1187",
+      "remarks": "JE, SOPHIE BIDDLE",
+      "passengers": ["JE", "SOPHIE BIDDLE"],
+      "crew": "2/3"
+    },
+    {
+      "entry_number": "9",
+      "date": "12/09/1998",
+      "departure": "TJSJ",
+      "arrival": "SAF",
+      "flight_time": "1188",
+      "remarks": "JE 2 CONGESTED",
+      "passengers": ["JE", "2 CONGESTED"],
+      "crew": "3/5"
+    },
+    {
+      "entry_number": "21",
+      "date": "12/21/1998",
+      "departure": "SAF",
+      "arrival": "PBI",
+      "flight_time": "1189",
+      "remarks": "SD 2 COMPLAINED",
+      "passengers": ["SD", "2 COMPLAINED"],
+      "crew": "9"
+    },
+    {
+      "entry_number": "24",
+      "date": "12/24/1998",
+      "departure": "PBI",
+      "arrival": "TJSJ",
+      "flight_time": "1190",
+      "remarks": "KENTON JEAN",
+      "passengers": ["KENTON JEAN"],
+      "crew": "2/1"
+    },
+    {
+      "entry_number": "JAN 1",
+      "date": "01/01/1999",
+      "departure": "TJSJ",
+      "arrival": "PBI",
+      "flight_time": "1191",
+      "remarks": "JE, GM",
+      "passengers": ["JE", "GM"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "4",
+      "date": "01/04/1999",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "1192",
+      "remarks": "JE, GM, ALEXIA DONOPOULOS",
+      "passengers": ["JE", "GM", "ALEXIA DONOPOULOS"],
+      "crew": "2/2"
+    },
+    {
+      "entry_number": "9",
+      "date": "01/09/1999",
+      "departure": "TEB",
+      "arrival": "OXC",
+      "flight_time": "1193",
+      "remarks": "JE, ALEXIS",
+      "passengers": ["JE", "ALEXIS"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "10",
+      "date": "01/10/1999",
+      "departure": "OXC",
+      "arrival": "SAF",
+      "flight_time": "1194",
+      "remarks": "JE, ALEXIS",
+      "passengers": ["JE", "ALEXIS"],
+      "crew": "3/0"
+    },
+    {
+      "entry_number": "12",
+      "date": "01/12/1999",
+      "departure": "SAF",
+      "arrival": "VNY",
+      "flight_time": "1195",
+      "remarks": "JE, ALEXIS",
+      "passengers": ["JE", "ALEXIS"],
+      "crew": "1/6"
+    },
+    {
+      "entry_number": "19",
+      "date": "01/19/1999",
+      "departure": "VNY",
+      "arrival": "PBI",
+      "flight_time": "1196",
+      "remarks": "JG, JOAN LEPE",
+      "passengers": ["JG", "JOAN LEPE"],
+      "crew": "4/2"
+    },
+    {
+      "entry_number": "19",
+      "date": "01/19/1999",
+      "departure": "PBI",
+      "arrival": "TJSJ",
+      "flight_time": "1197",
+      "remarks": "JG, GM, ET",
+      "passengers": ["JG", "GM", "ET"],
+      "crew": "2/1"
+    },
+    {
+      "entry_number": "24",
+      "date": "01/24/1999",
+      "departure": "TJSJ",
+      "arrival": "TEB",
+      "flight_time": "1198",
+      "remarks": "JE, LAURA, ELIZABETH HURLEY, WILLIAM CLINTON",
+      "passengers": ["JE", "LAURA", "ELIZABETH HURLEY", "WILLIAM CLINTON"],
+      "crew": "3/4"
+    },
+    {
+      "entry_number": "29",
+      "date": "01/29/1999",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "1199",
+      "remarks": "JE, GM, ET, ALEX, CINDY, CARRIE GOULD",
+      "passengers": ["JE", "GM", "ET", "ALEX", "CINDY", "CARRIE GOULD"],
+      "crew": "2/3"
+    },
+    {
+      "entry_number": "FEB 1-2",
+      "date": "02/01/1999",
+      "departure": "BGD",
+      "arrival": "PBI/P",
+      "flight_time": "",
+      "remarks": "",
+      "passengers": [],
+      "crew": ""
+    },
+    {
+      "entry_number": "FEB 8",
+      "date": "02/08/1999",
+      "departure": "G1159B N908JE",
+      "arrival": "PBI",
+      "flight_time": "1200",
+      "remarks": "JE, GM, GM, LH, EVE GOULD, JESSICA",
+      "passengers": ["JE", "GM", "GM", "LH", "EVE GOULD", "JESSICA"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "2-20-99",
+      "date": "02/20/1999",
+      "departure": "841/91",
+      "arrival": "PMP",
+      "flight_time": "",
+      "remarks": "JA, G",
+      "passengers": ["JA", "G"],
+      "crew": ""
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "GM",
+      "ET",
+      "JG",
+      "SD",
+      "JA",
+      "G",
+      "LH",
+      "ALEXIA DEMOPOULOS",
+      "ALEXIA DONOPOULOS",
+      "ALEXIA",
+      "ALEXIS",
+      "SOPHIE BIDDLE",
+      "KENTON JEAN",
+      "JOAN LEPE",
+      "LAURA",
+      "ELIZABETH HURLEY",
+      "WILLIAM CLINTON",
+      "ALEX",
+      "CINDY",
+      "CARRIE GOULD",
+      "EVE GOULD",
+      "JESSICA",
+      "David Rodgers"
+    ],
+    "locations": [
+      "PBI",
+      "TEB",
+      "TJSJ",
+      "SAF",
+      "OXC",
+      "VNY",
+      "BGD",
+      "PMP"
+    ],
+    "aircraft": [
+      "G1159B",
+      "N908JE",
+      "841/91"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "61",
+    "amount_forward": "13826",
+    "total_to_date": "14210",
+    "document_quality": "good",
+    "legibility": "mostly clear with some unclear entries"
+  },
+  "insights": [
+    "Page transitions from November 1998 through December 1998 to January 1999 to February 1999",
+    "Elizabeth Hurley appears as passenger on January 24, 1999",
+    "William Clinton appears as passenger on January 24, 1999",
+    "Sophie Biddle continues as recurring passenger",
+    "Multiple passengers named Alexia/Alexis with variations in spelling",
+    "Gould family members (Carrie Gould, Eve Gould) appear",
+    "San Juan, Puerto Rico (TJSJ) continues as key destination",
+    "Van Nuys (VNY) California operations",
+    "Flight numbers reach 1200",
+    "Year transition from 1998 to 1999 documented"
+  ]
+}

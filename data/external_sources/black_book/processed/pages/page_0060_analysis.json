@@ -1,0 +1,1172 @@
+{
+  "page_number": 60,
+  "alphabetical_section": "Mixed",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "060_rueda_joseph_&_florina",
+      "name": {
+        "full_name": "Joseph",
+        "prefix": null,
+        "first_name": "Joseph & Florina",
+        "middle_name": null,
+        "last_name": "Rueda",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Florina Rueda"
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "917 690 8794 (Jp)",
+          "formatting": "917 690 8794 (Jp) (NYC mobile)"
+        },
+        {
+          "type": "portable",
+          "number": "917 499 7936 (Fp)",
+          "formatting": "917 499 7936 (Fp) (NYC mobile)"
+        },
+        {
+          "type": "unknown",
+          "number": "301 793 1695 (Fp)",
+          "formatting": "301 793 1695 (Fp)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "060_kellen_sarah",
+      "name": {
+        "full_name": "Kellen, Sarah",
+        "prefix": null,
+        "first_name": "Sarah",
+        "middle_name": null,
+        "last_name": "Kellen",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "212 517 7580",
+          "formatting": "212 517 7580"
+        },
+        {
+          "type": "portable",
+          "number": "917 855 3363",
+          "formatting": "917 855 3363 (NYC mobile)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "sarahlynnelle@hotmail.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "301 East 66th Street, Apt 10N"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "060_kelly_brian",
+      "name": {
+        "full_name": "Kelly, Brian",
+        "prefix": null,
+        "first_name": "Brian",
+        "middle_name": null,
+        "last_name": "Kelly",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "845 526 3716 (h, f)",
+          "formatting": "845 526 3716 (h, f)"
+        },
+        {
+          "type": "portable",
+          "number": "914 804 6719",
+          "formatting": "914 804 6719"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "67 Kayuga Rd."
+          ],
+          "city": "Putnam Valley",
+          "state": null,
+          "postal_code": "NY 10579",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "060_maxwell_ghislaine",
+      "name": {
+        "full_name": "Maxwell, Ghislaine",
+        "prefix": null,
+        "first_name": "Ghislaine",
+        "middle_name": null,
+        "last_name": "Maxwell",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 737 0335 (voicemail, password 5356831)",
+          "formatting": "212 737 0335 (voicemail, password 5356831)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 879 8204 (wf)",
+          "formatting": "212 879 8204 (wf)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 879 8013 (Guest Modem)",
+          "formatting": "212 879 8013 (Guest Modem)"
+        },
+        {
+          "type": "unknown",
+          "number": "371432863 (Resale Number)",
+          "formatting": "371432863 (Resale Number)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 202 4941 (New E-fax)",
+          "formatting": "212 202 4941 (New E-fax)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 879 9459 (hf)",
+          "formatting": "212 879 9459 (hf)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 535 6831 (Guest)",
+          "formatting": "212 535 6831 (Guest)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 472 6991 (Staff)",
+          "formatting": "212 472 6991 (Staff)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 249 8510 (71st St)",
+          "formatting": "212 249 8510 (71st St)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 717 4672 (71st St) (f)",
+          "formatting": "212 717 4672 (71st St) (f)"
+        },
+        {
+          "type": "unknown",
+          "number": "1 877 358 9350 (Flight Options)",
+          "formatting": "1 877 358 9350 (Flight Options)"
+        },
+        {
+          "type": "work",
+          "number": "212 535 3030 (Line 1)",
+          "formatting": "212 535 3030 (Line 1)"
+        },
+        {
+          "type": "work",
+          "number": "212 535 6833 (Line 2)",
+          "formatting": "212 535 6833 (Line 2)"
+        },
+        {
+          "type": "work",
+          "number": "212 535 4384 (Line 3)",
+          "formatting": "212 535 4384 (Line 3)"
+        },
+        {
+          "type": "work",
+          "number": "212 535 5611 (Line 4)",
+          "formatting": "212 535 5611 (Line 4)"
+        },
+        {
+          "type": "work",
+          "number": "212 535 6837 (Spare office)",
+          "formatting": "212 535 6837 (Spare office)"
+        },
+        {
+          "type": "portable",
+          "number": "1 800 335 4685 (AT&T World Connect chip SIM)",
+          "formatting": "1 800 335 4685 (AT&T World Connect chip SIM)"
+        },
+        {
+          "type": "portable",
+          "number": "917 690 8794 (Joseph)",
+          "formatting": "917 690 8794 (Joseph) (NYC mobile)"
+        },
+        {
+          "type": "portable",
+          "number": "917 499 7936 (Florina)",
+          "formatting": "917 499 7936 (Florina) (NYC mobile)"
+        },
+        {
+          "type": "portable",
+          "number": "917 520 3106 (try first)",
+          "formatting": "917 520 3106 (try first) (NYC mobile)"
+        },
+        {
+          "type": "portable",
+          "number": "917 497 4880",
+          "formatting": "917 497 4880 (NYC mobile)"
+        },
+        {
+          "type": "portable",
+          "number": "01144 7785 771552 (GSM#)",
+          "formatting": "01144 7785 771552 (GSM#) (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "gmax1@mindspring.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "116 East 65th St."
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": " [NOTABLE: Ghislaine Maxwell]"
+    },
+    {
+      "entry_id": "060_scott_unknown",
+      "name": {
+        "full_name": "Maxwell, Ghislaine",
+        "prefix": null,
+        "first_name": "",
+        "middle_name": null,
+        "last_name": "Scott",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "866 782 3274 (w/ Howie)",
+          "formatting": "866 782 3274 (w/ Howie)"
+        },
+        {
+          "type": "home",
+          "number": "201 493 7647",
+          "formatting": "201 493 7647"
+        },
+        {
+          "type": "portable",
+          "number": "917 842 5755",
+          "formatting": "917 842 5755 (NYC mobile)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "116 East 65th St."
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": " [NOTABLE: Ghislaine Maxwell]"
+    },
+    {
+      "entry_id": "060_gm_unknown",
+      "name": {
+        "full_name": "Maxwell, Ghislaine",
+        "prefix": null,
+        "first_name": "",
+        "middle_name": null,
+        "last_name": "GM",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 879 9366 (Line 1)",
+          "formatting": "212 879 9366 (Line 1)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 879 2058 (Line 2)",
+          "formatting": "212 879 2058 (Line 2)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "116 East 65th St."
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": " [NOTABLE: Ghislaine Maxwell]"
+    },
+    {
+      "entry_id": "060_je_unknown",
+      "name": {
+        "full_name": "Maxwell, Ghislaine",
+        "prefix": null,
+        "first_name": "",
+        "middle_name": null,
+        "last_name": "JE",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 535 7871 (Line 2)",
+          "formatting": "212 535 7871 (Line 2)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 535 5612 (Line 1)",
+          "formatting": "212 535 5612 (Line 1)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 879 2870 (JE Line 3)",
+          "formatting": "212 879 2870 (JE Line 3)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "116 East 65th St."
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": " [NOTABLE: Ghislaine Maxwell]"
+    },
+    {
+      "entry_id": "060_tahoe_unknown",
+      "name": {
+        "full_name": "Maxwell, Ghislaine",
+        "prefix": null,
+        "first_name": "",
+        "middle_name": null,
+        "last_name": "Tahoe",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "917 494 9690 (Line 1) (621)",
+          "formatting": "917 494 9690 (Line 1) (621) (NYC mobile)"
+        },
+        {
+          "type": "portable",
+          "number": "917 855 6931 (Line 2)",
+          "formatting": "917 855 6931 (Line 2) (NYC mobile)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 744 5511 (Garage)",
+          "formatting": "212 744 5511 (Garage)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "116 East 65th St."
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": " [NOTABLE: Ghislaine Maxwell]"
+    },
+    {
+      "entry_id": "060_pb_unknown",
+      "name": {
+        "full_name": "Maxwell, Ghislaine",
+        "prefix": null,
+        "first_name": "",
+        "middle_name": null,
+        "last_name": "PB",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "561 346 7141 (Merc.)",
+          "formatting": "561 346 7141 (Merc.)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "116 East 65th St."
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": " [NOTABLE: Ghislaine Maxwell]"
+    },
+    {
+      "entry_id": "060_unknown_unknown",
+      "name": {
+        "full_name": "Maxwell, Ghislaine",
+        "prefix": null,
+        "first_name": "Maxwell,",
+        "middle_name": null,
+        "last_name": "Ghislaine",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "1 888 387 4383",
+          "formatting": "1 888 387 4383"
+        },
+        {
+          "type": "unknown",
+          "number": "959084 (Mailbox #)",
+          "formatting": "959084 (Mailbox #)"
+        },
+        {
+          "type": "unknown",
+          "number": "9366 (security code)",
+          "formatting": "9366 (security code)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "116 East 65th St."
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Etrieve [NOTABLE: Ghislaine Maxwell]"
+    },
+    {
+      "entry_id": "060_unknown_unknown",
+      "name": {
+        "full_name": "Maxwell, Ghislaine",
+        "prefix": null,
+        "first_name": "Maxwell,",
+        "middle_name": null,
+        "last_name": "Ghislaine",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 535 8817",
+          "formatting": "212 535 8817"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "116 East 65th St."
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Rich\u2019s Security [NOTABLE: Ghislaine Maxwell]"
+    },
+    {
+      "entry_id": "060_andrea_mitrovich",
+      "name": {
+        "full_name": "Mitrovich, Andrea",
+        "prefix": null,
+        "first_name": "Mitrovich",
+        "middle_name": null,
+        "last_name": "Andrea",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "917 957 5341",
+          "formatting": "917 957 5341 (NYC mobile)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "andrea_mitrovich@yahoo.co",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "153 West 75th St. #4B"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10023",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Ballerina"
+    },
+    {
+      "entry_id": "060_goldberg_robert",
+      "name": {
+        "full_name": "Robert Goldberg (Police, Serg)",
+        "prefix": null,
+        "first_name": "Robert",
+        "middle_name": null,
+        "last_name": "Goldberg",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Police, Serg"
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "917 363 3679",
+          "formatting": "917 363 3679 (NYC mobile)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 452 0600",
+          "formatting": "212 452 0600"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "19th Precinct"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Police Serg"
+    },
+    {
+      "entry_id": "060_rueda_joseph_&_florena",
+      "name": {
+        "full_name": "Rueda, Joseph",
+        "prefix": null,
+        "first_name": "Joseph & Florena",
+        "middle_name": null,
+        "last_name": "Rueda",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Florena"
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "917 690 8794 (Joseph)",
+          "formatting": "917 690 8794 (Joseph) (NYC mobile)"
+        },
+        {
+          "type": "portable",
+          "number": "917 499 7936 (Florina)",
+          "formatting": "917 499 7936 (Florina) (NYC mobile)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "116 East 65th Street"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "060_tahoe_kinney",
+      "name": {
+        "full_name": "Tahoe, Kinney Garage",
+        "prefix": null,
+        "first_name": "Kinney",
+        "middle_name": null,
+        "last_name": "Tahoe",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 744 5511 (George)",
+          "formatting": "212 744 5511 (George)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "301 East 66th"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Garage"
+    },
+    {
+      "entry_id": "060_unknown_unknown",
+      "name": {
+        "full_name": "America \u2013 Antiques \u2013 Resale Number",
+        "prefix": null,
+        "first_name": "America",
+        "middle_name": "\u2013 Antiques \u2013 Resale",
+        "last_name": "Number",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "13-3647756",
+          "formatting": "13-3647756"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Antiques \u2013 Resale Number"
+    },
+    {
+      "entry_id": "060_unknown_unknown",
+      "name": {
+        "full_name": "America \u2013 Arizona",
+        "prefix": null,
+        "first_name": "America",
+        "middle_name": "\u2013",
+        "last_name": "Arizona",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 838 0440",
+          "formatting": "001 212 838 0440 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "206 East 60th Street"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Arizona"
+    },
+    {
+      "entry_id": "060_unknown_unknown",
+      "name": {
+        "full_name": "America \u2013 Aspen Club",
+        "prefix": null,
+        "first_name": "America",
+        "middle_name": "\u2013 Aspen",
+        "last_name": "Club",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "303-925-8900",
+          "formatting": "303-925-8900"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Aspen Club"
+    },
+    {
+      "entry_id": "060_unknown_unknown",
+      "name": {
+        "full_name": "America \u2013 Au Bar",
+        "prefix": null,
+        "first_name": "America",
+        "middle_name": "\u2013 Au",
+        "last_name": "Bar",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "58th Street, Between Madison & Park"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Au Bar"
+    },
+    {
+      "entry_id": "060_unknown_unknown",
+      "name": {
+        "full_name": "America \u2013 Avis International",
+        "prefix": null,
+        "first_name": "America",
+        "middle_name": "\u2013 Avis",
+        "last_name": "International",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "800-331-2112",
+          "formatting": "800-331-2112"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Avis International"
+    },
+    {
+      "entry_id": "060_bowling_frank",
+      "name": {
+        "full_name": "America \u2013 Bowling Frank",
+        "prefix": null,
+        "first_name": "Frank",
+        "middle_name": null,
+        "last_name": "Bowling",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "310-472-1211",
+          "formatting": "310-472-1211"
+        },
+        {
+          "type": "unknown",
+          "number": "310-476-5890",
+          "formatting": "310-476-5890"
+        },
+        {
+          "type": "unknown",
+          "number": "310 472 1211 (Reservations Manager Marc)",
+          "formatting": "310 472 1211 (Reservations Manager Marc)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "701 Stone Canyon Road"
+          ],
+          "city": "Los Angeles",
+          "state": null,
+          "postal_code": "CA 90077",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Bel Air Hotel, General Manager"
+    },
+    {
+      "entry_id": "060_unknown_unknown",
+      "name": {
+        "full_name": "America \u2013 Beverly Hills Hotel",
+        "prefix": null,
+        "first_name": "America",
+        "middle_name": "\u2013 Beverly Hills",
+        "last_name": "Hotel",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "310-276-2251",
+          "formatting": "310-276-2251"
+        },
+        {
+          "type": "unknown",
+          "number": "310-271-0319",
+          "formatting": "310-271-0319"
+        },
+        {
+          "type": "unknown",
+          "number": "310 887 2887 (fax)",
+          "formatting": "310 887 2887 (fax)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "9641 Sunset Blvd"
+          ],
+          "city": "Beverly Hills",
+          "state": null,
+          "postal_code": "CA 90210",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Beverly Hills Hotel"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 22,
+    "entries_with_emails": 3,
+    "entries_with_addresses": 18,
+    "entries_with_handwritten_notes": 0,
+    "couples": 2,
+    "average_confidence": "high",
+    "notable_figures_count": 8
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Joseph",
+      "Florina Rueda",
+      "Kellen, Sarah",
+      "Kelly, Brian",
+      "Maxwell, Ghislaine",
+      "Maxwell, Ghislaine",
+      "Maxwell, Ghislaine",
+      "Maxwell, Ghislaine",
+      "Maxwell, Ghislaine",
+      "Maxwell, Ghislaine",
+      "Maxwell, Ghislaine",
+      "Maxwell, Ghislaine",
+      "Mitrovich, Andrea",
+      "Robert Goldberg (Police, Serg)",
+      "Rueda, Joseph",
+      "Florena",
+      "Tahoe, Kinney Garage",
+      "America \u2013 Antiques \u2013 Resale Number",
+      "America \u2013 Arizona",
+      "America \u2013 Aspen Club",
+      "America \u2013 Au Bar",
+      "America \u2013 Avis International",
+      "America \u2013 Bowling Frank",
+      "America \u2013 Beverly Hills Hotel"
+    ],
+    "organizations": [],
+    "locations": {
+      "international": [],
+      "us_cities": [
+        "Los Angeles",
+        "New York",
+        "Putnam Valley",
+        "Beverly Hills"
+      ],
+      "elite_addresses": []
+    }
+  },
+  "insights": [
+    "Geographic cluster: New York (11 entries)",
+    "Contains extensive phone directory and business listings",
+    "Contains 8 notable figure(s)"
+  ]
+}

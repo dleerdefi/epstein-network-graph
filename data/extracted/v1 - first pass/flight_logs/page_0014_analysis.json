@@ -1,0 +1,373 @@
+{
+  "page_number": 14,
+  "file_path": "data/flight_logs_images/page-014.png",
+  "type": "aircraft_flight_log",
+  "content": {
+    "text": "DATE 1992 OCT | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARKS | POINTS OF DEPARTURE & ARRIVAL | FROM | TO | MILEAGE | FLT TIME | REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS | AIRCRAFT CATEGORY\n\n1 '' '' LFPG CRCR 4.5 216 JEFFREY & GHISLAINE\n4 '' '' SDQ PGD 3.0 217 GHISLAINE, JE EPSY, MS MAXWELL\n4 N908JE N908JE JLC JLC '' 218 JLC, JEFF WAKE, VIRGINIA, ESTENSE ATTENDS\n10 '' '' JLC PLC 5.5 219 JEFFREY GHISLAINE 4 UNNAMED\n19 '' '' PLC PLC 1.0 220 JEFFREY\n8 [SEP] '' '' LFPG LFPG 0.5 221 JEFFREY & GHISLAINE LIVETECK\n11 '' '' MSI TLC 1.0 222 JEFFREY & GHISLAINE\n12 '' '' LFPG LFPG 0.0 223 JEFFREY, GHISLAINE\n13 '' '' ADO TCD 1.5 224 JEFFREY GHISLAINE\n15 '' '' SDQ MSI 2.0 225 JEFFREY GHISLAINE VIRGINIA\n26 '' '' PBI TED 3.5 226 JEFFREY & FRENCH ELOPE\n27 '' '' TED LFPG 1.5 227 JEFFREY & GHISLAINE\n27 '' '' DOD OAPG 2.5 228 MS. VIRGINIA & WEXNER\n8 '' '' DOD TED 2.5 229 VIRGINIA & FLIGHT ELOPE\n7 '' '' CRA CAMG 5.5 230 JEFFREY & GHISLAINE\n9 '' '' PAC TED 1.0 231 JEFFREY & GHISLAINE PA LIHO\n9 '' '' PAC LFPG 1.5 232 JEFFREY & GHISLAINE PA LIHO\n\nPAGE TOTAL\nAMT. FORWARD: 33 + 42.5 + 41.5 = 117\nTOTAL TO DATE: 3544 + 473 + 41.5 = 4058\n\nI certify that the statements made by me on this form are true.\n\nPILOT'S SIGNATURE: David Rodgers",
+    "handwritten": true,
+    "typed": false,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "Complete cell-by-cell transcription provided above",
+      "flight_records": [
+        {
+          "date": "9/25/92",
+          "departure": "LFPG",
+          "arrival": "CRCR",
+          "aircraft": "N908JE",
+          "flight_time": "4.5 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY & GHISLAINE"
+        },
+        {
+          "date": "9/26/92",
+          "departure": "SDQ",
+          "arrival": "PGD",
+          "aircraft": "N908JE",
+          "flight_time": "3.0 hrs",
+          "passengers": ["Ghislaine", "JE Epsy", "Ms Maxwell"],
+          "pilot": "David Rodgers",
+          "notes": "GHISLAINE, JE EPSY, MS MAXWELL"
+        },
+        {
+          "date": "9/11/92",
+          "departure": "JLC",
+          "arrival": "JLC",
+          "aircraft": "N908JE",
+          "flight_time": "0 hrs",
+          "passengers": ["JLC", "Jeff Wake", "Virginia", "Estense Attends"],
+          "pilot": "David Rodgers",
+          "notes": "JLC, JEFF WAKE, VIRGINIA, ESTENSE ATTENDS"
+        },
+        {
+          "date": "9/10/92",
+          "departure": "JLC",
+          "arrival": "PLC",
+          "aircraft": "N908JE",
+          "flight_time": "5.5 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "4 Unnamed"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE 4 UNNAMED"
+        },
+        {
+          "date": "9/11/92",
+          "departure": "PLC",
+          "arrival": "PLC",
+          "aircraft": "N908JE",
+          "flight_time": "1.0 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "10/3/92",
+          "departure": "LFPG",
+          "arrival": "LFPG",
+          "aircraft": "N908JE",
+          "flight_time": "0.5 hrs",
+          "passengers": ["Jeffrey", "Ghislaine Liveteck"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY & GHISLAINE LIVETECK"
+        },
+        {
+          "date": "10/14/92",
+          "departure": "MSI",
+          "arrival": "TLC",
+          "aircraft": "N908JE",
+          "flight_time": "1.0 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY & GHISLAINE"
+        },
+        {
+          "date": "10/5/92",
+          "departure": "LFPG",
+          "arrival": "LFPG",
+          "aircraft": "N908JE",
+          "flight_time": "0.0 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE"
+        },
+        {
+          "date": "10/3/92",
+          "departure": "ADO",
+          "arrival": "TCD",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE"
+        },
+        {
+          "date": "10/12/92",
+          "departure": "SDQ",
+          "arrival": "MSI",
+          "aircraft": "N908JE",
+          "flight_time": "2.0 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Virginia"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE VIRGINIA"
+        },
+        {
+          "date": "10/26/92",
+          "departure": "PBI",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "3.5 hrs",
+          "passengers": ["Jeffrey", "French Elope"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY & FRENCH ELOPE"
+        },
+        {
+          "date": "10/28/92",
+          "departure": "TED",
+          "arrival": "LFPG",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY & GHISLAINE"
+        },
+        {
+          "date": "10/29/92",
+          "departure": "DOD",
+          "arrival": "OAPG",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Ms. Virginia", "Wexner"],
+          "pilot": "David Rodgers",
+          "notes": "MS. VIRGINIA & WEXNER"
+        },
+        {
+          "date": "10/30/92",
+          "departure": "DOD",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Virginia", "Flight Elope"],
+          "pilot": "David Rodgers",
+          "notes": "VIRGINIA & FLIGHT ELOPE"
+        },
+        {
+          "date": "10/31/92",
+          "departure": "CRA",
+          "arrival": "CAMG",
+          "aircraft": "N908JE",
+          "flight_time": "5.5 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY & GHISLAINE"
+        },
+        {
+          "date": "11/5/92",
+          "departure": "PAC",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "1.0 hrs",
+          "passengers": ["Jeffrey", "Ghislaine PA Liho"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY & GHISLAINE PA LIHO"
+        },
+        {
+          "date": "11/8/92",
+          "departure": "PAC",
+          "arrival": "LFPG",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Ghislaine PA Liho"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY & GHISLAINE PA LIHO"
+        }
+      ],
+      "date_header": "DATE 1992 OCT",
+      "date_range": "September-November 1992",
+      "starting_month": "September",
+      "starting_year": "1992",
+      "note": "Entries span September through November 1992, with some out-of-sequence dates"
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Jeffrey",
+          "context": "Frequent passenger",
+          "occurrences": 12
+        },
+        {
+          "name": "Ghislaine",
+          "context": "Frequent passenger",
+          "occurrences": 11
+        },
+        {
+          "name": "David Rodgers",
+          "context": "Pilot signature",
+          "occurrences": 1
+        },
+        {
+          "name": "JE Epsy",
+          "context": "Passenger",
+          "occurrences": 1
+        },
+        {
+          "name": "Ms Maxwell",
+          "context": "Passenger",
+          "occurrences": 1
+        },
+        {
+          "name": "JLC",
+          "context": "Passenger",
+          "occurrences": 1
+        },
+        {
+          "name": "Jeff Wake",
+          "context": "Passenger",
+          "occurrences": 1
+        },
+        {
+          "name": "Virginia",
+          "context": "Passenger",
+          "occurrences": 3
+        },
+        {
+          "name": "Estense Attends",
+          "context": "Passenger",
+          "occurrences": 1
+        },
+        {
+          "name": "Ghislaine Liveteck",
+          "context": "Passenger variation",
+          "occurrences": 1
+        },
+        {
+          "name": "French Elope",
+          "context": "Passenger",
+          "occurrences": 1
+        },
+        {
+          "name": "Ms. Virginia",
+          "context": "Passenger",
+          "occurrences": 1
+        },
+        {
+          "name": "Wexner",
+          "context": "Passenger",
+          "occurrences": 1
+        },
+        {
+          "name": "Flight Elope",
+          "context": "Passenger",
+          "occurrences": 1
+        },
+        {
+          "name": "PA Liho",
+          "context": "Passenger notation",
+          "occurrences": 2
+        }
+      ],
+      "locations": [
+        {
+          "code": "LFPG",
+          "context": "Airport code - Paris Charles de Gaulle, frequent location"
+        },
+        {
+          "code": "CRCR",
+          "context": "Airport code"
+        },
+        {
+          "code": "SDQ",
+          "context": "Airport code - Santo Domingo"
+        },
+        {
+          "code": "PGD",
+          "context": "Airport code"
+        },
+        {
+          "code": "JLC",
+          "context": "Airport code"
+        },
+        {
+          "code": "PLC",
+          "context": "Airport code"
+        },
+        {
+          "code": "MSI",
+          "context": "Airport code"
+        },
+        {
+          "code": "TLC",
+          "context": "Airport code"
+        },
+        {
+          "code": "ADO",
+          "context": "Airport code"
+        },
+        {
+          "code": "TCD",
+          "context": "Airport code"
+        },
+        {
+          "code": "PBI",
+          "context": "Airport code - Palm Beach International"
+        },
+        {
+          "code": "TED",
+          "context": "Airport code - frequent location"
+        },
+        {
+          "code": "DOD",
+          "context": "Airport code"
+        },
+        {
+          "code": "OAPG",
+          "context": "Airport code"
+        },
+        {
+          "code": "CRA",
+          "context": "Airport code"
+        },
+        {
+          "code": "CAMG",
+          "context": "Airport code"
+        },
+        {
+          "code": "PAC",
+          "context": "Airport code"
+        }
+      ],
+      "aircraft": [
+        {
+          "registration": "N908JE",
+          "context": "Primary aircraft used for all flights"
+        }
+      ]
+    },
+    "visual_elements": {
+      "signatures": [
+        {
+          "signature": "David Rodgers",
+          "context": "Pilot's signature at bottom of page",
+          "deciphered": true
+        }
+      ],
+      "stamps": [],
+      "handwriting_analysis": "Consistent handwriting throughout, appears to be same person filling out all entries",
+      "page_totals": {
+        "mileage": "33 + 42.5 + 41.5 = 117",
+        "total_to_date": "3544 + 473 + 41.5 = 4058"
+      }
+    },
+    "insights": [
+      "Page header shows SEPT 1992, flights span September through November with some out-of-sequence dates",
+      "Several flights to/from Paris (LFPG) indicating European travel patterns",
+      "First mention of 'Wexner' as passenger, likely Leslie Wexner",
+      "Virginia Roberts appears multiple times as passenger",
+      "Some unusual passenger names that may be nicknames or codes",
+      "Multiple zero-time flights suggesting ground operations or taxi flights",
+      "Jeffrey and Ghislaine frequently travel together",
+      "Mix of Caribbean (SDQ) and European (LFPG) destinations across September-November 1992",
+      "Some entries show 4 unnamed passengers indicating group travel",
+      "Page shows systematic record keeping with cumulative totals"
+    ]
+  }
+}

@@ -1,0 +1,644 @@
+{
+  "page_number": 55,
+  "section": "T-V",
+  "entries": [
+    {
+      "name": "Trump, Robert & Blaine",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "200 E 52nd Street",
+          "street": "200 E 52nd Street",
+          "city": "New York",
+          "postal_code": "10013",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "834 5th Ave 10 FL",
+          "street": "834 5th Ave 10 FL",
+          "city": "New York",
+          "confidence": "high"
+        },
+        {
+          "type": "phone_note",
+          "address": "NYC 10021",
+          "postal_code": "10021",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Fax: 305 355 3403",
+          "area_code": "305",
+          "geographic_indicator": "Miami, Florida",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 697 7282",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Robert & Blaine Trump - Multiple NYC addresses",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Tucker, Chris",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "125 Red Street",
+          "street": "125 Red Street",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "310 858 1091 (H)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 858 [illegible] Blythe/Home",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "310 859 3800Laurie Rybin (his ast.)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        },
+        {
+          "type": "portable",
+          "number": "310 600 5992 (Ryans Portable)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Chris Tucker - Beverly Hills",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One phone partially illegible"]
+      }
+    },
+    {
+      "name": "Turlington, Christy",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "378 W Broadway (4)",
+          "street": "378 W Broadway (4)",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 343 0656(H)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 343 0057(F)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Christy Turlington - West Broadway",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Turnbull, Governor Charles",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "907 Florida Road",
+          "street": "907 Florida Road",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "340 776 4114",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Governor Charles Turnbull - US Virgin Islands",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Turner, Jenny",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "7A Montrose Street",
+          "street": "7A Montrose Street",
+          "city": "London",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 248 7447 (H)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Jenny Turner - Montrose Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Turner, Miles Creswell",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "72 Chester Street",
+          "street": "72 Chester Street",
+          "city": "London SW1X",
+          "postal_code": "SW1X",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 235 0712 (H)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "fax",
+          "number": "00 34 1 319 2768 fax (Madrid)",
+          "area_code": "34",
+          "geographic_indicator": "Madrid, Spain",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Miles Creswell Turner - Chester Street SW1X, Madrid connection",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Tyssen, [Chessy] Francesca",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 202 338 6605",
+          "area_code": "202",
+          "geographic_indicator": "Washington DC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Chessy/Francesca Tyssen - Washington DC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Urbiola Jorge",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 52 5 211 4000 (H)",
+          "area_code": "52",
+          "geographic_indicator": "Mexico City",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 52 5 211990",
+          "area_code": "52",
+          "geographic_indicator": "Mexico City",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Email: urbiola@proselecmx.org",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Jorge Urbiola - Mexico City",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Vahabzadeh, Iraj and Linda",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 222 1000 (H)",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 [illegible]",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "100 227 4328",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Iraj and Linda Vahabzadeh",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Multiple phone numbers unclear or illegible"]
+      }
+    },
+    {
+      "name": "Van Hauen Sophie",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "50 Eton Av SW3",
+          "street": "50 Eton Av",
+          "city": "London",
+          "postal_code": "SW3",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "02 7186 511-[illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 794 155 (Day)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Sophie Van Hauen - Eton Avenue SW3",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["One phone number partially illegible"]
+      }
+    },
+    {
+      "name": "Van, William",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "416 Gulfstream Rd.",
+          "street": "416 Gulfstream Rd.",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Island Charter",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "305 632 9313",
+          "area_code": "305",
+          "geographic_indicator": "Miami, Florida",
+          "confidence": "high"
+        }
+      ],
+      "notes": "William Van - Gulfstream Rd, Island Charter",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone entry unclear"]
+      }
+    },
+    {
+      "name": "Varsavsky Martin",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Email: mvarsavsky@[illegible]",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Martin Varsavsky",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Email domain illegible"]
+      }
+    },
+    {
+      "name": "Velasquez Patricia",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "601 West 26th Street",
+          "street": "601 West 26th Street",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "emails": [
+        {
+          "email": "Email: lulufly@aol.com",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Patricia Velasquez - West 26th Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Verdin, Julia",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "181 N. Tower Road",
+          "street": "181 N. Tower Road",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 213 874 2130 (H)",
+          "area_code": "213",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "office",
+          "number": "001 310 274 1733(O)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 393 946 2600(O)",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Julia Verdin - Tower Road",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Verdin-Mulot, Annie & Jean",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "3 rue Bellanger",
+          "street": "3 rue Bellanger",
+          "city": "Neuilly",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Home office Chamonix St. Gauran",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "Email: [illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "00 33 1 4641 1532 (h)",
+          "area_code": "33",
+          "geographic_indicator": "Paris, France",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 33 1 4501 8899 (JM)",
+          "area_code": "33",
+          "geographic_indicator": "Paris, France",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Annie & Jean Verdin-Mulot - Neuilly France",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Email illegible", "Some contact details unclear"]
+      }
+    },
+    {
+      "name": "Vereina, Jane",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "002 01 4880 0899 (M?)",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "02 8848 223 [illegible]",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Jane Vereina",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Phone numbers unclear"]
+      }
+    },
+    {
+      "name": "Villani, Carmine S.",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "420 East 80 Street 12F",
+          "street": "420 East 80 Street 12F",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 717 1800(H)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 717 1807",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 39 02 482 19050",
+          "area_code": "39",
+          "geographic_indicator": "Milan, Italy",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Carmine S. Villani - East 80th Street, Milan connection",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Villeneuve, Jacques",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 33 680 668 658",
+          "area_code": "33",
+          "geographic_indicator": "France mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Jacques Villeneuve - France",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Vittadini, Emanuele A.",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "8 New York Ave[illegible]",
+          "street": "8 New York Ave[illegible]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 465 [illegible]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 876 2233",
+          "area_code": "516",
+          "geographic_indicator": "Long Island NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 329 3338 (Hampton)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 391 8333 office",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Emanuele A. Vittadini - NYC and Hamptons",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Address partially illegible", "One phone partially illegible"]
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 19,
+    "illegible_entries": 0,
+    "partial_entries": 7,
+    "cross_references": ["Multiple Trump entries"],
+    "notable_individuals": [
+      "Robert & Blaine Trump - Trump family",
+      "Chris Tucker - Actor/comedian",
+      "Christy Turlington - Supermodel",
+      "Governor Charles Turnbull - US Virgin Islands",
+      "Jacques Villeneuve - F1 racing driver"
+    ],
+    "geographic_distribution": {
+      "uk": 4,
+      "usa": 10,
+      "france": 3,
+      "mexico": 1,
+      "spain": 1,
+      "italy": 1,
+      "us_virgin_islands": 1
+    },
+    "location_highlights": [
+      "834 5th Avenue NYC",
+      "Beverly Hills/LA entertainment industry",
+      "West Broadway NYC",
+      "US Virgin Islands governor",
+      "Chester Street SW1X London",
+      "Washington DC",
+      "Mexico City business",
+      "Paris/Neuilly France"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 12,
+      "medium_confidence": 4,
+      "low_confidence": 3,
+      "specific_issues": [
+        "Several phone numbers illegible",
+        "Some email domains illegible",
+        "Address details incomplete in several entries"
+      ]
+    }
+  }
+}

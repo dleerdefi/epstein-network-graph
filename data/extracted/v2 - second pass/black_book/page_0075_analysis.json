@@ -1,0 +1,965 @@
+{
+  "page_number": 75,
+  "alphabetical_section": "K-M",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "075_harvard_university",
+      "name": {
+        "full_name": "(Hm)Harvard University",
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Harvard University",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "617 495-3932",
+          "formatting": "617 495-3932 (w)"
+        },
+        {
+          "type": "home",
+          "number": "617-964-2008",
+          "formatting": "617-964-2008 (h)"
+        },
+        {
+          "type": "fax",
+          "number": "617 496 3122",
+          "formatting": "617 496 3122 (f)"
+        },
+        {
+          "type": "unknown",
+          "number": "617 953 4123",
+          "formatting": "617 953 4123 cell-emergency only"
+        },
+        {
+          "type": "unknown",
+          "number": "617 441 8111",
+          "formatting": "617 441 8111 hf"
+        },
+        {
+          "type": "home",
+          "number": "617 441 8111",
+          "formatting": "617 441 8111 (hf)"
+        },
+        {
+          "type": "portable",
+          "number": "617 642 0901",
+          "formatting": "617 642 0901 (p)"
+        },
+        {
+          "type": "other",
+          "number": "617 953 8156",
+          "formatting": "617 953 8156 other"
+        },
+        {
+          "type": "work",
+          "number": "617 495 3122",
+          "formatting": "617 495 3122 (wf)"
+        },
+        {
+          "type": "emergency",
+          "number": "617 864 8466",
+          "formatting": "617 864 8466 emergency contact"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "William James Hall #828",
+            "33 Kirkland Street",
+            "Cambridge, MA 02138"
+          ],
+          "city": "Cambridge",
+          "state": "MA",
+          "postal_code": "02138",
+          "country": "USA",
+          "notes": "Harvard University campus"
+        }
+      ],
+      "handwritten_notes": [
+        "(Robin)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Harvard University contact, Robin noted"
+    },
+    {
+      "entry_id": "075_kravis_henry",
+      "name": {
+        "full_name": "Kravis, Henry",
+        "prefix": null,
+        "first_name": "Henry",
+        "middle_name": null,
+        "last_name": "Kravis",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "212-230-9500",
+          "formatting": "212-230-9500 (w)"
+        },
+        {
+          "type": "home",
+          "number": "212-750-0003",
+          "formatting": "212-750-0003 (h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Kohlberg Kravis & Roberts",
+            "(Hm)9 West 57th Street 42Fl",
+            "New York, NY 10019"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10019",
+          "country": "USA",
+          "notes": "KKR headquarters"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Kohlberg Kravis & Roberts (KKR)"
+    },
+    {
+      "entry_id": "075_lang_adam_perry",
+      "name": {
+        "full_name": "Lang, Adam Perry",
+        "prefix": null,
+        "first_name": "Adam",
+        "middle_name": "Perry",
+        "last_name": "Lang",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0 212 268 2874",
+          "formatting": "0 212 268 2874 (h)"
+        },
+        {
+          "type": "portable",
+          "number": "917 584 4735",
+          "formatting": "917 584 4735 (p)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Perry's Place #3508",
+            "NY NY 10036"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10036",
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "075_leach_robin",
+      "name": {
+        "full_name": "Leach, Robin",
+        "prefix": null,
+        "first_name": "Robin",
+        "middle_name": null,
+        "last_name": "Leach",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "212-557-6500",
+          "formatting": "212-557-6500 (w)"
+        },
+        {
+          "type": "work",
+          "number": "212-557 6901",
+          "formatting": "212-557 6901 (wf)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "roblea@aol.com",
+          "type": "personal",
+          "notes": "AOL email"
+        },
+        {
+          "address": "rleacht@",
+          "type": null,
+          "notes": "Incomplete email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "Leach Entertainment Enterprise",
+            "122 E. 42nd street",
+            "Suite 1516",
+            "New York, NY 10168"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10168",
+          "country": "USA",
+          "notes": "Entertainment company"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Leach Entertainment Enterprise"
+    },
+    {
+      "entry_id": "075_leese_nick",
+      "name": {
+        "full_name": "Leese, Nick",
+        "prefix": null,
+        "first_name": "Nick",
+        "middle_name": null,
+        "last_name": "Leese",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "65-259-8696",
+          "formatting": "65-259-8696 (w)"
+        },
+        {
+          "type": "home",
+          "number": "65-253-2364",
+          "formatting": "65-253-2364 (nf)"
+        },
+        {
+          "type": "unknown",
+          "number": "65-253-0417",
+          "formatting": "65-253-0417"
+        },
+        {
+          "type": "car",
+          "number": "65-720-4101",
+          "formatting": "65-720-4101 Car"
+        },
+        {
+          "type": "home",
+          "number": "65-253-5463",
+          "formatting": "65-253-5463 (h)"
+        },
+        {
+          "type": "portable",
+          "number": "659 488-6122",
+          "formatting": "659 488-6122 (h)"
+        },
+        {
+          "type": "portable",
+          "number": "65 97650878",
+          "formatting": "65 97650878 (p)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "nsisi@pacific.net.sg",
+          "type": "personal",
+          "notes": "Singapore email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "House of Orient PTE Ltd.",
+            "162 Mount Pleasant Road",
+            "Singapore, 1123 (h)",
+            "190 Bukit Timah Road",
+            "Singapore, 0922"
+          ],
+          "city": "Singapore",
+          "state": null,
+          "postal_code": "0922",
+          "country": "Singapore",
+          "notes": "Singapore addresses"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "House of Orient PTE Ltd."
+    },
+    {
+      "entry_id": "075_lopez_buklarewicz_cindy",
+      "name": {
+        "full_name": "Lopez, (Buklarewicz) Cindy",
+        "prefix": null,
+        "first_name": "Cindy",
+        "middle_name": null,
+        "last_name": "Lopez",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "646 641 9353",
+          "formatting": "646 641 9353(p)"
+        },
+        {
+          "type": "home",
+          "number": "917 492 2102",
+          "formatting": "917 492 2102(h)"
+        },
+        {
+          "type": "work",
+          "number": "646 638 3331x226",
+          "formatting": "646 638 3331x226 (w)"
+        },
+        {
+          "type": "unknown",
+          "number": "732 431 5374",
+          "formatting": "732 431 5374 parents"
+        }
+      ],
+      "emails": [
+        {
+          "address": "cinleiclope@aol.com",
+          "type": "personal",
+          "notes": "AOL email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Karin Models",
+            "339 E. 94th Street #C",
+            "New York, NY 10128"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10128",
+          "country": "USA",
+          "notes": "Karin Models agency"
+        },
+        {
+          "type": "unknown",
+          "address_lines": [
+            "(Hm)Karin Models",
+            "6 West 14th St., 3rd fl",
+            "New York, NY 10011"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10011",
+          "country": "USA",
+          "notes": "Karin Models office"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Karin Models, Buklarewicz maiden name"
+    },
+    {
+      "entry_id": "075_lundberg_marc",
+      "name": {
+        "full_name": "Lundberg, Marc",
+        "prefix": null,
+        "first_name": "Marc",
+        "middle_name": null,
+        "last_name": "Lundberg",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 614 794 2544",
+          "formatting": "001 614 794 2544(h)"
+        },
+        {
+          "type": "unknown",
+          "number": "614 939 6008",
+          "formatting": "614 939 6008 NAPI Direct"
+        },
+        {
+          "type": "unknown",
+          "number": "614 939 8025",
+          "formatting": "614 939 8025 f Marc's fax at na prop"
+        }
+      ],
+      "emails": [
+        {
+          "address": "marcl@naproperty.com",
+          "type": "work",
+          "notes": "NA Property email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "N.A. Property, Inc.",
+            "6525 West Campus Oval",
+            "Suite 105",
+            "New Albany, Ohio 43054"
+          ],
+          "city": "New Albany",
+          "state": "OH",
+          "postal_code": "43054",
+          "country": "USA",
+          "notes": "N.A. Property Inc."
+        },
+        {
+          "type": "unknown",
+          "address_lines": [
+            "(Hm)5930 Harlem Road",
+            "Westerville, OH 43082"
+          ],
+          "city": "Westerville",
+          "state": "OH",
+          "postal_code": "43082",
+          "country": "USA",
+          "notes": "Home address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "N.A. Property, Inc."
+    },
+    {
+      "entry_id": "075_luntz_melinda",
+      "name": {
+        "full_name": "Luntz, Melinda",
+        "prefix": null,
+        "first_name": "Melinda",
+        "middle_name": null,
+        "last_name": "Luntz",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "345 E. 64th Street",
+          "formatting": "345 E. 64th Street (h)"
+        },
+        {
+          "type": "home",
+          "number": "212 786 1887",
+          "formatting": "212 786 1887(h)"
+        },
+        {
+          "type": "unknown",
+          "number": "917 685 5917",
+          "formatting": "917 685 5917 (p)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "mluntz@nyc.rr.com",
+          "type": "personal",
+          "notes": "NYC Road Runner email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Apt 10D",
+            "New York, NY 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side"
+        },
+        {
+          "type": "unknown",
+          "address_lines": [
+            "(Hm)Clarkeson Research",
+            "Group"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": "Clarkeson Research Group"
+        },
+        {
+          "type": "unknown",
+          "address_lines": [
+            "19 Townsend Square",
+            "Oyster Bay, NY 11771 PB"
+          ],
+          "city": "Oyster Bay",
+          "state": "NY",
+          "postal_code": "11771",
+          "country": "USA",
+          "notes": ""
+        },
+        {
+          "type": "unknown",
+          "address_lines": [
+            "561 787 2903 Mom in PB",
+            "516 624 8523 (wf)",
+            "516 624 8825 (w)"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": "Additional contact numbers"
+        },
+        {
+          "type": "emergency",
+          "address_lines": [
+            "561 762 3100 emergency contact",
+            "Denise Read"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": "Emergency contact"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Clarkeson Research Group"
+    },
+    {
+      "entry_id": "075_mast_industries",
+      "name": {
+        "full_name": "Mast Industries",
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Mast Industries",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "852-734-4213",
+          "formatting": "852-734-4213"
+        },
+        {
+          "type": "unknown",
+          "number": "852-724-4736",
+          "formatting": "852-724-4736"
+        },
+        {
+          "type": "unknown",
+          "number": "852-813-8223",
+          "formatting": "852-813-8223 John Welch Home"
+        },
+        {
+          "type": "unknown",
+          "number": "852-311-4741",
+          "formatting": "852-311-4741 John Welch Fax"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "Pres. John Welch",
+            "14/F East Wing",
+            "New World Office Building",
+            "24 Salisbury Road, Kowloon HK"
+          ],
+          "city": "Kowloon",
+          "state": null,
+          "postal_code": null,
+          "country": "Hong Kong",
+          "notes": "Hong Kong office"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Pres. John Welch"
+    },
+    {
+      "entry_id": "075_mast_industries_milan",
+      "name": {
+        "full_name": "Mast Industries - Milan",
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Mast Industries - Milan",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "3902-7508-2201",
+          "formatting": "3902-7508-2201"
+        },
+        {
+          "type": "unknown",
+          "number": "3902-7601-5031",
+          "formatting": "3902-7601-5031"
+        },
+        {
+          "type": "home",
+          "number": "852-813-0180",
+          "formatting": "852-813-0180 Ron Shulman (home)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Federico, Karen",
+            "10 Zia Monteneapoleome",
+            "Milan, Italy 20121"
+          ],
+          "city": "Milan",
+          "state": null,
+          "postal_code": "20121",
+          "country": "Italy",
+          "notes": "Milan office"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Federico, Karen contact"
+    },
+    {
+      "entry_id": "075_mcmillen_c_thomas",
+      "name": {
+        "full_name": "McMillen, C. Thomas",
+        "prefix": null,
+        "first_name": "C. Thomas",
+        "middle_name": null,
+        "last_name": "McMillen",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "301 306 3470 x11",
+          "formatting": "301 306 3470 x11(w)"
+        },
+        {
+          "type": "work",
+          "number": "301 306 3479",
+          "formatting": "301 306 3479 (wf)"
+        },
+        {
+          "type": "unknown",
+          "number": "202 261 4471",
+          "formatting": "202 261 4471 (p)"
+        },
+        {
+          "type": "home",
+          "number": "202 546 1712",
+          "formatting": "202 546 1712 (h)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "mcmillen@washcapadvisors.",
+          "type": "work",
+          "notes": "Washington Capital Advisors - incomplete"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "Chairman",
+            "8401 Corporate Drive (w)",
+            "Suite 230",
+            "Landover, MD 20785"
+          ],
+          "city": "Landover",
+          "state": "MD",
+          "postal_code": "20785",
+          "country": "USA",
+          "notes": "Chairman office"
+        },
+        {
+          "type": "unknown",
+          "address_lines": [
+            "(Hm)1103 South Carolina Ave",
+            "S.E.",
+            "Washington, DC 20003"
+          ],
+          "city": "Washington",
+          "state": "DC",
+          "postal_code": "20003",
+          "country": "USA",
+          "notes": "Home address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Chairman"
+    },
+    {
+      "entry_id": "075_mcmillen_thomas_c",
+      "name": {
+        "full_name": "McMillen, Thomas C.",
+        "prefix": null,
+        "first_name": "Thomas",
+        "middle_name": "C",
+        "last_name": "McMillen",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "301 306 3470",
+          "formatting": "301 306 3470 (w)"
+        },
+        {
+          "type": "work",
+          "number": "301 306 3479",
+          "formatting": "301 306 3479 (wf)"
+        },
+        {
+          "type": "portable",
+          "number": "202 251 4471",
+          "formatting": "202 251 4471 (p)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "mcmillen@trqinsurance.com",
+          "type": "work",
+          "notes": "TRQ Insurance email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "Chairman, CEO",
+            "The Kleb Group",
+            "8401 Corporate Drive",
+            "Suite 550",
+            "Landover",
+            "MD. 20785"
+          ],
+          "city": "Landover",
+          "state": "MD",
+          "postal_code": "20785",
+          "country": "USA",
+          "notes": "The Kleb Group headquarters"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Chairman, CEO of The Kleb Group"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 12,
+    "entries_with_emails": 7,
+    "entries_with_addresses": 12,
+    "entries_with_handwritten_notes": 1,
+    "couples": 0,
+    "average_confidence": "high",
+    "notable_figures_count": 3
+  },
+  "cross_references": [
+    {
+      "from": "075_lopez_buklarewicz_cindy",
+      "to": "Karin Models",
+      "relationship": "employment",
+      "note": "Working at Karin Models agency"
+    },
+    {
+      "from": "075_mast_industries",
+      "to": "075_mast_industries_milan",
+      "relationship": "same_company",
+      "note": "Different offices of Mast Industries"
+    },
+    {
+      "from": "075_mcmillen_c_thomas",
+      "to": "075_mcmillen_thomas_c",
+      "relationship": "possibly_same_person",
+      "note": "Same person with slightly different entries"
+    },
+    {
+      "from": "075_mast_industries",
+      "to": "Limited Brands/Victoria's Secret",
+      "relationship": "subsidiary",
+      "note": "Mast Industries is sourcing arm of Limited Brands"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Robin (Harvard contact)",
+      "Henry Kravis",
+      "Adam Perry Lang",
+      "Robin Leach",
+      "Nick Leese",
+      "Cindy Lopez (Buklarewicz)",
+      "Marc Lundberg",
+      "Melinda Luntz",
+      "John Welch (Mast Industries President)",
+      "Ron Shulman",
+      "Federico Karen",
+      "C. Thomas McMillen",
+      "Thomas C. McMillen",
+      "Denise Read (emergency contact)"
+    ],
+    "organizations": [
+      "Harvard University",
+      "Kohlberg Kravis & Roberts (KKR)",
+      "Leach Entertainment Enterprise",
+      "House of Orient PTE Ltd.",
+      "Karin Models",
+      "N.A. Property, Inc.",
+      "Clarkeson Research Group",
+      "Mast Industries",
+      "The Kleb Group",
+      "Washington Capital Advisors",
+      "TRQ Insurance"
+    ],
+    "locations": {
+      "international": [
+        "Singapore",
+        "Hong Kong (Kowloon)",
+        "Milan, Italy"
+      ],
+      "us_cities": [
+        "Cambridge, MA",
+        "New York City, NY",
+        "New Albany, OH",
+        "Westerville, OH",
+        "Oyster Bay, NY",
+        "Landover, MD",
+        "Washington, DC"
+      ],
+      "elite_addresses": [
+        "9 West 57th Street, NYC (KKR headquarters)",
+        "345 E. 64th Street, NYC (Melinda Luntz)",
+        "Harvard University, William James Hall",
+        "24 Salisbury Road, Kowloon (Mast Industries HK)"
+      ]
+    }
+  },
+  "insights": [
+    "Henry Kravis - Co-founder of KKR (Kohlberg Kravis & Roberts), one of world's largest private equity firms",
+    "Harvard University extensive contact list with emergency numbers, Robin noted as contact",
+    "Robin Leach - Entertainment mogul (Leach Entertainment Enterprise), 'Lifestyles of the Rich and Famous' host",
+    "CRITICAL: Mast Industries - Limited Brands/Victoria's Secret sourcing company with offices in Hong Kong and Milan",
+    "John Welch - President of Mast Industries Hong Kong, key Limited Brands supply chain executive",
+    "Karin Models connection through Cindy Lopez (Buklarewicz) - another modeling agency link",
+    "Singapore business connection through Nick Leese and House of Orient PTE Ltd.",
+    "Ohio business network continues: N.A. Property (Marc Lundberg) in New Albany",
+    "Two entries for McMillen (C. Thomas and Thomas C.) - possibly same person, Chairman/CEO roles",
+    "Clarkeson Research Group through Melinda Luntz",
+    "International business presence: Singapore, Hong Kong, Milan offices",
+    "Victoria's Secret/Limited Brands supply chain visible through Mast Industries",
+    "Private equity connection through Henry Kravis and KKR",
+    "Media/entertainment connections through Robin Leach",
+    "Academic connection through Harvard University extensive contact list"
+  ]
+}

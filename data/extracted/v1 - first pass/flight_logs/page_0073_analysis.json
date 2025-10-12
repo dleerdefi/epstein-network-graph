@@ -1,0 +1,322 @@
+{
+  "page_number": 73,
+  "date_header": "2000-2001",
+  "time_period": "February 2000 - May 2000",
+  "aircraft": {
+    "registration": "Multiple (N72PV, N72PH, N720V, G-V590 N908JE)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "23",
+      "date": "02/23/2000",
+      "departure": "20663",
+      "arrival": "N72PV",
+      "flight_time": "",
+      "remarks": "PMV - GXF - PMP - IFR, JR, B, Z, JD, BRIAN JACKSON",
+      "passengers": ["IFR", "JR", "B", "Z", "JD", "BRIAN JACKSON"],
+      "crew": "11"
+    },
+    {
+      "entry_number": "24",
+      "date": "02/24/2000",
+      "departure": "20663",
+      "arrival": "N72PH",
+      "flight_time": "",
+      "remarks": "PMV - CXE - PMV - IFR, L, G, J, XL, JD",
+      "passengers": ["IFR", "L", "G", "J", "XL", "JD"],
+      "crew": "11"
+    },
+    {
+      "entry_number": "25",
+      "date": "02/25/2000",
+      "departure": "20663",
+      "arrival": "N72PH",
+      "flight_time": "",
+      "remarks": "PMV - FXE - PMV - IFR, L, J, D",
+      "passengers": ["IFR", "L", "J", "D"],
+      "crew": "6"
+    },
+    {
+      "entry_number": "26",
+      "date": "02/26/2000",
+      "departure": "20663",
+      "arrival": "N720V",
+      "flight_time": "",
+      "remarks": "PMV - LID - SID - MPH - IFR",
+      "passengers": ["IFR"],
+      "crew": "2"
+    },
+    {
+      "entry_number": "29",
+      "date": "02/29/2000",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "PMP - EPMP",
+      "passengers": [],
+      "crew": ""
+    },
+    {
+      "entry_number": "29",
+      "date": "02/29/2000",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "VRB - VRB - IFR, L, G, J, JD, HEART, CRISTINA, STEPHEN, STEPHEN",
+      "passengers": ["IFR", "L", "G", "J", "JD", "HEART", "CRISTINA", "STEPHEN", "STEPHEN"],
+      "crew": "1"
+    },
+    {
+      "entry_number": "29",
+      "date": "02/29/2000",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "VRB - EXC - PMV",
+      "passengers": [],
+      "crew": ""
+    },
+    {
+      "entry_number": "29",
+      "date": "02/29/2000",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "PMV - FOC - PMV - MICHAEL, LU, J, W, G, XL, JD, STEPHEN, STEPHEN",
+      "passengers": ["MICHAEL", "LU", "J", "W", "G", "XL", "JD", "STEPHEN", "STEPHEN"],
+      "crew": "1"
+    },
+    {
+      "entry_number": "2",
+      "date": "03/02/2000",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "PMV - CHD - LND - PMV - PWP, IFR, L, G, J, XL, JD, STEPHEN, STEPHEN",
+      "passengers": ["PWP", "IFR", "L", "G", "J", "XL", "JD", "STEPHEN", "STEPHEN"],
+      "crew": ""
+    },
+    {
+      "entry_number": "3",
+      "date": "03/03/2000",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "PMP - AMP - PWP, IFR, LU, G-B, L, Z, JD",
+      "passengers": ["PWP", "IFR", "LU", "G-B", "L", "Z", "JD"],
+      "crew": "7"
+    },
+    {
+      "entry_number": "3",
+      "date": "03/03/2000",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "PMP - LNA - PWP, IFR, L, G, B, Z, J, JD, CLAIRE, STEPHEN, STEPHEN",
+      "passengers": ["PWP", "IFR", "L", "G", "B", "Z", "J", "JD", "CLAIRE", "STEPHEN", "STEPHEN"],
+      "crew": "2"
+    },
+    {
+      "entry_number": "10",
+      "date": "03/10/2000",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "PMP - PMP - IFR, REVISAL, L, J, XL, JD",
+      "passengers": ["IFR", "REVISAL", "L", "J", "XL", "JD"],
+      "crew": ""
+    },
+    {
+      "entry_number": "12",
+      "date": "03/12/2000",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "PMP - PMP - CLAIRE REVIEWED LANDING STEPHEN, LISA STEPHEN, STEPHEN",
+      "passengers": ["CLAIRE", "STEPHEN", "LISA", "STEPHEN", "STEPHEN"],
+      "crew": ""
+    },
+    {
+      "entry_number": "MAR",
+      "date": "03/15/2000",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "PMV - LAB - CANCELLED PMV - LISA, SCOTT, ERIC",
+      "passengers": ["LISA", "SCOTT", "ERIC"],
+      "crew": ""
+    },
+    {
+      "entry_number": "APR 1",
+      "date": "04/01/2000",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "",
+      "passengers": [],
+      "crew": ""
+    },
+    {
+      "entry_number": "24",
+      "date": "04/24/2000",
+      "departure": "G-V590",
+      "arrival": "N908JE",
+      "flight_time": "1332",
+      "remarks": "PBI - PBI - CLAIRE, DAVE, SEL + LANDING, STEPHEN + LOG BOOK, CINDY, ALICE, MIKE",
+      "passengers": ["CLAIRE", "DAVE", "SEL", "STEPHEN", "CINDY", "ALICE", "MIKE"],
+      "crew": "5"
+    },
+    {
+      "entry_number": "MAY 3",
+      "date": "05/03/2000",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "CLAIRE, DAVE, SEL + LANDING, LOG BOOK, CINDY, ALICE, MIKE, BILL, ELEC",
+      "passengers": ["CLAIRE", "DAVE", "SEL", "CINDY", "ALICE", "MIKE", "BILL", "ELEC"],
+      "crew": "5"
+    },
+    {
+      "entry_number": "4",
+      "date": "05/04/2000",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1334",
+      "remarks": "TEB - CLAIRE, MIKE",
+      "passengers": ["CLAIRE", "MIKE"],
+      "crew": "2/6"
+    },
+    {
+      "entry_number": "4",
+      "date": "05/04/2000",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1335",
+      "remarks": "PBI - LG, GARRETT, SAY, SEAL THOMAS",
+      "passengers": ["LG", "GARRETT", "SAY", "SEAL THOMAS"],
+      "crew": "3/4"
+    },
+    {
+      "entry_number": "7",
+      "date": "05/07/2000",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1336",
+      "remarks": "TIST - XN, SARAH ET, JE SEAN, STEVEN, DENNIS, STEVEN, CYNTHIA, SARAH, SHONA, SUSAN",
+      "passengers": ["XN", "SARAH", "ET", "JE", "SEAN", "STEVEN", "DENNIS", "STEVEN", "CYNTHIA", "SARAH", "SHONA", "SUSAN"],
+      "crew": "2/3"
+    }
+  ],
+  "entities": {
+    "people": [
+      "IFR",
+      "JR",
+      "B",
+      "Z",
+      "JD",
+      "BRIAN JACKSON",
+      "L",
+      "G",
+      "J",
+      "XL",
+      "D",
+      "HEART",
+      "CRISTINA",
+      "STEPHEN",
+      "MICHAEL",
+      "LU",
+      "W",
+      "PWP",
+      "G-B",
+      "CLAIRE",
+      "REVISAL",
+      "LISA",
+      "SCOTT",
+      "ERIC",
+      "DAVE",
+      "SEL",
+      "CINDY",
+      "ALICE",
+      "MIKE",
+      "BILL",
+      "ELEC",
+      "GARRETT",
+      "SAY",
+      "SEAL THOMAS",
+      "XN",
+      "SARAH",
+      "ET",
+      "JE",
+      "SEAN",
+      "STEVEN",
+      "DENNIS",
+      "CYNTHIA",
+      "SHONA",
+      "SUSAN",
+      "David Rodgers"
+    ],
+    "locations": [
+      "PMV",
+      "GXF",
+      "PMP",
+      "CXE",
+      "FXE",
+      "LID",
+      "SID",
+      "MPH",
+      "EPMP",
+      "VRB",
+      "EXC",
+      "FOC",
+      "CHD",
+      "LND",
+      "AMP",
+      "LNA",
+      "LAB",
+      "PBI",
+      "TEB",
+      "TIST"
+    ],
+    "aircraft": [
+      "N72PV",
+      "N72PH",
+      "N720V",
+      "G-V590",
+      "N908JE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": [
+      "FLIGHT TEAMS, REARRANGED TO INSURANCE FOR MINIMUM OPERATION"
+    ]
+  },
+  "metadata": {
+    "page_total": "3/3",
+    "amount_forward": "17604",
+    "total_to_date": "17633",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page shows transition from February 2000 through March, April to May 2000",
+    "Multiple training flights noted with 'REVIEWED' and 'REVISAL' notations",
+    "Frequent appearances of coded initials (IFR, L, G, J, XL, JD)",
+    "Stephen appears multiple times, often duplicated in passenger lists",
+    "Claire appears as recurring passenger/trainee",
+    "April 2000 entries included (1st and 24th)",
+    "Mix of N72PV, N72PH, N720V aircraft for shorter flights",
+    "G-V590 N908JE used for longer flights",
+    "Flight numbers reach 1336",
+    "Note at bottom mentions 'FLIGHT TEAMS, REARRANGED TO INSURANCE FOR MINIMUM OPERATION'",
+    "Training and check ride activities prominent"
+  ]
+}

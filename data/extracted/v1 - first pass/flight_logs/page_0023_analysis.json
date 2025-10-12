@@ -1,0 +1,389 @@
+{
+  "page_number": 23,
+  "file_path": "data/flight_logs_images/page-023.png",
+  "type": "aircraft_flight_log",
+  "content": {
+    "text": "DATE 1993 AUG | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARKS | POINTS OF DEPARTURE & ARRIVAL | FROM | TO | MILEAGE | FLT TIME | REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS | AIRCRAFT CATEGORY\n\n1 '' N908JE ATL NEW 1.5 382 GINA ALAM ANN ALANE, SAM ALAM\n2 '' '' NEW CAM 1.5 383 GINA ALAM, ANN ALANE, SAM ALAM, DOROTHY\n3 '' '' CAM TVG 2.5 384 GINA ALAM, STANLEY, DOROTHY, DAVID\n4 '' '' '' '' '' '' ''\n5 '' '' ATL TVG 2.5 385 JEFFREY, STEVE AVA\n6 '' '' '' '' '' '' ''\n7 '' '' ATL MMJK GIT 2.5 386 JEFFREY, GHISLAINE, ADRIAN, STEVE VILLIERS\n8 '' '' '' '' '' '' ''\n9 '' '' MMJK LGP 2.5 387 JEFFREY, STEVE VILLIERS, ADRIAN, STEVE VILLIERS\n10 '' '' '' '' 2.5 388 JEFFREY, STEVE, DOROTHY, JAN SO\n11 '' '' OJT REE 2.5 389 JEFFREY, STEVE, DOROTHY\n12 '' '' '' '' 2.5 390 JEFFREY, STEVE, DOROTHY\n13 '' '' BCJ YGB 2.5 391 JEFFREY, GHISLAINE\n14 '' '' '' '' 2.5 392 JEFFREY, STEVE, DOROTHY, WILLIAM, SARAH\n15 '' '' QUE RYE 2.5 393 JEFFREY, STEVE, DOROTHY, WILLIAM, SARAH\n16 '' '' '' '' 2.5 394 JEFFREY, STEVE, DOROTHY, WILLIAM, SARAH, DOROTHY\n17 '' '' ATL QUA 2.5 395 ABERCROMBIE, DR SARAH, WILLIAM, SARAH, DOROTHY\n18 '' '' '' '' 2.5 396 JEFFREY, STEVE, DOROTHY, WILLIAM, SARAH, DOROTHY\n19 '' '' QUA RYE 2.5 397 DOROTHY, WILLIAM, SARAH, DOROTHY\n20 '' '' '' '' 2.5 398 JEFFREY, DOROTHY, WILLIAM, SARAH, DOROTHY, GINA\n\n\nPAGE TOTAL\nAMT. FORWARD 44.5 + 38.5 = 83.0\nTOTAL TO DATE 5543 + 5543 = 11086\n\nI certify that the statements made by me on this form are true.\n\nPILOT'S SIGNATURE David Rodgers",
+    "handwritten": true,
+    "typed": false,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "Complete cell-by-cell transcription provided above",
+      "flight_records": [
+        {
+          "date": "9/1/93",
+          "departure": "ATL",
+          "arrival": "NEW",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Gina Alam", "Ann Alane", "Sam Alam"],
+          "pilot": "David Rodgers",
+          "notes": "GINA ALAM ANN ALANE, SAM ALAM"
+        },
+        {
+          "date": "9/2/93",
+          "departure": "NEW",
+          "arrival": "CAM",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Gina Alam", "Ann Alane", "Sam Alam", "Dorothy"],
+          "pilot": "David Rodgers",
+          "notes": "GINA ALAM, ANN ALANE, SAM ALAM, DOROTHY"
+        },
+        {
+          "date": "9/3/93",
+          "departure": "CAM",
+          "arrival": "TVG",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Gina Alam", "Stanley", "Dorothy", "David"],
+          "pilot": "David Rodgers",
+          "notes": "GINA ALAM, STANLEY, DOROTHY, DAVID"
+        },
+        {
+          "date": "9/5/93",
+          "departure": "ATL",
+          "arrival": "TVG",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Steve", "Ava"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, STEVE AVA"
+        },
+        {
+          "date": "9/7/93",
+          "departure": "ATL",
+          "arrival": "MMJK GIT",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Adrian", "Steve Villiers"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE, ADRIAN, STEVE VILLIERS"
+        },
+        {
+          "date": "9/9/93",
+          "departure": "MMJK",
+          "arrival": "LGP",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Steve Villiers", "Adrian", "Steve Villiers"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, STEVE VILLIERS, ADRIAN, STEVE VILLIERS"
+        },
+        {
+          "date": "9/10/93",
+          "departure": "LGP",
+          "arrival": "LGP",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Steve", "Dorothy", "Jan So"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, STEVE, DOROTHY, JAN SO"
+        },
+        {
+          "date": "9/11/93",
+          "departure": "OJT",
+          "arrival": "REE",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Steve", "Dorothy"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, STEVE, DOROTHY"
+        },
+        {
+          "date": "9/12/93",
+          "departure": "REE",
+          "arrival": "REE",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Steve", "Dorothy"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, STEVE, DOROTHY"
+        },
+        {
+          "date": "9/13/93",
+          "departure": "BCJ",
+          "arrival": "YGB",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE"
+        },
+        {
+          "date": "9/14/93",
+          "departure": "YGB",
+          "arrival": "YGB",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Steve", "Dorothy", "William", "Sarah"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, STEVE, DOROTHY, WILLIAM, SARAH"
+        },
+        {
+          "date": "9/15/93",
+          "departure": "QUE",
+          "arrival": "RYE",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Steve", "Dorothy", "William", "Sarah"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, STEVE, DOROTHY, WILLIAM, SARAH"
+        },
+        {
+          "date": "9/16/93",
+          "departure": "RYE",
+          "arrival": "RYE",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Steve", "Dorothy", "William", "Sarah", "Dorothy"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, STEVE, DOROTHY, WILLIAM, SARAH, DOROTHY"
+        },
+        {
+          "date": "9/17/93",
+          "departure": "ATL",
+          "arrival": "QUA",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Abercrombie", "Dr Sarah", "William", "Sarah", "Dorothy"],
+          "pilot": "David Rodgers",
+          "notes": "ABERCROMBIE, DR SARAH, WILLIAM, SARAH, DOROTHY"
+        },
+        {
+          "date": "9/18/93",
+          "departure": "QUA",
+          "arrival": "QUA",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Steve", "Dorothy", "William", "Sarah", "Dorothy"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, STEVE, DOROTHY, WILLIAM, SARAH, DOROTHY"
+        },
+        {
+          "date": "9/19/93",
+          "departure": "QUA",
+          "arrival": "RYE",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Dorothy", "William", "Sarah", "Dorothy"],
+          "pilot": "David Rodgers",
+          "notes": "DOROTHY, WILLIAM, SARAH, DOROTHY"
+        },
+        {
+          "date": "9/20/93",
+          "departure": "RYE",
+          "arrival": "RYE",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Dorothy", "William", "Sarah", "Dorothy", "Gina"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, DOROTHY, WILLIAM, SARAH, DOROTHY, GINA"
+        }
+      ],
+      "date_header": "DATE 1993 SEP",
+      "date_range": "September 1993",
+      "starting_month": "September",
+      "starting_year": "1993"
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Gina Alam",
+        "context": "Continues as frequent passenger from previous month",
+        "occurrences": 4
+      },
+      {
+        "name": "Ann Alane",
+        "context": "Passenger - travels with Alam family group",
+        "occurrences": 2
+      },
+      {
+        "name": "Sam Alam",
+        "context": "Passenger - member of Alam family group",
+        "occurrences": 2
+      },
+      {
+        "name": "Dorothy",
+        "context": "Very frequent passenger throughout month",
+        "occurrences": 11
+      },
+      {
+        "name": "Stanley",
+        "context": "Passenger - travels with Gina Alam group",
+        "occurrences": 1
+      },
+      {
+        "name": "David",
+        "context": "Passenger - travels with Gina Alam group",
+        "occurrences": 1
+      },
+      {
+        "name": "Jeffrey",
+        "context": "Primary passenger - frequent appearances",
+        "occurrences": 10
+      },
+      {
+        "name": "Steve",
+        "context": "Frequent passenger - abbreviated name",
+        "occurrences": 8
+      },
+      {
+        "name": "Ava",
+        "context": "Passenger - continues from previous pages",
+        "occurrences": 1
+      },
+      {
+        "name": "Ghislaine",
+        "context": "Passenger - returns after absence",
+        "occurrences": 2
+      },
+      {
+        "name": "Adrian",
+        "context": "Passenger - appears with Steve Villiers",
+        "occurrences": 2
+      },
+      {
+        "name": "Steve Villiers",
+        "context": "Passenger - continues from previous pages",
+        "occurrences": 3
+      },
+      {
+        "name": "Jan So",
+        "context": "Passenger - first appearance",
+        "occurrences": 1
+      },
+      {
+        "name": "William",
+        "context": "Frequent passenger - appears multiple times",
+        "occurrences": 6
+      },
+      {
+        "name": "Sarah",
+        "context": "Frequent passenger - continues from previous pages",
+        "occurrences": 7
+      },
+      {
+        "name": "Abercrombie",
+        "context": "Passenger - first appearance, single occurrence",
+        "occurrences": 1
+      },
+      {
+        "name": "Dr Sarah",
+        "context": "Passenger - professional title noted",
+        "occurrences": 1
+      },
+      {
+        "name": "Gina",
+        "context": "Passenger - likely same as Gina Alam",
+        "occurrences": 1
+      },
+      {
+        "name": "David Rodgers",
+        "context": "Pilot signature",
+        "occurrences": 1
+      }
+    ],
+    "locations": [
+      {
+        "code": "ATL",
+        "context": "Airport code - frequent departure point, likely Atlanta"
+      },
+      {
+        "code": "NEW",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "CAM",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "TVG",
+        "context": "Airport code - continues from previous page"
+      },
+      {
+        "code": "MMJK GIT",
+        "context": "Airport code - complex destination code"
+      },
+      {
+        "code": "MMJK",
+        "context": "Airport code - shortened version of above"
+      },
+      {
+        "code": "LGP",
+        "context": "Airport code - continues from previous pages"
+      },
+      {
+        "code": "OJT",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "REE",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "BCJ",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "YGB",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "QUE",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "RYE",
+        "context": "Airport code - frequent destination"
+      },
+      {
+        "code": "QUA",
+        "context": "Airport code - new location"
+      }
+    ],
+    "aircraft": [
+      {
+        "registration": "N908JE",
+        "context": "Primary aircraft used for all flights"
+      }
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "signature": "David Rodgers",
+        "context": "Pilot's signature at bottom of page",
+        "deciphered": true
+      }
+    ],
+    "stamps": [],
+    "handwriting_analysis": "Consistent handwriting throughout, same person filling out all entries. Notable pattern of Dorothy appearing multiple times in same flights, suggesting possible data entry duplication.",
+    "page_totals": {
+      "mileage": "44.5 + 38.5 = 83.0",
+      "total_to_date": "5543 + 5543 = 11086"
+    }
+  },
+  "metadata": {
+    "time_period": "September 1993",
+    "total_flights": 17,
+    "unique_passengers": 19,
+    "primary_aircraft": "N908JE",
+    "pilot": "David Rodgers"
+  },
+  "insights": [
+    "September 1993 flights - chronological continuation from August",
+    "Introduction of Alam family group (Gina, Ann, Sam) traveling together in early September",
+    "Dorothy becomes most frequent passenger with 11 appearances",
+    "ATL likely refers to Atlanta - major mainland US hub",
+    "Abercrombie and Dr Sarah suggest professional/medical connections",
+    "Steve Villiers continues pattern from previous months",
+    "Pattern of Dorothy appearing twice in same flight suggests data recording issue",
+    "Flight numbering continues sequential pattern (382-398)",
+    "RYE and QUA become frequent destinations with multiple same-day returns",
+    "Mix of family groups, professional associates, and individual travelers",
+    "Some flights show passengers without Jeffrey (Dorothy, William, Sarah group)",
+    "Total flight time predominantly 2.5 hours - longer distance pattern"
+  ]
+}

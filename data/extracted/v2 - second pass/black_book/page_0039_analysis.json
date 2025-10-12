@@ -1,0 +1,901 @@
+{
+  "page_number": 39,
+  "alphabetical_section": "M",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "039_monckton_rosa",
+      "name": {
+        "full_name": "Monckton, Rosa",
+        "prefix": null,
+        "first_name": "Rosa",
+        "middle_name": null,
+        "last_name": "Monckton",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "Priory St E",
+          "formatting": "Address fragment in phone field"
+        },
+        {
+          "type": "home",
+          "number": "0207-584 5899",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [
+        {
+          "address": "rosa@gpo.sonnet.co.uk",
+          "type": "personal",
+          "notes": "UK email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Cox's Mill",
+            "Dallington, East Sussex TN21 9JG"
+          ],
+          "city": "London",
+          "postal_code": "TN219JG",
+          "country": "UK",
+          "notes": "Asprey & Gerad Ltd."
+        }
+      ],
+      "handwritten_notes": [
+        "Email: rosamonckton@btinternet.co.uk",
+        "01179 372 1410 (Somerset) W",
+        "01179 372 0333 office",
+        "01179 377 544",
+        "01179 377 5442 Dir",
+        "0410 841 9999 car",
+        "00 36 5 374 6300 Hungo(m)",
+        "01179 372 1407"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Rosa Monckton - close friend of Princess Diana, Tiffany & Co executive"
+    },
+    {
+      "entry_id": "039_money_kryle_charlie_kit",
+      "name": {
+        "full_name": "Money Kryle, Mr Charlie & Kit",
+        "prefix": "Mr",
+        "first_name": "Charlie",
+        "middle_name": null,
+        "last_name": "Money Kryle",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Kit"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "Hawthorn Hill, Stis Manderterame",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "home",
+          "number": "0207-794 9999",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "0207-368 9846(w)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Hawthorn Hill",
+            "Stis Manderterame"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Country estate"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK contact with country estate"
+    },
+    {
+      "entry_id": "039_montemayor_cesar",
+      "name": {
+        "full_name": "Montemayor, Cesar",
+        "prefix": null,
+        "first_name": "Cesar",
+        "middle_name": null,
+        "last_name": "Montemayor",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 737 5070 (h)",
+          "formatting": "International to US - NYC"
+        },
+        {
+          "type": "work",
+          "number": "001 212 223 9300 (Mars fax (w)",
+          "formatting": "International to US - NYC"
+        },
+        {
+          "type": "mobile",
+          "number": "001 212 223 9311 Mars (w)",
+          "formatting": "International to US - NYC"
+        },
+        {
+          "type": "home",
+          "number": "001 888 938 6629(h)",
+          "formatting": "International to US"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC contact"
+    },
+    {
+      "entry_id": "039_monti_riccardo",
+      "name": {
+        "full_name": "Monti, Riccardo",
+        "prefix": null,
+        "first_name": "Riccardo",
+        "middle_name": null,
+        "last_name": "Monti",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "00 39 335 71 64287",
+          "formatting": "International - Italy mobile"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Italy contact"
+    },
+    {
+      "entry_id": "039_moore_deborah",
+      "name": {
+        "full_name": "Moore, Deborah",
+        "prefix": null,
+        "first_name": "Deborah",
+        "middle_name": null,
+        "last_name": "Moore",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "73 Eccelston Sq",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "home",
+          "number": "0207-589 0180",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "0207-515 2124(w)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "73 Eccelston Square Flat 1",
+            "London"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW1",
+          "country": "UK",
+          "notes": "Kensington area"
+        }
+      ],
+      "handwritten_notes": [
+        "001 310 454 2617 Jeffrey"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK contact - possibly Deborah Moore, daughter of Roger Moore"
+    },
+    {
+      "entry_id": "039_moore_juliet_chris",
+      "name": {
+        "full_name": "Moore, Juliet & Chris",
+        "prefix": null,
+        "first_name": "Juliet",
+        "middle_name": null,
+        "last_name": "Moore",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Chris"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "136 Slc Street",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "home",
+          "number": "0207-349 8188 (h)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "mobile",
+          "number": "0973-707 7723 (m)",
+          "formatting": "UK mobile"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "136 Slc Street",
+            "London"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "London address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK couple"
+    },
+    {
+      "entry_id": "039_moore_geoffrey",
+      "name": {
+        "full_name": "Moore, Mr Geoffrey",
+        "prefix": "Mr",
+        "first_name": "Geoffrey",
+        "middle_name": null,
+        "last_name": "Moore",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "72 Eaton Square",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "home",
+          "number": "0207-730 1438",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "001 212 223 717 24 (office)",
+          "formatting": "International to US - NYC"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "72 Eaton Square",
+            "London SW1"
+          ],
+          "city": "London",
+          "postal_code": "SW1",
+          "country": "UK",
+          "notes": "Eaton Square - one of London's most prestigious addresses in Belgravia"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Eaton Square Belgravia - elite address"
+    },
+    {
+      "entry_id": "039_morris_stephen",
+      "name": {
+        "full_name": "Morris, Stephen",
+        "prefix": null,
+        "first_name": "Stephen",
+        "middle_name": null,
+        "last_name": "Morris",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "Gretel House 44",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "home",
+          "number": "SW1",
+          "formatting": "Postal code"
+        },
+        {
+          "type": "home",
+          "number": "0207 823 9037(m)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Gretel House 44",
+            "London SW1"
+          ],
+          "city": "London",
+          "postal_code": "SW1",
+          "country": "UK",
+          "notes": "Belgravia/Westminster area"
+        }
+      ],
+      "handwritten_notes": [
+        "0171782 3037"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK contact 'Capita Advisors, Inc'"
+    },
+    {
+      "entry_id": "039_morris_nick_lucy",
+      "name": {
+        "full_name": "Morris, Nick & Lucy",
+        "prefix": null,
+        "first_name": "Nick",
+        "middle_name": null,
+        "last_name": "Morris",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Lucy"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "1 Arrion Gardens",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "home",
+          "number": "0207-794 6734 (f) (w) (f)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "7 Arrion Gardens",
+            "London"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "London address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK couple"
+    },
+    {
+      "entry_id": "039_morton_peter",
+      "name": {
+        "full_name": "Morton, Peter",
+        "prefix": null,
+        "first_name": "Peter",
+        "middle_name": null,
+        "last_name": "Morton",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 310 274 3008(h)",
+          "formatting": "International to US - LA"
+        },
+        {
+          "type": "work",
+          "number": "001 702 693 5000",
+          "formatting": "International to US - Las Vegas"
+        },
+        {
+          "type": "mobile",
+          "number": "001 310 281 7100 (w)",
+          "formatting": "International to US - LA"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Peter Morton - Hard Rock Cafe co-founder"
+    },
+    {
+      "entry_id": "039_mortimer_gigi_averell",
+      "name": {
+        "full_name": "Mortimer, Gigi & Averell",
+        "prefix": null,
+        "first_name": "Gigi",
+        "middle_name": null,
+        "last_name": "Mortimer",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Averell"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 888 5856(h)",
+          "formatting": "President Arden Asset Management, Inc."
+        },
+        {
+          "type": "work",
+          "number": "001 310 281 7100 (w)",
+          "formatting": "International to US - LA"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC/LA contact"
+    },
+    {
+      "entry_id": "039_mruvka_alan",
+      "name": {
+        "full_name": "Mruvka, Alan",
+        "prefix": null,
+        "first_name": "Alan",
+        "middle_name": null,
+        "last_name": "Mruvka",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 310 271 4527(h)",
+          "formatting": "International to US - LA"
+        },
+        {
+          "type": "work",
+          "number": "001 310 550 1117(w)",
+          "formatting": "International to US - LA"
+        }
+      ],
+      "emails": ["amruvka@yahoo.com"],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Trenton 910 278 3292(m)"
+          ],
+          "notes": "Address unclear"
+        }
+      ],
+      "handwritten_notes": [
+        "Trenton 910 278 3292(m)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "low",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "LA contact"
+    },
+    {
+      "entry_id": "039_macaulay_giles_averell",
+      "name": {
+        "full_name": "Macaulay, Giles & Averell",
+        "prefix": null,
+        "first_name": "Giles",
+        "middle_name": null,
+        "last_name": "Macaulay",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Averell"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-584 6784 (w)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "0207-636 8282 (w)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "business",
+          "address_lines": [
+            "Hatton Garden Amex",
+            "London"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Hatton Garden - jewelry district"
+        }
+      ],
+      "handwritten_notes": [
+        "0207-636 8282 (w)",
+        "0207-584 6784 (w)",
+        "212 755 5800(w)",
+        "212 759 5800(w) amex",
+        "0207 833 2800(w)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK couple with Hatton Garden jewelry business connections"
+    },
+    {
+      "entry_id": "039_munro_donald",
+      "name": {
+        "full_name": "Munro, Donald",
+        "prefix": null,
+        "first_name": "Donald",
+        "middle_name": null,
+        "last_name": "Munro",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "970 Chestnut Street #10",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "home",
+          "number": "001 212 431 4518 (h)",
+          "formatting": "International to US - NYC"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "970 Chestnut Street #10",
+            "SF, CA 94109"
+          ],
+          "city": "San Francisco",
+          "state": "California",
+          "postal_code": null,
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "039_murdoch_rupert",
+      "name": {
+        "full_name": "Murdoch, Rupert",
+        "prefix": null,
+        "first_name": "Rupert",
+        "middle_name": null,
+        "last_name": "Murdoch",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 310 203 1226",
+          "formatting": "International to US - NYC"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Rupert Murdoch - media mogul, News Corp founder"
+    },
+    {
+      "entry_id": "039_murray_philipson_kate",
+      "name": {
+        "full_name": "Murray Philipson, Kate",
+        "prefix": null,
+        "first_name": "Kate",
+        "middle_name": null,
+        "last_name": "Murray Philipson",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "01671/829 13",
+          "formatting": "UK format"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK contact"
+    },
+    {
+      "entry_id": "039_murray_philipson_mr_mrs",
+      "name": {
+        "full_name": "Murray Philipson, Mr & Mrs",
+        "prefix": "Mr",
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Murray Philipson",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Mrs Murray Philipson"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "The Cottage",
+          "formatting": "Property name"
+        },
+        {
+          "type": "home",
+          "number": "0207-602 4400 (h)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "The Cottage",
+            "Blasten",
+            "Nr Market Harborough Leics"
+          ],
+          "city": "London",
+          "postal_code": "W8",
+          "country": "UK",
+          "notes": "Kensington Church area"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Kensington couple"
+    },
+    {
+      "entry_id": "039_murray_threipland_tertious_cla",
+      "name": {
+        "full_name": "Murray, Thripland Tertious/Cla",
+        "prefix": null,
+        "first_name": "Thripland",
+        "middle_name": null,
+        "last_name": "Murray",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "01224 741106",
+          "formatting": "UK format"
+        },
+        {
+          "type": "mobile",
+          "number": "01224 746 9000",
+          "formatting": "UK format"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Scotland contact (Aberdeen area codes)"
+    },
+    {
+      "entry_id": "039_murray_jean_pierre",
+      "name": {
+        "full_name": "Murray, Jean Pierre",
+        "prefix": null,
+        "first_name": "Jean Pierre",
+        "middle_name": null,
+        "last_name": "Murray",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "00 33 4 92 00 1000",
+          "formatting": "International to France"
+        },
+        {
+          "type": "work",
+          "number": "00 33 1 40 70 38 00 (h) (har)",
+          "formatting": "International to France - Paris"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "France contact - Paris and South of France"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 19,
+    "entries_with_emails": 1,
+    "entries_with_addresses": 12,
+    "entries_with_handwritten_notes": 4,
+    "couples": 7,
+    "average_confidence": "high",
+    "notable_figures_count": 3
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Rosa Monckton",
+      "Charlie Money Kryle",
+      "Kit Money Kryle",
+      "Cesar Montemayor",
+      "Riccardo Monti",
+      "Deborah Moore",
+      "Juliet Moore",
+      "Chris Moore",
+      "Geoffrey Moore",
+      "Stephen Morris",
+      "Nick Morris",
+      "Lucy Morris",
+      "Peter Morton",
+      "Gigi Mortimer",
+      "Averell Mortimer",
+      "Alan Mruvka",
+      "Giles Macaulay",
+      "Averell Macaulay",
+      "Donald Munro",
+      "Rupert Murdoch",
+      "Kate Murray Philipson",
+      "Mr Murray Philipson",
+      "Mrs Murray Philipson",
+      "Thripland Murray",
+      "Jean Pierre Murray"
+    ],
+    "organizations": [
+      "Tiffany & Co (Rosa Monckton)",
+      "Hard Rock Cafe (Peter Morton)",
+      "News Corp (Rupert Murdoch)"
+    ],
+    "locations": {
+      "international": [
+        "London, UK (multiple contacts)",
+        "Paris, France",
+        "South of France",
+        "Italy",
+        "Scotland (Aberdeen)"
+      ],
+      "us_cities": [
+        "New York City (multiple contacts)",
+        "Los Angeles, CA",
+        "Las Vegas, NV"
+      ],
+      "elite_addresses": [
+        "Eaton Square, Belgravia (London)",
+        "Kensington, London (multiple addresses)",
+        "Hatton Garden, London (jewelry district)"
+      ]
+    }
+  },
+  "insights": [
+    "Rosa Monckton - close friend of Princess Diana, Tiffany & Co executive",
+    "Rupert Murdoch - media mogul, founder of News Corp",
+    "Peter Morton - co-founder of Hard Rock Cafe restaurant chain",
+    "Deborah Moore - possibly daughter of actor Roger Moore",
+    "Geoffrey Moore at 72 Eaton Square - one of London's most prestigious addresses in Belgravia",
+    "Geographic concentration: London elite neighborhoods (Eaton Square, Kensington), NYC, LA, Las Vegas",
+    "Hatton Garden jewelry district connections (Macaulay)",
+    "International reach: UK, France, Italy, Scotland",
+    "Mix of business titans (Murdoch), restaurant entrepreneurs (Morton), fashion/jewelry executives (Monckton)",
+    "Multiple couples and social network connections across UK and US"
+  ]
+}

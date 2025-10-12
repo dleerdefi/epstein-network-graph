@@ -1,0 +1,389 @@
+{
+  "page_number": 18,
+  "file_path": "data/flight_logs_images/page-018.png",
+  "type": "aircraft_flight_log",
+  "content": {
+    "text": "DATE 1993 JAN | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARKS | POINTS OF DEPARTURE & ARRIVAL | FROM | TO | MILEAGE | FLT TIME | REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS | AIRCRAFT CATEGORY\n\n18 '' N908JE CMH TED 3.0 285 JEFFREY\n17 '' '' '' TED BRH 4.0 286 JEFFREY, VIRGINIA\n25 '' '' '' BRH MAO/MA 4.5 287 JEFFREY, PRINCE ANDREW\n1 '' '' '' ABK DAY 4.0 288 JEFFREY, RUBY, GLENN\n7 '' '' '' TED DVN 4.0 289 JEFFREY\n8 '' '' '' DVN NYG 6.0 290 JEFFREY, STEVE WISNER\n15 '' '' '' PB3 DYN 3.5 291 JEFFREY, DIANE, MARIA\n17 '' '' '' DYN TED 4.0 292 JEFFREY\n23 '' '' '' TED STI 5.0 293 JEFFREY, STEVE WISNER, VIRGINIA ROBERTS\n22 '' '' '' STI KED 1.0 294 JEFFREY, STEVE WISNER\n20 '' '' '' TED CVU 1.5 295 JEFFREY, VIRGINIA, NADIA\n25 '' '' '' TED KET 4.0 296 JEFFREY, VIRGINIA, NADIA, MARIA, NASRIN\n26 '' '' '' KET AVG 2.5 297 JEFFREY\n30 [FEB] SENT FROM NYO TO PB3 BECAUSE FOUL WIND CLOUT FARM AND THUS TO\n30 '' '' '' PLG TED 8.0 298 JEFFREY, VIRGINIA\n2 '' '' '' TED BKI 5.5 299 PER CREW\n7 '' '' '' GAV NEW 5.0 300 JEFFREY\n8 '' '' '' MU OUT 2.5 301 JEFFREY\n\nPAGE TOTAL\nAMT. FORWARD: 88.5 + 85.0 = 173.5\nTOTAL TO DATE: 5876 + 738 = 6614\n\nI certify that the statements made by me on this form are true.\n\nPILOT'S SIGNATURE: David Rodgers",
+    "handwritten": true,
+    "typed": false,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "Complete cell-by-cell transcription provided above",
+      "flight_records": [
+        {
+          "date": "3/17/93",
+          "departure": "CMH",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "3.0 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "3/20/93",
+          "departure": "TED",
+          "arrival": "BRH",
+          "aircraft": "N908JE",
+          "flight_time": "4.0 hrs",
+          "passengers": ["Jeffrey", "Virginia"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, VIRGINIA"
+        },
+        {
+          "date": "3/30/93",
+          "departure": "BRH",
+          "arrival": "MAO/MA",
+          "aircraft": "N908JE",
+          "flight_time": "4.5 hrs",
+          "passengers": ["Jeffrey", "Prince Andrew"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, PRINCE ANDREW"
+        },
+        {
+          "date": "4/1/93",
+          "departure": "ABK",
+          "arrival": "DAY",
+          "aircraft": "N908JE",
+          "flight_time": "4.0 hrs",
+          "passengers": ["Jeffrey", "Ruby", "Glenn"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, RUBY, GLENN"
+        },
+        {
+          "date": "4/7/93",
+          "departure": "TED",
+          "arrival": "DVN",
+          "aircraft": "N908JE",
+          "flight_time": "4.0 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "4/8/93",
+          "departure": "DVN",
+          "arrival": "NYG",
+          "aircraft": "N908JE",
+          "flight_time": "6.0 hrs",
+          "passengers": ["Jeffrey", "Steve Wisner"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, STEVE WISNER"
+        },
+        {
+          "date": "4/15/93",
+          "departure": "PB3",
+          "arrival": "DYN",
+          "aircraft": "N908JE",
+          "flight_time": "3.5 hrs",
+          "passengers": ["Jeffrey", "Diane", "Maria"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, DIANE, MARIA"
+        },
+        {
+          "date": "4/17/93",
+          "departure": "DYN",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "4.0 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "4/23/93",
+          "departure": "TED",
+          "arrival": "STI",
+          "aircraft": "N908JE",
+          "flight_time": "5.0 hrs",
+          "passengers": ["Jeffrey", "Steve Wisner", "Virginia Roberts"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, STEVE WISNER, VIRGINIA ROBERTS"
+        },
+        {
+          "date": "4/22/93",
+          "departure": "STI",
+          "arrival": "KED",
+          "aircraft": "N908JE",
+          "flight_time": "1.0 hrs",
+          "passengers": ["Jeffrey", "Steve Wisner"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, STEVE WISNER"
+        },
+        {
+          "date": "4/20/93",
+          "departure": "TED",
+          "arrival": "CVU",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Virginia", "Nadia"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, VIRGINIA, NADIA"
+        },
+        {
+          "date": "4/25/93",
+          "departure": "TED",
+          "arrival": "KET",
+          "aircraft": "N908JE",
+          "flight_time": "4.0 hrs",
+          "passengers": ["Jeffrey", "Virginia", "Nadia", "Maria", "Nasrin"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, VIRGINIA, NADIA, MARIA, NASRIN"
+        },
+        {
+          "date": "4/26/93",
+          "departure": "KET",
+          "arrival": "AVG",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "4/30/93",
+          "departure": "PLG",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "8.0 hrs",
+          "passengers": ["Jeffrey", "Virginia"],
+          "pilot": "David Rodgers",
+          "notes": "SENT FROM NYO TO PB3 BECAUSE FOUL WIND CLOUT FARM AND THUS TO - JEFFREY, VIRGINIA",
+          "special_note": "Aircraft sent from NYO to PB3 due to weather conditions"
+        },
+        {
+          "date": "5/2/93",
+          "departure": "TED",
+          "arrival": "BKI",
+          "aircraft": "N908JE",
+          "flight_time": "5.5 hrs",
+          "passengers": ["Per Crew"],
+          "pilot": "David Rodgers",
+          "notes": "PER CREW"
+        },
+        {
+          "date": "5/7/93",
+          "departure": "GAV",
+          "arrival": "NEW",
+          "aircraft": "N908JE",
+          "flight_time": "5.0 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "5/8/93",
+          "departure": "MU",
+          "arrival": "OUT",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        }
+      ],
+      "date_header": "DATE 1993 MAR",
+      "date_range": "March - May 1993",
+      "starting_month": "March",
+      "starting_year": "1993",
+      "month_changes": ["April entries begin with APR 1 notation", "May entries begin later"]
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey",
+        "context": "Primary passenger appearing in most flights",
+        "occurrences": 15
+      },
+      {
+        "name": "Virginia",
+        "context": "Passenger - frequent traveler",
+        "occurrences": 5
+      },
+      {
+        "name": "Virginia Roberts",
+        "context": "Full name provided - notable figure",
+        "occurrences": 1
+      },
+      {
+        "name": "Prince Andrew",
+        "context": "British Royal - continued presence",
+        "occurrences": 1
+      },
+      {
+        "name": "Ruby",
+        "context": "Passenger",
+        "occurrences": 1
+      },
+      {
+        "name": "Glenn",
+        "context": "Passenger",
+        "occurrences": 1
+      },
+      {
+        "name": "Steve Wisner",
+        "context": "Passenger - appears multiple times",
+        "occurrences": 3
+      },
+      {
+        "name": "Diane",
+        "context": "Passenger",
+        "occurrences": 1
+      },
+      {
+        "name": "Maria",
+        "context": "Passenger - appears multiple times",
+        "occurrences": 2
+      },
+      {
+        "name": "Nadia",
+        "context": "Passenger - appears multiple times",
+        "occurrences": 2
+      },
+      {
+        "name": "Nasrin",
+        "context": "Passenger",
+        "occurrences": 1
+      },
+      {
+        "name": "David Rodgers",
+        "context": "Pilot signature",
+        "occurrences": 1
+      }
+    ],
+    "locations": [
+      {
+        "code": "CMH",
+        "context": "Columbus, OH - frequent location"
+      },
+      {
+        "code": "TED",
+        "context": "Primary hub - most frequent location"
+      },
+      {
+        "code": "BRH",
+        "context": "Airport code"
+      },
+      {
+        "code": "MAO/MA",
+        "context": "Airport code - possibly international"
+      },
+      {
+        "code": "ABK",
+        "context": "Airport code"
+      },
+      {
+        "code": "DAY",
+        "context": "Airport code"
+      },
+      {
+        "code": "DVN",
+        "context": "Airport code"
+      },
+      {
+        "code": "NYG",
+        "context": "Airport code"
+      },
+      {
+        "code": "PB3",
+        "context": "Airport code - frequent location"
+      },
+      {
+        "code": "DYN",
+        "context": "Airport code"
+      },
+      {
+        "code": "STI",
+        "context": "Airport code"
+      },
+      {
+        "code": "KED",
+        "context": "Airport code"
+      },
+      {
+        "code": "CVU",
+        "context": "Airport code"
+      },
+      {
+        "code": "KET",
+        "context": "Airport code"
+      },
+      {
+        "code": "AVG",
+        "context": "Airport code"
+      },
+      {
+        "code": "NYO",
+        "context": "Airport code - mentioned in weather note"
+      },
+      {
+        "code": "PLG",
+        "context": "Airport code"
+      },
+      {
+        "code": "BKI",
+        "context": "Airport code"
+      },
+      {
+        "code": "GAV",
+        "context": "Airport code"
+      },
+      {
+        "code": "NEW",
+        "context": "Airport code"
+      },
+      {
+        "code": "MU",
+        "context": "Airport code"
+      },
+      {
+        "code": "OUT",
+        "context": "Airport code"
+      }
+    ],
+    "aircraft": [
+      {
+        "registration": "N908JE",
+        "context": "Primary aircraft used for all flights"
+      }
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "signature": "David Rodgers",
+        "context": "Pilot's signature at bottom of page",
+        "deciphered": true
+      }
+    ],
+    "stamps": [],
+    "handwriting_analysis": "Consistent handwriting throughout, special notation about aircraft routing due to weather",
+    "page_totals": {
+      "mileage": "88.5 + 85.0 = 173.5",
+      "total_to_date": "5876 + 738 = 6614"
+    },
+    "special_notations": [
+      "Multi-line entry about aircraft being sent from NYO to PB3 due to weather conditions"
+    ]
+  },
+  "metadata": {
+    "time_period": "March - May 1993",
+    "total_flights": 17,
+    "unique_passengers": 11,
+    "primary_aircraft": "N908JE",
+    "pilot": "David Rodgers"
+  },
+  "insights": [
+    "Month transition from March to April 1993 with APR 1 notation, then to May",
+    "First appearance of Virginia Roberts with full name (4/23/93)",
+    "Steve Wisner appears multiple times as passenger",
+    "Multiple young women traveling together (Virginia, Nadia, Maria, Nasrin)",
+    "Special weather-related routing note - aircraft sent from NYO to PB3 due to 'foul wind'",
+    "Date entry (4/30/93) - valid April date",
+    "Complex multi-passenger flights with up to 5 people",
+    "Continued presence of notable passengers from previous pages",
+    "Per Crew entry suggests repositioning flight",
+    "International destinations suggested by various airport codes"
+  ]
+}

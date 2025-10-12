@@ -1,0 +1,620 @@
+{
+  "page_number": 33,
+  "alphabetical_section": "L",
+  "contacts": [
+    {
+      "name": "Lindemann, Adam & Elin-Maria",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "775 Park Avenue apt 10A",
+          "street": "775 Park Avenue",
+          "unit": "apt 10A",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 744 9346 (home)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 585 6110 new",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 863 8896 (m)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 XX6 XXXX (w)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Lindemann, Geromine",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "50 Vandam Court",
+          "street": "50 Vandam Court",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 691 669 56XX",
+          "area_code": "691",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Lindsay, Alex & Jaclyn",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Studio 8",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Bell Cell 5900",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 863[h]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "mobile[cell]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 999 9200 (w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Lindsay, Ludovic",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "10 Montrose Rd",
+          "street": "10 Montrose Rd",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 731 5356 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Lindsley, Blake",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "8904 Ronald Drive",
+          "street": "8904 Ronald Drive",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Sunset Strip",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 310 859 8300",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 310 865 8700 (w)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Linley David",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207-730 7300",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Viscount Linley",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Llegoe, Babis",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 917 860 0600 (m)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 260 2600",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Lister, Paul",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 434 1340 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Livanos, Arriette",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 580 6600 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 xxx xxx",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Lo Cascio Robert",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "122 lane",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "262 6th Ave Apt F",
+          "street": "262 6th Ave",
+          "unit": "Apt F",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "917 620 xx w",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "212 369 8666",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "bobby.locascio@rogerscom.com"
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Loeb, Alex",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001[home]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 [illegible]",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 737 8916 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Lonsdale Richard",
+      "emails": [
+        "Email: rluk@uk.com"
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Lorenzotti, Eva Vivre",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 646 3930",
+          "area_code": "646",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 860 522[100]",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 914 948 9200",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Lorimer, John & Lottie",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "No Hunting [something]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Cell NY (h)",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "914 752 113 (h)",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 631 267 6640",
+          "area_code": "631",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "jlorimer@johnmail.com"
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Louthan Guy J.",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "105 8th Street [CA]",
+          "street": "105 8th Street",
+          "state": "CA",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "619 671 7501 (CA)",
+          "area_code": "619",
+          "geographic_indicator": "San Diego, CA",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "Email: louthan[illegible]@earthlink.n"
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Love, Courtney",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "9556 Heather Rd",
+          "street": "9556 Heather Rd",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Beverly Hills, California 90210",
+          "postal_code": "90210",
+          "geographic_indicator": "Beverly Hills, CA",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 310 550 7776",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 XXX XXXX (m)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Rock musician, Hole frontwoman",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Lowell Ivana",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 917 887 7 (w)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 988 6820",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Loyd Mark",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "147 Crosspond, Old Thr Bow",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Greenwich CT 06831",
+          "city": "Greenwich",
+          "state": "CT",
+          "postal_code": "06831",
+          "geographic_indicator": "Greenwich, Connecticut",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "877714 84770809",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Lucas, Colin",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "01865 276 243",
+          "area_code": "01865",
+          "geographic_indicator": "Oxford, UK",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Mack, Carol & Earl",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "100 Dean Newman",
+          "street": "100 Dean Newman",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York Falls 017[1]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 646 279 01882",
+          "area_code": "646",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 568 8100 w",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "12 Wells Lead Radstone Place",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "Mon Sat Park 10177",
+          "postal_code": "10177",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "212 386 3003 Empire",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 826 2016 NY Home",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 20,
+    "quality": "poor",
+    "legibility": "heavily degraded",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "Courtney Love - Rock musician (Hole)",
+      "David Linley - Viscount Linley"
+    ]
+  },
+  "insights": [
+    "Courtney Love entry with Beverly Hills address",
+    "Viscount Linley (David Linley) - British royal family connection",
+    "Strong NYC presence with multiple Manhattan addresses",
+    "San Diego connection (619 area code)",
+    "Oxford UK connection (01865 area code)",
+    "Greenwich Connecticut presence",
+    "Long Island connections (516, 631 area codes)",
+    "Westchester County NY presence",
+    "Heavy illegibility affecting data quality",
+    "Mix of entertainment, aristocracy, and business contacts"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "medium",
+    "total_contacts": 20,
+    "high_confidence": 7,
+    "medium_confidence": 10,
+    "low_confidence": 3,
+    "extraction_issues": [
+      "Heavy degradation affecting readability",
+      "Multiple partially illegible phone numbers",
+      "Some addresses incomplete or unclear",
+      "Several email addresses partially obscured"
+    ]
+  }
+}

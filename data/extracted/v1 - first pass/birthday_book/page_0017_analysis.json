@@ -1,0 +1,97 @@
+{
+  "page_number": 17,
+  "type": "section_divider",
+  "content": {
+    "text": "FAMILY",
+    "handwritten": false,
+    "typed": true,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "FAMILY\n\nDocument ID:\nHOUSE_OVERSIGHT_000017",
+      "letterhead": "",
+      "main_body": "FAMILY",
+      "captions": [],
+      "margins": [],
+      "annotations": ["HOUSE_OVERSIGHT_000017"],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": null,
+    "date": null,
+    "subject": "Family section beginning",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "section_divider"
+  },
+  "relationships": [],
+  "insights": [
+    "FAMILY section divider - white serif text on black background",
+    "According to TOC, contributors: Paula (mother), Seymour (father), Mark (brother)",
+    "Professional typesetting matches book's formal presentation",
+    "Follows Brooklyn childhood section logically",
+    "Black divider page creates clear section break",
+    "Same design as title page - consistent book formatting",
+    "Family photos and letters expected to follow",
+    "No additional text or decoration - simple divider",
+    "Placement after Brooklyn section suggests chronological organization",
+    "Family section prioritized before Friends and Business sections"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000017",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.128773",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": true,
+    "high_priority": false,
+    "quality_score": 100,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Section divider confirms book's professional production",
+    "Family section placement shows relationship hierarchy",
+    "Paula, Seymour, Mark expected contributors per TOC"
+  ],
+  "investigative_leads": [
+    "Review following pages for Paula Epstein content",
+    "Review following pages for Seymour Epstein content",
+    "Review following pages for Mark Epstein content",
+    "Document family relationships and dynamics shown"
+  ]
+}

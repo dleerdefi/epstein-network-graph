@@ -1,0 +1,141 @@
+{
+  "page_number": 25,
+  "type": "handwritten_letter_seymour",
+  "content": {
+    "text": "Complete page 2 of Seymour's handwritten notes",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "(2)\n\nI was there for 6 Months in 1947\nAnd [text] At enlisted men is Nov.\n1941 - I was Drafted in the Army\nFrom them I Did They last week\nthe Bishop Dodgers - After being\ndischarged in 1945 I [text] at I\nbeing a base ball player - like\nField Job Yankees - 1943 war\n[text] GM Selling alloys & SELLING\nFlorida and also selling Electric Trains\n[text] The hard Football Team also\nThis not join I never was selling\nwith George [text] sewing etc\nOpen another few jobs [text] at\nselling John [text] I also SUPER FIFTY\nArt Sales [text] September working\nfor the painting I worked - having\nthe sale [text] how we a\nconductor for Boston [text]\nwhen electric [text] motor [text]\nHA HA This I did [text] a lot\nThen I got a job in the PARK\nfactory shop from May 16 - 1946\nthen 1953 when I Well [text] IT WAS\nTHEN NEW [text] Then I [text]\n\nST-Yours-\n\nHOUSE_OVERSIGHT_000025",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "George",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          25
+        ]
+      }
+    ],
+    "organizations": [
+      "Army",
+      "Bishop Dodgers",
+      "Yankees"
+    ],
+    "locations": [
+      "Florida",
+      "Boston"
+    ],
+    "dates": [
+      "1947",
+      "Nov. 1941",
+      "1945",
+      "1943",
+      "May 16 1946",
+      "1953"
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Seymour (father)",
+    "recipient": "Jeff (Jeffrey Epstein)",
+    "date": "2003",
+    "subject": "Father's work history",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "handwritten_note_continued"
+  },
+  "relationships": [],
+  "insights": [
+    "Drafted November 1941 - month before Pearl Harbor",
+    "Army service 1941-1945 (WWII veteran)",
+    "Discharged 1945 - end of WWII",
+    "Brooklyn Dodgers baseball connection mentioned",
+    "Multiple post-war jobs listed confusedly",
+    "Baseball player aspirations after discharge",
+    "Yankees mentioned - 1943 wartime",
+    "Selling: alloys, Florida (real estate?), electric trains",
+    "Football team involvement mentioned",
+    "Working with 'George' - sewing mentioned",
+    "'SUPER FIFTY Art Sales' - unclear reference",
+    "Boston conductor reference - possibly trolley/train",
+    "Factory work from May 16, 1946",
+    "1953 reference - year Jeffrey was born",
+    "Handwriting increasingly erratic and confused",
+    "Signed 'ST-Yours-' (Seymour T.)",
+    "Page numbered (2) - continuation from page 24"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000025",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.131810",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [
+      {
+        "identified_as": "ST-Yours-",
+        "confidence": "medium",
+        "style": null,
+        "characteristics": [],
+        "location": null,
+        "matches_pages": []
+      }
+    ],
+    "logos": [],
+    "redactions": []
+  },
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": true,
+    "high_priority": false,
+    "quality_score": 80,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Handwriting deteriorates throughout page",
+    "Confusion increases - possible age-related decline",
+    "WWII service confirmed: 1941-1945",
+    "Working class struggle documented",
+    "Note appears to be old document included posthumously"
+  ],
+  "investigative_leads": [
+    "Verify Seymour's military service records 1941-1945",
+    "Research factory employment May 1946",
+    "Identify 'George' business partner",
+    "Investigate Brooklyn Dodgers connection",
+    "Determine when this was actually written"
+  ]
+}

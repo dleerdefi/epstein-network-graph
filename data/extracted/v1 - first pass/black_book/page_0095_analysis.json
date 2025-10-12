@@ -1,0 +1,405 @@
+{
+  "page_number": 95,
+  "section": "Handwritten Notes and Contacts",
+  "entries": [
+    {
+      "name": "Jeffrey E. Epstein",
+      "category": "Primary",
+      "location": "USA",
+      "addresses": [],
+      "phones": [],
+      "emails": [
+        {
+          "email": "Jeffrey E. Epstein [address notation]",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Jeffrey E. Epstein email reference",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Madeleine Woodall",
+      "category": "Personal",
+      "location": "Unknown",
+      "addresses": [],
+      "phones": [],
+      "notes": "Madeleine Woodall - handwritten entry",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Tim Newcombe",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "cell",
+          "number": "(619) 361-8625",
+          "area_code": "619",
+          "geographic_indicator": "San Diego",
+          "confidence": "high"
+        },
+        {
+          "type": "home",
+          "number": "(619) 481-7633",
+          "area_code": "619",
+          "geographic_indicator": "San Diego",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Tim Newcombe - Glenn Newcombe reference",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Glenn Newcombe",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [],
+      "notes": "Glenn Newcombe - associated with Tim Newcombe",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Charley Palmer",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "(617) 755-1000",
+          "area_code": "617",
+          "geographic_indicator": "Boston",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Charley Palmer",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Joe Pagano",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "(617) 274-0231",
+          "area_code": "617",
+          "geographic_indicator": "Boston",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Joe Pagano",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Christopher (Grand Dames)",
+      "category": "Business",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "(305) 360-1700",
+          "area_code": "305",
+          "geographic_indicator": "Miami",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Christopher - Grand Dames P.B. Spa",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Elan Aviation",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "(305) 233-1045",
+          "area_code": "305",
+          "geographic_indicator": "Miami",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "(305) 233-1240",
+          "area_code": "305",
+          "geographic_indicator": "Miami",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Elan Aviation",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Special Services Personnel",
+      "category": "Service",
+      "location": "Various",
+      "addresses": [],
+      "phones": [],
+      "notes": "Special Services Personnel at Beach Inn (former)",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["General category entry"]
+      }
+    },
+    {
+      "name": "Mr. Albert",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [],
+      "notes": "Mr. Albert (Former)",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Jean Luc Brunel",
+      "category": "Personal",
+      "location": "Unknown",
+      "addresses": [],
+      "phones": [],
+      "notes": "Jean Luc Brunel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Kevin McDonald/McAdJodle",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [],
+      "notes": "Kevin McDonald/McAdJodle",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Name spelling unclear"]
+      }
+    },
+    {
+      "name": "Dana Copperson",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "(772) 335-8555",
+          "area_code": "772",
+          "geographic_indicator": "Port St. Lucie/Treasure Coast",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Dana Copperson - Hay crew",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Eric Anderson",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [],
+      "notes": "Eric Anderson (Emmit) - Aberdeen SA",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Cal",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "(516) 281-4869",
+          "area_code": "516",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Cal",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Mary",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [],
+      "emails": [
+        {
+          "email": "mandy@handspring.com",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Mary - mandy@handspring.com",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Serena",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [],
+      "emails": [
+        {
+          "email": "serenaacd@aol.com",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Serena - serenaacd@aol.com",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "3yar Contact",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [],
+      "emails": [
+        {
+          "email": "3yar@aol.com",
+          "confidence": "high"
+        }
+      ],
+      "notes": "3yar@aol.com contact",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Name unclear"]
+      }
+    },
+    {
+      "name": "Syster",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [],
+      "emails": [
+        {
+          "email": "syster@handspring.com",
+          "confidence": "high"
+        }
+      ],
+      "notes": "syster@handspring.com",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Young Painter",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "(13) 226-6100",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Young Painter - area code unclear",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Area code unclear"]
+      }
+    },
+    {
+      "name": "Jaci Scott",
+      "category": "Personal",
+      "location": "Unknown",
+      "addresses": [],
+      "phones": [],
+      "notes": "Jaci Scott - handwritten entry",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 21,
+    "illegible_entries": 0,
+    "partial_entries": 3,
+    "sections": ["Handwritten Notes", "Contact Directory"],
+    "notable_entries": [
+      "Jeffrey E. Epstein email reference",
+      "Jean Luc Brunel mentioned",
+      "Multiple email addresses at handspring.com and aol.com",
+      "Special Services personnel references",
+      "Mix of US contacts (San Diego, Miami, Boston, Long Island)"
+    ],
+    "geographic_distribution": {
+      "usa": 21,
+      "san_diego": 2,
+      "miami": 4,
+      "boston": 2,
+      "long_island": 1,
+      "treasure_coast": 1,
+      "unknown": 3
+    },
+    "location_highlights": [
+      "San Diego contacts (619)",
+      "Miami contacts (305)",
+      "Boston contacts (617)",
+      "Long Island contact (516)",
+      "Treasure Coast contact (772)",
+      "Various email domains",
+      "Handwritten personal notes"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 17,
+      "medium_confidence": 4,
+      "low_confidence": 0,
+      "specific_issues": [
+        "Some entries partially unclear in Special Services section",
+        "Young Painter area code unclear",
+        "Some names difficult to fully decipher from handwriting"
+      ]
+    }
+  }
+}

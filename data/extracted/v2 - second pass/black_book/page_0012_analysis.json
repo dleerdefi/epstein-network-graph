@@ -1,0 +1,698 @@
+{
+  "page_number": 12,
+  "alphabetical_section": "C",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "012_cohen_peter",
+      "name": {
+        "full_name": "Cohen Peter",
+        "first_name": "Peter",
+        "last_name": "Cohen"
+      },
+      "phones": [
+        {
+          "number": "212 328-7088 Group",
+          "type": "group",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "203 989 1250(h)",
+          "type": "home",
+          "country_code": "+1",
+          "area_code": "203"
+        },
+        {
+          "number": "203 869 2224(fax)",
+          "type": "fax",
+          "country_code": "+1",
+          "area_code": "203"
+        },
+        {
+          "number": "561 695 2370(h)",
+          "type": "home",
+          "country_code": "+1",
+          "area_code": "561"
+        },
+        {
+          "number": "561 514 3311 (f)(h)",
+          "type": "fax_home",
+          "country_code": "+1",
+          "area_code": "561"
+        },
+        {
+          "number": "800 648 9359",
+          "type": "toll_free",
+          "country_code": "+1"
+        }
+      ],
+      "emails": [
+        {
+          "address": "peter@thebox.com",
+          "type": "business"
+        }
+      ],
+      "addresses": [
+        {
+          "full_address": "11 Round Hill Club, Greenwich",
+          "city": "Greenwich",
+          "state": "CT"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "complete",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Multiple phone numbers for different locations"
+    },
+    {
+      "entry_id": "012_coleman_jo",
+      "name": {
+        "full_name": "Coleman, Jo",
+        "first_name": "Jo",
+        "last_name": "Coleman"
+      },
+      "phones": [
+        {
+          "number": "001 973 889 2167",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "973"
+        },
+        {
+          "number": "001 973 889 2177 (h)",
+          "type": "home",
+          "country_code": "+1",
+          "area_code": "973"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "New York",
+          "city": "New York",
+          "state": "NY"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "012_coleridge_nicholas_georgia",
+      "name": {
+        "full_name": "Coleridge, Nicholas & Georgia",
+        "first_name": "Nicholas",
+        "last_name": "Coleridge",
+        "spouse_name": "Georgia",
+        "is_couple": true
+      },
+      "phones": [
+        {
+          "number": "01189 989 0333(h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "1189"
+        },
+        {
+          "number": "01189 989 0354 (h/fax)",
+          "type": "home_fax",
+          "country_code": "+44",
+          "area_code": "1189"
+        },
+        {
+          "number": "020 7499 9080 (business)",
+          "type": "business",
+          "country_code": "+44",
+          "area_code": "20"
+        },
+        {
+          "number": "020 7408 0901 work",
+          "type": "work",
+          "country_code": "+44",
+          "area_code": "20"
+        },
+        {
+          "number": "020 7408 0905 (fax)",
+          "type": "fax",
+          "country_code": "+44",
+          "area_code": "20"
+        }
+      ],
+      "emails": [
+        {
+          "address": "ncoleridge@condenast.co.uk",
+          "type": "business"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "complete",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Condé Nast executive"
+    },
+    {
+      "entry_id": "012_colla_jeffrey",
+      "name": {
+        "full_name": "Colla Jeffrey",
+        "first_name": "Jeffrey",
+        "last_name": "Colla"
+      },
+      "phones": [
+        {
+          "number": "001 216 920 6608(h)",
+          "type": "home",
+          "country_code": "+1",
+          "area_code": "216"
+        },
+        {
+          "number": "001 216 920 5611(w)",
+          "type": "work",
+          "country_code": "+1",
+          "area_code": "216"
+        },
+        {
+          "number": "001 440 443 5556(h/f)",
+          "type": "home_fax",
+          "country_code": "+1",
+          "area_code": "440"
+        },
+        {
+          "number": "001 440 443 5550(w)",
+          "type": "work",
+          "country_code": "+1",
+          "area_code": "440"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Cleveland area codes"
+    },
+    {
+      "entry_id": "012_collins_phil_orianne",
+      "name": {
+        "full_name": "Collins Phil & Orianne",
+        "first_name": "Phil",
+        "last_name": "Collins",
+        "spouse_name": "Orianne",
+        "is_couple": true
+      },
+      "phones": [
+        {
+          "number": "41 22 964 40 14 (h)",
+          "type": "home",
+          "country_code": "+41",
+          "area_code": "22"
+        },
+        {
+          "number": "41 22 964 40 24 (Christina's)",
+          "type": "personal",
+          "country_code": "+41",
+          "area_code": "22",
+          "notes": []
+        },
+        {
+          "number": "41 22 964 40 04 (f)",
+          "type": "fax",
+          "country_code": "+41",
+          "area_code": "22"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Switzerland phone numbers"
+    },
+    {
+      "entry_id": "012_conrad_henrietta",
+      "name": {
+        "full_name": "Conrad, Henrietta",
+        "first_name": "Henrietta",
+        "last_name": "Conrad"
+      },
+      "phones": [
+        {
+          "number": "00 212 570 Mare",
+          "type": "unknown",
+          "notes": "Number appears incomplete"
+        },
+        {
+          "number": "917 701 5309",
+          "type": "mobile",
+          "country_code": "+1",
+          "area_code": "917"
+        },
+        {
+          "number": "0171 259 5147",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "171"
+        },
+        {
+          "number": "0171 723 7316",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "171"
+        },
+        {
+          "number": "0402 783 9908 (m)",
+          "type": "mobile"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "106 Holland St"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": "good"
+      },
+      "formatting_notes": "Mix of US and UK numbers"
+    },
+    {
+      "entry_id": "012_constantine_susannah_sten_ber",
+      "name": {
+        "full_name": "Constantine, Susannah Sten Ber",
+        "first_name": "Susannah Sten Ber",
+        "last_name": "Constantine",
+        "suffix": []
+      },
+      "phones": [
+        {
+          "number": "001 917 237 6370",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "917"
+        },
+        {
+          "number": "001 212 3319377",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "001 212 8323787(hsepal.com)",
+          "type": "home",
+          "country_code": "+1",
+          "area_code": "212"
+        }
+      ],
+      "emails": [
+        {
+          "address": "SContanline@breathmail.ne",
+          "type": "personal"
+        }
+      ],
+      "addresses": [
+        {
+          "full_address": "5030 Madison 6j",
+          "notes": "Apartment 6J"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "complete",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Fashion personality"
+    },
+    {
+      "entry_id": "012_cooke_clive",
+      "name": {
+        "full_name": "Cooke, Clive",
+        "first_name": "Clive",
+        "last_name": "Cooke"
+      },
+      "phones": [
+        {
+          "number": "001 917 7074 1158 Walter",
+          "type": "mobile",
+          "country_code": "+1",
+          "area_code": "917",
+          "notes": "Walter's number"
+        },
+        {
+          "number": "917 307 0556 (w)",
+          "type": "work",
+          "country_code": "+1",
+          "area_code": "917"
+        },
+        {
+          "number": "917 307 0555 (w)",
+          "type": "work",
+          "country_code": "+1",
+          "area_code": "917"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "300 Avenue 9731",
+          "city": "New York",
+          "state": "NY",
+          "zip": "10021"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "012_cotterell_harry",
+      "name": {
+        "full_name": "Cotterell, Harry",
+        "first_name": "Harry",
+        "last_name": "Cotterell"
+      },
+      "phones": [
+        {
+          "number": "0781 412 772",
+          "type": "mobile",
+          "country_code": "+44"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "Balsall House, Benacasmore, Strathyre, Perthshire",
+          "city": "Strathyre",
+          "region": "Perthshire",
+          "country": "Scotland"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Scottish address"
+    },
+    {
+      "entry_id": "012_courcel_martine_de",
+      "name": {
+        "full_name": "Courcel Martine De",
+        "first_name": "Martine",
+        "last_name": "De Courcel"
+      },
+      "phones": [
+        {
+          "number": "00 33 6 80 88 48 65",
+          "type": "mobile",
+          "country_code": "+33",
+          "area_code": "6"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "minimal",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "French mobile number"
+    },
+    {
+      "entry_id": "012_cowdray_marina",
+      "name": {
+        "full_name": "Cowdray, Marina",
+        "first_name": "Marina",
+        "last_name": "Cowdray",
+        "title": "Viscountess"
+      },
+      "phones": [
+        {
+          "number": "0171 351 0088",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "171"
+        },
+        {
+          "number": "01730 819148 (h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "1730"
+        },
+        {
+          "number": "01730 815218 (h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "1730"
+        }
+      ],
+      "emails": [
+        {
+          "address": "marine@cowdray.demon.co.uk",
+          "type": "personal"
+        }
+      ],
+      "addresses": [
+        {
+          "full_address": "Cowdray Park, Midhurst, West Sussex GU29 0AQ",
+          "city": "Midhurst",
+          "county": "West Sussex",
+          "postal_code": "GU29 0AQ",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "complete",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "British nobility"
+    },
+    {
+      "entry_id": "012_cordle_rupert_camilla",
+      "name": {
+        "full_name": "Cordle, Rupert & Camilla",
+        "first_name": "Rupert",
+        "last_name": "Cordle",
+        "spouse_name": "Camilla",
+        "is_couple": true
+      },
+      "phones": [
+        {
+          "number": "020 7225 7810(h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "20"
+        },
+        {
+          "number": "0114 230 114 0000 (mobile Rupert)",
+          "type": "mobile",
+          "notes": "Rupert's mobile"
+        }
+      ],
+      "emails": [
+        {
+          "address": "rucordle@aol.com",
+          "type": "personal"
+        }
+      ],
+      "addresses": [
+        {
+          "full_address": "11 Great Bridge Road SW11",
+          "city": "London",
+          "postal_code": "SW11",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "complete",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "012_cowie_colin",
+      "name": {
+        "full_name": "Cowie, Colin",
+        "first_name": "Colin",
+        "last_name": "Cowie"
+      },
+      "phones": [
+        {
+          "number": "212 938 0000",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "001 212 343 9002(h)",
+          "type": "home",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "001 313 368 0031(h)",
+          "type": "home",
+          "country_code": "+1",
+          "area_code": "313"
+        }
+      ],
+      "emails": [
+        {
+          "address": "info@colincowie.com",
+          "type": "business"
+        }
+      ],
+      "addresses": [
+        {
+          "full_address": "18 E 48th Street, New York, NY 10017",
+          "street": "18 E 48th Street",
+          "city": "New York",
+          "state": "NY",
+          "zip": "10017"
+        },
+        {
+          "full_address": "917 East House St",
+          "notes": "Possible second address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "complete",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Event planner"
+    },
+    {
+      "entry_id": "012_cordova_hohenlohe_Fernando_de",
+      "name": {
+        "full_name": "Cordova Hohenlohe, Fernando de",
+        "first_name": "Fernando de",
+        "last_name": "Cordova Hohenlohe"
+      },
+      "phones": [
+        {
+          "number": "00 33 556 736101",
+          "type": "unknown",
+          "country_code": "+33",
+          "area_code": "556"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "15050 N, 15200 N East Main St",
+          "notes": "Address appears incomplete"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": "good"
+      },
+      "formatting_notes": "Spanish nobility, French phone"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 14,
+    "legibility": "excellent",
+    "notable_features": [
+      "Multiple UK nobility entries (Cowdray)",
+      "Phil Collins (musician) with Swiss numbers",
+      "Nicholas Coleridge (Condé Nast executive)",
+      "Susannah Constantine (fashion personality)",
+      "Colin Cowie (celebrity event planner)",
+      "Mix of US, UK, French, and Swiss contacts"
+    ],
+    "extraction_timestamp": "2025-01-29T14:15:00",
+    "extractor_version": "2.0"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Peter Cohen",
+      "Jo Coleman",
+      "Nicholas Coleridge",
+      "Georgia Coleridge",
+      "Jeffrey Colla",
+      "Phil Collins",
+      "Orianne Collins",
+      "Henrietta Conrad",
+      "Susannah Constantine Sten Ber",
+      "Clive Cooke",
+      "Harry Cotterell",
+      "Martine De Courcel",
+      "Marina Cowdray",
+      "Rupert Cordle",
+      "Camilla Cordle",
+      "Colin Cowie",
+      "Fernando de Cordova Hohenlohe"
+    ],
+    "organizations": [
+      "Apex Capital",
+      "Condé Nast"
+    ],
+    "locations": {
+      "cities": [
+        "Greenwich",
+        "New York",
+        "London",
+        "Midhurst",
+        "Strathyre"
+      ],
+      "states": [
+        "CT",
+        "NY"
+      ],
+      "countries": [
+        "USA",
+        "UK",
+        "Switzerland",
+        "France",
+        "Scotland"
+      ]
+    }
+  },
+  "insights": [
+    "Page contains several high-profile entertainment figures including Phil Collins",
+    "Nicholas Coleridge is a Condé Nast executive with both home and business contacts",
+    "Susannah Constantine is a fashion personality with NYC contacts",
+    "Colin Cowie is a celebrity event planner with multiple US locations",
+    "Marina Cowdray (Viscountess) represents British nobility with estate at Cowdray Park",
+    "Peter Cohen has extensive contact list including toll-free number suggesting business importance",
+    "Multiple couples listed together (Coleridge, Collins, Cordle) indicating social connections",
+    "Swiss phone numbers for Phil Collins suggest residence in Switzerland",
+    "Mix of old UK area codes (0171) and newer ones (020) indicates entries from different time periods",
+    "Several entries with incomplete or mixed address/phone information in same field"
+  ]
+}

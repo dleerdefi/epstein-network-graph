@@ -1,0 +1,699 @@
+{
+  "page_number": 63,
+  "section": "Services and International Contacts",
+  "entries": [
+    {
+      "name": "Tickets",
+      "category": "Service",
+      "subcategory": "For shows and games",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 643 4274 Premium Tickets",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 691 7051 NYC Sports",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "contacts": ["George/Johanna London"],
+      "notes": "Ticket services for shows and games",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Tribeca Grill",
+      "category": "Restaurant",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 941 3900",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Tribeca Grill restaurant",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Two Bunch Palm",
+      "category": "Establishment",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0101 619 329 6791",
+          "area_code": "619",
+          "geographic_indicator": "San Diego, California",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Two Bunch Palm",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Waldorf Astoria",
+      "category": "Hotel",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0101 212 355 3000",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Waldorf Astoria Hotel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Westbury hotel",
+      "category": "Hotel",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 535 2000",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Westbury Hotel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "BRAZIL",
+      "category": "Geographic Section",
+      "entries": [],
+      "notes": "Brazil section header",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Cecilia Szajman",
+      "category": "Personal",
+      "location": "Brazil",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "55 11 30 34 3771 (h)",
+          "area_code": "55",
+          "geographic_indicator": "Brazil",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "55 11 30 08 0563 (f)",
+          "area_code": "55",
+          "geographic_indicator": "Brazil",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Cecilia Szajman - Brazil",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Ganero, Mario Sr.",
+      "category": "Personal",
+      "location": "Brazil",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Roselinaud",
+          "location": "Roselinaud",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Av. Brigadeiro Faria Lima,1485",
+          "street": "Av. Brigadeiro Faria Lima,1485",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "notes": "Mario Ganero Sr. - Brazil, Brigadeiro Faria Lima",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Torre Norte - 19 Andar",
+      "category": "Location",
+      "location": "Brazil",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Sao Paulo, Brazil",
+          "city": "Sao Paulo",
+          "country": "Brazil",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "CEP:01451-912",
+          "postal_code": "01451-912",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01155113813 7011(w)",
+          "area_code": "011",
+          "geographic_indicator": "Brazil",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01155113813 7110 (f)",
+          "area_code": "011",
+          "geographic_indicator": "Brazil",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "ganerosp@brazillinvest.com",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Torre Norte - 19th Floor, Sao Paulo Brazil",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "house in France",
+      "category": "Note",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "01133489761330",
+          "area_code": "33",
+          "geographic_indicator": "France",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01332+1051972 cell in France",
+          "area_code": "33",
+          "geographic_indicator": "France mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "House in France contact",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Riccardo",
+      "category": "Personal",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "81 Pola Drive",
+          "street": "81 Pola Drive",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 55 11 8587 8688",
+          "area_code": "55",
+          "geographic_indicator": "Brazil",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Riccardo - Pola Drive",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "ENTERTAINMENT (E)",
+      "category": "Section Header",
+      "entries": [],
+      "notes": "Entertainment section",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Annabels",
+      "category": "Club",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "071-629 1096",
+          "area_code": "071",
+          "geographic_indicator": "London (old code)",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Annabels club",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Aspinals",
+      "category": "Establishment",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "071-629 4400",
+          "area_code": "071",
+          "geographic_indicator": "London (old code)",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Aspinals",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Bibendum",
+      "category": "Restaurant",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "581 5817",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Bibendum restaurant",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone number incomplete"]
+      }
+    },
+    {
+      "name": "Clermont Club",
+      "category": "Club",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "071-493 5587",
+          "area_code": "071",
+          "geographic_indicator": "London (old code)",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clermont Club",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Daphne",
+      "category": "Restaurant",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "589 4257",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Daphne restaurant",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone number incomplete"]
+      }
+    },
+    {
+      "name": "Foxtrot Oscar",
+      "category": "Restaurant",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "352 7179",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Foxtrot Oscar restaurant",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone number incomplete"]
+      }
+    },
+    {
+      "name": "Harrys Bar",
+      "category": "Bar",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "408 0844",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Harry's Bar",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone number incomplete"]
+      }
+    },
+    {
+      "name": "Marks Club",
+      "category": "Club",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212-499-2936",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Marks Club",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Nam long",
+      "category": "Restaurant",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "373 1926",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Nam Long restaurant",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone number incomplete"]
+      }
+    },
+    {
+      "name": "Nikitas",
+      "category": "Restaurant",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "352 63 28",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Nikitas restaurant",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone number incomplete"]
+      }
+    },
+    {
+      "name": "Patisserie Valerie",
+      "category": "Restaurant/Bakery",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207-823 9971",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Patisserie Valerie",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "San Lorezo",
+      "category": "Restaurant",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "584 1074",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "San Lorenzo restaurant",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone number incomplete"]
+      }
+    },
+    {
+      "name": "Scalinia",
+      "category": "Restaurant",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "225 23 01",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Scalinia restaurant",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone number incomplete"]
+      }
+    },
+    {
+      "name": "Tramp",
+      "category": "Club",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "071-734 3174",
+          "area_code": "071",
+          "geographic_indicator": "London (old code)",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Tramp club",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "FINANCE (F)",
+      "category": "Section Header",
+      "entries": [],
+      "notes": "Finance section",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Bear Stearns",
+      "category": "Financial Institution",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "24 E. Terrace",
+          "street": "24 E. Terrace",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "245 Park Avenue",
+          "street": "245 Park Avenue",
+          "city": "New York",
+          "postal_code": "NY 10167",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 272 4165",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "ext 8142 C 3-413",
+          "extension": "8142 C 3-413",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Bear Stearns - Park Avenue",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Centurion",
+      "category": "Financial Service",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "1877 877 8927",
+          "area_code": "877",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0182 668 808 14606 Card number",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "10004 Expiry date",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Centurion card service",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Card details partially visible"]
+      }
+    },
+    {
+      "name": "Chemical Bank",
+      "category": "Financial Institution",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Madison Ave. & 62nd St.",
+          "street": "Madison Ave. & 62nd St.",
+          "city": "New York",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "New York, NY",
+          "city": "New York",
+          "state": "NY",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212-935-9935",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212-589-5358",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Chemical Banking Wire Dept.",
+        "425 0800 Set-Bus",
+        "800-45-5328 Sec",
+        "Chemical FX Other",
+        "Stop payment no. 935-9535",
+        "212-360-8973"
+      ],
+      "notes": "Chemical Bank - Madison Ave & 62nd St",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 30,
+    "illegible_entries": 0,
+    "partial_entries": 8,
+    "sections": ["Services", "Brazil", "Entertainment", "Finance"],
+    "notable_establishments": [
+      "Waldorf Astoria Hotel",
+      "Tribeca Grill",
+      "Annabels Club London",
+      "Clermont Club London",
+      "Tramp Club London",
+      "Bear Stearns - Park Avenue",
+      "Chemical Bank - Madison & 62nd"
+    ],
+    "geographic_distribution": {
+      "nyc": 10,
+      "london": 8,
+      "brazil": 4,
+      "france": 1,
+      "california": 1,
+      "other": 6
+    },
+    "location_highlights": [
+      "Brazil business connections - Sao Paulo",
+      "London entertainment district clubs",
+      "NYC financial institutions",
+      "Park Avenue financial offices",
+      "International property in France"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 22,
+      "medium_confidence": 7,
+      "low_confidence": 1,
+      "specific_issues": [
+        "Several UK restaurant phone numbers incomplete",
+        "Card details partially visible",
+        "Some phone numbers missing area codes"
+      ]
+    }
+  }
+}

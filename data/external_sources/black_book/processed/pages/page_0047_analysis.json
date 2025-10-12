@@ -1,0 +1,1029 @@
+{
+  "page_number": 47,
+  "alphabetical_section": "B/R",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "047_roaedy_bill",
+      "name": {
+        "full_name": "Roedy, Bill",
+        "prefix": null,
+        "first_name": "Bill",
+        "middle_name": null,
+        "last_name": "Roaedy",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-478 6000",
+          "formatting": "0207-478 6000 (UK London)"
+        },
+        {
+          "type": "work",
+          "number": "0207-383 4250",
+          "formatting": "0207-383 4250 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "24 Hannover House \u2013 Wood Hi St."
+          ],
+          "city": "St. Johns",
+          "state": null,
+          "postal_code": "NW87DX",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "MTV Europe"
+    },
+    {
+      "entry_id": "047_rolfe_gail",
+      "name": {
+        "full_name": "Rolfe, Gail",
+        "prefix": null,
+        "first_name": "Gail",
+        "middle_name": null,
+        "last_name": "Rolfe",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-938 6000",
+          "formatting": "0207-938 6000 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-351 1836",
+          "formatting": "0207-351 1836 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "46-48 Getrud Street"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW10",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "047_ronson_gerald",
+      "name": {
+        "full_name": "Ronson, Mr",
+        "prefix": null,
+        "first_name": "Gerald",
+        "middle_name": null,
+        "last_name": "Ronson",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Mrs Gerald"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-487-2970 (f)",
+          "formatting": "0207-487-2970 (f) (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "0836 202207",
+          "formatting": "0836 202207"
+        },
+        {
+          "type": "unknown",
+          "number": "00 87 11440333 (boat)",
+          "formatting": "00 87 11440333 (boat) (International)"
+        },
+        {
+          "type": "work",
+          "number": "0207-486 4477",
+          "formatting": "0207-486 4477 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0208-458 9309",
+          "formatting": "0208-458 9309 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "07785-975-607 (Gail)",
+          "formatting": "07785-975-607 (Gail)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Carrington Chase, 54 Winnington Road, Hampstead"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "N2 OTY",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "047_rose_wendy_&_jo",
+      "name": {
+        "full_name": "Rose Wendy",
+        "prefix": null,
+        "first_name": "Wendy & Jo",
+        "middle_name": null,
+        "last_name": "Rose",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Jo"
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 720 3200 (Jo)",
+          "formatting": "001 212 720 3200 (Jo) (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 633 9270",
+          "formatting": "001 212 633 9270 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "047_rose_charlie",
+      "name": {
+        "full_name": "Rose, Charlie",
+        "prefix": null,
+        "first_name": "Charlie",
+        "middle_name": null,
+        "last_name": "Rose",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "212-940-1600",
+          "formatting": "212-940-1600"
+        },
+        {
+          "type": "home",
+          "number": "212-249-4645",
+          "formatting": "212-249-4645"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "119 E 71st Street"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "047_burder_amanda",
+      "name": {
+        "full_name": "Burder, Amanda",
+        "prefix": null,
+        "first_name": "Amanda",
+        "middle_name": null,
+        "last_name": "Burder",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "212-940-1600",
+          "formatting": "212-940-1600"
+        },
+        {
+          "type": "home",
+          "number": "212-249-4645",
+          "formatting": "212-249-4645"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "119 E 71st Street"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "047_rosen_andrew",
+      "name": {
+        "full_name": "Rosen, Andrew",
+        "prefix": null,
+        "first_name": "Andrew",
+        "middle_name": null,
+        "last_name": "Rosen",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 556 0614",
+          "formatting": "001 212 556 0614 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 212 496 6644",
+          "formatting": "001 212 496 6644 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 861 4035",
+          "formatting": "001 917 861 4035 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "047_rosen_denis_&_sylvia",
+      "name": {
+        "full_name": "Rosen, Denis",
+        "prefix": null,
+        "first_name": "Denis & Sylvia",
+        "middle_name": null,
+        "last_name": "Rosen",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Sylvia"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0208-883 5377",
+          "formatting": "0208-883 5377 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-267 6991",
+          "formatting": "0207-267 6991 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "01797 226486",
+          "formatting": "01797 226486"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "78 Twyford Ave, Fortis Green N2"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "047_rosencrantz_claudia",
+      "name": {
+        "full_name": "Rosencrantz, Ms Claudia",
+        "prefix": null,
+        "first_name": "Claudia",
+        "middle_name": null,
+        "last_name": "Rosencrantz",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-261 3733",
+          "formatting": "0207-261 3733 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-607 1401",
+          "formatting": "0207-607 1401 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "11 Pottery Lane"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W11 4LY",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "047_rosenfeld_donald",
+      "name": {
+        "full_name": "Rosenfeld Donald",
+        "prefix": null,
+        "first_name": "Donald",
+        "middle_name": null,
+        "last_name": "Rosenfeld",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 535 5379",
+          "formatting": "001 212 535 5379 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 212 462 4101",
+          "formatting": "001 212 462 4101 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 523 0446",
+          "formatting": "001 917 523 0446 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "11 East 68th St, 7G"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "047_rosenstein_rob",
+      "name": {
+        "full_name": "Rosenstein, Rob",
+        "prefix": null,
+        "first_name": "Rob",
+        "middle_name": null,
+        "last_name": "Rosenstein",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 416 4082",
+          "formatting": "001 212 416 4082 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 249 8150",
+          "formatting": "001 212 249 8150 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "047_rosenthal_jane",
+      "name": {
+        "full_name": "Rosenthal, Jane",
+        "prefix": null,
+        "first_name": "Jane",
+        "middle_name": null,
+        "last_name": "Rosenthal",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 941 4044 (wf)",
+          "formatting": "212 941 4044 (wf)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 516 537 8274",
+          "formatting": "001 516 537 8274 (International)"
+        },
+        {
+          "type": "work",
+          "number": "212 941 4040",
+          "formatting": "212 941 4040"
+        },
+        {
+          "type": "home",
+          "number": "212 877 7042",
+          "formatting": "212 877 7042"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "375 Greenwich Street 8th floor"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10013",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Tribeca Productions"
+    },
+    {
+      "entry_id": "047_roth_peter_thomas_&_noreen",
+      "name": {
+        "full_name": "Roth, Peter Thomas",
+        "prefix": null,
+        "first_name": "Peter Thomas & Noreen",
+        "middle_name": null,
+        "last_name": "Roth",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Noreen"
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "212-581-5800",
+          "formatting": "212-581-5800"
+        },
+        {
+          "type": "home",
+          "number": "212-737 7303",
+          "formatting": "212-737 7303"
+        }
+      ],
+      "emails": [
+        {
+          "address": "proth@peterthomasroth.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "52 E 73rd St"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Karbra Co."
+    },
+    {
+      "entry_id": "047_roth_peter_thomas_&_noreen",
+      "name": {
+        "full_name": "Roth, Peter Thomas",
+        "prefix": null,
+        "first_name": "Peter Thomas & Noreen",
+        "middle_name": null,
+        "last_name": "Roth",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Noreen"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 737 2074 (hf)",
+          "formatting": "212 737 2074 (hf)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 581 5810 (wf)",
+          "formatting": "212 581 5810 (wf)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 736 9300 (other office)",
+          "formatting": "212 736 9300 (other office)"
+        },
+        {
+          "type": "home",
+          "number": "212-753-0663 (Parents)",
+          "formatting": "212-753-0663 (Parents)"
+        },
+        {
+          "type": "home",
+          "number": "212-737 7303 (N.)",
+          "formatting": "212-737 7303 (N.)"
+        },
+        {
+          "type": "portable",
+          "number": "917 608 1702 (N)",
+          "formatting": "917 608 1702 (N) (NYC mobile)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "630 5th Avenue, Suite 1406"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10111",
+          "country": "US",
+          "notes": "Fifth Avenue luxury"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Peter Thomas Roth Labs LLC"
+    },
+    {
+      "entry_id": "047_rothchild_jessica",
+      "name": {
+        "full_name": "Rothchild Jessica",
+        "prefix": null,
+        "first_name": "Jessica",
+        "middle_name": null,
+        "last_name": "Rothchild",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "07710 579799",
+          "formatting": "07710 579799"
+        },
+        {
+          "type": "unknown",
+          "number": "0207-243 4525",
+          "formatting": "0207-243 4525 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "047_rothchild_hannah",
+      "name": {
+        "full_name": "Rothchild, Hannah",
+        "prefix": null,
+        "first_name": "Hannah",
+        "middle_name": null,
+        "last_name": "Rothchild",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-286 9784 (private fax)",
+          "formatting": "0207-286 9784 (private fax) (UK London)"
+        },
+        {
+          "type": "work",
+          "number": "0207-493 8111",
+          "formatting": "0207-493 8111 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-289 0035",
+          "formatting": "0207-289 0035 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "5 Clifton Villas"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W92 PH",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "047_rothenburg_rich",
+      "name": {
+        "full_name": "Rothenburg, Rich",
+        "prefix": null,
+        "first_name": "Rich",
+        "middle_name": null,
+        "last_name": "Rothenburg",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 893 5300",
+          "formatting": "001 212 893 5300 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 744 9341",
+          "formatting": "001 212 744 9341 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 239 7424",
+          "formatting": "001 917 239 7424 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "01 646 436 3283",
+          "formatting": "01 646 436 3283"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "047_rotherwick_tania_&_robin",
+      "name": {
+        "full_name": "Rotherwick, Tania",
+        "prefix": null,
+        "first_name": "Tania & Robin",
+        "middle_name": null,
+        "last_name": "Rotherwick",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Robin"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "07887-985 801",
+          "formatting": "07887-985 801"
+        },
+        {
+          "type": "home",
+          "number": "0207-937 9999",
+          "formatting": "0207-937 9999 (UK London)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "tania.thornton@omgroup.co",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "21 Ansdell Street"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W8 5BN",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Orc Software Ltd."
+    },
+    {
+      "entry_id": "047_rotherwick_tania_&_robin",
+      "name": {
+        "full_name": "Rotherwick, Tania",
+        "prefix": null,
+        "first_name": "Tania & Robin",
+        "middle_name": null,
+        "last_name": "Rotherwick",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Robin"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "01608-811 600 (country)",
+          "formatting": "01608-811 600 (country)"
+        },
+        {
+          "type": "work",
+          "number": "0207-942 0949",
+          "formatting": "0207-942 0949 (UK London)"
+        },
+        {
+          "type": "work",
+          "number": "0207-393 1642 (diana)",
+          "formatting": "0207-393 1642 (diana) (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "01865 858730",
+          "formatting": "01865 858730"
+        },
+        {
+          "type": "home",
+          "number": "0207-722 1240 (diana)",
+          "formatting": "0207-722 1240 (diana) (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Cornbury Park"
+          ],
+          "city": "Charlbury",
+          "state": null,
+          "postal_code": "OX7 3EH",
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Orc Software Ltd."
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 19,
+    "entries_with_emails": 2,
+    "entries_with_addresses": 14,
+    "entries_with_handwritten_notes": 0,
+    "couples": 7,
+    "average_confidence": "high",
+    "notable_figures_count": 0
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Roedy, Bill",
+      "Rolfe, Gail",
+      "Ronson, Mr",
+      "Mrs Gerald",
+      "Rose Wendy",
+      "Jo",
+      "Rose, Charlie",
+      "Burder, Amanda",
+      "Rosen, Andrew",
+      "Rosen, Denis",
+      "Sylvia",
+      "Rosencrantz, Ms Claudia",
+      "Rosenfeld Donald",
+      "Rosenstein, Rob",
+      "Rosenthal, Jane",
+      "Roth, Peter Thomas",
+      "Noreen",
+      "Roth, Peter Thomas",
+      "Noreen",
+      "Rothchild Jessica",
+      "Rothchild, Hannah",
+      "Rothenburg, Rich",
+      "Rotherwick, Tania",
+      "Robin",
+      "Rotherwick, Tania",
+      "Robin"
+    ],
+    "organizations": [
+      "Peter Thomas Roth Labs LLC",
+      "Orc Software Ltd.",
+      "Orc Software Ltd."
+    ],
+    "locations": {
+      "international": [
+        "UK"
+      ],
+      "us_cities": [
+        "Charlbury",
+        "New York",
+        "London",
+        "St. Johns"
+      ],
+      "elite_addresses": [
+        "630 5th Avenue, Suite 1406"
+      ]
+    }
+  },
+  "insights": [
+    "Geographic cluster: London (6 entries)",
+    "Geographic cluster: New York (6 entries)"
+  ]
+}

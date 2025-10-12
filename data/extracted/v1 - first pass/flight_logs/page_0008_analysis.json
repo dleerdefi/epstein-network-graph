@@ -1,0 +1,293 @@
+{
+  "page_number": 8,
+  "file_path": "data/flight_logs_images/page-008.png",
+  "type": "aircraft_flight_log",
+  "content": {
+    "text": "DATE | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARKS | POINTS OF DEPARTURE & ARRIVAL | FROM | TO | MILEAGE | FLY TIME | REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS | AIRCRAFT CATEGORY\n\n26 N108JE 12/12/97 TEB EEN CINDY + KELLY, GHISLAINE, SARAH KELLEN, [?] ROSS MAXWELL, ALAN DERSHOWITZ, JEAN LUC BRUNEL\n10 '' '' HPN PBI 30 116 JUAN\n11-12 [108JE] '' BRI PBI 115 ALL GM, VIRGINIA ROBERTS, JEFFREY, JEAN LUC\n16 '' '' TEB CMH 15 117 KELLY\n23 '' '' CMH TEB 21 118 KELLY, KRISTINE LARSON, SK, LULU\n26 '' '' TEB BOS 06 119 JEFFREY\n27 '' '' BOS TEB 16 120 JEFFREY\n26 '' '' TEB PBI 24 121 JEFFREY, EMAN MISKA, BOB\n219 '' '' PBI CYEM 15 122 JEFFREY\n214 '' '' CYEM PBI 14 123 JEFFREY + 2, TOM\n112 '' '' PBI TEB 20 124 JEFFREY, 2, VIC REAGAN, RITA\n2 '' '' TEB PBI 28 125 JEFFREY, KELLY, [?] KIMBERLY, RITA, JEFFREY SLIM\n2 '' '' PBI TEB 25 126 JE + GM + GWENDOLYN, KELLY, RITA, LYNN\n18 '' '' TEB CMH 20 127 GB, [?] JEFFREY\n21 '' '' CMH PBI 20 128 JM, GHISLAINE\n26 '' '' PBI TEB 52 129 JEFFREY, JLB [?], DAVID N LECARR\n22 '' '' TEB SLN 27 130 JEFFREY, GHIZLAINE, SARAH, KELLI LISA\n23 '' '' SLN BAC 31 JEFFREY, G, NICK MARTIN, 1, [?]\n\nPAGE TOTAL\nAMT. FORWARD: 348 + [?] + 1812.3 = [?]\nTOTAL TO DATE: 348 + 1812.3 = 2160.3\n\nI certify that the statements made by me on this form are true.\n\nPILOT'S SIGNATURE: David Rodgers",
+    "handwritten": true,
+    "typed": false,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "Complete cell-by-cell transcription provided above",
+      "flight_records": [
+        {
+          "date": "1/26/92",
+          "departure": "TEB",
+          "arrival": "EEN",
+          "aircraft": "N108JE",
+          "flight_time": "",
+          "passengers": ["Cindy", "Kelly", "Ghislaine", "Sarah Kellen", "Ross", "Maxwell", "Alan Dershowitz", "Jean Luc Brunel"],
+          "pilot": "David Rodgers",
+          "notes": "CINDY + KELLY, GHISLAINE, SARAH KELLEN, [?] ROSS MAXWELL, ALAN DERSHOWITZ, JEAN LUC BRUNEL"
+        },
+        {
+          "date": "1/10/92",
+          "departure": "HPN",
+          "arrival": "PBI",
+          "aircraft": "N108JE",
+          "flight_time": "3.0 hrs",
+          "passengers": ["Juan"],
+          "pilot": "David Rodgers",
+          "notes": "JUAN"
+        },
+        {
+          "date": "1/11-12/92",
+          "departure": "BRI",
+          "arrival": "PBI",
+          "aircraft": "N108JE",
+          "flight_time": "",
+          "passengers": ["GM", "Virginia Roberts", "Jeffrey", "Jean Luc"],
+          "pilot": "David Rodgers",
+          "notes": "ALL GM, VIRGINIA ROBERTS, JEFFREY, JEAN LUC"
+        },
+        {
+          "date": "1/16/92",
+          "departure": "TEB",
+          "arrival": "CMH",
+          "aircraft": "N108JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Kelly"],
+          "pilot": "David Rodgers",
+          "notes": "KELLY"
+        },
+        {
+          "date": "1/23/92",
+          "departure": "CMH",
+          "arrival": "TEB",
+          "aircraft": "N108JE",
+          "flight_time": "2.1 hrs",
+          "passengers": ["Kelly", "Kristine Larson", "SK", "Lulu"],
+          "pilot": "David Rodgers",
+          "notes": "KELLY, KRISTINE LARSON, SK, LULU"
+        },
+        {
+          "date": "1/26/92",
+          "departure": "TEB",
+          "arrival": "BOS",
+          "aircraft": "N108JE",
+          "flight_time": "0.6 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "1/27/92",
+          "departure": "BOS",
+          "arrival": "TEB",
+          "aircraft": "N108JE",
+          "flight_time": "1.6 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "1/26/92",
+          "departure": "TEB",
+          "arrival": "PBI",
+          "aircraft": "N108JE",
+          "flight_time": "2.4 hrs",
+          "passengers": ["Jeffrey", "Eman Miska", "Bob"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, EMAN MISKA, BOB"
+        },
+        {
+          "date": "2/19/92",
+          "departure": "PBI",
+          "arrival": "CYEM",
+          "aircraft": "N108JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "2/14/92",
+          "departure": "CYEM",
+          "arrival": "PBI",
+          "aircraft": "N108JE",
+          "flight_time": "1.4 hrs",
+          "passengers": ["Jeffrey", "2", "Tom"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY + 2, TOM"
+        },
+        {
+          "date": "2/12/92",
+          "departure": "PBI",
+          "arrival": "TEB",
+          "aircraft": "N108JE",
+          "flight_time": "2.0 hrs",
+          "passengers": ["Jeffrey", "2", "Vic Reagan", "Rita"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, 2, VIC REAGAN, RITA"
+        },
+        {
+          "date": "2/2/92",
+          "departure": "TEB",
+          "arrival": "PBI",
+          "aircraft": "N108JE",
+          "flight_time": "2.8 hrs",
+          "passengers": ["Jeffrey", "Kelly", "Kimberly", "Rita", "Jeffrey", "Slim"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, KELLY, [?] KIMBERLY, RITA, JEFFREY SLIM"
+        },
+        {
+          "date": "2/2/92",
+          "departure": "PBI",
+          "arrival": "TEB",
+          "aircraft": "N108JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["JE", "GM", "Gwendolyn", "Kelly", "Rita", "Lynn"],
+          "pilot": "David Rodgers",
+          "notes": "JE + GM + GWENDOLYN, KELLY, RITA, LYNN"
+        },
+        {
+          "date": "2/18/92",
+          "departure": "TEB",
+          "arrival": "CMH",
+          "aircraft": "N108JE",
+          "flight_time": "2.0 hrs",
+          "passengers": ["GB", "Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "GB, [?] JEFFREY"
+        },
+        {
+          "date": "2/21/92",
+          "departure": "CMH",
+          "arrival": "PBI",
+          "aircraft": "N108JE",
+          "flight_time": "2.0 hrs",
+          "passengers": ["JM", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JM, GHISLAINE"
+        },
+        {
+          "date": "1/26/92",
+          "departure": "PBI",
+          "arrival": "TEB",
+          "aircraft": "N108JE",
+          "flight_time": "5.2 hrs",
+          "passengers": ["Jeffrey", "JLB", "David N Lecarr"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, JLB [?], DAVID N LECARR"
+        },
+        {
+          "date": "2/22/92",
+          "departure": "TEB",
+          "arrival": "SLN",
+          "aircraft": "N108JE",
+          "flight_time": "2.7 hrs",
+          "passengers": ["Jeffrey", "Ghizlaine", "Sarah", "Kelli Lisa"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHIZLAINE, SARAH, KELLI LISA"
+        },
+        {
+          "date": "1/23/92",
+          "departure": "SLN",
+          "arrival": "BAC",
+          "aircraft": "N108JE",
+          "flight_time": "3.1 hrs",
+          "passengers": ["Jeffrey", "G", "Nick Martin", "1"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, G, NICK MARTIN, 1, [?]"
+        }
+      ],
+      "headers": ["DATE", "AIRCRAFT MAKE AND MODEL", "AIRCRAFT IDENTIFICATION MARKS", "POINTS OF DEPARTURE & ARRIVAL", "FROM", "TO", "MILEAGE", "FLY TIME", "REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS", "AIRCRAFT CATEGORY"],
+      "annotations": ["12/12/97", "ALL", "JEFFREY SLIM", "JE + GM", "GB", "JM", "JLB", "[?] entries indicate unclear text"]
+    }
+  },
+  "entities": {
+    "people": [
+      "Cindy",
+      "Kelly",
+      "Ghislaine",
+      "Sarah Kellen",
+      "Ross",
+      "Maxwell",
+      "Alan Dershowitz",
+      "Jean Luc Brunel",
+      "Juan",
+      "GM",
+      "Virginia Roberts",
+      "Jeffrey",
+      "Jean Luc",
+      "Kristine Larson",
+      "SK",
+      "Lulu",
+      "Eman Miska",
+      "Bob",
+      "Tom",
+      "Vic Reagan",
+      "Rita",
+      "Kimberly",
+      "Jeffrey Slim",
+      "JE",
+      "Gwendolyn",
+      "Lynn",
+      "GB",
+      "JM",
+      "David N Lecarr",
+      "JLB",
+      "Ghizlaine",
+      "Sarah",
+      "Kelli Lisa",
+      "G",
+      "Nick Martin",
+      "David Rodgers"
+    ],
+    "organizations": [],
+    "locations": [
+      "TEB",
+      "EEN",
+      "HPN",
+      "PBI",
+      "BRI",
+      "CMH",
+      "BOS",
+      "CYEM",
+      "SLN",
+      "BAC"
+    ],
+    "dates": ["1/10/92", "1/11-12/92", "1/16/92", "1/23/92", "1/26/92", "1/27/92", "2/2/92", "2/12/92", "2/14/92", "2/18/92", "2/19/92", "2/21/92", "2/22/92"],
+    "aircraft": ["N108JE"],
+    "phones": [],
+    "emails": []
+  },
+  "visual_elements": {
+    "signatures": ["David Rodgers (pilot signature at bottom)"],
+    "stamps": [],
+    "corrections": ["Some unclear text marked with [?]", "Mathematical calculations in totals"],
+    "redactions": []
+  },
+  "metadata": {
+    "log_type": "passenger_and_cargo_manifest",
+    "time_period": "January-February 1992",
+    "total_flights": 18,
+    "page_condition": "good with some unclear text",
+    "aircraft_registration": "N108JE",
+    "running_total_hours": "2160.3",
+    "handwriting_notes": "Date numbering continues unusual pattern (219, 214, 112)"
+  },
+  "insights": [
+    "ALAN DERSHOWITZ appears again with large group including Ghislaine and Sarah Kellen",
+    "JEAN LUC BRUNEL appears - fashion agent later accused in trafficking case",
+    "VIRGINIA ROBERTS appears again with GM, Jeffrey, and Jean Luc",
+    "SARAH KELLEN explicitly named - known Epstein associate/employee",
+    "Date 12/12/97 appears - going back to 1997 records",
+    "Unusual date numbers continue: 219, 214, 112 - possibly Julian day counting",
+    "KRISTINE LARSON appears as new passenger",
+    "SK abbreviation - possibly Sarah Kellen",
+    "EMAN MISKA appears as passenger",
+    "VIC REAGAN appears - possibly Victoria Reagan",
+    "JEFFREY SLIM notation - possibly referring to someone else or nickname",
+    "JE + GM notation confirms Jeffrey Epstein and Ghislaine Maxwell",
+    "DAVID N LECARR appears as passenger",
+    "JLB abbreviation - possibly Jean Luc Brunel",
+    "KELLI LISA appears as passenger",
+    "NICK MARTIN appears as passenger",
+    "HPN (Westchester County Airport) appears as new location",
+    "BRI appears as departure point",
+    "BOS (Boston) appears as destination",
+    "SLN and BAC appear as new airport codes",
+    "Large group of 8 people on first flight including Dershowitz and Brunel"
+  ]
+}

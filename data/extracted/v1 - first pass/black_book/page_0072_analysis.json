@@ -1,0 +1,608 @@
+{
+  "page_number": 72,
+  "section": "E-G Names",
+  "entries": [
+    {
+      "name": "Epstein, Jeffrey",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "9 East 71st St @ Fifth Ave",
+          "street": "9 East 71st Street @ Fifth Avenue",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212-371-8042",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "email_note",
+          "number": "Email: JE-277-8 @ aol.com",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 903 1918 [Cell B]",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 903 1919 [Cell C]",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 903 1920 [Cell D]",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "786 290 0131 (Miami) (2)",
+          "area_code": "786",
+          "geographic_indicator": "Miami",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "786 290 0132 (Miami) (3)",
+          "area_code": "786",
+          "geographic_indicator": "Miami",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "786 290 0133 (Miami) (4)",
+          "area_code": "786",
+          "geographic_indicator": "Miami",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "786 209 0051 [Cell (GM) A]",
+          "area_code": "786",
+          "geographic_indicator": "Miami",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "786 209 0052 [Cell (GM) B]",
+          "area_code": "786",
+          "geographic_indicator": "Miami",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "786 299 [illegible] house",
+          "area_code": "786",
+          "geographic_indicator": "Miami",
+          "confidence": "medium"
+        },
+        {
+          "type": "Alfredo",
+          "number": "718 997 6113 Alfredo (off)",
+          "area_code": "718",
+          "geographic_indicator": "NYC outer boroughs",
+          "confidence": "high"
+        },
+        {
+          "type": "Alfredo Clairmont",
+          "number": "718 997 5067 Alfredo(off) Clairmont",
+          "area_code": "718",
+          "geographic_indicator": "NYC outer boroughs",
+          "confidence": "high"
+        },
+        {
+          "type": "Clairmont",
+          "number": "917 317 5029 Al Clairmont (B)",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "JE-277-8@aol.com",
+          "confidence": "high"
+        }
+      ],
+      "additional_contacts": [
+        "Alfredo",
+        "Al Clairmont"
+      ],
+      "notes": "Jeffrey Epstein - East 71st Street @ Fifth Avenue NYC, multiple cell phones",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One Miami house number partially illegible"]
+      }
+    },
+    {
+      "name": "Epstein, Mark",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "80 Columbus Circle",
+          "street": "80 Columbus Circle",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10087",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 336 5340",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "786 022 1369",
+          "area_code": "786",
+          "geographic_indicator": "Miami",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Mark Epstein - Columbus Circle NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Epstein, Paula",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1035 Fifth Avenue #15",
+          "street": "1035 Fifth Avenue #15",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 879 6911",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 319 9988 Cell",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "paula.epstein1@gmail.com",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "60 W 57 street",
+        "Arthur office",
+        "631 204 0378 Joyce Michayluk",
+        "601-308-8934 (p)"
+      ],
+      "notes": "Paula Epstein - Fifth Avenue NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Farkas, Andrew",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "200 East 66th Street",
+          "street": "200 East 66th Street",
+          "city": "New York",
+          "state": "NY",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "NYC 11th Floor Apt C",
+          "floor": "11th Floor Apt C",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 940 5500 (o)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 991 6600 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Andrew Farkas - East 66th Street NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Farkas, Jonathan D.",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "725 5th Avenue",
+          "street": "725 5th Avenue",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "H",
+          "number": "212 274 0808 H",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "Off",
+          "number": "212 223 7450 Off",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "718 939 4321",
+          "area_code": "718",
+          "geographic_indicator": "NYC outer boroughs",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Direct: Richard Martin",
+        "917 843 8123",
+        "David: Annette street",
+        "212 273 1236 (cell)",
+        "917 670 7432",
+        "Direct: Farkas (H)",
+        "718 940 4312"
+      ],
+      "notes": "Jonathan D. Farkas - 5th Avenue NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Federal Express",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "800 (Fed) 3339",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "7900 278 1116 Automative Priorities",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Acct # 1154-7892-2 West Hotel",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "7900 278 1116",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Acct # 0025 2033",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Acct # 1154 7892-2",
+          "confidence": "high"
+        },
+        {
+          "type": "International",
+          "number": "212-542-4141 International",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Account numbers for various services"
+      ],
+      "notes": "Federal Express - Multiple account numbers and services",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Foster, Taylor",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "516 809 1095",
+          "area_code": "516",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "516 809 3599 (Home)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "516 656 5012 (Cell)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        },
+        {
+          "type": "Cheryl",
+          "number": "516 656 5012 (Cheryl)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 838 5512 cell",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        }
+      ],
+      "additional_contacts": [
+        "Cheryl"
+      ],
+      "notes": "Taylor Foster - Long Island",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Gany, Eric",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "854 Fifth Avenue",
+          "street": "854 Fifth Avenue",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "203 622 0700",
+          "area_code": "203",
+          "geographic_indicator": "Connecticut",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 847 2437",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "203 552 4739",
+          "area_code": "203",
+          "geographic_indicator": "Connecticut",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Bruce Alvar",
+        "Jeffrey Motor",
+        "212 879 2034 Assistant (Voice)",
+        "212 879 [illegible]",
+        "212 759 Floridian Pope North"
+      ],
+      "notes": "Eric Gany - Fifth Avenue",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One phone number partially illegible"]
+      }
+    },
+    {
+      "name": "Gell-man Murray",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1388 Farrell Trail Rd",
+          "street": "1388 Farrell Trail Road",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "San Juan 87565",
+          "city": "San Juan",
+          "postal_code": "87565",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "505 984 8443",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 984 8765",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Phone: 629 6944 Office",
+        "Public 629 6667/721",
+        "Phone: 629 629 6724 Home",
+        "Public: 629 6727 Cell",
+        "Cell 676 667 276 0",
+        "Pager 216 6160",
+        "Public Beeper: 661",
+        "Private 9897 cell",
+        "Public: 637 4487",
+        "207 655 1789 (M)",
+        "207 891 1177 (off)"
+      ],
+      "notes": "Murray Gell-man - San Juan NM",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Gilman, Kenneth",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "122 Locust",
+          "street": "122 Locust",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "235 Beach, Columbus Avenue",
+          "street": "235 Beach, Columbus Avenue",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "516 990 1130",
+          "area_code": "516",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 363 3333 M",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 829 1102 H",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 838 0424",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Kenneth Gilman - Multiple NYC addresses",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 10,
+    "illegible_entries": 0,
+    "partial_entries": 2,
+    "sections": ["E-G Names"],
+    "notable_entries": [
+      "Jeffrey Epstein - East 71st @ Fifth Avenue with 14+ phone numbers",
+      "Mark Epstein - Columbus Circle",
+      "Paula Epstein - Fifth Avenue",
+      "Andrew Farkas - East 66th Street",
+      "Murray Gell-man - San Juan NM (Nobel physicist)",
+      "Federal Express - Multiple account numbers"
+    ],
+    "geographic_distribution": {
+      "usa": 10,
+      "nyc": 7,
+      "miami": 2,
+      "new_mexico": 1
+    },
+    "location_highlights": [
+      "Jeffrey Epstein - 9 East 71st Street @ Fifth Avenue",
+      "Multiple Epstein family entries",
+      "Columbus Circle NYC (Mark Epstein)",
+      "San Juan NM (Murray Gell-man)"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 8,
+      "medium_confidence": 1,
+      "low_confidence": 1,
+      "specific_issues": [
+        "One Miami house number partially illegible",
+        "Some secondary phone numbers unclear"
+      ]
+    }
+  }
+}

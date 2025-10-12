@@ -1,0 +1,134 @@
+{
+  "page_number": 77,
+  "file_path": "data/birthday_book_images/page_0077.png",
+  "file_size_mb": 1.0885295867919922,
+  "type": "official_documents",
+  "content": {
+    "text": "[Top: Black and white photo of building with columns]\n[Middle: Blue card/patch with text: MARK TWAIN JHS]\n[Bottom: American flag card with Pledge of Allegiance]\nI pledge allegiance to the flag of the United States\nof America and to the Republic for which it stands,\none nation, under God, indivisible, with liberty and\njustice for all.\n©1997 Pearl Publishing",
+    "handwritten": false,
+    "typed": true,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "MARK TWAIN JHS (on blue card/patch)\n\nI pledge allegiance to the flag of the United States\nof America and to the Republic for which it stands,\none nation, under God, indivisible, with liberty and\njustice for all.\n\n©1997 Pearl Publishing",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [],
+    "organizations": [
+      {
+        "name": "Mark Twain JHS",
+        "type": "Junior High School",
+        "context": "School emblem/patch",
+        "confidence": "high"
+      },
+      {
+        "name": "Pearl Publishing",
+        "type": "Publisher",
+        "context": "Copyright holder of pledge card",
+        "confidence": "high"
+      },
+      {
+        "name": "United States of America",
+        "type": "Country",
+        "confidence": "high"
+      }
+    ],
+    "locations": [
+      "United States of America"
+    ],
+    "dates": [
+      {
+        "date": "1997",
+        "context": "Copyright date on pledge card",
+        "confidence": "high"
+      }
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Official documents and Pledge of Allegiance",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "official_documents"
+  },
+  "insights": [
+    "Page contains official/patriotic imagery and text",
+    "Includes Pledge of Allegiance in full",
+    "Government building photograph suggests official or ceremonial context",
+    "Formal presentation with official emblems"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000077",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.158248",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Black and white photograph of Mark Twain JHS building entrance with columns",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": null,
+        "era_indicators": [],
+        "photo_quality": null,
+        "photo_type": null
+      }
+    ],
+    "signatures": [],
+    "logos": [
+      "Mark Twain JHS emblem with laurel wreath and diamond shape on blue background"
+    ],
+    "redactions": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Three items: school photo, school emblem, pledge card",
+    "Mark Twain Junior High School building photo",
+    "Mark Twain JHS emblem/patch with laurel wreath design",
+    "American flag pledge card ©1997 Pearl Publishing",
+    "Items suggest school memorabilia collection",
+    "Building photo shows classical architecture with columns",
+    "Blue and white school colors on emblem",
+    "Document stamped HOUSE_OVERSIGHT_000077",
+    "Connects to earlier Mark Twain JHS references in book"
+  ],
+  "investigative_leads": []
+}

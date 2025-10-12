@@ -1,0 +1,315 @@
+{
+  "page_number": 41,
+  "document_type": "Flight Log",
+  "metadata": {
+    "time_period": "April - May 1996",
+    "header_date": "1996 APR",
+    "pilot": "David Rodgers",
+    "aircraft_registration": "N908JE",
+    "aircraft_make_model": "G1159B",
+    "total_flight_time_page": "48:10",
+    "amt_forward": "6639:08",
+    "total_to_date": "6687:18"
+  },
+  "flights": [
+    {
+      "date": "04/22/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:02",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "04/26/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:03",
+      "passengers": "JE, GM, 3 PAX",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "04/29/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:03",
+      "passengers": "JE, GM, AMBER GREENE, 1 MALE, 1 FEMALE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "05/02/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "EDW",
+      "flight_time": "6:02",
+      "passengers": "JE, ELIZABETH SHANNON 4, DAVID",
+      "crew": "RICHARD ALAN, ELIZABETH WYKHOFF",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "05/03/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "EDW",
+      "arrival": "EWR",
+      "flight_time": "5:03",
+      "passengers": "JE, G. PINTO COLLINS, ELIZABETH WYKHOFF",
+      "crew": "LINDA PINTO AND ROBERT",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "05/11/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "EWR",
+      "arrival": "LFPB",
+      "flight_time": "7:00",
+      "passengers": "JE, PAMELA JOHNSON/WSE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "05/16/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "LFPB",
+      "arrival": "LSGC",
+      "flight_time": "1:07",
+      "passengers": "JE, PAMELA JOHNSON/WSE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "05/18/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "LSGC",
+      "arrival": "EWR",
+      "flight_time": "1:08",
+      "passengers": "JE, PAMELA JOHNSON",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "05/18/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "EWR",
+      "arrival": "TEB",
+      "flight_time": "6:05",
+      "passengers": "JE, PAMELA JOHNSON/WSE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "05/06/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "MDLR",
+      "flight_time": "3:03",
+      "passengers": "JE, GM, KIMBERLYN KOTERO",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "05/06/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "MDLR",
+      "arrival": "MGGT",
+      "flight_time": "1:04",
+      "passengers": "JE, GM, KIMBERLYN KOTERO",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "05/08/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "MGGT",
+      "arrival": "PBI",
+      "flight_time": "1:05",
+      "passengers": "JE, GM, KIMBERLYN KOTERO",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "05/09/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "CMH",
+      "flight_time": "2:01",
+      "passengers": "JE, GM, AS, 2 FEMALES",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "05/09/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "CMH",
+      "arrival": "TEB",
+      "flight_time": "1:01",
+      "passengers": "JE, GM, AS, 1 FEMALE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "05/13/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:01",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "05/13/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:02",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "05/17/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "SDH",
+      "flight_time": "4:10",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "05/22/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "SDH",
+      "arrival": "PBI",
+      "flight_time": "3:01",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "05/22/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:02",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "05/24/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:02",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "05/27/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:02",
+      "passengers": "JE, GM, ANDREE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    }
+  ],
+  "entities": {
+    "people": [
+      {"name": "Jeffrey Epstein", "abbreviation": "JE", "role": "Primary passenger"},
+      {"name": "Ghislaine Maxwell", "abbreviation": "GM", "role": "Frequent passenger"},
+      {"name": "Andy Stewart", "abbreviation": "AS", "role": "Regular passenger"},
+      {"name": "Amber Greene", "role": "Passenger"},
+      {"name": "Elizabeth Shannon", "role": "Passenger"},
+      {"name": "David", "role": "Passenger"},
+      {"name": "Richard Alan", "role": "Crew member"},
+      {"name": "Elizabeth Wykhoff", "role": "Passenger/Crew"},
+      {"name": "G. Pinto Collins", "role": "Passenger"},
+      {"name": "Linda Pinto", "role": "Crew member"},
+      {"name": "Robert", "role": "Crew member"},
+      {"name": "Pamela Johnson", "role": "Passenger (WSE notation)"},
+      {"name": "Kimberlyn Kotero", "role": "Passenger"},
+      {"name": "Andree", "role": "Passenger"},
+      {"name": "David Rodgers", "role": "Pilot"}
+    ],
+    "locations": [
+      {"code": "PBI", "name": "Palm Beach International Airport", "location": "West Palm Beach, FL"},
+      {"code": "TEB", "name": "Teterboro Airport", "location": "Teterboro, NJ"},
+      {"code": "EDW", "name": "Edwards Air Force Base", "location": "Edwards, CA"},
+      {"code": "EWR", "name": "Newark Liberty International Airport", "location": "Newark, NJ"},
+      {"code": "LFPB", "name": "Paris–Le Bourget Airport", "location": "Paris, France"},
+      {"code": "LSGC", "name": "Les Eplatures Airport", "location": "La Chaux-de-Fonds, Switzerland"},
+      {"code": "MDLR", "name": "La Romana International Airport", "location": "La Romana, Dominican Republic"},
+      {"code": "MGGT", "name": "La Aurora International Airport", "location": "Guatemala City, Guatemala"},
+      {"code": "CMH", "name": "John Glenn Columbus International Airport", "location": "Columbus, OH"},
+      {"code": "SDH", "name": "Unknown airport", "location": "Unknown"}
+    ],
+    "aircraft": [
+      {"registration": "N908JE", "type": "Gulfstream G1159B", "category": "Private Jet"}
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {"location": "bottom_left", "description": "David Rodgers pilot signature", "legibility": "clear"}
+    ],
+    "stamps": [],
+    "markings": [
+      {"type": "page_number", "content": "41", "location": "bottom_center"},
+      {"type": "total_time", "content": "48:10", "location": "bottom_right"}
+    ]
+  },
+  "insights": [
+    "Page transitions from April to May 1996",
+    "International travel to Paris and Switzerland (May 11-18)",
+    "Caribbean routing through Dominican Republic and Guatemala (May 6-8)",
+    "Edwards Air Force Base appears as destination",
+    "Pamela Johnson travels with WSE notation (possibly business-related)",
+    "Kimberlyn Kotero appears on Caribbean flights",
+    "Amber Greene appears as new passenger",
+    "Multiple same-day flights on 5/6, 5/9, 5/13, 5/18, 5/22",
+    "Elizabeth Shannon and Elizabeth Wykhoff appear",
+    "Pinto family members (G. Pinto Collins, Linda Pinto)",
+    "European trip spans May 11-18",
+    "Pattern of TEB-PBI corridor continues",
+    "Increased international destinations",
+    "Date sequencing issue: May 6 flights appear after May 18"
+  ],
+  "corrections": {
+    "date_inference": "Page 41 covers late April through May 1996",
+    "actual_dates_from_png": "Verified from PNG: April 22, 26, 29, then May 2, 3, 6, 6, 8, 9, 9, 11, 13, 13, 16, 17, 18, 18, 22, 22, 24, 27",
+    "continuity": "Continues from page 40 which ended early April 1996",
+    "correction_note": "Corrected to show April-May 1996 based on PNG verification"
+  },
+  "pilot_signature": "David Rodgers",
+  "page_total": "48:10 hours"
+}

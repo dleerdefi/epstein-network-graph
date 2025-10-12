@@ -1,0 +1,774 @@
+{
+  "page_number": 14,
+  "alphabetical_section": "D",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "014_debaecque_patrick",
+      "name": {
+        "full_name": "de Baecque, Patrick",
+        "first_name": "Patrick",
+        "last_name": "de Baecque"
+      },
+      "phones": [
+        {
+          "number": "05 21 2524 5682 (w)",
+          "type": "work",
+          "country_code": null,
+          "area_code": "05"
+        }
+      ],
+      "emails": [
+        {
+          "address": "ppvd.jz@hotmail.com",
+          "type": "personal"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "014_decabrol_milly",
+      "name": {
+        "full_name": "de Cabrol, Milly",
+        "first_name": "Milly",
+        "last_name": "de Cabrol"
+      },
+      "phones": [
+        {
+          "number": "001 646 596 8814",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "646"
+        },
+        {
+          "number": "001 212 696 9997",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "001 847 234 4220 Glen Jeff p",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "847",
+          "notes": "Glen Jeff reference"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "499 Park Avenue",
+          "street": "499 Park Avenue",
+          "city": "New York",
+          "state": "NY"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "014_decadenet_alen",
+      "name": {
+        "full_name": "De Cadenet, Alen",
+        "first_name": "Alen",
+        "last_name": "De Cadenet"
+      },
+      "phones": [
+        {
+          "number": "001 310 859 8821",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "310"
+        },
+        {
+          "number": "001 310 859 8814(fax)",
+          "type": "fax",
+          "country_code": "+1",
+          "area_code": "310"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Los Angeles area codes"
+    },
+    {
+      "entry_id": "014_declermont_tonnerre_hermione",
+      "name": {
+        "full_name": "de Clermont-Tonnerre, Hermione",
+        "first_name": "Hermione",
+        "last_name": "de Clermont-Tonnerre"
+      },
+      "phones": [
+        {
+          "number": "Alexa**",
+          "type": "unknown",
+          "notes": "Partial entry"
+        },
+        {
+          "number": "12 Rue St. Bened",
+          "type": "unknown",
+          "notes": "Address in phone field"
+        },
+        {
+          "number": "Paris VII",
+          "type": "unknown",
+          "notes": "Paris district"
+        },
+        {
+          "number": "01711 821 1880(h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "171"
+        },
+        {
+          "number": "01711 800 1080 p",
+          "type": "mobile",
+          "country_code": "+44",
+          "area_code": "171"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "12 Rue St. Bened, Paris VII",
+          "street": "12 Rue St. Bened",
+          "city": "Paris",
+          "district": "VII",
+          "country": "France"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "French nobility"
+    },
+    {
+      "entry_id": "014_degeorgiou_anouska",
+      "name": {
+        "full_name": "De Georgiou, Anouska",
+        "first_name": "Anouska",
+        "last_name": "De Georgiou"
+      },
+      "phones": [
+        {
+          "number": "001 646 660 5200",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "646"
+        },
+        {
+          "number": "0207 408 7213 Room's Band",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "207",
+          "notes": "Room's Band reference"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "140 Wardour Road UK",
+          "street": "140 Wardour Road",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "014_desoto_fernando",
+      "name": {
+        "full_name": "De Soto, Fernando",
+        "first_name": "Fernando",
+        "last_name": "De Soto"
+      },
+      "phones": [
+        {
+          "number": "011 927 592 8424(dw)",
+          "type": "work_direct",
+          "country_code": "+1",
+          "area_code": "927"
+        },
+        {
+          "number": "00 341 575 5555",
+          "type": "unknown",
+          "country_code": "+34",
+          "area_code": "1"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "Monte Pla Abacad 21, Madrid, Spain",
+          "street": "Monte Pla Abacad 21",
+          "city": "Madrid",
+          "country": "Spain"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "014_dedieu_jean_paulette",
+      "name": {
+        "full_name": "Dedieu Jean & Paulette",
+        "first_name": "Jean & Paulette",
+        "last_name": "Dedieu",
+        "notes": []
+      },
+      "phones": [
+        {
+          "number": "917 Fawn Adriano Padua",
+          "type": "unknown",
+          "notes": "Address or name mixed in"
+        },
+        {
+          "number": "002 212 496 0000 (w)",
+          "type": "work",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "010 9170 8854(p)",
+          "type": "mobile",
+          "area_code": "917"
+        },
+        {
+          "number": "Rio de Janeiro 22 21 piv",
+          "type": "unknown",
+          "notes": "Rio location reference"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": "good"
+      },
+      "formatting_notes": "Mixed format entry"
+    },
+    {
+      "entry_id": "014_delbono_luca",
+      "name": {
+        "full_name": "Del Bono, Luca",
+        "first_name": "Luca",
+        "last_name": "Del Bono"
+      },
+      "phones": [
+        {
+          "number": "001 212 838 4900",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "001 917 270 5775(c)",
+          "type": "mobile",
+          "country_code": "+1",
+          "area_code": "917"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "520 W 1aven Avenue #5005 New York NY 10014",
+          "street": "520 W 1aven Avenue #5005",
+          "city": "New York",
+          "state": "NY",
+          "zip": "10014"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "014_dellal_adam",
+      "name": {
+        "full_name": "Dell, Adam",
+        "first_name": "Adam",
+        "last_name": "Dell"
+      },
+      "phones": [
+        {
+          "number": "001 512 314 6937 (c)",
+          "type": "mobile",
+          "country_code": "+1",
+          "area_code": "512"
+        },
+        {
+          "number": "001 512 330 8080",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "512"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Austin, TX area codes"
+    },
+    {
+      "entry_id": "014_deluca_dina_fouard_chartuuni",
+      "name": {
+        "full_name": "Deluca Dina & Fouard Chartuuni",
+        "first_name": "Dina",
+        "last_name": "Deluca",
+        "spouse_name": "Fouard Chartuuni",
+        "is_couple": true
+      },
+      "phones": [
+        {
+          "number": "001 212 4",
+          "type": "unknown",
+          "notes": "Incomplete number"
+        },
+        {
+          "number": "0071 Carp",
+          "type": "unknown",
+          "notes": "Unclear format"
+        },
+        {
+          "number": "New York, NY 10028",
+          "type": "unknown",
+          "notes": "Address in phone field"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "New York, NY 10028",
+          "city": "New York",
+          "state": "NY",
+          "zip": "10028"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": "good"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "014_dickenson_debbie",
+      "name": {
+        "full_name": "Dickenson, Debbie",
+        "first_name": "Debbie",
+        "last_name": "Dickenson"
+      },
+      "phones": [
+        {
+          "number": "516 0 76 6",
+          "type": "unknown",
+          "notes": "Incomplete number"
+        },
+        {
+          "number": "212 755 5440",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "001 212 755 5440",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "212"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "014_dickenson_janice",
+      "name": {
+        "full_name": "Dickenson, Janice",
+        "first_name": "Janice",
+        "last_name": "Dickenson"
+      },
+      "phones": [
+        {
+          "number": "001 310 271 0028 (h)",
+          "type": "home",
+          "country_code": "+1",
+          "area_code": "310"
+        },
+        {
+          "number": "001 310 271 5448 (h)",
+          "type": "home",
+          "country_code": "+1",
+          "area_code": "310"
+        },
+        {
+          "number": "001 310 999 5151 Cade & Roger",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "310",
+          "notes": "Cade & Roger reference"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Beverly Hills area codes"
+    },
+    {
+      "entry_id": "014_derby_earl_cntess_cass_ted",
+      "name": {
+        "full_name": "Derby Earl /Cntess Cass & Ted",
+        "title": "Earl/Countess",
+        "first_name": "Cass & Ted",
+        "last_name": "Derby",
+        "is_couple": true
+      },
+      "phones": [
+        {
+          "number": "0207 32 13022 (h2)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "207"
+        },
+        {
+          "number": "0207 32 13022 (f)(s)",
+          "type": "fax",
+          "country_code": "+44",
+          "area_code": "207"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "British nobility"
+    },
+    {
+      "entry_id": "014_dietrich_marc_antoine_cath",
+      "name": {
+        "full_name": "Dietrich,Marc Antoine",
+        "first_name": "Marc Antoine",
+        "spouse_name": "Cath",
+        "last_name": "Dietrich"
+      },
+      "phones": [
+        {
+          "number": "01 Ave Montagne",
+          "type": "unknown",
+          "notes": "Address fragment"
+        },
+        {
+          "number": "00 331 5308 3300",
+          "type": "unknown",
+          "country_code": "+33",
+          "area_code": "1"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "01 Ave Montagne",
+          "notes": "Partial address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "014_dietrich_paul_laura",
+      "name": {
+        "full_name": "Dietrich, Paul & Laura",
+        "first_name": "Paul",
+        "last_name": "Dietrich",
+        "spouse_name": "Laura",
+        "is_couple": true
+      },
+      "phones": [
+        {
+          "number": "914(w) 723 9092 (w)",
+          "type": "work",
+          "country_code": "+1",
+          "area_code": "914"
+        },
+        {
+          "number": "914 723 9090 (home)",
+          "type": "home",
+          "country_code": "+1",
+          "area_code": "914"
+        },
+        {
+          "number": "0161 445 1665 (w)",
+          "type": "work",
+          "country_code": "+44",
+          "area_code": "161"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "24 Meadowgate St. (home) Manchester",
+          "street": "24 Meadowgate St.",
+          "city": "Manchester",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "President of Meridian Emerging Markets, Ltd"
+    },
+    {
+      "entry_id": "014_derby_ros_jonathan",
+      "name": {
+        "full_name": "Derby, Ros & Jonathan",
+        "first_name": "Ros",
+        "last_name": "Derby",
+        "spouse_name": "Jonathan",
+        "is_couple": true
+      },
+      "phones": [
+        {
+          "number": "001 760 318 3039(h)",
+          "type": "home",
+          "country_code": "+1",
+          "area_code": "760"
+        },
+        {
+          "number": "001 323 376 2625(w)",
+          "type": "work",
+          "country_code": "+1",
+          "area_code": "323"
+        },
+        {
+          "number": "001 310 990 1000(o)( cell)",
+          "type": "office_mobile",
+          "country_code": "+1",
+          "area_code": "310"
+        },
+        {
+          "number": "001 310 474 2989(w)",
+          "type": "work",
+          "country_code": "+1",
+          "area_code": "310"
+        },
+        {
+          "number": "001 310 280 7953(h)",
+          "type": "home",
+          "country_code": "+1",
+          "area_code": "310"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "500 Bellagio Bel-6 ve/azza, Argenta Taormina-94122, Empire, CA",
+          "state": "CA",
+          "notes": "Complex address formatting"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": "good"
+      },
+      "formatting_notes": "California area codes"
+    },
+    {
+      "entry_id": "014_divitta_charlotte",
+      "name": {
+        "full_name": "Di Vitta, Charlotte",
+        "first_name": "Charlotte",
+        "last_name": "Di Vitta"
+      },
+      "phones": [
+        {
+          "number": "917 539 0789 (c)",
+          "type": "mobile",
+          "country_code": "+1",
+          "area_code": "917"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "minimal",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "014_dimbelby_johnathan",
+      "name": {
+        "full_name": "Dimbelby, Johnathan",
+        "first_name": "Johnathan",
+        "last_name": "Dimbelby"
+      },
+      "phones": [
+        {
+          "number": "0207 352 1058",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "207"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "minimal",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 18,
+    "legibility": "excellent",
+    "notable_features": [
+      "Earl and Countess of Derby",
+      "Multiple French nobility entries (de Clermont-Tonnerre)",
+      "Mix of European and American contacts",
+      "Several incomplete or mixed format entries",
+      "Beverly Hills/Los Angeles concentration",
+      "Spanish and French addresses"
+    ],
+    "extraction_timestamp": "2025-01-29T15:30:00",
+    "extractor_version": "2.0"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Patrick de Baecque",
+      "Milly de Cabrol",
+      "Alen De Cadenet",
+      "Hermione de Clermont-Tonnerre",
+      "Anouska De Georgiou",
+      "Fernando De Soto",
+      "Jean Dedieu",
+      "Paulette Dedieu",
+      "Luca Del Bono",
+      "Adam Dell",
+      "Dina Deluca",
+      "Fouard Chartuuni",
+      "Debbie Dickenson",
+      "Janice Dickenson",
+      "Earl of Derby",
+      "Countess Cass Derby",
+      "Ted Derby",
+      "Marc Antoine Dietrich",
+      "Cath Dietrich",
+      "Paul Dietrich",
+      "Laura Dietrich",
+      "Ros Derby",
+      "Jonathan Derby",
+      "Charlotte Di Vitta",
+      "Johnathan Dimbelby"
+    ],
+    "organizations": [],
+    "locations": {
+      "cities": [
+        "New York",
+        "Los Angeles",
+        "Beverly Hills",
+        "Paris",
+        "Madrid",
+        "Manchester",
+        "Austin",
+        "Rio de Janeiro"
+      ],
+      "states": [
+        "NY",
+        "CA",
+        "TX"
+      ],
+      "countries": [
+        "USA",
+        "UK",
+        "France",
+        "Spain",
+        "Brazil"
+      ]
+    }
+  },
+  "insights": [
+    "Page contains Earl and Countess of Derby indicating British aristocratic connections",
+    "French nobility represented by Hermione de Clermont-Tonnerre",
+    "Strong Beverly Hills/Los Angeles presence with multiple 310 area codes",
+    "Adam Dell entry with Austin TX numbers (512 area code)",
+    "Mix of incomplete entries suggesting ongoing updates to contact information",
+    "Several couples listed together (Derby, Dietrich, Deluca)",
+    "International scope from Rio de Janeiro to Madrid to Paris",
+    "Janice Dickenson (supermodel) appears with Beverly Hills contacts",
+    "Multiple entries show addresses mixed into phone number fields",
+    "Manchester UK connection through Paul & Laura Dietrich"
+  ]
+}

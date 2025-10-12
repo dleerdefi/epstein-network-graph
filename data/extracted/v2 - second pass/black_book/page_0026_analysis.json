@@ -1,0 +1,679 @@
+{
+  "page_number": 26,
+  "alphabetical_section": "H",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "026_hefner_iii_bob",
+      "name": {
+        "full_name": "Hefner III, Bob",
+        "prefix": null,
+        "first_name": "Bob",
+        "middle_name": null,
+        "last_name": "Hefner",
+        "suffix": "III"
+      },
+      "phones": [
+        {"type": "home", "number": "001 405 948 7840(h)", "formatting": "International to US"},
+        {"type": "home", "number": "001 405 235 3101", "formatting": "International to US"},
+        {"type": "home", "number": "001 405 835 8800 (OOBY)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Oklahoma area codes"
+    },
+    {
+      "entry_id": "026_heiden_lisa",
+      "name": {
+        "full_name": "Heiden Lisa",
+        "prefix": null,
+        "first_name": "Lisa",
+        "middle_name": null,
+        "last_name": "Heiden",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "00 33 1 42 61 53 89", "formatting": "International to France"},
+        {"type": "home", "number": "00 33 6 07 39 02 14", "formatting": "French mobile"},
+        {"type": "fax", "number": "00 33 142 61 86 51 (fax)", "formatting": "International to France"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["54 Ave Montaigne", "75008"],
+          "city": "Paris",
+          "postal_code": "75008",
+          "country": "France"
+        }
+      ],
+      "handwritten_notes": ["00 33 1", "001 405 00 55 72 34 LE", "(713 30404216 (p)"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Paris fashion district address"
+    },
+    {
+      "entry_id": "026_heineken_mr_freddie",
+      "name": {
+        "full_name": "Heineken, Mr Freddie",
+        "prefix": "Mr",
+        "first_name": "Freddie",
+        "middle_name": null,
+        "last_name": "Heineken",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "00 31 5 5414101 ( h)", "formatting": "International to Netherlands"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Domaine de Grange", "1296 Coppet"],
+          "city": "Coppet",
+          "country": "Switzerland"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Heineken brewery family"
+    },
+    {
+      "entry_id": "026_helen_tim_shifter",
+      "name": {
+        "full_name": "Helen and Tim Shifter",
+        "prefix": null,
+        "first_name": "Helen",
+        "middle_name": null,
+        "last_name": null,
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Tim Shifter"
+      },
+      "phones": [
+        {"type": "home", "number": "NY NY 10021", "formatting": "Address only"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["NY NY 10021"],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Upper East Side NYC"
+    },
+    {
+      "entry_id": "026_helvin_marie",
+      "name": {
+        "full_name": "Helvin, Marie",
+        "prefix": null,
+        "first_name": "Marie",
+        "middle_name": null,
+        "last_name": "Helvin",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207-584 7594", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Model"
+    },
+    {
+      "entry_id": "026_herbert_jason",
+      "name": {
+        "full_name": "Herbert Jason",
+        "prefix": null,
+        "first_name": "Jason",
+        "middle_name": null,
+        "last_name": "Herbert",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001(7-725 3262", "formatting": "International - unclear"},
+        {"type": "mobile", "number": "0917-758 0590", "formatting": "Mobile"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "medium"
+      },
+      "formatting_notes": "Phone numbers unclear"
+    },
+    {
+      "entry_id": "026_hermes_olga_olaf",
+      "name": {
+        "full_name": "Hermes, Olga & Olaf",
+        "prefix": null,
+        "first_name": "Olga",
+        "middle_name": null,
+        "last_name": "Hermes",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Olaf"
+      },
+      "phones": [
+        {"type": "home", "number": "001-212 874 0400 (Sy)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["100 West 57th Street", "New York, NY"],
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Hermès family connection"
+    },
+    {
+      "entry_id": "026_herrero_juan_helen",
+      "name": {
+        "full_name": "Herrero, Juan & Helen",
+        "prefix": null,
+        "first_name": "Juan",
+        "middle_name": null,
+        "last_name": "Herrero",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Helen"
+      },
+      "phones": [
+        {"type": "home", "number": "00 212 702 9100", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Edgerton House"],
+          "notes": "Property name"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "medium"
+      },
+      "formatting_notes": "US contact"
+    },
+    {
+      "entry_id": "026_hersov_robert_kim",
+      "name": {
+        "full_name": "Hersov, Robert & Kim",
+        "prefix": null,
+        "first_name": "Robert",
+        "middle_name": null,
+        "last_name": "Hersov",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Kim"
+      },
+      "phones": [
+        {"type": "home", "number": "001 203 661 0860", "formatting": "International to US"},
+        {"type": "home", "number": "001 203 531 1503", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["21 Theledrop Dr.", "Greenwich"],
+          "city": "Greenwich",
+          "state": "CT",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": ["001-203-656 0940", "001-203-656 0942 Robert's"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Greenwich, CT - wealthy suburb"
+    },
+    {
+      "entry_id": "026_heseltine_annabel",
+      "name": {
+        "full_name": "Heseltine, Ms Annabel",
+        "prefix": "Ms",
+        "first_name": "Annabel",
+        "middle_name": null,
+        "last_name": "Heseltine",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207-738 2727(h)", "formatting": "UK format"},
+        {"type": "home", "number": "0956 277 6890 (p)", "formatting": "UK mobile"},
+        {"type": "work", "number": "0207-631 8890 (w)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["4 Palace Gardens Mews", "Kensington W8"],
+          "city": "London",
+          "postal_code": "W8",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Kensington address"
+    },
+    {
+      "entry_id": "026_heseltine_rupert",
+      "name": {
+        "full_name": "Heseltine, Rupert",
+        "prefix": null,
+        "first_name": "Rupert",
+        "middle_name": null,
+        "last_name": "Heseltine",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 712 1016(h)", "formatting": "International to US"},
+        {"type": "home", "number": "001 591 8776", "formatting": "International"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Related to Michael Heseltine family"
+    },
+    {
+      "entry_id": "026_hicks_india",
+      "name": {
+        "full_name": "Hicks India",
+        "prefix": null,
+        "first_name": "India",
+        "middle_name": null,
+        "last_name": "Hicks",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 917 538 2290", "formatting": "International to US"},
+        {"type": "home", "number": "001 212 794 5490(h)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["David Flintwood", "Hibiscus Hill"],
+          "notes": "Address unclear"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "low"
+      },
+      "formatting_notes": "NYC contact"
+    },
+    {
+      "entry_id": "026_heseltine_mr_mrs",
+      "name": {
+        "full_name": "Heseltine, Mr & Mrs",
+        "prefix": "Mr",
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Heseltine",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Mrs Heseltine"
+      },
+      "phones": [
+        {"type": "home", "number": "0207-617267", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Thenford House"],
+          "notes": "Property name"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "medium"
+      },
+      "formatting_notes": "Michael Heseltine's estate"
+    },
+    {
+      "entry_id": "026_heseline_mr_mrs_alternative",
+      "name": {
+        "full_name": "Heseline, Mr & Mrs",
+        "prefix": "Mr",
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Heseline",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Mrs Heseline"
+      },
+      "phones": [
+        {"type": "home", "number": "London SW13", "formatting": "Address only"},
+        {"type": "home", "number": "0208-993 9172 (w)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["London SW13"],
+          "city": "London",
+          "postal_code": "SW13",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Alternative spelling - possibly same as above"
+    },
+    {
+      "entry_id": "026_hill_anthony",
+      "name": {
+        "full_name": "Hill, Anthony",
+        "prefix": null,
+        "first_name": "Anthony",
+        "middle_name": null,
+        "last_name": "Hill",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207-351 1096 (h)", "formatting": "UK format"},
+        {"type": "work", "number": "0207-824 8487 (w)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["195 Draicott Gardens", "London SW3"],
+          "city": "London",
+          "postal_code": "SW3",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": ["WORK 485 30134", "Swan Art Smith"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Chelsea address"
+    },
+    {
+      "entry_id": "026_himmelstein_howard",
+      "name": {
+        "full_name": "Himmelstein, Howard",
+        "prefix": null,
+        "first_name": "Howard",
+        "middle_name": null,
+        "last_name": "Himmelstein",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "212-620-0099", "formatting": "US format"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "NYC contact"
+    },
+    {
+      "entry_id": "026_hirsch_jeff",
+      "name": {
+        "full_name": "Hirsch, Jeff",
+        "prefix": null,
+        "first_name": "Jeff",
+        "middle_name": null,
+        "last_name": "Hirsch",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "917 882 1630 Scott (c)", "formatting": "US format"},
+        {"type": "home", "number": "917 855 5638 Scott (c)", "formatting": "US format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Liberty Travel", "122 East 42nd Street"],
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Liberty Travel business"
+    },
+    {
+      "entry_id": "026_hissom_robert_andrea",
+      "name": {
+        "full_name": "Hissom, Robert & Andrea",
+        "prefix": null,
+        "first_name": "Robert",
+        "middle_name": null,
+        "last_name": "Hissom",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Andrea"
+      },
+      "phones": [
+        {"type": "home", "number": "0207- 584 8916(h)", "formatting": "UK format"},
+        {"type": "home", "number": "0467- 584 491399", "formatting": "Mobile"},
+        {"type": "work", "number": "0207-256 1240 (w)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["135 Sloan Street", "London SW"],
+          "city": "London",
+          "postal_code": "SW",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": ["00 1-713 4 5589 and", "00 1-713 649 58 USA old", "00 1-713 6425-21 Home"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Sloane Street - upscale area"
+    },
+    {
+      "entry_id": "026_hoffman_dustin",
+      "name": {
+        "full_name": "Hoffman, Dustin",
+        "prefix": null,
+        "first_name": "Dustin",
+        "middle_name": null,
+        "last_name": "Hoffman",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 631 5121(h)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Actor"
+    },
+    {
+      "entry_id": "026_hoffman_hetty",
+      "name": {
+        "full_name": "Hoffman, Hetty",
+        "prefix": null,
+        "first_name": "Hetty",
+        "middle_name": null,
+        "last_name": "Hoffman",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "mobile", "number": "0767-312 4354 (m)", "formatting": "UK mobile"},
+        {"type": "home", "number": "01 392 662 006 h A", "formatting": "UK format"},
+        {"type": "fax", "number": "01392 665 4287(f)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["c/o The Wes Assoc"],
+          "notes": "Business address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "medium"
+      },
+      "formatting_notes": "UK contact"
+    },
+    {
+      "entry_id": "026_601_873_6900",
+      "name": {
+        "full_name": null,
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": null,
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 601 873 6900", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "phones": "high"
+      },
+      "formatting_notes": "Orphan number - Mississippi area code"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 21,
+    "legibility": "excellent",
+    "page_condition": "good",
+    "notes": "Notable entries include Freddie Heineken (brewery heir), Michael Heseltine family members, Dustin Hoffman (actor), Marie Helvin (model), and Hermès family connections"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Bob Hefner III",
+      "Lisa Heiden",
+      "Freddie Heineken",
+      "Helen",
+      "Tim Shifter",
+      "Marie Helvin",
+      "Jason Herbert",
+      "Olga Hermes",
+      "Olaf Hermes",
+      "Juan Herrero",
+      "Helen Herrero",
+      "Robert Hersov",
+      "Kim Hersov",
+      "Annabel Heseltine",
+      "Rupert Heseltine",
+      "India Hicks",
+      "Mr Heseltine",
+      "Mrs Heseltine",
+      "Anthony Hill",
+      "Howard Himmelstein",
+      "Jeff Hirsch",
+      "Robert Hissom",
+      "Andrea Hissom",
+      "Dustin Hoffman",
+      "Hetty Hoffman"
+    ],
+    "organizations": [
+      "Heineken",
+      "Hermès",
+      "Liberty Travel"
+    ],
+    "locations": [
+      "Oklahoma City, OK",
+      "Paris, France",
+      "Coppet, Switzerland",
+      "Netherlands",
+      "New York, NY",
+      "London, UK",
+      "Greenwich, CT",
+      "Mississippi"
+    ]
+  },
+  "insights": [
+    "Freddie Heineken - brewery family patriarch",
+    "Heseltine family entries - related to Michael Heseltine (UK politician)",
+    "Dustin Hoffman - Academy Award winning actor",
+    "Marie Helvin - famous British model",
+    "Hermès luxury family represented",
+    "Multiple Paris fashion district addresses (Avenue Montaigne)",
+    "Greenwich, CT connections indicating wealthy East Coast elite",
+    "Kensington and Chelsea London addresses",
+    "Mix of European business dynasties and entertainment figures",
+    "Several entries with Swiss and Netherlands connections"
+  ]
+}

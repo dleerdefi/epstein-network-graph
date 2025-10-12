@@ -1,0 +1,1343 @@
+{
+  "page_number": 13,
+  "alphabetical_section": "C-D",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "page13_crabiss_sophie",
+      "name": {
+        "full_name": "Crabiss, Sophie",
+        "title": null,
+        "first_name": "Sophie",
+        "last_name": "Crabiss",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0712 600 631 XXXbe (mobile)",
+          "type": "mobile",
+          "label": "mobile",
+          "country_code": null,
+          "area_code": "0712",
+          "extension": null,
+          "notes": "UK mobile",
+          "is_primary": false,
+          "formatting": "0712 600 631 XXXbe"
+        },
+        {
+          "number": "0114 328 384 355",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": "0114",
+          "extension": null,
+          "notes": "UK Sheffield area",
+          "is_primary": false,
+          "formatting": "0114 328 384 355"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "224 Crombie Court\nManchester Square, London",
+          "street_line1": "224 Crombie Court",
+          "street_line2": "Manchester Square",
+          "city": "London",
+          "state_province": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Marylebone area"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "medium",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page13_cudro_alaister",
+      "name": {
+        "full_name": "Cudro, Alaister",
+        "title": null,
+        "first_name": "Alaister",
+        "last_name": "Cudro",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "00 9716 789 6XXX (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "00 971",
+          "area_code": "6",
+          "extension": null,
+          "notes": "UAE country code",
+          "is_primary": false,
+          "formatting": "00 9716 789 6XXX (h)"
+        },
+        {
+          "number": "00 9716 789 6XXX (o)",
+          "type": "office",
+          "label": "o",
+          "country_code": "00 971",
+          "area_code": "6",
+          "extension": null,
+          "notes": "UAE country code",
+          "is_primary": false,
+          "formatting": "00 9716 789 6XXX (o)"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["UAE connection"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page13_curry_r_boykin",
+      "name": {
+        "full_name": "Curry, R. Boykin",
+        "title": null,
+        "first_name": "R. Boykin",
+        "last_name": "Curry",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "212 219 1877 Direct",
+          "type": "work",
+          "label": "Direct",
+          "country_code": null,
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan direct line",
+          "is_primary": false,
+          "formatting": "212 219 1877"
+        },
+        {
+          "number": "212 991 XXX(h)",
+          "type": "home",
+          "label": "h",
+          "country_code": null,
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan",
+          "is_primary": false,
+          "formatting": "212 991 XXX(h)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "566 Park Avenue\nNew York, NY\n834 Fifth Avenue Park South",
+          "street_line1": "566 Park Avenue",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Upper East Side"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "medium",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page13_cutler_amanda",
+      "name": {
+        "full_name": "Cutler, Amanda",
+        "title": null,
+        "first_name": "Amanda",
+        "last_name": "Cutler",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 212 988 4733 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "001",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan",
+          "is_primary": false,
+          "formatting": "001 212 988 4733 (h)"
+        },
+        {
+          "number": "917 868 0772 (cell)",
+          "type": "mobile",
+          "label": "cell",
+          "country_code": null,
+          "area_code": "917",
+          "extension": null,
+          "notes": "NYC mobile",
+          "is_primary": false,
+          "formatting": "917 868 0772"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "601 Grotto Terrace\nApartment B\nNew York, NY",
+          "street_line1": "601 Grotto Terrace",
+          "street_line2": "Apartment B",
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": null
+        }
+      ],
+      "emails": [
+        {
+          "address": "[illegible]@aol.com",
+          "type": "personal",
+          "domain": "aol.com",
+          "notes": null
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "medium",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page13_dabo_henri_tatiana",
+      "name": {
+        "full_name": "d'abo, Henri & Tatiana",
+        "title": null,
+        "first_name": "Henri",
+        "last_name": "d'abo",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "West Wratting Park",
+          "street_line1": "West Wratting Park",
+          "street_line2": null,
+          "city": null,
+          "state_province": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Cambridge area"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Tatiana d'abo"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page13_west_wratting",
+      "name": {
+        "full_name": "West Wratting",
+        "title": null,
+        "first_name": null,
+        "last_name": "West Wratting",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0223-290337-8",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": "0223",
+          "extension": null,
+          "notes": "Cambridge UK area",
+          "is_primary": false,
+          "formatting": "0223-290337-8"
+        },
+        {
+          "number": "0207—368 7798",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": "0207",
+          "extension": null,
+          "notes": "Central London",
+          "is_primary": false,
+          "formatting": "0207—368 7798"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Appears to be continuation of d'abo entry"]
+      },
+      "data_quality": {
+        "name_confidence": "low",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page13_dabo_mrs_jennifer",
+      "name": {
+        "full_name": "d'abo, Mrs Jennifer",
+        "title": "Mrs",
+        "first_name": "Jennifer",
+        "last_name": "d'abo",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "13 Millaire Cottages",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Address mixed with phone",
+          "is_primary": false,
+          "formatting": "[illegible]"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "13 Millaire Cottages\nCollinge Platt Lane\n0236-540373 (h)",
+          "street_line1": "13 Millaire Cottages",
+          "street_line2": "Collinge Platt Lane",
+          "city": null,
+          "state_province": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": null
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": ["Related to Henri & Tatiana d'abo"],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page13_dalessie_carmen",
+      "name": {
+        "full_name": "D'Alessie, Carmen",
+        "title": null,
+        "first_name": "Carmen",
+        "last_name": "D'Alessie",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 213 248 9014",
+          "type": "unknown",
+          "label": null,
+          "country_code": "001",
+          "area_code": "213",
+          "extension": null,
+          "notes": "Los Angeles downtown",
+          "is_primary": false,
+          "formatting": "001 213 248 9014"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page13_darenberg_prince_pierre",
+      "name": {
+        "full_name": "D'Arenberg, Prince Pierre",
+        "title": "Prince",
+        "first_name": "Pierre",
+        "last_name": "D'Arenberg",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 212 688 0063 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "001",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan",
+          "is_primary": false,
+          "formatting": "001 212 688 0063 (h)"
+        },
+        {
+          "number": "001 516 593 1052 (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": "001",
+          "area_code": "516",
+          "extension": null,
+          "notes": "Long Island",
+          "is_primary": false,
+          "formatting": "001 516 593 1052 (w)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "107 East 60th\n916 Vanderbilt Motor\nThird Estate Maille Bellair\n[illegible]",
+          "street_line1": "107 East 60th",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Upper East Side"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Belgian princely title"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page13_dartmouth_william",
+      "name": {
+        "full_name": "Dartmouth William",
+        "title": null,
+        "first_name": "William",
+        "last_name": "Dartmouth",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0207—221 6204 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": null,
+          "area_code": "0207",
+          "extension": null,
+          "notes": "Central London",
+          "is_primary": false,
+          "formatting": "0207—221 6204 (h)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "45 Kensington\n[illegible] Gardens\nLondon SW3",
+          "street_line1": "45 Kensington",
+          "street_line2": "[illegible] Gardens",
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW3",
+          "country": "UK",
+          "notes": "Chelsea/Kensington"
+        }
+      ],
+      "emails": [
+        {
+          "address": "[illegible]@dartmouth.com",
+          "type": "personal",
+          "domain": "dartmouth.com",
+          "notes": null
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "medium",
+        "address_confidence": "medium",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page13_duzes_jacques_de_grusson",
+      "name": {
+        "full_name": "d'Uzes Jacques de Grusson",
+        "title": null,
+        "first_name": "Jacques",
+        "last_name": "d'Uzes",
+        "suffix": "de Grusson",
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "00 39 56 8XXXX8 (c)",
+          "type": "mobile",
+          "label": "c",
+          "country_code": "00 39",
+          "area_code": "56",
+          "extension": null,
+          "notes": "Italy",
+          "is_primary": false,
+          "formatting": "00 39 56 8XXXX8 (c)"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["French nobility"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page13_dabbagh_amr",
+      "name": {
+        "full_name": "Dabbagh, Amr A.",
+        "title": null,
+        "first_name": "Amr",
+        "last_name": "Dabbagh",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "011 966 5505 613370",
+          "type": "unknown",
+          "label": null,
+          "country_code": "011 966",
+          "area_code": "5505",
+          "extension": null,
+          "notes": "Saudi Arabia",
+          "is_primary": false,
+          "formatting": "011 966 5505 613370"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Riyadh [illegible]@sbc.com",
+          "street_line1": null,
+          "street_line2": null,
+          "city": "Riyadh",
+          "state_province": null,
+          "postal_code": null,
+          "country": "Saudi Arabia",
+          "notes": null
+        }
+      ],
+      "emails": [
+        {
+          "address": "[illegible]@sbc.com",
+          "type": "personal",
+          "domain": "sbc.com",
+          "notes": null
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Saudi Arabian connection"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "medium",
+        "address_confidence": "medium",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page13_dahl_sophie",
+      "name": {
+        "full_name": "Dahl, Sophie",
+        "title": null,
+        "first_name": "Sophie",
+        "last_name": "Dahl",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "01 646 924 7736(p)",
+          "type": "pager",
+          "label": "p",
+          "country_code": "01",
+          "area_code": "646",
+          "extension": null,
+          "notes": "NYC area code",
+          "is_primary": false,
+          "formatting": "01 646 924 7736(p)"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "medium",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page13_davies_david_linda",
+      "name": {
+        "full_name": "Davies, David & Linda",
+        "title": null,
+        "first_name": "David",
+        "last_name": "Davies",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 207 288 3119 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "001",
+          "area_code": "207",
+          "extension": null,
+          "notes": "Maine area code",
+          "is_primary": false,
+          "formatting": "001 207 288 3119 (h)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Voodoo\n[illegible]",
+          "street_line1": "Voodoo",
+          "street_line2": null,
+          "city": null,
+          "state_province": null,
+          "postal_code": null,
+          "country": null,
+          "notes": null
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Linda Davies"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "low",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page13_davis_michael",
+      "name": {
+        "full_name": "Davis Michael",
+        "title": null,
+        "first_name": "Michael",
+        "last_name": "Davis",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 313 503 XXX(h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "001",
+          "area_code": "313",
+          "extension": null,
+          "notes": "Detroit area",
+          "is_primary": false,
+          "formatting": "001 313 503 XXX(h)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Room 91\n[illegible]@wilshire.com",
+          "street_line1": "Room 91",
+          "street_line2": null,
+          "city": null,
+          "state_province": null,
+          "postal_code": null,
+          "country": null,
+          "notes": null
+        }
+      ],
+      "emails": [
+        {
+          "address": "[illegible]@wilshire.com",
+          "type": "personal",
+          "domain": "wilshire.com",
+          "notes": null
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "medium",
+        "address_confidence": "low",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page13_day_nick_heather",
+      "name": {
+        "full_name": "Day, Nick and Heather",
+        "title": null,
+        "first_name": "Nick",
+        "last_name": "Day",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "00 1253XXXX4397",
+          "type": "unknown",
+          "label": null,
+          "country_code": "00",
+          "area_code": "1253",
+          "extension": null,
+          "notes": "International",
+          "is_primary": false,
+          "formatting": "00 1253XXXX4397"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "76 Dunes Road\n[illegible] Quiet Flat 44\nE Hamptone",
+          "street_line1": "76 Dunes Road",
+          "street_line2": null,
+          "city": "E Hampton",
+          "state_province": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "East Hampton"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Heather Day"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page13_de_andrade_marcelo",
+      "name": {
+        "full_name": "de Andrade, Marcelo",
+        "title": null,
+        "first_name": "Marcelo",
+        "last_name": "de Andrade",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "00 55 11 7X18 (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": "00 55",
+          "area_code": "11",
+          "extension": null,
+          "notes": "São Paulo, Brazil",
+          "is_primary": false,
+          "formatting": "00 55 11 7X18 (w)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Rua Expidite Figuereido\nJardim Botanico - Rd Brazil",
+          "street_line1": "Rua Expedite Figuereido",
+          "street_line2": "Jardim Botanico",
+          "city": "Rio de Janeiro",
+          "state_province": null,
+          "postal_code": null,
+          "country": "Brazil",
+          "notes": "Upscale neighborhood"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page13_davies_jeff",
+      "name": {
+        "full_name": "Davies Jeff",
+        "title": null,
+        "first_name": "Jeff",
+        "last_name": "Davies",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 311 440 0589(h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "001",
+          "area_code": "311",
+          "extension": null,
+          "notes": "Non-standard area code",
+          "is_primary": false,
+          "formatting": "001 311 440 0589(h)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "609 Lawrence Lauryasole.com\n816 West 73rd Robert Miami Unit\nmiami",
+          "street_line1": "816 West 73rd",
+          "street_line2": "Robert Miami Unit",
+          "city": "Miami",
+          "state_province": "FL",
+          "postal_code": null,
+          "country": "USA",
+          "notes": null
+        }
+      ],
+      "emails": [
+        {
+          "address": "[illegible]@lauryasole.com",
+          "type": "personal",
+          "domain": "lauryasole.com",
+          "notes": null
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "medium",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 18,
+    "complete_entries": 0,
+    "partial_entries": 9,
+    "minimal_entries": 9,
+    "redacted_entries": 0,
+    "handwritten_additions": 0,
+    "crossed_out_entries": 0,
+    "quality": "poor",
+    "legibility": "partially obscured",
+    "notable_features": ["Prince Pierre D'Arenberg entry", "Multiple d'abo family entries", "International connections (UAE, Saudi Arabia, Brazil)"],
+    "continues_to_page": 14,
+    "continued_from_page": 12,
+    "split_entry_note": "No clear continuation from page 12"
+  },
+  "cross_references": [
+    {
+      "from_name": "Mrs Jennifer d'abo",
+      "to_name": "Henri & Tatiana d'abo",
+      "reference_type": "related_to",
+      "page_reference": null
+    }
+  ],
+  "entities": {
+    "people": ["Sophie Crabiss", "Alaister Cudro", "R. Boykin Curry", "Amanda Cutler", "Henri d'abo", "Tatiana d'abo", "Jennifer d'abo", "Carmen D'Alessie", "Prince Pierre D'Arenberg", "William Dartmouth", "Jacques d'Uzes de Grusson", "Amr A. Dabbagh", "Sophie Dahl", "David Davies", "Linda Davies", "Michael Davis", "Nick Day", "Heather Day", "Marcelo de Andrade", "Jeff Davies"],
+    "organizations": [],
+    "locations": {
+      "cities": ["London", "Manchester", "Sheffield", "New York", "Los Angeles", "Cambridge", "Riyadh", "East Hampton", "São Paulo", "Rio de Janeiro", "Detroit", "Miami"],
+      "states": ["NY", "CA", "FL", "Maine"],
+      "countries": ["UK", "UAE", "USA", "Saudi Arabia", "Italy", "Brazil", "Belgium", "France"]
+    }
+  },
+  "insights": [
+    "Page 13 transitions from C to D section with 18 entries",
+    "Prince Pierre D'Arenberg - Belgian princely family with NYC address",
+    "566 Park Avenue for R. Boykin Curry - prestigious Upper East Side",
+    "00 971 country code for Alaister Cudro confirms UAE connection",
+    "011 966 for Amr Dabbagh confirms Saudi Arabia (Riyadh)",
+    "00 55 11 for Marcelo de Andrade - São Paulo, Brazil area code",
+    "Multiple d'abo family entries suggesting aristocratic connections",
+    "207 area code for David Davies indicates Maine location",
+    "313 area code for Michael Davis confirms Detroit connection",
+    "East Hampton address for Nick and Heather Day - Hamptons elite",
+    "0223 area code (old Cambridge UK) for West Wratting entries",
+    "0114 area code for Sophie Crabiss - Sheffield, UK",
+    "213 area code for Carmen D'Alessie - downtown Los Angeles",
+    "Sophie Dahl entry (model/author, granddaughter of Roald Dahl)",
+    "Mix of European aristocracy (d'Arenberg, d'Uzes) and Middle East connections",
+    "Image quality continues to be poor affecting data extraction",
+    "Jardim Botanico neighborhood in Rio - exclusive area",
+    "Manchester Square London addresses - Marylebone district"
+  ]
+}

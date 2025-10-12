@@ -1,0 +1,1010 @@
+{
+  "page_number": 1,
+  "alphabetical_section": "A",
+  "page_header": "P.B. 2004-2005",
+  "contacts": [
+    {
+      "entry_id": "001_abby",
+      "name": {
+        "full_name": "Abby",
+        "title": null,
+        "first_name": "Abby",
+        "last_name": null,
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "01XXX XXX XXX",
+          "type": "home",
+          "label": "",
+          "country_code": "+44",
+          "area_code": "01",
+          "extension": null,
+          "notes": "UK landline format visible",
+          "is_primary": true,
+          "formatting": "01XXX XXX XXX"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "n/a",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "001_aboureiman_joanna",
+      "name": {
+        "full_name": "Aboureiman, Joanna",
+        "title": null,
+        "first_name": "Joanna",
+        "last_name": "Aboureiman",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "[number] rue [illegible]\nParis",
+          "street_line1": "[number] rue [illegible]",
+          "street_line2": null,
+          "city": "Paris",
+          "state_province": null,
+          "postal_code": null,
+          "country": "France",
+          "notes": "Paris address"
+        }
+      ],
+      "emails": [
+        {
+          "address": "[illegible]@hotmail.com",
+          "type": "personal",
+          "domain": "hotmail.com",
+          "notes": "Personal email - hotmail domain"
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "n/a",
+        "email_confidence": "medium",
+        "address_confidence": "medium",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "001_aldridge_saffron",
+      "name": {
+        "full_name": "Aldridge Saffron",
+        "title": null,
+        "first_name": "Saffron",
+        "last_name": "Aldridge",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": "IMG Models",
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "(212) XXX-XXXX",
+          "type": "work",
+          "label": "W",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC number",
+          "is_primary": false,
+          "formatting": "(212) XXX-XXXX"
+        },
+        {
+          "number": "845 XXX XXXX",
+          "type": "home",
+          "label": "H",
+          "country_code": "+1",
+          "area_code": "845",
+          "extension": null,
+          "notes": "Hudson Valley NY area",
+          "is_primary": false,
+          "formatting": "845 XXX XXXX"
+        },
+        {
+          "number": "011 212 XXX XXXX",
+          "type": "other",
+          "label": "",
+          "country_code": "011",
+          "area_code": "212",
+          "extension": null,
+          "notes": "International dialing to NYC",
+          "is_primary": false,
+          "formatting": "011 212 XXX XXXX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "business",
+          "label": "",
+          "full_address": "[illegible] 8th Ave. Suite [illegible]",
+          "street_line1": "[illegible] 8th Ave.",
+          "street_line2": "Suite [illegible]",
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "NYC business address"
+        }
+      ],
+      "emails": [
+        {
+          "address": "[illegible]@imgmodels.com",
+          "type": "business",
+          "domain": "imgmodels.com",
+          "notes": "IMG Models agency email"
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": "Model (IMG Models)"
+      },
+      "metadata": {
+        "entry_completeness": "complete",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["multiple phone numbers"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "medium",
+        "address_confidence": "medium",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "001_adam_nick",
+      "name": {
+        "full_name": "Adam, Nick",
+        "title": null,
+        "first_name": "Nick",
+        "last_name": "Adam",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "00 33 1 XXX XXXXX",
+          "type": "home",
+          "label": "H",
+          "country_code": "+33",
+          "area_code": "1",
+          "extension": null,
+          "notes": "Paris, France landline",
+          "is_primary": false,
+          "formatting": "00 33 1 XXX XXXXX"
+        },
+        {
+          "number": "00 33 6 XXX XXX [p]",
+          "type": "mobile",
+          "label": "p",
+          "country_code": "+33",
+          "area_code": "6",
+          "extension": null,
+          "notes": "French mobile number",
+          "is_primary": false,
+          "formatting": "00 33 6 XXX XXX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "19 Rue De Lille\n75007, Paris",
+          "street_line1": "19 Rue De Lille",
+          "street_line2": null,
+          "city": "Paris",
+          "state_province": null,
+          "postal_code": "75007",
+          "country": "France",
+          "notes": "7th arrondissement - elite area"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "complete",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "001_alexander_pam",
+      "name": {
+        "full_name": "Alexander Pam",
+        "title": null,
+        "first_name": "Pam",
+        "last_name": "Alexander",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "01 213 XXX XXXX (o)",
+          "type": "work",
+          "label": "o",
+          "country_code": "+1",
+          "area_code": "213",
+          "extension": null,
+          "notes": "Los Angeles office number",
+          "is_primary": false,
+          "formatting": "01 213 XXX XXXX"
+        },
+        {
+          "number": "H 310 XXX XXXX",
+          "type": "home",
+          "label": "H",
+          "country_code": "+1",
+          "area_code": "310",
+          "extension": null,
+          "notes": "Beverly Hills/West LA area",
+          "is_primary": false,
+          "formatting": "310 XXX XXXX"
+        }
+      ],
+      "addresses": [],
+      "emails": [
+        {
+          "address": "[illegible]@[illegible].com",
+          "type": "business",
+          "domain": "[illegible].com",
+          "notes": "Business email present"
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "low",
+        "address_confidence": "n/a",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "001_algaj_alejandro",
+      "name": {
+        "full_name": "Algaj Alejandro",
+        "title": null,
+        "first_name": "Alejandro",
+        "last_name": "Algaj",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "00 54 XXX XXX XXXX",
+          "type": "home",
+          "label": "",
+          "country_code": "+54",
+          "area_code": null,
+          "extension": null,
+          "notes": "Argentina phone number",
+          "is_primary": true,
+          "formatting": "00 54 XXX XXX XXXX"
+        }
+      ],
+      "addresses": [],
+      "emails": [
+        {
+          "address": "[illegible]@infovia.com.ar",
+          "type": "personal",
+          "domain": "infovia.com.ar",
+          "notes": "Argentina internet provider domain"
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "medium",
+        "address_confidence": "n/a",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "001_alarani_giacomo",
+      "name": {
+        "full_name": "Alarani, Giacomo",
+        "title": null,
+        "first_name": "Giacomo",
+        "last_name": "Alarani",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": "Collective",
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "(336) XXX XXXX",
+          "type": "mobile",
+          "label": "M",
+          "country_code": "+39",
+          "area_code": "336",
+          "extension": null,
+          "notes": "Italian mobile - multiple entries",
+          "is_primary": false,
+          "formatting": "(336) XXX XXXX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "business",
+          "label": "",
+          "full_address": "Via [illegible]\nMilan",
+          "street_line1": "Via [illegible]",
+          "street_line2": null,
+          "city": "Milan",
+          "state_province": null,
+          "postal_code": null,
+          "country": "Italy",
+          "notes": "Milan address"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": "Executive (Collective)"
+      },
+      "metadata": {
+        "entry_completeness": "complete",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["multiple phone numbers - 5+ entries"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "001_agnew_marie_claire_john",
+      "name": {
+        "full_name": "Agnew, Marie Claire & John",
+        "title": null,
+        "first_name": "Marie Claire & John",
+        "last_name": "Agnew",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "(001 XXX XXXX)",
+          "type": "work",
+          "label": "w",
+          "country_code": "+1",
+          "area_code": null,
+          "extension": null,
+          "notes": "US number from UK",
+          "is_primary": false,
+          "formatting": "(001 XXX XXXX)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "29 [illegible] Square\nLondon SW3",
+          "street_line1": "29 [illegible] Square",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW3",
+          "country": "UK",
+          "notes": "Chelsea, London - affluent area"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Marie Claire and John are a couple"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["couple listed together"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "001_allan_paul",
+      "name": {
+        "full_name": "Allan Paul",
+        "title": null,
+        "first_name": "Paul",
+        "last_name": "Allan",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "(01) XXX XXX XXXX",
+          "type": "home",
+          "label": "",
+          "country_code": "+44",
+          "area_code": "01",
+          "extension": null,
+          "notes": "UK landline",
+          "is_primary": true,
+          "formatting": "(01) XXX XXX XXXX"
+        }
+      ],
+      "addresses": [],
+      "emails": [
+        {
+          "address": "[illegible]@[illegible].com",
+          "type": "business",
+          "domain": "[illegible].com",
+          "notes": "Business email present"
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": "Art Investment"
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "low",
+        "address_confidence": "n/a",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "001_aisi_azzedine",
+      "name": {
+        "full_name": "Aisi Azzedine",
+        "title": null,
+        "first_name": "Azzedine",
+        "last_name": "Aisi",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "00 33 1 XXXX XXXX",
+          "type": "home",
+          "label": "",
+          "country_code": "+33",
+          "area_code": "1",
+          "extension": null,
+          "notes": "Paris landline",
+          "is_primary": true,
+          "formatting": "00 33 1 XXXX XXXX"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "n/a",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "001_allan_nick_sarah",
+      "name": {
+        "full_name": "Allan, Nick & Sarah",
+        "title": null,
+        "first_name": "Nick & Sarah",
+        "last_name": "Allan",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": "Sunday Times",
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "W Sunday Times",
+          "type": "work",
+          "label": "W",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Sunday Times newspaper",
+          "is_primary": false,
+          "formatting": "W Sunday Times"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "[number] [illegible] Village Road",
+          "street_line1": "[number] [illegible] Village Road",
+          "street_line2": null,
+          "city": null,
+          "state_province": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "UK address"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Nick and Sarah are a couple"],
+        "implied_connections": [],
+        "professional_role": "Sunday Times (journalist)"
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["couple listed together"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "low",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "001_albermarie_rufus_sally",
+      "name": {
+        "full_name": "Albermarie, Rufus & Sally",
+        "title": null,
+        "first_name": "Rufus & Sally",
+        "last_name": "Albermarie",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "(336) XXX XXXX",
+          "type": "mobile",
+          "label": "cy",
+          "country_code": "+39",
+          "area_code": "336",
+          "extension": null,
+          "notes": "Italian mobile - yacht/cell",
+          "is_primary": false,
+          "formatting": "(336) XXX XXXX"
+        },
+        {
+          "number": "212 XXX XXXX (NY)",
+          "type": "home",
+          "label": "NY",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC number",
+          "is_primary": false,
+          "formatting": "212 XXX XXXX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "[illegible] Ave.\nNY, NY",
+          "street_line1": "[illegible] Ave.",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "NYC address"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Rufus and Sally are a couple"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["multiple international locations", "yacht connection"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "low",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "001_althorp_charlie",
+      "name": {
+        "full_name": "Althorp, Charlie",
+        "title": "Viscount",
+        "first_name": "Charlie",
+        "last_name": "Althorp",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "020 XXXX XXXX (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": "+44",
+          "area_code": "020",
+          "extension": null,
+          "notes": "London number",
+          "is_primary": true,
+          "formatting": "020 XXXX XXXX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "Spencer\nNorthampton",
+          "street_line1": "Spencer",
+          "street_line2": null,
+          "city": "Northampton",
+          "state_province": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Spencer family estate"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": ["Spencer family - Princess Diana's brother"],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["British aristocracy"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 13,
+    "complete_entries": 3,
+    "partial_entries": 8,
+    "redacted_entries": 0,
+    "handwritten_additions": 1,
+    "crossed_out_entries": 0,
+    "quality": "poor",
+    "legibility": "poor",
+    "notable_features": ["Handwritten header 'P.B. 2004-2005'", "Mix of international contacts", "Multiple couples listed together"],
+    "continues_to_page": 2,
+    "continued_from_page": null,
+    "split_entry_note": "Last entry (Althorp) appears complete - no continuation needed"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Abby",
+      "Joanna Aboureiman",
+      "Saffron Aldridge",
+      "Nick Adam",
+      "Pam Alexander",
+      "Alejandro Algaj",
+      "Giacomo Alarani",
+      "Marie Claire Agnew",
+      "John Agnew",
+      "Paul Allan",
+      "Azzedine Aisi",
+      "Nick Allan",
+      "Sarah Allan",
+      "Rufus Albermarie",
+      "Sally Albermarie",
+      "Charlie Althorp (Viscount Althorp)"
+    ],
+    "organizations": [
+      "IMG Models",
+      "Sunday Times",
+      "Spencer family",
+      "Collective"
+    ],
+    "locations": {
+      "cities": [
+        "Paris",
+        "New York",
+        "London",
+        "Milan",
+        "Northampton",
+        "Los Angeles",
+        "Beverly Hills"
+      ],
+      "states": [
+        "New York",
+        "California"
+      ],
+      "countries": [
+        "France",
+        "USA",
+        "UK",
+        "Italy",
+        "Argentina"
+      ]
+    }
+  },
+  "insights": [
+    "Page starts alphabetical section 'A' with handwritten notation 'P.B. 2004-2005' suggesting Personal Book 2004-2005",
+    "Mix of international contacts spanning Europe (France, Italy, UK) and Americas (USA, Argentina)",
+    "Several couples listed together (Agnew, Allan, Albermarie) indicating social/family connections",
+    "Professional connections include modeling (IMG Models), media (Sunday Times), and art investment",
+    "Area codes reveal geographic clusters: 212 (Manhattan), 213 (LA), 310 (Beverly Hills), 845 (Hudson Valley NY)",
+    "French contacts concentrated in Paris with +33 1 (Paris landline) and +33 6 (French mobile)",
+    "Italian contacts show 336 prefix (Italian mobile) with Milan connections",
+    "UK contacts show 020 (London), 01 (UK landline) patterns",
+    "Charlie Althorp notable - Viscount Althorp, Princess Diana's brother, Spencer family connection",
+    "Paris addresses in elite areas: 75007 (7th arrondissement near Eiffel Tower)",
+    "London addresses in affluent areas: SW3 (Chelsea)",
+    "Multiple phone numbers per person (5+ for Alarani) indicates close relationships/importance",
+    "Email domains show mix: hotmail.com (personal), imgmodels.com (professional), .com.ar (Argentina)",
+    "International dialing patterns: 00 33 (France from UK), 001 (US from UK), 00 54 (Argentina)",
+    "Some entries have incomplete information suggesting updates in progress or privacy concerns"
+  ]
+}

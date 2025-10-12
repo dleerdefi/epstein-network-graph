@@ -1,0 +1,581 @@
+{
+  "page_number": 71,
+  "section": "C-E Names",
+  "entries": [
+    {
+      "name": "Cason, Jimmy",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "847 Madison Avenue",
+          "street": "847 Madison Avenue",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "New York NY 10027",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10027",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 933 9800 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Email: iscason@comproperty.com",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "12-3128-Madison",
+        "Jimmy@comproperty.com"
+      ],
+      "notes": "Jimmy Cason - Madison Avenue NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Cheraboite, Alan",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "8 Golden Dan Drive",
+          "street": "8 Golden Dan Drive",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Eastport NY 10803",
+          "city": "Eastport",
+          "state": "NY",
+          "postal_code": "10803",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "631 288 3743 [Off]",
+          "area_code": "631",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "631 288 9171 [Cell]",
+          "area_code": "631",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Harbour Residence, Eastport",
+        "Golf Estate, Meadowrock",
+        "516 431 6544 (cell)",
+        "516 488 2110 B"
+      ],
+      "notes": "Alan Cheraboite - Eastport NY, Long Island",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Chou, Silas",
+      "category": "Personal",
+      "location": "Hong Kong",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "88 Chester Square",
+          "street": "88 Chester Square",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "LONDON SW1X",
+          "city": "London",
+          "postal_code": "SW1X",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 301 1093 (Off)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 301 1092 Home Fax",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Chou.silas@[illegible].gov-gerard",
+          "confidence": "low"
+        }
+      ],
+      "additional_info": [
+        "HWI",
+        "(HWI) 852 23409"
+      ],
+      "notes": "Silas Chou - Chester Square London and Hong Kong connection",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Email domain partially illegible"]
+      }
+    },
+    {
+      "name": "Carter, Catherine",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "702 E 54th St. #33B",
+          "street": "702 E 54th Street #33B",
+          "city": "New York",
+          "state": "NY",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "H",
+          "number": "212 836 1212 (H)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "646 526 1115",
+          "area_code": "646",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "catherine.carter@usmedia.com",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Catherine Carter - East 54th Street NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Daniel",
+      "category": "Personal",
+      "location": "Unknown",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "011 007 678 17 83",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Daniel - international phone",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Davison, Dayla",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "215 B & 95 St.",
+          "street": "215 B & 95 Street",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "125 E 21",
+          "street": "125 E 21",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 316 9024 Home",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 348 7100 Work 10022",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 715 6001",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "125 E 21 Tembolon"
+      ],
+      "notes": "Dayla Davison - Upper West Side and East Side NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Delson, George",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "120 E 88th St. Floor 15",
+          "street": "120 E 88th Street Floor 15",
+          "city": "New York",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "900 Park Ave 9A",
+          "street": "900 Park Avenue 9A",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 369 7206 Home",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 369 4300 Office",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 622 0001",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Home gr [illegible] 22 (h)",
+          "confidence": "low"
+        }
+      ],
+      "additional_info": [
+        "Office Manager - Office",
+        "Mobile Phone 917 623 2222",
+        "917 364 0087"
+      ],
+      "notes": "George Delson - East 88th Street and Park Avenue NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Email partially illegible"]
+      }
+    },
+    {
+      "name": "Engle, Don",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "104 East Avenue #2D",
+          "street": "104 East Avenue #2D",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "W",
+          "number": "917 514 8711 W",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01 333 810 2030 H",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Don Engle - East Avenue",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "EPSTEIN - PORTABLES",
+      "category": "Business",
+      "location": "Various",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "800 399 0080 4400 911 8025",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 838 8133 [off]",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "Alan Guildenbert",
+          "number": "212 766 4315 Sargent",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 334 7303 Guildenbert",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 639 8569 [Guildenbert]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 655 [illegible]",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "B/P",
+          "number": "914 739 5858 [ignored]/B/P",
+          "area_code": "914",
+          "geographic_indicator": "Westchester",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 559 8104 [2010]",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "Roland",
+          "number": "212 570 4900 (Roland)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "646 521 4112 # (12-5-01)",
+          "area_code": "646",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "additional_contacts": [
+        "Alan Guildenbert",
+        "Sargent",
+        "Roland"
+      ],
+      "notes": "Epstein Portables - multiple phone numbers and contacts",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One phone number partially illegible"]
+      }
+    },
+    {
+      "name": "Edelman, Gerald Dr.",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Scripps/Kellogg Research",
+          "organization": "Scripps/Kellogg Research",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "10550 North Torrey Pines Road La Jolla CA 92121",
+          "street": "10550 North Torrey Pines Road",
+          "city": "La Jolla",
+          "state": "CA",
+          "postal_code": "92121",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "858 626 2000 Assnt",
+          "area_code": "858",
+          "geographic_indicator": "San Diego",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Dr. Gerald Edelman"
+      ],
+      "notes": "Dr. Gerald Edelman - Scripps Research La Jolla",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Epstein, Jeffrey",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Athena Interests",
+          "organization": "Athena Interests",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Alvaro # 69428",
+          "reference": "Alvaro # 69428",
+          "confidence": "high"
+        },
+        {
+          "type": "tertiary",
+          "address": "GM Response Center - 4th Floor",
+          "location": "GM Response Center - 4th Floor",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212-760-9448",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Jeffrey Epstein - Athena Interests",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Satellite entries",
+      "category": "Various",
+      "location": "Various",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "011 481 6414 54333 satellite",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "011 481 6914 54123 satellite",
+          "confidence": "high"
+        },
+        {
+          "type": "Guest cell",
+          "number": "917 534 8350 Guest cell",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Satellite phone entries",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 12,
+    "illegible_entries": 0,
+    "partial_entries": 3,
+    "sections": ["C-E Names"],
+    "notable_entries": [
+      "Jeffrey Epstein - Athena Interests entry",
+      "Dr. Gerald Edelman - Scripps Research La Jolla",
+      "Silas Chou - Chester Square London",
+      "Epstein Portables - multiple phone lines",
+      "Satellite phone entries"
+    ],
+    "geographic_distribution": {
+      "usa": 10,
+      "uk": 1,
+      "international": 1
+    },
+    "location_highlights": [
+      "Scripps Research Institute La Jolla",
+      "Chester Square London SW1X",
+      "Madison Avenue NYC",
+      "Multiple satellite phone connections"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 9,
+      "medium_confidence": 2,
+      "low_confidence": 1,
+      "specific_issues": [
+        "Some email addresses illegible",
+        "One Epstein Portables number partially illegible",
+        "Silas Chou email domain unclear"
+      ]
+    }
+  }
+}

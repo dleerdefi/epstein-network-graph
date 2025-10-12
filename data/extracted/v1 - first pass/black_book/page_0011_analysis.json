@@ -1,0 +1,1247 @@
+{
+  "page_number": 11,
+  "alphabetical_section": "C",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "page11_chaiyai_vikram",
+      "name": {
+        "full_name": "Chaiyai, Vikram",
+        "title": null,
+        "first_name": "Vikram",
+        "last_name": "Chaiyai",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "00 34 62 669XXX (Spain)",
+          "type": "unknown",
+          "label": "Spain",
+          "country_code": "00 34",
+          "area_code": "62",
+          "extension": null,
+          "notes": "Spain mobile",
+          "is_primary": false,
+          "formatting": "00 34 62 669XXX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Suite Mirador Mijas & Malpora\nPuer. Banus Malaga",
+          "street_line1": "Suite Mirador Mijas & Malpora",
+          "street_line2": "Puer. Banus",
+          "city": "Malaga",
+          "state_province": null,
+          "postal_code": null,
+          "country": "Spain",
+          "notes": "Puerto Banus, luxury resort area"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page11_chenevis_trench_john_lucy",
+      "name": {
+        "full_name": "Chenevis-Trench, John & Lucy",
+        "title": null,
+        "first_name": "John",
+        "last_name": "Chenevis-Trench",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0207-495 70 2672 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": null,
+          "area_code": "0207",
+          "extension": null,
+          "notes": "Central London",
+          "is_primary": false,
+          "formatting": "0207-495 70 2672 (h)"
+        },
+        {
+          "number": "0207 498 1123 (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": null,
+          "area_code": "0207",
+          "extension": null,
+          "notes": "Central London",
+          "is_primary": false,
+          "formatting": "0207 498 1123 (w)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "5 Albert Bridge Rd\n3 Eaton Gate\nLondon SW11 4PQ",
+          "street_line1": "5 Albert Bridge Rd",
+          "street_line2": "3 Eaton Gate",
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW11 4PQ",
+          "country": "UK",
+          "notes": "Battersea area"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Lucy Chenevis-Trench"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page11_cicogna_gianfranco",
+      "name": {
+        "full_name": "Cicogna, Gianfranco",
+        "title": null,
+        "first_name": "Gianfranco",
+        "last_name": "Cicogna",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0207 373 3141",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": "0207",
+          "extension": null,
+          "notes": "Central London",
+          "is_primary": false,
+          "formatting": "0207 373 3141"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Villa Pellego Treviso\nBorgo [illegible] mailand usa",
+          "street_line1": "Villa Pellego",
+          "street_line2": null,
+          "city": "Treviso",
+          "state_province": null,
+          "postal_code": null,
+          "country": "Italy",
+          "notes": "Italian villa"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page11_cicogna_marina",
+      "name": {
+        "full_name": "Cicogna, Marina",
+        "title": null,
+        "first_name": "Marina",
+        "last_name": "Cicogna",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "00 39 6 678XXXX Rome",
+          "type": "home",
+          "label": "Rome",
+          "country_code": "00 39",
+          "area_code": "6",
+          "extension": null,
+          "notes": "Rome, Italy",
+          "is_primary": false,
+          "formatting": "00 39 6 678XXXX"
+        },
+        {
+          "number": "00 41 92 798863 Milano",
+          "type": "unknown",
+          "label": "Milano",
+          "country_code": "00 41",
+          "area_code": "92",
+          "extension": null,
+          "notes": "Switzerland",
+          "is_primary": false,
+          "formatting": "00 41 92 798863"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": ["Related to Gianfranco Cicogna"],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "medium",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page11_cicogna_glanluca",
+      "name": {
+        "full_name": "Cicogna Glanluca",
+        "title": null,
+        "first_name": "Gianluca",
+        "last_name": "Cicogna",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 760 832 1690(h) (CA home)",
+          "type": "home",
+          "label": "CA home",
+          "country_code": "001",
+          "area_code": "760",
+          "extension": null,
+          "notes": "Palm Springs/Desert area CA",
+          "is_primary": false,
+          "formatting": "001 760 832 1690(h)"
+        },
+        {
+          "number": "001 617 508 8110 (g)",
+          "type": "unknown",
+          "label": "g",
+          "country_code": "001",
+          "area_code": "617",
+          "extension": null,
+          "notes": "Boston area",
+          "is_primary": false,
+          "formatting": "001 617 508 8110 (g)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "1050 5th Avenue\nNew York",
+          "street_line1": "1050 5th Avenue",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Upper East Side, Fifth Avenue"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": ["Related to Marina and Gianfranco Cicogna"],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page11_cicogna_genoveffa",
+      "name": {
+        "full_name": "Cicogna, Genoveffa",
+        "title": null,
+        "first_name": "Genoveffa",
+        "last_name": "Cicogna",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0207-589-1668 (w) 1-641 (s)",
+          "type": "work",
+          "label": "w",
+          "country_code": null,
+          "area_code": "0207",
+          "extension": "1-641",
+          "notes": "Central London",
+          "is_primary": false,
+          "formatting": "0207-589-1668 (w) 1-641 (s)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "78 Cadogan Court\nLondon SW3",
+          "street_line1": "78 Cadogan Court",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW3",
+          "country": "UK",
+          "notes": "Chelsea, exclusive area"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": ["Related to Cicogna family"],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page11_cicciolani_pietro",
+      "name": {
+        "full_name": "Cicciolani, Pietro",
+        "title": null,
+        "first_name": "Pietro",
+        "last_name": "Cicciolani",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": "Carlo Piano",
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 818 XXX XXXXX",
+          "type": "unknown",
+          "label": null,
+          "country_code": "001",
+          "area_code": "818",
+          "extension": null,
+          "notes": "Los Angeles Valley area",
+          "is_primary": false,
+          "formatting": "001 818 XXX XXXXX"
+        },
+        {
+          "number": "001 213 XXX-XXXX (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": "001",
+          "area_code": "213",
+          "extension": null,
+          "notes": "Los Angeles downtown",
+          "is_primary": false,
+          "formatting": "001 213 XXX-XXXX (w)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "label": "Carlo Piano",
+          "full_address": "Carlo Piano",
+          "street_line1": "Carlo Piano",
+          "street_line2": null,
+          "city": null,
+          "state_province": null,
+          "postal_code": null,
+          "country": null,
+          "notes": "Business name"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": "Carlo Piano"
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "low",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page11_clerach_inska",
+      "name": {
+        "full_name": "Clerach, Inska",
+        "title": null,
+        "first_name": "Inska",
+        "last_name": "Clerach",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0207 38XX",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": "0207",
+          "extension": null,
+          "notes": "Central London",
+          "is_primary": false,
+          "formatting": "0207 38XX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "104 Riverside\n17 Danielle Grove\nBarnton\nEdinburgh",
+          "street_line1": "104 Riverside",
+          "street_line2": "17 Danielle Grove",
+          "city": "Edinburgh",
+          "state_province": "Scotland",
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Barnton, Edinburgh"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page11_cipriani_guiseppi",
+      "name": {
+        "full_name": "Cipriani Guiseppi",
+        "title": null,
+        "first_name": "Guiseppi",
+        "last_name": "Cipriani",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "212 355 0228 (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": null,
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan",
+          "is_primary": false,
+          "formatting": "212 355 0228 (w)"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page11_cisneros_gustavo_patty",
+      "name": {
+        "full_name": "Cisneros, Gustavo and Patty",
+        "title": null,
+        "first_name": "Gustavo",
+        "last_name": "Cisneros",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 212 717-6890 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "001",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan",
+          "is_primary": false,
+          "formatting": "001 212 717-6890 (h)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "505 Park Avenue",
+          "street_line1": "505 Park Avenue",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Upper East Side"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Patty Cisneros"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page11_clive_lucy",
+      "name": {
+        "full_name": "Clive, Lucy",
+        "title": null,
+        "first_name": "Lucy",
+        "last_name": "Clive",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0207-226 2854 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": null,
+          "area_code": "0207",
+          "extension": null,
+          "notes": "Central London",
+          "is_primary": false,
+          "formatting": "0207-226 2854 (h)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "64 Elgin Crescent\nNotting Hill\nW11 2JQ",
+          "street_line1": "64 Elgin Crescent",
+          "street_line2": "Notting Hill",
+          "city": "London",
+          "state_province": null,
+          "postal_code": "W11 2JQ",
+          "country": "UK",
+          "notes": "Notting Hill area"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page11_cohen_larry",
+      "name": {
+        "full_name": "Cohen, Larry",
+        "title": null,
+        "first_name": "Larry",
+        "last_name": "Cohen",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "00 39 5 555 05696 (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": "00 39",
+          "area_code": "5",
+          "extension": null,
+          "notes": "Italy",
+          "is_primary": false,
+          "formatting": "00 39 5 555 05696 (w)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Country Club Castelgandolfo Apt 390\n7915 E Lakeside Dr\nScottsdale, AZ 85251",
+          "street_line1": "7915 E Lakeside Dr",
+          "street_line2": "Country Club Castelgandolfo Apt 390",
+          "city": "Scottsdale",
+          "state_province": "AZ",
+          "postal_code": "85251",
+          "country": "USA",
+          "notes": "Arizona address"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Italian work number with US address"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "medium",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page11_claverinp_isabel",
+      "name": {
+        "full_name": "Claverino, Isabel",
+        "title": null,
+        "first_name": "Isabel",
+        "last_name": "Claverino",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "01 351 XX1 4141",
+          "type": "unknown",
+          "label": null,
+          "country_code": "01 351",
+          "area_code": null,
+          "extension": null,
+          "notes": "Portugal country code",
+          "is_primary": false,
+          "formatting": "01 351 XX1 4141"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Rua Sola Vasco Gama\n[illegible] 39 555 651/0041",
+          "street_line1": "Rua Sola Vasco Gama",
+          "street_line2": null,
+          "city": null,
+          "state_province": null,
+          "postal_code": null,
+          "country": "Portugal",
+          "notes": "Based on phone code"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page11_clesse_jean_alice_fay",
+      "name": {
+        "full_name": "Clesse Jean Alice Fay",
+        "title": null,
+        "first_name": "Jean",
+        "last_name": "Clesse",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "352 XXX 631220+",
+          "type": "unknown",
+          "label": null,
+          "country_code": "352",
+          "area_code": null,
+          "extension": null,
+          "notes": "Luxembourg country code",
+          "is_primary": false,
+          "formatting": "352 XXX 631220+"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Sola Paris\n5 Rue Fay",
+          "street_line1": "5 Rue Fay",
+          "street_line2": null,
+          "city": "Paris",
+          "state_province": null,
+          "postal_code": null,
+          "country": "France",
+          "notes": null
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Alice Fay"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Luxembourg phone with Paris address"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page11_clempson_graham_emma",
+      "name": {
+        "full_name": "Clempson, Graham & Emma",
+        "title": null,
+        "first_name": "Graham",
+        "last_name": "Clempson",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "21 Sussex Court West\nLondon SW3",
+          "street_line1": "21 Sussex Court West",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW3",
+          "country": "UK",
+          "notes": "Chelsea area"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Emma Clempson"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page11_cochrane_ms_mandy",
+      "name": {
+        "full_name": "Cochrane, Ms Mandy",
+        "title": "Ms",
+        "first_name": "Mandy",
+        "last_name": "Cochrane",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0207 834 5937 (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": null,
+          "area_code": "0207",
+          "extension": null,
+          "notes": "Central London",
+          "is_primary": false,
+          "formatting": "0207 834 5937 (w)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "3 Culver Xertley\n6 Sutton Park\nManchester Sq, W1",
+          "street_line1": "3 Culver Xertley",
+          "street_line2": "6 Sutton Park",
+          "city": "London",
+          "state_province": null,
+          "postal_code": "W1",
+          "country": "UK",
+          "notes": "Manchester Square, Marylebone"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page11_cohen_dalit",
+      "name": {
+        "full_name": "Cohen Dalit",
+        "title": null,
+        "first_name": "Dalit",
+        "last_name": "Cohen",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "76 Elm Park Mansions",
+          "street_line1": "76 Elm Park Mansions",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Chelsea area"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 17,
+    "complete_entries": 0,
+    "partial_entries": 12,
+    "minimal_entries": 5,
+    "redacted_entries": 0,
+    "handwritten_additions": 0,
+    "crossed_out_entries": 0,
+    "quality": "fair",
+    "legibility": "partially obscured",
+    "notable_features": ["Multiple Cicogna family entries", "International connections (Spain, Portugal, Luxembourg)", "Fifth Avenue NYC address"],
+    "continues_to_page": 12,
+    "continued_from_page": 10,
+    "split_entry_note": "No clear continuation from page 10"
+  },
+  "cross_references": [
+    {
+      "from_name": "Gianluca Cicogna",
+      "to_name": "Marina Cicogna",
+      "reference_type": "related_to",
+      "page_reference": null
+    },
+    {
+      "from_name": "Genoveffa Cicogna",
+      "to_name": "Gianfranco Cicogna",
+      "reference_type": "related_to",
+      "page_reference": null
+    }
+  ],
+  "entities": {
+    "people": ["Vikram Chaiyai", "John Chenevis-Trench", "Lucy Chenevis-Trench", "Gianfranco Cicogna", "Marina Cicogna", "Gianluca Cicogna", "Genoveffa Cicogna", "Pietro Cicciolani", "Inska Clerach", "Guiseppi Cipriani", "Gustavo Cisneros", "Patty Cisneros", "Lucy Clive", "Larry Cohen", "Isabel Claverino", "Jean Clesse", "Alice Fay", "Graham Clempson", "Emma Clempson", "Mandy Cochrane", "Dalit Cohen"],
+    "organizations": ["Carlo Piano"],
+    "locations": {
+      "cities": ["Malaga", "Puerto Banus", "London", "Treviso", "Rome", "Milan", "New York", "Palm Springs", "Boston", "Edinburgh", "Scottsdale", "Paris"],
+      "states": ["CA", "NY", "AZ", "Scotland"],
+      "countries": ["Spain", "UK", "Italy", "Switzerland", "USA", "Portugal", "Luxembourg", "France"]
+    }
+  },
+  "insights": [
+    "Page 11 continues C section with 17 entries including Cicogna family cluster",
+    "Puerto Banus, Spain address for Vikram Chaiyai - luxury resort destination",
+    "Multiple Cicogna family members with Italian and international connections",
+    "1050 Fifth Avenue address for Gianluca Cicogna - prestigious NYC location",
+    "78 Cadogan Court for Genoveffa Cicogna - exclusive Chelsea address",
+    "760 area code for Gianluca indicates Palm Springs/Desert California",
+    "617 area code suggests Boston connection for Gianluca Cicogna",
+    "818 area code for Pietro Cicciolani indicates LA Valley (Burbank/Glendale)",
+    "505 Park Avenue for Gustavo Cisneros - prominent Upper East Side address",
+    "00 34 country code confirms Spain for Chaiyai",
+    "00 351 country code for Isabel Claverino confirms Portugal",
+    "352 country code for Jean Clesse indicates Luxembourg",
+    "Edinburgh address for Inska Clerach - Scottish connection",
+    "W11 postal code for Lucy Clive - Notting Hill area London",
+    "Mix of European aristocracy and international business connections",
+    "Scottsdale, Arizona address for Larry Cohen with Italian work number"
+  ]
+}

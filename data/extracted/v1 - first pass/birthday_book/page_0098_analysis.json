@@ -1,0 +1,143 @@
+{
+  "page_number": 98,
+  "file_path": "data/birthday_book_images/page_0098.png",
+  "file_size_mb": 3.1087989807128906,
+  "type": "personal_photograph_with_message",
+  "content": {
+    "text": "He is the boyfriend of... we think he works for the CIA",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "description": "Formal photograph with handwritten caption suggesting intelligence connections",
+    "text_sections": {
+      "full_transcription": "He is the boyfriend of... we think he works for the CIA",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Unidentified individual in formal attire",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          98
+        ]
+      },
+      {
+        "name": "Boyfriend reference",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          98
+        ]
+      }
+    ],
+    "organizations": [
+      "CIA (Central Intelligence Agency)"
+    ],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Intelligence agency connection speculation",
+    "sensitivity_level": "high",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "personal_photograph_with_message"
+  },
+  "insights": [
+    "Reference to CIA suggests intelligence agency connections or speculation",
+    "Handwritten note indicates informal intelligence gathering or rumors",
+    "Professional appearance in photo consistent with government/intelligence work",
+    "Redaction of name suggests sensitive identity",
+    "Birthday book contains speculation about intelligence connections",
+    "Suggests network included individuals with potential government ties"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000098",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.168601",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Formal photograph of person in business suit",
+        "theme": "professional_formal",
+        "setting": "indoor_formal",
+        "elements": [
+          "business_attire",
+          "professional_setting"
+        ],
+        "individual_count": 2,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": [
+      "Black redaction bar over portion of handwritten text"
+    ],
+    "handwritten_notes": [
+      "He is the boyfriend of [REDACTED] we think he works for the CIA"
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Photograph with handwritten caption below",
+    "Shows two people: one in black clothing (redacted), one in suit",
+    "Man in suit and tie standing in doorway or hallway",
+    "Handwritten text: 'He is the boyfriend of [REDACTED]'",
+    "'we think he works for the CIA' written below",
+    "Black redaction box covering person on left",
+    "Black redaction box covering name in caption",
+    "Professional/formal setting visible",
+    "Photo appears to be from 1980s-1990s",
+    "Document stamped HOUSE_OVERSIGHT_000098",
+    "Caption suggests speculation about intelligence connections"
+  ],
+  "investigative_leads": []
+}

@@ -1,0 +1,96 @@
+{
+  "page_number": 68,
+  "file_path": "data/birthday_book_images/page_0068.png",
+  "file_size_mb": 3.27095890045166,
+  "type": "yearbook_class_photos",
+  "content": {
+    "text": "Class group photos with student names listed below each photo",
+    "handwritten": false,
+    "typed": true,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "[Below Class Photograph for Class 9SP1] Class 9SP1\n Row 1: Robert Speer, Howard Bernstein, Michael Perillo, Phyllis Malina, dale Silverman\n Kathy Abolafia, Philip Messing, Mitchel Alvo. \n Row 2: Phillip Bronowitz, Steven Idell, Marshal Silfen, Mark Lefkowitz, Mr Friedlander \n Willam Molenaor, Mitchell Paris, Gary Daniels, Michael Buchholz. \n Row 3: Donna Orlando, Gloria Goldstein, Jennifer Moss, Lisa Schneider, Joyce Pell, Sharon Klicka, Susan Fishbein, Barbara Smollik, Robin Glyn, Shirley Steinhauer.\n Row 4: Kenneth Hirsch, Jeffrey O'Connor, Mark Kappel, Arnold Widelitz, Zing Eng, \n Barry Gordon, David Brown, Ira Leibin, Michael Rackoff. \n Camera Shy: Joel Gedacht. \n [Above Class Photograph for Class 9SP2] Class 9SP2 \n Row 1: Sharon Lustbader, Rose Weg, James Braude, Isaac Terkeltaub, Stewart Winograd,\n Arthur Goldfarb, Bruce Reznick, Sheryl Buchholtz, Ellen Light.\n Row 2: Sullen Naham, Sindee Smolowitz, Amy Schonhaut, Debra Spilfogel, Mr. Goldstein \n Francine Rosen, Koren Wozvock, Beth Milgrim, Evelyn Lagerman.\n Row 3: Gary Strauch, Paul Tubin, Eileen Gress, Linda Krakower, Susan Rice, Andrea Reiber,\n Betty Buckbinder, James Rosen, Alan Ellis.\n Row 4: Barry Weiner, Joseph Bressler, Jay Meizlish, March Schier, Marc Levenstein.",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Class group photographs",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "yearbook_class_photos"
+  },
+  "insights": [
+    "Contains formal class group photographs",
+    "Student names listed under each photo",
+    "Multiple classes represented",
+    "Formal yearbook-style layout"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000068",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.152757",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Two formal class group photos with multiple students in each",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": null,
+        "era_indicators": [],
+        "photo_quality": null,
+        "photo_type": null
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [],
+  "investigative_leads": []
+}

@@ -1,0 +1,212 @@
+{
+  "page_number": 25,
+  "document_type": "Flight Log",
+  "metadata": {
+    "time_period": "November 1993",
+    "pilot": "David Rodgers",
+    "aircraft_registration": "N928GA",
+    "aircraft_make_model": "GULFSTREAM",
+    "total_flight_time_page": "43:15",
+    "amt_forward": "0:30",
+    "total_to_date": "4205:15"
+  },
+  "flights": [
+    {
+      "date": "11/16/93",
+      "aircraft": "N928GA",
+      "departure": "PBI",
+      "arrival": "LAX",
+      "flight_time": "5:05",
+      "passengers": "JE, GM, TW, KB, Rodm, CM",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "11/17/93",
+      "aircraft": "N928GA",
+      "departure": "LAX",
+      "arrival": "SFO",
+      "flight_time": "1:20",
+      "passengers": "",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "11/18/93",
+      "aircraft": "N928GA",
+      "departure": "SFO",
+      "arrival": "TEB",
+      "flight_time": "5:15",
+      "passengers": "JE, LAW",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "11/19/93",
+      "aircraft": "N928GA",
+      "departure": "TEB",
+      "arrival": "BWI",
+      "flight_time": "0:55",
+      "passengers": "",
+      "endorsements": "",
+      "aircraft_category": "I"
+    },
+    {
+      "date": "11/20/93",
+      "aircraft": "N928GA",
+      "departure": "BWI",
+      "arrival": "PBI",
+      "flight_time": "2:15",
+      "passengers": "",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "11/21/93",
+      "aircraft": "N928GA",
+      "departure": "PBI",
+      "arrival": "CMH",
+      "flight_time": "2:30",
+      "passengers": "JE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "11/22/93",
+      "aircraft": "N928GA",
+      "departure": "CMH",
+      "arrival": "PBI",
+      "flight_time": "2:25",
+      "passengers": "JE, SM, AH, AA, KB, GM",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "11/23/93",
+      "aircraft": "N928GA",
+      "departure": "PBI",
+      "arrival": "CMH",
+      "flight_time": "2:30",
+      "passengers": "",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "11/24/93",
+      "aircraft": "N928GA",
+      "departure": "CMH",
+      "arrival": "PBI",
+      "flight_time": "2:15",
+      "passengers": "JE, GM, VP, GM, Paul, Rodm, Rodm",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "11/25/93",
+      "aircraft": "N928GA",
+      "departure": "PBI",
+      "arrival": "ASE",
+      "flight_time": "4:05",
+      "passengers": "JE, GM, LKM",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "11/28/93",
+      "aircraft": "N928GA",
+      "departure": "ASE",
+      "arrival": "PBI",
+      "flight_time": "4:00",
+      "passengers": "JE, GM",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "11/29/93",
+      "aircraft": "N928GA",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:35",
+      "passengers": "JE, TK",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "11/29/93",
+      "aircraft": "N928GA",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:40",
+      "passengers": "",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "11/30/93",
+      "aircraft": "N928GA",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:35",
+      "passengers": "JE, CM, GC, Evcelyn",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "11/30/93",
+      "aircraft": "N928GA",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:40",
+      "passengers": "",
+      "endorsements": "",
+      "aircraft_category": "II"
+    }
+  ],
+  "entities": {
+    "people": [
+      {"name": "Jeffrey Epstein", "abbreviation": "JE", "role": "Primary passenger"},
+      {"name": "Ghislaine Maxwell", "abbreviation": "GM", "role": "Frequent passenger"},
+      {"name": "[Unknown TW]", "abbreviation": "TW", "role": "Passenger"},
+      {"name": "[Unknown KB]", "abbreviation": "KB", "role": "Passenger"},
+      {"name": "[Unknown Rodm]", "abbreviation": "Rodm", "role": "Passenger"},
+      {"name": "[Unknown CM]", "abbreviation": "CM", "role": "Passenger"},
+      {"name": "[Unknown LAW]", "abbreviation": "LAW", "role": "Passenger"},
+      {"name": "[Unknown SM]", "abbreviation": "SM", "role": "Passenger"},
+      {"name": "[Unknown AH]", "abbreviation": "AH", "role": "Passenger"},
+      {"name": "[Unknown AA]", "abbreviation": "AA", "role": "Passenger"},
+      {"name": "[Unknown VP]", "abbreviation": "VP", "role": "Passenger"},
+      {"name": "[Unknown Paul]", "abbreviation": "Paul", "role": "Passenger"},
+      {"name": "[Unknown LKM]", "abbreviation": "LKM", "role": "Passenger"},
+      {"name": "[Unknown TK]", "abbreviation": "TK", "role": "Passenger"},
+      {"name": "[Unknown GC]", "abbreviation": "GC", "role": "Passenger"},
+      {"name": "[Unknown Evcelyn]", "abbreviation": "Evcelyn", "role": "Passenger"},
+      {"name": "David Rodgers", "abbreviation": "", "role": "Pilot"}
+    ],
+    "locations": [
+      {"code": "PBI", "name": "Palm Beach International Airport", "location": "West Palm Beach, FL"},
+      {"code": "LAX", "name": "Los Angeles International Airport", "location": "Los Angeles, CA"},
+      {"code": "SFO", "name": "San Francisco International Airport", "location": "San Francisco, CA"},
+      {"code": "TEB", "name": "Teterboro Airport", "location": "Teterboro, NJ"},
+      {"code": "BWI", "name": "Baltimore Washington International Airport", "location": "Baltimore, MD"},
+      {"code": "CMH", "name": "John Glenn Columbus International Airport", "location": "Columbus, OH"},
+      {"code": "ASE", "name": "Aspen/Pitkin County Airport", "location": "Aspen, CO"}
+    ],
+    "aircraft": [
+      {"registration": "N928GA", "type": "Gulfstream", "category": "Private Jet"}
+    ]
+  },
+  "insights": [
+    "Heavy travel activity in November 1993 with 15 flights logged",
+    "Multiple round trips between PBI and TEB (New York area)",
+    "Thanksgiving period travel to Aspen (ASE) from November 25-28",
+    "Columbus, OH (CMH) appears to be a frequent destination with multiple round trips",
+    "Jeffrey Epstein (JE) is primary passenger on most flights",
+    "Ghislaine Maxwell (GM) frequently accompanies Epstein",
+    "West Coast travel includes LAX and SFO stops",
+    "End of November shows increased activity with same-day round trips",
+    "Multiple passengers often travel together, suggesting social/business groups",
+    "Aircraft category consistently marked as II (turbine aircraft)",
+    "Total flight time accumulating significant hours (over 43 hours this page)",
+    "Pattern of returning to PBI (Palm Beach) as primary base"
+  ]
+}

@@ -1,0 +1,649 @@
+{
+  "page_number": 30,
+  "alphabetical_section": "K",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "030_212_644_0020",
+      "name": {
+        "full_name": null,
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": null,
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "212 644 0020 (h)", "formatting": "US format"},
+        {"type": "home", "number": "212 644 0020 (h)", "formatting": "US format"},
+        {"type": "mobile", "number": "212 644 5012 (fmobd A)", "formatting": "US format"},
+        {"type": "mobile", "number": "212 644 1003 (mobos)", "formatting": "US format"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "phones": "high"
+      },
+      "formatting_notes": "Orphan NYC numbers"
+    },
+    {
+      "entry_id": "030_katzenellenbogen_mark",
+      "name": {
+        "full_name": "Katzenellenbogen, Mark",
+        "prefix": null,
+        "first_name": "Mark",
+        "middle_name": null,
+        "last_name": "Katzenellenbogen",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "01 43 259 0072 P", "formatting": "French format"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Paris contact"
+    },
+    {
+      "entry_id": "030_keeling_sarah",
+      "name": {
+        "full_name": "Keeling, Sarah",
+        "prefix": null,
+        "first_name": "Sarah",
+        "middle_name": null,
+        "last_name": "Keeling",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001(087-587", "formatting": "International - unclear"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "low"
+      },
+      "formatting_notes": "Incomplete phone number"
+    },
+    {
+      "entry_id": "030_kegan_rory",
+      "name": {
+        "full_name": "Rory Kegan",
+        "prefix": null,
+        "first_name": "Rory",
+        "middle_name": null,
+        "last_name": "Kegan",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207-727 7778", "formatting": "UK format"},
+        {"type": "work", "number": "0207-602 2048 (w)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["17 Rexdale Place", "London W11"],
+          "city": "London",
+          "postal_code": "W11",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "medium",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Single name entry"
+    },
+    {
+      "entry_id": "030_keldan_amanda",
+      "name": {
+        "full_name": "Keldan, Amanda",
+        "prefix": null,
+        "first_name": "Amanda",
+        "middle_name": null,
+        "last_name": "Keldan",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207- 792 3601(h)", "formatting": "UK format"},
+        {"type": "mobile", "number": "212 623 1001 (w)", "formatting": "US format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["3 Hilden Road", "Holland Park"],
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "UK/US connections. 'Amanda Keldan Jewelry'"
+    },
+    {
+      "entry_id": "030_keidan_jon",
+      "name": {
+        "full_name": "Keidan, Jon",
+        "prefix": null,
+        "first_name": "Jon",
+        "middle_name": null,
+        "last_name": "Keidan",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "01 293 528 6086", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "UK contact"
+    },
+    {
+      "entry_id": "030_jon_keidanmgmt",
+      "name": {
+        "full_name": null,
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": null,
+        "suffix": null
+      },
+      "phones": [],
+      "emails": [
+        {"type": "business", "email": "jon@keidanmgmt.com"}
+      ],
+      "addresses": [],
+      "handwritten_notes": ["Email: jon@keidanmgmt.com"],
+      "confidence": {
+        "emails": "high"
+      },
+      "formatting_notes": "Orphan email - continuation"
+    },
+    {
+      "entry_id": "030_keller_georgie",
+      "name": {
+        "full_name": "Keller Georgie",
+        "prefix": null,
+        "first_name": "Georgie",
+        "middle_name": null,
+        "last_name": "Keller",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 772 231 6369", "formatting": "International to US"},
+        {"type": "home", "number": "001 614 794 5096", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Mobile (h) - 389 8829"],
+          "notes": "Mobile number only"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "US contact"
+    },
+    {
+      "entry_id": "030_kellett_fraysse_caroline",
+      "name": {
+        "full_name": "Kellett Fraysse, Caroline",
+        "prefix": null,
+        "first_name": "Caroline",
+        "middle_name": null,
+        "last_name": "Kellett Fraysse",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "00 33 1 4009 8180", "formatting": "International to France"},
+        {"type": "mobile", "number": "00 33 6 03 00 07 52", "formatting": "French mobile"}
+      ],
+      "emails": [
+        {"type": "personal", "email": "kellett.fraysse@internet"}
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["50 rue Ampere", "Paris 75017"],
+          "city": "Paris",
+          "postal_code": "75017",
+          "country": "France"
+        }
+      ],
+      "handwritten_notes": ["Email: kellett.fraysse@internet"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Paris contact"
+    },
+    {
+      "entry_id": "030_kelmenson_leo_arthur_gayl",
+      "name": {
+        "full_name": "Kelmenson, Leo-Arthur and Gayl",
+        "prefix": null,
+        "first_name": "Leo-Arthur",
+        "middle_name": null,
+        "last_name": "Kelmenson",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Gayl"
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 925 3460", "formatting": "International to US"},
+        {"type": "mobile", "number": "917 847 8121 (w)", "formatting": "US format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["400 West St Raymond & Edie"],
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": ["212 667 3220(w)"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "NYC couple"
+    },
+    {
+      "entry_id": "030_kennedy_cuomo_andrew_kerry",
+      "name": {
+        "full_name": "Kennedy Cuomo, Andrew & Kerry",
+        "prefix": null,
+        "first_name": "Andrew",
+        "middle_name": null,
+        "last_name": "Kennedy Cuomo",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Kerry"
+      },
+      "phones": [
+        {"type": "home", "number": "001 303 925 4801", "formatting": "International to US"},
+        {"type": "mobile", "number": "001 310 313 1839 (n)"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["1944 loom street", "Aspen"],
+          "city": "Aspen",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Aspen couple"
+    },
+    {
+      "entry_id": "030_kennedy_jr_ted",
+      "name": {
+        "full_name": "Kennedy Jr, Ted",
+        "prefix": null,
+        "first_name": "Ted",
+        "middle_name": null,
+        "last_name": "Kennedy",
+        "suffix": "Jr"
+      },
+      "phones": [
+        {"type": "work", "number": "203 625 6300", "formatting": "US format"},
+        {"type": "work", "number": "001 512 531 2218", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "business",
+          "address_lines": ["Post 447 Jamestown Road", "New Haven", "Connecticut 06515"],
+          "city": "New Haven",
+          "state": "CT",
+          "postal_code": "06515",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Kennedy family - Senator Ted Kennedy's son"
+    },
+    {
+      "entry_id": "030_kennedy_bobby_mary",
+      "name": {
+        "full_name": "Kennedy, Bobby & Mary",
+        "prefix": null,
+        "first_name": "Bobby",
+        "middle_name": null,
+        "last_name": "Kennedy",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Mary"
+      },
+      "phones": [
+        {"type": "home", "number": "212 535 8109", "formatting": "US format"},
+        {"type": "home", "number": "001 914 241 3980", "formatting": "International to US"}
+      ],
+      "emails": [
+        {"type": "personal", "email": "raekrfkreearl@earth.com"}
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["16 Buckled Road", "Mt. Kisco, NY 10549"],
+          "city": "Mt. Kisco",
+          "state": "NY",
+          "postal_code": "10549",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": ["Email: raekrfkreearl@earth.com", "(514 1970)", "T. 212 625 4250 and 42 RD Associates (OOM)", "0207 563 9990 Ronan Farring (LON)"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Kennedy family - Robert F. Kennedy Jr."
+    },
+    {
+      "entry_id": "030_kennedy_ethel",
+      "name": {
+        "full_name": "Kennedy, Ethel",
+        "prefix": null,
+        "first_name": "Ethel",
+        "middle_name": null,
+        "last_name": "Kennedy",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "703-556-9391(n)", "formatting": "US format"},
+        {"type": "home", "number": "001 305 895 4478 (h)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["1147 Chain bridge Road", "McLean Va 22101"],
+          "city": "McLean",
+          "state": "VA",
+          "postal_code": "22101",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Kennedy family - Robert F. Kennedy's widow"
+    },
+    {
+      "entry_id": "030_kennedy_senator_edward",
+      "name": {
+        "full_name": "Kennedy, Senator Edward",
+        "prefix": "Senator",
+        "first_name": "Edward",
+        "middle_name": null,
+        "last_name": "Kennedy",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "work", "number": "001 617 565 3170", "formatting": "International to US"},
+        {"type": "work", "number": "001 202 224 4543 (w)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "business",
+          "address_lines": ["2400 John F Kennedy Road", "Hyannis Port Ma"],
+          "city": "Hyannis Port",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "US Senator - Ted Kennedy"
+    },
+    {
+      "entry_id": "030_kersner_sol",
+      "name": {
+        "full_name": "Kersner, Sol",
+        "prefix": null,
+        "first_name": "Sol",
+        "middle_name": null,
+        "last_name": "Kersner",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 570 1066 (", "formatting": "International to US"},
+        {"type": "mobile", "number": "917 861 4229 (c)", "formatting": "US format"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "NYC contact"
+    },
+    {
+      "entry_id": "030_khayal_antoine_jana_george",
+      "name": {
+        "full_name": "Khayat, Antoine, Jana & George",
+        "prefix": null,
+        "first_name": "Antoine",
+        "middle_name": null,
+        "last_name": "Khayat",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 861 6080", "formatting": "International to US"},
+        {"type": "home", "number": "212 861 1040 (w)", "formatting": "US format"},
+        {"type": "home", "number": "517 491 4411 Emergency Contact", "formatting": "US format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["47 Ramsgate Drive", "PO Box 720"],
+          "notes": "Address incomplete"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "low"
+      },
+      "formatting_notes": "NYC contact with family members"
+    },
+    {
+      "entry_id": "030_kidd_jemma",
+      "name": {
+        "full_name": "Kidd Jemma",
+        "prefix": null,
+        "first_name": "Jemma",
+        "middle_name": null,
+        "last_name": "Kidd",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "01 491 651 0787(h)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Model/makeup artist"
+    },
+    {
+      "entry_id": "030_king_abby",
+      "name": {
+        "full_name": "King, Abby",
+        "prefix": null,
+        "first_name": "Abby",
+        "middle_name": null,
+        "last_name": "King",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207-727 5782(h)", "formatting": "UK format"},
+        {"type": "mobile", "number": "0802 471 4117 (c)", "formatting": "UK mobile"}
+      ],
+      "emails": [
+        {"type": "business", "email": "abbykind@hotmail.co"}
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["12 Kingwood", "London"],
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": ["Email: abbykind@hotmail.co", "Mobile 55", "25 Denbeigh Grove", "12 London SW1U 2LA", "00 44 207 736 6868 (w)"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "UK contact"
+    },
+    {
+      "entry_id": "030_kennedy_jo",
+      "name": {
+        "full_name": "Kennedy, Jo",
+        "prefix": null,
+        "first_name": "Jo",
+        "middle_name": null,
+        "last_name": "Kennedy",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 617 423 2000 (w)", "formatting": "International to US"},
+        {"type": "home", "number": "001 603 236 5101 (h) USA", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["45 Broadway Ave", "Arlington MA 02174"],
+          "city": "Arlington",
+          "state": "MA",
+          "postal_code": "02174",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Kennedy family member"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 21,
+    "legibility": "excellent",
+    "page_condition": "good",
+    "notes": "Notable entries include multiple Kennedy family members - Senator Ted Kennedy, Ted Kennedy Jr., Robert F. Kennedy Jr. (Bobby) & Mary, and Ethel Kennedy (RFK's widow). Also includes Jemma Kidd (model/makeup artist)"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Mark Katzenellenbogen",
+      "Sarah Keeling",
+      "Rory Kegan",
+      "Amanda Keidan",
+      "Jon Keidan",
+      "Georgie Keller",
+      "Caroline Kellett Fraysse",
+      "Leo-Arthur Kelmenson",
+      "Gayl Kelmenson",
+      "Andrew Kennedy Cuomo",
+      "Kerry Kennedy Cuomo",
+      "Ted Kennedy Jr",
+      "Bobby Kennedy",
+      "Mary Kennedy",
+      "Ethel Kennedy",
+      "Senator Edward Kennedy",
+      "Sol Kersner",
+      "Antoine Khayat",
+      "Jana Khayat",
+      "George Khayat",
+      "Jemma Kidd",
+      "Abby King",
+      "Jo Kennedy"
+    ],
+    "organizations": [],
+    "locations": [
+      "New York, NY",
+      "London, UK",
+      "Paris, France",
+      "Aspen, CO",
+      "New Haven, CT",
+      "Mt. Kisco, NY",
+      "McLean, VA",
+      "Hyannis Port, MA"
+    ]
+  },
+  "insights": [
+    "Multiple Kennedy family members - political dynasty connections",
+    "Senator Edward (Ted) Kennedy - prominent US Senator",
+    "Ted Kennedy Jr. - son of Senator Ted Kennedy",
+    "Robert F. Kennedy Jr. (Bobby) with wife Mary - environmental activist",
+    "Ethel Kennedy - widow of Robert F. Kennedy, matriarch",
+    "Hyannis Port address - Kennedy family compound",
+    "Jemma Kidd - British model and makeup artist",
+    "Mt. Kisco, NY and McLean, VA - affluent Kennedy family residences",
+    "Mix of political royalty, European contacts, and NYC elite",
+    "Aspen connections indicating wealthy social circle"
+  ]
+}

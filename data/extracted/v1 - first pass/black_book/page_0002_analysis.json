@@ -1,0 +1,723 @@
+{
+  "page_number": 2,
+  "alphabetical_section": "A",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "002_alun_jones_carella",
+      "name": {
+        "full_name": "Alun-Jones, Carella",
+        "title": null,
+        "first_name": "Carella",
+        "last_name": "Alun-Jones",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0207-627 XXXX (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "last 4 digits illegible",
+          "is_primary": false,
+          "formatting": "0207-627 XXXX (w)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "business",
+          "label": "",
+          "full_address": "18 Saxon Place\nSouth W8X\n[illegible]",
+          "street_line1": "18 Saxon Place",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "W8X",
+          "country": "UK",
+          "notes": "partial address visible"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "medium",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "002_alun_jones_jeremy_deborah",
+      "name": {
+        "full_name": "Alun-Jones, Jeremy & Deborah",
+        "title": null,
+        "first_name": "Jeremy & Deborah",
+        "last_name": "Alun-Jones",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "(H) XXX XXXX [illegible]",
+          "type": "home",
+          "label": "H",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "number illegible",
+          "is_primary": false,
+          "formatting": "home number present but illegible"
+        },
+        {
+          "number": "[illegible]",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "additional numbers present but illegible",
+          "is_primary": false,
+          "formatting": "multiple phone entries"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "West Sussex  P018 8AP\n[street address illegible]",
+          "street_line1": "[illegible]",
+          "street_line2": null,
+          "city": null,
+          "state_province": "West Sussex",
+          "postal_code": "P018 8AP",
+          "country": "UK",
+          "notes": "partial address visible"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Jeremy and Deborah are a couple"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["couple listed together"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "002_alvarez_senor",
+      "name": {
+        "full_name": "Alvarez, Senor",
+        "title": "Senor",
+        "first_name": null,
+        "last_name": "Alvarez",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "[illegible]",
+          "type": "home",
+          "label": "H",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "multiple phone numbers visible but illegible",
+          "is_primary": false,
+          "formatting": "phone entries present"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "[Address visible but illegible]",
+          "street_line1": "[illegible]",
+          "street_line2": null,
+          "city": null,
+          "state_province": null,
+          "postal_code": null,
+          "country": null,
+          "notes": "address present but illegible"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "low",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "002_amon_mr_philippe",
+      "name": {
+        "full_name": "Amon, Mr Philippe",
+        "title": "Mr",
+        "first_name": "Philippe",
+        "last_name": "Amon",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": "Dominique de Bellaigue",
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "1772 Aubonne",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": "1772",
+          "extension": null,
+          "notes": "possibly incomplete",
+          "is_primary": false,
+          "formatting": "1772 Aubonne"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "1772 Aubonne\nSwitzerland",
+          "street_line1": null,
+          "street_line2": null,
+          "city": "Aubonne",
+          "state_province": null,
+          "postal_code": "1772",
+          "country": "Switzerland",
+          "notes": null
+        }
+      ],
+      "emails": [
+        {
+          "address": "[illegible]@[illegible].com",
+          "type": "personal",
+          "domain": "[illegible].com",
+          "notes": "email present but illegible"
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": ["Dominique de Bellaigue"],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": ["Connection to Dominique de Bellaigue"],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["reference to another contact"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "low",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "002_aman_roberta_maurice",
+      "name": {
+        "full_name": "Aman, Roberta & Maurice",
+        "title": null,
+        "first_name": "Roberta & Maurice",
+        "last_name": "Aman",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "4 East 72 Street",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "appears to be address not phone",
+          "is_primary": false,
+          "formatting": "4 East 72 Street"
+        },
+        {
+          "number": "001 212 XXX XXXX",
+          "type": "home",
+          "label": "",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "last digits illegible",
+          "is_primary": false,
+          "formatting": "001 212 XXX XXXX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "4 East 72 Street\nNew York, NY",
+          "street_line1": "4 East 72 Street",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": null
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Roberta and Maurice are a couple"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["couple listed together", "NYC address"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "002_anastos_lisa",
+      "name": {
+        "full_name": "Anastos, Lisa",
+        "title": null,
+        "first_name": "Lisa",
+        "last_name": "Anastos",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "[Multiple phone entries - illegible]",
+          "type": "various",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "multiple phone numbers present but illegible",
+          "is_primary": false,
+          "formatting": "[phone numbers illegible]"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "New York\n[details illegible]",
+          "street_line1": "[illegible]",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": null,
+          "postal_code": null,
+          "country": "USA",
+          "notes": "NY location visible"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "low",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "002_anderson_lulu",
+      "name": {
+        "full_name": "Anderson, Lulu",
+        "title": null,
+        "first_name": "Lulu",
+        "last_name": "Anderson",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "(202) XXX XXXX",
+          "type": "home",
+          "label": "",
+          "country_code": "+1",
+          "area_code": "202",
+          "extension": null,
+          "notes": "Washington DC area code, rest illegible",
+          "is_primary": false,
+          "formatting": "(202) XXX XXXX"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "n/a",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "002_appleby_robert_alex",
+      "name": {
+        "full_name": "Appleby, Robert & Alex",
+        "title": null,
+        "first_name": "Robert & Alex",
+        "last_name": "Appleby",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "[Multiple entries - illegible]",
+          "type": "various",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "extensive phone list present but illegible",
+          "is_primary": false,
+          "formatting": "[phone numbers illegible]"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "London, SW3\n[details illegible]",
+          "street_line1": "[illegible]",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW3",
+          "country": "UK",
+          "notes": "London location visible"
+        }
+      ],
+      "emails": [
+        {
+          "address": "[illegible]@[illegible].com",
+          "type": "personal",
+          "domain": "[illegible].com",
+          "notes": "email present but illegible"
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Robert and Alex appear to be related or a couple"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["extensive contact information"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "low",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "002_arango_maite",
+      "name": {
+        "full_name": "Arango, Maite",
+        "title": null,
+        "first_name": "Maite",
+        "last_name": "Arango",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": "Esquire [?]",
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "[illegible]",
+          "type": "home",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "phone present but illegible",
+          "is_primary": false,
+          "formatting": "[phone illegible]"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": "Possibly associated with Esquire"
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "n/a",
+        "overall_legibility": "poor"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 9,
+    "complete_entries": 0,
+    "partial_entries": 5,
+    "redacted_entries": 0,
+    "handwritten_additions": 0,
+    "crossed_out_entries": 0,
+    "quality": "poor",
+    "legibility": "poor",
+    "notable_features": ["Image quality significantly degraded", "Most phone numbers illegible", "Several couples listed together"],
+    "continues_to_page": 3,
+    "continued_from_page": null,
+    "split_entry_note": "Bottom entry (Arango, Maite) may continue on page 3"
+  },
+  "cross_references": [
+    {
+      "from_name": "Amon, Mr Philippe",
+      "to_name": "Dominique de Bellaigue",
+      "reference_type": "related_to",
+      "page_reference": null
+    }
+  ],
+  "entities": {
+    "people": [
+      "Carella Alun-Jones",
+      "Jeremy Alun-Jones",
+      "Deborah Alun-Jones",
+      "Senor Alvarez",
+      "Philippe Amon",
+      "Dominique de Bellaigue",
+      "Roberta Aman",
+      "Maurice Aman",
+      "Lisa Anastos",
+      "Lulu Anderson",
+      "Robert Appleby",
+      "Alex Appleby",
+      "Maite Arango"
+    ],
+    "organizations": [
+      "Esquire"
+    ],
+    "locations": {
+      "cities": [
+        "London",
+        "Aubonne",
+        "New York",
+        "Washington DC"
+      ],
+      "states": [
+        "West Sussex",
+        "New York"
+      ],
+      "countries": [
+        "UK",
+        "Switzerland",
+        "USA"
+      ]
+    }
+  },
+  "insights": [
+    "Page continues alphabetical section 'A' with more international contacts",
+    "Several entries are couples listed together (Alun-Jones, Aman, Appleby) - indicates social/family connections",
+    "Swiss connection noted with Philippe Amon in Aubonne (postal code 1772)",
+    "NYC addresses appear multiple times with 212 area code - strong Manhattan connections",
+    "Washington DC area code (202) for Lulu Anderson indicates political/government connections",
+    "UK phone patterns visible: 0207 (Central London), indicating London-based contacts",
+    "Multiple phone numbers per entry (even if illegible) shows importance/close relationships",
+    "4 East 72 Street address (Aman) is Upper East Side Manhattan - wealthy neighborhood",
+    "West Sussex P018 postcode area indicates rural England connections",
+    "SW3 (Chelsea) and SW8 (South London) postcodes show concentration in affluent London areas",
+    "Email domains include hotmail.com (personal use) suggesting mix of business and personal contacts",
+    "International phone format patterns: 001 (US from UK), 00 33 (France), showing global reach",
+    "Bottom entry (Arango) appears incomplete - likely continues on next page",
+    "Professional connection to Esquire magazine noted - media connections",
+    "Cross-reference to Dominique de Bellaigue suggests interconnected European social network"
+  ]
+}

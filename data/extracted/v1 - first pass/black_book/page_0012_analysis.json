@@ -1,0 +1,1124 @@
+{
+  "page_number": 12,
+  "alphabetical_section": "C",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "page12_cohen_peter",
+      "name": {
+        "full_name": "Cohen Peter",
+        "title": null,
+        "first_name": "Peter",
+        "last_name": "Cohen",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 203 761 527XXX",
+          "type": "unknown",
+          "label": null,
+          "country_code": "001",
+          "area_code": "203",
+          "extension": null,
+          "notes": "Connecticut area",
+          "is_primary": false,
+          "formatting": "001 203 761 527XXX"
+        },
+        {
+          "number": "908 988 88958",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": "908",
+          "extension": null,
+          "notes": "New Jersey area",
+          "is_primary": false,
+          "formatting": "908 988 88958"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "200 South Point Drive\nApt 3202\nParis Avenue\nSouth Miami\n[illegible]@aol.com",
+          "street_line1": "200 South Point Drive",
+          "street_line2": "Apt 3202",
+          "city": "South Miami",
+          "state_province": "FL",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "South Beach area"
+        }
+      ],
+      "emails": [
+        {
+          "address": "[illegible]@aol.com",
+          "type": "personal",
+          "domain": "aol.com",
+          "notes": null
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "medium",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page12_coleman",
+      "name": {
+        "full_name": "Coleman",
+        "title": null,
+        "first_name": null,
+        "last_name": "Coleman",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 516 200 4258 (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": "001",
+          "area_code": "516",
+          "extension": null,
+          "notes": "Long Island area",
+          "is_primary": false,
+          "formatting": "001 516 200 4258 (w)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "New York\nNY 10021",
+          "street_line1": null,
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Last name only"]
+      },
+      "data_quality": {
+        "name_confidence": "medium",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page12_coleridge_nicholas_daisy",
+      "name": {
+        "full_name": "Coleridge, Nicholas & Daisy",
+        "title": null,
+        "first_name": "Nicholas",
+        "last_name": "Coleridge",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "01144 207 221 720XX6",
+          "type": "unknown",
+          "label": null,
+          "country_code": "01144",
+          "area_code": "207",
+          "extension": null,
+          "notes": "UK London from international",
+          "is_primary": false,
+          "formatting": "01144 207 221 720XX6"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "11 Pembridge Road\nLondon",
+          "street_line1": "11 Pembridge Road",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Notting Hill area"
+        }
+      ],
+      "emails": [
+        {
+          "address": "[illegible]@condenet.co.uk",
+          "type": "business",
+          "domain": "condenet.co.uk",
+          "notes": "Condé Nast UK"
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Daisy Coleridge"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Condé Nast connection"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "medium",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page12_colle_jeffrey",
+      "name": {
+        "full_name": "Colle Jeffrey",
+        "title": null,
+        "first_name": "Jeffrey",
+        "last_name": "Colle",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 516 466 631XXX",
+          "type": "unknown",
+          "label": null,
+          "country_code": "001",
+          "area_code": "516",
+          "extension": null,
+          "notes": "Long Island area",
+          "is_primary": false,
+          "formatting": "001 516 466 631XXX"
+        },
+        {
+          "number": "001 516 922 8950(w)",
+          "type": "work",
+          "label": "w",
+          "country_code": "001",
+          "area_code": "516",
+          "extension": null,
+          "notes": "Long Island area",
+          "is_primary": false,
+          "formatting": "001 516 922 8950(w)"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "medium",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page12_collins_phil_orianne",
+      "name": {
+        "full_name": "Collins Phil & Orianne",
+        "title": null,
+        "first_name": "Phil",
+        "last_name": "Collins",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "41 22 994 40 14 (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": "41",
+          "area_code": "22",
+          "extension": null,
+          "notes": "Geneva, Switzerland",
+          "is_primary": false,
+          "formatting": "41 22 994 40 14 (w)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Route des Montalays\n81 56 67738153(h) [illegible]\n81 758 442 30111(h)",
+          "street_line1": "Route des Montalays",
+          "street_line2": null,
+          "city": null,
+          "state_province": null,
+          "postal_code": null,
+          "country": "Switzerland",
+          "notes": "Based on phone code"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Orianne Collins"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Musician Phil Collins"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "medium",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page12_conrad_henrietta",
+      "name": {
+        "full_name": "Conrad, Henrietta",
+        "title": null,
+        "first_name": "Henrietta",
+        "last_name": "Conrad",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0207 XXX XXXX (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": null,
+          "area_code": "0207",
+          "extension": null,
+          "notes": "Central London",
+          "is_primary": false,
+          "formatting": "0207 XXX XXXX (h)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Ledgebrook Hans\nLondon XXX",
+          "street_line1": "Ledgebrook Hans",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": null
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page12_constantine_susannah_stan",
+      "name": {
+        "full_name": "Constantine, Susannah Stan Bar",
+        "title": null,
+        "first_name": "Susannah",
+        "last_name": "Constantine",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": "Stan Bar",
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0207 258 2232XX",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": "0207",
+          "extension": null,
+          "notes": "Central London",
+          "is_primary": false,
+          "formatting": "0207 258 2232XX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "[illegible] cottage\n[illegible] (Penny Cottage)\nN.W.1 BELL 2203",
+          "street_line1": "[illegible] cottage",
+          "street_line2": "Penny Cottage",
+          "city": "London",
+          "state_province": null,
+          "postal_code": "N.W.1",
+          "country": "UK",
+          "notes": "North London"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page12_cooke_clive",
+      "name": {
+        "full_name": "Cooke, Clive",
+        "title": null,
+        "first_name": "Clive",
+        "last_name": "Cooke",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 718 264 1438 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "001",
+          "area_code": "718",
+          "extension": null,
+          "notes": "NYC outer boroughs",
+          "is_primary": false,
+          "formatting": "001 718 264 1438 (h)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "New York, NY 10021\n242 Park Avenue #531\n780 Park Avenue",
+          "street_line1": "780 Park Avenue",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page12_cotterell_harry",
+      "name": {
+        "full_name": "Cotterell, Harry",
+        "title": null,
+        "first_name": "Harry",
+        "last_name": "Cotterell",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "01672 521 237",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": "01672",
+          "extension": null,
+          "notes": "UK Marlborough area",
+          "is_primary": false,
+          "formatting": "01672 521 237"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Norton Court\nStantons - Marlborough\nWilts SN8",
+          "street_line1": "Norton Court",
+          "street_line2": "Stantons",
+          "city": "Marlborough",
+          "state_province": "Wiltshire",
+          "postal_code": "SN8",
+          "country": "UK",
+          "notes": null
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page12_cordle_ms_rachel",
+      "name": {
+        "full_name": "Cordle, Ms Rachel",
+        "title": "Ms",
+        "first_name": "Rachel",
+        "last_name": "Cordle",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "07 718 172 772",
+          "type": "mobile",
+          "label": null,
+          "country_code": null,
+          "area_code": "07718",
+          "extension": null,
+          "notes": "UK mobile",
+          "is_primary": false,
+          "formatting": "07 718 172 772"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "SAC Franklin Square\nLondon W6 HE 120\n[illegible]",
+          "street_line1": "SAC Franklin Square",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "W6",
+          "country": "UK",
+          "notes": "Hammersmith area"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page12_courcei_martine",
+      "name": {
+        "full_name": "Courcei Martine De",
+        "title": null,
+        "first_name": "Martine",
+        "last_name": "Courcei",
+        "suffix": "De",
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "00 33 6 07 38 95 99",
+          "type": "mobile",
+          "label": null,
+          "country_code": "00 33",
+          "area_code": "6",
+          "extension": null,
+          "notes": "French mobile",
+          "is_primary": false,
+          "formatting": "00 33 6 07 38 95 99"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["French nobility particle 'De'"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page12_cordle_rupert",
+      "name": {
+        "full_name": "Cordle, Rupert &",
+        "title": null,
+        "first_name": "Rupert",
+        "last_name": "Cordle",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0115 8856 5412",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": "0115",
+          "extension": null,
+          "notes": "UK Nottingham area",
+          "is_primary": false,
+          "formatting": "0115 8856 5412"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "31 Albert Bridge rd\nWashville\nNW1 XXX",
+          "street_line1": "31 Albert Bridge rd",
+          "street_line2": "Washville",
+          "city": "London",
+          "state_province": null,
+          "postal_code": "NW1 XXX",
+          "country": "UK",
+          "notes": "North London"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": ["Related to Rachel Cordle"],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Entry appears incomplete with '&'"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page12_cowdray_marina",
+      "name": {
+        "full_name": "Cowdray, Marina",
+        "title": null,
+        "first_name": "Marina",
+        "last_name": "Cowdray",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "01798 831494 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": null,
+          "area_code": "01798",
+          "extension": null,
+          "notes": "UK Sussex area",
+          "is_primary": false,
+          "formatting": "01798 831494 (h)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Cowdray House\nCowdray Park, Midhurst\nWest Sussex",
+          "street_line1": "Cowdray House",
+          "street_line2": "Cowdray Park",
+          "city": "Midhurst",
+          "state_province": "West Sussex",
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Historic estate"
+        }
+      ],
+      "emails": [
+        {
+          "address": "marina@cowdray.demon.co.uk",
+          "type": "personal",
+          "domain": "cowdray.demon.co.uk",
+          "notes": "UK ISP"
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "complete",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Cowdray estate - polo grounds"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page12_cowie_colin",
+      "name": {
+        "full_name": "Cowie, Colin",
+        "title": null,
+        "first_name": "Colin",
+        "last_name": "Cowie",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 212 308 901(7)",
+          "type": "unknown",
+          "label": null,
+          "country_code": "001",
+          "area_code": "212",
+          "extension": "7",
+          "notes": "Manhattan",
+          "is_primary": false,
+          "formatting": "001 212 308 901(7)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "19 E 10th Street\nNew York, NY 10013\n[illegible] (Personal Page (xxx))\n550 W Somers Lane (LA)",
+          "street_line1": "19 E 10th Street",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": "10013",
+          "country": "USA",
+          "notes": "Greenwich Village"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["LA address mentioned"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "medium",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page12_cordova_hohenlohe_fernando",
+      "name": {
+        "full_name": "Cordova Hohenlohe, Fernando de",
+        "title": null,
+        "first_name": "Fernando",
+        "last_name": "Cordova Hohenlohe",
+        "suffix": "de",
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "170 Via Sant Elmo St.",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Address mixed with phone",
+          "is_primary": false,
+          "formatting": "[illegible]"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "170 Via Sant Elmo St.\nNaples",
+          "street_line1": "170 Via Sant Elmo St.",
+          "street_line2": null,
+          "city": "Naples",
+          "state_province": null,
+          "postal_code": null,
+          "country": "Italy",
+          "notes": null
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Spanish-German nobility name"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 15,
+    "complete_entries": 1,
+    "partial_entries": 10,
+    "minimal_entries": 4,
+    "redacted_entries": 0,
+    "handwritten_additions": 0,
+    "crossed_out_entries": 0,
+    "quality": "fair",
+    "legibility": "partially obscured",
+    "notable_features": ["Phil Collins entry", "Cowdray estate connection", "Condé Nast UK connection through Nicholas Coleridge"],
+    "continues_to_page": 13,
+    "continued_from_page": 11,
+    "split_entry_note": "Rupert Cordle entry appears incomplete with '&'"
+  },
+  "cross_references": [
+    {
+      "from_name": "Rupert Cordle",
+      "to_name": "Rachel Cordle",
+      "reference_type": "related_to",
+      "page_reference": null
+    }
+  ],
+  "entities": {
+    "people": ["Peter Cohen", "Coleman", "Nicholas Coleridge", "Daisy Coleridge", "Jeffrey Colle", "Phil Collins", "Orianne Collins", "Henrietta Conrad", "Susannah Constantine", "Clive Cooke", "Harry Cotterell", "Rachel Cordle", "Martine De Courcei", "Rupert Cordle", "Marina Cowdray", "Colin Cowie", "Fernando de Cordova Hohenlohe"],
+    "organizations": ["Condé Nast UK", "Cowdray Estate"],
+    "locations": {
+      "cities": ["South Miami", "New York", "London", "Geneva", "Marlborough", "Midhurst", "Naples", "Nottingham"],
+      "states": ["FL", "NY", "CT", "NJ", "Wiltshire", "West Sussex"],
+      "countries": ["USA", "UK", "Switzerland", "France", "Italy"]
+    }
+  },
+  "insights": [
+    "Page 12 continues C section with 15 entries",
+    "Phil Collins (musician) with Geneva, Switzerland address",
+    "Cowdray House - historic polo estate in West Sussex",
+    "Nicholas Coleridge with condenet.co.uk email - Condé Nast UK executive",
+    "780 Park Avenue address for Clive Cooke - prestigious NYC location",
+    "203 area code for Peter Cohen confirms Connecticut",
+    "908 area code indicates New Jersey for Cohen",
+    "516 area codes common - Long Island/Nassau County connections",
+    "41 22 phone code confirms Geneva, Switzerland for Phil Collins",
+    "00 33 6 for Martine De Courcei - French mobile number",
+    "01798 area code for Marina Cowdray - West Sussex region",
+    "01672 for Harry Cotterell - Marlborough, Wiltshire area",
+    "0115 for Rupert Cordle - Nottingham area code",
+    "W6 postcode for Rachel Cordle - Hammersmith, West London",
+    "Spanish-German aristocracy through Fernando de Cordova Hohenlohe",
+    "demon.co.uk domain - early UK internet service provider"
+  ]
+}

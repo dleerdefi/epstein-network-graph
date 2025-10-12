@@ -1,0 +1,141 @@
+{
+  "page_number": 100,
+  "file_path": "data/birthday_book_images/page_0100.png",
+  "file_size_mb": 3.6,
+  "type": "photo_collage_with_captions",
+  "content": {
+    "text": "Just give me the $100, I will not tell Paula! Suppose if she doesn't know where the brakes are?",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "Just give me the $100, I will not tell Paula! Suppose if she doesn't know where the brakes are?",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Paula",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          100
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Casual photos with humorous captions",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "photo_collage_with_captions"
+  },
+  "insights": [
+    "Informal, casual photos suggesting close personal relationship",
+    "Humorous captions indicate inside jokes or shared experiences",
+    "Reference to '$100' and 'Paula' suggests personal anecdote",
+    "Photos appear to be from residential neighborhood setting",
+    "Go-kart or vehicle photo suggests recreational activities"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000100",
+  "processed_at": "2025-09-23 02:21:00",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.169472",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Top left: Two people standing on a residential street",
+        "individual_count": 2,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": null,
+        "era_indicators": [],
+        "photo_quality": null,
+        "photo_type": null
+      },
+      {
+        "description": "Top right: Same two people in similar pose on street",
+        "individual_count": 2,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": null,
+        "era_indicators": [],
+        "photo_quality": null,
+        "photo_type": null
+      },
+      {
+        "description": "Bottom: Person sitting in what appears to be a go-kart or small vehicle",
+        "individual_count": 2,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": null,
+        "era_indicators": [],
+        "photo_quality": null,
+        "photo_type": null
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Three color photographs with handwritten captions",
+    "Top two photos: Two people on residential street",
+    "Caption: 'Just give me the $100, I will not tell Paula!'",
+    "Middle photo: Person in go-kart or small vehicle",
+    "Caption: 'Suppose if she doesn't know where the brakes are?'",
+    "Bottom photo: Person in yellow shirt outdoors",
+    "All photos appear to be casual/recreational settings",
+    "Suburban residential street visible in top photos",
+    "Humorous captions suggest inside jokes",
+    "Photos from 1980s-1990s based on quality and clothing",
+    "Document stamped HOUSE_OVERSIGHT_000100",
+    "Paula mentioned in caption - cross-reference to other pages"
+  ],
+  "investigative_leads": []
+}

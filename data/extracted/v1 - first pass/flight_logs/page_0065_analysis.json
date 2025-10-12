@@ -1,0 +1,277 @@
+{
+  "page_number": 65,
+  "date_header": "APR 1999",
+  "time_period": "April 1999 - May 1999",
+  "aircraft": {
+    "registration": "Multiple (G1159B N908JE, 206L3, 500JP)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "11",
+      "date": "04/11/1999",
+      "departure": "G1159B N908JE",
+      "arrival": "TEB",
+      "flight_time": "1223",
+      "remarks": "JE, GM, ET, SK CHILDREN, MICHELLE",
+      "passengers": ["JE", "GM", "ET", "SK", "CHILDREN", "MICHELLE"],
+      "crew": "3/2"
+    },
+    {
+      "entry_number": "13",
+      "date": "04/13/1999",
+      "departure": "206L3",
+      "arrival": "500JP",
+      "flight_time": "",
+      "remarks": "PMP - PMP - PPL GA CPL H, M, T, E, O, P",
+      "passengers": ["PPL", "GA", "CPL", "H", "M", "T", "E", "O", "P"],
+      "crew": ""
+    },
+    {
+      "entry_number": "14",
+      "date": "04/14/1999",
+      "departure": "206L3",
+      "arrival": "500JP",
+      "flight_time": "",
+      "remarks": "PMP - PMP",
+      "passengers": [],
+      "crew": ""
+    },
+    {
+      "entry_number": "16",
+      "date": "04/16/1999",
+      "departure": "G1159B N908JE",
+      "arrival": "TEB",
+      "flight_time": "1225",
+      "remarks": "PBI - AVN - JE, ET, PART DERSHOWITZ, TAMIE",
+      "passengers": ["JE", "ET", "PART DERSHOWITZ", "TAMIE"],
+      "crew": "1"
+    },
+    {
+      "entry_number": "16",
+      "date": "04/16/1999",
+      "departure": "",
+      "arrival": "AVY",
+      "flight_time": "1226",
+      "remarks": "BOS - JE, ET, TAMIE",
+      "passengers": ["JE", "ET", "TAMIE"],
+      "crew": "5"
+    },
+    {
+      "entry_number": "16",
+      "date": "04/16/1999",
+      "departure": "",
+      "arrival": "BOS",
+      "flight_time": "1227",
+      "remarks": "PBI - JE, ET",
+      "passengers": ["JE", "ET"],
+      "crew": "3/1"
+    },
+    {
+      "entry_number": "20",
+      "date": "04/20/1999",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1228",
+      "remarks": "TJSJ - JE, GM, SK",
+      "passengers": ["JE", "GM", "SK"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "25",
+      "date": "04/25/1999",
+      "departure": "",
+      "arrival": "TJSJ",
+      "flight_time": "1229",
+      "remarks": "TEB - JE, GM, KELLY SPAMM, PRESIDENT CLINTON",
+      "passengers": ["JE", "GM", "KELLY SPAMM", "PRESIDENT CLINTON"],
+      "crew": "1/6"
+    },
+    {
+      "entry_number": "27",
+      "date": "04/27/1999",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1230",
+      "remarks": "TJSJ - JE, KRISTIN DOZARK, PALMELA",
+      "passengers": ["JE", "KRISTIN DOZARK", "PALMELA"],
+      "crew": "3/4"
+    },
+    {
+      "entry_number": "28",
+      "date": "04/28/1999",
+      "departure": "",
+      "arrival": "TJSJ",
+      "flight_time": "1231",
+      "remarks": "TEB - JE, GM, CHRIS PENHALL, SERENA + SAMANTHA",
+      "passengers": ["JE", "GM", "CHRIS PENHALL", "SERENA", "SAMANTHA"],
+      "crew": "3/7"
+    },
+    {
+      "entry_number": "MAY 7",
+      "date": "05/07/1999",
+      "departure": "206L3",
+      "arrival": "500JP",
+      "flight_time": "",
+      "remarks": "PBI - PBI - A + B PRACTICED FORM STALLING CLEARING STEEP TURNS",
+      "passengers": ["A", "B"],
+      "crew": ""
+    },
+    {
+      "entry_number": "7",
+      "date": "05/07/1999",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "PMP-LNA-PBI - PPL PREP C + J, M, N, A + Y",
+      "passengers": ["PPL PREP", "C", "J", "M", "N", "A", "Y"],
+      "crew": "1"
+    },
+    {
+      "entry_number": "7",
+      "date": "05/07/1999",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "",
+      "remarks": "PMP - Return/Stamford CPL Training",
+      "passengers": [],
+      "crew": ""
+    },
+    {
+      "entry_number": "8",
+      "date": "05/08/1999",
+      "departure": "",
+      "arrival": "PMP-LNA-PBI",
+      "flight_time": "",
+      "remarks": "H + I (both) Initial. Surprised + Strong",
+      "passengers": ["H", "I"],
+      "crew": "1"
+    },
+    {
+      "entry_number": "8",
+      "date": "05/08/1999",
+      "departure": "",
+      "arrival": "PBI-LNA-PMP",
+      "flight_time": "",
+      "remarks": "H + I (both)",
+      "passengers": ["H", "I"],
+      "crew": "1"
+    },
+    {
+      "entry_number": "10",
+      "date": "05/10/1999",
+      "departure": "G1159B N908JE",
+      "arrival": "PBI",
+      "flight_time": "1233",
+      "remarks": "BGD - JE, GM, SK, TK + 3 CHILDREN",
+      "passengers": ["JE", "GM", "SK", "TK", "3 CHILDREN"],
+      "crew": "2/9"
+    },
+    {
+      "entry_number": "10",
+      "date": "05/10/1999",
+      "departure": "",
+      "arrival": "BGD",
+      "flight_time": "1234",
+      "remarks": "TEB - JE, GM, MONIQUE, SUSANNAH GREENTECH",
+      "passengers": ["JE", "GM", "MONIQUE", "SUSANNAH GREENTECH"],
+      "crew": "4"
+    },
+    {
+      "entry_number": "16",
+      "date": "05/16/1999",
+      "departure": "206L3",
+      "arrival": "500JP",
+      "flight_time": "",
+      "remarks": "PMP - PH - H + I (left + right 50-70)",
+      "passengers": ["H", "I"],
+      "crew": "1"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "GM",
+      "ET",
+      "SK",
+      "TK",
+      "A",
+      "B",
+      "C",
+      "H",
+      "I",
+      "J",
+      "M",
+      "N",
+      "Y",
+      "O",
+      "P",
+      "PPL",
+      "GA",
+      "CPL",
+      "CHILDREN",
+      "3 CHILDREN",
+      "MICHELLE",
+      "PART DERSHOWITZ",
+      "TAMIE",
+      "KELLY SPAMM",
+      "PRESIDENT CLINTON",
+      "KRISTIN DOZARK",
+      "PALMELA",
+      "CHRIS PENHALL",
+      "SERENA",
+      "SAMANTHA",
+      "MONIQUE",
+      "SUSANNAH GREENTECH",
+      "David Rodgers"
+    ],
+    "locations": [
+      "TEB",
+      "PMP",
+      "PBI",
+      "AVN",
+      "AVY",
+      "BOS",
+      "TJSJ",
+      "BGD",
+      "LNA",
+      "PH"
+    ],
+    "aircraft": [
+      "G1159B",
+      "N908JE",
+      "206L3",
+      "500JP"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "65",
+    "amount_forward": "14830",
+    "total_to_date": "15099",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page transitions from April 1999 to May 1999",
+    "President Clinton appears as passenger on April 25",
+    "Part Dershowitz (likely Alan Dershowitz relative) appears on April 16",
+    "SK appears multiple times with children",
+    "Kelly Spamm appears as passenger",
+    "Multiple training flights noted (PPL prep, CPL training)",
+    "San Juan, Puerto Rico (TJSJ) continues as frequent destination",
+    "Boston (BOS) operations noted",
+    "Flight numbers reach 1234",
+    "Mix of VIP transport and training operations"
+  ]
+}

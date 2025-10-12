@@ -1,0 +1,322 @@
+{
+  "page_number": 91,
+  "date_header": "FEB-MAR 2002",
+  "time_period": "February 2002 - March 2002",
+  "aircraft": {
+    "registration": "Multiple (G-1159B N909JE, B-727-31 N908JE)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "19",
+      "date": "02/19/2002",
+      "departure": "G-727-31",
+      "arrival": "N908JE",
+      "flight_time": "64",
+      "remarks": "PBI - ABY - JG, GM, SK, CINDY DUBIN, JEFFREY EPSTEIN",
+      "passengers": ["JG", "GM", "SK", "CINDY DUBIN", "JEFFREY EPSTEIN"],
+      "crew": "1/1"
+    },
+    {
+      "entry_number": "16",
+      "date": "02/16/2002",
+      "departure": "",
+      "arrival": "ABY",
+      "flight_time": "65",
+      "remarks": "JFK - JG, GM, SK, CINDY DUBIN, JEFFREY EPSTEIN",
+      "passengers": ["JG", "GM", "SK", "CINDY DUBIN", "JEFFREY EPSTEIN"],
+      "crew": "2/1"
+    },
+    {
+      "entry_number": "20",
+      "date": "02/20/2002",
+      "departure": "",
+      "arrival": "JFK",
+      "flight_time": "66",
+      "remarks": "CVG - JG, GM, SK, MARK EPSTEIN, ANNIE, CINDY LOPEZ",
+      "passengers": ["JG", "GM", "SK", "MARK EPSTEIN", "ANNIE", "CINDY LOPEZ"],
+      "crew": "5/1"
+    },
+    {
+      "entry_number": "23",
+      "date": "02/23/2002",
+      "departure": "",
+      "arrival": "MRY",
+      "flight_time": "67",
+      "remarks": "VNY - SK, NINA (ROSENBURG), CONNIE, ANNIE, GWENDOLYN",
+      "passengers": ["SK", "NINA (ROSENBURG)", "CONNIE", "ANNIE", "GWENDOLYN"],
+      "crew": "1/1"
+    },
+    {
+      "entry_number": "23",
+      "date": "02/23/2002",
+      "departure": "",
+      "arrival": "MRY",
+      "flight_time": "68",
+      "remarks": "VNY - JG, SK, ALEXANDRA, ANNIE FARMER CONNIE",
+      "passengers": ["JG", "SK", "ALEXANDRA", "ANNIE FARMER", "CONNIE"],
+      "crew": "2/2"
+    },
+    {
+      "entry_number": "23",
+      "date": "02/23/2002",
+      "departure": "",
+      "arrival": "VNY",
+      "flight_time": "69",
+      "remarks": "JAX - JG, GLEN, RICK, STEPHANIE",
+      "passengers": ["JG", "GLEN", "RICK", "STEPHANIE"],
+      "crew": "4/2"
+    },
+    {
+      "entry_number": "25",
+      "date": "02/25/2002",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1561",
+      "remarks": "JAX - PBI - JOEL",
+      "passengers": ["JOEL"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "29",
+      "date": "02/29/2002",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1562",
+      "remarks": "CBM - BBB, GM (owners)",
+      "passengers": ["BBB", "GM"],
+      "crew": "4/3"
+    },
+    {
+      "entry_number": "28",
+      "date": "02/28/2002",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1563",
+      "remarks": "CBM",
+      "passengers": [],
+      "crew": "1/1"
+    },
+    {
+      "entry_number": "MAR 7",
+      "date": "03/07/2002",
+      "departure": "B-727-31",
+      "arrival": "N908JE",
+      "flight_time": "70",
+      "remarks": "JAX - PBI - REDACTED",
+      "passengers": ["REDACTED"],
+      "crew": "1/2"
+    },
+    {
+      "entry_number": "9",
+      "date": "03/09/2002",
+      "departure": "B-727-200",
+      "arrival": "5NVMAB",
+      "flight_time": "71",
+      "remarks": "MIA - PRESIDENT CLINTON, DOUG BAND, 4 SECRET SERVICE",
+      "passengers": ["PRESIDENT CLINTON", "DOUG BAND", "4 SECRET SERVICE"],
+      "crew": "2/0"
+    },
+    {
+      "entry_number": "7",
+      "date": "03/07/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "KRISTEN ALLEN, E DRAGON, S DAVIDSON, ADRIANNA, JACQUELINE BELLAND REDACTED",
+      "passengers": ["KRISTEN ALLEN", "E DRAGON", "S DAVIDSON", "ADRIANNA", "JACQUELINE BELLAND", "REDACTED"],
+      "crew": "2/0"
+    },
+    {
+      "entry_number": "7",
+      "date": "03/07/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "AUDREY M RAIMBAULT, E JANG, SEAN M HAMMOND, CHRIS WAGNER",
+      "passengers": ["AUDREY M RAIMBAULT", "E JANG", "SEAN M HAMMOND", "CHRIS WAGNER"],
+      "crew": "2/0"
+    },
+    {
+      "entry_number": "8",
+      "date": "03/08/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "SERGIO DELMORAL, JANICE ALFREY",
+      "passengers": ["SERGIO DELMORAL", "JANICE ALFREY"],
+      "crew": "2/0"
+    },
+    {
+      "entry_number": "10",
+      "date": "03/10/2002",
+      "departure": "B-727-31",
+      "arrival": "N908JE",
+      "flight_time": "72",
+      "remarks": "TSM - JFK - JE, JM, AH, AY, CINDY, T. RUDDOCK",
+      "passengers": ["JE", "JM", "AH", "AY", "CINDY", "T. RUDDOCK"],
+      "crew": "1/1 4/1"
+    },
+    {
+      "entry_number": "14",
+      "date": "03/14/2002",
+      "departure": "",
+      "arrival": "JFK",
+      "flight_time": "73",
+      "remarks": "PBI - JG, SK, STEPHANIE, SARAH M WILSON",
+      "passengers": ["JG", "SK", "STEPHANIE", "SARAH M WILSON"],
+      "crew": "2/6"
+    },
+    {
+      "entry_number": "17",
+      "date": "03/17/2002",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "74",
+      "remarks": "JFK - JG, JE, SOTO FACTOR, JULIET, RUDY",
+      "passengers": ["JG", "JE", "SOTO FACTOR", "JULIET", "RUDY"],
+      "crew": "2/6"
+    },
+    {
+      "entry_number": "19",
+      "date": "03/19/2002",
+      "departure": "",
+      "arrival": "JFK",
+      "flight_time": "75",
+      "remarks": "EGGW - JULIE, STEPHANIE, STACY KELLER, 3 SECRET SERVICE",
+      "passengers": ["JULIE", "STEPHANIE", "STACY KELLER", "3 SECRET SERVICE"],
+      "crew": "6/1"
+    },
+    {
+      "entry_number": "21",
+      "date": "03/21/2002",
+      "departure": "",
+      "arrival": "EGGW",
+      "flight_time": "76",
+      "remarks": "TEB - ALI SALIM, JENNIFER KALIN, JENNIFER GARRISON",
+      "passengers": ["ALI SALIM", "JENNIFER KALIN", "JENNIFER GARRISON"],
+      "crew": "1/8"
+    },
+    {
+      "entry_number": "27",
+      "date": "03/27/2002",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "77",
+      "remarks": "PBI - JG, NINNI, SHAUNLEY DUBIN",
+      "passengers": ["JG", "NINNI", "SHAUNLEY DUBIN"],
+      "crew": "2/6"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JG",
+      "GM",
+      "SK",
+      "CINDY DUBIN",
+      "JEFFREY EPSTEIN",
+      "MARK EPSTEIN",
+      "ANNIE",
+      "CINDY LOPEZ",
+      "NINA (ROSENBURG)",
+      "CONNIE",
+      "GWENDOLYN",
+      "ALEXANDRA",
+      "ANNIE FARMER",
+      "GLEN",
+      "RICK",
+      "STEPHANIE",
+      "JOEL",
+      "BBB",
+      "REDACTED",
+      "PRESIDENT CLINTON",
+      "DOUG BAND",
+      "4 SECRET SERVICE",
+      "KRISTEN ALLEN",
+      "E DRAGON",
+      "S DAVIDSON",
+      "ADRIANNA",
+      "JACQUELINE BELLAND",
+      "AUDREY M RAIMBAULT",
+      "E JANG",
+      "SEAN M HAMMOND",
+      "CHRIS WAGNER",
+      "SERGIO DELMORAL",
+      "JANICE ALFREY",
+      "JE",
+      "JM",
+      "AH",
+      "AY",
+      "CINDY",
+      "T. RUDDOCK",
+      "SARAH M WILSON",
+      "SOTO FACTOR",
+      "JULIET",
+      "RUDY",
+      "JULIE",
+      "STACY KELLER",
+      "3 SECRET SERVICE",
+      "ALI SALIM",
+      "JENNIFER KALIN",
+      "JENNIFER GARRISON",
+      "NINNI",
+      "SHAUNLEY DUBIN",
+      "David Rodgers"
+    ],
+    "locations": [
+      "PBI",
+      "ABY",
+      "JFK",
+      "CVG",
+      "MRY",
+      "VNY",
+      "JAX",
+      "CBM",
+      "TEB",
+      "MIA",
+      "TSM",
+      "EGGW"
+    ],
+    "aircraft": [
+      "G-727-31",
+      "N908JE",
+      "G-1159B",
+      "N909JE",
+      "B-727-31",
+      "B-727-200",
+      "5NVMAB"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "83/56",
+    "amount_forward": "8541",
+    "total_to_date": "8594",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page transitions from February to March 2002",
+    "CRITICAL: President Clinton appears on March 9, 2002 with Doug Band and 4 Secret Service",
+    "Jeffrey Epstein explicitly named multiple times",
+    "Mark Epstein appears on February 20",
+    "SK (Sarah Kellen) continues to appear frequently",
+    "Annie Farmer appears on February 23",
+    "Multiple REDACTED entries preserved",
+    "Secret Service mentioned twice (with Clinton and on March 19)",
+    "Mix of B-727 variants including B-727-200",
+    "Flight numbers reach 1563",
+    "International operations to London (EGGW)",
+    "Multiple Dubin family members (Cindy Dubin, Shaunley Dubin)"
+  ]
+}

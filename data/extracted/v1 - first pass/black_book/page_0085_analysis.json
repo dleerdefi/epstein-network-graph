@@ -1,0 +1,832 @@
+{
+  "page_number": 85,
+  "section": "Medical Services Continued",
+  "entries": [
+    {
+      "name": "Nashash, Dr. Sam",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "303 East 60th Street (h)",
+          "street": "303 East 60th Street",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "603-233-1025 direct to Medinlabs",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 833 0396 (h)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 835 0394 (h)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Dr. Sam Nashash - East 60th Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Oxford Health Plans",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "800 221 8811 Member number",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "800 221 8811",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "177166 27 Member number",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Oxford Health Plans insurance",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Prudential",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "800 843 3661",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Prudential insurance",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Sleinburg Dr.",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "24 Putnam Park #7 rm dr",
+          "street": "24 Putnam Park #7",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "617 212 740 1133",
+          "area_code": "617",
+          "geographic_indicator": "Boston",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Dr. Sleinburg - Putnam Park",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Sternberg, Esther Dr.",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "3930 Uptown Street N.W.",
+          "street": "3930 Uptown Street N.W.",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Washington DC 20007",
+          "city": "Washington",
+          "state": "DC",
+          "postal_code": "20007",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "202 364 7518 (h)",
+          "area_code": "202",
+          "geographic_indicator": "Washington DC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "301 402 8564800",
+          "area_code": "301",
+          "geographic_indicator": "Maryland",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "esther.sternberg@nih.nimh.mh",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Dr. Esther Sternberg - Uptown Street Washington DC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Tom, Maggie",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207-486 5273",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Maggie Tom",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Victor, Steve Dr.",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "21 E. 89th St. (Ft&hm) 88",
+          "street": "21 E. 89th Street",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "New York, New York",
+          "city": "New York",
+          "state": "NY",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 876 6030 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 861 4005 (off)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "718 632 0074 Old Office",
+          "area_code": "718",
+          "geographic_indicator": "NYC outer boroughs",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "631 329 6301 (h)",
+          "area_code": "631",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 879 6323 (fx)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "718 632 0074 Fax",
+          "area_code": "718",
+          "geographic_indicator": "NYC outer boroughs",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "718 632 [illegible]",
+          "area_code": "718",
+          "geographic_indicator": "NYC outer boroughs",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "716 624 6222",
+          "area_code": "716",
+          "geographic_indicator": "Buffalo",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Dr. Steve Victor - East 89th Street NYC, multiple locations",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One phone partially illegible"]
+      }
+    },
+    {
+      "name": "Wynrik, Wayne",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212-249-7795",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Wayne Wynrik",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "PB",
+      "category": "Section Header",
+      "location": "Unknown",
+      "entries": [],
+      "notes": "PB section header",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Baker",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 835 8988",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Baker",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Bard, Dr. Perry",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "4775 Greenbotton Blvd (o)",
+          "street": "4775 Greenbotton Blvd",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Suite 28",
+          "floor": "Suite 28",
+          "confidence": "high"
+        },
+        {
+          "type": "tertiary",
+          "address": "West Palm Beach FL 33409",
+          "city": "West Palm Beach",
+          "state": "FL",
+          "postal_code": "33409",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 845 3000 (o)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Hunwick & County Optical",
+        "Palm Beach Gardens"
+      ],
+      "notes": "Dr. Perry Bard - Greenbotton Blvd West Palm Beach",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Breakers, The",
+      "category": "Business",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Alamont # 11919",
+          "reference": "Alamont # 11919",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561-655-6611",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "The Breakers - Palm Beach hotel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Chiropractor",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 547 640 0500",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Chiropractor - Palm Beach",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Cleaners",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Classic Forest",
+          "location": "Classic Forest",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "1 561 833 6652 (w)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "1 561 833 6652 (w) (fax - husband)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Classic Forest Cleaners - Palm Beach",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Creative Custom Swimwear",
+      "category": "Business",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1111 W Town Center Plaza",
+          "street": "1111 W Town Center Plaza",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Manalapan, FL 33462",
+          "city": "Manalapan",
+          "state": "FL",
+          "postal_code": "33462",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 753 6360 New Subtropical",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 585 8366 Jack Hughes Line 1",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 585 8367 Jack Hughes Line 2",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 582 8388 (cell)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 547 2854 (home)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 863 8384 (pager)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 835 8368 Jack Hughes Phone-car",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Creative Custom Swimwear - Town Center Plaza Manalapan",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Davito, Dawn",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "847 Mango Road",
+          "street": "847 Mango Road",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "West Palm Beach 33402",
+          "city": "West Palm Beach",
+          "state": "FL",
+          "postal_code": "33402",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 659-1 1700 Customer [illegible]",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "561 655 6 [illegible]",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "low"
+        }
+      ],
+      "additional_info": [
+        "1107143 Houston St.",
+        "Chicago"
+      ],
+      "notes": "Dawn Davito - Mango Road West Palm Beach",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone numbers partially illegible"]
+      }
+    },
+    {
+      "name": "Driver - PB",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "305 351 1999 Ray",
+          "area_code": "305",
+          "geographic_indicator": "Miami",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Driver Ray - Palm Beach/Miami",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Epstein, Jeffrey",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Palm Beach, FL 33480",
+          "city": "Palm Beach",
+          "state": "FL",
+          "postal_code": "33480",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 659-5551 Island Traveling.com",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 832 1062 Line 1",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 832 1063 Line 2",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 832 1064 Line 3",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 832 1065 Line 4",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Jeffrey Epstein - Palm Beach FL",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Gain, Christophe",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Newlons Island",
+          "location": "Newlons Island",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 835 [illegible]",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "561 833 1532 (h)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 833 1540 (w)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 833 7549 (c)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Christophe Gain - Newlons Island",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One phone partially illegible"]
+      }
+    },
+    {
+      "name": "Goldman, Francis",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "122 Lake Bullenget Drive",
+          "street": "122 Lake Bullenget Drive",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 833 #8558",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "800 383 #559",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Francis Goldman - Lake Bullenget Drive",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Goldsmith, Gerald",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "400 West Court",
+          "street": "400 West Court",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 655-3449",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 659-9111",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "951 500 0014 Main House Kitchen",
+          "area_code": "951",
+          "geographic_indicator": "California",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "210 208 (office) Main House Kitchen",
+          "confidence": "low"
+        }
+      ],
+      "additional_info": [
+        "33 National Bank",
+        "American National Bank"
+      ],
+      "notes": "Gerald Goldsmith - West Court",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One phone number incomplete"]
+      }
+    },
+    {
+      "name": "[Whited out entry]",
+      "category": "Redacted",
+      "location": "Unknown",
+      "addresses": [],
+      "phones": [],
+      "notes": "Entry completely whited out/redacted",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Entry completely redacted"]
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 21,
+    "illegible_entries": 1,
+    "partial_entries": 4,
+    "sections": ["Medical Services", "PB (Palm Beach) Services"],
+    "notable_entries": [
+      "Jeffrey Epstein Palm Beach entry",
+      "Multiple medical doctors",
+      "Creative Custom Swimwear",
+      "The Breakers hotel",
+      "Various Palm Beach service providers"
+    ],
+    "geographic_distribution": {
+      "usa": 20,
+      "palm_beach": 15,
+      "nyc": 4,
+      "washington_dc": 1,
+      "boston": 1
+    },
+    "location_highlights": [
+      "Jeffrey Epstein - Palm Beach FL",
+      "Multiple Palm Beach service providers",
+      "East 60th-89th Street medical offices NYC",
+      "West Palm Beach businesses",
+      "The Breakers hotel Palm Beach"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 16,
+      "medium_confidence": 3,
+      "low_confidence": 2,
+      "specific_issues": [
+        "Some phone numbers partially illegible",
+        "One entry completely redacted/whited out",
+        "Several partial phone numbers"
+      ]
+    }
+  }
+}

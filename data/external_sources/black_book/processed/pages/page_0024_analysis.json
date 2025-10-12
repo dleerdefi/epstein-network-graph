@@ -1,0 +1,1062 @@
+{
+  "page_number": 24,
+  "alphabetical_section": "G/H",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "024_grossman_lloyd",
+      "name": {
+        "full_name": "Grossman Lloyd",
+        "prefix": null,
+        "first_name": "Lloyd",
+        "middle_name": null,
+        "last_name": "Grossman",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-736 7376",
+          "formatting": "0207-736 7376 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "024_gubelmann_marjorie",
+      "name": {
+        "full_name": "Gubelmann, Marjorie",
+        "prefix": null,
+        "first_name": "Marjorie",
+        "middle_name": null,
+        "last_name": "Gubelmann",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 758 0508",
+          "formatting": "212 758 0508"
+        },
+        {
+          "type": "portable",
+          "number": "917 282 2112",
+          "formatting": "917 282 2112 (NYC mobile)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "40 East 62nd St."
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "024_guccioni_tony",
+      "name": {
+        "full_name": "Guccioni, Tony",
+        "prefix": null,
+        "first_name": "Tony",
+        "middle_name": null,
+        "last_name": "Guccioni",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 941 8303",
+          "formatting": "001 212 941 8303 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 226 6751",
+          "formatting": "001 212 226 6751 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "024_gudefin_christian",
+      "name": {
+        "full_name": "Gudefin, Christian",
+        "prefix": null,
+        "first_name": "Christian",
+        "middle_name": null,
+        "last_name": "Gudefin",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "01 212 250 6468 (o)",
+          "formatting": "01 212 250 6468 (o)"
+        },
+        {
+          "type": "work",
+          "number": "0207-901 3333",
+          "formatting": "0207-901 3333 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "01 212 722 3747",
+          "formatting": "01 212 722 3747"
+        },
+        {
+          "type": "home",
+          "number": "01 212 722 3747",
+          "formatting": "01 212 722 3747"
+        },
+        {
+          "type": "home",
+          "number": "0207-584 9666",
+          "formatting": "0207-584 9666 (UK London)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "christian.g.gudefin@db.co",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Deutsche Bank"
+    },
+    {
+      "entry_id": "024_guedroitz_solina_&_nicolas",
+      "name": {
+        "full_name": "Guedroitz, Solina",
+        "prefix": null,
+        "first_name": "Solina & Nicolas",
+        "middle_name": null,
+        "last_name": "Guedroitz",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Nicolas"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "011 44 207 730 3111",
+          "formatting": "011 44 207 730 3111 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "011 44 207 730 1441 (f)",
+          "formatting": "011 44 207 730 1441 (f) (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "24 Implico Road"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW1W SLJ",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Sally & Rufus\u2019 bestfreinds"
+    },
+    {
+      "entry_id": "024_guerini_maraldi_alessandro",
+      "name": {
+        "full_name": "Guerini Maraldi, Alessandro",
+        "prefix": null,
+        "first_name": "Alessandro",
+        "middle_name": null,
+        "last_name": "Guerini Maraldi",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-860 9057",
+          "formatting": "0207-860 9057 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207 795 1060",
+          "formatting": "0207 795 1060 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "0776 823 1728",
+          "formatting": "0776 823 1728"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "11 Elm Park Rd."
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW3",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "024_guerrand-hermes_valesca",
+      "name": {
+        "full_name": "Guerrand-Hermes, Valesca",
+        "prefix": null,
+        "first_name": "Valesca",
+        "middle_name": null,
+        "last_name": "Guerrand-Hermes",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "1 212 579 7572",
+          "formatting": "1 212 579 7572"
+        },
+        {
+          "type": "portable",
+          "number": "1 917 400 1144",
+          "formatting": "1 917 400 1144"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "1 West 67th #614"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10023",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Mathias"
+    },
+    {
+      "entry_id": "024_guest_cornelia",
+      "name": {
+        "full_name": "Guest, Cornelia",
+        "prefix": null,
+        "first_name": "Cornelia",
+        "middle_name": null,
+        "last_name": "Guest",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 516 997 2578",
+          "formatting": "001 516 997 2578 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 861 0426",
+          "formatting": "001 917 861 0426 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "024_guggenheim_barbara_&_bert_fie",
+      "name": {
+        "full_name": "Guggenheim, Barbara",
+        "prefix": null,
+        "first_name": "Barbara & Bert Fie",
+        "middle_name": null,
+        "last_name": "Guggenheim",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Bert Fie"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212-772-3888",
+          "formatting": "212-772-3888"
+        },
+        {
+          "type": "unknown",
+          "number": "212-772-3380",
+          "formatting": "212-772-3380"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "8328 Marmont Lane"
+          ],
+          "city": "Los Angeles",
+          "state": null,
+          "postal_code": "CA 90069",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "024_guggenheim_barbara_&_bert_fie",
+      "name": {
+        "full_name": "Guggenheim, Barbara",
+        "prefix": null,
+        "first_name": "Barbara & Bert Fie",
+        "middle_name": null,
+        "last_name": "Guggenheim",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Bert Fie"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 33 1 6495 0939",
+          "formatting": "001 33 1 6495 0939 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 33 1 6495 0487",
+          "formatting": "001 33 1 6495 0487 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "310 458 8824 (Beach House)",
+          "formatting": "310 458 8824 (Beach House)"
+        },
+        {
+          "type": "work",
+          "number": "310 275 2133",
+          "formatting": "310 275 2133"
+        },
+        {
+          "type": "work",
+          "number": "310 201 7454 (Burt)",
+          "formatting": "310 201 7454 (Burt)"
+        },
+        {
+          "type": "home",
+          "number": "323-650-4427",
+          "formatting": "323-650-4427"
+        },
+        {
+          "type": "home",
+          "number": "323-650-3060 (Fax)",
+          "formatting": "323-650-3060 (Fax)"
+        },
+        {
+          "type": "home",
+          "number": "212-265-6686 (NY Barbara)",
+          "formatting": "212-265-6686 (NY Barbara)"
+        },
+        {
+          "type": "home",
+          "number": "212 265 6633 (Burt NY)",
+          "formatting": "212 265 6633 (Burt NY)"
+        },
+        {
+          "type": "portable",
+          "number": "310 801 9621 (Barb)",
+          "formatting": "310 801 9621 (Barb)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "63 East 82nd Street"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10028",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "024_guiness_sabrina",
+      "name": {
+        "full_name": "Guiness, Sabrina",
+        "prefix": null,
+        "first_name": "Sabrina",
+        "middle_name": null,
+        "last_name": "Guiness",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 561 964 8316",
+          "formatting": "001 561 964 8316 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 213 656 0470",
+          "formatting": "001 213 656 0470 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "024_guinness_mr_hugo",
+      "name": {
+        "full_name": "Guinness, Mr. Hugo",
+        "prefix": null,
+        "first_name": "Mr Hugo",
+        "middle_name": null,
+        "last_name": "Guinness",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-370 1947",
+          "formatting": "0207-370 1947 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "29 Brechin Place"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW7",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "024_guissaini_luca",
+      "name": {
+        "full_name": "Guissaini, Luca",
+        "prefix": null,
+        "first_name": "Luca",
+        "middle_name": null,
+        "last_name": "Guissaini",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "011 305 467 7737",
+          "formatting": "011 305 467 7737 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 305 673 9811",
+          "formatting": "001 305 673 9811 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "024_gumberg_ira",
+      "name": {
+        "full_name": "Gumberg, Ira",
+        "prefix": null,
+        "first_name": "Ira",
+        "middle_name": null,
+        "last_name": "Gumberg",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 412 244 4007",
+          "formatting": "001 412 244 4007 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "024_guttfreund_susan_&_john",
+      "name": {
+        "full_name": "Guttfreund Susan",
+        "prefix": null,
+        "first_name": "Susan & John",
+        "middle_name": null,
+        "last_name": "Guttfreund",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "John"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 517 3455",
+          "formatting": "212 517 3455"
+        },
+        {
+          "type": "unknown",
+          "number": "508 228 1776",
+          "formatting": "508 228 1776"
+        },
+        {
+          "type": "unknown",
+          "number": "508 325 5480 (Sec Diana)",
+          "formatting": "508 325 5480 (Sec Diana)"
+        },
+        {
+          "type": "work",
+          "number": "212 956 1283 (John)",
+          "formatting": "212 956 1283 (John)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "024_hahn_dr.&_mrs",
+      "name": {
+        "full_name": "Hahn, Dr.",
+        "prefix": null,
+        "first_name": "Dr.& Mrs",
+        "middle_name": null,
+        "last_name": "Hahn",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Mrs"
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "PO Box 383,Porto Rolondo Sardinia & Rothehol"
+          ],
+          "city": "Wolfsburg",
+          "state": null,
+          "postal_code": "3180",
+          "country": "Germany",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "024_hall_pippa",
+      "name": {
+        "full_name": "Hall, Pippa",
+        "prefix": null,
+        "first_name": "Pippa",
+        "middle_name": null,
+        "last_name": "Hall",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0804 25302",
+          "formatting": "0804 25302"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "024_halpern_jen",
+      "name": {
+        "full_name": "Halpern Jen",
+        "prefix": null,
+        "first_name": "Jen",
+        "middle_name": null,
+        "last_name": "Halpern",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "38 Ringmarthe Street"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": "SW6",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "024_halpern_jen",
+      "name": {
+        "full_name": "Halpern Jen",
+        "prefix": null,
+        "first_name": "Jen",
+        "middle_name": null,
+        "last_name": "Halpern",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207 351 2888",
+          "formatting": "0207 351 2888 (UK London)"
+        },
+        {
+          "type": "work",
+          "number": "0207-589 3614",
+          "formatting": "0207-589 3614 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-736 9940",
+          "formatting": "0207-736 9940 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "0777 419 7871",
+          "formatting": "0777 419 7871"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "250A Kings Road"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW3 5UE",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Halpern Associates"
+    },
+    {
+      "entry_id": "024_hambro_clementine",
+      "name": {
+        "full_name": "Hambro, Clementine",
+        "prefix": null,
+        "first_name": "Clementine",
+        "middle_name": null,
+        "last_name": "Hambro",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 917 405 6490",
+          "formatting": "001 917 405 6490 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "0207-823 4115",
+          "formatting": "0207-823 4115 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "024_hamilton_george",
+      "name": {
+        "full_name": "Hamilton, George",
+        "prefix": null,
+        "first_name": "George",
+        "middle_name": null,
+        "last_name": "Hamilton",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "21 Eaton Mews South"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW1",
+          "country": "UK",
+          "notes": "Eaton Square/Place elite"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "024_hamilton_george",
+      "name": {
+        "full_name": "Hamilton, George",
+        "prefix": null,
+        "first_name": "George",
+        "middle_name": null,
+        "last_name": "Hamilton",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 310 276 5646",
+          "formatting": "001 310 276 5646 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 312 543 5513",
+          "formatting": "001 312 543 5513 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 303 925 1000 (Aspen)",
+          "formatting": "001 303 925 1000 (Aspen) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 310 503 1930",
+          "formatting": "001 310 503 1930 (International)"
+        },
+        {
+          "type": "work",
+          "number": "001 310 278 6578 (Peggy)",
+          "formatting": "001 310 278 6578 (Peggy) (International)"
+        },
+        {
+          "type": "home",
+          "number": "0207-235 5338",
+          "formatting": "0207-235 5338 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "001 310 702 8055",
+          "formatting": "001 310 702 8055 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "139 South Beverly Drive, Suite 233"
+          ],
+          "city": "Beverly Hills",
+          "state": null,
+          "postal_code": "CA 90212",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 22,
+    "entries_with_emails": 1,
+    "entries_with_addresses": 12,
+    "entries_with_handwritten_notes": 0,
+    "couples": 5,
+    "average_confidence": "high",
+    "notable_figures_count": 0
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Grossman Lloyd",
+      "Gubelmann, Marjorie",
+      "Guccioni, Tony",
+      "Gudefin, Christian",
+      "Guedroitz, Solina",
+      "Nicolas",
+      "Guerini Maraldi, Alessandro",
+      "Guerrand-Hermes, Valesca",
+      "Guest, Cornelia",
+      "Guggenheim, Barbara",
+      "Bert Fie",
+      "Guggenheim, Barbara",
+      "Bert Fie",
+      "Guiness, Sabrina",
+      "Guinness, Mr. Hugo",
+      "Guissaini, Luca",
+      "Gumberg, Ira",
+      "Guttfreund Susan",
+      "John",
+      "Hahn, Dr.",
+      "Mrs",
+      "Hall, Pippa",
+      "Halpern Jen",
+      "Halpern Jen",
+      "Hambro, Clementine",
+      "Hamilton, George",
+      "Hamilton, George"
+    ],
+    "organizations": [],
+    "locations": {
+      "international": [
+        "UK",
+        "Germany"
+      ],
+      "us_cities": [
+        "London",
+        "New York",
+        "Beverly Hills",
+        "Wolfsburg",
+        "Los Angeles"
+      ],
+      "elite_addresses": [
+        "21 Eaton Mews South"
+      ]
+    }
+  },
+  "insights": [
+    "Geographic cluster: London (5 entries)"
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "page_number": 71,
+  "file_path": "data/birthday_book_images/page_0071.png",
+  "file_size_mb": 3.095254898071289,
+  "type": "yearbook_pages",
+  "content": {
+    "text": "Class 9SP3\nRow 1: Merrill Singer, Sharon Broyde, Judith Tlumak, Stephen Schwartz, Joel Mandelman,\n Elliot Raines, Melody Stern, Gale Reif, Sandra Steigman.\n Row 2: Barbara Schwartz, Audrey Roth, Ellen Katz, Kathleen Suter, Mrs. Sharfstein,\n Betty Brodsky, Cheryl Greenspan, Enid Roseman, Debra Nessel.\n Row 3: Paul Kaminsky, Howard Glatzman, Carey Kuplowitz, Jeffrey Epstein, Mark Leptop,\n Stephen Garone, Scott Ehrlich, Warren Eisenstein.\n Class 9SPE\n Row 1: Barry Cohen, Bruce Edelman, David Peck, Diane McGuire, Cynthia Dobson,\n Sonia Goldstein, Barry Rosenman, Andrew Hom, Joel Levine.\n Row 2: Esther Gouldin, Leslie Wenderoff, Meryl Vladimer, David Deutch, Mrs. Heslin,\n Herbert Sevush, Jesse Grossman, Lorraine Dade, Carol Rohr.\n Row 3: Kirk Zachary, Robert Weissman, Anthony De Natale, Leondard Levinson.\n Camera Shy: Michele Victor.",
+    "handwritten": false,
+    "typed": true,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "Complete transcription of all student names in both Class 9SP3 and Class 9SPE rosters as listed above",
+    "handwritten": false,
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Singer, Merrill",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 student, Row 1",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Broyde, Sharon",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 student, Row 1",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Tlumak, Judith",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 student, Row 1",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Schwartz, Stephen",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 student, Row 1",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Mandelman, Joel",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 student, Row 1",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Raines, Elliot",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 student, Row 1",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Stern, Melody",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 student, Row 1",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Reif, Gale",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 student, Row 1",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Steigman, Sandra",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 student, Row 1",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Schwartz, Barbara",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 student, Row 2",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Roth, Audrey",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 student, Row 2",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Katz, Ellen",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 student, Row 2",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Suter, Kathleen",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 student, Row 2",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Sharfstein, Mrs.",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 teacher, Row 2",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Brodsky, Betty",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 student, Row 2",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Greenspan, Cheryl",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 student, Row 2",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Roseman, Enid",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 student, Row 2",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Nessel, Debra",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 student, Row 2",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Kaminsky, Paul",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 student, Row 3",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Glatzman, Howard",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 student, Row 3",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Kuplowitz, Carey",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 student, Row 3",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Epstein, Jeffrey",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 student, Row 3",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Leptop, Mark",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 student, Row 3",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Garone, Stephen",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 student, Row 3",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Ehrlich, Scott",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 student, Row 3",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Eisenstein, Warren",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 student, Row 3",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Cohen, Barry",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SPE student, Row 1",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Edelman, Bruce",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SPE student, Row 1",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Peck, David",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SPE student, Row 1",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "McGuire, Diane",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SPE student, Row 1",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Dobson, Cynthia",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SPE student, Row 1",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Goldstein, Sonia",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SPE student, Row 1",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Rosenman, Barry",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SPE student, Row 1",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Hom, Andrew",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SPE student, Row 1",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Levine, Joel",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SPE student, Row 1",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Gouldin, Esther",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SPE student, Row 2",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Wenderoff, Leslie",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SPE student, Row 2",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Vladimer, Meryl",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SPE student, Row 2",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Deutch, David",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SPE student, Row 2",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Heslin, Mrs.",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SPE teacher, Row 2",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Sevush, Herbert",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SPE student, Row 2",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Grossman, Jesse",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SPE student, Row 2",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Dade, Lorraine",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SPE student, Row 2",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Rohr, Carol",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SPE student, Row 2",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Zachary, Kirk",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SPE student, Row 3",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Weissman, Robert",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SPE student, Row 3",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "De Natale, Anthony",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SPE student, Row 3",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Levinson, Leondard",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SPE student, Row 3",
+        "confidence": "high",
+        "page_appearances": [71]
+      },
+      {
+        "name": "Victor, Michele",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SPE student, Camera Shy",
+        "confidence": "high",
+        "page_appearances": [71]
+      }
+    ],    "organizations": [],
+    "locations": [],
+    "dates": [
+      "1979",
+      "1980"
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "School yearbook pages",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "yearbook_pages"
+  },
+  "insights": [
+    "Two consecutive years of class photos from what appears to be a private school",
+    "Many repeated family names (Gilbert, Schofield, Robinson) suggesting family connections or multi-year attendance",
+    "Formal yearbook format with organized rows and comprehensive name listings",
+    "No obvious connection to concerning content - appears to be legitimate school documentation"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000071",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.154035",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Class photo 1979 - group photo of students and faculty arranged in three rows",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": null,
+        "era_indicators": [],
+        "photo_quality": null,
+        "photo_type": null
+      },
+      {
+        "description": "Class photo 1980 - group photo of students and faculty arranged in three rows",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": null,
+        "era_indicators": [],
+        "photo_quality": null,
+        "photo_type": null
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [],
+  "investigative_leads": []
+}

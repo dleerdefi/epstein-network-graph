@@ -1,0 +1,154 @@
+{
+  "page_number": 18,
+  "type": "family_photos",
+  "content": {
+    "text": "Aug. 5 - 1934",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "Handwritten date on bottom right photo:\nAug. 5 - 1934\n\nDocument ID:\nHOUSE_OVERSIGHT_000018",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [
+        "Aug. 5 - 1934 (bottom right photo)"
+      ],
+      "margins": [],
+      "annotations": ["HOUSE_OVERSIGHT_000018"],
+      "handwritten_portions": [
+        "Aug. 5 - 1934"
+      ]
+    }
+  },
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "August 5, 1934"
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": null,
+    "date": "1934",
+    "subject": "Epstein family historical photos",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "family_photos"
+  },
+  "relationships": [
+    "Family members across multiple generations shown"
+  ],
+  "insights": [
+    "Four vintage family photos from 1930s-1940s era",
+    "Top left: Young man in athletic tank top - possibly father Seymour",
+    "Top right: Formal portrait - 2 elderly seated (grandparents), 2 younger standing",
+    "Bottom left: Family group with 5 people including young children",
+    "Bottom right: Woman in white dress dated Aug. 5, 1934",
+    "1934 date - 19 years before Jeffrey Epstein's birth (1953)",
+    "Shows Eastern European Jewish immigrant family aesthetic",
+    "Formal studio portrait style typical of 1930s-40s",
+    "Working class Brooklyn family documentation",
+    "Children in bottom left photo wearing matching outfits",
+    "Athletic photo shows family member in good physical condition",
+    "Woman in 1934 photo likely grandmother or great-aunt",
+    "Photos span at least 10-15 years based on clothing/styles",
+    "Family maintained photo archives across generations",
+    "Submitted by Paula, Seymour, or Mark for birthday book"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000018",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.129022",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Young man in athletic tank top/undershirt, muscular build",
+        "individual_count": 1,
+        "position_map": {"center": "young man in athletic wear"},
+        "individuals_identified": [],
+        "setting": "Indoor portrait",
+        "era_indicators": ["1930s-40s athletic wear", "Sepia tone", "Vintage photography"],
+        "photo_quality": "Aged but clear vintage photo",
+        "photo_type": "Personal portrait"
+      },
+      {
+        "description": "Formal family portrait - elderly couple seated, younger couple standing behind",
+        "individual_count": 4,
+        "position_map": {"seated_left": "elderly man", "seated_right": "elderly woman", "standing_left": "younger man", "standing_right": "younger woman"},
+        "individuals_identified": [],
+        "setting": "Formal studio portrait",
+        "era_indicators": ["1930s-40s formal wear", "Studio backdrop", "Professional photography"],
+        "photo_quality": "Professional vintage photograph",
+        "photo_type": "Formal family portrait"
+      },
+      {
+        "description": "Family group - woman standing, man seated with 3 children",
+        "individual_count": 5,
+        "position_map": {"standing": "woman in dark dress", "seated_center": "man", "children": "3 young children around father"},
+        "individuals_identified": [],
+        "setting": "Indoor family photo",
+        "era_indicators": ["1940s clothing", "Children in matching outfits", "Post-war era styling"],
+        "photo_quality": "Vintage family snapshot",
+        "photo_type": "Informal family photo"
+      },
+      {
+        "description": "Woman in white dress by doorway, handwritten date Aug. 5 - 1934",
+        "individual_count": 1,
+        "position_map": {"center": "woman in white dress"},
+        "individuals_identified": [],
+        "setting": "Residential doorway",
+        "era_indicators": ["1934 fashion", "Depression era", "Home photography"],
+        "photo_quality": "Aged snapshot with handwritten date",
+        "photo_type": "Personal photograph"
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": true,
+    "high_priority": false,
+    "quality_score": 85,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "August 5, 1934 - specific date 19 years before Epstein's birth",
+    "Photos show multi-generational family history",
+    "All photos pre-date Jeffrey Epstein's birth",
+    "Handwriting on 1934 photo appears vintage (not recent addition)",
+    "Photo quality/paper consistent with claimed era"
+  ],
+  "investigative_leads": [
+    "Identify individuals in photos through family records",
+    "Verify if athletic photo is Seymour Epstein",
+    "Research Epstein family immigration history",
+    "Trace family lineage through genealogical records",
+    "Determine Brooklyn addresses from 1930s-40s"
+  ]
+}

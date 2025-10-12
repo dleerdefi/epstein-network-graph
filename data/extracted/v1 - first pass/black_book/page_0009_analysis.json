@@ -1,0 +1,1217 @@
+{
+  "page_number": 9,
+  "alphabetical_section": "B-C",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "page9_busson_arki",
+      "name": {
+        "full_name": "Busson, Arki",
+        "title": null,
+        "first_name": "Arki",
+        "last_name": "Busson",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0207-439 8695 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": null,
+          "area_code": "0207",
+          "extension": null,
+          "notes": "Central London",
+          "is_primary": false,
+          "formatting": "0207-439 8695 (h)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "125 East St Street\nParis 0XX 411 43841 USA",
+          "street_line1": "125 East St Street",
+          "street_line2": null,
+          "city": "Paris",
+          "state_province": null,
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Address appears confused"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "low",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page9_butler_charlie",
+      "name": {
+        "full_name": "Butler, Charlie",
+        "title": null,
+        "first_name": "Charlie",
+        "last_name": "Butler",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 212 980 9993 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "001",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan",
+          "is_primary": false,
+          "formatting": "001 212 980 9993 (h)"
+        },
+        {
+          "number": "001 646 691 5299",
+          "type": "unknown",
+          "label": null,
+          "country_code": "001",
+          "area_code": "646",
+          "extension": null,
+          "notes": "NYC area code",
+          "is_primary": false,
+          "formatting": "001 646 691 5299"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "12 Peltham Crescent\nLondon SW6 2EQ",
+          "street_line1": "12 Peltham Crescent",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW6 2EQ",
+          "country": "UK",
+          "notes": "Fulham area"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page9_button_terri",
+      "name": {
+        "full_name": "Button Terri",
+        "title": null,
+        "first_name": "Terri",
+        "last_name": "Button",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 212 569 9993 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "001",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan",
+          "is_primary": false,
+          "formatting": "001 212 569 9993 (h)"
+        },
+        {
+          "number": "001 917 856 9999 (m)",
+          "type": "mobile",
+          "label": "m",
+          "country_code": "001",
+          "area_code": "917",
+          "extension": null,
+          "notes": "NYC mobile",
+          "is_primary": false,
+          "formatting": "001 917 856 9999 (m)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "179 Christopher\n10 Dailing Avenue, FL (cell phone)",
+          "street_line1": "179 Christopher",
+          "street_line2": "10 Dailing Avenue",
+          "city": null,
+          "state_province": "FL",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Florida connection"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page9_byng_robert",
+      "name": {
+        "full_name": "Byng, Robert",
+        "title": null,
+        "first_name": "Robert",
+        "last_name": "Byng",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "[illegible]",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Not legible",
+          "is_primary": false,
+          "formatting": "[illegible]"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "University Court\n28 South Street",
+          "street_line1": "University Court",
+          "street_line2": "28 South Street",
+          "city": null,
+          "state_province": null,
+          "postal_code": null,
+          "country": null,
+          "notes": null
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page9_cadenet_de_alain",
+      "name": {
+        "full_name": "Cadenet de Alain",
+        "title": null,
+        "first_name": "Alain",
+        "last_name": "Cadenet",
+        "suffix": "de",
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 541 591 7XXX mailbox",
+          "type": "unknown",
+          "label": "mailbox",
+          "country_code": "001",
+          "area_code": "541",
+          "extension": null,
+          "notes": "Oregon area code",
+          "is_primary": false,
+          "formatting": "001 541 591 7XXX"
+        },
+        {
+          "number": "001 541 591 7898",
+          "type": "unknown",
+          "label": null,
+          "country_code": "001",
+          "area_code": "541",
+          "extension": null,
+          "notes": "Oregon area code",
+          "is_primary": false,
+          "formatting": "001 541 591 7898"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "71 Continental Bend River\n[illegible]\n0207 123 XXXX(h)",
+          "street_line1": "71 Continental Bend River",
+          "street_line2": null,
+          "city": null,
+          "state_province": null,
+          "postal_code": null,
+          "country": null,
+          "notes": "Oregon location likely"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["French nobility particle 'de'"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "medium",
+        "email_confidence": "high",
+        "address_confidence": "low",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page9_calacenis_jason",
+      "name": {
+        "full_name": "Calacenis, Jason",
+        "title": null,
+        "first_name": "Jason",
+        "last_name": "Calacenis",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 81 600 Grant Rd",
+          "type": "unknown",
+          "label": null,
+          "country_code": "001",
+          "area_code": null,
+          "extension": null,
+          "notes": "Address mixed with phone",
+          "is_primary": false,
+          "formatting": "[illegible]"
+        },
+        {
+          "number": "212 297 XXXX (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": null,
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan",
+          "is_primary": false,
+          "formatting": "212 297 XXXX (h)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "600 Grant Rd\nNew York, NY 10013",
+          "street_line1": "600 Grant Rd",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": "10013",
+          "country": "USA",
+          "notes": "TriBeCa area"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page9_caledon_nicky",
+      "name": {
+        "full_name": "Caledon, Nicky",
+        "title": null,
+        "first_name": "Nicky",
+        "last_name": "Caledon",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0041 900XXX",
+          "type": "unknown",
+          "label": null,
+          "country_code": "0041",
+          "area_code": null,
+          "extension": null,
+          "notes": "Switzerland country code",
+          "is_primary": false,
+          "formatting": "0041 900XXX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Caledon Castle\n[illegible] Co Tyrone",
+          "street_line1": "Caledon Castle",
+          "street_line2": null,
+          "city": null,
+          "state_province": "Co Tyrone",
+          "postal_code": null,
+          "country": "Northern Ireland",
+          "notes": "Castle estate"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Castle address", "Earl of Caledon family"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page9_calvo_platero_maria_cristina",
+      "name": {
+        "full_name": "Calvo-Platero, Maria/Cristina",
+        "title": null,
+        "first_name": "Maria Cristina",
+        "last_name": "Calvo-Platero",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "212 988 XXXX (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": null,
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan",
+          "is_primary": false,
+          "formatting": "212 988 XXXX (h)"
+        },
+        {
+          "number": "917 XXXX (M)",
+          "type": "mobile",
+          "label": "M",
+          "country_code": null,
+          "area_code": "917",
+          "extension": null,
+          "notes": "NYC mobile",
+          "is_primary": false,
+          "formatting": "917 XXXX (M)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "165 East 82nd\nNew York, NY 10021",
+          "street_line1": "165 East 82nd",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page9_cambell_roddy",
+      "name": {
+        "full_name": "Cambell Roddy",
+        "title": null,
+        "first_name": "Roddy",
+        "last_name": "Cambell",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0207 XXXX4XX",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": "0207",
+          "extension": null,
+          "notes": "Central London",
+          "is_primary": false,
+          "formatting": "0207 XXXX4XX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "New Kings\n0208 5660 4094 (w)",
+          "street_line1": "New Kings",
+          "street_line2": null,
+          "city": null,
+          "state_province": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "London area"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "low",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page9_cambell_allstar",
+      "name": {
+        "full_name": "Cambell, Allstar",
+        "title": null,
+        "first_name": "Allstar",
+        "last_name": "Cambell",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0207 930 4433",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": "0207",
+          "extension": null,
+          "notes": "Central London",
+          "is_primary": false,
+          "formatting": "0207 930 4433"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "label": null,
+          "full_address": "0207 930 4433 Press 10 Downing",
+          "street_line1": "10 Downing Street",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Prime Minister's residence"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": "Press 10 Downing"
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["10 Downing Street connection"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page9_camerana_giancarlo",
+      "name": {
+        "full_name": "Camerana, Giancarlo",
+        "title": null,
+        "first_name": "Giancarlo",
+        "last_name": "Camerana",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "00 11 010 5530 (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": "00 11",
+          "area_code": "010",
+          "extension": null,
+          "notes": "International",
+          "is_primary": false,
+          "formatting": "00 11 010 5530 (w)"
+        },
+        {
+          "number": "00 11 335 XXXX",
+          "type": "unknown",
+          "label": null,
+          "country_code": "00 11",
+          "area_code": "335",
+          "extension": null,
+          "notes": "International mobile",
+          "is_primary": false,
+          "formatting": "00 11 335 XXXX"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page9_cammy",
+      "name": {
+        "full_name": "Cammy",
+        "title": null,
+        "first_name": "Cammy",
+        "last_name": null,
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "917 886 8058",
+          "type": "mobile",
+          "label": null,
+          "country_code": null,
+          "area_code": "917",
+          "extension": null,
+          "notes": "NYC mobile",
+          "is_primary": false,
+          "formatting": "917 886 8058"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["First name only"]
+      },
+      "data_quality": {
+        "name_confidence": "medium",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page9_campbell_naomi",
+      "name": {
+        "full_name": "Campbell, Naomi",
+        "title": null,
+        "first_name": "Naomi",
+        "last_name": "Campbell",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "Apt 127 Park House",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Address mixed with contact",
+          "is_primary": false,
+          "formatting": "[illegible]"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Apt 127 Park House\nOxford St Walk\nLondon",
+          "street_line1": "Apt 127 Park House",
+          "street_line2": "Oxford St Walk",
+          "city": "London",
+          "state_province": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Central London"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Supermodel"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page9_campo_del_brooke",
+      "name": {
+        "full_name": "Campo del Brooke &",
+        "title": null,
+        "first_name": "Brooke",
+        "last_name": "Campo",
+        "suffix": "del",
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 310 990 33XXXX",
+          "type": "unknown",
+          "label": null,
+          "country_code": "001",
+          "area_code": "310",
+          "extension": null,
+          "notes": "Beverly Hills/LA area",
+          "is_primary": false,
+          "formatting": "001 310 990 33XXXX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "13 North Park Court\nLondon NW7, X202\nGeneva UK Campbell",
+          "street_line1": "13 North Park Court",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "NW7",
+          "country": "UK",
+          "notes": "North London"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Entry appears incomplete"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page9_candole_andrew",
+      "name": {
+        "full_name": "Candole, Andrew de",
+        "title": null,
+        "first_name": "Andrew",
+        "last_name": "Candole",
+        "suffix": "de",
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "117 630 XXXX (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": null,
+          "area_code": "117",
+          "extension": null,
+          "notes": "Bristol UK area code",
+          "is_primary": false,
+          "formatting": "117 630 XXXX (w)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "[illegible] 35\nBath",
+          "street_line1": "[illegible] 35",
+          "street_line2": null,
+          "city": "Bath",
+          "state_province": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Bath, England"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["French nobility particle 'de'"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page9_candy_nicholas_ac",
+      "name": {
+        "full_name": "Candy, Nicholas A C",
+        "title": null,
+        "first_name": "Nicholas",
+        "last_name": "Candy",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "01144 (0) 7770 886 136",
+          "type": "mobile",
+          "label": null,
+          "country_code": "01144",
+          "area_code": "7770",
+          "extension": null,
+          "notes": "UK mobile",
+          "is_primary": false,
+          "formatting": "01144 (0) 7770 886 136"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "20 Lower Belgrave St\nLondon SW1W 0LU\n[illegible] @candyandcandy.com",
+          "street_line1": "20 Lower Belgrave St",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW1W 0LU",
+          "country": "UK",
+          "notes": "Belgravia, exclusive area"
+        }
+      ],
+      "emails": [
+        {
+          "address": "[illegible]@candyandcandy.com",
+          "type": "business",
+          "domain": "candyandcandy.com",
+          "notes": "Property development firm"
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Property developer"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "medium",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 16,
+    "complete_entries": 0,
+    "partial_entries": 10,
+    "minimal_entries": 6,
+    "redacted_entries": 0,
+    "handwritten_additions": 0,
+    "crossed_out_entries": 0,
+    "quality": "fair",
+    "legibility": "partially obscured",
+    "notable_features": ["Naomi Campbell entry", "10 Downing Street connection (Alastair Campbell)", "Caledon Castle address", "Starts transition to C section"],
+    "continues_to_page": 10,
+    "continued_from_page": 8,
+    "split_entry_note": "No clear continuation from page 8"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": ["Arki Busson", "Charlie Butler", "Terri Button", "Robert Byng", "Alain de Cadenet", "Jason Calacenis", "Nicky Caledon", "Maria Cristina Calvo-Platero", "Roddy Cambell", "Alastair Campbell", "Giancarlo Camerana", "Cammy", "Naomi Campbell", "Brooke Campo del", "Andrew de Candole", "Nicholas A C Candy"],
+    "organizations": ["Candy and Candy"],
+    "locations": {
+      "cities": ["Paris", "London", "New York", "Bend River", "Bath", "Bristol", "Belgravia"],
+      "states": ["NY", "FL", "Oregon", "Co Tyrone"],
+      "countries": ["USA", "UK", "France", "Switzerland", "Northern Ireland", "Italy"]
+    }
+  },
+  "insights": [
+    "Page 9 transitions from B to C section with 16 entries",
+    "Naomi Campbell (supermodel) with London address",
+    "Alastair Campbell with 10 Downing Street connection - Tony Blair's press secretary",
+    "Caledon Castle address in County Tyrone - Earl of Caledon estate",
+    "Nicholas Candy of Candy & Candy property developers in Belgravia",
+    "541 area code for Alain de Cadenet indicates Oregon connection",
+    "0041 country code for Nicky Caledon indicates Switzerland",
+    "917 area codes common - NYC mobile numbers",
+    "646 area code for Charlie Butler - newer NYC overlay",
+    "Upper East Side addresses predominate (East 82nd Street)",
+    "Mix of UK nobility (Caledon Castle) and celebrities (Naomi Campbell)",
+    "International scope with Switzerland, Northern Ireland, Oregon connections",
+    "10013 postal code for Calacenis - TriBeCa area NYC",
+    "117 area code for Andrew de Candole - Bristol/Bath area UK",
+    "SW1W postal code for Nicholas Candy - ultra-exclusive Belgravia",
+    "Multiple entries with French nobility particle 'de'"
+  ]
+}

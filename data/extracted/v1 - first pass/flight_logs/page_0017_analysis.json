@@ -1,0 +1,374 @@
+{
+  "page_number": 17,
+  "file_path": "data/flight_logs_images/page-017.png",
+  "type": "aircraft_flight_log",
+  "content": {
+    "text": "DATE 1993 JAN | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARKS | POINTS OF DEPARTURE & ARRIVAL | FROM | TO | MILEAGE | FLT TIME | REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS | AIRCRAFT CATEGORY\n\n5 '' N908JE PDT TED 4.1 268 JEFFREY, GHISLAINE\n21 '' '' '' TEB CMH 7.0 269 JEFFREY, GHISLAINE\n23 '' '' '' CMH CMH 1.0 270 JEFFREY, GHISLAINE, PRINCE ANDREW\n24 '' '' '' CBJ TEB 5.5 271 JEFFREY, GHISLAINE, PRINCE ANDREW\n21 '' '' '' TEB DCG 5.5 272 JEFFREY\n25 '' '' '' DCG SFO 6.0 273 JEFFREY, SHANNON, CECILIA, RUBY ROGERS [?]\n18 '' '' '' ETS LGB 3.0 274 JEFFREY GHISLAINE, MARIE [unclear] CECILY\n3 '' '' '' TED UB8 2.0 275 JEFFREY, MARIA\n5 '' '' '' TED PB3 5.5 276 JEFFREY, MARIA\n11 '' '' '' PB3 CMH 2.0 277 PA PASSENGER\n11 '' '' '' CMH CDJ 0.5 278 RUBY\n14 '' '' '' CMH CBJ 4.5 279 JEFFREY, PRINCE ANDREW, GHISLAINE, ROBERT, ROBERT\n15 '' '' '' PAR NER 4.0 280 JEFFREY, MARIA, PRINCE ANDREW\n16 '' '' '' TED CBJ 1.5 281 JEFFREY, DANA, PRINCE\n17 '' '' '' CMH BOE 2.0 282 JEFFREY, GHISLAINE, PRINCE ANDREW\n16 '' '' '' PB5 TED 5.0 283 JEFFREY, VIRGINIA\n16 '' '' '' TED BRH 1.5 284 JEFFREY, VIRGINIA\n\nPAGE TOTAL\nAMT. FORWARD: 88.1 + 61.1 = 149.2\nTOTAL TO DATE: 5204 + 672 = 5876\n\nI certify that the statements made by me on this form are true.\n\nPILOT'S SIGNATURE: David Rodgers",
+    "handwritten": true,
+    "typed": false,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "Complete cell-by-cell transcription provided above",
+      "flight_records": [
+        {
+          "date": "1/23/93",
+          "departure": "PDT",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "4.1 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE"
+        },
+        {
+          "date": "1/23/93",
+          "departure": "TEB",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "7.0 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE"
+        },
+        {
+          "date": "1/29/93",
+          "departure": "CMH",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "1.0 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Prince Andrew"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE, PRINCE ANDREW"
+        },
+        {
+          "date": "1/24/93",
+          "departure": "CBJ",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "5.5 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Prince Andrew"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE, PRINCE ANDREW"
+        },
+        {
+          "date": "1/21/93",
+          "departure": "TEB",
+          "arrival": "DCG",
+          "aircraft": "N908JE",
+          "flight_time": "5.5 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "2/1/93",
+          "departure": "DCG",
+          "arrival": "SFO",
+          "aircraft": "N908JE",
+          "flight_time": "6.0 hrs",
+          "passengers": ["Jeffrey", "Shannon", "Cecilia", "Ruby Rogers"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, SHANNON, CECILIA, RUBY ROGERS [?]"
+        },
+        {
+          "date": "2/5/93",
+          "departure": "ETS",
+          "arrival": "LGB",
+          "aircraft": "N908JE",
+          "flight_time": "3.0 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Marie [unclear]", "Cecily"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE, MARIE [unclear] CECILY"
+        },
+        {
+          "date": "2/18/93",
+          "departure": "TED",
+          "arrival": "UB8",
+          "aircraft": "N908JE",
+          "flight_time": "2.0 hrs",
+          "passengers": ["Jeffrey", "Maria"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, MARIA"
+        },
+        {
+          "date": "3/3/93",
+          "departure": "TED",
+          "arrival": "PB3",
+          "aircraft": "N908JE",
+          "flight_time": "5.5 hrs",
+          "passengers": ["Jeffrey", "Maria"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, MARIA"
+        },
+        {
+          "date": "3/5/93",
+          "departure": "PB3",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "2.0 hrs",
+          "passengers": ["PA Passenger"],
+          "pilot": "David Rodgers",
+          "notes": "PA PASSENGER"
+        },
+        {
+          "date": "3/11/93",
+          "departure": "CMH",
+          "arrival": "CDJ",
+          "aircraft": "N908JE",
+          "flight_time": "0.5 hrs",
+          "passengers": ["Ruby"],
+          "pilot": "David Rodgers",
+          "notes": "RUBY"
+        },
+        {
+          "date": "3/11/93",
+          "departure": "CMH",
+          "arrival": "CBJ",
+          "aircraft": "N908JE",
+          "flight_time": "4.5 hrs",
+          "passengers": ["Jeffrey", "Prince Andrew", "Ghislaine", "Robert", "Robert"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, PRINCE ANDREW, GHISLAINE, ROBERT, ROBERT"
+        },
+        {
+          "date": "3/14/93",
+          "departure": "PAR",
+          "arrival": "NER",
+          "aircraft": "N908JE",
+          "flight_time": "4.0 hrs",
+          "passengers": ["Jeffrey", "Maria", "Prince Andrew"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, MARIA, PRINCE ANDREW"
+        },
+        {
+          "date": "3/15/93",
+          "departure": "TED",
+          "arrival": "CBJ",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Dana", "Prince"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, DANA, PRINCE"
+        },
+        {
+          "date": "3/16/93",
+          "departure": "CMH",
+          "arrival": "BOE",
+          "aircraft": "N908JE",
+          "flight_time": "2.0 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Prince Andrew"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE, PRINCE ANDREW"
+        },
+        {
+          "date": "3/17/93",
+          "departure": "PB5",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "5.0 hrs",
+          "passengers": ["Jeffrey", "Virginia"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, VIRGINIA"
+        },
+        {
+          "date": "3/16/93",
+          "departure": "TED",
+          "arrival": "BRH",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Virginia"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, VIRGINIA"
+        }
+      ],
+      "date_header": "DATE 1993 JAN",
+      "date_range": "January-March 1993",
+      "starting_month": "January",
+      "starting_year": "1993"
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey",
+        "context": "Primary passenger appearing in most flights",
+        "occurrences": 15
+      },
+      {
+        "name": "Ghislaine",
+        "context": "Frequent passenger",
+        "occurrences": 8
+      },
+      {
+        "name": "Prince Andrew",
+        "context": "High-profile passenger - British Royal, multiple appearances",
+        "occurrences": 6
+      },
+      {
+        "name": "Shannon",
+        "context": "Passenger",
+        "occurrences": 1
+      },
+      {
+        "name": "Cecilia",
+        "context": "Passenger",
+        "occurrences": 1
+      },
+      {
+        "name": "Ruby Rogers",
+        "context": "Passenger - name partially unclear",
+        "occurrences": 1
+      },
+      {
+        "name": "Marie",
+        "context": "Passenger - name unclear in log",
+        "occurrences": 1
+      },
+      {
+        "name": "Cecily",
+        "context": "Passenger",
+        "occurrences": 1
+      },
+      {
+        "name": "Maria",
+        "context": "Passenger - appears multiple times",
+        "occurrences": 3
+      },
+      {
+        "name": "Ruby",
+        "context": "Passenger - possibly same as Ruby Rogers",
+        "occurrences": 1
+      },
+      {
+        "name": "Robert",
+        "context": "Passenger - appears twice in same flight",
+        "occurrences": 2
+      },
+      {
+        "name": "Dana",
+        "context": "Passenger",
+        "occurrences": 1
+      },
+      {
+        "name": "Virginia",
+        "context": "Passenger - appears on consecutive flights",
+        "occurrences": 2
+      },
+      {
+        "name": "David Rodgers",
+        "context": "Pilot signature",
+        "occurrences": 1
+      }
+    ],
+    "locations": [
+      {
+        "code": "PDT",
+        "context": "Airport code"
+      },
+      {
+        "code": "TED",
+        "context": "Primary hub - frequent location"
+      },
+      {
+        "code": "TEB",
+        "context": "Teterboro Airport, NJ - frequent location"
+      },
+      {
+        "code": "CMH",
+        "context": "Columbus, OH - frequent destination"
+      },
+      {
+        "code": "CBJ",
+        "context": "Airport code"
+      },
+      {
+        "code": "DCG",
+        "context": "Airport code"
+      },
+      {
+        "code": "SFO",
+        "context": "San Francisco Airport"
+      },
+      {
+        "code": "ETS",
+        "context": "Airport code"
+      },
+      {
+        "code": "LGB",
+        "context": "Long Beach Airport"
+      },
+      {
+        "code": "UB8",
+        "context": "Airport code"
+      },
+      {
+        "code": "PB3",
+        "context": "Airport code"
+      },
+      {
+        "code": "CDJ",
+        "context": "Airport code"
+      },
+      {
+        "code": "PAR",
+        "context": "Airport code - possibly Paris"
+      },
+      {
+        "code": "NER",
+        "context": "Airport code"
+      },
+      {
+        "code": "BOE",
+        "context": "Airport code"
+      },
+      {
+        "code": "PB5",
+        "context": "Airport code"
+      },
+      {
+        "code": "BRH",
+        "context": "Airport code"
+      }
+    ],
+    "aircraft": [
+      {
+        "registration": "N908JE",
+        "context": "Primary aircraft used for all flights"
+      }
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "signature": "David Rodgers",
+        "context": "Pilot's signature at bottom of page",
+        "deciphered": true
+      }
+    ],
+    "stamps": [],
+    "handwriting_analysis": "Consistent handwriting throughout, same person filling out all entries",
+    "page_totals": {
+      "mileage": "88.1 + 61.1 = 149.2",
+      "total_to_date": "5204 + 672 = 5876"
+    }
+  },
+  "metadata": {
+    "time_period": "January-March 1993",
+    "total_flights": 17,
+    "unique_passengers": 13,
+    "primary_aircraft": "N908JE",
+    "pilot": "David Rodgers"
+  },
+  "insights": [
+    "Prince Andrew appears 6 times across January-March 1993 - significant continued presence",
+    "Multiple flights with Prince Andrew spanning different dates throughout three months",
+    "Virginia appears on consecutive flights on same day (3/16/93 and 3/17/93)",
+    "Maria appears multiple times as passenger",
+    "Two Roberts listed on same flight (1/14/93) - possibly two different people",
+    "Complex flight patterns with multiple same-day flights",
+    "International destinations suggested by PAR (Paris) airport code",
+    "Some passenger names are unclear or abbreviated in original log",
+    "Flight from CMH to CMH (1/29/93) - unusual same departure/arrival",
+    "Flights span three months January-March 1993 showing extensive travel activity"
+  ]
+}

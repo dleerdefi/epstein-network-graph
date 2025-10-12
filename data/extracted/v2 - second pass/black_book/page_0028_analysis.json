@@ -1,0 +1,617 @@
+{
+  "page_number": 28,
+  "alphabetical_section": "H-I-J",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "028_hurst_anne",
+      "name": {
+        "full_name": "Hurst, Anne",
+        "prefix": null,
+        "first_name": "Anne",
+        "middle_name": null,
+        "last_name": "Hurst",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "017 647 1948", "formatting": "UK format"},
+        {"type": "mobile", "number": "0585 529 2922", "formatting": "UK mobile"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "UK contact"
+    },
+    {
+      "entry_id": "028_hurst_robert_j",
+      "name": {
+        "full_name": "Hurst, Robert J.",
+        "prefix": null,
+        "first_name": "Robert",
+        "middle_name": "J.",
+        "last_name": "Hurst",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "mobile", "number": "917 282 3008", "formatting": "US format"}
+      ],
+      "emails": [
+        {"type": "business", "email": "Robert.hurst@bankofamerica.com"}
+      ],
+      "addresses": [
+        {
+          "type": "business",
+          "address_lines": ["7 Newsom Drive", "200 Vesey St. 3rd FL", "New York, NY 10281"],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10281",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": ["Email: Robert.hurst@bankofamerica.com", "Office: 212 847 5914"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Bank of America executive"
+    },
+    {
+      "entry_id": "028_hussain_ayla",
+      "name": {
+        "full_name": "Hussain, Ayla",
+        "prefix": null,
+        "first_name": "Ayla",
+        "middle_name": null,
+        "last_name": "Hussain",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "212 744 0777 (h)", "formatting": "US format"},
+        {"type": "work", "number": "212 329 1881 (w)", "formatting": "US format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["3 East 80th Street", "175 West Broadway"],
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": ["www.uylahussain.com"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "NYC contact. 'CEO Sundari'"
+    },
+    {
+      "entry_id": "028_hussey_simon",
+      "name": {
+        "full_name": "Hussey Simon",
+        "prefix": null,
+        "first_name": "Simon",
+        "middle_name": null,
+        "last_name": "Hussey",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "020 7267 9157", "formatting": "UK format"},
+        {"type": "home", "number": "020 7257 8777", "formatting": "UK format"},
+        {"type": "mobile", "number": "0802-307 3724(w)", "formatting": "UK mobile"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["47 Barnsbury", "London N1"],
+          "city": "London",
+          "postal_code": "N1",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "UK contact"
+    },
+    {
+      "entry_id": "028_hutley_henry",
+      "name": {
+        "full_name": "Hutley, Henry",
+        "prefix": null,
+        "first_name": "Henry",
+        "middle_name": null,
+        "last_name": "Hutley",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 595 1011", "formatting": "International to US"},
+        {"type": "mobile", "number": "001 516 3714 314", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "business",
+          "address_lines": ["215 East 68th Street", "New York, NY 10021"],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Upper East Side NYC"
+    },
+    {
+      "entry_id": "028_0207_727_8762",
+      "name": {
+        "full_name": null,
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": null,
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207-727 8762 (h)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "phones": "high"
+      },
+      "formatting_notes": "Orphan UK number"
+    },
+    {
+      "entry_id": "028_hutley_lulu_edward",
+      "name": {
+        "full_name": "Hutley, Lulu & Edward",
+        "prefix": null,
+        "first_name": "Lulu",
+        "middle_name": null,
+        "last_name": "Hutley",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Edward"
+      },
+      "phones": [
+        {"type": "home", "number": "0207- 937 459 (h1)", "formatting": "UK format"},
+        {"type": "work", "number": "0207- 384 6302 (w)", "formatting": "UK format"},
+        {"type": "home", "number": "0207-386 6139 (h2)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["35 Earls Court Gardens", "London, SW5 0TD"],
+          "city": "London",
+          "postal_code": "SW5 0TD",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": ["0207 727 8762 (h)", "0207 727 5818 (w)", "0831 595 4614 (p)", "0207 376 1115 (h)"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "UK couple"
+    },
+    {
+      "entry_id": "028_hutley_mr_mrs",
+      "name": {
+        "full_name": "Hutley, Mr & Mrs",
+        "prefix": "Mr",
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Hutley",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Mrs Hutley"
+      },
+      "phones": [
+        {"type": "home", "number": "01 Birsinley", "formatting": "UK format"},
+        {"type": "home", "number": "0438 782 2847(h)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "medium"
+      },
+      "formatting_notes": "UK couple"
+    },
+    {
+      "entry_id": "028_hutton_lauren",
+      "name": {
+        "full_name": "Hutton, Lauren",
+        "prefix": null,
+        "first_name": "Lauren",
+        "middle_name": null,
+        "last_name": "Hutton",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 678 5600(k)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "business",
+          "address_lines": ["c/o Elite Model Mgmt", "111 E 22nd (w) or Luica"],
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Model/actress"
+    },
+    {
+      "entry_id": "028_hymes_ivan",
+      "name": {
+        "full_name": "Hymes Ivan",
+        "prefix": null,
+        "first_name": "Ivan",
+        "middle_name": null,
+        "last_name": "Hymes",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "00 353 1 67234 1849", "formatting": "International to Ireland"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Ireland contact. 'Eddie's Irv friend'"
+    },
+    {
+      "entry_id": "028_inca",
+      "name": {
+        "full_name": "Inca",
+        "prefix": null,
+        "first_name": "Inca",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "212 702 4300", "formatting": "US format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "apartment",
+          "address_lines": ["8 Gramercy Park South Apt #3D (around corner of 20th & Park) New York, New York"],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10153",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": ["917 922 4687 (p)"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "028_ind_charlie",
+      "name": {
+        "full_name": "Ind, Charlie",
+        "prefix": null,
+        "first_name": "Charlie",
+        "middle_name": null,
+        "last_name": "Ind",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "212 517 7400 (w)", "formatting": "US format"},
+        {"type": "home", "number": "212 421 8799 (h)", "formatting": "US format"},
+        {"type": "home", "number": "001 516 329 5161 (h)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Locust Valley", "New York"],
+          "city": "Locust Valley",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Locust Valley - wealthy Long Island area"
+    },
+    {
+      "entry_id": "028_inzerillo_gerard_j",
+      "name": {
+        "full_name": "Inzerillo, Gerard J.",
+        "prefix": null,
+        "first_name": "Gerard",
+        "middle_name": "J.",
+        "last_name": "Inzerillo",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "work", "number": "203 481 3460 (w)", "formatting": "US format"},
+        {"type": "home", "number": "00 01 203 8000 (p)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "business",
+          "address_lines": ["Blyth & Company", "100 Field Drive", "New Haven, NY 10016"],
+          "city": "New Haven",
+          "state": "NY",
+          "postal_code": "10016",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": ["9 Cedar Avenue", "New York, NY 10016", "001 914 862 0666 (h)", "914 862 9599 fax"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Investment firm executive"
+    },
+    {
+      "entry_id": "028_212_517_1006",
+      "name": {
+        "full_name": null,
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": null,
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "212 517 1006", "formatting": "US format"},
+        {"type": "home", "number": "212 517 8790 (w)", "formatting": "US format"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "phones": "high"
+      },
+      "formatting_notes": "Orphan NYC numbers"
+    },
+    {
+      "entry_id": "028_isham_chris",
+      "name": {
+        "full_name": "Isham, Chris",
+        "prefix": null,
+        "first_name": "Chris",
+        "middle_name": null,
+        "last_name": "Isham",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "00 212 456 5847(w)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "NYC contact"
+    },
+    {
+      "entry_id": "028_irvine_eddie",
+      "name": {
+        "full_name": "Irvine, Eddie",
+        "prefix": null,
+        "first_name": "Eddie",
+        "middle_name": null,
+        "last_name": "Irvine",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0780 660 7069 (h)", "formatting": "UK mobile"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "F1 racing driver"
+    },
+    {
+      "entry_id": "028_jackson_michael",
+      "name": {
+        "full_name": "Jackson, Michael",
+        "prefix": null,
+        "first_name": "Michael",
+        "middle_name": null,
+        "last_name": "Jackson",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207-229 8877", "formatting": "UK format"},
+        {"type": "home", "number": "0207-225 3111 (w)", "formatting": "UK format"}
+      ],
+      "emails": [
+        {"type": "business", "email": "mjacksonftalk21.com"}
+      ],
+      "addresses": [
+        {
+          "type": "business",
+          "address_lines": ["Hippman Gallery", "2 Rutland Gate"],
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": ["Email: mjacksonftalk21.com", "danjackson@aucknewide.net"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "UK art gallery owner"
+    },
+    {
+      "entry_id": "028_irvine_eddie",
+      "name": {
+        "full_name": "Irvine Eddie",
+        "prefix": null,
+        "first_name": "Eddie",
+        "middle_name": null,
+        "last_name": "Irvine",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "01367-850 2237 (h)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "K1 Top Albany Piccadily London W1V9RQ"
+    },
+    {
+      "entry_id": "028_jagger_mick",
+      "name": {
+        "full_name": "Jagger Mick",
+        "prefix": null,
+        "first_name": "Mick",
+        "middle_name": null,
+        "last_name": "Jagger",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0582-873 3106(w)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Rolling Stones lead singer"
+    },
+    {
+      "entry_id": "028_jacobson_julian",
+      "name": {
+        "full_name": "Jacobson Julian",
+        "prefix": null,
+        "first_name": "Julian",
+        "middle_name": null,
+        "last_name": "Jacobson",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207-589 2337 (h)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "UK contact"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 20,
+    "legibility": "excellent",
+    "page_condition": "good",
+    "notes": "Notable entries include Mick Jagger (Rolling Stones), Lauren Hutton (model/actress), Eddie Irvine (F1 driver), Robert Hurst (Bank of America executive)"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Anne Hurst",
+      "Robert J. Hurst",
+      "Ayla Hussain",
+      "Simon Hussey",
+      "Henry Hutley",
+      "Lulu Hutley",
+      "Edward Hutley",
+      "Mr Hutley",
+      "Mrs Hutley",
+      "Lauren Hutton",
+      "Ivan Hymas",
+      "Inca",
+      "Charlie Ind",
+      "Gerard J. Inzerillo",
+      "Chris Isham",
+      "Eddie Irvine",
+      "Michael Jackson",
+      "Mick Jagger",
+      "Julian Jacobson"
+    ],
+    "organizations": [
+      "Bank of America",
+      "Elite Model Management",
+      "Blyth & Company",
+      "Hippman Gallery",
+      "Rolling Stones"
+    ],
+    "locations": [
+      "New York, NY",
+      "London, UK",
+      "Ireland",
+      "Locust Valley, NY",
+      "New Haven, CT"
+    ]
+  },
+  "insights": [
+    "Mick Jagger - Rolling Stones frontman",
+    "Lauren Hutton - iconic 1970s supermodel and actress",
+    "Eddie Irvine - Formula 1 racing driver",
+    "Robert Hurst - Bank of America senior executive",
+    "Michael Jackson (UK art gallery owner, not the musician)",
+    "Mix of entertainment figures, finance executives, and international contacts",
+    "Locust Valley, Long Island connections indicating old money elite",
+    "Multiple Hutley family entries suggesting social circle",
+    "Strong NYC and London presence with Upper East Side addresses",
+    "International reach spanning US, UK, and Ireland"
+  ]
+}

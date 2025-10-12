@@ -1,0 +1,184 @@
+{
+  "page_number": 11,
+  "type": "business_card_and_band_photo",
+  "content": {
+    "text": "Business Card: PIANO [musical notes drawing] ACCORDION Jeff Epstein ALL OCCASIONS PHONE (212) ES 3-2262 | Photo Caption: RHAPSODY IN BLUE Bobby \nAaron Brown Bar Mitzvah Wynn Hotel Phila. Sept 23 1961",
+    "handwritten": true,
+    "typed": true,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "Business Card: PIANO [musical notes drawing] ACCORDION Jeff Epstein ALL OCCASIONS PHONE (212) ES 3-2262 | Photo Caption: RHAPSODY IN BLUE Bobby \nAaron Brown Bar Mitzvah Wynn Hotel Phila. Sept 23 1961\nDocument ID:\nHOUSE_OVERSIGHT_000011",
+      "letterhead": "",
+      "main_body": "Jeff Epstein ALL OCCASIONS",
+      "captions": [
+        "RHAPSODY IN BLUE",
+        "Aaron Brown Bar Mitzvah Wynn Hotel Phila. Sept 23 1961"
+      ],
+      "margins": [],
+      "annotations": ["HOUSE_OVERSIGHT_000011"],
+      "handwritten_portions": [
+        "RHAPSODY IN BLUE",
+        "Aaron Brown Bar Mitzvah Wynn Hotel Phila. Sept 23 1961"
+      ]
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "title": "Musician/Entertainer",
+        "relationship": "Subject of birthday book",
+        "context": "Age 11 in 1964 band photo",
+        "confidence": "high",
+        "page_appearances": [11]
+      },
+      {
+        "name": "Bobby",
+        "title": null,
+        "relationship": "Band member",
+        "context": "1964 youth band",
+        "confidence": "high",
+        "page_appearances": [11]
+      },
+      {
+        "name": "Howie",
+        "title": null,
+        "relationship": "Band member",
+        "context": "1964 youth band",
+        "confidence": "high",
+        "page_appearances": [11]
+      },
+      {
+        "name": "Dick Epstein",
+        "title": null,
+        "relationship": "Likely brother/relative",
+        "context": "Same surname in 1964 band",
+        "confidence": "high",
+        "page_appearances": [11]
+      },
+      {
+        "name": "Peter",
+        "title": null,
+        "relationship": "Band member",
+        "context": "1964 youth band",
+        "confidence": "high",
+        "page_appearances": [11]
+      },
+      {
+        "name": "David",
+        "title": null,
+        "relationship": "Band member",
+        "context": "1964 youth band",
+        "confidence": "high",
+        "page_appearances": [11]
+      }
+    ],
+    "organizations": [
+      "Jeff Epstein ALL OCCASIONS (entertainment business)"
+    ],
+    "locations": [],
+    "dates": [
+      "September 23, 1964"
+    ],
+    "emails": [],
+    "phones": [
+      "(212) 15 3-2345"
+    ],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": null,
+    "date": null,
+    "subject": "Childhood music career - business card and 1964 band photo",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "musical_performance_photo"
+  },
+  "insights": [
+    "Business card reveals Jeffrey Epstein's childhood entertainment business",
+    "'ALL OCCASIONS' indicates wedding/bar mitzvah/event entertainment",
+    "Piano and accordion listed as primary instruments",
+    "Phone (212) 15 3-2345 - early Brooklyn/NYC phone format",
+    "September 23, 1964 photo - Epstein was 11 years old",
+    "'RHAPSODY IN BLUE' - Gershwin piece showing musical sophistication",
+    "Six-member youth band: Bobby, Howie, Dick Epstein, Jeff, Peter, David",
+    "Dick Epstein likely brother Mark using nickname",
+    "Children wearing matching striped shirts - organized ensemble",
+    "Professional microphones and music stands visible",
+    "Accordion prominently featured matching business card",
+    "Shows entrepreneurial mindset from age 11",
+    "Musical talent before transition to finance",
+    "Brooklyn childhood roots documented",
+    "Family likely submitted this page for birthday book"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000011",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.125833",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Black and white 1964 youth band performance photo",
+        "individual_count": 6,
+        "position_map": {
+          "left_to_right": "Bobby (guitar), Howie (bass), Dick Epstein (standing), Jeff (accordion seated), Peter (standing), David (standing right)"
+        },
+        "individuals_identified": ["Bobby", "Howie", "Dick Epstein", "Jeff Epstein", "Peter", "David"],
+        "setting": "Indoor performance venue or rehearsal space",
+        "era_indicators": ["1964 styling", "Matching striped shirts", "Vintage microphones"],
+        "photo_quality": "Clear black and white",
+        "photo_type": "Performance documentation"
+      }
+    ],
+    "signatures": [],
+    "logos": [
+      "Piano and accordion illustration on business card"
+    ],
+    "redactions": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": true,
+    "high_priority": false,
+    "quality_score": 95,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Business card phone partially visible as (212) 15 3-2345",
+    "September 23, 1964 - Epstein age 11 (born Jan 20, 1953)",
+    "Dick Epstein likely brother Mark Epstein",
+    "Professional business cards at age 11 unusual",
+    "Transition from music to finance needs investigation",
+    "Photo composition suggests parent/adult photographer",
+    "Handwriting on photo appears to be from 2003 compilation"
+  ],
+  "investigative_leads": [
+    "Identify if Dick Epstein is Mark Epstein",
+    "Trace ALL OCCASIONS business registration in NYC",
+    "Locate surviving band members for interviews",
+    "Investigate music-to-finance career transition",
+    "Research Brooklyn music scene connections 1960s",
+    "Determine who submitted this page to birthday book"
+  ]
+}

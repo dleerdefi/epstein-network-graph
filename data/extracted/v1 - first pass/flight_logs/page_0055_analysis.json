@@ -1,0 +1,315 @@
+{
+  "page_number": 55,
+  "date_header": "APR 1998",
+  "time_period": "April 1998 - May 1998",
+  "aircraft": {
+    "registration": "Multiple (G1159B N908JE, C421 N708GM, C172 N15RR)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "17",
+      "date": "04/17/1998",
+      "departure": "PBI",
+      "arrival": "PBI",
+      "flight_time": "1098",
+      "remarks": "COAST FLORIDAIN FOR GPR APPEARANCE",
+      "passengers": ["COAST FLORIDAIN", "GPR APPEARANCE"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "17",
+      "date": "04/17/1998",
+      "departure": "PBI",
+      "arrival": "X21",
+      "flight_time": "",
+      "remarks": "CHRIS W WAGNER, ATTY WIETPLENBERGER, WERNER A DOMAN, STEPHENS",
+      "passengers": ["CHRIS W WAGNER", "ATTY WIETPLENBERGER", "WERNER A DOMAN", "STEPHENS"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "17",
+      "date": "04/17/1998",
+      "departure": "X21",
+      "arrival": "TRX",
+      "flight_time": "",
+      "remarks": "WENDY",
+      "passengers": ["WENDY"],
+      "crew": ""
+    },
+    {
+      "entry_number": "17",
+      "date": "04/17/1998",
+      "departure": "TRX",
+      "arrival": "CRG",
+      "flight_time": "",
+      "remarks": "KIRSTY RODGERS, RYAN, ROBBY, LULA ROBBS, COCO, TINO",
+      "passengers": ["KIRSTY RODGERS", "RYAN", "ROBBY", "LULA ROBBS", "COCO", "TINO"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "18",
+      "date": "04/18/1998",
+      "departure": "CRG",
+      "arrival": "LAL",
+      "flight_time": "",
+      "remarks": "KRISTI WIESELBERGEK, JULIE, TONY, LIBBY, MORANDI JULIE",
+      "passengers": ["KRISTI WIESELBERGEK", "JULIE", "TONY", "LIBBY", "MORANDI", "JULIE"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "18",
+      "date": "04/18/1998",
+      "departure": "LAL",
+      "arrival": "CRG",
+      "flight_time": "",
+      "remarks": "CINDY LOPEZ, NADA MCUMKOVA, CINDY, ANNA SANCHEZ, JUANA CECILIA, CINDY LOPEZ",
+      "passengers": ["CINDY LOPEZ", "NADA MCUMKOVA", "CINDY", "ANNA SANCHEZ", "JUANA CECILIA"],
+      "crew": ""
+    },
+    {
+      "entry_number": "19",
+      "date": "04/19/1998",
+      "departure": "PBI",
+      "arrival": "CMH",
+      "flight_time": "1099",
+      "remarks": "JE, CLAIRE HAZEY, 1 FEMALE",
+      "passengers": ["JE", "CLAIRE HAZEY", "1 FEMALE"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "20",
+      "date": "04/20/1998",
+      "departure": "CMH",
+      "arrival": "LUK",
+      "flight_time": "1100",
+      "remarks": "JE, CLAIRE HAZEY, SARAH KELLEN",
+      "passengers": ["JE", "CLAIRE HAZEY", "SARAH KELLEN"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "20",
+      "date": "04/20/1998",
+      "departure": "LUK",
+      "arrival": "TEB",
+      "flight_time": "",
+      "remarks": "JE, GEORGEFF, MURRAY LANL",
+      "passengers": ["JE", "GEORGEFF", "MURRAY LANL"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "24",
+      "date": "04/24/1998",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "1102",
+      "remarks": "JE, GM, ET, SARAH KELLEN, 1 FEMALE",
+      "passengers": ["JE", "GM", "ET", "SARAH KELLEN", "1 FEMALE"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "25",
+      "date": "04/25/1998",
+      "departure": "LNA-PBI-LNA",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "SANDRA WONG-SIG EVA ANDERSSON-DUBIN, GLENN DUBIN, ELLEN SPENCER, CEO OF THE PARK + AMC, MARIE, ALEXANDRA COUSTEAU",
+      "passengers": ["SANDRA WONG", "SIG", "EVA ANDERSSON-DUBIN", "GLENN DUBIN", "ELLEN SPENCER", "CEO OF THE PARK", "AMC", "MARIE", "ALEXANDRA COUSTEAU"],
+      "crew": "6/6"
+    },
+    {
+      "entry_number": "26",
+      "date": "04/26/1998",
+      "departure": "LNA",
+      "arrival": "LNA",
+      "flight_time": "",
+      "remarks": "SANDRA WONG SIG EVA ANDERSSON, GLENN DUBIN, ELLEN SPENCER, CEO OF THE PARK + AMC, MARIE, ALEXANDRA COUSTEAU",
+      "passengers": ["SANDRA WONG", "SIG", "EVA ANDERSSON", "GLENN DUBIN", "ELLEN SPENCER", "CEO OF THE PARK", "AMC", "MARIE", "ALEXANDRA COUSTEAU"],
+      "crew": "5/5"
+    },
+    {
+      "entry_number": "26",
+      "date": "04/26/1998",
+      "departure": "LNA-PBI-LNA",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "ELLEN SPENCER, FAWN KRUSE ALLEN, MARIE A",
+      "passengers": ["ELLEN SPENCER", "FAWN KRUSE ALLEN", "MARIE A"],
+      "crew": ""
+    },
+    {
+      "entry_number": "26",
+      "date": "04/26/1998",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "1103",
+      "remarks": "JE, GM, ET",
+      "passengers": ["JE", "GM", "ET"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "MAY 1",
+      "date": "05/01/1998",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "1104",
+      "remarks": "JE, GM, ET, JILLIAN SWINNERTON, CELESTE MARMER",
+      "passengers": ["JE", "GM", "ET", "JILLIAN SWINNERTON", "CELESTE MARMER"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "1",
+      "date": "05/01/1998",
+      "departure": "LNA-UNLOADING",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "APRIL & MAY REPAIR SAG JET, GOLDMAN SACHS EVA ANDERSSON, GLENN DUBIN",
+      "passengers": ["APRIL", "MAY REPAIR", "SAG JET", "GOLDMAN SACHS", "EVA ANDERSSON", "GLENN DUBIN"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "3",
+      "date": "05/03/1998",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "1105",
+      "remarks": "JE, [REDACTED], HEATHER, GISELEN",
+      "passengers": ["JE", "[REDACTED]", "HEATHER", "GISELEN"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "5",
+      "date": "05/05/1998",
+      "departure": "TEB",
+      "arrival": "BED",
+      "flight_time": "1106",
+      "remarks": "JE, RUSSELL",
+      "passengers": ["JE", "RUSSELL"],
+      "crew": ""
+    },
+    {
+      "entry_number": "5",
+      "date": "05/05/1998",
+      "departure": "BED",
+      "arrival": "TEB",
+      "flight_time": "1107",
+      "remarks": "JE, ROGER, 5 RUSSLL",
+      "passengers": ["JE", "ROGER", "5 RUSSLL"],
+      "crew": ""
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "GM",
+      "ET",
+      "COAST FLORIDAIN",
+      "GPR APPEARANCE",
+      "CHRIS W WAGNER",
+      "ATTY WIETPLENBERGER",
+      "WERNER A DOMAN",
+      "STEPHENS",
+      "WENDY",
+      "KIRSTY RODGERS",
+      "RYAN",
+      "ROBBY",
+      "LULA ROBBS",
+      "COCO",
+      "TINO",
+      "KRISTI WIESELBERGEK",
+      "JULIE",
+      "TONY",
+      "LIBBY",
+      "MORANDI",
+      "CINDY LOPEZ",
+      "NADA MCUMKOVA",
+      "ANNA SANCHEZ",
+      "JUANA CECILIA",
+      "CLAIRE HAZEY",
+      "1 FEMALE",
+      "SARAH KELLEN",
+      "GEORGEFF",
+      "MURRAY LANL",
+      "SANDRA WONG",
+      "SIG",
+      "EVA ANDERSSON-DUBIN",
+      "GLENN DUBIN",
+      "ELLEN SPENCER",
+      "CEO OF THE PARK",
+      "AMC",
+      "MARIE",
+      "ALEXANDRA COUSTEAU",
+      "FAWN KRUSE ALLEN",
+      "MARIE A",
+      "JILLIAN SWINNERTON",
+      "CELESTE MARMER",
+      "GOLDMAN SACHS",
+      "HEATHER",
+      "GISELEN",
+      "RUSSELL",
+      "ROGER",
+      "5 RUSSLL",
+      "David Rodgers"
+    ],
+    "locations": [
+      "PBI",
+      "X21",
+      "TRX",
+      "CRG",
+      "LAL",
+      "CMH",
+      "LUK",
+      "TEB",
+      "LNA-PBI-LNA",
+      "LNA",
+      "LNA-UNLOADING",
+      "BED"
+    ],
+    "aircraft": [
+      "G1159B",
+      "N908JE",
+      "C421",
+      "N708GM",
+      "C172",
+      "N15RR"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": [
+      {
+        "location": "entry_1105",
+        "content": "[REDACTED]",
+        "description": "Black redaction bar covering passenger name"
+      }
+    ]
+  },
+  "metadata": {
+    "page_total": "55",
+    "amount_forward": "11841",
+    "total_to_date": "12069",
+    "document_quality": "good",
+    "legibility": "clear with one redacted entry"
+  },
+  "insights": [
+    "Page transitions from April 1998 to May 1998",
+    "Eva Andersson-Dubin and Glenn Dubin appear as prominent passengers",
+    "Alexandra Cousteau (oceanographer, Jacques Cousteau's granddaughter) as passenger",
+    "Sarah Kellen appears multiple times as frequent passenger",
+    "Nada Marcinkova mentioned (spelled as MCUMKOVA)",
+    "Goldman Sachs reference in connection with Eva Andersson",
+    "Redacted passenger name on May 3rd flight",
+    "Multiple female passengers identified only as '1 FEMALE'",
+    "Claire Hazey appears as recurring passenger",
+    "Complex multi-stop operations (LNA-PBI-LNA)",
+    "Flight numbers exceeding 1107",
+    "Mix of business and personal travel patterns"
+  ]
+}

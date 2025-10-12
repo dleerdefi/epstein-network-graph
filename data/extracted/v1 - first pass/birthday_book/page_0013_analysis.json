@@ -1,0 +1,146 @@
+{
+  "page_number": 13,
+  "type": "location_progression_photos",
+  "content": {
+    "text": "Photo 1: Photograph of two planes next to each other at an airport. A smaller private jet and a bigger private jet. Caption for photo 1: 'From a smaller plane to a bigger plane - much bigger.'\n Photo 2: A man who appears to be in his fourties holding two luggage bags in front of an open door with lots of luggage at the entrace of a brick building that appears to be the entry to an apartment or a dorm. Caption for Photo 2: 'From what you thought was a huge amount of luggage \n Photo 3: [three photos in a collage] Boxes of household items being packed into the back of an SUV indicating a moving day. Caption of Photo 3: 'To a truely huge amount of luggage'",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "Photo 1: Photograph of two planes next to each other at an airport. A smaller private jet and a bigger private jet. Caption for photo 1: 'From a smaller plane to a bigger plane - much bigger'\n Photo 2: A man who appears to be in his fourties holding two luggage bags in front of an open door with lots of luggage at the entrace of a brick building that appears to be the entry to an apartment or a dorm. Caption for Photo 2: 'From what you thought was a huge amount of luggage' \n Photo 3: [three photos in a collage] Boxes of household items being packed into the back of an SUV indicating a moving day. Caption of Photo 3: 'To a truely huge amount of luggage'\nDocument ID:\nHOUSE_OVERSIGHT_000013",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [
+        "From a smaller plane to a bigger plane - much bigger",
+        "From what you thought was a huge amount of luggage",
+        "To a truely huge amount of luggage"
+      ],
+      "margins": [],
+      "annotations": ["HOUSE_OVERSIGHT_000013"],
+      "handwritten_portions": [
+        "All captions are handwritten"
+      ]
+    }
+  },
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "Shaftel Plant",
+      "Lafayette Place",
+      "Nice Heights"
+    ],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": null,
+    "date": null,
+    "subject": "Life progression through travel and mobility",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "location_progression_photos"
+  },
+  "relationships": [],
+  "insights": [
+    "Continues 'Ya go from Brooklyn' narrative from previous page",
+    "'Shaftel Plant' likely industrial facility - working class origin",
+    "'Lafayette Place' suggests upscale residential area",
+    "'Nice Heights' play on 'nice digs' - humorous tone",
+    "Airport hangar photo shows access to private aviation",
+    "Person on steps appears to be young man with suitcases",
+    "'huge avalanche of luggage' - humorous exaggeration",
+    "Multiple luggage photos symbolize constant travel",
+    "Car trunk packed with designer luggage",
+    "Progression: factory → nice home → private jets",
+    "Visual narrative of social/economic ascension",
+    "Luggage as metaphor for mobility and wealth",
+    "Handwriting consistent with contributor not Epstein",
+    "Photos appear to be from different time periods",
+    "Bottom photos show luxury luggage sets"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000013",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.127341",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Airport hangar with curved modernist architecture",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": "Airport facility with private aircraft area",
+        "era_indicators": ["Modern architecture", "Private aviation facility"],
+        "photo_quality": "Clear color photograph",
+        "photo_type": "Location documentation"
+      },
+      {
+        "description": "Young man in light suit sitting on brick steps with suitcases",
+        "individual_count": 1,
+        "position_map": {"center": "unidentified man with luggage"},
+        "individuals_identified": [],
+        "setting": "Brick building entrance with steps",
+        "era_indicators": ["Vintage photo", "1960s-70s clothing style"],
+        "photo_quality": "Vintage color photograph",
+        "photo_type": "Personal travel photo"
+      },
+      {
+        "description": "Three luggage photos: car trunk packed, luggage pile, suitcase collection",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": "Various luggage arrangements",
+        "era_indicators": ["Designer luggage sets", "Luxury travel items"],
+        "photo_quality": "Mixed vintage and modern",
+        "photo_type": "Lifestyle documentation"
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": true,
+    "high_priority": false,
+    "quality_score": 85,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Handwriting analysis: Not Epstein's hand - likely contributor",
+    "'Shaftel Plant' needs identification - possible Brooklyn factory",
+    "Young man in photo may be Epstein but unclear",
+    "Luggage progression shows wealth accumulation narrative",
+    "Photos span multiple decades based on quality/style"
+  ],
+  "investigative_leads": [
+    "Identify 'Shaftel Plant' location in Brooklyn",
+    "Research 'Lafayette Place' property ownership",
+    "Determine if man in photo is young Epstein",
+    "Track private aviation usage timeline",
+    "Identify specific airports/hangars used"
+  ]
+}

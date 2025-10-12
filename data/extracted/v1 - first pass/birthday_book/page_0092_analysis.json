@@ -1,0 +1,119 @@
+{
+  "page_number": 92,
+  "file_path": "data/birthday_book_images/page_0092.png",
+  "file_size_mb": 4.5770263671875,
+  "type": "photo_collage",
+  "content": {
+    "text": "A FEW FRIENDS AND FAMILY",
+    "handwritten": false,
+    "typed": true,
+    "mixed": false,
+    "description": "Photo collage with multiple personal photographs arranged on yellow background with text overlay",
+    "text_sections": {
+      "full_transcription": "A FEW FRIENDS AND FAMILY",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Multiple individuals in various personal and social photographs",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          92
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Personal relationships documentation",
+    "theme": "friends_and_family",
+    "significance": "medium",
+    "document_type": "photo_collage"
+  },
+  "insights": [
+    "Page titled 'A Few Friends and Family' indicates personal relationship documentation",
+    "Multiple photographs suggest extensive social network",
+    "Collage style indicates curation of meaningful personal connections",
+    "Mix of formal and informal photos suggests various relationship contexts",
+    "Personal nature contrasts with business content elsewhere in book",
+    "May provide insight into Epstein's social circle and personal relationships"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000092",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.165709",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Collection of personal photographs showing various people",
+        "theme": "friends_and_family",
+        "arrangement": "scattered_collage_style",
+        "individual_count": 20,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      },
+      {
+        "description": "Social gatherings and personal moments",
+        "theme": "social_connections",
+        "setting": "various_informal_settings",
+        "individual_count": 20,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": [],
+    "text_overlay": "A FEW FRIENDS AND FAMILY (repeated at top and bottom)"
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [],
+  "investigative_leads": []
+}

@@ -1,0 +1,712 @@
+{
+  "page_number": 47,
+  "alphabetical_section": "R",
+  "contacts": [
+    {
+      "name": "Roedy, Bill",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "24 Kincross House",
+          "street": "24 Kincross House",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "86 Grove Street, Wood Hill St",
+          "street": "86 Grove Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London NW10 7QG",
+          "city": "London",
+          "postal_code": "NW10 7QG",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 368 4200 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Rolfe, Gail",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "26-46 Seaford Street",
+          "street": "26-46 Seaford Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW11",
+          "city": "London",
+          "postal_code": "SW11",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 228 9169 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0208 994 8088 (m)",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Ronson, Lisa",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "79 Common",
+          "street": "79 Common",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW 5 6AD",
+          "city": "London",
+          "postal_code": "SW5 6AD",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 351 5488",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 792 8413 xxx",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01 351 XX 813 work",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Ronson, Mr & Mrs Gerald",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "47 Wisdom Lodge",
+          "street": "47 Wisdom Lodge",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "17 Beronica Crescent NO CTY",
+          "street": "17 Beronica Crescent",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "(Heron House)",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0208 900 2590 (h)",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 480 1909 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "20 716722XXXX to split",
+          "area_code": "207",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Gerald Ronson - British property developer",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Rose Wendy & Jo",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 645 9578 (w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Rose, Charlie & Bussler, Amanda",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "535 East 57th St",
+          "street": "535 East 57th St",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York, NY 10022",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10022",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 752 8300 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 546 4624 (w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Charlie Rose - TV journalist",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Rosen, Andrew",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 720 3200 sh (w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Rosen, Dana & Sylvia",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "78 Randolph Ave",
+          "street": "78 Randolph Ave",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London W9",
+          "city": "London",
+          "postal_code": "W9",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 625 0117",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207—XX 0591(h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Rosencrantz, Ms",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "11 Beaufort",
+          "street": "11 Beaufort",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Chelsea SW3",
+          "city": "Chelsea",
+          "postal_code": "SW3",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 581 7352 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Rosenfeld Donald",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "11 East 68th st",
+          "street": "11 East 68th St",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "NYC10065",
+          "city": "NYC",
+          "postal_code": "10065",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 539 5379",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Rothschild Jessica",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "917770 317788",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 242 2424",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Rothschild banking family",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Rosenstein, Bob",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 245 6350 br",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 246 6100 br",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Rothschild, Hannah",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "5 Tufton Villas",
+          "street": "5 Tufton Villas",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London",
+          "city": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "NW10 9PJ",
+          "postal_code": "NW10 9PJ",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0208 964 [illegible]",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 603 7511[h]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "addresses_additional": [
+        {
+          "type": "secondary",
+          "address": "36[b] Elgin Crescent Ext",
+          "street": "36b Elgin Crescent",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Rothschild banking family",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Rosenthal, Jane",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Tribeca Productions on 9th floor",
+          "organization": "Tribeca Productions",
+          "floor": "9th floor",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "917 523 5600 (office)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 941 2400(w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 XXX XXX[h]",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Tribeca Productions - Robert De Niro's production company",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Rothenburg, Rich",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 516 933 5920(o)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 877 145 3422 381(h)",
+          "area_code": "877",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Roth, Peter Thomas & Noreen",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "26 Pauline Ave",
+          "street": "26 Pauline Ave",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Pasadena",
+          "city": "Pasadena",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "CA 91104 (h)",
+          "state": "CA",
+          "postal_code": "91104",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 818 460 7781",
+          "area_code": "818",
+          "geographic_indicator": "Los Angeles/Valley",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 818 954 0001",
+          "area_code": "818",
+          "geographic_indicator": "Los Angeles/Valley",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "[illegible]@teamwarners[illegible].com"
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Rotherwick, Tania & Sarah",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "21 Albarta Court",
+          "street": "21 Albarta Court",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Parkway 79 Old[h]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "London NW8 7EN",
+          "city": "London",
+          "postal_code": "NW8 7EN",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "sarah@sarahrotherwick.com"
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "New York, NY 10128 1408 (w)",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10128",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 483 2180 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 828 6833 (w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 744 3393 (w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "914 591 6443 (h)",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "high"
+        }
+      ],
+      "addresses_additional": [
+        {
+          "type": "secondary",
+          "address": "[illegible] office",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "001 212 463 4107",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 463 4107",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "[number] 917 522 044489",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "0207 930",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 930[illegible](h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0208 671 543 9900",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "352 691 83221 (Country)",
+          "country_code": "352",
+          "geographic_indicator": "Luxembourg",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01642 811 400 Country",
+          "area_code": "01642",
+          "geographic_indicator": "Middlesbrough, UK",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 19,
+    "quality": "fair",
+    "legibility": "moderate degradation",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "Charlie Rose - TV journalist",
+      "Gerald Ronson - British property developer",
+      "Hannah Rothschild - Rothschild banking family",
+      "Jessica Rothschild - Rothschild banking family",
+      "Jane Rosenthal - Tribeca Productions (De Niro's company)"
+    ]
+  },
+  "insights": [
+    "Charlie Rose - prominent TV journalist",
+    "Multiple Rothschild family members",
+    "Jane Rosenthal - runs Tribeca Productions with Robert De Niro",
+    "Gerald Ronson - major British property developer",
+    "Pasadena California connection",
+    "Luxembourg connection (352)",
+    "Middlesbrough UK connection (01642)",
+    "Strong entertainment industry presence",
+    "Mix of media, finance, and real estate elite",
+    "Tribeca Productions connection to film industry"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "high",
+    "total_contacts": 19,
+    "high_confidence": 14,
+    "medium_confidence": 4,
+    "low_confidence": 1,
+    "extraction_issues": [
+      "Some phone numbers partially illegible",
+      "Few addresses incomplete",
+      "Last two entries appear fragmented"
+    ]
+  }
+}

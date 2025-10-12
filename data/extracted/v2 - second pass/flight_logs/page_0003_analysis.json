@@ -1,0 +1,955 @@
+{
+  "page_number": 3,
+  "date_header": {
+    "year": 1991,
+    "month": "AUG",
+    "full_text": "1991 AUG",
+    "confidence": "high"
+  },
+  "flights": [
+    {
+      "date": {
+        "original": "27",
+        "parsed": "1991-08-27",
+        "display": "08/27/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "TEB",
+        "from_codes": [
+          "CMH"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "50",
+        "flight_number": "23",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY EPSTEIN",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "3",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "29",
+        "parsed": "1991-08-29",
+        "display": "08/29/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "NEW",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "NEW"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "328",
+        "flight_number": "24",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY, EVA ANDERSSON",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "confidence": "high"
+        },
+        {
+          "name": "Eva Andersson",
+          "code": null,
+          "type": "identified",
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "2",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "8",
+        "glider": "",
+        "helicopter": "2"
+      }
+    },
+    {
+      "date": {
+        "original": "29",
+        "parsed": "1991-08-29",
+        "display": "08/20/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "NEW",
+        "to": "PBI",
+        "from_codes": [
+          "NEW"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "confidence": "medium"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "25",
+        "confidence": "medium"
+      },
+      "remarks": "ABOVE",
+      "passengers": [],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "5",
+        "glider": "",
+        "helicopter": "1"
+      }
+    },
+    {
+      "date": {
+        "original": "SEP",
+        "parsed": "1991-09-02",
+        "display": "09/02/1991",
+        "confidence": "medium",
+        "notes": "Month change"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "60",
+        "flight_number": "26",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY, GHISLAINE, ROGER SCHELL, +2 PAX",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Roger Sahle",
+          "code": null,
+          "type": "identified",
+          "confidence": "high"
+        },
+        {
+          "name": "+2 PAX",
+          "code": null,
+          "type": "unidentified",
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "2",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "7",
+        "glider": "",
+        "helicopter": "2"
+      }
+    },
+    {
+      "date": {
+        "original": "5",
+        "parsed": "1991-09-05",
+        "display": "09/05/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "CMH",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "CMH"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "27",
+        "confidence": "medium"
+      },
+      "remarks": "JEFFREY, GHISLAINE, +1 PAX",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "+1 PAX",
+          "code": null,
+          "type": "unidentified",
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "5",
+        "glider": "",
+        "helicopter": "1"
+      }
+    },
+    {
+      "date": {
+        "original": "8",
+        "parsed": "1991-09-08",
+        "display": "09/08/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "LGA",
+        "from_codes": [
+          "CMH"
+        ],
+        "to_codes": [
+          "LGA"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "65",
+        "flight_number": "28",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY, GHISLAINE, ABBY, KRISTY",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Abby",
+          "code": null,
+          "type": "identified",
+          "confidence": "high"
+        },
+        {
+          "name": "Kristy",
+          "code": null,
+          "type": "identified",
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "3",
+        "glider": "",
+        "helicopter": "1"
+      }
+    },
+    {
+      "date": {
+        "original": "8",
+        "parsed": "1991-09-08",
+        "display": "09/09/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LGA",
+        "to": "HTO",
+        "from_codes": [
+          "LGA"
+        ],
+        "to_codes": [
+          "HTO"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "29",
+        "confidence": "medium"
+      },
+      "remarks": "RELOCATE FOR (illegible) AT LEX WEXNER'S YACHT ((illegible))",
+      "passengers": [],
+      "landings": {
+        "count": "",
+        "confidence": "low"
+      },
+      "aircraft_category": {
+        "airplane": "3",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "10",
+        "parsed": "1991-09-10",
+        "display": "09/10/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "HTO",
+        "to": "TEB",
+        "from_codes": [
+          "HTO"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "50",
+        "flight_number": "30",
+        "confidence": "high"
+      },
+      "remarks": "RELOCATE TO TEB",
+      "passengers": [],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "6",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "12",
+        "parsed": "1991-09-12",
+        "display": "09/12/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "CMH",
+        "from_codes": [
+          "TGB"
+        ],
+        "to_codes": [
+          "CMH"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "31",
+        "confidence": "medium"
+      },
+      "remarks": "JEFFREY GHISLAINE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "4",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "13",
+        "parsed": "1991-09-13",
+        "display": "09/13/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "BKL",
+        "from_codes": [
+          "CMH"
+        ],
+        "to_codes": [
+          "BKL"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "32",
+        "flight_number": "",
+        "confidence": "high"
+      },
+      "remarks": "ABOVE",
+      "passengers": [],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "5",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "13",
+        "parsed": "1991-09-13",
+        "display": "09/13/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "BKL",
+        "to": "CMH",
+        "from_codes": [
+          "BKL"
+        ],
+        "to_codes": [
+          "CMH"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "33",
+        "flight_number": "",
+        "confidence": "high"
+      },
+      "remarks": "ABOVE",
+      "passengers": [],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "4",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "14",
+        "parsed": "1991-09-14",
+        "display": "09/14/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "BKL",
+        "from_codes": [
+          "CMH"
+        ],
+        "to_codes": [
+          "BKL"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "34",
+        "flight_number": "",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY, EVA ANDERSSON",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "confidence": "high"
+        },
+        {
+          "name": "Eva Andersson",
+          "code": "EA",
+          "type": "identified",
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "5",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "17",
+        "parsed": "1991-09-17",
+        "display": "09/17/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "BKL",
+        "to": "TEB",
+        "from_codes": [
+          "BKL"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "35",
+        "flight_number": "",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY, EVA, MARK EPSTEIN",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "confidence": "high"
+        },
+        {
+          "name": "Eva Andersson",
+          "code": "EA",
+          "type": "identified",
+          "confidence": "high"
+        },
+        {
+          "name": "Mark Epstein",
+          "code": "ME",
+          "type": "identified",
+          "confidence": "medium"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "0",
+        "glider": "",
+        "helicopter": "1"
+      }
+    },
+    {
+      "date": {
+        "original": "18",
+        "parsed": "1991-09-18",
+        "display": "09/18/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "BKL",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "BKL"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "36",
+        "flight_number": "",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY, MARK",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "confidence": "high"
+        },
+        {
+          "name": "Mark Epstein",
+          "code": "ME",
+          "type": "identified",
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "3",
+        "glider": "",
+        "helicopter": "1"
+      }
+    },
+    {
+      "date": {
+        "original": "18",
+        "parsed": "1991-09-18",
+        "display": "09/18/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "BKL",
+        "to": "CMH",
+        "from_codes": [
+          "BKL"
+        ],
+        "to_codes": [
+          "CMH"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "37",
+        "flight_number": "",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "5",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "19",
+        "parsed": "1991-09-19",
+        "display": "09/19/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "BKL",
+        "from_codes": [
+          "CMH"
+        ],
+        "to_codes": [
+          "BKL"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "285",
+        "flight_number": "",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "4",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "19",
+        "parsed": "1991-09-19",
+        "display": "09/19/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "BKL",
+        "to": "CMH",
+        "from_codes": [
+          "BKL"
+        ],
+        "to_codes": [
+          "CMH"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "201",
+        "flight_number": "",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "7",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "30",
+        "parsed": "1991-09-30",
+        "display": "09/30/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "CMH",
+        "from_codes": [
+          "CMH"
+        ],
+        "to_codes": [
+          "CMH"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "33",
+        "flight_number": "40",
+        "confidence": "high"
+      },
+      "remarks": "TEST FLIGHT BILL (illegible) ARGUS 7000, STORM SCOPE DB602",
+      "passengers": [],
+      "landings": {
+        "count": "8",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "10",
+        "glider": "",
+        "helicopter": "18"
+      }
+    }
+  ],
+  "page_totals": {
+    "page_total": {
+      "value": "55",
+      "confidence": "high"
+    },
+    "amount_forward": {
+      "value": "3724",
+      "confidence": "high"
+    },
+    "total_to_date": {
+      "value": "3779",
+      "confidence": "high"
+    },
+    "validation": {
+      "math_check": "pass",
+      "continuity_check": "pass",
+      "notes": "55 + 3724 = 3779. Amount Forward matches previous page."
+    }
+  },
+  "pilot_signature": {
+    "present": true,
+    "legible": false,
+    "notes": "Signature present"
+  },
+  "page_metadata": {
+    "total_flights": 18,
+    "date_range": {
+      "start": "1991-08-27",
+      "end": "1991-09-30"
+    },
+    "aircraft_used": [
+      "HS125-700 (N108JE)"
+    ],
+    "notable_passengers": [
+      "Jeffrey Epstein",
+      "Ghislaine",
+      "Eva Andersson",
+      "Marc"
+    ],
+    "unidentified_passengers": 3,
+    "extraction_quality": "good",
+    "handwriting_legibility": "fair"
+  },
+  "validation": {
+    "date_progression": "valid",
+    "no_time_travel": true,
+    "sequential_dates": true,
+    "totals_accurate": true,
+    "previous_page_continuity": true
+  }
+}

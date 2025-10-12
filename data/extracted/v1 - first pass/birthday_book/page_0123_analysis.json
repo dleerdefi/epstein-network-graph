@@ -1,0 +1,146 @@
+{
+  "page_number": 123,
+  "file_path": "data/birthday_book_images/page_0123.png",
+  "file_size_mb": 1.0017986297607422,
+  "type": "artistic_portrait_continuation",
+  "content": {
+    "text": "PEACE\n\nKeep going\n\nYoung man",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "description": "Continuation of pop art portrait series with peace message",
+    "text_sections": {
+      "full_transcription": "PEACE\n\nKeep going\n\nYoung man",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein (portrait subject)",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          123
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Same sender as page 122",
+    "recipient": "Jeffrey Epstein",
+    "date": "Birthday celebration",
+    "subject": "Artistic tribute continuation",
+    "theme": "peace_and_encouragement",
+    "significance": "medium",
+    "document_type": "artistic_portrait_continuation"
+  },
+  "insights": [
+    "'PEACE' message adds spiritual/calming element to birthday wishes",
+    "Continuation of pop art theme from previous page",
+    "'Keep going Young man' repeated from page 122",
+    "Multiple portrait variations suggest different facets of personality",
+    "Overlapping composition creates more dynamic, collage-like effect",
+    "Artistic effort spans multiple pages - significant tribute",
+    "Peace message contrasts with known controversial activities",
+    "Sophisticated artistic presentation continues theme of cultured circle",
+    "Repetition of 'young man' emphasizes perceived youthfulness at 50",
+    "Pop art treatment typically associated with fame and celebrity status",
+    "Two-page spread suggests important relationship with sender"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000123",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.180196",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Multi-panel pop art portrait arrangement",
+        "theme": "artistic_tribute_continuation",
+        "style": "Warhol-inspired pop art",
+        "elements": [
+          "5-6 portrait variations",
+          "Overlapping/collage arrangement",
+          "Pink and blue color tones"
+        ],
+        "notable_details": [
+          "Different from page 122 arrangement",
+          "More overlapping composition",
+          "Varied expressions and angles"
+        ],
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": [],
+    "handwritten_notes": [
+      {
+        "type": "message_continuation",
+        "style": "casual_handwriting",
+        "ink_color": "black",
+        "content": "PEACE at top, Keep going Young man at bottom"
+      }
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Continuation of pop art portrait series from page 122",
+    "5-6 overlapping portrait variations",
+    "More complex collage arrangement than page 122",
+    "Pink and blue/purple color treatments",
+    "Handwritten 'PEACE' at top of page",
+    "Handwritten 'Keep going Young man' at bottom",
+    "Same handwriting style as page 122",
+    "Subject appears to be Jeffrey Epstein",
+    "Different angles and expressions in portraits",
+    "Professional artistic quality maintained",
+    "Two-page artistic tribute (pages 122-123)",
+    "Document stamped HOUSE_OVERSIGHT_000123",
+    "Warhol-inspired celebrity portrait treatment"
+  ],
+  "investigative_leads": []
+}

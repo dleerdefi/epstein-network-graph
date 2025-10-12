@@ -1,0 +1,271 @@
+{
+  "page_number": 1,
+  "file_path": "data/flight_logs_images/page-001.png",
+  "type": "aircraft_flight_log",
+  "content": {
+    "text": "GOVERNMENT EXHIBIT 662-RR 52 DLG 12HJA00\nAIRCRAFT, IDENTIFICATION AND CARGO MANIFEST\nPOINTS OF DEPARTURE & ARRIVAL\nPASSENGERS AND/OR CARGO MANIFESTED INCL[UDING] [?]\nAIRCRAFT CATEGORY\n\nFlight Log Entries:\n1. 3/25/99 VERSAILLES MISSING FY3-CLE CYNS 33 70 Hostess Sue Marcinkova ALL CELLARKMAN\n2. 3/30 CMH PSP 33 70 ALL CELLARKMAN\n3. 4/16 PBI-ABV JG+GM 33 70 S KELEN\n4. 5 CMH PBI CLEAN 36 70 PAUL LEVY\n5. 6 CMH CPS 11 60 S-O JOE AND SARAH, Sarah & Joe CENT\n6. 21 CPS CMH\n7. 30 CMH-ROW-CMH 33 65 flight time added up by pilot\n8. 19 CMH BEL CMH\n9. 21 CMH ZRQ-CMH 50 LORRIE STUART, CLAIRE & RICK, PILOT C KENT, STUART CLAIRE RICK CO-PILOT\n10. 25 CMH-LEX-CMH 30 RICK, ALL R's MARLA, ALL R's\n11. 26 W BEDFORD ATW ATW JODI CHURCH\n12. 23 ATW ATW\n13. 24 ATW TEB\n14. 25 PBI PSP-ELP\n15. 26 TLG ISP 35 01 Co-Pilot to TLG, ATW LANCE S, MICHAEL, ALEE GRUBMAN\n16. 26 ISP CPS Dine Chabre, GLENN\n17. 30 CPS TEB JEFFREY\n18. 31 TEB CLG\n\nPAGE TOTAL\nAMT. FORWARD: 33 HRS [?]\nTOTAL TO DATE: [signed]\n\nPilot's Signature: David Rodgers",
+    "handwritten": false,
+    "typed": true,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "See above 'text' field for complete transcription",
+      "flight_records": [
+        {
+          "date": "4/25/91",
+          "departure": "VERSAILLES",
+          "arrival": "MISSING",
+          "aircraft": "FY3-CLE CYNS",
+          "flight_time": "3.3 hrs",
+          "passengers": ["Sue Marcinkova"],
+          "pilot": "Unknown",
+          "notes": "Hostess Sue Marcinkova, ALL CELLARKMAN"
+        },
+        {
+          "date": "4/30/91",
+          "departure": "CMH",
+          "arrival": "PSP",
+          "aircraft": "",
+          "flight_time": "3.3 hrs",
+          "passengers": [],
+          "pilot": "Unknown",
+          "notes": "ALL CELLARKMAN"
+        },
+        {
+          "date": "5/1/91",
+          "departure": "PBI",
+          "arrival": "ABV",
+          "aircraft": "JG+GM",
+          "flight_time": "3.3 hrs",
+          "passengers": [],
+          "pilot": "Unknown",
+          "notes": "S KELEN"
+        },
+        {
+          "date": "5/3/91",
+          "departure": "CMH",
+          "arrival": "PBI",
+          "aircraft": "CLEAN",
+          "flight_time": "3.6 hrs",
+          "passengers": ["Paul Levy"],
+          "pilot": "Unknown",
+          "notes": "PAUL LEVY"
+        },
+        {
+          "date": "5/5/91",
+          "departure": "CMH",
+          "arrival": "CPS",
+          "aircraft": "",
+          "flight_time": "1.1 hrs",
+          "passengers": ["Sarah", "Joe"],
+          "pilot": "Unknown",
+          "notes": "S-O JOE AND SARAH, Sarah & Joe CENT"
+        },
+        {
+          "date": "5/6/91",
+          "departure": "CPS",
+          "arrival": "CMH",
+          "aircraft": "",
+          "flight_time": "",
+          "passengers": [],
+          "pilot": "Unknown",
+          "notes": ""
+        },
+        {
+          "date": "5/21/91",
+          "departure": "CMH",
+          "arrival": "ROW-CMH",
+          "aircraft": "",
+          "flight_time": "3.3 hrs",
+          "passengers": [],
+          "pilot": "Unknown",
+          "notes": "flight time added up by pilot"
+        },
+        {
+          "date": "5/30/91",
+          "departure": "CMH",
+          "arrival": "BEL CMH",
+          "aircraft": "",
+          "flight_time": "",
+          "passengers": [],
+          "pilot": "Unknown",
+          "notes": ""
+        },
+        {
+          "date": "5/19/91",
+          "departure": "CMH",
+          "arrival": "ZRQ-CMH",
+          "aircraft": "",
+          "flight_time": "5.0 hrs",
+          "passengers": ["Lorrie Stuart", "Claire", "Rick"],
+          "pilot": "C Kent",
+          "notes": "LORRIE STUART, CLAIRE & RICK, PILOT C KENT, CO-PILOT"
+        },
+        {
+          "date": "5/21/91",
+          "departure": "CMH",
+          "arrival": "LEX-CMH",
+          "aircraft": "",
+          "flight_time": "3.0 hrs",
+          "passengers": ["Rick", "Marla"],
+          "pilot": "Unknown",
+          "notes": "RICK, ALL R's MARLA, ALL R's"
+        },
+        {
+          "date": "5/25/91",
+          "departure": "W BEDFORD",
+          "arrival": "ATW",
+          "aircraft": "",
+          "flight_time": "",
+          "passengers": ["Jodi Church"],
+          "pilot": "Unknown",
+          "notes": "JODI CHURCH"
+        },
+        {
+          "date": "6/26/91",
+          "departure": "ATW",
+          "arrival": "ATW",
+          "aircraft": "",
+          "flight_time": "",
+          "passengers": [],
+          "pilot": "Unknown",
+          "notes": ""
+        },
+        {
+          "date": "6/23/91",
+          "departure": "ATW",
+          "arrival": "TEB",
+          "aircraft": "",
+          "flight_time": "",
+          "passengers": [],
+          "pilot": "Unknown",
+          "notes": ""
+        },
+        {
+          "date": "6/24/91",
+          "departure": "PBI",
+          "arrival": "PSP-ELP",
+          "aircraft": "",
+          "flight_time": "",
+          "passengers": [],
+          "pilot": "Unknown",
+          "notes": ""
+        },
+        {
+          "date": "6/25/91",
+          "departure": "TLG",
+          "arrival": "ISP",
+          "aircraft": "",
+          "flight_time": "3.5 hrs",
+          "passengers": ["Lance S", "Michael", "Alee Grubman"],
+          "pilot": "Unknown",
+          "notes": "Co-Pilot to TLG, ATW LANCE S, MICHAEL, ALEE GRUBMAN"
+        },
+        {
+          "date": "6/26/91",
+          "departure": "ISP",
+          "arrival": "CPS",
+          "aircraft": "",
+          "flight_time": "",
+          "passengers": ["Dine Chabre", "Glenn"],
+          "pilot": "Unknown",
+          "notes": "Dine Chabre, GLENN"
+        },
+        {
+          "date": "6/26/91",
+          "departure": "CPS",
+          "arrival": "TEB",
+          "aircraft": "",
+          "flight_time": "",
+          "passengers": ["Jeffrey"],
+          "pilot": "Unknown",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "6/31/91",
+          "departure": "TEB",
+          "arrival": "CLG",
+          "aircraft": "",
+          "flight_time": "",
+          "passengers": [],
+          "pilot": "Unknown",
+          "notes": ""
+        }
+      ],
+      "headers": ["DATE", "AIRCRAFT AND REGISTRATION", "POINTS OF DEPARTURE & ARRIVAL", "LEGS", "FLY TIME", "REMARKS PASSENGERS MANIFESTED INCLUDING[?]", "AIRCRAFT CATEGORY"],
+      "annotations": ["GOVERNMENT EXHIBIT 662-RR", "52 DLG 12HJA00", "PAGE TOTAL", "AMT. FORWARD: 33 HRS", "TOTAL TO DATE"]
+    }
+  },
+  "entities": {
+    "people": [
+      "Sue Marcinkova",
+      "Paul Levy",
+      "Sarah",
+      "Joe",
+      "Lorrie Stuart",
+      "Claire",
+      "Rick",
+      "C Kent",
+      "Marla",
+      "Jodi Church",
+      "Lance S",
+      "Michael",
+      "Alee Grubman",
+      "Dine Chabre",
+      "Glenn",
+      "Jeffrey",
+      "David Rodgers"
+    ],
+    "organizations": [],
+    "locations": [
+      "VERSAILLES",
+      "CMH",
+      "PSP",
+      "PBI",
+      "ABV",
+      "CPS",
+      "ROW",
+      "BEL",
+      "ZRQ",
+      "LEX",
+      "W BEDFORD",
+      "ATW",
+      "TEB",
+      "ELP",
+      "TLG",
+      "ISP",
+      "CLG"
+    ],
+    "dates": ["4/25/91", "4/30/91", "5/1/91", "5/3/91", "5/5/91", "5/6/91", "5/19/91", "5/21/91", "5/25/91", "5/30/91", "6/23/91", "6/24/91", "6/25/91", "6/26/91", "6/31/91"],
+    "aircraft": ["FY3-CLE CYNS", "JG+GM", "CLEAN"],
+    "phones": [],
+    "emails": []
+  },
+  "visual_elements": {
+    "signatures": ["David Rodgers (pilot signature at bottom)"],
+    "stamps": ["GOVERNMENT EXHIBIT stamp in yellow box (662-RR)"],
+    "logos": [],
+    "redactions": []
+  },
+  "metadata": {
+    "log_type": "passenger_and_cargo_manifest",
+    "time_period": "April-June 1991",
+    "total_flights": 18,
+    "page_condition": "good",
+    "document_identifier": "GOVERNMENT EXHIBIT 662-RR",
+    "bates_stamp": "52 DLG 12HJA00"
+  },
+  "insights": [
+    "This appears to be Jeffrey Epstein's private aircraft flight log from April-June 1991",
+    "Sue Marcinkova is listed as 'Hostess' on the first flight",
+    "Multiple short-hop flights between various US airports",
+    "Jeffrey (likely Epstein) mentioned explicitly on flight from CPS to TEB on the 30th",
+    "David Rodgers signed as pilot",
+    "Mix of airport codes suggests East Coast and potentially Caribbean operations",
+    "CMH (Columbus, OH) appears frequently as departure point",
+    "PBI (Palm Beach International) appears multiple times, consistent with Epstein's Florida residence",
+    "TEB (Teterboro, NJ) is a common private jet airport near New York",
+    "Flight times range from 1.1 to 5.0 hours",
+    "Document is an official government exhibit (662-RR) likely from legal proceedings",
+    "Some passenger names appear to be incomplete or use initials only"
+  ]
+}

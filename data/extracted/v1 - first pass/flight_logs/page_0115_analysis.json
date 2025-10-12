@@ -1,0 +1,287 @@
+{
+  "page_number": 115,
+  "date_header": "MAR-JUN 2005",
+  "time_period": "March 2005 - June 2005",
+  "aircraft": {
+    "registration": "Multiple (B-727-31B N908JE, G-1159B N909JE, B-727-200 SEABOURNE, B-727-31M N905JE)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "MAR 24",
+      "date": "03/24/2005",
+      "departure": "B-727-31B",
+      "arrival": "N908JE",
+      "flight_time": "333",
+      "remarks": "JFK - TIST - JE, [REDACTED], SK, DB, DM",
+      "passengers": ["JE", "REDACTED", "SK", "DB", "DM"],
+      "crew": "LA Airplane George McDowell 2/6"
+    },
+    {
+      "entry_number": "29",
+      "date": "03/29/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "334",
+      "remarks": "TIST - JFK - JE, [REDACTED], SK, DM, DB",
+      "passengers": ["JE", "REDACTED", "SK", "DM", "DB"],
+      "crew": "BM 1/1 3/7"
+    },
+    {
+      "entry_number": "31",
+      "date": "03/31/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "335",
+      "remarks": "JFK - PBI - JE, DB",
+      "passengers": ["JE", "DB"],
+      "crew": "GA 2/8"
+    },
+    {
+      "entry_number": "APR 1",
+      "date": "04/01/2005",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1762",
+      "remarks": "SAP - PBI - GM",
+      "passengers": ["GM"],
+      "crew": "LA 1/3"
+    },
+    {
+      "entry_number": "5",
+      "date": "04/05/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1767",
+      "remarks": "PBI - PDK - GM",
+      "passengers": ["GM"],
+      "crew": "LV 1/1 1/6"
+    },
+    {
+      "entry_number": "5",
+      "date": "04/05/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1768",
+      "remarks": "PDK - PBI - GM",
+      "passengers": ["GM"],
+      "crew": "LV 1/1 1/8"
+    },
+    {
+      "entry_number": "6",
+      "date": "04/06/2005",
+      "departure": "B-727-31B",
+      "arrival": "N908JE",
+      "flight_time": "336",
+      "remarks": "PBI - JFK - JE, DB, AM, SK, Sophie, Andrea, Susan, Maria, Charles",
+      "passengers": ["JE", "DB", "AM", "SK", "Sophie", "Andrea", "Susan", "Maria", "Charles"],
+      "crew": "GA 1/1 2/5"
+    },
+    {
+      "entry_number": "29",
+      "date": "04/29/2005",
+      "departure": "B-727-200",
+      "arrival": "N905JE",
+      "flight_time": "1773",
+      "remarks": "PBI - TIST - JE, Lenny, [REDACTED], Marie, JB, Barrera, Annie",
+      "passengers": ["JE", "Lenny", "REDACTED", "Marie", "JB", "Barrera", "Annie"],
+      "crew": "LV 2/3"
+    },
+    {
+      "entry_number": "MAY 4",
+      "date": "05/04/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1777",
+      "remarks": "TIST - TEB - JE, AD, [REDACTED], SK",
+      "passengers": ["JE", "AD", "REDACTED", "SK"],
+      "crew": "BM 1/1 4/1"
+    },
+    {
+      "entry_number": "6",
+      "date": "05/06/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1775",
+      "remarks": "TEB - PBI - JE, AM, DM, [REDACTED], SK",
+      "passengers": ["JE", "AM", "DM", "REDACTED", "SK"],
+      "crew": "LA LV 2/5"
+    },
+    {
+      "entry_number": "10",
+      "date": "05/10/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1780",
+      "remarks": "PBI - TEB - JE, DB, AM, SK",
+      "passengers": ["JE", "DB", "AM", "SK"],
+      "crew": "LV 1/1 2/6"
+    },
+    {
+      "entry_number": "12",
+      "date": "05/12/2005",
+      "departure": "B-727-31M",
+      "arrival": "N905JE",
+      "flight_time": "339",
+      "remarks": "JFK - TIST - JE, AM, DM, [REDACTED], DB",
+      "passengers": ["JE", "AM", "DM", "REDACTED", "DB"],
+      "crew": "BM 1/1 3/4"
+    },
+    {
+      "entry_number": "16",
+      "date": "05/16/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "340",
+      "remarks": "TIST - JFK - JE, DB, AM, DM",
+      "passengers": ["JE", "DB", "AM", "DM"],
+      "crew": "BM 3/3"
+    },
+    {
+      "entry_number": "19",
+      "date": "05/19/2005",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1777",
+      "remarks": "TEB - PBI - JE, AM, SK",
+      "passengers": ["JE", "AM", "SK"],
+      "crew": "BM 1/1 2/5"
+    },
+    {
+      "entry_number": "24",
+      "date": "05/24/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1776",
+      "remarks": "PBI - TEB - JE, AM, SK",
+      "passengers": ["JE", "AM", "SK"],
+      "crew": "LV 2/6"
+    },
+    {
+      "entry_number": "JUN 1",
+      "date": "06/01/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1781",
+      "remarks": "TEB - TEB - JE, AM, [REDACTED]",
+      "passengers": ["JE", "AM", "REDACTED"],
+      "crew": "LV 1/1 2/5"
+    },
+    {
+      "entry_number": "15",
+      "date": "06/15/2005",
+      "departure": "B-727-200",
+      "arrival": "SEABOURNE",
+      "flight_time": "",
+      "remarks": "MED - MED - Rock Raymond, Chastising",
+      "passengers": ["Rock Raymond", "Chastising"],
+      "crew": "2/0"
+    },
+    {
+      "entry_number": "15",
+      "date": "06/15/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "[unclear] - Rex Abraham, J. Rich",
+      "passengers": ["Rex Abraham", "J. Rich"],
+      "crew": "2/0"
+    },
+    {
+      "entry_number": "27",
+      "date": "06/27/2005",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1784",
+      "remarks": "TEB - PBI - JE, DB, SK",
+      "passengers": ["JE", "DB", "SK"],
+      "crew": "LV 1/1 2/4"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "REDACTED",
+      "SK",
+      "DB",
+      "DM",
+      "George McDowell",
+      "LA",
+      "BM",
+      "GA",
+      "GM",
+      "LV",
+      "AM",
+      "Sophie",
+      "Andrea",
+      "Susan",
+      "Maria",
+      "Charles",
+      "Lenny",
+      "Marie",
+      "JB",
+      "Barrera",
+      "Annie",
+      "AD",
+      "Rock Raymond",
+      "Chastising",
+      "Rex Abraham",
+      "J. Rich",
+      "David Rodgers"
+    ],
+    "locations": [
+      "JFK",
+      "TIST",
+      "PBI",
+      "SAP",
+      "PDK",
+      "TEB",
+      "MED"
+    ],
+    "aircraft": [
+      "B-727-31B",
+      "N908JE",
+      "G-1159B",
+      "N909JE",
+      "B-727-200",
+      "SEABOURNE",
+      "B-727-31M",
+      "N905JE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "Total to Date: 9707.0 - 9707.4",
+    "amount_forward": "9717.0",
+    "total_to_date": "9707.4",
+    "document_quality": "good",
+    "legibility": "mostly clear with some redactions"
+  },
+  "insights": [
+    "Page covers March-June 2005",
+    "March 2005 entries: 24, 29, 31",
+    "April 2005 entries: 1, 5, 5, 6, 29",
+    "May 2005 entries: 4, 6, 10, 12, 16, 19, 24",
+    "June 2005 entries: 1, 15, 15, 27",
+    "JE (Jeffrey Epstein) appears in most flights",
+    "SK (Sarah Kellen) appears frequently",
+    "AM appears very frequently in April and May",
+    "DB appears multiple times",
+    "Caribbean operations continue heavily (TIST)",
+    "Honduras (SAP) to Atlanta (PDK) operations in April",
+    "SEABOURNE aircraft continues operations",
+    "Multiple REDACTED entries throughout",
+    "Large passenger group on April 6",
+    "Mix of domestic and Caribbean operations"
+  ]
+}

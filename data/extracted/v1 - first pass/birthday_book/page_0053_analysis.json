@@ -1,0 +1,116 @@
+{
+  "page_number": 53,
+  "file_path": "data/birthday_book_images/page_0053.png",
+  "file_size_mb": 2.432088851928711,
+  "type": "vintage_photos",
+  "content": {
+    "text": "",
+    "handwritten": false,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Vintage personal photographs",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "vintage_photos"
+  },
+  "insights": [
+    "Contains three vintage-style black and white photographs",
+    "Appears to be from an earlier era, possibly 1970s-1980s",
+    "Shows casual/social settings",
+    "Photos have a personal, informal quality"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000053",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.144956",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Two people in winter coats standing together",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": null,
+        "era_indicators": [],
+        "photo_quality": null,
+        "photo_type": null
+      },
+      {
+        "description": "Person working on or near a vintage car",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": null,
+        "era_indicators": [],
+        "photo_quality": null,
+        "photo_type": null
+      },
+      {
+        "description": "Group photo of multiple people near/on a motorcycle or vehicle",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": null,
+        "era_indicators": [],
+        "photo_quality": null,
+        "photo_type": null
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [],
+  "investigative_leads": []
+}

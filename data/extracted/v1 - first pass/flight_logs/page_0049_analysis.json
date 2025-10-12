@@ -1,0 +1,293 @@
+{
+  "page_number": 49,
+  "date_header": "1997 JULY",
+  "time_period": "July 1997 - August 1997",
+  "aircraft": {
+    "registration": "N908JE",
+    "type": "G1159B"
+  },
+  "flight_records": [
+    {
+      "entry_number": "1",
+      "date": "07/01/1997",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "994",
+      "remarks": "JE, GM, FAWN EPSTEIN",
+      "passengers": ["JE", "GM", "FAWN EPSTEIN"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "10",
+      "date": "07/10/1997",
+      "departure": "CMH",
+      "arrival": "SAF",
+      "flight_time": "995",
+      "remarks": "JE, DEBBIE",
+      "passengers": ["JE", "DEBBIE"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "16",
+      "date": "07/16/1997",
+      "departure": "PBI-SOC",
+      "arrival": "NSI",
+      "flight_time": "1000",
+      "remarks": "JE, GM, ALISON EVANGELIST",
+      "passengers": ["JE", "GM", "ALISON EVANGELIST"],
+      "crew": ""
+    },
+    {
+      "entry_number": "22",
+      "date": "07/22/1997",
+      "departure": "SCRAMBLE",
+      "arrival": "DEW",
+      "flight_time": "",
+      "remarks": "JENNIFER, STEVE BRIAN, Y20 VII, SKI CREW, TRACY BOILER",
+      "passengers": ["JENNIFER", "STEVE BRIAN", "Y20 VII", "SKI CREW", "TRACY BOILER"],
+      "crew": ""
+    },
+    {
+      "entry_number": "23",
+      "date": "07/23/1997",
+      "departure": "TEB",
+      "arrival": "HPN",
+      "flight_time": "",
+      "remarks": "JE CONFERENCE, MARSHA L.L.C, FRANCO COLONA L.L.R TO",
+      "passengers": ["JE", "MARSHA L.L.C", "FRANCO COLONA L.L.R TO"],
+      "crew": ""
+    },
+    {
+      "entry_number": "24",
+      "date": "07/24/1997",
+      "departure": "DFW",
+      "arrival": "COS",
+      "flight_time": "",
+      "remarks": "MEAN, VIRGINIA, ANNE WARD, T TONY DAY & CHILDREN",
+      "passengers": ["MEAN", "VIRGINIA", "ANNE WARD", "T TONY DAY", "CHILDREN"],
+      "crew": ""
+    },
+    {
+      "entry_number": "13",
+      "date": "07/13/1997",
+      "departure": "ZQR-SQI-ZQR",
+      "arrival": "",
+      "flight_time": "51",
+      "remarks": "",
+      "passengers": [],
+      "crew": "4/4-"
+    },
+    {
+      "entry_number": "15",
+      "date": "07/15/1997",
+      "departure": "ZQR",
+      "arrival": "SAF",
+      "flight_time": "52",
+      "remarks": "",
+      "passengers": [],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "16",
+      "date": "07/16/1997",
+      "departure": "SAF",
+      "arrival": "ZQR",
+      "flight_time": "53",
+      "remarks": "KRISTY RODGERS",
+      "passengers": ["KRISTY RODGERS"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "9",
+      "date": "08/09/1997",
+      "departure": "PBI",
+      "arrival": "TVC",
+      "flight_time": "1002",
+      "remarks": "JE, GM",
+      "passengers": ["JE", "GM"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "10",
+      "date": "08/10/1997",
+      "departure": "TVC",
+      "arrival": "TEB",
+      "flight_time": "1003",
+      "remarks": "JE, GM",
+      "passengers": ["JE", "GM"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "13",
+      "date": "08/13/1997",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "1004",
+      "remarks": "JE, GM",
+      "passengers": ["JE", "GM"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "17",
+      "date": "08/17/1997",
+      "departure": "PBI",
+      "arrival": "MVY",
+      "flight_time": "1005",
+      "remarks": "JE, HEATHER, MANDY",
+      "passengers": ["JE", "HEATHER", "MANDY"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "17",
+      "date": "08/17/1997",
+      "departure": "MVY",
+      "arrival": "TEB",
+      "flight_time": "1006",
+      "remarks": "JE, HEATHER, MANDY",
+      "passengers": ["JE", "HEATHER", "MANDY"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "20",
+      "date": "08/20/1997",
+      "departure": "TEB",
+      "arrival": "SAF",
+      "flight_time": "1007",
+      "remarks": "JE, COLLEEN, GLEN, ENID, CONRAD, CLAUDINE, JEAN, KELLY",
+      "passengers": ["JE", "COLLEEN", "GLEN", "ENID", "CONRAD", "CLAUDINE", "JEAN", "KELLY"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "23",
+      "date": "08/23/1997",
+      "departure": "SAF",
+      "arrival": "TEB",
+      "flight_time": "1008",
+      "remarks": "CLAUDINE, BOB + COLLEEN, BOBBY",
+      "passengers": ["CLAUDINE", "BOB", "COLLEEN", "BOBBY"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "24",
+      "date": "08/24/1997",
+      "departure": "TEB",
+      "arrival": "OXC",
+      "flight_time": "1009",
+      "remarks": "GLENNS FROM",
+      "passengers": ["GLENNS FROM"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "24",
+      "date": "08/24/1997",
+      "departure": "OXC",
+      "arrival": "MVY",
+      "flight_time": "1010",
+      "remarks": "JE, COLLEEN, MODELPATT",
+      "passengers": ["JE", "COLLEEN", "MODELPATT"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "25",
+      "date": "08/25/1997",
+      "departure": "MVY",
+      "arrival": "PBI",
+      "flight_time": "1011",
+      "remarks": "JE, COLLEEN, MODELPATT",
+      "passengers": ["JE", "COLLEEN", "MODELPATT"],
+      "crew": "V1"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "GM",
+      "FAWN EPSTEIN",
+      "DEBBIE",
+      "ALISON EVANGELIST",
+      "JENNIFER",
+      "STEVE BRIAN",
+      "Y20 VII",
+      "SKI CREW",
+      "TRACY BOILER",
+      "MARSHA L.L.C",
+      "FRANCO COLONA L.L.R TO",
+      "MEAN",
+      "VIRGINIA",
+      "ANNE WARD",
+      "T TONY DAY",
+      "CHILDREN",
+      "KRISTY RODGERS",
+      "HEATHER",
+      "MANDY",
+      "COLLEEN",
+      "GLEN",
+      "ENID",
+      "CONRAD",
+      "CLAUDINE",
+      "JEAN",
+      "KELLY",
+      "BOB",
+      "BOBBY",
+      "GLENNS FROM",
+      "MODELPATT",
+      "David Rodgers"
+    ],
+    "locations": [
+      "PBI",
+      "TEB",
+      "CMH",
+      "SAF",
+      "SOC",
+      "NSI",
+      "SCRAMBLE",
+      "DEW",
+      "HPN",
+      "DFW",
+      "COS",
+      "ZQR",
+      "SQI",
+      "TVC",
+      "MVY",
+      "OXC"
+    ],
+    "aircraft": [
+      "N908JE",
+      "C-12113",
+      "G1159B"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "49",
+    "amount_forward": "8933/8993",
+    "total_to_date": "10039",
+    "document_quality": "good",
+    "legibility": "clear"
+  },
+  "insights": [
+    "Page transitions from July 1997 to August 1997",
+    "Fawn Epstein (family member) as passenger",
+    "Multiple aircraft types including C-12113 and G1159B",
+    "Ski crew and conference references suggesting business/leisure mix",
+    "L.L.C and L.L.R references suggesting legal entities",
+    "International crew configurations (4/4- crew notation)",
+    "ZQR appears to be a special designation or code",
+    "Multiple family groups traveling with children",
+    "Kristy Rodgers (possibly related to pilot David Rodgers)",
+    "Extensive passenger lists including up to 8 people on single flights",
+    "Martha's Vineyard (MVY) continues as key destination",
+    "Flight numbers now exceeding 1000",
+    "Mix of business associates and personal connections"
+  ]
+}

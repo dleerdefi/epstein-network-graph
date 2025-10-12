@@ -1,0 +1,328 @@
+{
+  "page_number": 97,
+  "date_header": "SEP-OCT 2002",
+  "time_period": "September 2002 - October 2002",
+  "aircraft": {
+    "registration": "Multiple (B-727-31W N908JE, G-1159B N909JE)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "SEP 29",
+      "date": "09/29/2002",
+      "departure": "B-727-31W",
+      "arrival": "N908JE",
+      "flight_time": "146",
+      "remarks": "LFPB - EGGW - SAME AS ABOVE LESS JG, SK, DAVID LESLIE, HARDING, JOANNA, JEFFREY, CINDY",
+      "passengers": ["SAME AS ABOVE LESS JG", "SK", "DAVID LESLIE", "HARDING", "JOANNA", "JEFFREY", "CINDY"],
+      "crew": "1/1"
+    },
+    {
+      "entry_number": "OCT 1",
+      "date": "10/01/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "147",
+      "remarks": "EGGW - LFPB - G.M. NICK CHAD MCMAHON, STEPHANIE",
+      "passengers": ["G.M.", "NICK", "CHAD MCMAHON", "STEPHANIE"],
+      "crew": "1/0"
+    },
+    {
+      "entry_number": "1",
+      "date": "10/01/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "148",
+      "remarks": "LFPB - JFK - JE, GM, SK, PEGGY SIEGAL, NADIA MARCINKOVA",
+      "passengers": ["JE", "GM", "SK", "PEGGY SIEGAL", "NADIA MARCINKOVA"],
+      "crew": "8"
+    },
+    {
+      "entry_number": "3",
+      "date": "10/03/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "149",
+      "remarks": "JFK - PBI - JE, SK, NAOMI STOLMAN, DANA STRATTON",
+      "passengers": ["JE", "SK", "NAOMI STOLMAN", "DANA STRATTON"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "5",
+      "date": "10/05/2002",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1594",
+      "remarks": "PBI - TEB - JG, JE, ANTOINE VAN ACK, JEROME",
+      "passengers": ["JG", "JE", "ANTOINE VAN ACK", "JEROME"],
+      "crew": "2/3"
+    },
+    {
+      "entry_number": "11",
+      "date": "10/11/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1595",
+      "remarks": "TEB - TEB - G. JOE MITCHELL, REDACTED",
+      "passengers": ["G. JOE MITCHELL", "REDACTED"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "14",
+      "date": "10/14/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1596",
+      "remarks": "PBI - CYS - PBI - [unclear text]",
+      "passengers": ["[unclear]"],
+      "crew": ""
+    },
+    {
+      "entry_number": "15",
+      "date": "10/15/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1597",
+      "remarks": "PBI - TEB - SAME PAYSON THE...",
+      "passengers": ["SAME PAYSON THE"],
+      "crew": "1/1"
+    },
+    {
+      "entry_number": "17",
+      "date": "10/17/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1601",
+      "remarks": "TEB - TEB - JE, GM, HAROLD MULLER, STEPHANIE",
+      "passengers": ["JE", "GM", "HAROLD MULLER", "STEPHANIE"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "17",
+      "date": "10/17/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1602",
+      "remarks": "TEB - TIST - JE, SK, ANDREA MITCHELL, VIGEO",
+      "passengers": ["JE", "SK", "ANDREA MITCHELL", "VIGEO"],
+      "crew": "3/7"
+    },
+    {
+      "entry_number": "21",
+      "date": "10/21/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1603",
+      "remarks": "TIST - PBI - JE, SK, AUDREY, NATALIE BRYANT",
+      "passengers": ["JE", "SK", "AUDREY", "NATALIE BRYANT"],
+      "crew": "2/6"
+    },
+    {
+      "entry_number": "22",
+      "date": "10/22/2002",
+      "departure": "BEAULOVA",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "TEB - MANASSAU - JADA STEIN, DAVID STEINBERG, KEVIN MURRAY, ANDREA CAMERON JENNINGS, JILL FEDOWITZ, ANN MARIE CALLO, LILLO MELIZA, ANN-KARIN GRILL, MIKE SNELL, CYNTHIA EDWARDS, MARK MAITINA",
+      "passengers": ["JADA STEIN", "DAVID STEINBERG", "KEVIN MURRAY", "ANDREA CAMERON JENNINGS", "JILL FEDOWITZ", "ANN MARIE CALLO", "LILLO MELIZA", "ANN-KARIN GRILL", "MIKE SNELL", "CYNTHIA EDWARDS", "MARK MAITINA"],
+      "crew": "2/6"
+    },
+    {
+      "entry_number": "31",
+      "date": "10/31/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "MAN - TEB - MANASSAU - SAME AS ABOVE LESS 3/3",
+      "passengers": ["SAME AS ABOVE LESS"],
+      "crew": "3/3"
+    },
+    {
+      "entry_number": "NOV 1",
+      "date": "11/01/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "MAN - JFK - SAME AS ABOVE LESS JADA, [unclear]",
+      "passengers": ["SAME AS ABOVE LESS JADA"],
+      "crew": "2"
+    },
+    {
+      "entry_number": "4",
+      "date": "11/04/2002",
+      "departure": "N909JE",
+      "arrival": "",
+      "flight_time": "1605",
+      "remarks": "PBI - TIST - JE, SK, YANEEK MATALINSKI",
+      "passengers": ["JE", "SK", "YANEEK MATALINSKI"],
+      "crew": "2/3"
+    },
+    {
+      "entry_number": "5",
+      "date": "11/05/2002",
+      "departure": "B-727-200",
+      "arrival": "5EKANDA",
+      "flight_time": "",
+      "remarks": "MED - MLE - ALEJANDRO GONZALEZ ANA, ALEJANDRO GONZALEZ LINDA, IAN TENZER, IAN MALITZ, HEATHER MANN, ROBERT KINDER, DAN TISCH",
+      "passengers": ["ALEJANDRO GONZALEZ ANA", "ALEJANDRO GONZALEZ LINDA", "IAN TENZER", "IAN MALITZ", "HEATHER MANN", "ROBERT KINDER", "DAN TISCH"],
+      "crew": "2/0"
+    },
+    {
+      "entry_number": "6",
+      "date": "11/06/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "MED - MED - SAME AS ABOVE LESS ROBERT KINDER",
+      "passengers": ["SAME AS ABOVE LESS ROBERT KINDER"],
+      "crew": "2/0"
+    },
+    {
+      "entry_number": "10",
+      "date": "11/10/2002",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1606",
+      "remarks": "TIST - TEB - JE, CL, DANA, ALEX, MARJORIE, NATALIE, MATT",
+      "passengers": ["JE", "CL", "DANA", "ALEX", "MARJORIE", "NATALIE", "MATT"],
+      "crew": "4/3"
+    },
+    {
+      "entry_number": "15",
+      "date": "11/15/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1607",
+      "remarks": "TEB - TIST - JG, SK, L. WILSON, JOAN SEELER",
+      "passengers": ["JG", "SK", "L. WILSON", "JOAN SEELER"],
+      "crew": "2/6"
+    },
+    {
+      "entry_number": "17",
+      "date": "11/17/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1608",
+      "remarks": "TIST - PBI - [unclear] REDACTED",
+      "passengers": ["REDACTED"],
+      "crew": "2/0"
+    }
+  ],
+  "entities": {
+    "people": [
+      "SAME AS ABOVE LESS JG",
+      "SK",
+      "DAVID LESLIE",
+      "HARDING",
+      "JOANNA",
+      "JEFFREY",
+      "CINDY",
+      "G.M.",
+      "GM",
+      "NICK",
+      "CHAD MCMAHON",
+      "STEPHANIE",
+      "JE",
+      "PEGGY SIEGAL",
+      "NADIA MARCINKOVA",
+      "NAOMI STOLMAN",
+      "DANA STRATTON",
+      "JG",
+      "ANTOINE VAN ACK",
+      "JEROME",
+      "G. JOE MITCHELL",
+      "REDACTED",
+      "SAME PAYSON THE",
+      "HAROLD MULLER",
+      "ANDREA MITCHELL",
+      "VIGEO",
+      "AUDREY",
+      "NATALIE BRYANT",
+      "JADA STEIN",
+      "DAVID STEINBERG",
+      "KEVIN MURRAY",
+      "ANDREA CAMERON JENNINGS",
+      "JILL FEDOWITZ",
+      "ANN MARIE CALLO",
+      "LILLO MELIZA",
+      "ANN-KARIN GRILL",
+      "MIKE SNELL",
+      "CYNTHIA EDWARDS",
+      "MARK MAITINA",
+      "SAME AS ABOVE LESS",
+      "SAME AS ABOVE LESS JADA",
+      "YANEEK MATALINSKI",
+      "ALEJANDRO GONZALEZ ANA",
+      "ALEJANDRO GONZALEZ LINDA",
+      "IAN TENZER",
+      "IAN MALITZ",
+      "HEATHER MANN",
+      "ROBERT KINDER",
+      "DAN TISCH",
+      "SAME AS ABOVE LESS ROBERT KINDER",
+      "CL",
+      "DANA",
+      "ALEX",
+      "MARJORIE",
+      "NATALIE",
+      "MATT",
+      "L. WILSON",
+      "JOAN SEELER",
+      "David Rodgers"
+    ],
+    "locations": [
+      "LFPB",
+      "EGGW",
+      "JFK",
+      "PBI",
+      "TEB",
+      "CYS",
+      "TIST",
+      "MANASSAU",
+      "MAN",
+      "MED",
+      "MLE"
+    ],
+    "aircraft": [
+      "B-727-31W",
+      "N908JE",
+      "G-1159B",
+      "N909JE",
+      "BEAULOVA",
+      "B-727-200",
+      "5EKANDA"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "3/45",
+    "amount_forward": "8846",
+    "total_to_date": "8891",
+    "document_quality": "good",
+    "legibility": "mostly clear with some unclear sections"
+  },
+  "insights": [
+    "Page transitions from September to October to November 2002",
+    "JE (Jeffrey Epstein) appears multiple times in October and November",
+    "SK (Sarah Kellen) appears frequently throughout",
+    "Peggy Siegal appears on October 1",
+    "Nadia Marcinkova appears on October 1",
+    "Large group flight on October 22 with 11 passengers",
+    "Caribbean operations continue (TIST)",
+    "Multiple REDACTED entries preserved",
+    "Flight numbers reach 1608 for G-1159B",
+    "Mix of domestic and international operations",
+    "European operations (LFPB, EGGW)",
+    "Maldives operations noted (MED, MLE) in November"
+  ]
+}

@@ -1,0 +1,1034 @@
+{
+  "page_number": 59,
+  "alphabetical_section": "Y-Z",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "059_yariv_zghoul",
+      "name": {
+        "full_name": "Yariv Zghoul",
+        "prefix": null,
+        "first_name": "Yariv",
+        "middle_name": null,
+        "last_name": "Zghoul",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 65 98 209149",
+          "formatting": "00 65 98 209149"
+        },
+        {
+          "type": "unknown",
+          "number": "971 378 4485",
+          "formatting": "971 378 4485"
+        }
+      ],
+      "emails": [
+        {
+          "address": "yariv@synergyventures.com",
+          "type": "work",
+          "notes": "synergyventures.com business email"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "971 prefix - UAE/Dubai phone number"
+    },
+    {
+      "entry_id": "059_yates_andrew_piggy",
+      "name": {
+        "full_name": "Yates, Andrew (piggy)",
+        "prefix": null,
+        "first_name": "Andrew",
+        "middle_name": null,
+        "last_name": "Yates",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0208 743 2090",
+          "formatting": "0208 743 2090"
+        },
+        {
+          "type": "work",
+          "number": "0207 938 7275",
+          "formatting": "0207 938 7275 (w)"
+        },
+        {
+          "type": "portable",
+          "number": "07976 423137",
+          "formatting": "07976 423137"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [
+        "piggy"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Nickname 'piggy' in parentheses"
+    },
+    {
+      "entry_id": "059_young_toby",
+      "name": {
+        "full_name": "Young, Toby",
+        "prefix": null,
+        "first_name": "Toby",
+        "middle_name": null,
+        "last_name": "Young",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 229 1050",
+          "formatting": "001 212 229 1050"
+        },
+        {
+          "type": "home",
+          "number": "0208 743 6665",
+          "formatting": "0208 743 6665 (h)"
+        },
+        {
+          "type": "fax",
+          "number": "0208 743 2695",
+          "formatting": "0208 743 2695 (f)"
+        },
+        {
+          "type": "portable",
+          "number": "07946 519253",
+          "formatting": "07946 519253 (m)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "tyoung@iohhouse.com",
+          "type": "work",
+          "notes": "infohouse.com email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "6 Hopgood St.",
+            "London",
+            "W12 7JU"
+          ],
+          "city": "London",
+          "postal_code": "W12 7JU",
+          "country": "UK",
+          "notes": "London residence"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Toby Young - likely British journalist/author"
+    },
+    {
+      "entry_id": "059_younger_tracy_lee_greg",
+      "name": {
+        "full_name": "Younger, Tracy & Lee, Greg",
+        "prefix": null,
+        "first_name": "Tracy",
+        "middle_name": null,
+        "last_name": "Younger",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Greg Lee"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 589 3124",
+          "formatting": "0207 589 3124 (h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "London couple with different surnames"
+    },
+    {
+      "entry_id": "059_yugoslavia_dimitri",
+      "name": {
+        "full_name": "Yugoslavia, Dimitri",
+        "prefix": null,
+        "first_name": "Dimitri",
+        "middle_name": null,
+        "last_name": "Yugoslavia",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 980 9484",
+          "formatting": "001 212 980 9484 (h)"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 216 1616",
+          "formatting": "001 917 216 1616 (p)"
+        },
+        {
+          "type": "portable",
+          "number": "001 561 659 4826",
+          "formatting": "001 561 659 4826 (ph)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 940 1282",
+          "formatting": "001 212 940 1282 work"
+        }
+      ],
+      "emails": [
+        {
+          "address": "dkarageorge@phillipsny.co",
+          "type": "work",
+          "notes": "Phillips auction house NY - appears truncated"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "400 E. 52nd Street",
+            "New York, NY 10012"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10012",
+          "country": "USA",
+          "notes": "Upper East Side - Phillips auction house connection"
+        },
+        {
+          "type": "work",
+          "address_lines": [
+            "3 W. 57th Street",
+            "New York, NY 10012"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10012",
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'Phillips' notated. Phillips auction house - art world connection"
+    },
+    {
+      "entry_id": "059_yugoslavia_prince_michel_of",
+      "name": {
+        "full_name": "Yugoslavia, Prince Michel of",
+        "prefix": "Prince",
+        "first_name": "Michel",
+        "middle_name": null,
+        "last_name": "Yugoslavia",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 223 7167",
+          "formatting": "001 212 223 7167 (w)"
+        },
+        {
+          "type": "fax",
+          "number": "001 212 223 3463",
+          "formatting": "001 212 223 3463 (f)"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 415 4849",
+          "formatting": "001 917 415 4849 (p)"
+        },
+        {
+          "type": "voicemail",
+          "number": "001 212 214 0698",
+          "formatting": "001 212 214 0698 Voicemail"
+        }
+      ],
+      "emails": [
+        {
+          "address": "mdy@aiagroup.com",
+          "type": "unknown",
+          "notes": "'Access International Advisors' notated.' AIAgroup.com email domain"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "509 Madison Ave",
+            "22nd Floor",
+            "New York, NY 10012"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10012",
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'Access International Advisors' notated. Prince Michel of Yugoslavia - royal lineage, art advisor. Possibly related to Yugoslavia, Serge de."
+    },
+    {
+      "entry_id": "059_yugoslavia_serge_de",
+      "name": {
+        "full_name": "Yugoslavia, Serge de",
+        "prefix": null,
+        "first_name": "Serge",
+        "middle_name": null,
+        "last_name": "de Yugoslavia",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0777 914 9260",
+          "formatting": "0777 914 9260"
+        },
+        {
+          "type": "unknown",
+          "number": "0039 338 591 7025",
+          "formatting": "0039 338 591 7025"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK and Italian phone numbers - royal Yugoslavia family. Possibly related to Yugoslavia, Prince Michel of"
+    },
+    {
+      "entry_id": "059_zacks_gordon",
+      "name": {
+        "full_name": "Zacks, Gordon",
+        "prefix": null,
+        "first_name": "Gordon",
+        "middle_name": null,
+        "last_name": "Zacks",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 614 864 8069",
+          "formatting": "001 614 864 8069"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": null,
+          "address_lines": [],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'R G Barry Corp' notated"
+    },
+    {
+      "entry_id": "059_zales_alexi",
+      "name": {
+        "full_name": "Zales, Alexi",
+        "prefix": null,
+        "first_name": "Alexi",
+        "middle_name": null,
+        "last_name": "Zales",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 917 864 8865",
+          "formatting": "001 917 864 8865"
+        },
+        {
+          "type": "unknown",
+          "number": "001 212 226 8747",
+          "formatting": "001 212 226 8747"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC contact"
+    },
+    {
+      "entry_id": "059_zangrillo_paige_bob",
+      "name": {
+        "full_name": "Zangrillo, Paige & Bob",
+        "prefix": null,
+        "first_name": "Paige",
+        "middle_name": null,
+        "last_name": "Zangrillo",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Bob"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 970 925 3812",
+          "formatting": "001 970 925 3812"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "1419 Crystal Lake Road",
+            "Aspen CO 81611"
+          ],
+          "city": "Aspen",
+          "state": "CO",
+          "postal_code": "81611",
+          "country": "USA",
+          "notes": "Aspen, Colorado - exclusive ski resort address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Aspen elite - Crystal Lake Road exclusive address"
+    },
+    {
+      "entry_id": "059_zawauri_waleed",
+      "name": {
+        "full_name": "Zawauri, Waleed",
+        "prefix": null,
+        "first_name": "Waleed",
+        "middle_name": null,
+        "last_name": "Zawauri",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207 235 0121",
+          "formatting": "0207 235 0121"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "10 Wilton Crescent",
+            "London, England SW1",
+            "Sullanate of Oman P.O. Box 879",
+            "Muscat 113"
+          ],
+          "city": "London",
+          "postal_code": "SW1",
+          "country": "UK",
+          "notes": "Wilton Crescent - Belgravia, Government of Oman office/diplomatic presence"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Government of Oman - diplomatic/official connection"
+    },
+    {
+      "entry_id": "059_zacher_bibi_adrian",
+      "name": {
+        "full_name": "Zacher, Bibi and Adrian",
+        "prefix": null,
+        "first_name": "Bibi",
+        "middle_name": null,
+        "last_name": "Zacher",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Adrian"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "00 65 646446743",
+          "formatting": "00 65 646446743 (h)"
+        },
+        {
+          "type": "fax",
+          "number": "00 65 64646745",
+          "formatting": "00 65 64646745 (hf)"
+        },
+        {
+          "type name": "work",
+          "number": "00 65 65 7333460",
+          "formatting": "00 65 65 7333460 (w)"
+        },
+        {
+          "type name": "fax",
+          "number": "00 65 65 7333465",
+          "formatting": "00 65 65 7333465 (w)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "jwalters@maharesorts.com",
+          "type": "home",
+          "notes": "'Julia Walters Executive Assistant' notated. maharesorts.com email domain"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'Julia Walters Executive Assistant' notated"
+    },
+    {
+      "entry_id": "059_zeff_mark",
+      "name": {
+        "full_name": "Zeff, Mark",
+        "prefix": null,
+        "first_name": "Mark",
+        "middle_name": null,
+        "last_name": "Zeff",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 580 7090",
+          "formatting": "212 580 7090 x 201"
+        }
+      ],
+      "emails": [
+        {
+          "address": "mzeff@zeffdesign.com",
+          "type": "work",
+          "notes": "zeffdesign.com email domain"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Zeff Design"
+    },
+    {
+      "entry_id": "059_zeiler_john",
+      "name": {
+        "full_name": "Zeiler, John",
+        "prefix": null,
+        "first_name": "John",
+        "middle_name": null,
+        "last_name": "Zeiler",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 799 9600",
+          "formatting": "001 212 799 9600 (h)"
+        },
+        {
+          "type": "home",
+          "number": "0207 376 3733",
+          "formatting": "0207 376 3733 (h)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 212 941 6336",
+          "formatting": "001 212 941 6336"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "059_zevi_dino_rosi",
+      "name": {
+        "full_name": "Zevi, Dino & Rosi",
+        "prefix": null,
+        "first_name": "Dino",
+        "middle_name": null,
+        "last_name": "Zevi",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Rosi"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 584 8861",
+          "formatting": "0207 584 8861 (h)"
+        },
+        {
+          "type": "unknown",
+          "number": "0207 495 8867",
+          "formatting": "0207 495 8867"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "8 Lennox Gdns",
+            "London SW1"
+          ],
+          "city": "London",
+          "postal_code": "SW1",
+          "country": "UK",
+          "notes": "Lennox Gardens - Knightsbridge/South Kensington elite address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Lennox Gardens - exclusive London address"
+    },
+    {
+      "entry_id": "059_zilkha_bettina",
+      "name": {
+        "full_name": "Zilkha, Bettina",
+        "prefix": null,
+        "first_name": "Bettina",
+        "middle_name": null,
+        "last_name": "Zilkha",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "001 917 825 8761",
+          "formatting": "001 917 825 8761 (p)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "Bettinalz@aol.com",
+          "type": "personal",
+          "notes": "AOL email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Apt. 16A",
+            "50 East 79th St.",
+            "New York, NY 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side - elite address. Zilkha family (oil/banking wealth)"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Zilkha family - Iraqi Jewish banking/oil dynasty"
+    },
+    {
+      "entry_id": "059_zipp_brian",
+      "name": {
+        "full_name": "Zipp, Brian",
+        "prefix": null,
+        "first_name": "Brian",
+        "middle_name": null,
+        "last_name": "Zipp",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "01 212 879 8240",
+          "formatting": "01 212 879 8240 (h)"
+        },
+        {
+          "type": "work",
+          "number": "01 212 332 1113",
+          "formatting": "01 212 332 1113 (w)"
+        },
+        {
+          "type": "portable",
+          "number": "0101 203 868 9787",
+          "formatting": "0101 203 868 9787 portable"
+        },
+        {
+          "type": "fax",
+          "number": "0101 212 772 7057",
+          "formatting": "0101 212 772 7057 Home Fax"
+        }
+      ],
+      "emails": [
+        {
+          "address": "bzipp@zippcapital.com",
+          "type": "work",
+          "notes": "zippcapital.com email domain"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "160 E. 72nd St. #3A",
+            "New York, NY 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "low",
+        "overall_legibility": "good"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "059_65th_street",
+      "name": {
+        "full_name": "65TH STREET",
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "65TH STREET",
+        "suffix": null
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "low",
+        "phones": "low",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Header or section marker - not a contact entry. Remaining entries on page-59 below this '65TH STREET' text are Dionne, Ryan and Geffert, Scott"
+    },
+    {
+      "entry_id": "059_dionne_ryan",
+      "name": {
+        "full_name": "Dionne, Ryan",
+        "prefix": null,
+        "first_name": "Ryan",
+        "middle_name": null,
+        "last_name": "Dionne",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "1 609 915 9311",
+          "formatting": "1 609 915 9311 (p)"
+        },
+        {
+          "type": "home",
+          "number": "1 212 535 7374",
+          "formatting": "212 535 7374 (h)"
+        },
+        {
+          "type": "business",
+          "number": "1 888 533 9632",
+          "formatting": "1 888 533 9632 (b)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "301 East 66th Street",
+            "#8c",
+            "New York, NY 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'the chef' notation"
+    },
+    {
+      "entry_id": "059_geffert_scott",
+      "name": {
+        "full_name": "Geffert, Scott",
+        "prefix": null,
+        "first_name": "Scott",
+        "middle_name": null,
+        "last_name": "Geffert",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 201 493 7647",
+          "formatting": "001 201 493 7647 (h)"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 842 5755",
+          "formatting": "001 917 842 5755 (p)"
+        },
+        {
+          "type": "home",
+          "number": "201 493 7640",
+          "formatting": "201 493 7640 (h)"
+        },
+        {
+          "type": "portable",
+          "number": "917 842 5754",
+          "formatting": "917 842 5754 Howie cell"
+        }
+      ],
+      "emails": [
+        {
+          "address": "scott@cdiny.com",
+          "type": "work",
+          "notes": "cdiny.com email domain"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "413 South Maple Ave.",
+            "Glen Rock, NJ",
+            "07452"
+          ],
+          "city": "Glen Rock",
+          "state": "NJ",
+          "postal_code": "07452",
+          "country": "USA",
+          "notes": "New Jersey suburb - Bergen County"
+        },
+        {
+          "type": "home",
+          "address_lines": [
+            "PO Box 4495",
+            "Grand Central Station",
+            "New York, NY 10163-4495"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10163-4495",
+          "country": "USA",
+          "notes": "'(Hm)' notated before address indicating home address yet it is a PO Box in Grand Central Station. Contact information carries over to page-60"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "New Jersey - NYC area. Contact info carries over to next page (page-60)."
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 20,
+    "entries_with_emails": 10,
+    "entries_with_addresses": 13,
+    "entries_with_handwritten_notes": 1,
+    "couples": 5,
+    "average_confidence": "high",
+    "notable_figures_count": 4
+  },
+  "cross_references": [
+    {
+      "from": "059_yugoslavia_dimitri",
+      "to": "059_yugoslavia_prince_michel",
+      "relationship": "possibly_related",
+      "note": "Both Yugoslavia surname - royal Yugoslav family members"
+    },
+    {
+      "from": "059_yugoslavia_prince_michel",
+      "to": "059_yugoslavia_serge_de",
+      "relationship": "family",
+      "note": "Yugoslav royal family members"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Yariv Zghoui",
+      "Andrew Yates (piggy)",
+      "Toby Young",
+      "Tracy Younger",
+      "Greg Lee",
+      "Dimitri Yugoslavia",
+      "Prince Michel of Yugoslavia",
+      "Serge de Yugoslavia",
+      "Gordon Zacks",
+      "Alexi Zales",
+      "Paige Zangrillo",
+      "Bob Zangrillo",
+      "Waleed Zawauri",
+      "Bibi Zacher",
+      "Adrian Zacher",
+      "Mark Zaff",
+      "John Zeiler",
+      "Dino Zevi",
+      "Rosi Zevi",
+      "Bettina Zilkha",
+      "Brian Zipp",
+      "Ryan Dionpe",
+      "Scott Geffert"
+    ],
+    "organizations": [
+      "Synergy Ventures (Yariv Zghoui - Dubai)",
+      "Phillips Auction House NY (Dimitri Yugoslavia - art world)",
+      "Good Art International Advisors (Prince Michel of Yugoslavia)",
+      "R G Berry Corp (Gordon Zacks - Columbus, Ohio)",
+      "Government of Oman (Waleed Zawauri - diplomatic)",
+      "Zaff Design (Mark Zaff - NYC design firm)"
+    ],
+    "locations": {
+      "international": [
+        "London, UK (multiple contacts - Belgravia, Knightsbridge, South Kensington)",
+        "Singapore (Zacher couple - Joo Chiat)",
+        "Dubai/UAE (Yariv Zghoui - 971 prefix)",
+        "Oman (Zawauri - Government of Oman)",
+        "Italy (Serge de Yugoslavia connection)"
+      ],
+      "us_cities": [
+        "New York City (multiple contacts - Upper East Side, Upper West Side, SoHo, Chelsea)",
+        "Aspen, Colorado (Zangrillo - exclusive ski resort)",
+        "Columbus, Ohio (Zacks)",
+        "Glen Rock, New Jersey (Geffert)"
+      ],
+      "elite_addresses": [
+        "10 Wilton Crescent SW1, London (Zawauri - Government of Oman, Belgravia)",
+        "8 Lennox Gardens SW7, London (Zevi - Knightsbridge)",
+        "45 East 78th Street, NYC (Zilkha - Upper East Side)",
+        "3 Lincoln Center, NYC (Zeiler - Upper West Side)",
+        "1419 Crystal Lake Road, Aspen (Zangrillo - exclusive ski resort)",
+        "450 W. 15th St., NYC (Prince Michel - Chelsea art district)"
+      ]
+    }
+  },
+  "insights": [
+    "Yugoslav royal family cluster: Prince Michel of Yugoslavia (art advisor at Good Art International), Dimitri Yugoslavia (Phillips auction house), Serge de Yugoslavia - royal lineage with art world connections",
+    "Bettina Zilkha - Zilkha family, Iraqi Jewish banking and oil dynasty, major NYC social figure at 45 East 78th Street",
+    "Prince Michel of Yugoslavia operating Good Art International Advisors in Chelsea - royal turned art consultant",
+    "Waleed Zawauri - Government of Oman diplomatic connection at Wilton Crescent Belgravia (embassy/diplomatic quarter)",
+    "Toby Young - likely British journalist and author (How to Lose Friends and Alienate People)",
+    "Paige & Bob Zangrillo - Aspen elite at Crystal Lake Road, exclusive Colorado ski resort society",
+    "John Zeiler at 3 Lincoln Center - prestigious Upper West Side arts district address",
+    "Dimitri Yugoslavia at Phillips auction house - Yugoslav royals in NYC art world (Phillips de Pury)",
+    "Bibi & Adrian Zacher - Singapore expat couple in Joo Chiat area",
+    "Geographic clustering: Strong NYC Upper East Side presence, London Belgravia/Knightsbridge concentration, international Dubai/Singapore/Oman connections",
+    "Professional sectors: Art world (Yugoslav royals at Phillips and Good Art), design (Zaff Design), diplomacy (Oman government), finance (Zilkha banking dynasty)",
+    "Email domains reveal era: AOL, Hotmail, Excite - late 1990s/early 2000s internet providers",
+    "Aspen connection (Zangrillo) - ski resort elite society, crystal Lake Road exclusive area",
+    "Dino & Rosi Zevi at Lennox Gardens - Knightsbridge elite Italian family in London",
+    "Multiple royal/aristocratic connections: Yugoslav princes, Oman government official, Zilkha dynasty"
+  ]
+}

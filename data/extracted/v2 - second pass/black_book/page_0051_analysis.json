@@ -1,0 +1,1080 @@
+{
+  "page_number": 51,
+  "alphabetical_section": "S",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "051_sobrino_esperanza",
+      "name": {
+        "full_name": "Sobrino, Esperanza",
+        "prefix": null,
+        "first_name": "Esperanza",
+        "middle_name": null,
+        "last_name": "Sobrino",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 439 6737",
+          "formatting": "001 212 439 6737 (h)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 212 734 6300",
+          "formatting": "001 212 734 6300 [same phone number as work but two entries exist and this entry is not labeled]"
+        },
+        {
+          "type": "work",
+          "number": "001 212 734 6300",
+          "formatting": "001 212 734 6300 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "AcqueVella Galleries",
+            "55 E 65th St 7D",
+            "New York, New York 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "AcquaVella Galleries - Upper East Side art gallery"
+        },
+        {
+          "type": "unknown",
+          "address_lines": [
+            "18 E 79th",
+            "New York, New York"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Art gallery owner - AcquaVella Galleries"
+    },
+    {
+      "entry_id": "051_solomon_andrew",
+      "name": {
+        "full_name": "Solomon, Andrew",
+        "prefix": null,
+        "first_name": "Andrew",
+        "middle_name": null,
+        "last_name": "Solomon",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "212 477 3595",
+          "formatting": "212 477 3595 (w)"
+        },
+        {
+          "type": "fax",
+          "number": "212 477 2223",
+          "formatting": "212 477 2223 (f)"
+        },
+        {
+          "type": "unknown",
+          "number": "0207 221 5673",
+          "formatting": "0207 221 5673"
+        },
+        {
+          "type": "fax",
+          "number": "0207 221 5673",
+          "formatting": "0207 221 5673 (f)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "aws@awsolomon.com",
+          "type": "unknown",
+          "notes": "awsolomon.com email domain"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "The New York Times",
+            "18 West 10th St.",
+            "New York, NY 10011-8702"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10011-8702",
+          "country": "USA",
+          "notes": "New York Times writer/journalist"
+        },
+        {
+          "type": "home",
+          "address_lines": [
+            "154 Kensington Park Rd",
+            "London, United Kingdom W11 2ER"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W11 2ER",
+          "country": "UK",
+          "notes": "Notting Hill, London residence"
+        }
+      ],
+      "handwritten_notes": ["entry circled in pen"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Andrew Solomon - NYT writer, author, notable intellectual"
+    },
+    {
+      "entry_id": "051_soros_peter_30_ennismore_gdns",
+      "name": {
+        "full_name": "Soros, Peter",
+        "prefix": null,
+        "first_name": "Peter",
+        "middle_name": null,
+        "last_name": "Soros",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 628 8455",
+          "formatting": "001 212 628 8455"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 882 1224",
+          "formatting": "001 917 882 1224 (p)"
+        },
+        {
+          "type": "unknown",
+          "number": "0831 720772",
+          "formatting": "0831 720772"
+        },
+        {
+          "type": "unknown",
+          "number": "0207 235 3355",
+          "formatting": "0207 235 3355"
+        },
+        {
+          "type": "work",
+          "number": "011 212 397 5515",
+          "formatting": "011 212 397 5515 (w Sharon"
+        },
+        {
+          "type": "fax",
+          "number": "0207 584 0851",
+          "formatting": "0207 584 0851 (f)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 508 257 6335",
+          "formatting": "001 508 257 6335"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "30 Ennismore Gdns",
+            "London SW7"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW7",
+          "country": "UK",
+          "notes": "Ennismore Gardens - Knightsbridge elite address"
+        }
+      ],
+      "handwritten_notes": ["entry circled in pen (both Peter Soros contacts circled)"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Peter Soros - Soros family, extensive contact info"
+    },
+    {
+      "entry_id": "051_soros_peter_900_park_ave",
+      "name": {
+        "full_name": "Soros, Peter",
+        "prefix": null,
+        "first_name": "Peter",
+        "middle_name": null,
+        "last_name": "Soros",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 823 4564",
+          "formatting": "0207 823 4564 (h)"
+        },
+        {
+          "type": "home",
+          "number": "001 222 891 3750",
+          "formatting": "001 222 891 3750 (h)"
+        },
+        {
+          "type": "home",
+          "number": "001 222 891 3750",
+          "formatting": "001 222 891 3750 (h) [duplicated number possibly clerical error]"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "900 Park Ave",
+            "New York, New York 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Park Avenue - Upper East Side elite address"
+        }
+      ],
+      "handwritten_notes": ["entry circled in pen (both Peter Soros contacts circled)"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Peter Soros - second entry with NYC address (900 Park Ave)"
+    },
+    {
+      "entry_id": "051_soto_fernando_de",
+      "name": {
+        "full_name": "Soto, Fernando de",
+        "prefix": null,
+        "first_name": "Fernando",
+        "middle_name": null,
+        "last_name": "Soto",
+        "suffix": "de"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "00 34 1 575 9595",
+          "formatting": "00 34 1 575 9595 (h)"
+        },
+        {
+          "type": "work",
+          "number": "00 34 1 275 6396",
+          "formatting": "00 34 1 275 6396 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "81 Nunez de Balboa",
+            "Madrid 28006 Spain"
+          ],
+          "city": "Madrid",
+          "state": null,
+          "postal_code": "28006",
+          "country": "Spain",
+          "notes": "Madrid residence with NYC contact"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Spain-based with NYC connection"
+    },
+    {
+      "entry_id": "051_soto_jaime_marina_de",
+      "name": {
+        "full_name": "Soto, Jaime & Marina de",
+        "prefix": null,
+        "first_name": "Jaime",
+        "middle_name": null,
+        "last_name": "Soto",
+        "suffix": "de",
+        "couple": true,
+        "partner_name": "Marina"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 584 7910",
+          "formatting": "0207 584 7910 (h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "34 Cadogan Sq",
+            "London, SW1"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW1",
+          "country": "UK",
+          "notes": "Cadogan Square - Knightsbridge/Belgravia elite address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Cadogan Square - prestigious London address"
+    },
+    {
+      "entry_id": "051_south_hamilton",
+      "name": {
+        "full_name": "South, Hamilton",
+        "prefix": null,
+        "first_name": "Hamilton",
+        "middle_name": null,
+        "last_name": "South",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 686 2241",
+          "formatting": "001 212 686 2241 (h)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 880 7623",
+          "formatting": "001 212 880 7623 (w)"
+        },
+        {
+          "type": "regan",
+          "number": "001 212 529 5533",
+          "formatting": "001 212 529 5533 (regan)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC contact with 'regan' notation"
+    },
+    {
+      "entry_id": "051_souza_carlos",
+      "name": {
+        "full_name": "Souza, Carlos",
+        "prefix": null,
+        "first_name": "Carlos",
+        "middle_name": null,
+        "last_name": "Souza",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0335 372103",
+          "formatting": "0335 372103"
+        },
+        {
+          "type": "unknown",
+          "number": "00 39 0 6 3612346",
+          "formatting": "00 39 0 6 3612346"
+        },
+        {
+          "type": "work",
+          "number": "011 39 2 6739361",
+          "formatting": "011 39 2 6739361 (w)"
+        },
+        {
+          "type": "home",
+          "number": "011 39 2 654 5223",
+          "formatting": "011 39 2 654 5223 (h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [
+        "Valentino"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'Valentino' notation suggests fashion connection"
+    },
+    {
+      "entry_id": "051_spacey_kevin",
+      "name": {
+        "full_name": "Spacey, Kevin",
+        "prefix": null,
+        "first_name": "Kevin",
+        "middle_name": null,
+        "last_name": "Spacey",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "310 360 1612",
+          "formatting": "310 360 1612 (w)"
+        },
+        {
+          "type": "home",
+          "number": "212 841 5443",
+          "formatting": "212 841 5443 (h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "Trigger Street Productions",
+            "755 La Cienega Boulevard",
+            "Los Angeles, CA 90069"
+          ],
+          "city": "Los Angeles",
+          "state": "CA",
+          "postal_code": "90069",
+          "country": "USA",
+          "notes": "Trigger Street Productions - Kevin Spacey's production company"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Kevin Spacey - major Hollywood actor, Trigger Street Productions"
+    },
+    {
+      "entry_id": "051_squire_hugo",
+      "name": {
+        "full_name": "Squire, Hugo",
+        "prefix": null,
+        "first_name": "Hugo",
+        "middle_name": null,
+        "last_name": "Squire",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207 244 0496",
+          "formatting": "0207 244 0496"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "38 Evelyn Gardens",
+            "London, SW7"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW7",
+          "country": "UK",
+          "notes": "South Kensington area"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "051_st_bris_edward",
+      "name": {
+        "full_name": "St. Bris, Edward",
+        "prefix": null,
+        "first_name": "Edward",
+        "middle_name": null,
+        "last_name": "St. Bris",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "00 33 1 4265 0318",
+          "formatting": "00 33 1 4265 0318 (h)"
+        },
+        {
+          "type": "work",
+          "number": "00 33 1 4266 9225",
+          "formatting": "00 33 1 4266 9225 (w)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 33 607 885 386",
+          "formatting": "00 33 607 885 386"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "25 Faubourg St Honore",
+            "75008 Paris",
+            "France"
+          ],
+          "city": "Paris",
+          "state": null,
+          "postal_code": "75008",
+          "country": "France",
+          "notes": "Faubourg Saint-Honoré - most prestigious Paris shopping street"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "25 Faubourg St Honoré - ultra-prestigious Paris address"
+    },
+    {
+      "entry_id": "051_stanbury_caroline",
+      "name": {
+        "full_name": "Stanbury, Caroline",
+        "prefix": null,
+        "first_name": "Caroline",
+        "middle_name": null,
+        "last_name": "Stanbury",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 373 1555",
+          "formatting": "0207 373 1555 (h)"
+        },
+        {
+          "type": "home",
+          "number": "01794 301 393",
+          "formatting": "01794 301 393 country home"
+        },
+        {
+          "type": "portable",
+          "number": "0468 636 855",
+          "formatting": "0468 636 855 mobile"
+        },
+        {
+          "type": "portable",
+          "number": "07956 114 877",
+          "formatting": "07956 114 877 Lisa (p)"
+        },
+        {
+          "type": "home",
+          "number": "0207 370 7506",
+          "formatting": "0207 370 7506 Lisa (h)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 310 860 8979",
+          "formatting": "001 310 860 8979 Rachael Hunter"
+        }
+      ],
+      "emails": [
+        {
+          "address": "ccstanbury@aol.com",
+          "type": "personal",
+          "notes": "AOL email"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Multiple contacts including 'Lisa' and 'Rachael Hunter' (model)"
+    },
+    {
+      "entry_id": "051_stark_koo",
+      "name": {
+        "full_name": "Stark, Koo",
+        "prefix": null,
+        "first_name": "Koo",
+        "middle_name": null,
+        "last_name": "Stark",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207 727 0977",
+          "formatting": "0207 727 0977"
+        },
+        {
+          "type": "unknown",
+          "number": "001 203 855 6823",
+          "formatting": "001 203 855 6823"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Koo Stark - photographer/actress, Prince Andrew connection"
+    },
+    {
+      "entry_id": "051_starzewski_thomas",
+      "name": {
+        "full_name": "Starzewski, Thomas",
+        "prefix": null,
+        "first_name": "Thomas",
+        "middle_name": null,
+        "last_name": "Starzewski",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 244 7257",
+          "formatting": "0207 244 7257 (h)"
+        },
+        {
+          "type": "work",
+          "number": "0207 235 0112",
+          "formatting": "0207 235 0112 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "78a Queensgate",
+            "London SW7"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW7",
+          "country": "UK",
+          "notes": "South Kensington - fashion designer"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Tomasz Starzewski - British fashion designer"
+    },
+    {
+      "entry_id": "051_steenkamp_chris",
+      "name": {
+        "full_name": "Steenkamp, Chris",
+        "prefix": null,
+        "first_name": "Chris",
+        "middle_name": null,
+        "last_name": "Steenkamp",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "082 567 9801",
+          "formatting": "082 567 9801"
+        },
+        {
+          "type": "unknown",
+          "number": "082 928 9235",
+          "formatting": "082 928 9235"
+        },
+        {
+          "type": "work",
+          "number": "054 451 0081",
+          "formatting": "054 451 0081 work"
+        },
+        {
+          "type": "fax",
+          "number": "054 451 0082",
+          "formatting": "054 451 0082 Office Fax"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "South African numbers (082 mobile prefix, 054 area code)"
+    },
+    {
+      "entry_id": "051_steiner_jeffrey",
+      "name": {
+        "full_name": "Steiner, Jeffrey",
+        "prefix": null,
+        "first_name": "Jeffrey",
+        "middle_name": null,
+        "last_name": "Steiner",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 308 6700",
+          "formatting": "001 212 308 6700 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "051_steinkampf_chris_nina",
+      "name": {
+        "full_name": "Steinkampf, Chris & Nina",
+        "prefix": null,
+        "first_name": "Chris",
+        "middle_name": null,
+        "last_name": "Steinkampf",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Nina"
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "00 27 82 5679801",
+          "formatting": "00 27 82 5679801 (p)"
+        },
+        {
+          "type": "work",
+          "number": "00 27 54 451 9400",
+          "formatting": "00 27 54 451 9400 (w)"
+        },
+        {
+          "type": "home",
+          "number": "00 27 28 314 1352",
+          "formatting": "00 27 28 314 1352 beach house"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Box 30",
+            "Rooiead Augrabies",
+            "Cape Province, 8874"
+          ],
+          "city": "Augrabies",
+          "state": "Cape Province",
+          "postal_code": "8874",
+          "country": "South Africa",
+          "notes": "South Africa - Augrabies area (Northern Cape) + beach house"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "South Africa (country code 27) - multiple properties including beach house"
+    },
+    {
+      "entry_id": "051_stengel_andrew",
+      "name": {
+        "full_name": "Stengel, Andrew",
+        "prefix": null,
+        "first_name": "Andrew",
+        "middle_name": null,
+        "last_name": "Stengel",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 219 4555",
+          "formatting": "001 212 219 4555 (w)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 254 8665",
+          "formatting": "001 212 254 8665 (h)"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 270 6505",
+          "formatting": "001 917 270 6505 (p)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "andrew.stengel@miramax.co",
+          "type": "work",
+          "notes": "Miramax email (incomplete domain)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "24 Fifth Ave #723", 
+            "New York, NY 10011"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10011",
+          "country": "USA",
+          "notes": "Greenwich Village"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Miramax film executive"
+    },
+    {
+      "entry_id": "051_stengel_rick_mary",
+      "name": {
+        "full_name": "Stengel, Rick & Mary",
+        "prefix": null,
+        "first_name": "Rick",
+        "middle_name": null,
+        "last_name": "Stengel",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Mary"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 724 0317",
+          "formatting": "001 212 724 0317"
+        },
+        {
+          "type": "work",
+          "number": "001 212 522 2709",
+          "formatting": "001 212 522 2709 (w)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 212 721 6224",
+          "formatting": "001 212 721 6224 Mayn"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "225 West 86th Street Apt. 611",
+            "New York, NY 10024"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10024",
+          "country": "USA",
+          "notes": "Upper West Side"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Rick Stengel - journalist, TIME magazine editor, later Under Secretary of State"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 19,
+    "entries_with_emails": 4,
+    "entries_with_addresses": 13,
+    "entries_with_handwritten_notes": 1,
+    "couples": 4,
+    "average_confidence": "high",
+    "notable_figures_count": 5
+  },
+  "cross_references": [
+    {
+      "from": "051_soros_peter_30_ennismore",
+      "to": "051_soros_peter_900_park",
+      "relationship": "same_person",
+      "note": "Peter Soros with two separate entries - London (30 Ennismore Gdns) and NYC (900 Park Ave) addresses"
+    },
+    {
+      "from": "051_stengel_andrew",
+      "to": "051_stengel_rick_mary",
+      "relationship": "possibly_related",
+      "note": "Stengel surname - possibly related family members, both NYC"
+    },
+    {
+      "from": "051_steenkamp_chris",
+      "to": "051_steinkampf_chris_nina",
+      "relationship": "possibly_same",
+      "note": "Very similar names and both South African - likely same person with spelling variation"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Esperanza Sobrino",
+      "Andrew Solomon",
+      "Peter Soros",
+      "Fernando de Soto",
+      "Jaime de Soto",
+      "Marina de Soto",
+      "Hamilton South",
+      "Carlos Souza",
+      "Kevin Spacey",
+      "Hugo Squire",
+      "Edward St. Bris",
+      "Caroline Stanbury",
+      "Koo Stark",
+      "Thomas Starzewski",
+      "Chris Steenkamp",
+      "Jeffrey Steiner",
+      "Chris Steinkampf",
+      "Nina Steinkampf",
+      "Andrew Stengel",
+      "Rick Stengel",
+      "Mary Stengel"
+    ],
+    "organizations": [
+      "Arquetella Galleries (Esperanza Sobrino - Upper East Side art gallery)",
+      "The New York Times (Andrew Solomon - writer/journalist)",
+      "Trigger Street Productions (Kevin Spacey - production company)",
+      "Valentino (Carlos Souza connection - fashion)",
+      "Miramax (Andrew Stengel - film executive)",
+      "TIME Magazine (Rick Stengel - editor, later Under Secretary of State)"
+    ],
+    "locations": {
+      "international": [
+        "London, UK (multiple contacts)",
+        "Paris, France (Edward St. Bris)",
+        "Madrid, Spain (Fernando de Soto)",
+        "Milan/Rome, Italy (Carlos Souza)",
+        "South Africa (Chris Steenkamp/Steinkampf)"
+      ],
+      "uk_cities": [
+        "London Knightsbridge (Ennismore Gdns, Cadogan Sq)",
+        "London South Kensington (multiple)",
+        "London Notting Hill (Andrew Solomon)"
+      ],
+      "us_cities": [
+        "New York City (multiple contacts)",
+        "Los Angeles (Kevin Spacey)"
+      ],
+      "elite_addresses": [
+        "900 Park Ave, NYC (Peter Soros)",
+        "30 Ennismore Gardens, London SW7 (Peter Soros)",
+        "34 Cadogan Square, London SW1 (Jaime & Marina de Soto)",
+        "25 Faubourg St Honoré, Paris 75008 (Edward St. Bris)",
+        "154 Kensington Park Rd, London W11 (Andrew Solomon)",
+        "755 La Cienega Blvd, LA (Kevin Spacey - Trigger Street)"
+      ]
+    }
+  },
+  "insights": [
+    "Peter Soros - Soros family member with DUAL entries: 900 Park Ave NYC + 30 Ennismore Gardens London Knightsbridge",
+    "Kevin Spacey - major Hollywood actor, Trigger Street Productions, LA/NYC presence (755 La Cienega Boulevard)",
+    "Andrew Solomon - New York Times writer/author, notable intellectual with NYC/London residences (154 Kensington Park Rd)",
+    "Edward St. Bris - 25 Faubourg Saint-Honoré, Paris 75008 (most prestigious Paris shopping street, ultra-elite address)",
+    "Koo Stark - photographer/actress, known for relationship with Prince Andrew (British royalty connection)",
+    "Rick Stengel - TIME Magazine editor, later became Under Secretary of State for Public Diplomacy",
+    "Thomas Starzewski - British fashion designer, Queensgate South Kensington",
+    "Carlos Souza - Italian contact (Milan/Rome numbers) with 'Valentino' notation - fashion industry connection",
+    "Chris Steenkamp/Steinkampf - South African contact (likely same person, spelling variation), Augrabies Cape Province + beach house",
+    "Andrew Stengel - Miramax film executive, 24 Fifth Ave Greenwich Village",
+    "Caroline Stanbury - extensive contacts including 'Rachael Hunter' (model/Rod Stewart's ex-wife) and country home",
+    "Jaime & Marina de Soto - 34 Cadogan Square Knightsbridge/Belgravia (ultra-prestigious London address)",
+    "Fernando de Soto - Madrid residence (81 Nunez de Balboa) with NYC connections",
+    "Multiple elite London addresses: Ennismore Gardens, Cadogan Square, Evelyn Gardens, Queensgate - all SW7/SW1 premium areas",
+    "Peter Soros has TWO separate entries with 7+ phone numbers total - extraordinary level of contact detail",
+    "South African presence unusual for this book: Chris Steenkamp/Steinkampf with Cape Province farm + beach house",
+    "Fashion industry cluster: Carlos Souza (Valentino), Thomas Starzewski (designer)",
+    "Film industry presence: Kevin Spacey (actor/producer), Andrew Stengel (Miramax)"
+  ]
+}

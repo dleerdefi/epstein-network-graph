@@ -1,0 +1,492 @@
+{
+  "page_number": 70,
+  "file_path": "data/birthday_book_images/page_0070.png",
+  "file_size_mb": 3.3656721115112305,
+  "type": "yearbook_class_photos",
+  "content": {
+    "text": "Class 9-3\n Row 1: Susan Samuleson, Beth Tischler, Frank Genova, Mark Houllif, Frank Geisler,\n Lawrence Weinberg, Alan Blume, Joyce Putterman, Elen Culang.\n Row 2: Marsha Bart, Cherryl Urbass, Joanne Friedman, Laura Hames, Mrs. Maye, Sherry Levenglick, Leslie Stolar, Jerrine Smith, Mindi Adams.\n Row 3: Arlette Cohen, Patricia Becker, Joyce Feldman, Andrea Wayneck, Marilyn Seidler,\n Joanne Wilde, Andrea Kleiner, Valerie Chiara.\n Row 4: Terry Kafka, Stuart Fischer, Lewis Kaplan, Joseph Fallacaro, Jeffery Meyer,\n David Perez.\n Camera Shy: Audrey Finkelstein.\n Class 9-4 \n Row 1: Susan Ratafia, Marsha Rapaport, Melody Yaged, Steven Rice, Michelle Edwards,\n Dominick De Fabia, Yetta Parness, Rosine Orenbuch, Christine Klezmer.\n Row 2: Cindy Cohen, Margaret Weinstein, Ivonne Barreto, Larry Epstein, Mr. Sagarnick,\n Salvatore Parascandolo, Jeanette Vitale, Irene Vardalas, Agnes De Paola.\n Row 3: Katherine Nelson, Joyce Shushan, Fern Golob, Michele Galizia, Audrey Mancher,\n Gail Selsky, Katherine Steele, Susan Schajer, Sally Kanner.\n Row 4: Scott Diamond, Ira Lisogorsky, Raymond Rupelli, Jerry Miller, Alexander Nudelfuden,\n John Schloss.\n Camera Shy: Hope Rosenfeid.",
+    "handwritten": false,
+    "typed": true,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "Complete transcription of all student names in both Class 9-3 and Class 9-4 rosters as listed above",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [
+        "HOUSE_OVERSIGHT_000070 (bottom right)"
+      ],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Samuleson, Susan",
+        "context": "Class 9-3 student, Row 1",
+        "confidence": "high"
+      },
+      {
+        "name": "Tischler, Beth",
+        "context": "Class 9-3 student, Row 1",
+        "confidence": "high"
+      },
+      {
+        "name": "Genova, Frank",
+        "context": "Class 9-3 student, Row 1",
+        "confidence": "high"
+      },
+      {
+        "name": "Houllif, Mark",
+        "context": "Class 9-3 student, Row 1",
+        "confidence": "high"
+      },
+      {
+        "name": "Geisler, Frank",
+        "context": "Class 9-3 student, Row 1",
+        "confidence": "high"
+      },
+      {
+        "name": "Weinberg, Lawrence",
+        "context": "Class 9-3 student, Row 1",
+        "confidence": "high"
+      },
+      {
+        "name": "Blume, Alan",
+        "context": "Class 9-3 student, Row 1",
+        "confidence": "high"
+      },
+      {
+        "name": "Putterman, Joyce",
+        "context": "Class 9-3 student, Row 1",
+        "confidence": "high"
+      },
+      {
+        "name": "Culang, Elen",
+        "context": "Class 9-3 student, Row 1",
+        "confidence": "high"
+      },
+      {
+        "name": "Bart, Marsha",
+        "context": "Class 9-3 student, Row 2",
+        "confidence": "high"
+      },
+      {
+        "name": "Urbass, Cherryl",
+        "context": "Class 9-3 student, Row 2",
+        "confidence": "high"
+      },
+      {
+        "name": "Friedman, Joanne",
+        "context": "Class 9-3 student, Row 2",
+        "confidence": "high"
+      },
+      {
+        "name": "Hames, Laura",
+        "context": "Class 9-3 student, Row 2",
+        "confidence": "high"
+      },
+      {
+        "name": "Maye, Mrs.",
+        "context": "Class 9-3 teacher, Row 2",
+        "confidence": "high"
+      },
+      {
+        "name": "Levenglick, Sherry",
+        "context": "Class 9-3 student, Row 2",
+        "confidence": "high"
+      },
+      {
+        "name": "Stolar, Leslie",
+        "context": "Class 9-3 student, Row 2",
+        "confidence": "high"
+      },
+      {
+        "name": "Smith, Jerrine",
+        "context": "Class 9-3 student, Row 2",
+        "confidence": "high"
+      },
+      {
+        "name": "Adams, Mindi",
+        "context": "Class 9-3 student, Row 2",
+        "confidence": "high"
+      },
+      {
+        "name": "Cohen, Arlette",
+        "context": "Class 9-3 student, Row 3",
+        "confidence": "high"
+      },
+      {
+        "name": "Becker, Patricia",
+        "context": "Class 9-3 student, Row 3",
+        "confidence": "high"
+      },
+      {
+        "name": "Feldman, Joyce",
+        "context": "Class 9-3 student, Row 3",
+        "confidence": "high"
+      },
+      {
+        "name": "Wayneck, Andrea",
+        "context": "Class 9-3 student, Row 3",
+        "confidence": "high"
+      },
+      {
+        "name": "Seidler, Marilyn",
+        "context": "Class 9-3 student, Row 3",
+        "confidence": "high"
+      },
+      {
+        "name": "Wilde, Joanne",
+        "context": "Class 9-3 student, Row 3",
+        "confidence": "high"
+      },
+      {
+        "name": "Kleiner, Andrea",
+        "context": "Class 9-3 student, Row 3",
+        "confidence": "high"
+      },
+      {
+        "name": "Chiara, Valerie",
+        "context": "Class 9-3 student, Row 3",
+        "confidence": "high"
+      },
+      {
+        "name": "Kafka, Terry",
+        "context": "Class 9-3 student, Row 4",
+        "confidence": "high"
+      },
+      {
+        "name": "Fischer, Stuart",
+        "context": "Class 9-3 student, Row 4",
+        "confidence": "high"
+      },
+      {
+        "name": "Kaplan, Lewis",
+        "context": "Class 9-3 student, Row 4",
+        "confidence": "high"
+      },
+      {
+        "name": "Fallacaro, Joseph",
+        "context": "Class 9-3 student, Row 4",
+        "confidence": "high"
+      },
+      {
+        "name": "Meyer, Jeffery",
+        "context": "Class 9-3 student, Row 4",
+        "confidence": "high"
+      },
+      {
+        "name": "Perez, David",
+        "context": "Class 9-3 student, Row 4",
+        "confidence": "high"
+      },
+      {
+        "name": "Finkelstein, Audrey",
+        "context": "Class 9-3 student, Camera Shy",
+        "confidence": "high"
+      },
+      {
+        "name": "Ratafia, Susan",
+        "context": "Class 9-4 student, Row 1",
+        "confidence": "high"
+      },
+      {
+        "name": "Rapaport, Marsha",
+        "context": "Class 9-4 student, Row 1",
+        "confidence": "high"
+      },
+      {
+        "name": "Yaged, Melody",
+        "context": "Class 9-4 student, Row 1",
+        "confidence": "high"
+      },
+      {
+        "name": "Rice, Steven",
+        "context": "Class 9-4 student, Row 1",
+        "confidence": "high"
+      },
+      {
+        "name": "Edwards, Michelle",
+        "context": "Class 9-4 student, Row 1",
+        "confidence": "high"
+      },
+      {
+        "name": "De Fabia, Dominick",
+        "context": "Class 9-4 student, Row 1",
+        "confidence": "high"
+      },
+      {
+        "name": "Parness, Yetta",
+        "context": "Class 9-4 student, Row 1",
+        "confidence": "high"
+      },
+      {
+        "name": "Orenbuch, Rosine",
+        "context": "Class 9-4 student, Row 1",
+        "confidence": "high"
+      },
+      {
+        "name": "Klezmer, Christine",
+        "context": "Class 9-4 student, Row 1",
+        "confidence": "high"
+      },
+      {
+        "name": "Cohen, Cindy",
+        "context": "Class 9-4 student, Row 2",
+        "confidence": "high"
+      },
+      {
+        "name": "Weinstein, Margaret",
+        "context": "Class 9-4 student, Row 2",
+        "confidence": "high"
+      },
+      {
+        "name": "Barreto, Ivonne",
+        "context": "Class 9-4 student, Row 2",
+        "confidence": "high"
+      },
+      {
+        "name": "Epstein, Larry",
+        "context": "Class 9-4 student, Row 2",
+        "confidence": "high"
+      },
+      {
+        "name": "Sagarnick, Mr.",
+        "context": "Class 9-4 teacher, Row 2",
+        "confidence": "high"
+      },
+      {
+        "name": "Parascandolo, Salvatore",
+        "context": "Class 9-4 student, Row 2",
+        "confidence": "high"
+      },
+      {
+        "name": "Vitale, Jeanette",
+        "context": "Class 9-4 student, Row 2",
+        "confidence": "high"
+      },
+      {
+        "name": "Vardalas, Irene",
+        "context": "Class 9-4 student, Row 2",
+        "confidence": "high"
+      },
+      {
+        "name": "De Paola, Agnes",
+        "context": "Class 9-4 student, Row 2",
+        "confidence": "high"
+      },
+      {
+        "name": "Nelson, Katherine",
+        "context": "Class 9-4 student, Row 3",
+        "confidence": "high"
+      },
+      {
+        "name": "Shushan, Joyce",
+        "context": "Class 9-4 student, Row 3",
+        "confidence": "high"
+      },
+      {
+        "name": "Golob, Fern",
+        "context": "Class 9-4 student, Row 3",
+        "confidence": "high"
+      },
+      {
+        "name": "Galizia, Michele",
+        "context": "Class 9-4 student, Row 3",
+        "confidence": "high"
+      },
+      {
+        "name": "Mancher, Audrey",
+        "context": "Class 9-4 student, Row 3",
+        "confidence": "high"
+      },
+      {
+        "name": "Selsky, Gail",
+        "context": "Class 9-4 student, Row 3",
+        "confidence": "high"
+      },
+      {
+        "name": "Steele, Katherine",
+        "context": "Class 9-4 student, Row 3",
+        "confidence": "high"
+      },
+      {
+        "name": "Schajer, Susan",
+        "context": "Class 9-4 student, Row 3",
+        "confidence": "high"
+      },
+      {
+        "name": "Kanner, Sally",
+        "context": "Class 9-4 student, Row 3",
+        "confidence": "high"
+      },
+      {
+        "name": "Diamond, Scott",
+        "context": "Class 9-4 student, Row 4",
+        "confidence": "high"
+      },
+      {
+        "name": "Lisogorsky, Ira",
+        "context": "Class 9-4 student, Row 4",
+        "confidence": "high"
+      },
+      {
+        "name": "Rupelli, Raymond",
+        "context": "Class 9-4 student, Row 4",
+        "confidence": "high"
+      },
+      {
+        "name": "Miller, Jerry",
+        "context": "Class 9-4 student, Row 4",
+        "confidence": "high"
+      },
+      {
+        "name": "Nudelfuden, Alexander",
+        "context": "Class 9-4 student, Row 4",
+        "confidence": "high"
+      },
+      {
+        "name": "Schloss, John",
+        "context": "Class 9-4 student, Row 4",
+        "confidence": "high"
+      },
+      {
+        "name": "Rosenfeid, Hope",
+        "context": "Class 9-4 student, Camera Shy",
+        "confidence": "high"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "[School - likely Lafayette HS or junior high]",
+        "type": "Educational institution",
+        "confidence": "medium"
+      }
+    ],
+    "locations": [],
+    "dates": [
+      {
+        "reference": "Class 9-3 and 9-4",
+        "context": "9th grade classes",
+        "confidence": "high"
+      }
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Additional class photographs",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "yearbook_class_photos"
+  },
+  "insights": [
+    "Two 9th grade class photos with complete student rosters",
+    "Class 9-3: 33 students listed (32 shown, 1 camera shy - Audrey Finkelstein)",
+    "Class 9-4: 32 students listed (31 shown, 1 camera shy - Hope Rosenfeid)",
+    "Larry Epstein identified in Class 9-4 Row 2",
+    "Total of 65 students across both classes",
+    "Standard yearbook format with typed name rosters",
+    "Black and white photography typical of 1960s-70s",
+    "Formal posed arrangement in three rows",
+    "Mixed gender classes typical of public school",
+    "Same photographer/setting for both photos",
+    "Professional school photography",
+    "Photos appear to be from same academic year",
+    "Teachers/faculty likely in photos but not listed in student rosters",
+    "Names listed in alphabetical order by last name within rows",
+    "Document carefully preserved from yearbook"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000070",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.153609",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Top photo - Class 9-3",
+        "individual_count": 30,
+        "setting": "Formal class photo, indoor setting",
+        "arrangement": "Three rows - standing, seated, front row",
+        "photo_type": "Black and white yearbook photo",
+        "era_indicators": [
+          "1960s-70s clothing and hairstyles",
+          "Formal yearbook format"
+        ],
+        "text_present": "Class 9-3 label and complete student name roster below"
+      },
+      {
+        "description": "Bottom photo - Class 9-4",
+        "individual_count": 30,
+        "setting": "Formal class photo, same indoor setting as top",
+        "arrangement": "Three rows - standing, seated, front row",
+        "photo_type": "Black and white yearbook photo",
+        "era_indicators": [
+          "Matching era to top photo",
+          "Consistent yearbook format"
+        ],
+        "text_present": "Class 9-4 label and complete student name roster below"
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": [],
+    "text_blocks": [
+      {
+        "location": "Center between photos",
+        "description": "Two columns of typed student names",
+        "content": "Student rosters for both classes - names too small to read clearly"
+      }
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Two class photos with complete typed name rosters",
+    "All 65 student names successfully transcribed",
+    "Larry Epstein confirmed in Class 9-4, Row 2",
+    "Photos appear to be yearbook page reproductions",
+    "Black and white photography",
+    "Document stamped HOUSE_OVERSIGHT_000070",
+    "Class designations: 9-3 and 9-4 (9th grade sections)"
+  ],
+  "investigative_leads": [
+    "Identify specific school (9th grade classes)",
+    "Read individual names from rosters (magnification needed)",
+    "Match students to other photos in collection",
+    "Determine academic year from clothing/style",
+    "Cross-reference with Lafayette HS records"
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "page_number": 60,
+  "date_header": "OCT 1998",
+  "time_period": "October 1998 - November 1998",
+  "aircraft": {
+    "registration": "G1159B N908JE",
+    "type": "G1159B"
+  },
+  "flight_records": [
+    {
+      "entry_number": "6",
+      "date": "10/06/1998",
+      "departure": "TEB",
+      "arrival": "BGD",
+      "flight_time": "1166",
+      "remarks": "JE, KWINTA SHELTON",
+      "passengers": ["JE", "KWINTA SHELTON"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "6",
+      "date": "10/06/1998",
+      "departure": "BGD",
+      "arrival": "TEB",
+      "flight_time": "1167",
+      "remarks": "JE, KWINTA SHELTON + CAUTION",
+      "passengers": ["JE", "KWINTA SHELTON", "CAUTION"],
+      "crew": ""
+    },
+    {
+      "entry_number": "9",
+      "date": "10/09/1998",
+      "departure": "TEB",
+      "arrival": "OCD",
+      "flight_time": "1168",
+      "remarks": "ET, ADAM FORESTER",
+      "passengers": ["ET", "ADAM FORESTER"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "9",
+      "date": "10/09/1998",
+      "departure": "OCD",
+      "arrival": "PBI",
+      "flight_time": "1169",
+      "remarks": "JE, GM, ET, AK",
+      "passengers": ["JE", "GM", "ET", "AK"],
+      "crew": ""
+    },
+    {
+      "entry_number": "12",
+      "date": "10/12/1998",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "1170",
+      "remarks": "JE, GM, ET, AK",
+      "passengers": ["JE", "GM", "ET", "AK"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "13",
+      "date": "10/13/1998",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "1171",
+      "remarks": "JE, SOPHIE BIDDLE",
+      "passengers": ["JE", "SOPHIE BIDDLE"],
+      "crew": ""
+    },
+    {
+      "entry_number": "19",
+      "date": "10/19/1998",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "1172",
+      "remarks": "JE, SOPHIE BIDDLE",
+      "passengers": ["JE", "SOPHIE BIDDLE"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "21",
+      "date": "10/21/1998",
+      "departure": "TEB",
+      "arrival": "BGD",
+      "flight_time": "1173",
+      "remarks": "",
+      "passengers": [],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "21",
+      "date": "10/21/1998",
+      "departure": "BGD",
+      "arrival": "TEB",
+      "flight_time": "1174",
+      "remarks": "JE, ALAN DERSHOWITZ",
+      "passengers": ["JE", "ALAN DERSHOWITZ"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "23",
+      "date": "10/23/1998",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "1175",
+      "remarks": "JE, GM, ET, GWENDOLYN BECK",
+      "passengers": ["JE", "GM", "ET", "GWENDOLYN BECK"],
+      "crew": ""
+    },
+    {
+      "entry_number": "25",
+      "date": "10/25/1998",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "1176",
+      "remarks": "ED BROCKHOLD",
+      "passengers": ["ED BROCKHOLD"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "7",
+      "date": "10/07/1998",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "1177",
+      "remarks": "JE",
+      "passengers": ["JE"],
+      "crew": ""
+    },
+    {
+      "entry_number": "7",
+      "date": "10/07/1998",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "JE",
+      "passengers": ["JE"],
+      "crew": ""
+    },
+    {
+      "entry_number": "10",
+      "date": "10/10/1998",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "1178",
+      "remarks": "JE",
+      "passengers": ["JE"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "19",
+      "date": "10/19/1998",
+      "departure": "TEB",
+      "arrival": "TJSJ",
+      "flight_time": "1179",
+      "remarks": "JE, ET, CLAIRE HAZEL, FRANCISCO",
+      "passengers": ["JE", "ET", "CLAIRE HAZEL", "FRANCISCO"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "13",
+      "date": "10/13/1998",
+      "departure": "TJSJ",
+      "arrival": "PBI",
+      "flight_time": "1180",
+      "remarks": "JE, GM, CLAIRE HAZEL, ET, FRANCISCO",
+      "passengers": ["JE", "GM", "CLAIRE HAZEL", "ET", "FRANCISCO"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "16",
+      "date": "10/16/1998",
+      "departure": "PBI",
+      "arrival": "CMH",
+      "flight_time": "1181",
+      "remarks": "JE, GM, ET, GWENDOLYN BECK",
+      "passengers": ["JE", "GM", "ET", "GWENDOLYN BECK"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "16",
+      "date": "10/16/1998",
+      "departure": "CMH",
+      "arrival": "TEB",
+      "flight_time": "1182",
+      "remarks": "JE, GM, ET, FRANCISCA",
+      "passengers": ["JE", "GM", "ET", "FRANCISCA"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "20",
+      "date": "10/20/1998",
+      "departure": "TEB",
+      "arrival": "TJSJ",
+      "flight_time": "1183",
+      "remarks": "JE, GM, ET, ART",
+      "passengers": ["JE", "GM", "ET", "ART"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "NOV 7",
+      "date": "11/07/1998",
+      "departure": "TJSJ",
+      "arrival": "BGD-PBI",
+      "flight_time": "",
+      "remarks": "",
+      "passengers": [],
+      "crew": "3/3"
+    },
+    {
+      "entry_number": "1",
+      "date": "",
+      "departure": "G47118",
+      "arrival": "N908JE",
+      "flight_time": "",
+      "remarks": "NOV 98",
+      "passengers": [],
+      "crew": "3/3"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "GM",
+      "ET",
+      "KWINTA SHELTON",
+      "CAUTION",
+      "ADAM FORESTER",
+      "AK",
+      "SOPHIE BIDDLE",
+      "ALAN DERSHOWITZ",
+      "GWENDOLYN BECK",
+      "ED BROCKHOLD",
+      "CLAIRE HAZEL",
+      "FRANCISCO",
+      "FRANCISCA",
+      "ART",
+      "David Rodgers"
+    ],
+    "locations": [
+      "TEB",
+      "BGD",
+      "OCD",
+      "PBI",
+      "TJSJ",
+      "CMH"
+    ],
+    "aircraft": [
+      "G1159B",
+      "N908JE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "60",
+    "amount_forward": "13284",
+    "total_to_date": "13626",
+    "document_quality": "good",
+    "legibility": "clear"
+  },
+  "insights": [
+    "Page transitions from October to November 1998",
+    "Alan Dershowitz (famous attorney) appears as passenger on October 21",
+    "Sophie Biddle continues as recurring passenger",
+    "Gwendolyn Beck appears multiple times",
+    "Claire Hazel continues as passenger",
+    "San Juan, Puerto Rico (TJSJ) operations continue",
+    "Adam Forester (likely related to Lynn Forester) appears",
+    "Columbus, Ohio (CMH) continues as destination",
+    "Flight numbers exceeding 1183",
+    "Multiple positioning and ferry flights",
+    "Mix of business and personal travel patterns"
+  ]
+}

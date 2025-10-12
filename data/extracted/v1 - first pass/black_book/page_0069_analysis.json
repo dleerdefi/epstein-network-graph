@@ -1,0 +1,624 @@
+{
+  "page_number": 69,
+  "section": "A-B Names",
+  "entries": [
+    {
+      "name": "Adler, Frederick (Fred) &",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "PO Calle Abeaador",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Villa Gata",
+          "location": "Villa Gata",
+          "confidence": "high"
+        },
+        {
+          "type": "tertiary",
+          "address": "Hotel Meliá S, Cosino Room",
+          "location": "Hotel Meliá S, Cosino Room",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 307 3646",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 632 4533",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "Andrea",
+          "number": "212 344 0923 Andrea",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "Victoria Caira",
+          "number": "212 344 0923 after Victoria Caira",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "Victoria Caira alt",
+          "number": "after Victoria Caira",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "212 632 5400",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "Fax B",
+          "number": "212 755 4533 F(B)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "Fax H",
+          "number": "212 632 3400 F(H)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 826 1022",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "Giselle",
+          "number": "Giselle",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "212 755 1024 AW",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "Kay",
+          "number": "212 755 1022 Kay / Teresa",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "Off FAX",
+          "number": "212 758 4533 Off FAX (Dean)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 838 7470",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 318 6800",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "G Dean",
+          "number": "212 308 5800 (G) (Dean)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "Dean",
+          "number": "212 308 5801 (Dean)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 308 5802",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "Dean Queens",
+          "number": "212 308 5803 (Dean) Queens",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "Jay Queens",
+          "number": "212 206 5804 (Jay) Queens",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Email: FDS_3@[illegible].com",
+          "confidence": "low"
+        },
+        {
+          "email": "Email: fhf_9- Check Name",
+          "confidence": "low"
+        }
+      ],
+      "additional_contacts": [
+        "Andrea",
+        "Victoria Caira",
+        "Giselle",
+        "Kay",
+        "Teresa",
+        "Dean",
+        "Jay"
+      ],
+      "notes": "Frederick Adler - Multiple NYC numbers and contacts",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Email domains illegible"]
+      }
+    },
+    {
+      "name": "Ali",
+      "category": "Personal",
+      "location": "Unknown",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 247 1003",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "B",
+          "number": "212 308 1003 (B)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 244 5753",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "A",
+          "number": "212 244 6753 (A)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 244 5753",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 308 3200",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Ali - Manhattan contacts",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Andersson, Eva",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1616 East Ave Apt 18A",
+          "street": "1616 East Avenue Apt 18A",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "New York NY 10028",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10028",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 860 7664 [h]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 735 0038 H",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Email: eva@[illegible].com",
+          "confidence": "low"
+        }
+      ],
+      "additional_info": [
+        "Eva"
+      ],
+      "notes": "Eva Andersson - East Avenue NYC apartment",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Email domain illegible"]
+      }
+    },
+    {
+      "name": "Archer, Bill",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "796 Apartment Creek Dr",
+          "street": "796 Apartment Creek Drive",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Modern Carmel 751417",
+          "location": "Modern Carmel",
+          "postal_code": "751417",
+          "confidence": "high"
+        },
+        {
+          "type": "tertiary",
+          "address": "Box 31 Hotel LA 31406",
+          "postal_code": "31406",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 337 5523 not correct",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "low"
+        }
+      ],
+      "emails": [
+        {
+          "email": "email--damian@[illegible].com",
+          "confidence": "low"
+        },
+        {
+          "email": "damian.demarco@[illegible].com",
+          "confidence": "low"
+        },
+        {
+          "email": "[illegible]@[illegible].com",
+          "confidence": "low"
+        }
+      ],
+      "additional_contacts": [
+        "Damian",
+        "Damian DeMarco"
+      ],
+      "notes": "Bill Archer - Multiple addresses, phone marked as incorrect",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone number noted as incorrect", "Email addresses illegible"]
+      }
+    },
+    {
+      "name": "Aslanian, Linda",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "233 E. 87th St. Apt 8",
+          "street": "233 E. 87th Street Apt 8",
+          "city": "New York",
+          "state": "NY",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 737 1411 LM24",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 289 5700",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "Viviane Hoffman",
+          "number": "212 737 9899 (Viviane Hoffman)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 369 5211 P",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 722 5610",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "Wendt",
+          "number": "212 628 5170 wendt(1-9-03)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "additional_contacts": [
+        "Viviane Hoffman"
+      ],
+      "notes": "Linda Aslanian - East 87th Street NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Bannenberg, Jon",
+      "category": "Personal",
+      "location": "UK",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "6 Burnsall Street",
+          "street": "6 Burnsall Street",
+          "city": "London SW3",
+          "postal_code": "SW3",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "011 44 20 7349 7337",
+          "area_code": "44 20",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Jon Bannenberg - Chelsea London SW3",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Barak, Ehud",
+      "category": "Personal",
+      "location": "Israel",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "67 # 5 Hayarkon, L.L.C.",
+          "street": "67 #5 Hayarkon",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "office",
+          "number": "972 36 950030 office in Israel",
+          "area_code": "972",
+          "geographic_indicator": "Israel",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "011 972 36 95003[illegible]",
+          "area_code": "972",
+          "geographic_indicator": "Israel",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Shimon@[illegible].com",
+          "confidence": "low"
+        }
+      ],
+      "additional_info": [
+        "Apt 6",
+        "Shimon associates"
+      ],
+      "notes": "Ehud Barak - Former Israeli Prime Minister, Hayarkon address",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Phone number partially illegible", "Email domain illegible"]
+      }
+    },
+    {
+      "name": "Barrack, Tom",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1999 Avenue of the Stars",
+          "street": "1999 Avenue of the Stars",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Los Angeles, CA 91067",
+          "city": "Los Angeles",
+          "state": "CA",
+          "postal_code": "91067",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "310 282 8820",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "Assistant",
+          "number": "310 282 8820 Assistant",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "[illegible] CelCoVin@yahoo.com",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "310 553 5317 Samson",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "Audry Firm",
+          "number": "310 553 5318 Assistant Audry Firm",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "CelCoVin@yahoo.com",
+          "confidence": "high"
+        }
+      ],
+      "additional_contacts": [
+        "Assistant",
+        "Samson",
+        "Audry Firm"
+      ],
+      "notes": "Tom Barrack - Avenue of the Stars LA",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One phone number illegible"]
+      }
+    },
+    {
+      "name": "Bendar Prince",
+      "category": "Personal",
+      "location": "Unknown",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "917 361 [illegible]",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Prince Bendar - partial phone",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone number partially illegible"]
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 9,
+    "illegible_entries": 0,
+    "partial_entries": 5,
+    "sections": ["A-B Names"],
+    "notable_entries": [
+      "Ehud Barak - Former Israeli Prime Minister",
+      "Tom Barrack - Avenue of the Stars LA",
+      "Frederick Adler - 20+ phone numbers with multiple associates",
+      "Jon Bannenberg - Chelsea London",
+      "Prince Bendar - partial entry"
+    ],
+    "geographic_distribution": {
+      "usa": 6,
+      "israel": 1,
+      "uk": 1,
+      "unknown": 1
+    },
+    "location_highlights": [
+      "1999 Avenue of the Stars Los Angeles (Tom Barrack)",
+      "East 87th Street Manhattan apartments",
+      "Chelsea London SW3",
+      "Hayarkon address Israel (Ehud Barak)"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 4,
+      "medium_confidence": 4,
+      "low_confidence": 1,
+      "specific_issues": [
+        "Multiple email domains illegible",
+        "Several phone numbers partially illegible",
+        "One phone explicitly marked as incorrect",
+        "Prince Bendar entry incomplete"
+      ]
+    }
+  }
+}

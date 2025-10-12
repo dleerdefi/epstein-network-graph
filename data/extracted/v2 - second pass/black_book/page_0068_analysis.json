@@ -1,0 +1,569 @@
+{
+  "page_number": 68,
+  "alphabetical_section": "ISLAND CONTINUED, ISRAEL, ITALY",
+  "page_header": "Island services, Israel, and Italy listings",
+  "contacts": [
+    {
+      "entry_id": "068_roberts_theresa",
+      "name": {
+        "full_name": "Roberts, Theresa",
+        "prefix": null,
+        "first_name": "Theresa",
+        "middle_name": null,
+        "last_name": "Roberts",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "340-777-3539",
+          "formatting": "340-777-3539"
+        },
+        {
+          "type": "fax",
+          "number": "340-775-5835FAX",
+          "formatting": "340-775-5835FAX"
+        }
+      ],
+      "emails": [
+        {
+          "address": "TBRarchitect@compuserve",
+          "type": "work",
+          "notes": "Architecture firm - CompuServe email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "6501 Red Hook Plaza",
+            "Suite 201 PMB 540",
+            "St. Thomas, USVI 00802-1306"
+          ],
+          "city": "St. Thomas",
+          "state": "USVI",
+          "postal_code": "00802-1306",
+          "country": "US Virgin Islands",
+          "notes": "Virgin Islands architect"
+        },
+        {
+          "type": "other",
+          "address_lines": [
+            "TBR",
+            "340 513 4037 (p)"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": "Additional contact"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "TBR architect - Virgin Islands based"
+    },
+    {
+      "entry_id": "068_romualdez_daniel",
+      "name": {
+        "full_name": "Romualdez, Daniel",
+        "prefix": null,
+        "first_name": "Daniel",
+        "middle_name": null,
+        "last_name": "Romualdez",
+        "suffix": null
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "Architect",
+            "119 West 23rd Street"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "NYC architect"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "low",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC based architect"
+    },
+    {
+      "entry_id": "068_eshel_elisa",
+      "name": {
+        "full_name": "Eshel, Elisa",
+        "prefix": null,
+        "first_name": "Elisa",
+        "middle_name": null,
+        "last_name": "Eshel",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "00-972-33-630 5349(p)",
+          "formatting": "00-972-33-630 5349(p)"
+        },
+        {
+          "type": "work",
+          "number": "00-972-58-635 1063(k)",
+          "formatting": "00-972-58-635 1063(k)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "esheela@tlc.mof.gov.il",
+          "type": "work",
+          "notes": "Israeli Ministry of Finance email"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Israeli government official - Ministry of Finance"
+    },
+    {
+      "entry_id": "068_evani_duud_efrat",
+      "name": {
+        "full_name": "Evani Duud Efrat",
+        "prefix": null,
+        "first_name": "Efrat",
+        "middle_name": "Duud",
+        "last_name": "Evani",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 972 51 52202299",
+          "formatting": "00 972 51 52202299"
+        },
+        {
+          "type": "unknown",
+          "number": "00 9723 8956969",
+          "formatting": "00 9723 8956969"
+        }
+      ],
+      "emails": [
+        {
+          "address": "efratit@langov.il",
+          "type": "work",
+          "notes": "Israeli government email"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Israeli contact"
+    },
+    {
+      "entry_id": "068_gil_avi",
+      "name": {
+        "full_name": "Gil Avi",
+        "prefix": null,
+        "first_name": "Avi",
+        "middle_name": null,
+        "last_name": "Gil",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 972 65 311245",
+          "formatting": "00 972 65 311245"
+        }
+      ],
+      "emails": [
+        {
+          "address": "gil_avi@netvision.net.il",
+          "type": "personal",
+          "notes": "NetVision ISP Israel"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Israeli contact"
+    },
+    {
+      "entry_id": "068_gutman_arik",
+      "name": {
+        "full_name": "Gutman, Arik",
+        "prefix": null,
+        "first_name": "Arik",
+        "middle_name": null,
+        "last_name": "Gutman",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "972 5 (0) 335786",
+          "formatting": "972 5 (0) 335786 (p)"
+        },
+        {
+          "type": "unknown",
+          "number": "011 972 3 641 7638",
+          "formatting": "011 972 3 641 7638"
+        },
+        {
+          "type": "portable",
+          "number": "00-972-50-335-786(p)",
+          "formatting": "00-972-50-335-786(p)"
+        },
+        {
+          "type": "work",
+          "number": "00-972-3-542-1649(o)",
+          "formatting": "00-972-3-542-1649(o)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Israeli contact - appears twice with different numbers"
+    },
+    {
+      "entry_id": "068_neima_yakhof",
+      "name": {
+        "full_name": "Neima, Yakhof",
+        "prefix": null,
+        "first_name": "Yakhof",
+        "middle_name": null,
+        "last_name": "Neima",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "00 972 235525-2039",
+          "formatting": "00 972 235525-2039"
+        },
+        {
+          "type": "work",
+          "number": "00 972 23552 2039(w)",
+          "formatting": "00 972 23552 2039(w)"
+        },
+        {
+          "type": "work",
+          "number": "00 972 3 691 627 (w)",
+          "formatting": "00 972 3 691 627 (w)"
+        },
+        {
+          "type": "home",
+          "number": "0007 92 283 697 (h)",
+          "formatting": "0007 92 283 697 (h)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 917 817 4097",
+          "formatting": "00 917 817 4097"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 817 4097 (p)",
+          "formatting": "001 917 817 4097 (p)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Hovevai Ziion 68",
+            "Jerusalem 33 750(p)"
+          ],
+          "city": "Jerusalem",
+          "postal_code": "33 750",
+          "country": "Israel",
+          "notes": "Jerusalem residence"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Israeli contact with NYC mobile (917)"
+    },
+    {
+      "entry_id": "068_olmert_ehud",
+      "name": {
+        "full_name": "Olmert, Ehud",
+        "prefix": null,
+        "first_name": "Ehud",
+        "middle_name": null,
+        "last_name": "Olmert",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "00 972 (2)229 6014",
+          "formatting": "00 972 (2)229 6014"
+        },
+        {
+          "type": "work",
+          "number": "00972 (2)6296014(f)",
+          "formatting": "00972 (2)6296014(f)"
+        },
+        {
+          "type": "work",
+          "number": "00 972 2 6296014(f)",
+          "formatting": "00 972 2 6296014(f)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Ehud Olmert - Former Israeli Prime Minister"
+    },
+    {
+      "entry_id": "068_jeffrey_j",
+      "name": {
+        "full_name": "JEFFREY (J)",
+        "prefix": null,
+        "first_name": "Jeffrey",
+        "middle_name": null,
+        "last_name": null,
+        "suffix": null
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "301 East 66th St.",
+            "Apt A",
+            "301 East 66th Street",
+            "New York, NY 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "NYC apartment with 'Apt to Models' notation"
+        }
+      ],
+      "handwritten_notes": [
+        "Apt to Models"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "low",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Section header 'JEFFREY (J)' with NYC apartment address"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 9,
+    "entries_with_emails": 5,
+    "entries_with_addresses": 5,
+    "entries_with_handwritten_notes": 1,
+    "couples": 0,
+    "average_confidence": "high",
+    "notable_figures_count": 1,
+    "special_notes": "Page contains Island services continuation, ISRAEL section with government officials, ITALY section, and JEFFREY (J) section with 'Apt to Models' notation"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Theresa Roberts (architect)",
+      "Daniel Romualdez (architect)",
+      "Elisa Eshel (Israeli Ministry of Finance)",
+      "Efrat Evani Duud",
+      "Avi Gil",
+      "Arik Gutman",
+      "Yakhof Neima",
+      "Ehud Olmert (Former Israeli Prime Minister)",
+      "Lynn & Karen Gray (Massage A - Island)",
+      "Sanchez, Carlos (Pedro Antonio Dealercon 41)",
+      "Moseley, Brian"
+    ],
+    "organizations": [
+      "TBR Architects",
+      "Israeli Ministry of Finance",
+      "Tropical Shipping",
+      "Water Taxi"
+    ],
+    "locations": {
+      "international": [
+        "Israel (Jerusalem, Tel Aviv)",
+        "Italy (Torne di Pisa)"
+      ],
+      "us_cities": [
+        "St. Thomas, USVI",
+        "New York City"
+      ],
+      "elite_addresses": [
+        "301 East 66th Street, NYC (Jeffrey apartment with 'Models' notation)",
+        "Hovevai Ziion 68, Jerusalem"
+      ]
+    },
+    "business_listings": [
+      {
+        "name": "Massage A - Island",
+        "subtitle": "Jo Jo Diane Grapevine Salon",
+        "phones": [
+          "340-779-2414 Lynn & Karen Gray (h)",
+          "340-693-8378",
+          "340-779-2414 Melffle Landt",
+          "340-777-7049 Zeno (h)",
+          "340-777-2570 Zeno (c)",
+          "340-693 6661(h) David Teinfeld",
+          "340 693 804(w) Gretchen Phodes",
+          "340 777 53356 Gretchen Rhodes",
+          "310 435 4725 Gretchen's cell"
+        ],
+        "type": "massage_services",
+        "location": "USVI"
+      },
+      {
+        "name": "Moseley, Brian",
+        "phones": [
+          "340 773 8316",
+          "340 (773 4646(h)"
+        ],
+        "email": "Mbriall@visccess.net",
+        "type": "contact",
+        "location": "USVI"
+      },
+      {
+        "name": "Sanchez, Carlos",
+        "address": "Pedro Antonio Dealercon 41, 4th floor",
+        "phones": [
+          "Granada 18004 Spain",
+          "00 34 958 250494(w)",
+          "00 34 958 250454(w)"
+        ],
+        "email": "carlos@caritassanche.net",
+        "type": "contact",
+        "location": "Spain/USVI connection"
+      },
+      {
+        "name": "Tropical Shipping",
+        "subtitle": "Point Pleasant, FS",
+        "address": "St. Thomas, USVI 00802",
+        "phones": [
+          "340-776-1869",
+          "340-776-1860 (f)"
+        ],
+        "type": "shipping_service",
+        "location": "USVI"
+      },
+      {
+        "name": "Water Taxi",
+        "phone": "340-775-6501",
+        "type": "transportation",
+        "location": "USVI"
+      },
+      {
+        "name": "Suite 809",
+        "phone": "RV NY 10011",
+        "additional": [
+          "212 989 6429 o",
+          "212 989 6868 f",
+          "lcarlos@danidromualdeazarc",
+          "H(m)119 East 57th",
+          "211 227 0107 Floor's fax",
+          "212 889 1743 M 34 Fiono's direct",
+          "212 620 8429 (p)",
+          "212 889 1781327 Jennifer"
+        ],
+        "type": "office_listing"
+      },
+      {
+        "name": "ISRAEL",
+        "type": "section_header"
+      },
+      {
+        "name": "Jerusalem Hyatt",
+        "phone": "00-972-2-533-1234",
+        "type": "hotel",
+        "location": "Jerusalem, Israel"
+      },
+      {
+        "name": "ITALY (I)",
+        "type": "section_header"
+      },
+      {
+        "name": "Torne di Pisa",
+        "address": "Via Marcato 26, 67 48 f.l",
+        "type": "location",
+        "location": "Italy"
+      },
+      {
+        "name": "Train Info",
+        "phone": "010 39 2 80231",
+        "type": "transportation",
+        "location": "Italy"
+      }
+    ]
+  },
+  "insights": [
+    "CRITICAL: JEFFREY (J) section with 301 East 66th Street apartment and handwritten note 'Apt to Models' - possible model apartment/recruitment location",
+    "Ehud Olmert listed - Former Israeli Prime Minister (served 2006-2009), later convicted of corruption",
+    "Israeli government connections: Elisa Eshel (Ministry of Finance - esheela@tlc.mof.gov.il), Efrat Evani Duud (efratit@langov.il)",
+    "USVI architect network: Theresa Roberts (TBR) at Red Hook Plaza, Daniel Romualdez at 119 West 23rd Street NYC",
+    "Island massage services network: Lynn & Karen Gray, Melffle Landt, Zeno, David Teinfeld, Gretchen Rhodes - extensive staff for island operations",
+    "Gretchen Rhodes/Phodes appears multiple times with different spellings - key island staff member",
+    "Carlos Sanchez with Spain (Granada) and USVI connections - international coordination",
+    "Tropical Shipping at Point Pleasant - freight services for island supplies",
+    "Water Taxi service (340-775-6501) - inter-island transportation",
+    "Israeli contacts predominantly 972 country code with government email domains (.gov.il)",
+    "Yakhof Neima with both Israeli numbers and NYC portable (917) - international travel pattern",
+    "Arik Gutman appears twice with different number sets - possibly important Israeli connection",
+    "Suite 809 listing with Jennifer and Floor's fax - possibly NYC office space",
+    "Jerusalem Hyatt hotel listing - accommodation for Israel visits",
+    "ITALY section begins with Torne di Pisa and train information",
+    "301 East 66th Street is different from Sarah Kellen's 301 East 66th Street Apt 10N (page 60) - same building, different apartments",
+    "Models notation suggests recruitment or housing arrangement at this location",
+    "Israeli network includes government officials, suggesting political/diplomatic connections",
+    "Virgin Islands infrastructure: architects, massage services, shipping, water taxi - complete operational support"
+  ]
+}

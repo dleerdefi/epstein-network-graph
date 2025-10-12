@@ -1,0 +1,1240 @@
+{
+  "page_number": 5,
+  "alphabetical_section": "B",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "005_0836_594_906",
+      "name": {
+        "full_name": null,
+        "title": null,
+        "first_name": null,
+        "last_name": null,
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "0836-594-906",
+          "type": "mobile",
+          "label": "p",
+          "country_code": "+33",
+          "area_code": "836",
+          "extension": null,
+          "notes": "French mobile - orphan number",
+          "is_primary": true,
+          "formatting": "0836-594-906"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_batstone_tim_natasha",
+      "name": {
+        "full_name": "Batstone, Tim Natasha",
+        "title": null,
+        "first_name": "Tim Natasha",
+        "last_name": "Batstone",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "01275 8507750",
+          "type": "home",
+          "label": "",
+          "country_code": "+44",
+          "area_code": "01275",
+          "extension": null,
+          "notes": "UK landline - Bristol area",
+          "is_primary": false,
+          "formatting": "01275 8507750"
+        },
+        {
+          "number": "0862 593094",
+          "type": "mobile",
+          "label": "",
+          "country_code": "+353",
+          "area_code": "862",
+          "extension": null,
+          "notes": "Irish mobile",
+          "is_primary": false,
+          "formatting": "0862 593094"
+        },
+        {
+          "number": "0402 66584",
+          "type": "other",
+          "label": "h",
+          "country_code": "+353",
+          "area_code": "402",
+          "extension": null,
+          "notes": "Irish landline",
+          "is_primary": false,
+          "formatting": "0402 66584"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_baumer_lorenzo",
+      "name": {
+        "full_name": "Baumer, Lorenzo",
+        "title": null,
+        "first_name": "Lorenzo",
+        "last_name": "Baumer",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "00 33 1 4260 8524",
+          "type": "home",
+          "label": "h",
+          "country_code": "+33",
+          "area_code": "1",
+          "extension": null,
+          "notes": "Paris landline - home",
+          "is_primary": false,
+          "formatting": "00 33 1 4260 8524"
+        },
+        {
+          "number": "00 33 1 4703 4141",
+          "type": "work",
+          "label": "w",
+          "country_code": "+33",
+          "area_code": "1",
+          "extension": null,
+          "notes": "Paris landline - work",
+          "is_primary": false,
+          "formatting": "00 33 1 4703 4141"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_beaumont_lord_lady",
+      "name": {
+        "full_name": "Beaumont, Lord & Lady",
+        "title": "Lord",
+        "first_name": "Lord & Lady",
+        "last_name": "Beaumont",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "0207-352 5604",
+          "type": "home",
+          "label": "",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "London landline",
+          "is_primary": true,
+          "formatting": "0207-352 5604"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "65 Slone Street\nLondon",
+          "street_line1": "65 Slone Street",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Sloane Street - Knightsbridge"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_beckwith_tamara",
+      "name": {
+        "full_name": "Beckwith, Tamara",
+        "title": null,
+        "first_name": "Tamara",
+        "last_name": "Beckwith",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "001 323 848 4988",
+          "type": "home",
+          "label": "",
+          "country_code": "+1",
+          "area_code": "323",
+          "extension": null,
+          "notes": "Los Angeles area",
+          "is_primary": true,
+          "formatting": "001 323 848 4988"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_beizberg_lisa",
+      "name": {
+        "full_name": "Beizberg, Lisa",
+        "title": null,
+        "first_name": "Lisa",
+        "last_name": "Beizberg",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "001 212 396 9566",
+          "type": "work",
+          "label": "Office",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC office",
+          "is_primary": false,
+          "formatting": "001 212 396 9566"
+        },
+        {
+          "number": "001 212 647 7777",
+          "type": "home",
+          "label": "h",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC home",
+          "is_primary": false,
+          "formatting": "001 212 647 7777"
+        },
+        {
+          "number": "001 212 647 7777",
+          "type": "fax",
+          "label": "hf",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC home fax",
+          "is_primary": false,
+          "formatting": "001 212 647 7777"
+        },
+        {
+          "number": "212 721 4500",
+          "type": "other",
+          "label": "",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC",
+          "is_primary": false,
+          "formatting": "212 721 4500"
+        },
+        {
+          "number": "cell 646 269 0111",
+          "type": "mobile",
+          "label": "cell",
+          "country_code": "+1",
+          "area_code": "646",
+          "extension": null,
+          "notes": "NYC mobile",
+          "is_primary": false,
+          "formatting": "646 269 0111"
+        }
+      ],
+      "emails": [
+        {
+          "address": "belzbrgmgmt@aol.com",
+          "type": "business",
+          "domain": "aol.com",
+          "notes": "Beizberg Management - AOL"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "7 E 92nd Street\nNY, NY 10028",
+          "street_line1": "7 E 92nd Street",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": "10028",
+          "country": "USA",
+          "notes": "Upper East Side"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [
+          "Office",
+          "cell"
+        ],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_benson_steven",
+      "name": {
+        "full_name": "Benson, Steven",
+        "title": null,
+        "first_name": "Steven",
+        "last_name": "Benson",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "001 212 218 5281",
+          "type": "work",
+          "label": "w",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC work",
+          "is_primary": false,
+          "formatting": "001 212 218 5281"
+        },
+        {
+          "number": "001 212 628 8991",
+          "type": "home",
+          "label": "h",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC home",
+          "is_primary": false,
+          "formatting": "001 212 628 8991"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_bentinck_baron",
+      "name": {
+        "full_name": "Bentinck, Baron",
+        "title": "Baron",
+        "first_name": null,
+        "last_name": "Bentinck",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [],
+      "emails": [
+        {
+          "address": "wayneparkltd@msn.com",
+          "type": "business",
+          "domain": "msn.com",
+          "notes": "Wayne Park Ltd"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "Wayne Park\nTillington Court Somerset\nBA11 (illegible) (UK)\nEngland",
+          "street_line1": "Wayne Park",
+          "street_line2": "Tillington Court Somerset",
+          "city": "Somerset",
+          "state_province": null,
+          "postal_code": "BA11",
+          "country": "UK",
+          "notes": "Somerset estate"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_berggruen_nicolas",
+      "name": {
+        "full_name": "Berggruen, Nicolas",
+        "title": null,
+        "first_name": "Nicolas",
+        "last_name": "Berggruen",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "917 748 2180",
+          "type": "mobile",
+          "label": "p",
+          "country_code": "+1",
+          "area_code": "917",
+          "extension": null,
+          "notes": "NYC mobile",
+          "is_primary": false,
+          "formatting": "917 748 2180"
+        },
+        {
+          "number": "212 334 3036",
+          "type": "work",
+          "label": "Office",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC office",
+          "is_primary": false,
+          "formatting": "212 334 3036"
+        }
+      ],
+      "emails": [
+        {
+          "address": "nicolasbergren@nycap.rr.com",
+          "type": "personal",
+          "domain": "nycap.rr.com",
+          "notes": "NYC cable provider domain"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "117 East 57th Street (w)\n#54\nNY, NY 10022",
+          "street_line1": "117 East 57th Street",
+          "street_line2": "#54",
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": "10022",
+          "country": "USA",
+          "notes": "Midtown Manhattan"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [
+          "Office"
+        ],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_berkman_bill",
+      "name": {
+        "full_name": "Berkman, Bill",
+        "title": null,
+        "first_name": "Bill",
+        "last_name": "Berkman",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "212 941 0740",
+          "type": "home",
+          "label": "",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC",
+          "is_primary": false,
+          "formatting": "212 941 0740"
+        },
+        {
+          "number": "516 945 2045",
+          "type": "other",
+          "label": "",
+          "country_code": "+1",
+          "area_code": "516",
+          "extension": null,
+          "notes": "Nassau County, NY",
+          "is_primary": false,
+          "formatting": "516 945 2045"
+        },
+        {
+          "number": "518 851 8117",
+          "type": "other",
+          "label": "h",
+          "country_code": "+1",
+          "area_code": "518",
+          "extension": null,
+          "notes": "Upstate NY",
+          "is_primary": false,
+          "formatting": "518 851 8117"
+        },
+        {
+          "number": "212 523 8600",
+          "type": "work",
+          "label": "Room w",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC - Room",
+          "is_primary": false,
+          "formatting": "212 523 8600"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "The Arrowhead Group\n1724 Madison Avenue\nNew York, NY\n10128",
+          "street_line1": "1724 Madison Avenue",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": "10128",
+          "country": "USA",
+          "notes": "Upper East Side - Arrowhead Group"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [
+          "Room w"
+        ],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_bernard_tara",
+      "name": {
+        "full_name": "Bernard, Tara",
+        "title": null,
+        "first_name": "Tara",
+        "last_name": "Bernard",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "07 770 523 149",
+          "type": "mobile",
+          "label": "p",
+          "country_code": "+07",
+          "area_code": "770",
+          "extension": null,
+          "notes": "Atlanta, Georgia",
+          "is_primary": true,
+          "formatting": "07 770 523 149 (p)"
+        },
+        {
+          "number": "07 770 523 194 (p)",
+          "type": "mobile",
+          "label": "p",
+          "country_code": "+1",
+          "area_code": "770",
+          "extension": null,
+          "notes": "Atlanta, Geogria mobile",
+          "is_primary": false,
+          "formatting": "07 770 523 149 (p)"
+        },
+        {
+          "number": "07 770 523 149",
+          "type": "other",
+          "label": "",
+          "country_code": "+1",
+          "area_code": "770",
+          "extension": null,
+          "notes": "Atlanta, Geogria",
+          "is_primary": false,
+          "formatting": "07 770 523 149 (p)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": [],
+          "label": "",
+          "full_address": [],
+          "street_line1": [],
+          "street_line2": null,
+          "city": null,
+          "state_province": null,
+          "postal_code": null,
+          "country": null,
+          "notes": []
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_birchall_martyn",
+      "name": {
+        "full_name": "Birchall, Martyn",
+        "title": null,
+        "first_name": "Martyn",
+        "last_name": "Birchall",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "44 p. 208 1825960",
+          "type": "mobile",
+          "label": "p",
+          "country_code": "+44",
+          "area_code": "208",
+          "extension": null,
+          "notes": "UK mobile",
+          "is_primary": false,
+          "formatting": "44 p. 208 1825960"
+        },
+        {
+          "number": "212 p 917 370 7196",
+          "type": "mobile",
+          "label": "p",
+          "country_code": "+1",
+          "area_code": "917",
+          "extension": null,
+          "notes": "NYC mobile",
+          "is_primary": false,
+          "formatting": "212 p 917 370 7196"
+        },
+        {
+          "number": "212 583 0438",
+          "type": "other",
+          "label": "",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC",
+          "is_primary": false,
+          "formatting": "212 583 0438"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "116 Bank Street\nOffice Fax",
+          "street_line1": "116 Bank Street",
+          "street_line2": null,
+          "city": null,
+          "state_province": null,
+          "postal_code": null,
+          "country": null,
+          "notes": "Office fax location"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [
+          "Office Fax"
+        ],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_birley_robin",
+      "name": {
+        "full_name": "Birley, Robin",
+        "title": null,
+        "first_name": "Robin",
+        "last_name": "Birley",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "(0) 790 3rd Flr (u)",
+          "type": "other",
+          "label": "3rd Flr",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Unclear - 3rd floor reference",
+          "is_primary": false,
+          "formatting": "(0) 790 3rd Flr (u)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "robinbirley@hotmail.com",
+          "type": "personal",
+          "domain": "hotmail.com",
+          "notes": "Personal hotmail"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "10 Thurleson Square\nLondon\nEngland",
+          "street_line1": "10 Thurleson Square",
+          "street_line2": null,
+          "city": "London",
+          "state_province": "England",
+          "postal_code": null,
+          "country": "UK",
+          "notes": "South Kensington area"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [
+          "3rd Flr"
+        ],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_bismarck_debbie_bela_von",
+      "name": {
+        "full_name": "Bismarck, Debbie & Bela Von",
+        "title": null,
+        "first_name": "Debbie & Bela",
+        "last_name": "Von Bismarck",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "0207 589 6907",
+          "type": "home",
+          "label": "h",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "London landline - home",
+          "is_primary": false,
+          "formatting": "0207 589 6907"
+        },
+        {
+          "number": "07970 626 691",
+          "type": "mobile",
+          "label": "cell",
+          "country_code": "+44",
+          "area_code": "07970",
+          "extension": null,
+          "notes": "UK mobile",
+          "is_primary": false,
+          "formatting": "07970 626 691"
+        }
+      ],
+      "emails": [
+        {
+          "address": "bela@bismarck.co.uk",
+          "type": "personal",
+          "domain": "bismarck.co.uk",
+          "notes": "Bismarck domain"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "5 Chelsea Gardens\nLondon, SW3 UK",
+          "street_line1": "5 Chelsea Gardens",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW3",
+          "country": "UK",
+          "notes": "Chelsea - affluent area"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [
+          "cell"
+        ],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_bismark_tessa_von",
+      "name": {
+        "full_name": "Bismark Tessa Von",
+        "title": null,
+        "first_name": "Tessa",
+        "last_name": "Von Bismark",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "74 W81 188 Av",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Unclear format - possibly address",
+          "is_primary": true,
+          "formatting": "74 W81 188 Av"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "New York\n1024-1071",
+          "street_line1": null,
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": "1024-1071",
+          "country": "USA",
+          "notes": "NYC - unclear address format"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_bisson_jean_marc",
+      "name": {
+        "full_name": "Bisson, Jean Marc",
+        "title": null,
+        "first_name": "Jean Marc",
+        "last_name": "Bisson",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "001 917 855 4523",
+          "type": "mobile",
+          "label": "p",
+          "country_code": "+1",
+          "area_code": "917",
+          "extension": null,
+          "notes": "NYC mobile",
+          "is_primary": false,
+          "formatting": "001 917 855 4523"
+        },
+        {
+          "number": "001 212 769 4523",
+          "type": "home",
+          "label": "h",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC home",
+          "is_primary": false,
+          "formatting": "001 212 769 4523"
+        }
+      ],
+      "emails": [
+        {
+          "address": "bisson@mail.com",
+          "type": "personal",
+          "domain": "mail.com",
+          "notes": "Personal email"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_bjorlin_jean_paul",
+      "name": {
+        "full_name": "Bjorlin, Jean Paul",
+        "title": null,
+        "first_name": "Jean Paul",
+        "last_name": "Bjorlin",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [],
+      "emails": [
+        {
+          "address": "j.paul@bjorlin.com",
+          "type": "personal",
+          "domain": "bjorlin.com",
+          "notes": "Personal domain"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "5 Sloan Gardens\nLondon Chester Place\nSW1",
+          "street_line1": "5 Sloan Gardens",
+          "street_line2": "Chester Place",
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW1",
+          "country": "UK",
+          "notes": "Belgravia/Chelsea area"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_212_249_6801",
+      "name": {
+        "full_name": null,
+        "title": null,
+        "first_name": null,
+        "last_name": null,
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "212 249 6801",
+          "type": "other",
+          "label": "Asst Ean Eagen",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC - Assistant Ean Eagen",
+          "is_primary": true,
+          "formatting": "212 249 6801"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [
+          "Asst Ean Eagen"
+        ],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 18,
+    "legibility": "excellent",
+    "notable_features": [
+      "Orphan French mobile at top",
+      "Multiple titled nobility entries (Lord/Lady Beaumont, Baron Bentinck)",
+      "Von Bismarck family entries",
+      "Nicolas Berggruen - notable investor",
+      "Mix of London elite addresses (Chelsea, Sloane Street, Belgravia)",
+      "Orphan assistant number at bottom"
+    ],
+    "extraction_timestamp": "2025-09-29T12:45:17.346585",
+    "extractor_version": "2.0"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Bela Von Bismarck",
+      "Bentinck, Baron",
+      "Bill Berkman",
+      "Debbie Von Bismarck",
+      "Jean Marc Bisson",
+      "Jean Paul Bjorlin",
+      "Lady Beaumont",
+      "Lisa Beizberg",
+      "Lord Beaumont",
+      "Lorenzo Baumer",
+      "Martyn Birchall",
+      "Nicolas Berggruen",
+      "Robin Birley",
+      "Steven Benson",
+      "Tamara Beckwith",
+      "Tara Bernard",
+      "Tessa Von Bismark",
+      "Tim Natasha Batstone"
+    ],
+    "organizations": [
+      "Belzberg Management",
+      "Wayne Park Ltd",
+      "The Arrowhead Group"
+    ],
+    "locations": {
+      "cities": [
+        "London",
+        "New York",
+        "Paris",
+        "Los Angeles",
+        "Somerset"
+      ],
+      "states": [
+        "New York",
+        "California"
+      ],
+      "countries": [
+        "UK",
+        "USA",
+        "France",
+        "Ireland"
+      ]
+    }
+  },
+  "insights": [
+    "Continuation of 'B' section with orphan French mobile from previous page",
+    "Strong presence of British nobility: Lord/Lady Beaumont, Baron Bentinck, Von Bismarck family",
+    "Chelsea/Belgravia concentration: SW1, SW3 postcodes indicating elite London residences",
+    "Sloane Street address (Lord Beaumont) - one of London's most expensive shopping streets",
+    "Nicolas Berggruen - billionaire investor known as 'homeless billionaire'",
+    "Lisa Belzberg with multiple 212/646 NYC numbers - Belzberg Management connection",
+    "Mix of UK/Ireland numbers in Batstone entry (01275 Bristol, 0862 Irish mobile)",
+    "Von Bismarck entries suggest German aristocratic connections in London",
+    "Upper East Side NYC addresses: 10022, 10028, 10128 zip codes",
+    "Somerset estate (Baron Bentinck) - Wayne Park Ltd business",
+    "Robin Birley - likely son of Lady Annabel Goldsmith, London nightclub owner",
+    "Email domains: hotmail.com, aol.com, msn.com (personal), bismarck.co.uk, bjorlin.com (custom domains)",
+    "Assistant reference at bottom (Ean Eagen) suggests continuation to next page",
+    "French connections through Baumer (Paris numbers) and orphan French mobile",
+    "The Arrowhead Group on Madison Avenue - investment/finance connection"
+  ]
+}

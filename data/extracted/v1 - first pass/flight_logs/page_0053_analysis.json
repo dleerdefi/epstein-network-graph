@@ -1,0 +1,294 @@
+{
+  "page_number": 53,
+  "date_header": "FEB 1998",
+  "time_period": "February 1998 - April 1998",
+  "aircraft": {
+    "registration": "Multiple (C172, N15RR, G1159B, C421)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "1",
+      "date": "02/01/1998",
+      "departure": "LNA-BUS",
+      "arrival": "LNA",
+      "flight_time": "",
+      "remarks": "CIRCLECRAT EP GEORGE ITL",
+      "passengers": ["CIRCLECRAT EP GEORGE ITL"],
+      "crew": "5/5"
+    },
+    {
+      "entry_number": "7",
+      "date": "02/07/1998",
+      "departure": "LNA-DR",
+      "arrival": "PBI-LNA",
+      "flight_time": "",
+      "remarks": "CIRCLECRAT DOUG EVE, GISELLE SEABRUN, SPAIN GISCI + 3 HOWARD, GISCI, DIANE",
+      "passengers": ["CIRCLECRAT DOUG EVE", "GISELLE SEABRUN", "SPAIN GISCI", "3 HOWARD", "GISCI", "DIANE"],
+      "crew": "3/3"
+    },
+    {
+      "entry_number": "14",
+      "date": "02/14/1998",
+      "departure": "PBI",
+      "arrival": "SAF",
+      "flight_time": "1075",
+      "remarks": "JE",
+      "passengers": ["JE"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "15",
+      "date": "02/15/1998",
+      "departure": "SAF",
+      "arrival": "LAS",
+      "flight_time": "1076",
+      "remarks": "JE",
+      "passengers": ["JE"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "15",
+      "date": "02/15/1998",
+      "departure": "LAS",
+      "arrival": "VNY",
+      "flight_time": "1077",
+      "remarks": "",
+      "passengers": [],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "16",
+      "date": "02/16/1998",
+      "departure": "VNY",
+      "arrival": "MRY",
+      "flight_time": "1078",
+      "remarks": "JE, BM, ED, JEAN LEY, TANC",
+      "passengers": ["JE", "BM", "ED", "JEAN LEY", "TANC"],
+      "crew": ""
+    },
+    {
+      "entry_number": "21",
+      "date": "02/21/1998",
+      "departure": "MRY",
+      "arrival": "SAF",
+      "flight_time": "1079",
+      "remarks": "JE",
+      "passengers": ["JE"],
+      "crew": ""
+    },
+    {
+      "entry_number": "22",
+      "date": "02/22/1998",
+      "departure": "SAF",
+      "arrival": "TEB",
+      "flight_time": "1080",
+      "remarks": "JE, GM, ET",
+      "passengers": ["JE", "GM", "ET"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "21",
+      "date": "02/21/1998",
+      "departure": "TEB",
+      "arrival": "DCA",
+      "flight_time": "1081",
+      "remarks": "JE, ET, GWENDOLYN BECK",
+      "passengers": ["JE", "ET", "GWENDOLYN BECK"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "21",
+      "date": "02/21/1998",
+      "departure": "DCA",
+      "arrival": "TEB",
+      "flight_time": "1082",
+      "remarks": "JE, GWENDOLYN BECK",
+      "passengers": ["JE", "GWENDOLYN BECK"],
+      "crew": ""
+    },
+    {
+      "entry_number": "26",
+      "date": "02/26/1998",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "1083",
+      "remarks": "JE, GM, ET, AP, CINDI & ELAINE",
+      "passengers": ["JE", "GM", "ET", "AP", "CINDI", "ELAINE"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "MAR 4",
+      "date": "03/04/1998",
+      "departure": "PBI",
+      "arrival": "AVD",
+      "flight_time": "",
+      "remarks": "ALAN B P, AVD, WEE #MADAME BERTHA, SIEBEL #1, GORDON FITZ MAURICE, WILLIAM COD UPT, GORDON FET MAURICE",
+      "passengers": ["ALAN B P", "AVD", "WEE #MADAME BERTHA", "SIEBEL #1", "GORDON FITZ MAURICE", "WILLIAM COD UPT"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "4",
+      "date": "03/04/1998",
+      "departure": "AVD",
+      "arrival": "LOG",
+      "flight_time": "",
+      "remarks": "RAHM GENEVIEVE AERHO, CUIRO B CHILDREN, HELEN SCOTT, IGE FRANK",
+      "passengers": ["RAHM GENEVIEVE AERHO", "CUIRO B CHILDREN", "HELEN SCOTT", "IGE FRANK"],
+      "crew": ""
+    },
+    {
+      "entry_number": "4",
+      "date": "03/04/1998",
+      "departure": "LOG",
+      "arrival": "PBI",
+      "flight_time": "",
+      "remarks": "B KIRAN",
+      "passengers": ["B KIRAN"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "4",
+      "date": "03/04/1998",
+      "departure": "PBI",
+      "arrival": "AVD",
+      "flight_time": "",
+      "remarks": "KAREN VICKMEN, VISE LIVING STORY",
+      "passengers": ["KAREN VICKMEN", "VISE LIVING STORY"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "11",
+      "date": "03/11/1998",
+      "departure": "AVD",
+      "arrival": "PBI",
+      "flight_time": "",
+      "remarks": "KAREN VICKMEN SOLUTIONS, STORY, B FLORENCE, TON'S LIKENESS-FY",
+      "passengers": ["KAREN VICKMEN SOLUTIONS", "STORY", "B FLORENCE", "TON'S LIKENESS-FY"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "12",
+      "date": "03/12/1998",
+      "departure": "PBI",
+      "arrival": "EYW",
+      "flight_time": "",
+      "remarks": "KAREN VICKMEN, VISE LIVING STORY",
+      "passengers": ["KAREN VICKMEN", "VISE LIVING STORY"],
+      "crew": ""
+    },
+    {
+      "entry_number": "12",
+      "date": "03/12/1998",
+      "departure": "EYW",
+      "arrival": "PBI",
+      "flight_time": "",
+      "remarks": "KAREN VICKMEN",
+      "passengers": ["KAREN VICKMEN"],
+      "crew": ""
+    },
+    {
+      "entry_number": "20",
+      "date": "03/20/1998",
+      "departure": "PBI",
+      "arrival": "PBI",
+      "flight_time": "1084",
+      "remarks": "TO1 FLIGHT RETRD GPS1",
+      "passengers": ["TO1 FLIGHT RETRD GPS1"],
+      "crew": "V1"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "GM",
+      "ET",
+      "CIRCLECRAT EP GEORGE ITL",
+      "CIRCLECRAT DOUG EVE",
+      "GISELLE SEABRUN",
+      "SPAIN GISCI",
+      "3 HOWARD",
+      "GISCI",
+      "DIANE",
+      "BM",
+      "ED",
+      "JEAN LEY",
+      "TANC",
+      "GWENDOLYN BECK",
+      "AP",
+      "CINDI",
+      "ELAINE",
+      "ALAN B P",
+      "AVD",
+      "WEE #MADAME BERTHA",
+      "SIEBEL #1",
+      "GORDON FITZ MAURICE",
+      "WILLIAM COD UPT",
+      "RAHM GENEVIEVE AERHO",
+      "CUIRO B CHILDREN",
+      "HELEN SCOTT",
+      "IGE FRANK",
+      "B KIRAN",
+      "KAREN VICKMEN",
+      "B FLORENCE",
+      "TON'S LIKENESS-FY",
+      "TO1 FLIGHT RETRD GPS1",
+      "David Rodgers"
+    ],
+    "locations": [
+      "LNA-BUS",
+      "LNA",
+      "LNA-DR",
+      "PBI-LNA",
+      "PBI",
+      "SAF",
+      "LAS",
+      "VNY",
+      "MRY",
+      "TEB",
+      "DCA",
+      "AVD",
+      "LOG",
+      "EYW"
+    ],
+    "aircraft": [
+      "C172",
+      "N15RR",
+      "G1159B",
+      "N908JE",
+      "C421",
+      "N708GM"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "53",
+    "amount_forward": "11194.2",
+    "total_to_date": "11615",
+    "document_quality": "good",
+    "legibility": "partial - some entries difficult to decipher"
+  },
+  "insights": [
+    "Page spans February 1998 through March 1998 into April",
+    "Multiple aircraft types being utilized simultaneously",
+    "Gwendolyn Beck appears as recurring passenger",
+    "Las Vegas (LAS) and Van Nuys (VNY) California operations",
+    "Key West (EYW) Florida operations continue",
+    "Washington DC (DCA) government-related flights",
+    "Complex coded passenger manifests with numbered identifiers",
+    "International crew configurations (5/5, 3/3)",
+    "Santa Fe (SAF) remains key destination",
+    "Flight numbers exceeding 1084",
+    "Mix of private and business travel patterns"
+  ]
+}

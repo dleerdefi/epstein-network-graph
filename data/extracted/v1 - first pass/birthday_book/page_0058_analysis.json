@@ -1,0 +1,101 @@
+{
+  "page_number": 58,
+  "file_path": "data/birthday_book_images/page_0058.png",
+  "file_size_mb": 0.23015689849853516,
+  "type": "handwritten_narrative",
+  "content": {
+    "text": "Castaways Vol. 1 - I was fucking some girl in Bed & Jeff brings in the Maid to make Bed she left screaming & never came Back. Were Both in Bed porking some girls I said what Do you think, while he's shoving Penicillin Down my throat. I went the whole day without speaking English, Jeff told everybody I was Raised on A Boat in Brazil, when I come out of the Bathroom Brushing my teeth & spit the foam on the floor, Jeff says thats how they Do it in Brazil",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "Castaways Vol. 1 - I was fucking some girl in Bed & Jeff brings in the Maid to make Bed she left screaming & never came Back. Were Both in Bed porking some girls I said what Do you think, while he's shoving Penicillin Down my throat. I went the whole day without speaking English, Jeff told everybody I was Raised on A Boat in Brazil, when I come out of the Bathroom Brushing my teeth & spit the foam on the floor, Jeff says thats how they Do it in Brazil",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeff",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          58
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      "Brazil"
+    ],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Castaways Vol. 1 narrative",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "handwritten_narrative"
+  },
+  "insights": [
+    "Explicit handwritten sexual narrative involving Jeff",
+    "References to maid, Brazil backstory",
+    "Contains sexual content and references to drugs (Penicillin)",
+    "Part of 'Castaways' series",
+    "Black redaction bar visible on right side"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000058",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.147315",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": [
+      "Black redaction bar on right side"
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [],
+  "investigative_leads": []
+}

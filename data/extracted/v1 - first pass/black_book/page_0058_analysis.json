@@ -1,0 +1,664 @@
+{
+  "page_number": 58,
+  "section": "W",
+  "entries": [
+    {
+      "name": "Williams-Ellis, David & Serena",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "2 Wetherby Villas",
+          "street": "2 Wetherby Villas",
+          "city": "London",
+          "postal_code": "England",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 581 5536",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "office",
+          "number": "01766 810221 office",
+          "area_code": "01766",
+          "geographic_indicator": "Wales (Porthmadog area)",
+          "confidence": "high"
+        }
+      ],
+      "notes": "David & Serena Williams-Ellis - Wetherby Villas",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Willis, Rebecca",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Emma",
+          "location": "Emma",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 310 888 8000",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "011 44 27 288 1287",
+          "area_code": "44",
+          "geographic_indicator": "UK",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "011 444 028044 441",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Rebecca Willis",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Address unclear", "One phone unclear"]
+      }
+    },
+    {
+      "name": "Wilmot-Sitwell, Alex & Fi",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "77 Stanley Road",
+          "street": "77 Stanley Road",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 352 0567 (H)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 259 5242 (X)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 349 5151",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Alex & Fi Wilmot-Sitwell - Stanley Road",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Wilson, Carter",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "820 Fifth Ave",
+          "street": "820 Fifth Ave",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York NY 10018",
+          "postal_code": "10018",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 970 0019",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Carter Wilson - 820 Fifth Avenue",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Windisch Gratzl, Marissa",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 88 88 82 8516 (h)",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "00 88 88 82 8515 (O)",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Marissa Windisch Gratzl",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Phone numbers unclear"]
+      }
+    },
+    {
+      "name": "Windsor-Taylor, Tim & Helen",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Ashmount Close",
+          "location": "Ashmount Close",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London W9",
+          "postal_code": "W9",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 328 1344(H)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Tim & Helen Windsor-Taylor - Ashmount Close W9",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Winn, Steve",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 702 873000",
+          "area_code": "702",
+          "geographic_indicator": "Las Vegas, Nevada",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "213 183 171100",
+          "area_code": "213",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Steve Winn - Las Vegas",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Winston, Elizabeth",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "33888 Nassau Avenue",
+          "street": "33888 Nassau Avenue",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "516 703 8800 [illegible]",
+          "area_code": "516",
+          "geographic_indicator": "Long Island NY",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "516 922 8811",
+          "area_code": "516",
+          "geographic_indicator": "Long Island NY",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "winston@aol.com",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Elizabeth Winston - Nassau Avenue",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Address number unclear", "One phone partially illegible"]
+      }
+    },
+    {
+      "name": "Wipple, George",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 947 0020",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "George Wipple",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Wolper Carol",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "235 North Sycamore Ave",
+          "street": "235 North Sycamore Ave",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "LA",
+          "location": "Los Angeles",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "CA 90036 (see 2018H)",
+          "postal_code": "90036",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Email: CarolHolkman@aol.com",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Carol Wolper - North Sycamore Ave LA",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone information incomplete"]
+      }
+    },
+    {
+      "name": "Wong, Andy",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0777 516 8883 (p)",
+          "area_code": "0777",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Email: andy@andywellsman.com",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Andy Wong",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Wong, Theodore",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "List Inc. 146 E 40th",
+          "street": "146 E 40th",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 953 1211 (O)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Email: list4nyrealestate@aol.com",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Theodore Wong - List Inc, East 40th",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Worcester, Marg & Marc of",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Spanes & Tracey)",
+          "location": "Spanes & Tracey",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "Balmoral Castle",
+          "location": "Balmoral Castle",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 581 5540 (H)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0161 224 2890 Fax Cruglen",
+          "area_code": "0161",
+          "geographic_indicator": "Manchester",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01386 241 2690 For Cruglen",
+          "area_code": "01386",
+          "geographic_indicator": "Worcester/Cotswolds",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Marquess & Marchioness of Worcester - Balmoral Castle reference",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["First address unclear"]
+      }
+    },
+    {
+      "name": "Woodall, Trinny",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "4 Royal Walk",
+          "street": "4 Royal Walk",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 101 3333[illegible]",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Trinny Woodall - Royal Walk",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone number partially illegible"]
+      }
+    },
+    {
+      "name": "Wyatt Jim",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 310 359 9200",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Jim Wyatt",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Woods Emily & Carrie",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 941 0700(O)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 924 2889(H)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Emily & Carrie Woods",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Wyatt, Steve & Cate",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "9025 [illegible]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "W02 410 [illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 845 5410 (O)",
+          "area_code": "845",
+          "geographic_indicator": "Hudson Valley NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 202 244 1239",
+          "area_code": "202",
+          "geographic_indicator": "Washington DC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 85 855 0066 [illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "202 363 2916 (L&J)",
+          "area_code": "202",
+          "geographic_indicator": "Washington DC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "253 5337",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Steve & Cate Wyatt - Washington DC connection",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Address illegible", "Multiple phone numbers unclear"]
+      }
+    },
+    {
+      "name": "Woodward, Alexa",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 988 8866",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 458 3210 (h)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 525 556 3389 (p)",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Alexa Woodward",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Woodward, Shaun & Camilla",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "91 Chelsam Road",
+          "street": "91 Chelsam Road",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW [illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 233 2216",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Shaun & Camilla Woodward - Chelsam Road",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Postal code partially illegible"]
+      }
+    },
+    {
+      "name": "Yamani, Mai",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "72 Eaton Square",
+          "street": "72 Eaton Square",
+          "city": "London",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW1",
+          "postal_code": "SW1",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 234 2442 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Mai Yamani - Eaton Square SW1",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 20,
+    "illegible_entries": 0,
+    "partial_entries": 7,
+    "cross_references": ["Multiple Wyatt entries", "Multiple Wood/Woodward entries"],
+    "notable_individuals": [
+      "Steve Winn - Casino magnate, Las Vegas",
+      "Marquess of Worcester - Aristocracy",
+      "Trinny Woodall - TV presenter",
+      "Mai Yamani - Eaton Square"
+    ],
+    "geographic_distribution": {
+      "uk": 9,
+      "usa": 10,
+      "other": 1
+    },
+    "location_highlights": [
+      "820 Fifth Avenue NYC",
+      "Las Vegas casino connection",
+      "Eaton Square SW1 - prime London",
+      "Balmoral Castle reference",
+      "Washington DC connections",
+      "Long Island presence"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 13,
+      "medium_confidence": 5,
+      "low_confidence": 2,
+      "specific_issues": [
+        "Multiple phone numbers illegible",
+        "Several addresses incomplete",
+        "Some contact details unclear"
+      ]
+    }
+  }
+}

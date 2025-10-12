@@ -1,0 +1,251 @@
+{
+  "page_number": 44,
+  "file_path": "data/birthday_book_images/page_0044.png",
+  "file_size_mb": 0.6205244064331055,
+  "type": "newspaper_clipping_page8",
+  "content": {
+    "text": "Page 8 of The Sea Gate Chronicle. Contains continuation of car article mentioning Larry John Streitman's Plumbly '69 AMC Javelin, Barracuda, and other vehicles. Two main articles: 1) 'Near Drowning in Chocolate' by Irwin the Soda Jerk (Fountain Candy Papers) - story about chocolate syrup incident involving Dr. Yeti, Pinya Voo, and saving a teen. 2) 'Near Miss on Belt Pkwy.' by Officer Bits (Sea Gate Police Bulletin) - describes 3 Sea Gate boys in 'Dicky' Freed's white sedan near-accident on Belt Parkway with 'Chevy Belair'. Mentions police patrol, traffic control, and vehicle inspection.",
+    "handwritten": false,
+    "typed": true,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "Page 8 of The Sea Gate Chronicle. Contains continuation of car article mentioning Larry John Streitman's Plumbly '69 AMC Javelin, Barracuda, and other vehicles. Two main articles: 1) 'Near Drowning in Chocolate' by Irwin the Soda Jerk (Fountain Candy Papers) - story about chocolate syrup incident involving Dr. Yeti, Pinya Voo, and saving a teen. 2) 'Near Miss on Belt Pkwy.' by Officer Bits (Sea Gate Police Bulletin) - describes 3 Sea Gate boys in 'Dicky' Freed's white sedan near-accident on Belt Parkway with 'Chevy Belair'. Mentions police patrol, traffic control, and vehicle inspection.",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Larry John Streitman",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          44
+        ]
+      },
+      {
+        "name": "Howie Deiff",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          44
+        ]
+      },
+      {
+        "name": "Warren Eisensteins",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          44
+        ]
+      },
+      {
+        "name": "Lloyd Radler",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          44
+        ]
+      },
+      {
+        "name": "Linda Herald",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          44
+        ]
+      },
+      {
+        "name": "Pitch Karman",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          44
+        ]
+      },
+      {
+        "name": "Warren Eisenstein",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          44
+        ]
+      },
+      {
+        "name": "Mike Bundschuh",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          44
+        ]
+      },
+      {
+        "name": "Tony K",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          44
+        ]
+      },
+      {
+        "name": "Little Warren",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          44
+        ]
+      },
+      {
+        "name": "Officer Bits",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          44
+        ]
+      },
+      {
+        "name": "Dicky Freed",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          44
+        ]
+      },
+      {
+        "name": "Chevy Belair",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          44
+        ]
+      },
+      {
+        "name": "Irwin the Soda Jerk",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          44
+        ]
+      },
+      {
+        "name": "Dr. Yeti",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          44
+        ]
+      }
+    ],
+    "organizations": [
+      "Fountain Candy Papers",
+      "Sea Gate Police Bulletin",
+      "Baby Carriage VW Convertible",
+      "Plumbly '69 AMC Javelin"
+    ],
+    "locations": [
+      "Sea Gate",
+      "Belt Parkway",
+      "Oxy 10",
+      "Sheepshead Bay"
+    ],
+    "dates": [
+      "Friday",
+      "1969"
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "50th birthday commemoration - satirical newspaper page 8",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "newspaper_clipping_page8"
+  },
+  "insights": [
+    "Continuation of car culture article from previous page",
+    "References to local Sea Gate youth and their vehicles",
+    "Police incident report about near-accident on Belt Parkway",
+    "Chocolate syrup drowning incident at soda fountain (satirical)",
+    "Multiple references to local community members and their cars"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000044",
+  "processed_at": "2025-09-23 03:18:00",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.140242",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": [],
+    "layout": "Newspaper page 8 with continuation text and two main articles"
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [],
+  "investigative_leads": []
+}

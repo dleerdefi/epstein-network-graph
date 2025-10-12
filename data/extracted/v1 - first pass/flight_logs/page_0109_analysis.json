@@ -1,0 +1,272 @@
+{
+  "page_number": 109,
+  "date_header": "APR-JUN 2004",
+  "time_period": "April 2004 - June 2004",
+  "aircraft": {
+    "registration": "Multiple (B-727-31B N908JE, G-1159B N909JE)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "APR 29",
+      "date": "04/29/2004",
+      "departure": "B-727-31B",
+      "arrival": "N908JE",
+      "flight_time": "263",
+      "remarks": "PBI - JFK - JE, BT, [REDACTED], TD",
+      "passengers": ["JE", "BT", "REDACTED", "TD"],
+      "crew": "Airplane George Walter 70 LV 2/2"
+    },
+    {
+      "entry_number": "4",
+      "date": "05/04/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "264",
+      "remarks": "JFK - PBI - JE, [REDACTED], SK",
+      "passengers": ["JE", "REDACTED", "SK"],
+      "crew": "LV 2/6"
+    },
+    {
+      "entry_number": "4",
+      "date": "05/04/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "PBI - JFK - JE, SK",
+      "passengers": ["JE", "SK"],
+      "crew": "LV 2/4"
+    },
+    {
+      "entry_number": "5",
+      "date": "05/05/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "266",
+      "remarks": "JFK - LFPB - JE, GM, [REDACTED], SK",
+      "passengers": ["JE", "GM", "REDACTED", "SK"],
+      "crew": "OV 6/7"
+    },
+    {
+      "entry_number": "8",
+      "date": "05/08/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "267",
+      "remarks": "LFPB - ESCW - JE, GM, [REDACTED], GREEN",
+      "passengers": ["JE", "GM", "REDACTED", "GREEN"],
+      "crew": "1/1 4"
+    },
+    {
+      "entry_number": "10",
+      "date": "05/10/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "268",
+      "remarks": "ESCW - LKPR - JE, GM, [REDACTED], SK",
+      "passengers": ["JE", "GM", "REDACTED", "SK"],
+      "crew": "GK 1/0"
+    },
+    {
+      "entry_number": "12",
+      "date": "05/12/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "269",
+      "remarks": "LKPR - LFPB - JE, GM, SK, [REDACTED]",
+      "passengers": ["JE", "GM", "SK", "REDACTED"],
+      "crew": "LV 1/4"
+    },
+    {
+      "entry_number": "14",
+      "date": "05/14/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "270",
+      "remarks": "LFPB - CYRX - JE, [REDACTED], SK",
+      "passengers": ["JE", "REDACTED", "SK"],
+      "crew": "LV 5/8"
+    },
+    {
+      "entry_number": "14",
+      "date": "05/14/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "271",
+      "remarks": "CYRX - PBI - JE, [REDACTED], SK",
+      "passengers": ["JE", "REDACTED", "SK"],
+      "crew": "LV 1/1 4/2"
+    },
+    {
+      "entry_number": "15",
+      "date": "05/15/2004",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1710",
+      "remarks": "PBI - PBI - [unclear]",
+      "passengers": [],
+      "crew": "LV 1/1 1"
+    },
+    {
+      "entry_number": "17",
+      "date": "05/17/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1708",
+      "remarks": "PBI - TEB - JE, BT, [REDACTED], TD",
+      "passengers": ["JE", "BT", "REDACTED", "TD"],
+      "crew": "LV 3/2"
+    },
+    {
+      "entry_number": "21",
+      "date": "05/21/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1709",
+      "remarks": "TEB - PBI - JE, BT, [REDACTED], TD",
+      "passengers": ["JE", "BT", "REDACTED", "TD"],
+      "crew": "LV 2/4"
+    },
+    {
+      "entry_number": "24",
+      "date": "05/24/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1710",
+      "remarks": "PBI - TIST - [unclear]",
+      "passengers": [],
+      "crew": "LV 1/1 2/1"
+    },
+    {
+      "entry_number": "31",
+      "date": "05/31/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1711",
+      "remarks": "TIST - TEB - JE, [REDACTED], TD",
+      "passengers": ["JE", "REDACTED", "TD"],
+      "crew": "LV 1/1 4/2"
+    },
+    {
+      "entry_number": "JUN 3",
+      "date": "06/03/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1712",
+      "remarks": "TEB - HVN - JE, AS, Walter",
+      "passengers": ["JE", "AS", "Walter"],
+      "crew": "LV 5"
+    },
+    {
+      "entry_number": "4",
+      "date": "06/04/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1713",
+      "remarks": "HVN - PBI - JE, BT, AD, [REDACTED], DM",
+      "passengers": ["JE", "BT", "AD", "REDACTED", "DM"],
+      "crew": "LV 2/7"
+    },
+    {
+      "entry_number": "7",
+      "date": "06/07/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1714",
+      "remarks": "PBI - TEB - JE, BT, AD, [REDACTED], TD",
+      "passengers": ["JE", "BT", "AD", "REDACTED", "TD"],
+      "crew": "LV 1/1 2/5"
+    },
+    {
+      "entry_number": "9",
+      "date": "06/09/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1715",
+      "remarks": "TEB - BED - JE, AD, SK",
+      "passengers": ["JE", "AD", "SK"],
+      "crew": "LV 4"
+    },
+    {
+      "entry_number": "9",
+      "date": "06/09/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1716",
+      "remarks": "BED - TEB - JE, AD, SK",
+      "passengers": ["JE", "AD", "SK"],
+      "crew": "LV 0"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "BT",
+      "REDACTED",
+      "TD",
+      "George Walter",
+      "LV",
+      "SK",
+      "GM",
+      "OV",
+      "GREEN",
+      "GK",
+      "AS",
+      "Walter",
+      "AD",
+      "DM",
+      "David Rodgers"
+    ],
+    "locations": [
+      "PBI",
+      "JFK",
+      "LFPB",
+      "ESCW",
+      "LKPR",
+      "CYRX",
+      "TEB",
+      "TIST",
+      "HVN",
+      "BED"
+    ],
+    "aircraft": [
+      "B-727-31B",
+      "N908JE",
+      "G-1159B",
+      "N909JE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "Total to Date: 9471.1 - 9479.8",
+    "amount_forward": "9471.1",
+    "total_to_date": "9479.8",
+    "document_quality": "good",
+    "legibility": "mostly clear with some redactions"
+  },
+  "insights": [
+    "Page covers April-June 2004 transition",
+    "April 2004 entry: 29",
+    "May 2004 entries: 4, 4, 5, 8, 10, 12, 14, 14, 15, 17, 21, 24, 31",
+    "June 2004 entries: 3, 4, 7, 9, 9",
+    "JE (Jeffrey Epstein) appears in nearly every flight",
+    "SK (Sarah Kellen) appears frequently throughout May",
+    "Major European trip in early May (Paris, Spain, Czech Republic)",
+    "LFPB (Paris), ESCW (Spain), LKPR (Prague) destinations",
+    "Multiple REDACTED entries throughout",
+    "Caribbean operations continue (TIST)",
+    "LV (Larry Visoski) appears very frequently as crew",
+    "HVN (New Haven) appears in June",
+    "Mix of domestic, European, and Caribbean operations"
+  ]
+}

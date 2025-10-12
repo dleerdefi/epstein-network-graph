@@ -1,0 +1,191 @@
+{
+  "page_number": 28,
+  "type": "handwritten_letter_seymour_continued",
+  "content": {
+    "text": "My fathers brothers: (1) PHIL - Died of a HEART ATTACK (2) MAX - was a PLUMBER also DIED OF HEART ATTACK (3) MEYER - was a [redacted] He died [redacted] Jeffrey only (1974) NAIL. My father had 1 sister, her name was Minnie RABINOWITZ. I attended PS 161. After I graduated - I went to Hebrew School or CROWN ST Hebrew. My Teachers Name was Mr. Brodken. I was Bar Mitzvahed AT THE AFTER NOON My Teachers Name was Mr. ZWILLING. AFTER GRADUATING Hebrew School I went to ALEXANDER HAMILTON HIGH SCHOOL where I stayed for 3\u00bd years. NEVER GRADUATED - I quit School because I NEVER - I Need School. AFTER I quit School I worked for my FATHER ON WALTON ST - BELOW. I worked for him for about 3 years. EARNING FROM - AFTER WORKING FOR HIM - I joined THE CCC CAMPS. They sent me to Brea, California also stayed FROM - 1939-1940. Then I came HOME to CROWN ST- CAN'T FIND A JOB until I was DRAFTED IN THE U.S. ARMY",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "My fathers brothers: (1) PHIL - Died of a HEART ATTACK (2) MAX - was a PLUMBER also DIED OF HEART ATTACK (3) MEYER - was a [redacted] He died [redacted] Jeffrey only (1974) NAIL. My father had 1 sister, her name was Minnie RABINOWITZ. I attended PS 161. After I graduated - I went to Hebrew School or CROWN ST Hebrew. My Teachers Name was Mr. Brodken. I was Bar Mitzvahed AT THE AFTER NOON My Teachers Name was Mr. ZWILLING. AFTER GRADUATING Hebrew School I went to ALEXANDER HAMILTON HIGH SCHOOL where I stayed for 3\u00bd years. NEVER GRADUATED - I quit School because I NEVER - I Need School. AFTER I quit School I worked for my FATHER ON WALTON ST - BELOW. I worked for him for about 3 years. EARNING FROM - AFTER WORKING FOR HIM - I joined THE CCC CAMPS. They sent me to Brea, California also stayed FROM - 1939-1940. Then I came HOME to CROWN ST- CAN'T FIND A JOB until I was DRAFTED IN THE U.S. ARMY",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Phil",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          28
+        ]
+      },
+      {
+        "name": "Max",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          28
+        ]
+      },
+      {
+        "name": "Meyer",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          28
+        ]
+      },
+      {
+        "name": "Jeffrey",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          28
+        ]
+      },
+      {
+        "name": "Minnie Rabinowitz",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          28
+        ]
+      },
+      {
+        "name": "Mr. Brodken",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          28
+        ]
+      },
+      {
+        "name": "Mr. Zwilling",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          28
+        ]
+      }
+    ],
+    "organizations": [
+      "PS 161",
+      "Crown St Hebrew",
+      "Alexander Hamilton High School",
+      "CCC Camps",
+      "U.S. Army"
+    ],
+    "locations": [
+      "Crown St",
+      "Walton St",
+      "Brea, California"
+    ],
+    "dates": [
+      "1974",
+      "1939-1940"
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Mark (Seymour's brother or Jeffrey's brother)",
+    "recipient": "Jeff (Jeffrey Epstein)",
+    "date": "2003",
+    "subject": "Family history and personal story",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "handwritten_letter_mark"
+  },
+  "relationships": [
+    "Phil - father's brother (died of heart attack)",
+    "Max - father's brother (plumber, died of heart attack)",
+    "Meyer - father's brother (profession redacted)",
+    "Minnie Rabinowitz - father's sister"
+  ],
+  "insights": [
+    "This appears to be from Mark (listed in TOC as family contributor)",
+    "Two redactions about Meyer - sensitive information hidden",
+    "Mentions 'Jeffrey only (1974)' suggesting connection to Jeffrey",
+    "Didn't graduate high school - quit after 3\u00bd years",
+    "Worked for father on Walton St",
+    "Joined CCC (Civilian Conservation Corps) during Depression",
+    "Sent to California 1939-1940",
+    "Drafted into U.S. Army (WWII era)",
+    "Shows working-class Jewish immigrant family story"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000028",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.132850",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": [
+      "Word after 'Meyer - was a' is blacked out",
+      "Text after 'He died' is blacked out"
+    ]
+  },
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "BLACK REDACTIONS specifically about Meyer - sensitive info",
+    "'Jeffrey only (1974)' - cryptic reference needs investigation",
+    "CCC camps 1939-1940 - verifiable government program",
+    "Draft timing matches 1941 Army service mentioned earlier",
+    "Handwriting continues from Seymour's previous pages"
+  ],
+  "investigative_leads": [
+    "Research what was redacted about Meyer",
+    "Investigate 'Jeffrey only (1974) NAIL' meaning",
+    "Verify CCC camp records Brea, California 1939-1940",
+    "Research Minnie Rabinowitz family connection",
+    "Check Alexander Hamilton HS records Brooklyn"
+  ]
+}

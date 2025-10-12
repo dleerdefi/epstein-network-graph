@@ -1,0 +1,728 @@
+{
+  "page_number": 34,
+  "alphabetical_section": "M",
+  "contacts": [
+    {
+      "name": "Macmillan, Dave & Bella",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1 Galena Crescent",
+          "street": "1 Galena Crescent",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London W6",
+          "city": "London",
+          "postal_code": "W6",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 381XX[70] (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 381 600XXX",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Magaziner, Ira C.",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "617 774 0110 (w)",
+          "area_code": "617",
+          "geographic_indicator": "Boston, MA",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "617 227 8550 home",
+          "area_code": "617",
+          "geographic_indicator": "Boston, MA",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "Email: imagaziner@[xxx].com"
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Maguire, Jennifer",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "200 W 86th Street",
+          "street": "200 W 86th Street",
+          "city": "New York",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Apt 10B East, Apt 10B West",
+          "unit": "Apt 10B East, Apt 10B West",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 496 XXXX[h]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "917 838 7420(cell)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 223 5416 (w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 831 6672 [Home Bed]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "215 893 [illegible]",
+          "area_code": "215",
+          "geographic_indicator": "Philadelphia, PA",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Mahler, Giovanni",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 41 21 037004 (Lugano)",
+          "country_code": "41",
+          "area_code": "21",
+          "geographic_indicator": "Lugano, Switzerland",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Mahoney, Sean",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "NY Media",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 508 9700",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 369 3899 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Maidens, Shelly & Tony",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "107 Dowden",
+          "street": "107 Dowden",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Bloomsburg, PA 03067",
+          "city": "Bloomsburg",
+          "state": "PA",
+          "postal_code": "03067",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "212 XXX XXX",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Mailer, Michael",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "89 Old Palton St Apt1",
+          "street": "89 Old Palton St",
+          "unit": "Apt1",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Brooklyn Heights 11201",
+          "city": "Brooklyn Heights",
+          "postal_code": "11201",
+          "geographic_indicator": "Brooklyn, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 718 522 9240",
+          "area_code": "718",
+          "geographic_indicator": "Brooklyn/Queens, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 646 831 3845",
+          "area_code": "646",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "addresses_additional": [
+        {
+          "type": "secondary",
+          "address": "Provincetown, MA Suite",
+          "city": "Provincetown",
+          "state": "MA",
+          "confidence": "medium"
+        },
+        {
+          "type": "address",
+          "address": "New York, NY 10013",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10013",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Mailman Josh",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 358 2162",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Malek, Harry & Didi",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "9 Redeemer Alcove",
+          "street": "9 Redeemer Alcove",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London EC2Y 6DN",
+          "city": "London",
+          "postal_code": "EC2Y 6DN",
+          "geographic_indicator": "City of London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 444 6011 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Malpeso (Mendale) Rachel",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "10 Berners Street",
+          "street": "10 Berners Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "W1P[illegible]",
+          "postal_code": "W1P",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        "Email: rache@yahoo.com"
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Malina, Marjorie",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 29 1 4500XXX (h)",
+          "country_code": "29",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Malkin Shelly & Tony",
+      "notes": "See Maidens, Shelly & Tony",
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Mallinckrodt, Mr Philip",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "4 Cornwall Terrace",
+          "street": "4 Cornwall Terrace",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London NW1",
+          "city": "London",
+          "postal_code": "NW1",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 935 1987 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 262 186 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Manfredini Alessandro",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "117 Walton Street",
+          "street": "117 Walton Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW3, England",
+          "city": "London",
+          "postal_code": "SW3",
+          "country": "England",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 581 XXXX",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Manconi, John",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "26 Pembrook Lane",
+          "street": "26 Pembrook Lane",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Greenwich CT 06831",
+          "city": "Greenwich",
+          "state": "CT",
+          "postal_code": "06831",
+          "geographic_indicator": "Greenwich, Connecticut",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0010 203 531X office fax",
+          "area_code": "203",
+          "geographic_indicator": "Connecticut",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0010 203 531 5 home fax",
+          "area_code": "203",
+          "geographic_indicator": "Connecticut",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0010 203 531 office",
+          "area_code": "203",
+          "geographic_indicator": "Connecticut",
+          "confidence": "medium"
+        }
+      ],
+      "addresses_additional": [
+        {
+          "type": "secondary",
+          "address": "01144 431 543 Victoria Cottage",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Mangona Eddie",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "117 E 57[room]",
+          "street": "117 E 57",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 XXX 5887",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "601 949 xxxx",
+          "area_code": "601",
+          "geographic_indicator": "Mississippi",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "5th floor 517",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Mandelson, Peter",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "68 Hutton Road",
+          "street": "68 Hutton Road",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London W11 2AW",
+          "city": "London",
+          "postal_code": "W11 2AW",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "44 7976 117 35400",
+          "country_code": "44",
+          "area_code": "7976",
+          "geographic_indicator": "UK mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 219 350[0]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        }
+      ],
+      "addresses_additional": [
+        {
+          "type": "secondary",
+          "address": "[Something] Palace Westminister",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "S Parliament",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Peter Mandelson - British politician",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Manners, Eddie",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "99 Lancaster St",
+          "street": "99 Lancaster St",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London W11",
+          "city": "London",
+          "postal_code": "W11",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 383 132000",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 [753] 396960(w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Manners, Miss Lucy",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Lancaster St[111]",
+          "street": "Lancaster St",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London W11 4PR",
+          "city": "London",
+          "postal_code": "W11 4PR",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 303 7870 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 262 0756 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0044 207 603 8068",
+          "country_code": "44",
+          "area_code": "207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0091 437770 XXX",
+          "country_code": "91",
+          "geographic_indicator": "India",
+          "confidence": "medium"
+        }
+      ],
+      "addresses_additional": [
+        {
+          "type": "secondary",
+          "address": "Westminster Gloucester Tower",
+          "confidence": "medium"
+        },
+        {
+          "type": "secondary",
+          "address": "Member of Parliament",
+          "confidence": "medium"
+        },
+        {
+          "type": "secondary",
+          "address": "[illegible] Paddington St WX6A 643A",
+          "postal_code": "WX6A 643A",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "17 PXX[home]",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "01951 170 375 5749 Palace Street",
+          "street": "Palace Street",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "0207 [illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "SW11 4YN home",
+          "postal_code": "SW11 4YN",
+          "confidence": "medium"
+        },
+        {
+          "type": "secondary",
+          "address": "0207 219 4337 (m)",
+          "area_code": "0207",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 19,
+    "quality": "poor",
+    "legibility": "heavily degraded",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "Peter Mandelson - British politician"
+    ]
+  },
+  "insights": [
+    "Peter Mandelson - prominent British Labour politician",
+    "Boston connection (617 area code) with Ira Magaziner",
+    "Switzerland connection (Lugano) with Giovanni Mahler",
+    "Brooklyn Heights presence (718 area code)",
+    "Philadelphia connection (215 area code)",
+    "Mississippi connection (601 area code)",
+    "Greenwich Connecticut recurring presence",
+    "City of London financial district (EC2Y postal code)",
+    "Parliament/Westminster references suggesting political connections",
+    "India connection (0091 country code)"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "medium",
+    "total_contacts": 19,
+    "high_confidence": 11,
+    "medium_confidence": 6,
+    "low_confidence": 2,
+    "extraction_issues": [
+      "Heavy page degradation",
+      "Multiple partially illegible phone numbers",
+      "Several incomplete addresses",
+      "Westminster/Parliament references fragmented"
+    ]
+  }
+}

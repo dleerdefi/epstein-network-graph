@@ -1,0 +1,638 @@
+{
+  "page_number": 31,
+  "alphabetical_section": "K-L",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "031_kirwin_taylor_charlie_helen",
+      "name": {
+        "full_name": "Kirwin Taylor, Charlie & Helen",
+        "prefix": null,
+        "first_name": "Charlie",
+        "middle_name": null,
+        "last_name": "Kirwin Taylor",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Helen"
+      },
+      "phones": [
+        {"type": "home", "number": "01 865 371 1110", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["21 Chloe Square", "London SW3"],
+          "city": "London",
+          "postal_code": "SW3",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": ["0207-581 4680 (w)", "0207-602 8300 (h)"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Chelsea, London"
+    },
+    {
+      "entry_id": "031_kirwin_taylor_peter",
+      "name": {
+        "full_name": "Kirwin Taylor, Peter",
+        "prefix": null,
+        "first_name": "Peter",
+        "middle_name": null,
+        "last_name": "Kirwin Taylor",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 794 4545", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "NYC contact"
+    },
+    {
+      "entry_id": "031_kissinger_dr_henry_a",
+      "name": {
+        "full_name": "Kissinger, Dr. Henry A",
+        "prefix": "Dr",
+        "first_name": "Henry",
+        "middle_name": "A",
+        "last_name": "Kissinger",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "work", "number": "212 759 7919", "formatting": "US format"},
+        {"type": "home", "number": "001 212 759 8818", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "business",
+          "address_lines": ["Kissinger Associates", "350 Park Avenue", "New York, NY 10022"],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10022",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": ["001 202 879 5000"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Former US Secretary of State"
+    },
+    {
+      "entry_id": "031_klee_rupert_charlotte",
+      "name": {
+        "full_name": "Klee, Rupert & Charlotte",
+        "prefix": null,
+        "first_name": "Rupert",
+        "middle_name": null,
+        "last_name": "Klee",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Charlotte"
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 644 1800(h)", "formatting": "International to US"},
+        {"type": "work", "number": "0207-730 1488 (w)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "business",
+          "address_lines": ["59 Grosvenor Place Willow Gardens", "London SW1"],
+          "city": "London",
+          "postal_code": "SW1",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "UK/US connections"
+    },
+    {
+      "entry_id": "031_klesch_johnathan",
+      "name": {
+        "full_name": "Klesch Johnathan",
+        "prefix": null,
+        "first_name": "Johnathan",
+        "middle_name": null,
+        "last_name": "Klesch",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0208 870 2080", "formatting": "UK format"}
+      ],
+      "emails": [
+        {"type": "personal", "email": "johnathan@klesch.co.uk"}
+      ],
+      "addresses": [],
+      "handwritten_notes": ["Email: johnathan@klesch.co.uk"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high"
+      },
+      "formatting_notes": "UK contact"
+    },
+    {
+      "entry_id": "031_koch_david",
+      "name": {
+        "full_name": "Koch, David",
+        "prefix": null,
+        "first_name": "David",
+        "middle_name": null,
+        "last_name": "Koch",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 452 1096 (h)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Koch Industries billionaire"
+    },
+    {
+      "entry_id": "031_kohl_astrid",
+      "name": {
+        "full_name": "Kohl Astrid",
+        "prefix": null,
+        "first_name": "Astrid",
+        "middle_name": null,
+        "last_name": "Kohl",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "00 33 1 4551 8370(h)", "formatting": "International to France"},
+        {"type": "mobile", "number": "00 33 1 4225 9154(w)", "formatting": "International to France"}
+      ],
+      "emails": [
+        {"type": "personal", "email": "astrid@astridkohl.com"}
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["6 rue Moufzabou", "75008 Paris"],
+          "city": "Paris",
+          "postal_code": "75008",
+          "country": "France"
+        }
+      ],
+      "handwritten_notes": ["Email: pariski@club-internet.com", "00 141 617 4440 (w)"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Paris contact"
+    },
+    {
+      "entry_id": "031_kotic_boby",
+      "name": {
+        "full_name": "Kotic Boby",
+        "prefix": null,
+        "first_name": "Boby",
+        "middle_name": null,
+        "last_name": "Kotic",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 310 859 4400", "formatting": "International to US"}
+      ],
+      "emails": [
+        {"type": "business", "email": "rkosta@acolnewark.com"}
+      ],
+      "addresses": [],
+      "handwritten_notes": ["Email: rkosta@acolnewark.com"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high"
+      },
+      "formatting_notes": "LA contact"
+    },
+    {
+      "entry_id": "031_kotze_alex_von",
+      "name": {
+        "full_name": "Kotze, Alex Von",
+        "prefix": null,
+        "first_name": "Alex",
+        "middle_name": "Von",
+        "last_name": "Kotze",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207-376 0398", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["77 Rosedene Gardens", "London SW5"],
+          "city": "London",
+          "postal_code": "SW5",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "UK contact"
+    },
+    {
+      "entry_id": "031_kravetz_anna",
+      "name": {
+        "full_name": "Kravetz, Anna",
+        "prefix": null,
+        "first_name": "Anna",
+        "middle_name": null,
+        "last_name": "Kravetz",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 226 2847(h)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "NYC contact"
+    },
+    {
+      "entry_id": "031_krooth_caryn",
+      "name": {
+        "full_name": "Krooth Caryn",
+        "prefix": null,
+        "first_name": "Caryn",
+        "middle_name": null,
+        "last_name": "Krooth",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 323 882 6328(h)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "LA contact"
+    },
+    {
+      "entry_id": "031_kudrow_alistar",
+      "name": {
+        "full_name": "Kudrow, Alistar",
+        "prefix": null,
+        "first_name": "Alistar",
+        "middle_name": null,
+        "last_name": "Kudrow",
+        "suffix": null,
+        "couple": false
+      },
+      "phones": [
+        {"type": "home", "number": "011 972 050 225400", "formatting": "International to Israel"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Israel contact"
+    },
+    {
+      "entry_id": "031_lal_dalamal",
+      "name": {
+        "full_name": "Lal Dalamal",
+        "prefix": null,
+        "first_name": "Dalamal",
+        "middle_name": null,
+        "last_name": "Lal",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 917 566 7220", "formatting": "International to US"},
+        {"type": "home", "number": "0207-736 6195 (h)", "formatting": "UK format"}
+      ],
+      "emails": [
+        {"type": "personal", "email": "djainlal@aol.com"}
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["3 Hyde Gate", "London SW7"],
+          "city": "London",
+          "postal_code": "SW7",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": ["Email: djainlal@aol.com", "0207 723 0750 (h)", "0207 1898 5716 (w)"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "UK/US connections"
+    },
+    {
+      "entry_id": "031_lalaunis_demetra",
+      "name": {
+        "full_name": "Lalaunis, Demetra",
+        "prefix": null,
+        "first_name": "Demetra",
+        "middle_name": null,
+        "last_name": "Lalaunis",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "00 30 1 426 5306", "formatting": "International to Greece"},
+        {"type": "home", "number": "01 426 5306 (h)", "formatting": "Greek format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["27 Filiko Amicas", "Athens, Greece"],
+          "city": "Athens",
+          "country": "Greece"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Athens - jewelry family"
+    },
+    {
+      "entry_id": "031_lambert_christopher",
+      "name": {
+        "full_name": "Lambert, Christopher",
+        "prefix": null,
+        "first_name": "Christopher",
+        "middle_name": null,
+        "last_name": "Lambert",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 413 298 4346 (h)", "formatting": "International to US"},
+        {"type": "work", "number": "001 212 878 4187 (w)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Actor"
+    },
+    {
+      "entry_id": "031_lambert_david",
+      "name": {
+        "full_name": "Lambert, David",
+        "prefix": null,
+        "first_name": "David",
+        "middle_name": null,
+        "last_name": "Lambert",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "212 794 1610", "formatting": "US format"},
+        {"type": "home", "number": "617 869 7521(h)", "formatting": "US format"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "NYC/Boston contact"
+    },
+    {
+      "entry_id": "031_lambert_edward",
+      "name": {
+        "full_name": "Lambert, Edward",
+        "prefix": null,
+        "first_name": "Edward",
+        "middle_name": null,
+        "last_name": "Lambert",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 203 618 3300", "formatting": "International to US"},
+        {"type": "home", "number": "001 214 199 7898 (Damian)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Greensward", "One Museum Avenue", "Greenwich, Conn 06830"],
+          "city": "Greenwich",
+          "state": "CT",
+          "postal_code": "06830",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Hedge fund billionaire - ESL Partners"
+    },
+    {
+      "entry_id": "031_lambos_duff_john",
+      "name": {
+        "full_name": "Lambos Duff & John",
+        "prefix": null,
+        "first_name": "Duff",
+        "middle_name": null,
+        "last_name": "Lambos",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "John"
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 831 8282(h)", "formatting": "International to US"},
+        {"type": "work", "number": "001 212 737 7060 (w)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["per perfect trio", "(number) 860 522 1818(h)"],
+          "notes": "Address unclear"
+        }
+      ],
+      "handwritten_notes": ["per perfect trio", "(number) 860 522 1818(h)"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "low"
+      },
+      "formatting_notes": "NYC couple"
+    },
+    {
+      "entry_id": "031_lang_caroline",
+      "name": {
+        "full_name": "Lang, Caroline",
+        "prefix": null,
+        "first_name": "Caroline",
+        "middle_name": null,
+        "last_name": "Lang",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 535 0266", "formatting": "International to US"},
+        {"type": "home", "number": "020 7568 2001 Apt 95", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["140 West 8/rd Street", "New York, NY"],
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": ["020 7568 2001 Apt 95", "001 630 333 1408", "00 33 6 7291 7310 (h)"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "NYC/UK connections"
+    },
+    {
+      "entry_id": "031_lange_dieter",
+      "name": {
+        "full_name": "Lange Dieter",
+        "prefix": null,
+        "first_name": "Dieter",
+        "middle_name": null,
+        "last_name": "Lange",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207-372 5030(f)", "formatting": "UK format"},
+        {"type": "home", "number": "0207 379 2990 Office", "formatting": "UK format"}
+      ],
+      "emails": [
+        {"type": "business", "email": "mail@artocean.com"}
+      ],
+      "addresses": [
+        {
+          "type": "business",
+          "address_lines": ["Artocean", "62-64 Kingsland Rd", "Slade Lane"],
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": ["Email: mail@artocean.com", "00 34 93 203858 (land h)"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Art business"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 20,
+    "legibility": "excellent",
+    "page_condition": "good",
+    "notes": "Notable entries include Dr. Henry Kissinger (former Secretary of State), David Koch (billionaire industrialist), Edward Lambert (hedge fund billionaire), Christopher Lambert (actor), and jewelry family connections"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Charlie Kirwin Taylor",
+      "Helen Kirwin Taylor",
+      "Peter Kirwin Taylor",
+      "Dr. Henry A Kissinger",
+      "Rupert Klee",
+      "Charlotte Klee",
+      "Johnathan Klesch",
+      "David Koch",
+      "Astrid Kohl",
+      "Boby Kotic",
+      "Alex Von Kotze",
+      "Anna Kravetz",
+      "Caryn Krooth",
+      "Alistar Kudrow",
+      "Dalamal Lal",
+      "Demetra Lalaunis",
+      "Christopher Lambert",
+      "David Lambert",
+      "Edward Lambert",
+      "Duff Lambos",
+      "John Lambos",
+      "Caroline Lang",
+      "Dieter Lange"
+    ],
+    "organizations": [
+      "Kissinger Associates",
+      "Koch Industries",
+      "ESL Investments",
+      "Artocean"
+    ],
+    "locations": [
+      "New York, NY",
+      "London, UK",
+      "Paris, France",
+      "Los Angeles, CA",
+      "Greenwich, CT",
+      "Athens, Greece",
+      "Israel"
+    ]
+  },
+  "insights": [
+    "Dr. Henry Kissinger - former US Secretary of State and Nobel Peace Prize winner",
+    "David Koch - billionaire industrialist and political donor (Koch Industries)",
+    "Edward Lambert - hedge fund billionaire, founder of ESL Investments",
+    "Christopher Lambert - French-American actor (Highlander)",
+    "Lalaunis jewelry family - famous Greek jewelers",
+    "Greenwich, CT addresses indicating hedge fund/finance elite",
+    "Multiple Paris and London connections",
+    "Mix of political figures, business titans, and entertainment",
+    "Chelsea and Kensington London addresses predominant",
+    "International scope spanning US, UK, France, Greece, Israel"
+  ]
+}

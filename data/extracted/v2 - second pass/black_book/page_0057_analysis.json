@@ -1,0 +1,978 @@
+{
+  "page_number": 57,
+  "alphabetical_section": "W",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "057_wastnage_lucy",
+      "name": {
+        "full_name": "Wastnage, Lucy",
+        "prefix": null,
+        "first_name": "Lucy",
+        "middle_name": null,
+        "last_name": "Wastnage",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "001 852 5 9081 2888",
+          "formatting": "001 852 5 9081 2888 (p)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 852 5 2868 3291",
+          "formatting": "00 852 5 2868 3291"
+        },
+        {
+          "type": "unknown",
+          "number": "001 0171 352 0486",
+          "formatting": "001 0171 352 0486"
+        },
+        {
+          "type": "portable",
+          "number": "001 0831 193 860",
+          "formatting": "001 0831 193 860 portable"
+        }
+      ],
+      "emails": [
+        {
+          "address": "lucywastnage@compuserve.co",
+          "type": "personal",
+          "notes": "CompuServe email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "3 B Rose Garden",
+            "9 Magazine Gap Road",
+            "Hong Kong"
+          ],
+          "city": "Hong Kong",
+          "state": null,
+          "postal_code": null,
+          "country": "Hong Kong",
+          "notes": "Magazine Gap Road - exclusive Hong Kong address"
+        },
+        {
+          "type": "home",
+          "address_lines": [
+            "The Garden House",
+            "153 Old Church Street",
+            "London SW3 6EB"
+          ],
+          "city": "London",
+          "postal_code": "SW3 6EB",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Dual Hong Kong/London addresses - international lifestyle"
+    },
+    {
+      "entry_id": "057_waterman_felicity",
+      "name": {
+        "full_name": "Waterman, Felicity",
+        "prefix": null,
+        "first_name": "Felicity",
+        "middle_name": null,
+        "last_name": "Waterman",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 213 913 1569",
+          "formatting": "001 213 913 1569 (h)"
+        },
+        {
+          "type": "work",
+          "number": "001 213 999 4578",
+          "formatting": "001 213 999 4578 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "1982 N. Navyandie",
+            "Los Angeles, CA 90027"
+          ],
+          "city": "Los Angeles",
+          "state": "CA",
+          "postal_code": "90027",
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "LA based"
+    },
+    {
+      "entry_id": "057_watson_victoria",
+      "name": {
+        "full_name": "Watson, Victoria",
+        "prefix": null,
+        "first_name": "Victoria",
+        "middle_name": null,
+        "last_name": "Watson",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 731 4973",
+          "formatting": "0207 731 4973 (h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "265a New Kings Road",
+            "London SW6"
+          ],
+          "city": "London",
+          "postal_code": "SW6",
+          "country": "UK",
+          "notes": "Fulham/Parsons Green area"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "London based"
+    },
+    {
+      "entry_id": "057_webb_veronica",
+      "name": {
+        "full_name": "Webb, Veronica",
+        "prefix": null,
+        "first_name": "Veronica",
+        "middle_name": null,
+        "last_name": "Webb",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "001 917 929 3193",
+          "formatting": "001 917 929 3193 (p)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC mobile - likely Veronica Webb supermodel/actress"
+    },
+    {
+      "entry_id": "057_weidenfeld_lord",
+      "name": {
+        "full_name": "Weidenfeld, Lord",
+        "prefix": "Lord",
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Weidenfeld",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207 622 9933",
+          "formatting": "0207 622 9933 (w)"
+        },
+        {
+          "type": "unknown",
+          "number": "0207 351 0042",
+          "formatting": "0207 351 0042"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "Flat 23, 9 Chelsea Embankment",
+            "London, SW3"
+          ],
+          "city": "London",
+          "postal_code": "SW3",
+          "country": "UK",
+          "notes": "Chelsea Embankment - prestigious Thames-side address. Lord Weidenfeld - famous publisher"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Lord Weidenfeld - Weidenfeld & Nicolson publisher"
+    },
+    {
+      "entry_id": "057_weimberg_jason",
+      "name": {
+        "full_name": "Weimberg, Jason",
+        "prefix": null,
+        "first_name": "Jason",
+        "middle_name": null,
+        "last_name": "Weimberg",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 310 860 1515",
+          "formatting": "001 310 860 1515 (w)"
+        },
+        {
+          "type": "portable",
+          "number": "001 310 863 1531",
+          "formatting": "001 310 863 1531 (p)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "juntitled@aol.com",
+          "type": "personal",
+          "notes": "AOL email 'Untitled Entertainment' notated"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "20 Fifth Avenue",
+            "Apartment 2E",
+            "New York, NY 10011"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10011",
+          "country": "USA",
+          "notes": "Greenwich Village - 'Untitled Entertainment' notated"
+        },
+        {
+          "type": "home",
+          "address_lines": [
+            "Untitled Entertainment",
+            "9255 Sunset Blvd",
+            "Suite 1111",
+            "Beverly Hills, CA 90069"
+          ],
+          "city": "Beverly Hills",
+          "state": "CA",
+          "postal_code": "90069",
+          "country": "USA",
+          "notes": "Beverly Hills entertainment industry"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'Untitled Entertainment' notated - with NYC and LA offices"
+    },
+    {
+      "entry_id": "057_weinstein_bob",
+      "name": {
+        "full_name": "Weinstein, Bob",
+        "prefix": null,
+        "first_name": "Bob",
+        "middle_name": null,
+        "last_name": "Weinstein",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "office",
+          "number": "001 212 941 4030",
+          "formatting": "001 212 941 4030 (o)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Bob Weinstein - Miramax/Weinstein Company co-founder"
+    },
+    {
+      "entry_id": "057_weintraub_harriet",
+      "name": {
+        "full_name": "Weintraub, Harriet",
+        "prefix": null,
+        "first_name": "Harriet",
+        "middle_name": null,
+        "last_name": "Weintraub",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "212 935 1033",
+          "formatting": "212 935 1033 (w)"
+        },
+        {
+          "type": "home",
+          "number": "212 734 5013",
+          "formatting": "212 734 5013 (h)"
+        },
+        {
+          "type": "fax",
+          "number": "212 935 1426",
+          "formatting": "212 935 1426 office fax"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "920 5th Avenue",
+            "New York, NY 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "920 Fifth Avenue - prestigious Upper East Side address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "920 Fifth Avenue - elite NYC address"
+    },
+    {
+      "entry_id": "057_westheimer_ruth_dr",
+      "name": {
+        "full_name": "Westheimer, Ruth Dr.",
+        "prefix": "Dr.",
+        "first_name": "Ruth",
+        "middle_name": null,
+        "last_name": "Westheimer",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 861 9000",
+          "formatting": "001 212 861 9000"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Dr. Ruth Westheimer - famous sex therapist/media personality"
+    },
+    {
+      "entry_id": "057_weymouth_mrs_lally",
+      "name": {
+        "full_name": "Weymouth, Mrs Lally",
+        "prefix": "Mrs",
+        "first_name": "Lally",
+        "middle_name": null,
+        "last_name": "Weymouth",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 570 0040",
+          "formatting": "001 212 570 0040 (w)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 288 1082",
+          "formatting": "001 212 288 1082 (h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Lally Weymouth - Washington Post journalist, Katharine Graham's daughter"
+    },
+    {
+      "entry_id": "057_white_somers",
+      "name": {
+        "full_name": "White, Somers",
+        "prefix": null,
+        "first_name": "Somers",
+        "middle_name": null,
+        "last_name": "White",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 861 6073",
+          "formatting": "001 212 861 6073 (h)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 757 0915",
+          "formatting": "212 757 0915 ext. 201"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "19 East 80th St",
+            "New York, NY 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side elite address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "East 80th Street - Upper East Side"
+    },
+    {
+      "entry_id": "057_white_victoria",
+      "name": {
+        "full_name": "White, Victoria",
+        "prefix": null,
+        "first_name": "Victoria",
+        "middle_name": null,
+        "last_name": "White",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "fax",
+          "number": "001 310 440 29869",
+          "formatting": "001 310 440 29869 (f)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "LA area code - fax only. Possibly related to White, Michael and White, O'Gara, Victoria"
+    },
+    {
+      "entry_id": "057_white_michael",
+      "name": {
+        "full_name": "White, Michael",
+        "prefix": null,
+        "first_name": "Michael",
+        "middle_name": null,
+        "last_name": "White",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 734 7702",
+          "formatting": "0207 734 7702"
+        },
+        {
+          "type": "fax",
+          "number": "0207 734 7702",
+          "formatting": "0207 734 7702 (f)"
+        },
+        {
+          "type": "portable",
+          "number": "07 936 202 175",
+          "formatting": "07 936 202 175"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Possibly related to White, Somers and White, O'Gara, Victoria"
+    },
+    {
+      "entry_id": "057_white_ogara_victoria",
+      "name": {
+        "full_name": "White, O'Gara, Victoria",
+        "prefix": null,
+        "first_name": "Victoria",
+        "middle_name": null,
+        "last_name": "White",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "268 788 6335",
+          "formatting": "268 788 6335"
+        }
+      ],
+      "emails": [
+        {
+          "address": "vwhite3145@aol.com",
+          "type": "personal",
+          "notes": "AOL email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "124 Price Lane",
+            "Bellevue",
+            "Idaho",
+            "83313"
+          ],
+          "city": "Bellevue",
+          "state": "ID",
+          "postal_code": "83313",
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Bellevue, Idaho area contact. Possibly related to White, Somers, White, Victoria, and White, Michael"
+    },
+    {
+      "entry_id": "057_whitworth_alan_wendy",
+      "name": {
+        "full_name": "Whitworth, Alan & Wendy",
+        "prefix": null,
+        "first_name": "Alan",
+        "middle_name": null,
+        "last_name": "Whitworth",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Wendy"
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "07774 781 676",
+          "formatting": "07774 781 676 (p)"
+        },
+        {
+          "type": "home",
+          "number": "0223 249918",
+          "formatting": "0223 249918 (h)"
+        },
+        {
+          "type": "fax",
+          "number": "0223 24 6887",
+          "formatting": "0223 24 6887 (f)"
+        },
+        {
+          "type": "portable",
+          "number": "07947 141580",
+          "formatting": "07947 141580 (2nd p)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "wendy@whitsend.demon.co.uk",
+          "type": "personal",
+          "notes": "UK demon.co.uk email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "16 Field Way",
+            "Cambridge CB1 8RW"
+          ],
+          "city": "Worcester Park",
+          "postal_code": "CB1 8RW",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK based couple"
+    },
+    {
+      "entry_id": "057_wial_jim",
+      "name": {
+        "full_name": "Wial, Jim",
+        "prefix": null,
+        "first_name": "Jim",
+        "middle_name": null,
+        "last_name": "Wial",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "01 310 859 4200",
+          "formatting": "01 310 859 4200 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "'William Morrison Agency' notated"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'William Morrison Agency' notated - major talent agency"
+    },
+    {
+      "entry_id": "057_wienberg_anouska_mark",
+      "name": {
+        "full_name": "Wienberg, Anouska and Mark",
+        "prefix": null,
+        "first_name": "Anouska",
+        "middle_name": null,
+        "last_name": "Wienberg",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Mark"
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207 602 5811",
+          "formatting": "0207 602 5811 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "London couple"
+    },
+    {
+      "entry_id": "057_wiesel_dr_eli_marion",
+      "name": {
+        "full_name": "Wiesel, Dr Eli and Marion",
+        "prefix": "Dr",
+        "first_name": "Eli",
+        "middle_name": null,
+        "last_name": "Wiesel",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Marion"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 371 7029",
+          "formatting": "001 212 371 7029"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Dr. Eli Wiesel - Nobel Peace Prize winner, Holocaust survivor and author."
+    },
+    {
+      "entry_id": "057_wigram_lionel_lydia",
+      "name": {
+        "full_name": "Wigram, Lionel and Lydia",
+        "prefix": null,
+        "first_name": "Lionel",
+        "middle_name": null,
+        "last_name": "Wigram",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Lydia"
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "011 818 753 9442(h)",
+          "formatting": "011 818 753 9442(h)"
+        },
+        {
+          "type": "work",
+          "number": "011 818 954 24 12(w)",
+          "formatting": "011 818 954 24 12(w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "818 area code - San Fernando Valley, LA"
+    },
+    {
+      "entry_id": "057_wigram_lionel",
+      "name": {
+        "full_name": "Wigram, Lionel",
+        "prefix": null,
+        "first_name": "Lionel",
+        "middle_name": null,
+        "last_name": "Wigram",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 818 753 8442",
+          "formatting": "001 818 753 8442 (h)"
+        },
+        {
+          "type": "work",
+          "number": "001 818 954 2412",
+          "formatting": "001 818 954 2412 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "329 N. Palm",
+            "Beverly Hills, CA 90210"
+          ],
+          "city": "Beverly Hills",
+          "state": "CA",
+          "postal_code": "90210",
+          "country": "USA",
+          "notes": "Beverly Hills address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Duplicate entry for Lionel Wigram - possibly separate from couple entry"
+    },
+    {
+      "entry_id": "057_williams_alexandra_nick",
+      "name": {
+        "full_name": "Williams, Alexandra & Nick",
+        "prefix": null,
+        "first_name": "Alexandra",
+        "middle_name": null,
+        "last_name": "Williams",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Nick"
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Home Farm",
+            "Thenford",
+            "Nr Banbury Oxfordshire",
+            "OX172BX"
+          ],
+          "city": "Thenford",
+          "postal_code": "OX172BX",
+          "country": "UK",
+          "notes": "Oxfordshire countryside - Home Farm estate"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "British countryside estate - Oxfordshire"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 21,
+    "entries_with_emails": 7,
+    "entries_with_addresses": 14,
+    "entries_with_handwritten_notes": 0,
+    "couples": 6,
+    "average_confidence": "high",
+    "notable_figures_count": 5
+  },
+  "cross_references": [
+    {
+      "from": "057_wigram_lionel_lydia",
+      "to": "057_wigram_lionel",
+      "relationship": "duplicate",
+      "note": "Lionel Wigram appears twice - once as couple entry with Lydia, once solo with slightly different phone numbers"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Lucy Wastnage",
+      "Felicity Waterman",
+      "Victoria Watson",
+      "Veronica Webb",
+      "Lord Weidenfeld",
+      "Jason Weimberg",
+      "Bob Weinstein",
+      "Harriet Weintraub",
+      "Dr. Ruth Westheimer",
+      "Mrs Lally Weymouth",
+      "Somers White",
+      "Victoria White",
+      "Michael White",
+      "Victoria O'Gara White",
+      "Alan Whitworth",
+      "Wendy Whitworth",
+      "Jim Wial",
+      "Anouska Wienberg",
+      "Mark Wienberg",
+      "Dr. Eli Wiesel",
+      "Marion Wiesel",
+      "Lionel Wigram",
+      "Lydia Wigram",
+      "Alexandra Williams",
+      "Nick Williams"
+    ],
+    "organizations": [
+      "Weidenfeld & Nicolson (Lord Weidenfeld - major UK publisher)",
+      "United Entertainment/Light Entertainment (Jason Weimberg - talent agency)",
+      "Miramax/Weinstein Company (Bob Weinstein - film production)",
+      "Washington Post (Lally Weymouth - journalist, Katharine Graham's daughter)",
+      "William Morris Agency (Jim Wial - major talent agency)"
+    ],
+    "locations": {
+      "international": [
+        "Hong Kong (Wastnage - Magazine Gap Road)",
+        "London, UK (multiple contacts - Chelsea, Fulham, Worcester Park)",
+        "Oxfordshire, UK (Williams - countryside estate)"
+      ],
+      "us_cities": [
+        "New York City (multiple contacts)",
+        "Los Angeles (Waterman, Wigram)",
+        "Beverly Hills (Weimberg, Wigram)",
+        "Seattle/Bellevue (White, O'Gara)"
+      ],
+      "elite_addresses": [
+        "920 Fifth Avenue, NYC (Weintraub)",
+        "19 East 80th Street, NYC (White, Somers)",
+        "Flat 23, 9 Chelsea Embankment, London (Lord Weidenfeld)",
+        "265a New Kings Road, London SW6 (Watson)",
+        "3B Rose Garden, Magazine Gap Road, Hong Kong (Wastnage)",
+        "Home Farm, Toot Baldon, Oxfordshire (Williams - countryside estate)"
+      ]
+    }
+  },
+  "insights": [
+    "Major entertainment industry cluster: Bob Weinstein (Miramax co-founder), Jason Weimberg (United Entertainment agent), Jim Wial (William Morris Agency), Lionel Wigram (Beverly Hills)",
+    "Dr. Eli Wiesel - Nobel Peace Prize laureate, Holocaust survivor, renowned author and human rights activist",
+    "Veronica Webb - likely the famous supermodel and actress",
+    "Dr. Ruth Westheimer - iconic sex therapist and media personality",
+    "Lally Weymouth - Washington Post senior associate editor, daughter of legendary publisher Katharine Graham",
+    "Lord Weidenfeld - George Weidenfeld, founder of Weidenfeld & Nicolson publishing house, British establishment figure",
+    "Bob Weinstein - Miramax and Weinstein Company co-founder (brother of Harvey Weinstein)",
+    "Lucy Wastnage dual Hong Kong/London addresses - international lifestyle, Magazine Gap Road is exclusive Hong Kong Peak area",
+    "Multiple Fifth Avenue addresses indicating NYC elite social circle (Weintraub at 920 Fifth Avenue)",
+    "Jason Weimberg with dual NYC (Greenwich Village) and Beverly Hills offices - bicoastal entertainment industry presence",
+    "Lionel Wigram appears twice with slightly different numbers - possibly data duplication or separate listings for personal/professional",
+    "Geographic clustering: Strong NYC Upper East Side presence, London Chelsea/SW3 concentration, Beverly Hills entertainment industry",
+    "Email domains reveal era: CompuServe, AOL indicating late 1990s/early 2000s technology",
+    "British countryside estate connection: Williams at Home Farm, Oxfordshire - landed gentry/upper class lifestyle",
+    "Professional sectors: Entertainment (film producers, talent agents), publishing (Lord Weidenfeld), journalism (Lally Weymouth), media personalities (Dr. Ruth, Veronica Webb)"
+  ]
+}

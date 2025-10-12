@@ -1,0 +1,301 @@
+{
+  "page_number": 102,
+  "date_header": "MAY-JUL 2003",
+  "time_period": "May 2003 - July 2003",
+  "aircraft": {
+    "registration": "Multiple (B-727-31W N908JE, G-1159B N909JE)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "MAY 16",
+      "date": "05/16/2003",
+      "departure": "B-727-31W",
+      "arrival": "N908JE",
+      "flight_time": "198",
+      "remarks": "LIRG - LEMO - JE, AM, SK, Prince Salote, Ness, Ray-49",
+      "passengers": ["JE", "AM", "SK", "Prince Salote", "Ness", "Ray-49"],
+      "crew": "Adriana Colitor Wilson 2/0"
+    },
+    {
+      "entry_number": "21",
+      "date": "05/21/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "199",
+      "remarks": "LEMO - JFK - JE, SK, Prince Ness, Ray-49",
+      "passengers": ["JE", "SK", "Prince", "Ness", "Ray-49"],
+      "crew": "7/6"
+    },
+    {
+      "entry_number": "22",
+      "date": "05/22/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "200",
+      "remarks": "JFK - PBI - Marcus, Aiden",
+      "passengers": ["Marcus", "Aiden"],
+      "crew": "1/1 2/6"
+    },
+    {
+      "entry_number": "26",
+      "date": "05/26/2003",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "",
+      "remarks": "PBI - TEB - JE, AM, BT, Juliet",
+      "passengers": ["JE", "AM", "BT", "Juliet"],
+      "crew": "1/1 2/5"
+    },
+    {
+      "entry_number": "30",
+      "date": "05/30/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "TEB - TIST - JE, AM, JX, BT",
+      "passengers": ["JE", "AM", "JX", "BT"],
+      "crew": "4/5"
+    },
+    {
+      "entry_number": "JUN 1",
+      "date": "06/01/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "TIST - TEB - JE, AM, BT",
+      "passengers": ["JE", "AM", "BT"],
+      "crew": "3/8"
+    },
+    {
+      "entry_number": "4",
+      "date": "06/04/2003",
+      "departure": "BHT-40T",
+      "arrival": "N441GM",
+      "flight_time": "",
+      "remarks": "TEST - TEST - JE, AM, SK, Valdecook KLP",
+      "passengers": ["JE", "AM", "SK", "Valdecook KLP"],
+      "crew": ""
+    },
+    {
+      "entry_number": "7",
+      "date": "06/07/2003",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "",
+      "remarks": "TEST - PBI - JE, AM, SK",
+      "passengers": ["JE", "AM", "SK"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "11",
+      "date": "06/11/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1612",
+      "remarks": "PBI - TEB - JE, AM, SK",
+      "passengers": ["JE", "AM", "SK"],
+      "crew": "1/1 2/6"
+    },
+    {
+      "entry_number": "14",
+      "date": "06/14/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1613",
+      "remarks": "TEB - CYUL - JE, Doug Broad, GM",
+      "passengers": ["JE", "Doug Broad", "GM"],
+      "crew": "1/2"
+    },
+    {
+      "entry_number": "14",
+      "date": "06/14/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "CYUL - PBI - JE, Doug Broad, GM",
+      "passengers": ["JE", "Doug Broad", "GM"],
+      "crew": "2/0"
+    },
+    {
+      "entry_number": "17",
+      "date": "06/17/2003",
+      "departure": "B-727-31W",
+      "arrival": "N908JE",
+      "flight_time": "201",
+      "remarks": "PBI - MYNN - JE, AM, NC, SK [B-17 AUG 10]",
+      "passengers": ["JE", "AM", "NC", "SK"],
+      "crew": "8"
+    },
+    {
+      "entry_number": "17",
+      "date": "06/17/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "202",
+      "remarks": "MYNN - JFK - JE, AM, NC, VKG [C-17 AUG 10]",
+      "passengers": ["JE", "AM", "NC", "VKG"],
+      "crew": "2/6"
+    },
+    {
+      "entry_number": "29",
+      "date": "06/29/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "203",
+      "remarks": "TIST - JFK - JG, VG, Matilde",
+      "passengers": ["JG", "VG", "Matilde"],
+      "crew": "Handke 3/8"
+    },
+    {
+      "entry_number": "JUN 30",
+      "date": "06/30/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "207",
+      "remarks": "JFK - PBI - JG, YG, Handke [NO AUG]",
+      "passengers": ["JG", "YG", "Handke"],
+      "crew": "Allison 1/1 2/4"
+    },
+    {
+      "entry_number": "JUL 2",
+      "date": "07/02/2003",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1619",
+      "remarks": "PBI - TEB - JE, AM, SA",
+      "passengers": ["JE", "AM", "SA"],
+      "crew": "1/1 2/6"
+    },
+    {
+      "entry_number": "7",
+      "date": "07/07/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "TEB - PBI - JE, AM, SA",
+      "passengers": ["JE", "AM", "SA"],
+      "crew": "0/0 2/4"
+    },
+    {
+      "entry_number": "11",
+      "date": "07/11/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1617",
+      "remarks": "PBI - TEB - JE, AM, DT, S M, Marcela",
+      "passengers": ["JE", "AM", "DT", "S M", "Marcela"],
+      "crew": "1/1 2/5"
+    },
+    {
+      "entry_number": "14",
+      "date": "07/14/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1618",
+      "remarks": "TEB - [unclear]",
+      "passengers": [],
+      "crew": "1/1 X"
+    },
+    {
+      "entry_number": "14",
+      "date": "07/14/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "[unclear]",
+      "passengers": [],
+      "crew": ""
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "AM",
+      "SK",
+      "Prince Salote",
+      "Ness",
+      "Ray-49",
+      "Adriana Colitor Wilson",
+      "Prince",
+      "Marcus",
+      "Aiden",
+      "BT",
+      "Juliet",
+      "JX",
+      "Valdecook KLP",
+      "Doug Broad",
+      "GM",
+      "NC",
+      "VKG",
+      "JG",
+      "VG",
+      "Matilde",
+      "YG",
+      "Handke",
+      "Allison",
+      "SA",
+      "DT",
+      "S M",
+      "Marcela",
+      "David Rodgers"
+    ],
+    "locations": [
+      "LIRG",
+      "LEMO",
+      "JFK",
+      "PBI",
+      "TEB",
+      "TIST",
+      "TEST",
+      "CYUL",
+      "MYNN"
+    ],
+    "aircraft": [
+      "B-727-31W",
+      "N908JE",
+      "G-1159B",
+      "N909JE",
+      "BHT-40T",
+      "N441GM"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": [
+      "B-17 AUG 10",
+      "C-17 AUG 10",
+      "NO AUG"
+    ]
+  },
+  "metadata": {
+    "page_total": "Total to Date: 9102.15 - 9162.14",
+    "amount_forward": "9102.15",
+    "total_to_date": "9162.14",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page covers May-July 2003 transition",
+    "JE (Jeffrey Epstein) appears frequently throughout all three months",
+    "AM appears very frequently, likely traveling with JE regularly",
+    "SK (Sarah Kellen) appears multiple times in May and June",
+    "Prince Salote mentioned on May 16",
+    "Doug Broad appears on June 14",
+    "Handwritten notes reference August 10 dates (B-17 AUG 10, C-17 AUG 10)",
+    "Caribbean operations continue (TIST, MYNN)",
+    "International flights to LEMO (possibly Morocco)",
+    "Flight numbers reach 207 for B-727 and 1619 for G-1159B",
+    "TEST entries on June 4 and 7 suggest aircraft testing",
+    "July 2003 entries show continued JE and AM travel patterns",
+    "Final five entries are from July 2003 (2, 7, 11, 14, 14)",
+    "Mix of domestic and international operations"
+  ]
+}

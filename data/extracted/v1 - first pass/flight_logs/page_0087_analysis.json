@@ -1,0 +1,296 @@
+{
+  "page_number": 87,
+  "date_header": "OCT-NOV 2001",
+  "time_period": "October 2001 - November 2001",
+  "aircraft": {
+    "registration": "Multiple (C-172R N815SP, B-727-31 N908JE, G-1159B N909JE)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "OCT 8",
+      "date": "10/08/2001",
+      "departure": "C-172R",
+      "arrival": "N815SP",
+      "flight_time": "",
+      "remarks": "LNN - LNN - CHERRY MACKLIN, BEES, STEPHEN KRAS, YONNA ROCK, ANDREW PHELPS, HOWARD GORDON",
+      "passengers": ["CHERRY MACKLIN", "BEES", "STEPHEN KRAS", "YONNA ROCK", "ANDREW PHELPS", "HOWARD GORDON"],
+      "crew": "3/4"
+    },
+    {
+      "entry_number": "18",
+      "date": "10/18/2001",
+      "departure": "",
+      "arrival": "N815SP",
+      "flight_time": "",
+      "remarks": "LNN - PGT - LNN",
+      "passengers": [],
+      "crew": "4/4 1/3"
+    },
+    {
+      "entry_number": "9",
+      "date": "10/09/2001",
+      "departure": "B-727-31",
+      "arrival": "N908JE",
+      "flight_time": "",
+      "remarks": "JAX - LCQ - DY AND PASSENGERS CHRIS",
+      "passengers": ["DY", "AND PASSENGERS", "CHRIS"],
+      "crew": "1/5"
+    },
+    {
+      "entry_number": "10",
+      "date": "10/10/2001",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "24",
+      "remarks": "PBI - TEB - JG, NO PASSENGERS",
+      "passengers": ["JG", "NO PASSENGERS"],
+      "crew": "D/A 2/5"
+    },
+    {
+      "entry_number": "11",
+      "date": "10/11/2001",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1531",
+      "remarks": "PBI - JG, SARAH KELLEN",
+      "passengers": ["JG", "SARAH KELLEN"],
+      "crew": "2/3"
+    },
+    {
+      "entry_number": "15",
+      "date": "10/15/2001",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1526",
+      "remarks": "TEB - FREDDY, ANNE, JENNY POWELL",
+      "passengers": ["FREDDY", "ANNE", "JENNY POWELL"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "17",
+      "date": "10/17/2001",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "",
+      "remarks": "HOP - CLAIRE, BONNIE",
+      "passengers": ["CLAIRE", "BONNIE"],
+      "crew": "2"
+    },
+    {
+      "entry_number": "17",
+      "date": "10/17/2001",
+      "departure": "",
+      "arrival": "BED",
+      "flight_time": "1542",
+      "remarks": "TEB - JG, BONNIE",
+      "passengers": ["JG", "BONNIE"],
+      "crew": "1/0"
+    },
+    {
+      "entry_number": "18",
+      "date": "10/18/2001",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "",
+      "remarks": "TIST - JG, GM, MARK & BENNIA",
+      "passengers": ["JG", "GM", "MARK", "BENNIA"],
+      "crew": "2/3"
+    },
+    {
+      "entry_number": "23",
+      "date": "10/23/2001",
+      "departure": "",
+      "arrival": "TIST",
+      "flight_time": "1541",
+      "remarks": "TEB - JG, GM, AISHA, STEPHANIE, SOPHIA, P MIRA, STEPHEN CROFF, ROSEGOOD KELLY",
+      "passengers": ["JG", "GM", "AISHA", "STEPHANIE", "SOPHIA", "P MIRA", "STEPHEN CROFF", "ROSEGOOD KELLY"],
+      "crew": "4/0"
+    },
+    {
+      "entry_number": "26",
+      "date": "10/26/2001",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1543",
+      "remarks": "PBI - JG, STEPH, LAYA, CRISPA, AMY, ALLISON GORMAN, BRENDA RAO",
+      "passengers": ["JG", "STEPH", "LAYA", "CRISPA", "AMY", "ALLISON GORMAN", "BRENDA RAO"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "30",
+      "date": "10/30/2001",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1546",
+      "remarks": "LCQ - JG, JOHAN RICHARD VILKA",
+      "passengers": ["JG", "JOHAN RICHARD VILKA"],
+      "crew": "1/0"
+    },
+    {
+      "entry_number": "30",
+      "date": "10/30/2001",
+      "departure": "",
+      "arrival": "LCQ",
+      "flight_time": "1547",
+      "remarks": "TEB - JG, SK, JULIE",
+      "passengers": ["JG", "SK", "JULIE"],
+      "crew": "2/0"
+    },
+    {
+      "entry_number": "NOV 5",
+      "date": "11/05/2001",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1548",
+      "remarks": "SAF - JG, GM, SK",
+      "passengers": ["JG", "GM", "SK"],
+      "crew": "4/4"
+    },
+    {
+      "entry_number": "5",
+      "date": "11/05/2001",
+      "departure": "",
+      "arrival": "SAF",
+      "flight_time": "1549",
+      "remarks": "DSC - JG, GM, SK",
+      "passengers": ["JG", "GM", "SK"],
+      "crew": "4"
+    },
+    {
+      "entry_number": "5",
+      "date": "11/05/2001",
+      "departure": "",
+      "arrival": "DSC",
+      "flight_time": "1551",
+      "remarks": "PBI - JG, GM, SK",
+      "passengers": ["JG", "GM", "SK"],
+      "crew": "3/7"
+    },
+    {
+      "entry_number": "6",
+      "date": "11/06/2001",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1552",
+      "remarks": "CMH - JG, SK, BALDO VIVANCO GWENOL",
+      "passengers": ["JG", "SK", "BALDO VIVANCO", "GWENOL"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "6",
+      "date": "11/06/2001",
+      "departure": "",
+      "arrival": "CMH",
+      "flight_time": "1554",
+      "remarks": "TEB - JG, SK",
+      "passengers": ["JG", "SK"],
+      "crew": "1/4"
+    },
+    {
+      "entry_number": "9",
+      "date": "11/09/2001",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1555",
+      "remarks": "LCQ - JG, AY, SK, JULIE",
+      "passengers": ["JG", "AY", "SK", "JULIE"],
+      "crew": "2/2"
+    }
+  ],
+  "entities": {
+    "people": [
+      "CHERRY MACKLIN",
+      "BEES",
+      "STEPHEN KRAS",
+      "YONNA ROCK",
+      "ANDREW PHELPS",
+      "HOWARD GORDON",
+      "DY",
+      "AND PASSENGERS",
+      "CHRIS",
+      "JG",
+      "NO PASSENGERS",
+      "SARAH KELLEN",
+      "FREDDY",
+      "ANNE",
+      "JENNY POWELL",
+      "CLAIRE",
+      "BONNIE",
+      "GM",
+      "MARK",
+      "BENNIA",
+      "AISHA",
+      "STEPHANIE",
+      "SOPHIA",
+      "P MIRA",
+      "STEPHEN CROFF",
+      "ROSEGOOD KELLY",
+      "STEPH",
+      "LAYA",
+      "CRISPA",
+      "AMY",
+      "ALLISON GORMAN",
+      "BRENDA RAO",
+      "JOHAN RICHARD VILKA",
+      "SK",
+      "JULIE",
+      "BALDO VIVANCO",
+      "GWENOL",
+      "AY",
+      "David Rodgers"
+    ],
+    "locations": [
+      "LNN",
+      "PGT",
+      "JAX",
+      "LCQ",
+      "PBI",
+      "TEB",
+      "HOP",
+      "BED",
+      "TIST",
+      "SAF",
+      "DSC",
+      "CMH"
+    ],
+    "aircraft": [
+      "C-172R",
+      "N815SP",
+      "B-727-31",
+      "N908JE",
+      "G-1159B",
+      "N909JE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "18/14",
+    "amount_forward": "8393",
+    "total_to_date": "8494",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page transitions from October to November 2001",
+    "Sarah Kellen appears explicitly on October 11",
+    "SK (Sarah Kellen) appears frequently in November entries",
+    "Multiple aircraft types used including C-172R training aircraft",
+    "Columbus, OH (CMH) operations resume in November",
+    "Santa Fe (SAF) operations continue",
+    "Flight numbers reach 1555",
+    "Caribbean operations to TIST continue",
+    "Mix of domestic operations",
+    "Large group flights with multiple passengers"
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "page_number": 86,
+  "file_path": "data/birthday_book_images/page_0086.png",
+  "file_size_mb": 3.258516311645508,
+  "type": "photo_collage",
+  "content": {
+    "text": "WORK [multiple instances]",
+    "handwritten": false,
+    "typed": true,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "WORK [multiple instances]",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "New York City (skyline visible)"
+    ],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Work and professional life photo collage",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "photo_collage"
+  },
+  "insights": [
+    "Page documents Epstein's professional/work relationships with 'WORK' labels",
+    "Multiple redacted faces suggest sensitive identities or legal concerns",
+    "Mix of formal business settings and social events related to work",
+    "New York City backdrop indicates Wall Street/Manhattan business connections",
+    "Photos span different time periods showing career progression",
+    "Combination of individual portraits and group photos suggests extensive professional network",
+    "Formal attire in all photos indicates high-level business/finance environment"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000086",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.162556",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Multiple professional photographs showing people in business attire",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": null,
+        "era_indicators": [],
+        "photo_quality": null,
+        "photo_type": null
+      },
+      {
+        "description": "Several photos with men in suits and ties",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": null,
+        "era_indicators": [],
+        "photo_quality": null,
+        "photo_type": null
+      },
+      {
+        "description": "Group photos appearing to be from business or social events",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": null,
+        "era_indicators": [],
+        "photo_quality": null,
+        "photo_type": null
+      },
+      {
+        "description": "Photos with New York City skyline/buildings in background",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": null,
+        "era_indicators": [],
+        "photo_quality": null,
+        "photo_type": null
+      },
+      {
+        "description": "Bottom photos show formal events with people in evening wear",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": null,
+        "era_indicators": [],
+        "photo_quality": null,
+        "photo_type": null
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": [
+      "Multiple black squares covering faces in various photographs",
+      "Systematic redaction of certain individuals' identities"
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [],
+  "investigative_leads": []
+}

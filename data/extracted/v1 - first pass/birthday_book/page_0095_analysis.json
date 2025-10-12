@@ -1,0 +1,105 @@
+{
+  "page_number": 95,
+  "file_path": "data/birthday_book_images/page_0095.png",
+  "file_size_mb": 3.4377975463867188,
+  "type": "sheet_music",
+  "content": {
+    "text": "THEY CAN'T TAKE THAT AWAY FROM ME (continued)",
+    "handwritten": false,
+    "typed": true,
+    "mixed": false,
+    "description": "Another page of sheet music for 'They Can't Take That Away From Me'",
+    "text_sections": {
+      "full_transcription": "THEY CAN'T TAKE THAT AWAY FROM ME (continued)",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Musical entertainment content - additional page",
+    "song_title": "They Can't Take That Away From Me",
+    "page_sequence": "Additional page of musical score",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "sheet_music"
+  },
+  "insights": [
+    "Multiple pages of same song suggests extensive musical arrangement",
+    "Continued musical content indicates serious musical collection",
+    "Extended sheet music suggests potential for detailed performance",
+    "Professional musical notation indicates quality resources"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000095",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.167178",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": [],
+    "sheet_music": [
+      {
+        "title": "They Can't Take That Away From Me (additional page)",
+        "sections": 4,
+        "notation_type": "standard_musical_score",
+        "layout": "four_quadrant_arrangement",
+        "continuation": true
+      }
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Continuation of 'They Can't Take That Away From Me' sheet music",
+    "Four sections of musical notation visible",
+    "Standard piano score format with treble and bass clefs",
+    "Professional printed sheet music",
+    "Part of extended multi-page arrangement",
+    "Document stamped HOUSE_OVERSIGHT_000095",
+    "Appears to be page 5 or additional arrangement of same song"
+  ],
+  "investigative_leads": []
+}

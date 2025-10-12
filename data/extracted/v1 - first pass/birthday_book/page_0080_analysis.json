@@ -1,0 +1,393 @@
+{
+  "page_number": 80,
+  "file_path": "data/birthday_book_images/page_0080.png",
+  "file_size_mb": 0.5289268493652344,
+  "type": "yearbook_page",
+  "content": {
+    "text": "Class Officers:\nPresident: Mark Epstein\nVice President: Merrill Serota\nSecretary: Debra Messer\nTreasurer: Barbara Schwartz\n\nMy Favorites:\nName: Charles Roy Abrams\nSchool: Lincoln School\nBorn: Coney Island, NY, Brooklyn\nCollege: New York University\nAmb: Teacher\n\nMy Classmates:\nLeyla Eckman, Susan Fried & Zoe Klein, Barry Morrison, Carol Rosen, Billy Rubin, Ross Stern, Jeffrey Stahl, Caryn Rose, Joan Heyer, Suson Eric, Kenny Rubin, Mitch Schwartz, Donna Steinmetz, Jonna Bierer, Gena & Felicia Baritz\n\nClass Leaders:\nBrightest: Bruce Reynolds-Cullens\nWittiest: Jeffrey Epstein\nMost Popular: Andrea Messer\nMost Optimistic: Warren Shapiro Phil Stan\nBest Athlete: Michael Rapkey-S&P\nBest Looking: (me) Sally Ray\nBest Dressed: Lorne Whale Roy",
+    "handwritten": true,
+    "typed": false,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "Class Officers:\nPresident: Mark Epstein\nVice President: Merrill Serota\nSecretary: Debra Messer\nTreasurer: Barbara Schwartz\n\nMy Favorites:\nName: Charles Roy Abrams\nSchool: Lincoln School\nBorn: Coney Island, NY, Brooklyn\nCollege: New York University\nAmb: Teacher\n\nMy Classmates:\nLeyla Eckman, Susan Fried & Zoe Klein, Barry Morrison, Carol Rosen, Billy Rubin, Ross Stern, Jeffrey Stahl, Caryn Rose, Joan Heyer, Suson Eric, Kenny Rubin, Mitch Schwartz, Donna Steinmetz, Jonna Bierer, Gena & Felicia Baritz\n\nClass Leaders:\nBrightest: Bruce Reynolds-Cullens\nWittiest: Jeffrey Epstein\nMost Popular: Andrea Messer\nMost Optimistic: Warren Shapiro Phil Stan\nBest Athlete: Michael Rapkey-S&P\nBest Looking: (me) Sally Ray\nBest Dressed: Lorne Whale Roy",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Mark Epstein",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Merrill Serota",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Debra Messer",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Barbara Schwartz",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Charles Roy Abrams",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Leyla Eckman",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Susan Fried",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Zoe Klein",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Barry Morrison",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Carol Rosen",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Billy Rubin",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Ross Stern",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Jeffrey Stahl",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Caryn Rose",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Joan Heyer",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Suson Eric",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Kenny Rubin",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Mitch Schwartz",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Donna Steinmetz",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Jonna Bierer",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Gena Baritz",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Felicia Baritz",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Bruce Reynolds-Cullens",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Jeffrey Epstein",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Andrea Messer",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Warren Shapiro",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Phil Stan",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Michael Rapkey",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Sally Ray",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      },
+      {
+        "name": "Lorne Whale Roy",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          80
+        ]
+      }
+    ],
+    "organizations": [
+      "Lincoln School",
+      "New York University"
+    ],
+    "locations": [
+      "Coney Island, NY",
+      "Brooklyn"
+    ],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "School yearbook page",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "yearbook_page"
+  },
+  "insights": [
+    "Yearbook page showing Jeffrey Epstein was voted 'Wittiest' in his class",
+    "Mark Epstein (possibly Jeffrey's brother) was class president",
+    "Contains extensive list of classmates and class superlatives",
+    "References Lincoln School and New York University",
+    "Shows Jeffrey's social standing and recognition among peers"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000080",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.159451",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [],
+  "investigative_leads": []
+}

@@ -1,0 +1,1055 @@
+{
+  "page_number": 4,
+  "alphabetical_section": "B",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "004_0386_556042",
+      "name": {
+        "full_name": null,
+        "title": null,
+        "first_name": null,
+        "last_name": null,
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "0386 556042",
+          "type": "mobile",
+          "label": "p",
+          "country_code": "+39",
+          "area_code": "386",
+          "extension": null,
+          "notes": "Italian mobile - orphan number",
+          "is_primary": true,
+          "formatting": "0386 556042"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "004_balazs_andre",
+      "name": {
+        "full_name": "Balazs, Andre",
+        "title": null,
+        "first_name": "Andre",
+        "last_name": "Balazs",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "212-848-1111",
+          "type": "work",
+          "label": "w",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC work",
+          "is_primary": false,
+          "formatting": "212-848-1111"
+        },
+        {
+          "number": "917-328-0627",
+          "type": "mobile",
+          "label": "p",
+          "country_code": "+1",
+          "area_code": "917",
+          "extension": null,
+          "notes": "NYC mobile",
+          "is_primary": false,
+          "formatting": "917-328-0627"
+        },
+        {
+          "number": "212-308-8177",
+          "type": "other",
+          "label": "",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC",
+          "is_primary": false,
+          "formatting": "212-308-8177"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "business",
+          "label": "",
+          "full_address": "Mercer Hotel (office h)\n147 Mercer Street\nNY, NY 10012",
+          "street_line1": "147 Mercer Street",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": "10012",
+          "country": "USA",
+          "notes": "Mercer Hotel - SoHo"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [
+          "Mercer Hotel (office h)"
+        ],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "004_baldwin_alec",
+      "name": {
+        "full_name": "Baldwin Alec",
+        "title": null,
+        "first_name": "Alec",
+        "last_name": "Baldwin",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "001 212 399 2600",
+          "type": "home",
+          "label": "h",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC home",
+          "is_primary": true,
+          "formatting": "001 212 399 2600"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "004_balliol_college_oxford",
+      "name": {
+        "full_name": "Balliol College, Oxford",
+        "title": null,
+        "first_name": null,
+        "last_name": "Balliol College",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": "Oxford University",
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "0865 277 700",
+          "type": "work",
+          "label": "",
+          "country_code": "+44",
+          "area_code": "0865",
+          "extension": null,
+          "notes": "Oxford landline",
+          "is_primary": true,
+          "formatting": "0865 277 700"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "business",
+          "label": "",
+          "full_address": "Lodge Porter\n0865 277 700",
+          "street_line1": "Lodge Porter",
+          "street_line2": null,
+          "city": "Oxford",
+          "state_province": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Oxford University college"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "004_bamford_georgeallica",
+      "name": {
+        "full_name": "Bamford Georgeallica",
+        "title": null,
+        "first_name": "Georgeallica",
+        "last_name": "Bamford",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "01275 392 100",
+          "type": "home",
+          "label": "h",
+          "country_code": "+44",
+          "area_code": "01275",
+          "extension": null,
+          "notes": "UK landline - Bristol area",
+          "is_primary": false,
+          "formatting": "01275 392 100"
+        },
+        {
+          "number": "01275 392027",
+          "type": "fax",
+          "label": "f",
+          "country_code": "+44",
+          "area_code": "01275",
+          "extension": null,
+          "notes": "UK fax - Bristol area",
+          "is_primary": false,
+          "formatting": "01275 392027"
+        }
+      ],
+      "emails": [
+        {
+          "address": "georgeallica@aol.com",
+          "type": "personal",
+          "domain": "aol.com",
+          "notes": "AOL email service"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "Daylesford House\nDaylesford\nGloucestershire\nGL56 0YG",
+          "street_line1": "Daylesford House",
+          "street_line2": "Daylesford",
+          "city": "Gloucestershire",
+          "state_province": null,
+          "postal_code": "GL56 0YG",
+          "country": "UK",
+          "notes": "Cotswolds estate"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "004_bamford_dr_anthony_and_lady_c",
+      "name": {
+        "full_name": "Bamford Dr Anthony and Lady C",
+        "title": "Dr",
+        "first_name": "Anthony and Lady C",
+        "last_name": "Bamford",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "01608 650 719",
+          "type": "home",
+          "label": "h",
+          "country_code": "+44",
+          "area_code": "01608",
+          "extension": null,
+          "notes": "UK landline - Cotswolds area",
+          "is_primary": false,
+          "formatting": "01608 650 719"
+        },
+        {
+          "number": "01608 650 719",
+          "type": "fax",
+          "label": "hf",
+          "country_code": "+44",
+          "area_code": "01608",
+          "extension": null,
+          "notes": "UK home fax - same as phone",
+          "is_primary": false,
+          "formatting": "01608 650 719"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "004_banda_doug",
+      "name": {
+        "full_name": "Banda, Doug",
+        "title": null,
+        "first_name": "Doug",
+        "last_name": "Banda",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": "Clinton",
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "212-348-4961",
+          "type": "work",
+          "label": "Clinton",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC - Clinton office",
+          "is_primary": false,
+          "formatting": "212-348-4961"
+        },
+        {
+          "number": "646-723-2110",
+          "type": "mobile",
+          "label": "m",
+          "country_code": "+1",
+          "area_code": "646",
+          "extension": null,
+          "notes": "NYC mobile",
+          "is_primary": false,
+          "formatting": "646-723-2110"
+        },
+        {
+          "number": "914-861-9139",
+          "type": "home",
+          "label": "h",
+          "country_code": "+1",
+          "area_code": "914",
+          "extension": null,
+          "notes": "Westchester County, NY",
+          "is_primary": false,
+          "formatting": "914-861-9139"
+        }
+      ],
+      "emails": [
+        {
+          "address": "banda_wjc@msn.com",
+          "type": "business",
+          "domain": "msn.com",
+          "notes": "WJC likely William Jefferson Clinton"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "label": "",
+          "full_address": "55 West 125th St\n13th Floor\nNY, NY 10027",
+          "street_line1": "55 West 125th St",
+          "street_line2": "13th Floor",
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": "10027",
+          "country": "USA",
+          "notes": "Harlem - Clinton office location"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "004_banon_javier",
+      "name": {
+        "full_name": "Banon, Javier",
+        "title": null,
+        "first_name": "Javier",
+        "last_name": "Banon",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "646 418 7041",
+          "type": "mobile",
+          "label": "Direct line p",
+          "country_code": "+1",
+          "area_code": "646",
+          "extension": null,
+          "notes": "NYC mobile - direct line",
+          "is_primary": false,
+          "formatting": "646 418 7041"
+        },
+        {
+          "number": "212 980 9001",
+          "type": "work",
+          "label": "Direct line w",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC work - direct line",
+          "is_primary": false,
+          "formatting": "212 980 9001"
+        },
+        {
+          "number": "212 755 3100",
+          "type": "work",
+          "label": "Board Rm w",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC - board room",
+          "is_primary": false,
+          "formatting": "212 755 3100"
+        },
+        {
+          "number": "212 207 8811",
+          "type": "fax",
+          "label": "Direct line Fax",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC - direct fax",
+          "is_primary": false,
+          "formatting": "212 207 8811"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "business",
+          "label": "",
+          "full_address": "58 East 68th Street\nNY, NY 10021",
+          "street_line1": "58 East 68th Street",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [
+          "Direct line",
+          "Board Rm"
+        ],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "004_barham_nicholas_cristal",
+      "name": {
+        "full_name": "Barham, Nicholas & Cristal",
+        "title": null,
+        "first_name": "Nicholas & Cristal",
+        "last_name": "Barham",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "001 202 530 0054",
+          "type": "home",
+          "label": "Dh Torricet",
+          "country_code": "+1",
+          "area_code": "202",
+          "extension": null,
+          "notes": "Washington DC home",
+          "is_primary": true,
+          "formatting": "001 202 530 0054"
+        }
+      ],
+      "emails": [
+        {
+          "address": "nbarham@earthgeorgico.co",
+          "type": "business",
+          "domain": "earthgeorgico.co",
+          "notes": "Business email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "6 Ash Torricet\nLondon\nSW11Y STY\n89 W 67 St\nNY, NY 10023",
+          "street_line1": "6 Ash Torricet",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW11Y STY",
+          "country": "UK",
+          "notes": "Dual residences - London and NYC"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "004_barnes_peter",
+      "name": {
+        "full_name": "Barnes, Peter",
+        "title": null,
+        "first_name": "Peter",
+        "last_name": "Barnes",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "001 212 821 2330",
+          "type": "home",
+          "label": "h",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC home",
+          "is_primary": true,
+          "formatting": "001 212 821 2330"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "004_barnett_craig",
+      "name": {
+        "full_name": "Barnett, Craig",
+        "title": null,
+        "first_name": "Craig",
+        "last_name": "Barnett",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "001 212 737 2612",
+          "type": "home",
+          "label": "h",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC home",
+          "is_primary": false,
+          "formatting": "001 212 737 2612"
+        },
+        {
+          "number": "001 914 238 1426",
+          "type": "other",
+          "label": "p",
+          "country_code": "+1",
+          "area_code": "914",
+          "extension": null,
+          "notes": "Westchester County, NY",
+          "is_primary": false,
+          "formatting": "001 914 238 1426"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "301 East 66 Street\nNY, NY 10021",
+          "street_line1": "301 East 66 Street",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "004_bastone_hillary",
+      "name": {
+        "full_name": "Bastone, Hillary",
+        "title": null,
+        "first_name": "Hillary",
+        "last_name": "Bastone",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "0207-259 6070",
+          "type": "home",
+          "label": "",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "London landline",
+          "is_primary": true,
+          "formatting": "0207-259 6070"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "004_batstone_hillary",
+      "name": {
+        "full_name": "Batstone Hillary",
+        "title": null,
+        "first_name": "Hillary",
+        "last_name": "Batstone",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "(917) 250 1169",
+          "type": "mobile",
+          "label": "",
+          "country_code": "+1",
+          "area_code": "917",
+          "extension": null,
+          "notes": "NYC mobile",
+          "is_primary": false,
+          "formatting": "(917) 250 1169"
+        },
+        {
+          "number": "31 31 369 4536",
+          "type": "other",
+          "label": "",
+          "country_code": "+31",
+          "area_code": "31",
+          "extension": null,
+          "notes": "Netherlands number",
+          "is_primary": false,
+          "formatting": "31 31 369 4536"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "4 Hobson Way\nTumbridges Wens\nKent TN2 5QN",
+          "street_line1": "4 Hobson Way",
+          "street_line2": "Tumbridges Wens",
+          "city": "Kent",
+          "state_province": null,
+          "postal_code": "TN2 5QN",
+          "country": "UK",
+          "notes": "Kent, England"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "004_scheduled_header",
+      "name": {
+        "full_name": null,
+        "title": null,
+        "first_name": null,
+        "last_name": null,
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "212 261 5436",
+          "type": "work",
+          "label": "Sock bonds to schedule",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC - scheduling note",
+          "is_primary": false,
+          "formatting": "212 261 5436"
+        },
+        {
+          "number": "212 261 0156",
+          "type": "work",
+          "label": "",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC",
+          "is_primary": false,
+          "formatting": "212 261 0156"
+        },
+        {
+          "number": "011 33 1 5359 6540",
+          "type": "other",
+          "label": "Robin Round st",
+          "country_code": "+33",
+          "area_code": "1",
+          "extension": null,
+          "notes": "Paris, France",
+          "is_primary": false,
+          "formatting": "011 33 1 5359 6540"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [
+          "Sock bonds to schedule",
+          "Robin Round st"
+        ],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "004_jaunistica_car",
+      "name": {
+        "full_name": "(Jaun)STICA-87007 Jaunistica Car",
+        "title": null,
+        "first_name": null,
+        "last_name": "Jaunistica Car",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "001 784 456 8217",
+          "type": "other",
+          "label": "Schr Cont",
+          "country_code": "+1",
+          "area_code": "784",
+          "extension": null,
+          "notes": "St. Vincent area code",
+          "is_primary": false,
+          "formatting": "001 784 456 8217"
+        },
+        {
+          "number": "001 784 457 4019",
+          "type": "other",
+          "label": "Suntana",
+          "country_code": "+1",
+          "area_code": "784",
+          "extension": null,
+          "notes": "St. Vincent area code",
+          "is_primary": false,
+          "formatting": "001 784 457 4019"
+        },
+        {
+          "number": "001 305 666 9407",
+          "type": "other",
+          "label": "owner collins",
+          "country_code": "+1",
+          "area_code": "305",
+          "extension": null,
+          "notes": "Miami, Florida",
+          "is_primary": false,
+          "formatting": "001 305 666 9407"
+        },
+        {
+          "number": "200 7200 5011",
+          "type": "work",
+          "label": "wf",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Unclear number format",
+          "is_primary": false,
+          "formatting": "200 7200 5011"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "business",
+          "label": "",
+          "full_address": "Jaunistica Car\nBergia Barbareka\nCanay Islands",
+          "street_line1": "Bergia Barbareka",
+          "street_line2": null,
+          "city": "Canay Islands",
+          "state_province": null,
+          "postal_code": null,
+          "country": "Spain",
+          "notes": "Canary Islands location"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [
+          "Schr Cont",
+          "Suntana",
+          "owner collins"
+        ],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 15,
+    "legibility": "excellent",
+    "notable_features": [
+      "Orphan Italian mobile number at top",
+      "Mix of institutional and personal entries",
+      "Clinton organization connection (Doug Banda)",
+      "Notable figures including Alec Baldwin",
+      "Complex scheduling/car rental entries at bottom"
+    ],
+    "extraction_timestamp": "2025-09-29T12:45:17.342986",
+    "extractor_version": "2.0"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "(Jaun)STICA-87007 Jaunistica Car",
+      "Alec Baldwin",
+      "Andre Balazs",
+      "Anthony and Lady C Bamford",
+      "Balliol College, Oxford",
+      "Craig Barnett",
+      "Cristal Barham",
+      "Doug Banda",
+      "Georgeallica Bamford",
+      "Hillary Bastone",
+      "Hillary Batstone",
+      "Javier Banon",
+      "Nicholas Barham",
+      "Peter Barnes"
+    ],
+    "organizations": [
+      "Balliol College Oxford",
+      "Clinton organization",
+      "Mercer Hotel"
+    ],
+    "locations": {
+      "cities": [
+        "New York",
+        "Oxford",
+        "London",
+        "Gloucestershire",
+        "Washington DC",
+        "Miami",
+        "Kent"
+      ],
+      "states": [
+        "New York",
+        "Florida"
+      ],
+      "countries": [
+        "USA",
+        "UK",
+        "Netherlands",
+        "France",
+        "Spain (Canary Islands)",
+        "St. Vincent"
+      ]
+    }
+  },
+  "insights": [
+    "Page begins 'B' section with orphan Italian mobile number from previous page",
+    "Andre Balazs - hotelier, Mercer Hotel in SoHo",
+    "Alec Baldwin - actor with Manhattan residence",
+    "Balliol College Oxford - institutional entry with porter's lodge number",
+    "Bamford family entries - Daylesford estate in Cotswolds (major UK landowners)",
+    "Doug Banda - Clinton organization connection with Harlem office address",
+    "Multiple UK Cotswolds numbers (01275, 01608) indicating rural elite properties",
+    "Mix of Manhattan area codes: 212 (landline), 646/917 (mobile), 914 (Westchester)",
+    "International presence: Netherlands (31), France (33), Spain/Canary Islands",
+    "Upper East Side concentration (10021, 10027 zip codes)",
+    "Dual residences common - London/NYC, UK/Netherlands patterns",
+    "Clinton office at 55 West 125th St (Harlem) - notable political connection",
+    "St. Vincent (784) numbers suggest Caribbean connections",
+    "Complex car rental/yacht service entries at bottom of page",
+    "Email domains: aol.com, msn.com, earthgeorgico.co showing mix of personal/business"
+  ]
+}

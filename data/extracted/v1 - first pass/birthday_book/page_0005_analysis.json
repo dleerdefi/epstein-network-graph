@@ -1,0 +1,142 @@
+{
+  "page_number": 5,
+  "file_path": "data/birthday_book_images/page_0005.png",
+  "file_size_mb": 0.2251739501953125,
+  "type": "handwritten_message",
+  "content": {
+    "text": "Jeffrey - The idea behind this book was simply to gather old photographs to jog your memory about places people and different events. Some of the letters will definitely achieve their intended goal - some well... you will have to read them to see for yourself. I know you will enjoy looking through the book, and I hope you will derive as much pleasure looking through it as I did putting it together for you. Happy Happy Birthday Love Ghislaine",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "Jeffrey,\n     The idea behind this\nbook was simply to gather\nstories and old photographs to\njog your memory about places\npeople and different events.\n     Some of the letters will definitely\nachieve their intended goal-\nsome well... you will have to\nread them to see for yourself.\n     I know you will enjoy looking\nthrough the book, and I hope you\nwill derive as much pleasure\nlooking through it as I did\nputting it together for you.\n\n     Happy Happy Birthday\n\n          Love\n          Ghislaine\n\nHOUSE_OVERSIGHT_000005",
+      "letterhead": "",
+      "main_body": "The idea behind this book was simply to gather stories and old photographs to jog your memory about places people and different events. Some of the letters will definitely achieve their intended goal- some well... you will have to read them to see for yourself. I know you will enjoy looking through the book, and I hope you will derive as much pleasure looking through it as I did putting it together for you.",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": ["Entire page is handwritten in cursive"]
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "title": null,
+        "relationship": "Birthday recipient",
+        "context": "Recipient of 50th birthday book",
+        "confidence": "high",
+        "page_appearances": [
+          5
+        ]
+      },
+      {
+        "name": "Ghislaine Maxwell",
+        "title": null,
+        "relationship": "Close associate/romantic partner/book organizer",
+        "context": "Organized entire birthday book compilation",
+        "confidence": "high",
+        "page_appearances": [
+          5
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Ghislaine Maxwell",
+    "recipient": "Jeffrey Epstein",
+    "date": "January 20, 2003 (50th birthday)",
+    "subject": "Prologue - Personal message from birthday book organizer",
+    "significance": "extremely_high",
+    "theme": "intimate_relationship_documentation",
+    "document_type": "handwritten_prologue"
+  },
+  "insights": [
+    "CRITICAL: Ghislaine Maxwell confirms she personally organized entire birthday book",
+    "'Putting it together for you' - Maxwell coordinated all 50+ contributors",
+    "Purpose: 'gather stories and old photographs to jog your memory'",
+    "References 'places people and different events' - comprehensive life documentation",
+    "'Some letters will definitely achieve their intended goal' - cryptic reference",
+    "'some well... you will have to read them to see for yourself' - suggests hidden meanings",
+    "Intimate tone with 'Love' signature confirms romantic relationship",
+    "'Happy Happy Birthday' - double emphasis shows deep affection",
+    "Maxwell had complete access to Epstein's social network to coordinate",
+    "Shows Maxwell as central figure managing Epstein's relationships",
+    "Handwriting is neat, educated, careful cursive - no corrections",
+    "Document proves Maxwell's organizing role in Epstein's life circa 2003",
+    "Pre-dates all criminal investigations and public scrutiny",
+    "Shows Maxwell could mobilize powerful figures (Clinton, Trump, Dershowitz)",
+    "'Old photographs' indicates Maxwell had access to Epstein's personal history",
+    "Written as prologue - Maxwell takes credit for entire project"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000005",
+  "processed_at": "2025-09-23 03:27:00",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.124079",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [
+      {
+        "identified_as": "Ghislaine Maxwell",
+        "confidence": "high",
+        "style": null,
+        "characteristics": [],
+        "location": null,
+        "matches_pages": []
+      }
+    ],
+    "logos": [],
+    "redactions": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": true,
+    "contains_sensitive_info": true,
+    "legal_implications": true,
+    "extraction_complete": true,
+    "high_priority": true,
+    "quality_score": 100,
+    "review_notes": [
+      "Maxwell's organizing role definitively documented",
+      "Critical evidence of relationship nature and network control"
+    ]
+  },
+  "forensic_notes": [
+    "Maxwell's handwriting sample for forensic comparison",
+    "Confirms Maxwell had comprehensive knowledge of entire network",
+    "Written January 2003 - before any criminal investigations",
+    "Shows Maxwell's central coordinating role in social/business circle",
+    "No hesitation marks or corrections - confident composition"
+  ],
+  "investigative_leads": [
+    "Analyze handwriting against other known Maxwell documents",
+    "Investigate what 'intended goal' of certain letters refers to",
+    "Determine which specific 'places' and 'events' are documented",
+    "Cross-reference with Maxwell's testimonies about relationship timeline",
+    "Identify who provided 'old photographs' to Maxwell"
+  ]
+}

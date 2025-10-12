@@ -1,0 +1,161 @@
+{
+  "page_number": 14,
+  "type": "properties_showcase",
+  "content": {
+    "text": "from From New York Palm Beach 908 SE 709 SE 5 Floors 20+ Cars And Then You added a room And Now Little St Jeff",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "Handwritten captions:\n\nTop left:\nZorro\n\nMiddle left:\nFrom\nNew York\nPalm Beach\n908 JE\n909 JE\n5 Boats\n20 + Cars\n\nAnd Then You...\nadded a\ntrain\n\nAnd then....\n\nTop right:\nLittle St. Jeff\n\nDocument ID:\nHOUSE_OVERSIGHT_000014",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [
+        "from (top left)",
+        "From New York Palm Beach 908 JE 909 JE 5 Boats 20+ Cars",
+        "And Then You... added a train.",
+        "And then....",
+        "Little St. Jeff (for island photo)"
+      ],
+      "margins": [],
+      "annotations": ["HOUSE_OVERSIGHT_000014"],
+      "handwritten_portions": [
+        "All captions are handwritten"
+      ]
+    }
+  },
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "New York",
+      "Palm Beach",
+      "Little St. James (Little St. Jeff)",
+      "908 SE (address)",
+      "709 SE (address)"
+    ],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": null,
+    "date": null,
+    "subject": "Real estate portfolio expansion",
+    "significance": "high",
+    "theme": null,
+    "document_type": "properties_showcase"
+  },
+  "relationships": [],
+  "insights": [
+    "Completes Brooklyn-to-billionaire narrative arc",
+    "'Little St. Jeff' - nickname for Little St. James island USVI",
+    "Multiple properties listed: New York and Palm Beach",
+    "'908 SE' and '709 SE' likely street addresses in Palm Beach",
+    "'5 Floors' references Manhattan townhouse at 9 E. 71st Street",
+    "'20+ Cars' indicates extensive luxury vehicle collection",
+    "'And Then You... added a room' - humorous understatement",
+    "'And Now....' leads to private island - ultimate status symbol",
+    "Aerial photo shows massive Palm Beach estate with pool",
+    "Island photo shows Little St. James with structures visible",
+    "Interior photos show museum-quality art and furnishings",
+    "Classical statue visible - likely expensive antiquity",
+    "Ornate lamp and period furniture indicate wealth",
+    "Progression: Brooklyn → Manhattan → Palm Beach → Private Island",
+    "Visual conclusion of rags-to-riches narrative"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000014",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.127877",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Aerial view of Palm Beach mansion with pool and grounds",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": "Palm Beach estate property",
+        "era_indicators": ["Luxury estate", "Swimming pool", "Manicured grounds"],
+        "photo_quality": "Professional aerial photograph",
+        "photo_type": "Property documentation"
+      },
+      {
+        "description": "Aerial view of Little St. James island with buildings and beach",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": "Little St. James, US Virgin Islands",
+        "era_indicators": ["Private island", "Multiple structures", "Helipad visible"],
+        "photo_quality": "Clear aerial photograph",
+        "photo_type": "Island property documentation"
+      },
+      {
+        "description": "Interior with bronze/marble classical statue and ornate lamp",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": "Luxury property interior",
+        "era_indicators": ["Classical art", "Museum-quality pieces", "Expensive furnishings"],
+        "photo_quality": "Professional interior photography",
+        "photo_type": "Interior wealth display"
+      },
+      {
+        "description": "Elegant sitting room with period furniture and artwork",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": "Formal living space",
+        "era_indicators": ["Antique furniture", "Classic decor", "High-end interior design"],
+        "photo_quality": "Professional interior photography",
+        "photo_type": "Interior wealth display"
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": true,
+    "high_priority": false,
+    "quality_score": 90,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "'Little St. Jeff' confirms island nickname used by inner circle",
+    "908 SE and 709 SE need verification as Palm Beach addresses",
+    "'5 Floors' matches NYC townhouse at 9 E. 71st Street description",
+    "Interior photos show significant art collection",
+    "Handwriting continues from previous pages - same contributor"
+  ],
+  "investigative_leads": [
+    "Verify 908 SE and 709 SE as Palm Beach properties",
+    "Document car collection mentioned ('20+ Cars')",
+    "Identify classical statue in interior photo",
+    "Research Little St. James purchase date and price",
+    "Track property acquisition timeline",
+    "Identify specific rooms/properties shown in photos"
+  ]
+}

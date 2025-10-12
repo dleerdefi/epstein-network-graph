@@ -1,0 +1,286 @@
+{
+  "page_number": 74,
+  "date_header": "MAY 2000",
+  "time_period": "May 2000",
+  "aircraft": {
+    "registration": "G-V1159B N908JE",
+    "type": "G-V1159B"
+  },
+  "flight_records": [
+    {
+      "entry_number": "8",
+      "date": "05/08/2000",
+      "departure": "G-V1159B",
+      "arrival": "N908JE",
+      "flight_time": "1337",
+      "remarks": "TEB - JE, GM, JEFFREY, KELLY, LISA, MICHELLE, MANDY, PATRICE, MARITZA, STEPHANIE, JOHNNY, KELLY, MONA, DOUGLAS, JAMES, CINDY",
+      "passengers": ["JE", "GM", "JEFFREY", "KELLY", "LISA", "MICHELLE", "MANDY", "PATRICE", "MARITZA", "STEPHANIE", "JOHNNY", "KELLY", "MONA", "DOUGLAS", "JAMES", "CINDY"],
+      "crew": "3/5"
+    },
+    {
+      "entry_number": "13",
+      "date": "05/13/2000",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "",
+      "remarks": "OPF",
+      "passengers": [],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "15",
+      "date": "05/15/2000",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1339",
+      "remarks": "TEB - JE, AY, JEFFREY, ANDREW, LARRY VISOSKI",
+      "passengers": ["JE", "AY", "JEFFREY", "ANDREW", "LARRY VISOSKI"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "16",
+      "date": "05/16/2000",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1340",
+      "remarks": "TIST - JE, S KELLEY, LEWIS",
+      "passengers": ["JE", "S KELLEY", "LEWIS"],
+      "crew": "2/6"
+    },
+    {
+      "entry_number": "21",
+      "date": "05/21/2000",
+      "departure": "",
+      "arrival": "TIST",
+      "flight_time": "1341",
+      "remarks": "TEB - JG, S KELLEY, LEWIS",
+      "passengers": ["JG", "S KELLEY", "LEWIS"],
+      "crew": "4/0"
+    },
+    {
+      "entry_number": "30",
+      "date": "05/30/2000",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1342",
+      "remarks": "MRV - REDACTED",
+      "passengers": ["REDACTED"],
+      "crew": "1/9"
+    },
+    {
+      "entry_number": "31",
+      "date": "05/31/2000",
+      "departure": "",
+      "arrival": "MRV",
+      "flight_time": "1343",
+      "remarks": "TEB - JG, GM",
+      "passengers": ["JG", "GM"],
+      "crew": "1"
+    },
+    {
+      "entry_number": "JUN 1",
+      "date": "06/01/2000",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1344",
+      "remarks": "PBI - JG, GM, STEPHANIE, RONALD",
+      "passengers": ["JG", "GM", "STEPHANIE", "RONALD"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "4",
+      "date": "06/04/2000",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1345",
+      "remarks": "TEB - JG, GM, ET, RONALD",
+      "passengers": ["JG", "GM", "ET", "RONALD"],
+      "crew": "2/9"
+    },
+    {
+      "entry_number": "9",
+      "date": "06/09/2000",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1346",
+      "remarks": "SAF - JG, GM, RONALD",
+      "passengers": ["JG", "GM", "RONALD"],
+      "crew": "3/9"
+    },
+    {
+      "entry_number": "12",
+      "date": "06/12/2000",
+      "departure": "",
+      "arrival": "SAF",
+      "flight_time": "1347",
+      "remarks": "VNY - JG",
+      "passengers": ["JG"],
+      "crew": "1/9"
+    },
+    {
+      "entry_number": "14",
+      "date": "06/14/2000",
+      "departure": "",
+      "arrival": "VNY",
+      "flight_time": "",
+      "remarks": "SFO - JG",
+      "passengers": ["JG"],
+      "crew": "1/3"
+    },
+    {
+      "entry_number": "14",
+      "date": "06/14/2000",
+      "departure": "",
+      "arrival": "SFO",
+      "flight_time": "1349",
+      "remarks": "LAS - JG",
+      "passengers": ["JG"],
+      "crew": "1/2"
+    },
+    {
+      "entry_number": "15",
+      "date": "06/15/2000",
+      "departure": "",
+      "arrival": "LAS",
+      "flight_time": "1350",
+      "remarks": "PHX - JG",
+      "passengers": ["JG"],
+      "crew": "1/2"
+    },
+    {
+      "entry_number": "17",
+      "date": "06/17/2000",
+      "departure": "",
+      "arrival": "PHX",
+      "flight_time": "1351",
+      "remarks": "PBI - JG",
+      "passengers": ["JG"],
+      "crew": "3/9"
+    },
+    {
+      "entry_number": "18",
+      "date": "06/18/2000",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1352",
+      "remarks": "TEB - JG",
+      "passengers": ["JG"],
+      "crew": "2/6"
+    },
+    {
+      "entry_number": "25",
+      "date": "06/25/2000",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1353",
+      "remarks": "TIST - JG, GM, ET, AY, PETER MARINO",
+      "passengers": ["JG", "GM", "ET", "AY", "PETER MARINO"],
+      "crew": "3/7"
+    },
+    {
+      "entry_number": "25",
+      "date": "06/25/2000",
+      "departure": "",
+      "arrival": "TIST",
+      "flight_time": "1354",
+      "remarks": "TEB - CLEANER, TONY, ANDREA, LAURIE, ALEXANDRA, ALEX, ALEXANDRIA, ANGIE, FREDRICO EL 30, CINDY",
+      "passengers": ["CLEANER", "TONY", "ANDREA", "LAURIE", "ALEXANDRA", "ALEX", "ALEXANDRIA", "ANGIE", "FREDRICO EL 30", "CINDY"],
+      "crew": "3/7"
+    },
+    {
+      "entry_number": "25",
+      "date": "06/25/2000",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1355",
+      "remarks": "PBI - REDACTED, PALM",
+      "passengers": ["REDACTED", "PALM"],
+      "crew": "2/4"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "JG",
+      "GM",
+      "ET",
+      "AY",
+      "JEFFREY",
+      "KELLY",
+      "LISA",
+      "MICHELLE",
+      "MANDY",
+      "PATRICE",
+      "MARITZA",
+      "STEPHANIE",
+      "JOHNNY",
+      "MONA",
+      "DOUGLAS",
+      "JAMES",
+      "CINDY",
+      "ANDREW",
+      "LARRY VISOSKI",
+      "S KELLEY",
+      "LEWIS",
+      "RONALD",
+      "PETER MARINO",
+      "CLEANER",
+      "TONY",
+      "ANDREA",
+      "LAURIE",
+      "ALEXANDRA",
+      "ALEX",
+      "ALEXANDRIA",
+      "ANGIE",
+      "FREDRICO EL 30",
+      "PALM",
+      "David Rodgers"
+    ],
+    "locations": [
+      "TEB",
+      "OPF",
+      "PBI",
+      "TIST",
+      "MRV",
+      "SAF",
+      "VNY",
+      "SFO",
+      "LAS",
+      "PHX"
+    ],
+    "aircraft": [
+      "G-V1159B",
+      "N908JE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "14/12",
+    "amount_forward": "17633",
+    "total_to_date": "17818",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page transitions from May 2000 to June 2000",
+    "Large group flight on May 8 with 16 passengers",
+    "Larry Visoski appears as passenger (known pilot)",
+    "S Kelley and Lewis appear together multiple times",
+    "West Coast tour in June (VNY, SFO, LAS, PHX)",
+    "Multiple Caribbean operations to TIST",
+    "REDACTED appears twice in passenger lists",
+    "Flight numbers reach 1355",
+    "Mix of business and leisure travel patterns",
+    "Peter Marino appears as passenger"
+  ]
+}

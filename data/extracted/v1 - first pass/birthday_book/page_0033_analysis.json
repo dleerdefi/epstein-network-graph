@@ -1,0 +1,201 @@
+{
+  "page_number": 33,
+  "file_path": "data/birthday_book_images/page_0033.png",
+  "file_size_mb": 4.151725769042969,
+  "type": "childhood_photos_collage",
+  "content": {
+    "text": "• MAY • 64",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "• MAY • 64",
+      "letterhead": "",
+      "main_body": "",
+      "captions": ["• MAY • 64 (top center between photos)"],
+      "margins": ["HOUSE_OVERSIGHT_000033 (bottom right)"],
+      "annotations": [],
+      "handwritten_portions": ["Date notation between photos"]
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "[Boy with accordion]",
+        "description": "Young boy approximately 10-11 years old",
+        "context": "Playing accordion in home setting",
+        "confidence": "high"
+      },
+      {
+        "name": "[Adult in top photo]",
+        "description": "Adult male with two young people",
+        "context": "Family/guardian figure",
+        "confidence": "medium"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      {
+        "type": "Residential setting",
+        "description": "Home interior and exterior locations",
+        "confidence": "high"
+      }
+    ],
+    "dates": [
+      {
+        "date": "May 1964",
+        "written_as": "• MAY • 64",
+        "context": "Date photos were taken",
+        "confidence": "high"
+      }
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": "May 1964",
+    "subject": "Childhood photos from 1964",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "childhood_photos_collage"
+  },
+  "insights": [
+    "Photos dated May 1964 showing childhood/youth period",
+    "Accordion playing demonstrates early musical education/interest",
+    "Pearl/white accordion suggests investment in quality instrument",
+    "Home interior shows middle-class domestic setting",
+    "Two photos from same period but different contexts (indoor/outdoor)",
+    "Top photo shows family/group dynamic with adult supervision",
+    "Brick building and vegetation suggest urban/suburban residential area",
+    "Photos preserved and contributed to birthday collection",
+    "Handwritten date notation suggests personal organization",
+    "Both photos appear to be from same time period (May 1964)",
+    "Accordion photo staged as performance/portrait",
+    "Clothing and decor consistent with mid-1960s America"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000033",
+  "processed_at": "2025-09-23 02:15:32",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.135068",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Top photo: Three people outdoors against brick wall with foliage",
+        "individual_count": 3,
+        "position_map": {
+          "person_1": "Left - young person in light shirt and light pants",
+          "person_2": "Center - young person in white/light clothing",
+          "person_3": "Right - adult in white shirt and dark pants"
+        },
+        "individuals_identified": [
+          {
+            "position": "left",
+            "description": "Young person, approximately 10-12 years old, light colored shirt, light pants",
+            "posture": "Standing casually"
+          },
+          {
+            "position": "center",
+            "description": "Young person, similar age, white/light clothing",
+            "posture": "Standing between others"
+          },
+          {
+            "position": "right",
+            "description": "Adult male, white shirt, dark pants, taller than children",
+            "posture": "Standing with children"
+          }
+        ],
+        "setting": "Outdoor, residential area with brick wall and climbing vegetation",
+        "era_indicators": [
+          "1960s clothing styles",
+          "Vintage photo coloring (sepia/faded)",
+          "Square format typical of era"
+        ],
+        "photo_quality": "Faded but clear, vintage appearance",
+        "photo_type": "Casual family snapshot"
+      },
+      {
+        "description": "Bottom photo: Young boy playing accordion in domestic interior",
+        "individual_count": 1,
+        "position_map": {
+          "person_1": "Center - boy with accordion"
+        },
+        "individuals_identified": [
+          {
+            "position": "center",
+            "description": "Young boy, approximately 10-11 years old, dark hair, playing white/pearl accordion",
+            "clothing": "Dark clothing",
+            "activity": "Playing/holding accordion"
+          }
+        ],
+        "setting": "Home interior with patterned curtains, console/cabinet, chair visible",
+        "era_indicators": [
+          "1960s home decor (patterned curtains)",
+          "Vintage furniture style",
+          "Mid-century interior design",
+          "Black and white photo format"
+        ],
+        "photo_quality": "Good quality black and white photograph",
+        "photo_type": "Indoor portrait/activity photo"
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": ["• MAY • 64"],
+    "characteristics": [
+      "Printed capitals",
+      "Decorative dots/bullets between elements",
+      "Neat, deliberate writing",
+      "Black or dark blue ink"
+    ],
+    "matches": [],
+    "expert_notes": [
+      "Different handwriting style from other pages examined",
+      "Appears to be photo album notation style"
+    ]
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Two vintage photographs mounted on album page",
+    "Top photo: color/sepia toned, faded with age",
+    "Bottom photo: black and white, better preserved",
+    "Photos appear to be original prints from 1964",
+    "Handwritten date between photos in pen",
+    "Mounting suggests part of organized album/collection",
+    "Document stamped HOUSE_OVERSIGHT_000033"
+  ],
+  "investigative_leads": [
+    "Identity of boy with accordion",
+    "Identity of adult in top photo (possible parent/guardian)",
+    "Location of brick building in top photo",
+    "Significance of May 1964 date",
+    "Source of these childhood photos",
+    "Connection to birthday album compilation"
+  ]
+}

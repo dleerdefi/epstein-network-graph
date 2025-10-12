@@ -1,0 +1,666 @@
+{
+  "page_number": 35,
+  "alphabetical_section": "M",
+  "contacts": [
+    {
+      "name": "Manners, Teresa",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "26 Bircheiner St",
+          "street": "26 Bircheiner St",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW10",
+          "city": "London",
+          "postal_code": "SW10",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 795 1346",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 402 XXX",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Manzano, Jose Luis & Alejandra",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "93 Rue de[illegible]",
+          "street": "93 Rue de",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Paris 75116[h]",
+          "city": "Paris",
+          "postal_code": "75116",
+          "country": "France",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 904 4627137",
+          "area_code": "904",
+          "geographic_indicator": "Jacksonville, FL",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 34 915 2XXXX ex",
+          "country_code": "34",
+          "area_code": "915",
+          "geographic_indicator": "Madrid, Spain",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Mappin, John",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "26 Remington",
+          "street": "26 Remington",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW5",
+          "city": "London",
+          "postal_code": "SW5",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "970 949 068 547260",
+          "area_code": "970",
+          "geographic_indicator": "Colorado",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001637[illegible]",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Margolis, Eric",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "27 Flatiron Avenue",
+          "street": "27 Flatiron Avenue",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Toronto LXNN New West # (h)",
+          "city": "Toronto",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "#14000",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "416 989 988[9900] NYC 1-9",
+          "area_code": "416",
+          "geographic_indicator": "Toronto, Canada",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "416 960 0XX77 (m)",
+          "area_code": "416",
+          "geographic_indicator": "Toronto, Canada",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        "emargolis@foreigncorespon[dent].co"
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "416 929 8839 3/6",
+          "area_code": "416",
+          "geographic_indicator": "Toronto, Canada",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "416 960 0831 941",
+          "area_code": "416",
+          "geographic_indicator": "Toronto, Canada",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Marks, Stephen & Alisa",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "73 The Bishops Avenue",
+          "street": "73 The Bishops Avenue",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London N2[illegible]",
+          "city": "London",
+          "postal_code": "N2",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "+44 207 XXX 12401 UK",
+          "country_code": "44",
+          "area_code": "207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "+44 207 458 4319 (m)",
+          "country_code": "44",
+          "area_code": "207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "addresses_additional": [
+        {
+          "type": "secondary",
+          "address": "8 French & [illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "Whinchel Street",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "112 [illegible] CA 91XX",
+          "state": "CA",
+          "postal_code": "91XX",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "+44 207 355 1683 [w]",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Couple entry, The Bishops Avenue (millionaire's row)",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Marcco, Manilo & Pia",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "37 Elco[d]",
+          "street": "37 Elco",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London Town Gate",
+          "city": "London",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 937 0X00[11]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 475500[cley.co.uk]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "020 XXX [XXXX]",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0201 348 6499 (ch)",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Masek, Jeremy",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "World Building 30 Free Ad Int's",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Prospect Hotel",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "7104 292 6900xxx",
+          "area_code": "710",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "7104 292 881[h]",
+          "area_code": "710",
+          "confidence": "low"
+        }
+      ],
+      "emails": [
+        "[illegible]@adviser.co.in"
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Massimo Parisi",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "88 St Georges Square",
+          "street": "88 St Georges Square",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW1V 3QY",
+          "city": "London",
+          "postal_code": "SW1V 3QY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01156 911 5601",
+          "area_code": "01156",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "01156 911 3885 6684[h]",
+          "area_code": "01156",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 935 8080 (w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 592 6529 [cell]",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "massimo@[illegible].com"
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Mattesson, Carolina",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Quai[8]Avenue II",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Geneva 1207 Switzerland",
+          "city": "Geneva",
+          "postal_code": "1207",
+          "country": "Switzerland",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "011 41 2118 1653 (w)",
+          "country_code": "41",
+          "area_code": "21",
+          "geographic_indicator": "Switzerland",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "011 41 2118 1664 (h)",
+          "country_code": "41",
+          "area_code": "21",
+          "geographic_indicator": "Switzerland",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "011 41 2118 163 Car-key",
+          "country_code": "41",
+          "area_code": "21",
+          "geographic_indicator": "Switzerland",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        "carolina-m@[illegible].ch"
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Marterfer Astrid",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "100 Van Wyck",
+          "street": "100 Van Wyck",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Rye NY, 10580",
+          "city": "Rye",
+          "state": "NY",
+          "postal_code": "10580",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 914 921 7201XX0",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 914 935 560 (m)",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Martins Peter",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "NYC Ballet",
+          "organization": "NYC Ballet",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 870 5656",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "NYC Ballet",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Marzotto, Matteo",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "10 Via Belfage",
+          "street": "10 Via Belfage",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "39 02 62486 551",
+          "country_code": "39",
+          "area_code": "02",
+          "geographic_indicator": "Milan, Italy",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "39 02 62694 201 (h)",
+          "country_code": "39",
+          "area_code": "02",
+          "geographic_indicator": "Milan, Italy",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Mason, Christopher",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "200 East 94th St",
+          "street": "200 East 94th St",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York, NY 10128",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10128",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 876 5680(h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 876 008520",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Mavroleon Caitlin",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 6022699",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0044 7714 2116",
+          "country_code": "44",
+          "area_code": "7714",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Mavroleon, Basil & Carrie",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 322 0053 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207245 6587 London",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Mavroleon, Carlos",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "120 Riverside Bl",
+          "street": "120 Riverside Bl",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "NYC NY 10027",
+          "city": "NYC",
+          "state": "NY",
+          "postal_code": "10027",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 17,
+    "quality": "poor",
+    "legibility": "heavily degraded",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "Peter Martins - NYC Ballet",
+      "Stephen Marks - The Bishops Avenue resident"
+    ]
+  },
+  "insights": [
+    "Peter Martins - NYC Ballet director/choreographer",
+    "The Bishops Avenue address (London's millionaire's row)",
+    "Strong Toronto presence (416 area code)",
+    "Jacksonville, Florida connection (904)",
+    "Madrid, Spain connection (+34 915)",
+    "Geneva, Switzerland presence",
+    "Milan, Italy connection (39 02)",
+    "Colorado connection (970 area code)",
+    "Westchester County NY continuing presence",
+    "International mix of Europe and North America contacts"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "medium",
+    "total_contacts": 17,
+    "high_confidence": 8,
+    "medium_confidence": 6,
+    "low_confidence": 3,
+    "extraction_issues": [
+      "Heavy page degradation",
+      "Multiple illegible sections",
+      "Several incomplete phone numbers",
+      "Addresses partially obscured"
+    ]
+  }
+}

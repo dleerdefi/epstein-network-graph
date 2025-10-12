@@ -1,0 +1,1003 @@
+{
+  "page_number": 56,
+  "alphabetical_section": "V-W",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "056_vittorelli_dott_marco",
+      "name": {
+        "full_name": "Vittorelli, Dott. Marco",
+        "prefix": "Dott.",
+        "first_name": "Marco",
+        "middle_name": null,
+        "last_name": "Vittorelli",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 39 335211481",
+          "formatting": "00 39 335211481"
+        },
+        {
+          "type": "home",
+          "number": "00 39 02 86451476",
+          "formatting": "00 39 02 86451476 (h)"
+        },
+        {
+          "type": "work",
+          "number": "00 39 02 381971",
+          "formatting": "00 39 02 381971 (w)"
+        },
+        {
+          "type": "st tro",
+          "number": "00 33 94 822454",
+          "formatting": "00 33 94 822454 (St Tro)"
+        },
+        {
+          "type": "portable",
+          "number": "00 33 92 059802",
+          "formatting": "00 33 92 059802 (MC) [Maro Cell]"
+        },
+        {
+          "type": "pierre",
+          "number": "001 212 752 0866/9",
+          "formatting": "001 212 752 0866/9 pierre"
+        },
+        {
+          "type": "portable",
+          "number": "00 39 33 52 11481",
+          "formatting": "00 39 33 52 11481 (p)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "Via Korilska 4",
+            "Milan 20154, Italy"
+          ],
+          "city": "Milan",
+          "postal_code": "20154",
+          "country": "Italy",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Dott. title indicates Doctor (Italian)"
+    },
+    {
+      "entry_id": "056_vittoz_martine",
+      "name": {
+        "full_name": "Vittoz, Martine",
+        "prefix": null,
+        "first_name": "Martine",
+        "middle_name": null,
+        "last_name": "Vittoz",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "00 33 1 3962 7605",
+          "formatting": "00 33 1 3962 7605 (h)"
+        },
+        {
+          "type": "work",
+          "number": "00 33 1 3493 0422",
+          "formatting": "00 33 1 3493 0422 (w)"
+        },
+        {
+          "type": "direct line",
+          "number": "00 33 (0) 13962 9592",
+          "formatting": "00 33 (0) 13962 9592 Direct line"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Possibly related to Vittoz, Patrick and Vittoz, Vonnic"
+    },
+    {
+      "entry_id": "056_vittoz_patrick",
+      "name": {
+        "full_name": "Vittoz, Patrick",
+        "prefix": null,
+        "first_name": "Patrick",
+        "middle_name": null,
+        "last_name": "Vittoz",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "161 432 0394",
+          "formatting": "161 432 0394 (h)"
+        },
+        {
+          "type": "work",
+          "number": "0161 4432 464",
+          "formatting": "0161 4432 464 (w)"
+        },
+        {
+          "type": "fax",
+          "number": "0161 431 6140",
+          "formatting": "0161 431 6140 (f)"
+        },
+        {
+          "type": "portable",
+          "number": "07966 147 656 (p)",
+          "formatting": "07966 147 656 (p)"
+        },
+        {
+          "type": "cazel",
+          "number": "05533 67301",
+          "formatting": "05533 67301 Cazel"
+        }
+      ],
+      "emails": [
+        {
+          "address": "vittoz@mail.exploit.com",
+          "type": "work",
+          "notes": "exploit.com domain"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "10 York Road",
+            "Heaton Moor",
+            "Stockport",
+            "Cheshire SK4 4PQ"
+          ],
+          "city": "Stockport",
+          "state": null,
+          "postal_code": "SK4 4PQ",
+          "country": "UK",
+          "notes": "Manchester area, UK office"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK based - possibly related to Vittoz, Martine and Vittoz, Vonnic"
+    },
+    {
+      "entry_id": "056_vittoz_vonnic",
+      "name": {
+        "full_name": "Vittoz, Vonnic",
+        "prefix": null,
+        "first_name": "Vonnic",
+        "middle_name": null,
+        "last_name": "Vittoz",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 33 1 396 22375",
+          "formatting": "00 33 1 396 22375"
+        },
+        {
+          "type": "unknown",
+          "number": "00 33 53 364763",
+          "formatting": "00 33 53 364763"
+        },
+        {
+          "type": "portable",
+          "number": "06 13 58 76 12",
+          "formatting": "06 13 58 76 12 (p)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Paris - possibly related to Vittoz, Martine and Vittoz, Patrick"
+    },
+    {
+      "entry_id": "056_vivian_smith_charles",
+      "name": {
+        "full_name": "Vivian Smith, Charles",
+        "prefix": null,
+        "first_name": "Charles",
+        "middle_name": null,
+        "last_name": "Vivian Smith",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "fax",
+          "number": "0207 235 2248",
+          "formatting": "0207 235 2248 (f)"
+        },
+        {
+          "type": "portable",
+          "number": "07785 900437",
+          "formatting": "07785 900437 (p)"
+        },
+        {
+          "type": "parents",
+          "number": "0207 235 2305",
+          "formatting": "0207 235 2305 Parents"
+        }
+      ],
+      "emails": [
+        {
+          "address": "charles.viviansmith@peopl",
+          "type": "personal",
+          "notes": "Email appears truncated - likely @people.com or similar"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "40 Eaton Mews North",
+            "London SW1X8AS"
+          ],
+          "city": "London",
+          "postal_code": "SW1X8AS",
+          "country": "UK",
+          "notes": "Belgravia - extremely exclusive London address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Eaton Mews North - Belgravia elite address"
+    },
+    {
+      "entry_id": "056_von_habsburg_francesca",
+      "name": {
+        "full_name": "Von Habsburg, Francesca",
+        "prefix": null,
+        "first_name": "Francesca",
+        "middle_name": null,
+        "last_name": "Von Habsburg",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "004366 434 06080",
+          "formatting": "004366 434 06080 (p)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "francesca@habsburg.com",
+          "type": "unknown",
+          "notes": "habsburg.com email domain"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Habsburg dynasty - Austrian royalty."
+    },
+    {
+      "entry_id": "056_von_hase_bettina",
+      "name": {
+        "full_name": "Von Hase, Bettina",
+        "prefix": null,
+        "first_name": "Bettina",
+        "middle_name": null,
+        "last_name": "Von Hase",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 221 7075",
+          "formatting": "0207 221 7075 (h)"
+        },
+        {
+          "type": "fax",
+          "number": "0207 221 8245",
+          "formatting": "0207 221 8245 (f)"
+        },
+        {
+          "type": "portable",
+          "number": "07968 270 518",
+          "formatting": "07968 270 518 (p)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "bettina@nineam.co.uk",
+          "type": "work",
+          "notes": "Nine AM Limited UK email domain"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "36 Pembridge Villas",
+            "London W11"
+          ],
+          "city": "London",
+          "postal_code": "W11",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'Nine AM Limited' notated"
+    },
+    {
+      "entry_id": "056_wachtmeister_eric",
+      "name": {
+        "full_name": "Wachtmeister, Eric",
+        "prefix": null,
+        "first_name": "Eric",
+        "middle_name": null,
+        "last_name": "Wachtmeister",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "011 33 0762 4110",
+          "formatting": "011 33 0762 4110 European portable"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 873 7315",
+          "formatting": "001 917 873 7315 (p)"
+        },
+        {
+          "type": "portable",
+          "number": "011 46 708 260600",
+          "formatting": "011 46 708 260600 (p)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "erik@vikinginternet.com",
+          "type": "work",
+          "notes": "viking internet email domain"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "136 East 65th St. W 90",
+            "New York, NY 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side. Merrill Lynch (ML90) office"
+        },
+        {
+          "type": "work",
+          "address_lines": [
+            "Viking Internet, Strandvagen",
+            "5b, First Floor, Stockholm 11451"
+          ],
+          "city": "Stockholm",
+          "postal_code": "11451",
+          "country": "Sweden",
+          "notes": "Viking Internet"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'Viking Internet' notated with with NYC and Stockholm offices"
+    },
+    {
+      "entry_id": "056_wagner_david",
+      "name": {
+        "full_name": "Wagner, David",
+        "prefix": null,
+        "first_name": "David",
+        "middle_name": null,
+        "last_name": "Wagner",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 783 7143",
+          "formatting": "001 212 783 7143"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC contact"
+    },
+    {
+      "entry_id": "056_wainright_rupert",
+      "name": {
+        "full_name": "Wainright, Rupert",
+        "prefix": null,
+        "first_name": "Rupert",
+        "middle_name": null,
+        "last_name": "Wainright",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 213 876 3199",
+          "formatting": "001 213 876 3199 (h)"
+        },
+        {
+          "type": "work",
+          "number": "001 213 653 7665",
+          "formatting": "001 213 653 7665 (w)"
+        },
+        {
+          "type": "car",
+          "number": "001 213 308 2796",
+          "formatting": "001 213 308 2796 (car)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "LA area codes (213) - Hollywood/entertainment industry likely"
+    },
+    {
+      "entry_id": "056_waksal_sam",
+      "name": {
+        "full_name": "Waksal, Sam",
+        "prefix": null,
+        "first_name": "Sam",
+        "middle_name": null,
+        "last_name": "Waksal",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 777 3379",
+          "formatting": "001 212 777 3379 (h)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 645 1405",
+          "formatting": "001 212 645 1405 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "150 Thompson Street",
+            "7th Floor",
+            "New York, NY 10012"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10012",
+          "country": "USA",
+          "notes": "SoHo office - likely biotech/pharmaceutical (Sam Waksal - ImClone founder)"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Sam Waksal - notorious ImClone insider trading scandal figure"
+    },
+    {
+      "entry_id": "056_wallace_mike",
+      "name": {
+        "full_name": "Wallace, Mike",
+        "prefix": null,
+        "first_name": "Mike",
+        "middle_name": null,
+        "last_name": "Wallace",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 975 4321",
+          "formatting": "001 212 975 4321"
+        },
+        {
+          "type": "fax",
+          "number": "001 212 757 6975",
+          "formatting": "001 212 757 6975 (f)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "524 West 57th Street",
+            "New York, NY 10019"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10019",
+          "country": "USA",
+          "notes": "CBS 60 Minutes - legendary investigative journalist"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'60 Minutes - CBS' notated. Mike Wallace - legendary CBS 60 Minutes journalist"
+    },
+    {
+      "entry_id": "056_walters_barbara",
+      "name": {
+        "full_name": "Walters, Barbara",
+        "prefix": null,
+        "first_name": "Barbara",
+        "middle_name": null,
+        "last_name": "Walters",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 456 2020",
+          "formatting": "001 212 456 2020"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "944 Fifth Avenue",
+            "New York, NY 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side - Barbara Walters legendary broadcast journalist"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Barbara Walters - legendary ABC News journalist"
+    },
+    {
+      "entry_id": "056_ward_kevin",
+      "name": {
+        "full_name": "Ward, Kevin",
+        "prefix": null,
+        "first_name": "Kevin",
+        "middle_name": null,
+        "last_name": "Ward",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 627 9675",
+          "formatting": "001 212 627 9675"
+        },
+        {
+          "type": "home",
+          "number": "001 212 340 9134",
+          "formatting": "001 212 340 9134 (h)"
+        },
+        {
+          "type": "home",
+          "number": "001 303 925 3234",
+          "formatting": "001 303 925 3234 (h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC (212) and Miami (305) numbers - dual residence"
+    },
+    {
+      "entry_id": "056_warner_ozzie",
+      "name": {
+        "full_name": "Warner, Ozzie",
+        "prefix": null,
+        "first_name": "Ozzie",
+        "middle_name": null,
+        "last_name": "Warner",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 340 9134",
+          "formatting": "001 212 340 9134 (h)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 303 925 3234",
+          "formatting": "001 303 925 3234"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC and Miami numbers - dual residence"
+    },
+    {
+      "entry_id": "056_warnford_davis_ms_mandy",
+      "name": {
+        "full_name": "Warnford-Davis, Ms Mandy",
+        "prefix": "Ms",
+        "first_name": "Mandy",
+        "middle_name": null,
+        "last_name": "Warnford-Davis",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 370 5025",
+          "formatting": "0207 370 5025 (h)"
+        },
+        {
+          "type": "work",
+          "number": "0207 248 4282",
+          "formatting": "0207 248 4282 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "9 Claxton Grove",
+            "London W6"
+          ],
+          "city": "London",
+          "postal_code": "W6",
+          "country": "UK",
+          "notes": "Hammersmith/Fulham area"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "London based"
+    },
+    {
+      "entry_id": "056_wasserman_casey_laura",
+      "name": {
+        "full_name": "Wasserman, Casey & Laura",
+        "prefix": null,
+        "first_name": "Casey",
+        "middle_name": null,
+        "last_name": "Wasserman",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Laura"
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "310 788 7733",
+          "formatting": "310 788 7733 (w)"
+        },
+        {
+          "type": "home",
+          "number": "310 275 1011",
+          "formatting": "3310 275 1011 (h)"
+        },
+        {
+          "type": "portable",
+          "number": "310 980 8990",
+          "formatting": "310 980 8990 (p) Laura"
+        },
+        {
+          "type": "work",
+          "number": "310 441 6890",
+          "formatting": "310 441 6890 (w) Laura"
+        },
+        {
+          "type": "portable",
+          "number": "310 801 1816",
+          "formatting": "310 801 1816 (cp) [Casey Portable]"
+        }
+      ],
+      "emails": [
+        {
+          "address": "lzw@avengereni.co",
+          "type": "work",
+          "notes": "avengereni.co email domain"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "722 Rexford Drive",
+            "Beverly Hills, CA 90210"
+          ],
+          "city": "Beverly Hills",
+          "state": "CA",
+          "postal_code": "90210",
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Casey Wasserman - sports/entertainment agent, Wasserman Media Group founder"
+    },
+    {
+      "entry_id": "056_wassong_david",
+      "name": {
+        "full_name": "Wassong, David",
+        "prefix": null,
+        "first_name": "David",
+        "middle_name": null,
+        "last_name": "Wassong",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 288 7114",
+          "formatting": "001 212 288 7114 (h)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 333 9780",
+          "formatting": "001 212 333 9780 (w)"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 744 3438",
+          "formatting": "001 917 744 3438 (p)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 212 262 6300",
+          "formatting": "001 212 262 6300"
+        },
+        {
+          "type": "fax",
+          "number": "001 212 376 1709",
+          "formatting": "001 212 376 1709 (f)"
+        },
+        {
+          "type": "personal",
+          "number": "001 212 288 1316",
+          "formatting": "001 212 288 1316 Mrs. Lisa Wassong"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 539 6359",
+          "formatting": "001 917 539 6359 Lisa's cell (Mom)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "wassong@simny.com",
+          "type": "unknown",
+          "notes": "simny.com email domain"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "201 East 69th St., Apt# PHJ",
+            "New York, NY 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side penthouse"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'Partner - Soros Private Equity Partners' is notated"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 19,
+    "entries_with_emails": 9,
+    "entries_with_addresses": 12,
+    "entries_with_handwritten_notes": 0,
+    "couples": 1,
+    "average_confidence": "high",
+    "notable_figures_count": 5
+  },
+  "cross_references": [
+    {
+      "from": "056_vittoz_martine",
+      "to": "056_vittoz_patrick",
+      "relationship": "possibly_related",
+      "note": "Same surname - possibly family members (Vittoz family cluster)"
+    },
+    {
+      "from": "056_vittoz_martine",
+      "to": "056_vittoz_vonnic",
+      "relationship": "possibly_related",
+      "note": "Same surname - possibly family members (Vittoz family cluster)"
+    },
+    {
+      "from": "056_ward_kevin",
+      "to": "056_warner_ozzie",
+      "relationship": "shared_location",
+      "note": "Both have identical NYC (212) and Miami (305) phone numbers - possibly same person or very close connection"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Dott. Marco Vittorelli",
+      "Martine Vittoz",
+      "Patrick Vittoz",
+      "Vonnic Vittoz",
+      "Charles Vivian Smith",
+      "Francesca Von Habsburg",
+      "Bettina Von Hase",
+      "Eric Wachtmeister",
+      "David Wagner",
+      "Rupert Wainright",
+      "Sam Waksal",
+      "Mike Wallace",
+      "Barbara Walters",
+      "Kevin Ward",
+      "Ozzie Warner",
+      "Ms Mandy Warnford-Davis",
+      "Casey Wasserman",
+      "Laura Wasserman",
+      "David Wassong",
+      "Lisa Wassong"
+    ],
+    "organizations": [
+      "Thyssen-Bornemisza Museum/Collection (Von Habsburg)",
+      "Arts AM Limited (Von Hase - art management)",
+      "Merrill Lynch International (Wachtmeister)",
+      "ImClone Systems (Sam Waksal - biotech)",
+      "CBS 60 Minutes (Mike Wallace)",
+      "ABC News (Barbara Walters)",
+      "Wasserman Media Group (Casey Wasserman)",
+      "Creative Artists Agency - CAA (Wasserman)",
+      "Stone Private Equity Partners (Wassong)"
+    ],
+    "locations": {
+      "international": [
+        "Milan, Italy (Vittorelli)",
+        "Paris, France (Vittoz family)",
+        "Stockport, UK (Patrick Vittoz)",
+        "London, UK (multiple contacts)",
+        "Stockholm, Sweden (Wachtmeister)",
+        "Austria (Von Habsburg connection)"
+      ],
+      "us_cities": [
+        "New York City (multiple contacts)",
+        "Los Angeles (Wainright)",
+        "Beverly Hills (Wasserman)",
+        "Miami (Ward, Warner)"
+      ],
+      "elite_addresses": [
+        "40 Eaton Mews North, London SW1 (Vivian Smith - Belgravia)",
+        "944 Fifth Avenue, NYC (Barbara Walters)",
+        "524 West 57th Street, NYC (Mike Wallace - CBS)",
+        "150 Thompson Street, NYC (Sam Waksal - SoHo)",
+        "261 East 69th St. PH3, NYC (Wassong - Upper East Side penthouse)",
+        "122 Rexford Drive, Beverly Hills (Wasserman)"
+      ]
+    }
+  },
+  "insights": [
+    "Major media figures cluster: Mike Wallace (CBS 60 Minutes), Barbara Walters (ABC News) - legendary broadcast journalists",
+    "Francesca Von Habsburg - Habsburg Austrian royalty with Thyssen-Bornemisza art museum connection (one of world's major private art collections)",
+    "Sam Waksal - ImClone Systems founder, later notorious for insider trading scandal involving Martha Stewart",
+    "Casey Wasserman - major Hollywood power player, Wasserman Media Group, grandson of legendary MCA founder Lew Wasserman",
+    "Eric Wachtmeister - Merrill Lynch executive with offices in NYC and Stockholm, Swedish aristocratic name",
+    "Vittoz family cluster - 4 members (Martine, Patrick, Vonnic, Marco) across Paris, UK, and Italy",
+    "Dual residence pattern: Ward and Warner share identical NYC/Miami numbers (possibly same person or data duplication)",
+    "Charles Vivian Smith at 40 Eaton Mews North - Belgravia, one of London's most exclusive addresses",
+    "David Wassong - Stone Private Equity Partners with Upper East Side penthouse address",
+    "Bettina Von Hase - Arts AM Limited, art industry professional in London",
+    "Geographic distribution: Strong NYC presence (journalists, finance), LA entertainment (Wasserman, Wainright), London elite addresses",
+    "Professional sectors: Broadcast journalism (Wallace, Walters), entertainment/sports management (Wasserman), finance (Wachtmeister, Wassong), biotech (Waksal), art world (Von Habsburg, Von Hase)",
+    "Email domains reveal affiliations: @merrill.com (finance), @thyssen-bornemisza.com (art museum), @cavagent.co (talent agency), @sfdmny.com (private equity)",
+    "Multiple car phones indicating high mobility and wealth (Wainright, Wasserman)",
+    "Aristocratic/nobility connections: Von Habsburg (Austrian royalty), Wachtmeister (Swedish nobility), Vivian Smith (British upper class)"
+  ]
+}

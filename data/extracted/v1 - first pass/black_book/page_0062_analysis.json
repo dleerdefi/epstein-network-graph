@@ -1,0 +1,678 @@
+{
+  "page_number": 62,
+  "section": "Hotels and Services Continued",
+  "entries": [
+    {
+      "name": "Lowell",
+      "category": "Hotel",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0101 [illegible]",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Lowell Hotel",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Phone number illegible"]
+      }
+    },
+    {
+      "name": "Myers of Westwick",
+      "category": "Business",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Antiques & Interiors",
+          "description": "Antiques & Interiors",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Westerham 863737",
+          "location": "Westerham",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "New York, NY",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "212 431 4184",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Myers of Westwick - Antiques & Interiors",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Nicolas",
+      "category": "Establishment",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 488 9650",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Nicolas",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Odie",
+      "category": "Service",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Car of Fleet",
+          "description": "Car of Fleet",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "516 484 3388",
+          "area_code": "516",
+          "geographic_indicator": "Long Island NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 688 3400",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Odie - Car/Fleet service",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Peninsula Hotel",
+      "category": "Hotel",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Plaza of Asia Suite",
+          "description": "Plaza of Asia Suite",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "5 Avenue/55 Street Midtown Shvd",
+          "street": "5 Avenue/55 Street",
+          "location": "Midtown",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 956 2888",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "New York, NY, 90212",
+          "postal_code": "90212",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "310 788 2319 (h)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Peninsula Hotel - 5th Avenue/55th Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Mixed NYC/LA postal codes"]
+      }
+    },
+    {
+      "name": "Penninsula Hotel",
+      "category": "Hotel",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "700 Fifth Avenue",
+          "street": "700 Fifth Avenue",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York, NY 10019",
+          "postal_code": "10019",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "212 247 2200",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 956 2820",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Peninsula Hotel - 700 Fifth Avenue (duplicate entry)",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Pierre Hotel",
+      "category": "Hotel",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "2 East 61st Street",
+          "street": "2 East 61st Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York, NY 10021",
+          "postal_code": "10021",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "212 838 8000",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Pierre Hotel - East 61st Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Plaza",
+      "category": "Hotel",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 759 3000",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "The Plaza Hotel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Plaza Athenee Hotel",
+      "category": "Hotel",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Hotel Plazale do",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "37 East 64th Street",
+          "street": "37 East 64th Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York, NY 10021",
+          "postal_code": "10021",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "212 734 9100",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Plaza Athenee Hotel - East 64th Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Province Restaurant",
+      "category": "Restaurant",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "between MacDougal & S.",
+          "location": "between MacDougal & S.",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [],
+      "notes": "Province Restaurant - MacDougal area",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Address incomplete"]
+      }
+    },
+    {
+      "name": "Ritz Carlton",
+      "category": "Hotel",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 757 1900",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Ritz Carlton Hotel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Royalton",
+      "category": "Hotel",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "44 West 44th St",
+          "street": "44 West 44th St",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York, NY 10019",
+          "postal_code": "10019",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "212 869 4400",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Royalton Hotel - West 44th Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Seitz Mezzo",
+      "category": "Restaurant",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "899 something",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "New York",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Seitz Mezzo",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Phone details unclear"]
+      }
+    },
+    {
+      "name": "Shoes-Repair",
+      "category": "Service",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "11 East 53rd Street",
+          "street": "11 East 53rd Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 356 4429",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Shoe Repair - East 53rd Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Stanhope Hotel",
+      "category": "Hotel",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 774 1234",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Stanhope Hotel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Sunset Marquee",
+      "category": "Establishment",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0101 213 657 1333",
+          "area_code": "213",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Sunset Marquee - Los Angeles",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Shutters on the Beach",
+      "category": "Hotel",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1 Pico Blvd.",
+          "street": "1 Pico Blvd.",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Santa Monica, CA 90405",
+          "city": "Santa Monica",
+          "state": "CA",
+          "postal_code": "90405",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "310 452 3272",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Santa Monica",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "800 334 9000",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Shutters on the Beach - Santa Monica",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Tao Restaurant",
+      "category": "Restaurant",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "42 E. 58th Street",
+          "street": "42 E. 58th Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York 10022",
+          "postal_code": "10022",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 888 2288",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Tao Restaurant - East 58th Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Taylor, The",
+      "category": "Establishment",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 213 353 8480",
+          "area_code": "213",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 310 382 6999",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        }
+      ],
+      "notes": "The Taylor - Los Angeles",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "The Great Ameriedn Health Bar",
+      "category": "Restaurant/Bar",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "35 West 57th Street",
+          "street": "35 West 57th Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0101 212 355 5177",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "The Great American Health Bar - West 57th Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "St Regis Hotel",
+      "category": "Hotel",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "2 East 55th St",
+          "street": "2 East 55th St",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York NY 10022",
+          "postal_code": "10022",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 753 4500",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "St Regis Hotel - East 55th Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "The Lowell",
+      "category": "Hotel",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0101 212 838 1400",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "The Lowell Hotel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "The Westbury",
+      "category": "Hotel",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0101 212 535 2000",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "The Westbury Hotel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 23,
+    "illegible_entries": 0,
+    "partial_entries": 3,
+    "notable_establishments": [
+      "Peninsula Hotel - 5th Avenue/55th Street",
+      "Pierre Hotel - East 61st Street",
+      "Plaza Hotel",
+      "Plaza Athenee Hotel - East 64th Street",
+      "Ritz Carlton",
+      "St Regis Hotel - East 55th Street",
+      "Shutters on the Beach - Santa Monica",
+      "Royalton Hotel - West 44th Street"
+    ],
+    "geographic_distribution": {
+      "manhattan": 18,
+      "los_angeles": 4,
+      "other": 1
+    },
+    "establishment_types": {
+      "hotels": 14,
+      "restaurants": 5,
+      "services": 3,
+      "other": 1
+    },
+    "location_highlights": [
+      "Luxury hotel concentration on Fifth Avenue",
+      "Upper East Side hotel cluster",
+      "Midtown Manhattan focus",
+      "Santa Monica beach resort",
+      "Los Angeles/Beverly Hills presence"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 19,
+      "medium_confidence": 2,
+      "low_confidence": 2,
+      "specific_issues": [
+        "Some phone numbers incomplete",
+        "Mixed postal codes in entries",
+        "Some establishment details unclear"
+      ]
+    }
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "page_number": 99,
+  "file_path": "data/birthday_book_images/page_0099.png",
+  "file_size_mb": 1.5924739837646484,
+  "type": "photo_collage_with_annotations",
+  "content": {
+    "text": "Alberto Pinto had a huge input here. These are considered his floor days. Who took this picture?",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "description": "Interior design photos with handwritten annotations about Alberto Pinto's work",
+    "text_sections": {
+      "full_transcription": "Alberto Pinto had a huge input here. These are considered his floor days. Who took this picture?",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Alberto Pinto (interior designer)",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          99
+        ]
+      },
+      {
+        "name": "Individuals in photographs",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          99
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      "Interior spaces designed by Alberto Pinto"
+    ],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Interior design documentation and attribution",
+    "designer": "Alberto Pinto",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "photo_collage_with_annotations"
+  },
+  "insights": [
+    "Alberto Pinto was a renowned French luxury interior designer",
+    "Reference to 'huge input' suggests significant design collaboration",
+    "'Floor days' may refer to construction or installation period",
+    "Documentation of designer attribution suggests pride in luxury interiors",
+    "Question about photographer suggests documentation process",
+    "Indicates Epstein's properties featured high-end interior design"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000099",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.169129",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Interior room showing luxury furniture and design elements",
+        "theme": "interior_design",
+        "setting": "luxury_interior",
+        "elements": [
+          "furniture",
+          "design_elements",
+          "luxury_decor"
+        ],
+        "individual_count": 3,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      },
+      {
+        "description": "Personal photographs in interior settings",
+        "theme": "personal_lifestyle",
+        "setting": "luxury_interior",
+        "individual_count": 3,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": [
+      "Black redaction bars on some photos"
+    ],
+    "handwritten_notes": [
+      "Alberto Pinto had a huge input here",
+      "These are considered his floor days",
+      "Who took this picture?"
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Three photographs with handwritten annotations",
+    "Top photo: Wood-paneled room with TV and furniture",
+    "Middle photo: Person in white clothing on bed/couch",
+    "Bottom photo: Close-up of person, partially redacted",
+    "Handwritten text (left): 'Alberto Pinto had a huge input here'",
+    "'These are considered his floor days'",
+    "Handwritten text (bottom): 'Who took this picture?'",
+    "Black redaction boxes on middle and bottom photos",
+    "Alberto Pinto was famous luxury interior designer",
+    "Photos show high-end residential interior spaces",
+    "Document stamped HOUSE_OVERSIGHT_000099",
+    "Mix of interior design and personal photos"
+  ],
+  "investigative_leads": []
+}

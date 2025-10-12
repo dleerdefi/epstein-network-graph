@@ -1,0 +1,729 @@
+{
+  "page_number": 42,
+  "alphabetical_section": "P",
+  "contacts": [
+    {
+      "name": "Oxenberg Christina",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Villiers Terrace",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 XX 8 991",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 XXX",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "004 651 5693",
+          "confidence": "low"
+        }
+      ],
+      "emails": [
+        "[illegible]@earthlink.net"
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Paini, Nicole",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "12 Blensbury Place South",
+          "street": "12 Blensbury Place South",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW5",
+          "city": "London",
+          "postal_code": "SW5",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 370 5748",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 352 3419 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Palau, Marcia",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "88 Chavanay Walk",
+          "street": "88 Chavanay Walk",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London W11",
+          "city": "London",
+          "postal_code": "W11",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 351 4693",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 602 8184 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Palmer Tomkinson Tara",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 937 6992(h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0208 964 5778",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Palumbo, Mr James",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "52 Chiswick Wharf",
+          "street": "52 Chiswick Wharf",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "79 Chenies Chambers",
+          "street": "79 Chenies Chambers",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "London WC1 4QQG",
+          "city": "London",
+          "postal_code": "WC1 4QQG",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "00 34 9114809",
+          "country_code": "34",
+          "geographic_indicator": "Spain",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 384 8850 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Palumbo, Peter",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "7 Ponds Street",
+          "street": "7 Ponds Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London W2",
+          "city": "London",
+          "postal_code": "W2",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "4500 703 8733",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Panah-Izadi, Nader & Priscilla",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "15a Belgrave Square",
+          "street": "15a Belgrave Square",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "5 The Boltons",
+          "street": "5 The Boltons",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London[illegible]",
+          "city": "London",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 730 3818(e)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 643417011 (m)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Couple entry, Belgrave Square address",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Panik, Ms Victoria & Alley Claire",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "23 Travers Court",
+          "street": "23 Travers Court",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Chelsea Bridge",
+          "city": "Chelsea Bridge",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "London SW1",
+          "city": "London",
+          "postal_code": "SW1",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 352 0719 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 351 0174 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 924 4444(o)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Parker Jackie",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 914 968 0042",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 914 968 3235",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "Email: jackie@thatistheir.net"
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Parsons Carolina",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "10 13 907 Army",
+          "confidence": "low"
+        }
+      ],
+      "emails": [
+        "[illegible]@virginnet.com"
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Paschen, Elise",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 312 994 2800",
+          "area_code": "312",
+          "geographic_indicator": "Chicago, IL",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 888 0401",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Pashcow, Joel",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Sutton County Park",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "177 Lake Drive Phoenix",
+          "city": "Phoenix",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "NY, NY",
+          "city": "NY",
+          "state": "NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "100 [illegible] (h)",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 930 0990",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "addresses_additional": [
+        {
+          "type": "secondary",
+          "address": "Surrey Farms[16][illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "Icona Park-Hwy-St Place 14318",
+          "confidence": "low"
+        }
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "001 917 7354 [home]",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 773 534 [illegible]",
+          "area_code": "773",
+          "geographic_indicator": "Chicago, IL",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 [illegible] Celrmy-Boat Capt.",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 [illegible][phone]",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 318[illegible]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 3846 872 X(h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 914 0999 (place)",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "000 518 644 9 (place (h))",
+          "area_code": "518",
+          "geographic_indicator": "Albany/Upstate NY",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 686 place",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "medium"
+        }
+      ],
+      "addresses_additional2": [
+        {
+          "type": "secondary",
+          "address": "Savior Village Place N",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "Rosemont Saviors home",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Pastrana, Andrea",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "2 Alexandra Circle",
+          "street": "2 Alexandra Circle",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Surbiton Lane 005 017X",
+          "city": "Surbiton Lane",
+          "postal_code": "005 017X",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "Elephant Lake South Amer-",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "00 973 879 5020",
+          "area_code": "973",
+          "geographic_indicator": "New Jersey",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "05 69 8 982 XX0000",
+          "confidence": "low"
+        }
+      ],
+      "emails": [
+        "[illegible]@[illegible].com"
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "001 212 XXX 8XXX",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "212 315 9366 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 914 961 0000",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Patticof, Alan & Susan",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "270 Park Avenue",
+          "street": "270 Park Avenue",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Apt 10XX (5902?)",
+          "unit": "Apt 10XX",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "212 777 8241 (w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Paulsen, John",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 956 2221 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 956 1816 (w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Pashcow, Stacey",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Stacey's Place X09",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 XXX C985 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "212 370 XXX (w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "917 686 5527 mobile",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 368 (car phone)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        }
+      ],
+      "addresses_additional": [
+        {
+          "type": "secondary",
+          "address": "New York, NY 10023",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10023",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Pavancelli, Cosima & Riccardo",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "42 Norrice Gardens",
+          "street": "42 Norrice Gardens",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW10",
+          "city": "London",
+          "postal_code": "SW10",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 352 7671 4507",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 17,
+    "quality": "poor",
+    "legibility": "heavily degraded",
+    "completeness": "complete page",
+    "notable_individuals": []
+  },
+  "insights": [
+    "Belgrave Square address - ultra-premium London location",
+    "The Boltons address - exclusive Chelsea area",
+    "Chicago connection (312, 773)",
+    "Albany/Upstate NY connection (518)",
+    "New Jersey presence (973)",
+    "Spain connection",
+    "Phoenix mentioned",
+    "Mix of London high-end addresses",
+    "Strong NYC/Manhattan presence",
+    "Westchester County NY continuing presence"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "medium",
+    "total_contacts": 17,
+    "high_confidence": 9,
+    "medium_confidence": 5,
+    "low_confidence": 3,
+    "extraction_issues": [
+      "Heavy page degradation",
+      "Multiple illegible sections",
+      "Complex entries with many partial numbers",
+      "Some addresses fragmented"
+    ]
+  }
+}

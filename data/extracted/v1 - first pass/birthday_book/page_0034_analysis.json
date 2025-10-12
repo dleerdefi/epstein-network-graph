@@ -1,0 +1,122 @@
+{
+  "page_number": 34,
+  "file_path": "data/birthday_book_images/page_0034.png",
+  "file_size_mb": 0.29097843170166016,
+  "type": "section_divider",
+  "content": {
+    "text": "BROOKLYN",
+    "handwritten": false,
+    "typed": true,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "BROOKLYN",
+      "letterhead": "",
+      "main_body": "BROOKLYN (stylized italic font)",
+      "captions": [],
+      "margins": ["HOUSE_OVERSIGHT_000034 (bottom right)"],
+      "annotations": ["Small mark or number '1' visible top center"],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "Brooklyn"
+    ],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Brooklyn section divider",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "section_divider"
+  },
+  "insights": [
+    "Section divider marking start of 'Brooklyn' themed content",
+    "Stylized italic font suggests formal album/book design",
+    "Brooklyn represents birthplace/childhood location significance",
+    "Geographic organization of birthday book contents",
+    "Professional typesetting indicates curated collection",
+    "Divider suggests multiple sections organized by location/theme",
+    "Brooklyn section likely contains childhood memories/connections",
+    "Placement after pages 31-33 creates thematic grouping",
+    "Minimalist design emphasizes location importance",
+    "Gray shading on left edge may indicate book binding area"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000034",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.135400",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": [],
+    "design_elements": [
+      {
+        "type": "Typography",
+        "description": "BROOKLYN in stylized italic serif font",
+        "location": "Center-right of page"
+      },
+      {
+        "type": "Page design",
+        "description": "Gray gradient on left edge suggesting book binding",
+        "location": "Left margin"
+      },
+      {
+        "type": "Notation",
+        "description": "Small '1' or mark at top center",
+        "location": "Top center"
+      }
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Professional typesetting in italic serif font",
+    "Gray gradient/shading on left edge indicates binding area",
+    "Clean white page with minimal design",
+    "Small mark '1' visible at top center",
+    "Document stamped HOUSE_OVERSIGHT_000034",
+    "Page quality suggests professional printing/production"
+  ],
+  "investigative_leads": [
+    "Brooklyn connections to be explored in following pages",
+    "Significance of Brooklyn in recipient's history",
+    "Other geographic sections that may exist in book",
+    "Contributors from Brooklyn area"
+  ]
+}

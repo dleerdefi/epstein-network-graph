@@ -1,0 +1,865 @@
+{
+  "page_number": 83,
+  "section": "K-Z Names and Services",
+  "entries": [
+    {
+      "name": "KENYA (K)",
+      "category": "Section Header",
+      "location": "Kenya",
+      "entries": [],
+      "notes": "Kenya section header",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Muthaiga Club",
+      "category": "Venue",
+      "location": "Kenya",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "010 254 2 737750/68",
+          "area_code": "254",
+          "geographic_indicator": "Kenya",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Muthaiga Club - Kenya",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "KINNERTON",
+      "category": "Section Header",
+      "location": "Unknown",
+      "entries": [],
+      "notes": "Kinnerton section header",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Airport Transfers",
+      "category": "Service",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207-405-7239",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Airport Transfers service",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Charlie",
+      "category": "Personal",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0208 840 5944",
+          "area_code": "0208",
+          "geographic_indicator": "London outer",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0908 849 3555",
+          "area_code": "0908",
+          "geographic_indicator": "UK",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Charlie - UK contact",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Chelsea Police Station",
+      "category": "Service",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207-111-6212",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Chelsea Police Station - London",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Coles, Alan",
+      "category": "Personal",
+      "location": "UK",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "109 Draycotts Health Clinic",
+          "street": "109 Draycotts Health Clinic",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "722 803 Kinnerston Rd.",
+          "street": "722 803 Kinnerston Road",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "231 580 48 62 Putney",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "£85 Pound",
+        "Kir/Ken/Courtfield Medical Centre",
+        "£2.95/patient consents",
+        "Earl's Court 020/7370"
+      ],
+      "notes": "Alan Coles - Draycotts Health Clinic",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Drivers",
+      "category": "Service",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0780 9000 7228 Gabriel cell",
+          "area_code": "0780",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 6020 078 office",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "07808 144450 Lee (a)",
+          "area_code": "07808",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0788 0523 952 Vikram (a)",
+          "area_code": "0788",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0788 6774 996 Walter (a)",
+          "area_code": "0788",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0788 652 4555 Walter (b)",
+          "area_code": "0788",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        }
+      ],
+      "additional_contacts": [
+        "Gabriel",
+        "Lee",
+        "Vikram",
+        "Walter"
+      ],
+      "notes": "Multiple UK drivers service",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Entwistle Isl",
+      "category": "Personal",
+      "location": "Unknown",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0770 588986",
+          "area_code": "0770",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0208 076 2388",
+          "area_code": "0208",
+          "geographic_indicator": "London outer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Isl Entwistle",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Hair Assocs",
+      "category": "Service",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 235 0977",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 235 0971",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Hair Associates - London",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Harrods Limited",
+      "category": "Business",
+      "location": "UK",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "87-135-1234",
+          "reference": "87-135-1234",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "105 Brompton Road",
+          "street": "105 Brompton Road",
+          "confidence": "high"
+        },
+        {
+          "type": "tertiary",
+          "address": "London SW1, London SW1X7XL",
+          "city": "London",
+          "postal_code": "SW1X7XL",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0777-730 1234",
+          "area_code": "0777",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Harrods Limited - Brompton Road London",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Harvey Nichols",
+      "category": "Business",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "071-245 7357",
+          "area_code": "071",
+          "geographic_indicator": "London (old code)",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Harvey Nichols department store",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Holland & Holland",
+      "category": "Business",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 752 7755 (NY)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Algy & Brenda",
+        "0207 831 [illegible]"
+      ],
+      "notes": "Holland & Holland - NY location",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["UK phone partially illegible"]
+      }
+    },
+    {
+      "name": "Jackson Stops",
+      "category": "Business",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Algy & Brenda",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 831 [illegible]",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Jackson Stops - Real estate",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone partially illegible"]
+      }
+    },
+    {
+      "name": "John Hobbs Ltd.",
+      "category": "Business",
+      "location": "UK",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Motcomb Street",
+          "street": "Motcomb Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207-730 0437 (fax)",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "John Hobbs Ltd. - Motcomb Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "La Famiglia",
+      "category": "Restaurant",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "351 0761",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "La Famiglia restaurant",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone incomplete"]
+      }
+    },
+    {
+      "name": "Martin Tim/Debbie Stew-art",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "300 Park",
+          "street": "300 Park",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Sedgmore Estate",
+          "location": "Sedgmore Estate",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207-839 9330 2nd Line",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "914 779 7397 Private Tower",
+          "area_code": "914",
+          "geographic_indicator": "Westchester",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207-514-5200",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207-514 [illegible]",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Tim Martin/Debbie Stewart - 300 Park and Sedgmore Estate",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One phone partially illegible"]
+      }
+    },
+    {
+      "name": "Martine",
+      "category": "Personal",
+      "location": "Unknown",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207-373 [illegible]",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207-235 [illegible]",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Martine",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone numbers partially illegible"]
+      }
+    },
+    {
+      "name": "Massage - UK (a)",
+      "category": "Service",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0208 742 9351",
+          "area_code": "0208",
+          "geographic_indicator": "London outer",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0208 741 7332 (home)",
+          "area_code": "0208",
+          "geographic_indicator": "London outer",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0208 743 7334 - Amanda",
+          "area_code": "0208",
+          "geographic_indicator": "London outer",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0208 741 3357 Emma work",
+          "area_code": "0208",
+          "geographic_indicator": "London outer",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0750 654 0890 - Andrea Blunt",
+          "area_code": "0750",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0787 628 3567 - Luiza Grau",
+          "area_code": "0787",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Emma Duval 3999 Massage",
+          "confidence": "low"
+        }
+      ],
+      "additional_contacts": [
+        "Amanda",
+        "Emma",
+        "Andrea Blunt",
+        "Luiza Grau",
+        "Emma Duval"
+      ],
+      "notes": "UK Massage services - multiple practitioners",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Minisubs",
+      "category": "Service",
+      "location": "Unknown",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0800-6-PIZZA",
+          "area_code": "0800",
+          "geographic_indicator": "UK toll-free",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Minisubs - Pizza delivery",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "News Head",
+      "category": "Business",
+      "location": "UK",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "87-38 & Dyens",
+          "reference": "87-38 & Dyens",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207-235 [illegible]",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207-531 [illegible]",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "News Head",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone numbers partially illegible"]
+      }
+    },
+    {
+      "name": "O'Neil Nessa",
+      "category": "Personal",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207-730-1888[h]",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0831-225598[p]",
+          "area_code": "0831",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Nessa O'Neil",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Oping",
+      "category": "Personal",
+      "location": "Unknown",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "07958 726297",
+          "area_code": "07958",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Oping",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Qaiseed, Anthony",
+      "category": "Personal",
+      "location": "UK",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "333 Kings Road",
+          "street": "333 Kings Road",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Chelsea, London SW10 0TZ",
+          "city": "Chelsea, London",
+          "postal_code": "SW10 0TZ",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207-351 8767",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207-351 6655",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "0208-788 5133 Henry's Hampers"
+      ],
+      "notes": "Anthony Qaiseed - Kings Road Chelsea",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Police 24 hours",
+      "category": "Service",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207-321-6273",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Police 24 hours service",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Range Rover",
+      "category": "Service",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0771 5239573",
+          "area_code": "0771",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Range Rover service",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Ray John",
+      "category": "Personal",
+      "location": "UK",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "001 647 715 7237[w]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 647 715 7237[w]",
+          "area_code": "647",
+          "geographic_indicator": "Toronto",
+          "confidence": "high"
+        }
+      ],
+      "notes": "John Ray - Toronto connection",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Raswell, Ghislaine",
+      "category": "Personal",
+      "location": "UK",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "44 Kensington Park",
+          "street": "44 Kensington Park",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "London, England SW1X 8EG",
+          "city": "London",
+          "postal_code": "SW1X 8EG",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 351 5220[h]",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0208 381 5338 [fax]",
+          "area_code": "0208",
+          "geographic_indicator": "London outer",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Unattended package in Custom Exit",
+        "S.R.",
+        "Queensgate Mews, Garage Marshall",
+        "5338 London 1-361 Easywing 4438",
+        "London, England SW1X 8EG"
+      ],
+      "notes": "Ghislaine Raswell - Kensington Park London",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 27,
+    "illegible_entries": 0,
+    "partial_entries": 6,
+    "sections": ["KENYA (K)", "KINNERTON", "Various UK Services"],
+    "notable_entries": [
+      "Ghislaine Raswell - Kensington Park London",
+      "Harrods Limited - Brompton Road",
+      "Chelsea Police Station",
+      "Multiple UK massage services",
+      "Muthaiga Club Kenya",
+      "Various driver services"
+    ],
+    "geographic_distribution": {
+      "uk": 24,
+      "kenya": 1,
+      "usa": 1,
+      "canada": 1
+    },
+    "location_highlights": [
+      "Kensington Park London (Ghislaine Raswell)",
+      "Kings Road Chelsea",
+      "Brompton Road (Harrods)",
+      "Motcomb Street",
+      "Muthaiga Club Kenya"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 21,
+      "medium_confidence": 5,
+      "low_confidence": 1,
+      "specific_issues": [
+        "Several phone numbers partially illegible",
+        "Some addresses incomplete",
+        "Various service entries unclear"
+      ]
+    }
+  }
+}

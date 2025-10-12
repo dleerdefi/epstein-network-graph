@@ -1,0 +1,136 @@
+{
+  "page_number": 15,
+  "type": "transportation_evolution",
+  "content": {
+    "text": "From Planes to helicopters to trains Happy Birthday | When do you want it? (on a picture of an old red train caboose) coming through the pass?\n It is in good order w/ a shower & a loo! (on picture of interior of Caboose)",
+    "handwritten": true,
+    "typed": true,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "Handwritten captions:\n\nTop of page:\nFrom Planes to helicopters to\ntrains\nHappy Birthday\n\nMiddle (by caboose):\nWhen do you leave or\ncome through the pass?\n\nBottom left (interior photo):\nIt is ugly\ngood and\nfeels\nlike\nhome\nor a\nloot\n\nVisible text on caboose:\nSanta Fe\nA.T. & S.F.\n999191\nC-1\n\nDocument ID:\nHOUSE_OVERSIGHT_000015",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [
+        "From Planes to helicopters to trains Happy Birthday",
+        "When do you leave or come through the pass?",
+        "It is in good order w/ a shower & a loo!"
+      ],
+      "margins": [],
+      "annotations": ["HOUSE_OVERSIGHT_000015"],
+      "handwritten_portions": [
+        "All captions are handwritten"
+      ]
+    }
+  },
+  "entities": {
+    "people": [],
+    "organizations": [
+      "Santa Fe Railroad (Atchison, Topeka and Santa Fe Railway)"
+    ],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": null,
+    "date": null,
+    "subject": "Transportation and travel methods",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "transportation_evolution"
+  },
+  "relationships": [],
+  "insights": [
+    "'From Planes to helicopters to trains' - reverse order suggests humor",
+    "Santa Fe caboose #999191 - actual railroad car acquired",
+    "'A.T. & S.F.' - Atchison, Topeka and Santa Fe Railway",
+    "Caboose marked 'C-1' - crew car designation",
+    "Pink/red caboose color typical of Santa Fe railroad",
+    "Interior shows basic crew quarters - bunk beds, kitchen",
+    "'ugly good' - oxymoron showing affection for rough aesthetic",
+    "'feels like home or a loot' - suggests hideaway/treasure",
+    "'When do you leave or come through the pass?' - railroad terminology",
+    "Acquisition of railroad car shows eccentric collecting",
+    "Transportation theme: planes → helicopters → trains → island",
+    "Handwriting continues from same contributor",
+    "Photos show actual caboose owned by Epstein",
+    "Interior photo shows ladder to upper bunk area",
+    "Spartan interior contrasts with luxury properties"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000015",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.128225",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Pink/red Santa Fe caboose #999191 on railroad tracks",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": "Railroad yard or siding",
+        "era_indicators": ["Vintage caboose", "Classic railroad equipment"],
+        "photo_quality": "Clear color photograph",
+        "photo_type": "Property documentation"
+      },
+      {
+        "description": "Caboose interior with kitchen area, ladder, and living space",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": "Inside railroad caboose",
+        "era_indicators": ["Basic crew quarters", "Functional railroad interior"],
+        "photo_quality": "Clear interior photograph",
+        "photo_type": "Interior documentation"
+      }
+    ],
+    "signatures": [],
+    "logos": [
+      "Santa Fe railroad logo on caboose"
+    ],
+    "redactions": []
+  },
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": true,
+    "high_priority": false,
+    "quality_score": 90,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Caboose #999191 verifiable Santa Fe railroad property",
+    "Handwriting consistent with previous pages' contributor",
+    "'loot' spelling unusual - possible 'loo' or hideout meaning",
+    "Railroad car acquisition shows unconventional investments",
+    "Photos appear to be documentation of actual property"
+  ],
+  "investigative_leads": [
+    "Track purchase records for Santa Fe caboose #999191",
+    "Determine location where caboose was stored/displayed",
+    "Research 'the pass' reference - specific railroad route?",
+    "Investigate other unusual vehicle/transport acquisitions",
+    "Verify if caboose was functional or decorative"
+  ]
+}

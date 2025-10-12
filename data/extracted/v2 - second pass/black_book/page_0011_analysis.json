@@ -1,0 +1,1332 @@
+{
+  "page_number": 11,
+  "alphabetical_section": "C",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "011_chatwai_vikram",
+      "name": {
+        "full_name": "Chatwai, Vikram",
+        "title": null,
+        "first_name": "Vikram",
+        "last_name": "Chatwai",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": "Alexandra Marya Villa",
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "516 343 5500 (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": "+1",
+          "area_code": "516",
+          "extension": null,
+          "notes": "Long Island, NY work",
+          "is_primary": true,
+          "formatting": "516 343 5500 (w)"
+        },
+        {
+          "number": "516 343 8700 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+1",
+          "area_code": "516",
+          "extension": null,
+          "notes": "Long Island home",
+          "is_primary": false,
+          "formatting": "516 343 8700 (h)"
+        },
+        {
+          "number": "0202 732 0402 Forest Street #527",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": "0202",
+          "extension": null,
+          "notes": "Address mixed with phone",
+          "is_primary": false,
+          "formatting": "0202 732 0402 Forest Street #527"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "Alexandra Marya Villa, Forest Street #527",
+          "street_line1": "Forest Street #527",
+          "street_line2": null,
+          "city": null,
+          "state_province": null,
+          "postal_code": null,
+          "country": null,
+          "notes": "Property name and address"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_chenevix_trench_john_lucy",
+      "name": {
+        "full_name": "Chenevix-Trench, John & Lucy",
+        "title": null,
+        "first_name": "John & Lucy",
+        "last_name": "Chenevix-Trench",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "4 Alison Road",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Street address",
+          "is_primary": false,
+          "formatting": "4 Alison Road"
+        },
+        {
+          "number": "Edgbaston",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Birmingham area",
+          "is_primary": false,
+          "formatting": "Edgbaston"
+        },
+        {
+          "number": "Birmingham B15 2QU",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "UK postal code",
+          "is_primary": false,
+          "formatting": "Birmingham B15 2QU"
+        },
+        {
+          "number": "0207 381 0277 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "London home",
+          "is_primary": true,
+          "formatting": "0207 381 0277 (h)"
+        },
+        {
+          "number": "00 39 06 2927 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+39",
+          "area_code": "06",
+          "extension": null,
+          "notes": "Rome home - incomplete",
+          "is_primary": false,
+          "formatting": "00 39 06 2927 (h)"
+        },
+        {
+          "number": "0207-384 1724 (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "London work",
+          "is_primary": false,
+          "formatting": "0207-384 1724 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "4 Alison Road, Edgbaston, Birmingham B15 2QU",
+          "street_line1": "4 Alison Road",
+          "street_line2": null,
+          "city": "Birmingham",
+          "state_province": null,
+          "postal_code": "B15 2QU",
+          "country": "UK",
+          "notes": "Edgbaston area"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_cicogna_gianfranco",
+      "name": {
+        "full_name": "Cicogna, Gianfranco",
+        "title": null,
+        "first_name": "Gianfranco",
+        "last_name": "Cicogna",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "Via Posillipo Road",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Street address in Naples",
+          "is_primary": false,
+          "formatting": "Via Posillipo Road"
+        },
+        {
+          "number": "Naples",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "City",
+          "is_primary": false,
+          "formatting": "Naples"
+        },
+        {
+          "number": "0039 335 6225 (m)",
+          "type": "mobile",
+          "label": "m",
+          "country_code": "+39",
+          "area_code": "335",
+          "extension": null,
+          "notes": "Italian mobile - incomplete",
+          "is_primary": true,
+          "formatting": "0039 335 6225 (m)"
+        },
+        {
+          "number": "Attn Greca Amina Roncella.net",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Email or contact reference",
+          "is_primary": false,
+          "formatting": "Attn Greca Amina Roncella.net"
+        },
+        {
+          "number": "0039 335 8224 (car)",
+          "type": "car",
+          "label": "car",
+          "country_code": "+39",
+          "area_code": "335",
+          "extension": null,
+          "notes": "Italian mobile - car phone",
+          "is_primary": false,
+          "formatting": "0039 335 8224 (car)"
+        },
+        {
+          "number": "00 41 22 74 27331 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+41",
+          "area_code": "22",
+          "extension": null,
+          "notes": "Geneva, Switzerland home",
+          "is_primary": false,
+          "formatting": "00 41 22 74 27331 (h)"
+        },
+        {
+          "number": "41 21 822 33332 (h Africa h)",
+          "type": "home",
+          "label": "h Africa h",
+          "country_code": "+41",
+          "area_code": "21",
+          "extension": null,
+          "notes": "Swiss number - Africa home reference",
+          "is_primary": false,
+          "formatting": "41 21 822 33332 (h Africa h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "Via Posillipo Road, Naples",
+          "street_line1": "Via Posillipo Road",
+          "street_line2": null,
+          "city": "Naples",
+          "state_province": null,
+          "postal_code": null,
+          "country": "Italy",
+          "notes": "Naples residence"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_cicogna_marina",
+      "name": {
+        "full_name": "Cicogna, Marina",
+        "title": null,
+        "first_name": "Marina",
+        "last_name": "Cicogna",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "00 39 6 32341441",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+39",
+          "area_code": "6",
+          "extension": null,
+          "notes": "Rome landline",
+          "is_primary": true,
+          "formatting": "00 39 6 32341441"
+        },
+        {
+          "number": "00 41 62 245531 (Lugano)",
+          "type": "unknown",
+          "label": "Lugano",
+          "country_code": "+41",
+          "area_code": "62",
+          "extension": null,
+          "notes": "Lugano, Switzerland",
+          "is_primary": false,
+          "formatting": "00 41 62 245531 (Lugano)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_cicogna_gianluca",
+      "name": {
+        "full_name": "Cicogna Gianluca",
+        "title": null,
+        "first_name": "Gianluca",
+        "last_name": "Cicogna",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": "Radio Alta Strada",
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "Radio Alta Strada",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Company name",
+          "is_primary": false,
+          "formatting": "Radio Alta Strada"
+        },
+        {
+          "number": "Milan",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "City",
+          "is_primary": false,
+          "formatting": "Milan"
+        },
+        {
+          "number": "00 39 06 774 41093",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+39",
+          "area_code": "06",
+          "extension": null,
+          "notes": "Rome number",
+          "is_primary": true,
+          "formatting": "00 39 06 774 41093"
+        },
+        {
+          "number": "00 393 35 66388 (cell)",
+          "type": "mobile",
+          "label": "cell",
+          "country_code": "+39",
+          "area_code": "335",
+          "extension": null,
+          "notes": "Italian mobile",
+          "is_primary": false,
+          "formatting": "00 393 35 66388 (cell)"
+        },
+        {
+          "number": "00 39 02 48192398",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+39",
+          "area_code": "02",
+          "extension": null,
+          "notes": "Milan landline",
+          "is_primary": false,
+          "formatting": "00 39 02 48192398"
+        },
+        {
+          "number": "001 917 954 8769 (p)",
+          "type": "mobile",
+          "label": "p",
+          "country_code": "+1",
+          "area_code": "917",
+          "extension": null,
+          "notes": "NYC mobile",
+          "is_primary": false,
+          "formatting": "001 917 954 8769 (p)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "work",
+          "label": "",
+          "full_address": "Radio Alta Strada, Milan",
+          "street_line1": null,
+          "street_line2": null,
+          "city": "Milan",
+          "state_province": null,
+          "postal_code": null,
+          "country": "Italy",
+          "notes": "Radio station location"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_cicognani_pietro_alejandra",
+      "name": {
+        "full_name": "Cicognani, Pietro & Alejandra",
+        "title": null,
+        "first_name": "Pietro & Alejandra",
+        "last_name": "Cicognani",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "00 39 02 796 013",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+39",
+          "area_code": "02",
+          "extension": null,
+          "notes": "Milan landline",
+          "is_primary": true,
+          "formatting": "00 39 02 796 013"
+        },
+        {
+          "number": "001 212 517 5613(h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC home",
+          "is_primary": false,
+          "formatting": "001 212 517 5613(h)"
+        },
+        {
+          "number": "001 516 343 7816 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+1",
+          "area_code": "516",
+          "extension": null,
+          "notes": "Long Island home",
+          "is_primary": false,
+          "formatting": "001 516 343 7816 (h)"
+        },
+        {
+          "number": "001 514 932 7916 (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": "+1",
+          "area_code": "514",
+          "extension": null,
+          "notes": "Montreal work",
+          "is_primary": false,
+          "formatting": "001 514 932 7916 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_cierach_linska",
+      "name": {
+        "full_name": "Cierach, Linska",
+        "title": null,
+        "first_name": "Linska",
+        "last_name": "Cierach",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "The Studio",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Property name",
+          "is_primary": false,
+          "formatting": "The Studio"
+        },
+        {
+          "number": "1c Clareville Grove",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Street address",
+          "is_primary": false,
+          "formatting": "1c Clareville Grove"
+        },
+        {
+          "number": "Fulham",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "London area",
+          "is_primary": false,
+          "formatting": "Fulham"
+        },
+        {
+          "number": "0207 352",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "London number - incomplete",
+          "is_primary": true,
+          "formatting": "0207 352"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "The Studio, 12 Clareville Grove, Fulham",
+          "street_line1": "1c Clareville Grove",
+          "street_line2": "The Studio",
+          "city": "London",
+          "state_province": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Fulham area"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_cipriani_giuseppe",
+      "name": {
+        "full_name": "Cipriani Guiseppi",
+        "title": null,
+        "first_name": "Guiseppi",
+        "last_name": "Cipriani",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "917 693 0228 (p)",
+          "type": "mobile",
+          "label": "p",
+          "country_code": "+1",
+          "area_code": "917",
+          "extension": null,
+          "notes": "NYC mobile",
+          "is_primary": true,
+          "formatting": "917 693 0228 (p)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_cisneros_gustavo_patty",
+      "name": {
+        "full_name": "Cisneros, Gustavo and Patty",
+        "title": null,
+        "first_name": "Gustavo and Patty",
+        "last_name": "Cisneros",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "001 212 717-5880 (h)",
+          "type": "other",
+          "label": "h",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Street address",
+          "is_primary": false,
+          "formatting": "950 5th Avenue New York, New York 10021"
+        },
+        {
+          "number": "001 212 717-5880 (h)",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Location",
+          "is_primary": false,
+          "formatting": "New York, New York"
+        },
+        {
+          "number": "001 212 717-5880(h) (west)",
+          "type": "home",
+          "label": "h west",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC west home",
+          "is_primary": true,
+          "formatting": "001 212 747-0860(h) (west)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "950 5th Avenue New York, New York 10021",
+          "street_line1": "950 5th Avenue New York, New York",
+          "street_line2": null,
+          "city": "Caracas",
+          "state_province": null,
+          "postal_code": null,
+          "country": "USA",
+          "notes": "New York City residence"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_cleverino_Amadeo",
+      "name": {
+        "full_name": "Cleverino, Amadeo",
+        "title": null,
+        "first_name": "Amadeo",
+        "last_name": "Cleverino",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "00 39 2 888 0570 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+39",
+          "area_code": "2",
+          "extension": null,
+          "notes": "Milan home",
+          "is_primary": true,
+          "formatting": "00 39 2 888 0570 (h)"
+        },
+        {
+          "number": "00 39 2 863 8639 (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": "+39",
+          "area_code": "2",
+          "extension": null,
+          "notes": "Milan work",
+          "is_primary": false,
+          "formatting": "00 39 2 863 8639 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_cleverino_isabel",
+      "name": {
+        "full_name": "Cleverino, Isabel",
+        "title": null,
+        "first_name": "Isabel",
+        "last_name": "Cleverino",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "001 305 779113177",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+1",
+          "area_code": "305",
+          "extension": null,
+          "notes": "Miami area - unusual format",
+          "is_primary": true,
+          "formatting": "001 305 779113177"
+        },
+        {
+          "number": "011 305 944 1416 fax",
+          "type": "fax",
+          "label": "fax",
+          "country_code": "+1",
+          "area_code": "305",
+          "extension": null,
+          "notes": "Miami fax",
+          "is_primary": false,
+          "formatting": "011 305 944 1416 fax"
+        },
+        {
+          "number": "(100)00 39 335 3302 Gall",
+          "type": "mobile",
+          "label": "Gall",
+          "country_code": "+39",
+          "area_code": "335",
+          "extension": null,
+          "notes": "Italian mobile - Gall reference",
+          "is_primary": false,
+          "formatting": "(100)00 39 335 3302 Gall"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_clive_lucy",
+      "name": {
+        "full_name": "Clive, Lucy",
+        "title": null,
+        "first_name": "Lucy",
+        "last_name": "Clive",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "13 Elyse Crescent",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Street address",
+          "is_primary": false,
+          "formatting": "13 Elyse Crescent"
+        },
+        {
+          "number": "London SE1",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "London postal area",
+          "is_primary": false,
+          "formatting": "London SE1"
+        },
+        {
+          "number": "001 917 674 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+1",
+          "area_code": "917",
+          "extension": null,
+          "notes": "NYC mobile - incomplete",
+          "is_primary": true,
+          "formatting": "001 917 674 (h)"
+        },
+        {
+          "number": "07733 092 095 (o)",
+          "type": "office",
+          "label": "o",
+          "country_code": "+44",
+          "area_code": "07733",
+          "extension": null,
+          "notes": "UK mobile - office",
+          "is_primary": false,
+          "formatting": "07733 092 095 (o)"
+        },
+        {
+          "number": "001 310 859 (office in LA)",
+          "type": "office",
+          "label": "office in LA",
+          "country_code": "+1",
+          "area_code": "310",
+          "extension": null,
+          "notes": "Los Angeles office - incomplete",
+          "is_primary": false,
+          "formatting": "001 310 859 (office in LA)"
+        },
+        {
+          "number": "001 310 303 1905 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+1",
+          "area_code": "310",
+          "extension": null,
+          "notes": "Los Angeles home",
+          "is_primary": false,
+          "formatting": "001 310 303 1905 (h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "13 Elyse Crescent, London SE1",
+          "street_line1": "13 Elyse Crescent",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SE1",
+          "country": "UK",
+          "notes": "South London"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_cochrane_ms_mandy",
+      "name": {
+        "full_name": "Cochrane, Ms Mandy",
+        "title": "Ms",
+        "first_name": "Mandy",
+        "last_name": "Cochrane",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "4 Sheen Grove",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Street address",
+          "is_primary": false,
+          "formatting": "4 Sheen Grove"
+        },
+        {
+          "number": "East Sheen",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "London area",
+          "is_primary": false,
+          "formatting": "East Sheen"
+        },
+        {
+          "number": "London SW14 7PH",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "London postal code",
+          "is_primary": false,
+          "formatting": "London SW14 7PH"
+        },
+        {
+          "number": "0207-624 6807 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "London home",
+          "is_primary": true,
+          "formatting": "0207-624 6807 (h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "4 Sheen Grove, East Sheen, London SW14 7PH",
+          "street_line1": "4 Sheen Grove",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW14 7PH",
+          "country": "UK",
+          "notes": "East Sheen area"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_cleese_john_alice_fay",
+      "name": {
+        "full_name": "Cleese John Alice Fay",
+        "title": null,
+        "first_name": "John Alice Fay",
+        "last_name": "Cleese",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "007 724 393(m)",
+          "type": "mobile",
+          "label": "m",
+          "country_code": null,
+          "area_code": "007",
+          "extension": null,
+          "notes": "Unusual country code",
+          "is_primary": true,
+          "formatting": "007 724 393(m)"
+        },
+        {
+          "number": "010 365 394(m)",
+          "type": "mobile",
+          "label": "m",
+          "country_code": null,
+          "area_code": "010",
+          "extension": null,
+          "notes": "Unclear format",
+          "is_primary": false,
+          "formatting": "010 365 394(m)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": "good"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_clempson_graham_emma",
+      "name": {
+        "full_name": "Clempson, Graham & Emma",
+        "title": null,
+        "first_name": "Graham & Emma",
+        "last_name": "Clempson",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "Knaresborough Road",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Street address",
+          "is_primary": false,
+          "formatting": "Knaresborough Road"
+        },
+        {
+          "number": "London SW6",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "London postal area",
+          "is_primary": false,
+          "formatting": "London SW6"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "Knaresborough Road, London SW6",
+          "street_line1": "Knaresborough Road",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW6",
+          "country": "UK",
+          "notes": "Fulham area"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Name appears incomplete with '&'"
+    },
+    {
+      "entry_id": "011_cohen_dalit",
+      "name": {
+        "full_name": "Cohen Dalit",
+        "title": null,
+        "first_name": "Dalit",
+        "last_name": "Cohen",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "78 Elm Park Mansions",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Building/address",
+          "is_primary": false,
+          "formatting": "78 Elm Park Mansions"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "78 Elm Park Mansions",
+          "street_line1": "78 Elm Park Mansions",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Chelsea area building"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 16,
+    "legibility": "excellent",
+    "notable_features": [
+      "Multiple Italian Cicogna family members",
+      "International mix with Venezuela (Cisneros) and Switzerland connections",
+      "Several incomplete phone numbers",
+      "Radio Alta Strada company reference",
+      "Multiple couples listed",
+      "Mix of European and North American contacts"
+    ],
+    "extraction_timestamp": "2024-12-29T13:00:00Z",
+    "extractor_version": "2.0"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Vikram Chatwai",
+      "John Chenevix-Trench",
+      "Lucy Chenevix-Trench",
+      "Gianfranco Cicogna",
+      "Marina Cicogna",
+      "Gianluca Cicogna",
+      "Pietro Cicognani",
+      "Alejandra Cicognani",
+      "Linska Cierach",
+      "Guiseppi Cipriani",
+      "Gustavo Cisneros",
+      "Patty Cisneros",
+      "Amadeo Cleverino",
+      "Isabel Cleverino",
+      "Lucy Clive",
+      "Mandy Cochrane",
+      "John Cleese",
+      "Alice Fay Cleese",
+      "Graham Clempson",
+      "Emma Clempson",
+      "Dalit Cohen"
+    ],
+    "organizations": [
+      "Alexandra Marya Villa",
+      "Radio Alta Strada"
+    ],
+    "locations": [
+      "Birmingham",
+      "Naples",
+      "Milan",
+      "Rome",
+      "Geneva",
+      "Lugano",
+      "Caracas",
+      "Venezuela",
+      "London",
+      "Los Angeles",
+      "Miami",
+      "New York",
+      "Montreal"
+    ]
+  },
+  "insights": [
+    "Page 11 contains 16 contact entries continuing the C section",
+    "Strong Italian presence with Cicogna/Cicognani family entries",
+    "International reach from Venezuela to Switzerland",
+    "Several media connections (Radio Alta Strada)",
+    "Multiple incomplete phone numbers suggesting ongoing updates",
+    "Mix of residential properties with named estates (Alexandra Marya Villa, The Rectory)"
+  ]
+}

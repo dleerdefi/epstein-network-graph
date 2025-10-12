@@ -1,0 +1,447 @@
+{
+  "page_number": 67,
+  "alphabetical_section": "BUSINESS LISTINGS - HOTELS",
+  "page_header": "Hotels and Island listings",
+  "contacts": [
+    {
+      "entry_id": "067_cox_madison",
+      "name": {
+        "full_name": "Cox, Madison",
+        "prefix": null,
+        "first_name": "Madison",
+        "middle_name": null,
+        "last_name": "Cox",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "340 774 4765",
+          "formatting": "340 774 4765 Cottage(f)"
+        },
+        {
+          "type": "home",
+          "number": "340 774 5078",
+          "formatting": "340 774 5078 House (p)"
+        },
+        {
+          "type": "work",
+          "number": "340 714 0608",
+          "formatting": "340 714 0608 Sonia (unused)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "mcox@conencx.com",
+          "type": "work",
+          "notes": "conencx.com domain"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "Madison Cox Design inc",
+            "447 West 139th Street",
+            "9th Floor",
+            "New York, NY 10011"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10011",
+          "country": "USA",
+          "notes": "Design firm - Harlem office"
+        },
+        {
+          "type": "work",
+          "address_lines": [
+            "212 807 809 (f)",
+            "Email:mcox@aol.com",
+            "0112126326 Morocco p"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": "Additional contact information"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Madison Cox - noted landscape/interior designer with Morocco connection"
+    },
+    {
+      "entry_id": "067_epstein_jeffrey_island",
+      "name": {
+        "full_name": "Epstein, Jeffrey",
+        "prefix": null,
+        "first_name": "Jeffrey",
+        "middle_name": null,
+        "last_name": "Epstein",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "island",
+          "number": "340 775 6691",
+          "formatting": "340 775 6691 Dale (h)"
+        },
+        {
+          "type": "island",
+          "number": "340 775 5170",
+          "formatting": "340 775 5170 Gwen (h)"
+        },
+        {
+          "type": "island",
+          "number": "340 775 4321",
+          "formatting": "340 775 4321 Jerome (h)"
+        },
+        {
+          "type": "island",
+          "number": "340 775 5369",
+          "formatting": "340 775 5369 Kim (h)"
+        },
+        {
+          "type": "island",
+          "number": "340 890 3443",
+          "formatting": "340 890 3443 Cecile portable"
+        },
+        {
+          "type": "island",
+          "number": "340 771 5045",
+          "formatting": "340 771 5045 Leon car"
+        }
+      ],
+      "emails": [
+        {
+          "address": "cathmile@yahoo.com",
+          "type": "staff",
+          "notes": "Staff email"
+        },
+        {
+          "address": "lil5thave@spmalleandf.com",
+          "type": "unknown",
+          "notes": "Unknown domain"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "island",
+          "address_lines": [
+            "6100 Red Hook Quarters B-3",
+            "St. Thomas, USVI 00802"
+          ],
+          "city": "St. Thomas",
+          "state": "USVI",
+          "postal_code": "00802",
+          "country": "US Virgin Islands",
+          "notes": "USVI property - Little St. James Island base"
+        },
+        {
+          "type": "island_staff",
+          "address_lines": [
+            "340 775 7338 All Center Helicop-",
+            "ter"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": "USVI",
+          "notes": "Air Center Helicopter service"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Jeffrey Epstein's Virgin Islands property contacts - Little St. James Island"
+    },
+    {
+      "entry_id": "067_hoffman_paul",
+      "name": {
+        "full_name": "Hoffman, Paul",
+        "prefix": null,
+        "first_name": "Paul",
+        "middle_name": null,
+        "last_name": "Hoffman",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "340-774-2366",
+          "formatting": "340-774-2366 (w)"
+        },
+        {
+          "type": "fax",
+          "number": "340-774-318",
+          "formatting": "340-774-318 (h)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "HoffmanPC@ATT.net",
+          "type": "work",
+          "notes": "ATT.net email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "Paul Hoffman, PC",
+            "41-52 Main Street, Gade",
+            "P.O. Box 6761",
+            "St. Thomas, USVI",
+            "00802-6761"
+          ],
+          "city": "St. Thomas",
+          "state": "USVI",
+          "postal_code": "00802-6761",
+          "country": "US Virgin Islands",
+          "notes": "Law firm - St. Thomas"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Paul Hoffman PC - Virgin Islands attorney"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 3,
+    "entries_with_emails": 3,
+    "entries_with_addresses": 3,
+    "entries_with_handwritten_notes": 0,
+    "couples": 0,
+    "average_confidence": "high",
+    "notable_figures_count": 2,
+    "special_notes": "Page contains hotel listings and ISLAND(I) section with Jeffrey Epstein's Virgin Islands property contacts"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Madison Cox (designer)",
+      "Jeffrey Epstein",
+      "Dale (island staff)",
+      "Gwen (island staff)",
+      "Jerome (island staff)",
+      "Kim (island staff)",
+      "Cecile (island staff)",
+      "Leon (island driver)",
+      "Paul Hoffman (attorney)",
+      "Sonia (unused contact)"
+    ],
+    "organizations": [
+      "Madison Cox Design inc",
+      "Paul Hoffman PC",
+      "Air Center Helicopter"
+    ],
+    "locations": {
+      "international": [
+        "London, UK (hotels)",
+        "Morocco (Cox connection)"
+      ],
+      "us_cities": [
+        "New York City",
+        "St. Thomas, USVI (dominant)"
+      ],
+      "elite_addresses": [
+        "6100 Red Hook Quarters B-3, St. Thomas, USVI 00802 (Epstein island base)"
+      ]
+    },
+    "business_listings": [
+      {
+        "name": "Blakes",
+        "phone": "071-370 5701",
+        "type": "hotel",
+        "location": "London"
+      },
+      {
+        "name": "Carlton Tower",
+        "phone": "071-235 5411",
+        "type": "hotel",
+        "location": "London"
+      },
+      {
+        "name": "Claridges",
+        "address": "Brook Street, Mayfair W1A 2JQ",
+        "phones": [
+          "44 207 629 8860",
+          "44 207 499 2210 (f)"
+        ],
+        "type": "hotel",
+        "location": "London"
+      },
+      {
+        "name": "Cliveden House",
+        "phones": [
+          "011417173906466",
+          "062-668-9261"
+        ],
+        "location": "London",
+        "type": "hotel"
+      },
+      {
+        "name": "Connaught",
+        "phone": "071-499 7070",
+        "type": "hotel",
+        "location": "London"
+      },
+      {
+        "name": "Dorchester",
+        "phone": "071-629 8888",
+        "type": "hotel",
+        "location": "London"
+      },
+      {
+        "name": "Lanesborough Hotel",
+        "subtitle": "General Manager Geoffrey Gelardi",
+        "address": "1 Lanesborough Place, Hyde Park Corner, LONDON SW1X 7TA UK",
+        "phones": [
+          "44 207 259 5606",
+          "44 207 259 5609 (f)"
+        ],
+        "type": "hotel",
+        "location": "London"
+      },
+      {
+        "name": "Private fax 8/2",
+        "phone": "4471-333-7533",
+        "type": "fax_line"
+      },
+      {
+        "name": "Ritz",
+        "phone": "071 493 8181",
+        "type": "hotel",
+        "location": "London"
+      },
+      {
+        "name": "Savoy",
+        "phone": "071-836 4343",
+        "type": "hotel",
+        "location": "London"
+      },
+      {
+        "name": "The Barclay Hotel",
+        "address": "London",
+        "phone": "0207-235-8000",
+        "type": "hotel",
+        "location": "London"
+      },
+      {
+        "name": "Waterside Inn",
+        "phone": "0628 20691",
+        "type": "hotel_restaurant",
+        "location": "UK"
+      },
+      {
+        "name": "ISLAND(I)",
+        "type": "section_header"
+      },
+      {
+        "name": "Air Center Helicopter",
+        "phones": [
+          "340-775-7335 Nicholas & Tina",
+          "tel",
+          "340-774-0976 home",
+          "340-690-161271 call"
+        ],
+        "type": "helicopter_service",
+        "location": "USVI"
+      },
+      {
+        "name": "Christopher Taxi",
+        "phones": [
+          "340-690-1561 (cell)",
+          "340-777-5082 (home)"
+        ],
+        "type": "taxi_service",
+        "location": "USVI"
+      },
+      {
+        "name": "Financial Trust Company",
+        "subtitle": "6100 Red Hook Quarter",
+        "phones": [
+          "340 775 2526",
+          "340 775 2526 (f)"
+        ],
+        "type": "financial_services",
+        "location": "St. Thomas, USVI"
+      },
+      {
+        "name": "Additional Island Numbers",
+        "phones": [
+          "340 690 1012 Nicolas (p)",
+          "340 777 0334 Gretchen(h)",
+          "340 774 0006 JE 1",
+          "340 774 8009 JE 2",
+          "340 774 7407 JE 3",
+          "340 774 3076 JE 4",
+          "340 773 7091 JE 5",
+          "340 774 2184 cell Buddy (f)",
+          "340 714 2583 GM (p)",
+          "340 775 2075 Dart (Dar)",
+          "340 775 0287 (h)",
+          "340 771 1907 Cathy (h)",
+          "340 714 7007 Staff",
+          "340 771 1231 Cell Backup 1",
+          "340 771 3808 Cell Backup 2",
+          "340 777 2032 Roscoe (Gconle)",
+          "340 771 9009 Bruce (h)",
+          "340 771 1339 Bruce White(p)",
+          "340 771 5750 Tim C",
+          "340 775 3266 Amter Yacht Harb.",
+          "340 775 5970 Amer. Yacht Harb.(f)"
+        ],
+        "type": "island_phone_directory"
+      },
+      {
+        "name": "HimEstate Havens",
+        "phones": [
+          "St. Thomas, VI 00804",
+          "340-493-2083 (p)",
+          "617 547 7937 Boston h"
+        ],
+        "type": "real_estate",
+        "location": "USVI"
+      }
+    ]
+  },
+  "insights": [
+    "CRITICAL: Jeffrey Epstein's Virgin Islands operation headquarters - 6100 Red Hook Quarters B-3, St. Thomas, USVI 00802",
+    "Island staff network: Dale, Gwen, Jerome, Kim (all with 340 775 area home numbers), Cecile (portable), Leon (car/driver)",
+    "Air Center Helicopter service (340-775-7335) - private air transport to/from Little St. James Island",
+    "Madison Cox - prominent landscape/interior designer with NYC office at 447 West 139th Street and Morocco connection (0112126326)",
+    "Paul Hoffman PC - St. Thomas attorney at 41-52 Main Street, likely handling USVI legal matters",
+    "Financial Trust Company at same Red Hook Quarter address - financial services for island operations",
+    "Christopher Taxi (340-690-1561) - local transport service",
+    "JE numbered lines (JE 1 through JE 5: 340 774 0006, 8009, 7407, 3076, 340 773 7091) - dedicated Epstein communication lines",
+    "GM line (340 714 2583) - likely Ghislaine Maxwell Virgin Islands phone",
+    "Staff infrastructure: Buddy, Dart/Dar, Cathy, Staff line, Cell Backup 1&2, Roscoe, Bruce, Bruce White, Tim C",
+    "American Yacht Harbor connections (340 775 3266, 340 775 5970 fax) - marina services for boats/yachts",
+    "London luxury hotel cluster: Blakes, Carlton Tower, Claridges, Cliveden House, Connaught, Dorchester, Lanesborough, Ritz, Savoy",
+    "Lanesborough Hotel with General Manager Geoffrey Gelardi - Hyde Park Corner ultra-luxury property",
+    "Private fax line noted as 8/2 (4471-333-7533) - possibly August 2nd or building 8 floor 2",
+    "HimEstate Havens with Boston connection (617 547 7937) - real estate services",
+    "Island operation scale: 20+ dedicated phone lines, helicopter service, multiple staff members, attorney, financial services",
+    "cathmile@yahoo.com - staff email for island operations",
+    "Nicolas & Tina at helicopter service, Gretchen, Buddy, various staff members indicate substantial operation",
+    "Morocco connection through Madison Cox - international design/architecture network"
+  ]
+}

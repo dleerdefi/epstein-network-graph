@@ -1,0 +1,719 @@
+{
+  "page_number": 43,
+  "alphabetical_section": "P",
+  "contacts": [
+    {
+      "name": "Pearson, Hon Charles",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "15 Marchants Gardens",
+          "street": "15 Marchants Gardens",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London, SW13 0JU",
+          "city": "London",
+          "postal_code": "SW13 0JU",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 736 3465 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 980 (w office)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        }
+      ],
+      "addresses_additional": [
+        {
+          "type": "secondary",
+          "address": "[illegible]@[illegible].net",
+          "confidence": "low"
+        }
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "0207 XXX 3465",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        "[illegible]@pearsonagogue@[illegible]"
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Pease, Simon & Clara",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Kestors Gardens",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Exeter EX6",
+          "city": "Exeter",
+          "postal_code": "EX6",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "London",
+          "city": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "XXXX",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 626 7345 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Pedrini Lorenzo",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Via Carina",
+          "street": "Via Carina",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 917 447 29[90]",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "39 33 34 913 0100",
+          "country_code": "39",
+          "area_code": "33",
+          "geographic_indicator": "Italy mobile",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "[illegible] XX Office Fax"
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Pedrini Tito",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 914 659 353[890]",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 879 (41) (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "[illegible]@[illegible][office]",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Pekeler, Marcus",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0041 794 912 377",
+          "country_code": "41",
+          "area_code": "794",
+          "geographic_indicator": "Switzerland mobile",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Peltz, Harlan",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "107 East 49th",
+          "street": "107 East 49th",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York, NY 10005",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10005",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 888 1800[m]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 737 0208",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "hartzman@[illegible].com"
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "001 917 691 2919 (m)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Pennell, Mark",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 31 20 577 3992",
+          "country_code": "31",
+          "area_code": "20",
+          "geographic_indicator": "Amsterdam, Netherlands",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 31 6 9473 3966XXX",
+          "country_code": "31",
+          "area_code": "6",
+          "geographic_indicator": "Netherlands mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "00 31 7 9950 562 2XXX",
+          "country_code": "31",
+          "area_code": "7",
+          "geographic_indicator": "Netherlands",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Perelman, Ronald",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "26 East Pond Road",
+          "street": "26 East Pond Road",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York NY 10021",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 572 5600",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Ronald Perelman - billionaire businessman",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Pelangi, Heloise",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 41 7822 6232",
+          "country_code": "41",
+          "area_code": "78",
+          "geographic_indicator": "Switzerland mobile",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Peters, John",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "French Grove Road",
+          "street": "French Grove Road",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Essex AM10",
+          "county": "Essex",
+          "postal_code": "AM10",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 354 81817",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 922 5855 (w)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 914 654 8814 (w)",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Peterson, Holly",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 472 1149 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Peterson, Riki",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 411 1121 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 747 14(h)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 982 5597 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Phein Linh Dan + Andrew",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Phein UYS suite 1106",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "10 W 56th St",
+          "street": "10 W 56th St",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "New York, NY 10019",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10019",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "linh@c.blackening@hotmail.com"
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Picasso, Olivier & Alice",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "76 rue Marchant",
+          "street": "76 rue Marchant",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "CH 5211 Chambery",
+          "country": "CH",
+          "postal_code": "5211",
+          "city": "Chambery",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 33 4 78 06 05 05",
+          "country_code": "33",
+          "area_code": "4",
+          "geographic_indicator": "Southern France",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 884 XX93 60 60 (w)",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Olivier Picasso - Picasso family member, couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Piccolotto Michael",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "61/63 Star Knots",
+          "street": "61/63 Star Knots",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 584 4700",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0044 7976 500 (Truck)",
+          "country_code": "44",
+          "area_code": "7976",
+          "geographic_indicator": "UK mobile",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Pignatelli, Frederico",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "206 W Broadway #68",
+          "street": "206 W Broadway",
+          "unit": "#68",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York, NY 10013",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10013",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 646 508 5355(h)",
+          "area_code": "646",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 625 XXXX(w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 208 3000 (m)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Pigozzi Jean",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "CAP[illegible]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "02 7901 7282",
+          "area_code": "02",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 223[1938/9]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "XX 33 4 XX 63 34 79",
+          "country_code": "33",
+          "area_code": "4",
+          "geographic_indicator": "Southern France",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "33 4 92 52 65XX Nice",
+          "country_code": "33",
+          "area_code": "4",
+          "geographic_indicator": "Nice, France",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "X 7 X XX 3866 5600 business or",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "X 7 X 63 86",
+          "confidence": "low"
+        }
+      ],
+      "emails": [
+        "[illegible]@[illegible]"
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "0093-012-379",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Jean Pigozzi - photographer/art collector",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Pitman, Bob & Veronique",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "550 Park Ave",
+          "street": "550 Park Ave",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "480 Broadway 7th Avenue (h)",
+          "street": "480 Broadway 7th Avenue",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "Apt 18-c",
+          "unit": "Apt 18-c",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "New York",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Bob Pitman - media executive, couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Peterson, Jane & William (III)",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "63 West 11 St",
+          "street": "63 West 11 St",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York 10025",
+          "city": "New York",
+          "postal_code": "10025",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "XXX-XXX-XXX",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0095 718 637XOX",
+          "area_code": "718",
+          "geographic_indicator": "Brooklyn/Queens, NYC",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 19,
+    "quality": "poor",
+    "legibility": "heavily degraded",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "Ronald Perelman - Billionaire businessman",
+      "Olivier Picasso - Picasso family member",
+      "Jean Pigozzi - Photographer/art collector",
+      "Bob Pitman - Media executive"
+    ]
+  },
+  "insights": [
+    "Ronald Perelman - major billionaire businessman",
+    "Olivier Picasso - from famous Picasso family",
+    "Jean Pigozzi - prominent photographer and art collector",
+    "Bob Pitman - media executive (MTV/AOL connections)",
+    "Amsterdam Netherlands connection (31 20)",
+    "Switzerland connections (multiple entries)",
+    "Southern France and Nice presence",
+    "Exeter UK connection",
+    "Essex county UK",
+    "Strong Italian mobile presence"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "medium",
+    "total_contacts": 19,
+    "high_confidence": 9,
+    "medium_confidence": 8,
+    "low_confidence": 2,
+    "extraction_issues": [
+      "Heavy page degradation",
+      "Multiple partially illegible entries",
+      "Several incomplete phone numbers",
+      "Some addresses unclear"
+    ]
+  }
+}

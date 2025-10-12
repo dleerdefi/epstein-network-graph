@@ -1,0 +1,624 @@
+{
+  "page_number": 25,
+  "alphabetical_section": "H",
+  "contacts": [
+    {
+      "name": "Hammond, Dana",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "117 East 57th Street",
+          "street": "117 East 57th Street",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 593 0717",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 631 668 7852",
+          "area_code": "631",
+          "geographic_indicator": "Suffolk County, NY",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Handler, Sharon",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "100 Park Avenue / New York",
+          "street": "100 Park Avenue",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 688 81XX[1]w",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 764 1100 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 764 7100 (p)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Evelyn handler 516 674 0000",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "914 834 8104 westchester",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Evelyn Handler connection",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Hanover Ernst & chantal",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Fountaine Bleau / Monaco 98000",
+          "city": "Monaco",
+          "postal_code": "98000",
+          "country": "Monaco",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 581[illegible]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Prince Ernst of Hanover",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "[Entry with South Beverly Drive]",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "[illegible] South Beverly Drive / Beverly Hills / CA 90212",
+          "city": "Beverly Hills",
+          "state": "CA",
+          "postal_code": "90212",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 310 270 8287",
+          "area_code": "310",
+          "geographic_indicator": "West LA/Beverly Hills",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 582 6541",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 5825 [faded]",
+          "area_code": "212",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 582 6200 (Benton w)",
+          "area_code": "212",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 310 852 0800 [crossed]",
+          "area_code": "310",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 310 270 800X Secretary",
+          "area_code": "310",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Name not visible, Beverly Hills address",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Name not visible"]
+      }
+    },
+    {
+      "name": "Hanson, Brook",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "44 Eaton Square / London",
+          "street": "44 Eaton Square",
+          "city": "London",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "020 235 0218 (h)",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "020 235 7719 (w)",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Hanson, Lord & Lady",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Carlton Court / 50 Hanover Square",
+          "street": "50 Hanover Square",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 917 362 86[XX]",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 355 888[0] Robert",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 362 860[0] [illegible]",
+          "area_code": "917",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "British aristocracy - Hanson business empire",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Hanson, The Hon Robert",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "The Garden House / 180 Piccadilly W1",
+          "street": "180 Piccadilly",
+          "postal_code": "W1",
+          "city": "London",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "01900 800 200 (h)",
+          "geographic_indicator": "UK",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01900 880 319 (m)",
+          "geographic_indicator": "UK",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Son of Lord Hanson",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Hansbury, Mark",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "91 Farmingway Road / London W14[9] / Old Pine Lane",
+          "city": "London",
+          "postal_code": "W14",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 385 XXXX",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Harvey Victoria",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "59 Park Avenue",
+          "street": "59 Park Avenue",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Harvie-Watt, Isabella",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "7 Ovington Gardens / SW3 1 LZ",
+          "street": "7 Ovington Gardens",
+          "postal_code": "SW3 1LZ",
+          "city": "London",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 93 2 891351 10-1",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Haslam, Nick",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "0207 730 XXXXX[h]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 730 XXXXX[h]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 730 6701[home]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "# #[illegible].net",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Interior designer",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Hatkoff, Craig & Jane",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1 West 72nd Street / New York",
+          "street": "1 West 72nd Street",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 974 9877[h]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 606 1021(o)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Craig: 917 282 5000[m]",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Jane: 917 553 9449[m]",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "518 644 9859 Lake",
+          "area_code": "518",
+          "geographic_indicator": "Upstate NY",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Hay, Henry & Patricia",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "47 St Annes / [illegible]",
+          "street": "47 St Annes",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 917 533 4900(h)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 631 653 1108[h]",
+          "area_code": "631",
+          "geographic_indicator": "Suffolk County, NY",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "Email: 001 603 8104 [fax]"
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Hayworth Reggie",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Greenwich / Connecticut",
+          "city": "Greenwich",
+          "state": "Connecticut",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Donn: [illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0203 322734",
+          "area_code": "0203",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Hazel[-]resaph, Clare",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Thallors / [illegible]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 2[XX] XXX",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "P:O Box 1793",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0370 730 500 cell Bermuda",
+          "geographic_indicator": "Bermuda",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 430 7400 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0142 430 704 UK (m)",
+          "geographic_indicator": "UK",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0162 [illegible]",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Bermuda connection",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Name partially unclear", "Several numbers illegible"]
+      }
+    },
+    {
+      "name": "Hearn Barry & Susan",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "10 Stambuly Road / London W6",
+          "street": "10 Stambuly Road",
+          "city": "London",
+          "postal_code": "W6",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0208 563XXX",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "01784 433 14[phone]",
+          "geographic_indicator": "UK",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Hauteville, Marc de",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 33 1 4324 4385 (h)",
+          "country_code": "33",
+          "area_code": "1",
+          "geographic_indicator": "Paris, France",
+          "confidence": "high"
+        }
+      ],
+      "notes": "French contact",
+      "data_quality": {
+        "confidence": "high"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 17,
+    "quality": "fair",
+    "legibility": "partially obscured",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "Prince Ernst of Hanover - European royalty",
+      "Lord & Lady Hanson - British business dynasty",
+      "The Hon Robert Hanson - Hanson heir",
+      "Nick Haslam - Famous interior designer"
+    ]
+  },
+  "insights": [
+    "Strong Hanson family presence (Lord, Lady, Hon Robert, Brook)",
+    "Prince Ernst of Hanover - European royalty with Monaco address",
+    "Nick Haslam - prominent British interior designer",
+    "Multiple NYC Upper East/West Side addresses",
+    "Beverly Hills connection (90212 zip code)",
+    "Greenwich Connecticut presence",
+    "Monaco address indicating ultra-wealthy connections",
+    "Bermuda connection through Hazel entry",
+    "Mix of London prime areas (Piccadilly, Eaton Square)",
+    "Upstate NY connection (518 area code - Lake house)"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "high",
+    "total_contacts": 17,
+    "high_confidence": 11,
+    "medium_confidence": 5,
+    "low_confidence": 1,
+    "extraction_issues": [
+      "One entry missing name (Beverly Hills address)",
+      "Some phone numbers partially illegible",
+      "Hazel entry name partially unclear"
+    ]
+  }
+}

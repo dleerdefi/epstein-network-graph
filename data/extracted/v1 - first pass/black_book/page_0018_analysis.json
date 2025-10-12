@@ -1,0 +1,624 @@
+{
+  "page_number": 18,
+  "alphabetical_section": "E-F",
+  "contacts": [
+    {
+      "name": "Evans Chris",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 583 2001",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0831 278 0148",
+          "area_code": "0831",
+          "geographic_indicator": "UK mobile (old)",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Everhart Angie",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Los Angeles",
+          "city": "Los Angeles",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        "Email: anvy22@aol.com"
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Faber David",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 589 5000",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Faber Sally & Brook Johnson",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Between Dances Estate / Chelsea Green, London / Oyster Mtn Rd, Old St., NY",
+          "city": "London/NY",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "07778 988 00100",
+          "area_code": "07778",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Email address [illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "01283 817 0029 [old]",
+          "geographic_indicator": "UK",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Fadairan, Charlotte",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "8 Beaufort Tower / Royal Hospital / London SW3",
+          "city": "London",
+          "postal_code": "SW3",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 352 7661 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Fairfax, The Hon Rupert",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "The Coach House",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Honorary title",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Limited contact information"]
+      }
+    },
+    {
+      "name": "Lowar Hall",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Wrexham Denbighshire / LL12 XXX",
+          "city": "Wrexham",
+          "region": "Denbighshire",
+          "postal_code": "LL12",
+          "country": "Wales",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "441 227 714400",
+          "country_code": "44",
+          "geographic_indicator": "UK",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Email: [illegible]@managedgold.com",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "01978 721071 (office)",
+          "geographic_indicator": "UK",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01143 139XXX (h)",
+          "geographic_indicator": "UK",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Fairweather Natasha",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Archers / 00 722 5420[00]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 722 5420[00]",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "00 722 5426[22S]",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Fairweather, Mrs",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "16A Bremilham / Malmesbury",
+          "city": "Malmesbury",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 351 0111",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 63 63215[XX]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "mobile: 00852 9064000",
+          "country_code": "852",
+          "geographic_indicator": "Hong Kong",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 792 9742[47]",
+          "area_code": "0207",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Fairweather Ambassador & Lady",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "PO Box 8068 / 15 Welbamy Close / London W14 0QS",
+          "city": "London",
+          "postal_code": "W14 0QS",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 381 4800[00]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Ambassador title",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Falkhre, Armedo & Jasmine",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "19 Ave Bosana",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Limited information"]
+      }
+    },
+    {
+      "name": "Luckas, Sarah",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Melbourne",
+          "city": "Melbourne",
+          "country": "Australia",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0061 383 210700",
+          "country_code": "61",
+          "geographic_indicator": "Australia",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Falletans, Olivier de",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "7 rue Vaneau / London SW10",
+          "city": "London",
+          "postal_code": "SW10",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 352 8319 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0802 849 5[XX]",
+          "confidence": "low"
+        }
+      ],
+      "notes": "French name",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Fakhre, Danny & Christine",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "16 Fashion Place / Flat 1&2 / London",
+          "city": "London",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "020 7235 8871",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Fanjul, Pepe",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "561 655 8724 (o)",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "office",
+          "number": "561 655 8724 (o)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach, Florida",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 655 76XX (h)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach, Florida",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "212 273 886XX[1]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Florida sugar industry family",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Fali, Meredith",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "The Ritz Carlton / 46 20 [illegible] West",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 20 1 922 5445",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Fallon, Mrs",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "8 Bradley Place / Broadway SW19",
+          "city": "London",
+          "postal_code": "SW19",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London 4 XX",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 736 7[XX] (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0831 421 941 (m)",
+          "area_code": "0831",
+          "geographic_indicator": "UK mobile (old)",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Fallah, Ms Christina Baron Rolls",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "21 Grosnes Ave / XXX Drive / NY NY 10128[h]",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10128",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 831 5878[h]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "011 33 [illegible]",
+          "country_code": "33",
+          "geographic_indicator": "France",
+          "confidence": "low"
+        }
+      ],
+      "emails": [
+        "Email: baron [illegible]"
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Feeley, Fiona",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "33 Emperor's Gate / London SW7",
+          "city": "London",
+          "postal_code": "SW7",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "MXXXX",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "00 353 0332[XX]",
+          "country_code": "353",
+          "geographic_indicator": "Ireland",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "Princess Diana XXX[illegible]@aol.com",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "Hyde Park House / Ponteside",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Princess Diana reference",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Several entries unclear"]
+      }
+    },
+    {
+      "name": "Feldal, Frederic",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Cabinet Porto Finance Center / 12 Rue St Honore",
+          "street": "12 Rue St Honore",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "01 42 60 3315",
+          "country_code": "33",
+          "area_code": "1",
+          "geographic_indicator": "Paris, France",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "[Town 5th & Madison]"
+      ],
+      "notes": "Finance sector",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Terence & Cornelia Conran",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "0207 XXX[085] (h)",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 XXX 085 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 401 1648[50]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Terence Conran - designer/restaurateur",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 21,
+    "quality": "fair",
+    "legibility": "partially obscured",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "Terence Conran - Designer/Restaurateur",
+      "Pepe Fanjul - Florida sugar industry family",
+      "Princess Diana reference in Feeley entry"
+    ]
+  },
+  "insights": [
+    "Transition from E to F section of alphabetical listing",
+    "Strong Palm Beach, Florida connection (Fanjul family - sugar industry)",
+    "International contacts including Hong Kong, Australia, Ireland",
+    "Several aristocratic/diplomatic titles (Ambassador, The Hon)",
+    "Princess Diana reference suggests royal connections",
+    "Terence Conran entry - famous British designer",
+    "Mix of old UK mobile codes (0831) and newer ones",
+    "Finance sector connections (Cabinet Porto Finance Center)",
+    "Wales location (Wrexham, Denbighshire)",
+    "Multiple couple entries indicating social network connections"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "medium",
+    "total_contacts": 21,
+    "high_confidence": 8,
+    "medium_confidence": 10,
+    "low_confidence": 3,
+    "extraction_issues": [
+      "Several phone numbers partially illegible",
+      "Some addresses incomplete",
+      "Princess Diana reference unclear in context"
+    ]
+  }
+}

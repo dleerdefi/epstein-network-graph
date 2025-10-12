@@ -1,0 +1,197 @@
+{
+  "page_number": 106,
+  "file_path": "data/birthday_book_images/page_0106.png",
+  "file_size_mb": 2.2694854736328125,
+  "type": "photo_collage_with_invitation",
+  "content": {
+    "text": "Jeffrey and [REDACTED]\ncordially invite you\nto cocktails and dinner\nJanet R. Graduation Eve\n[Date]\nCountry Club\n101 N. Michigan Ave\n\nI truly share this diploma with\nyou! THANK YOU!!!!\n\nThis was a great celebration!",
+    "handwritten": true,
+    "typed": true,
+    "mixed": true,
+    "description": "Formal invitation card with celebration photos and handwritten captions",
+    "text_sections": {
+      "full_transcription": "Jeffrey and [REDACTED] (invitation card)\ncordially invite you\nto cocktails and dinner\nJanet R. Graduation Eve\n[Date redacted]\nCountry Club\n101 N. Michigan Ave\n\n(Handwritten captions):\nI truly share this diploma with\nyou! THANK YOU!!!!\n\nThis was a great celebration!",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          106
+        ]
+      },
+      {
+        "name": "Janet R.",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          106
+        ]
+      },
+      {
+        "name": "Multiple individuals in celebration photos",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          106
+        ]
+      }
+    ],
+    "organizations": [
+      "Country Club"
+    ],
+    "locations": [
+      "101 N. Michigan Ave.",
+      "Country Club"
+    ],
+    "dates": [
+      "Friday (specific date not shown)"
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Jeffrey and [redacted]",
+    "recipient": "Birthday book audience",
+    "date": "Friday (unspecified)",
+    "subject": "Cocktails and dinner invitation with diploma celebration",
+    "theme": "academic_achievement_celebration",
+    "significance": "medium",
+    "document_type": "photo_collage_with_invitation"
+  },
+  "insights": [
+    "Formal invitation indicates Epstein hosted events at Country Club",
+    "101 N. Michigan Ave. suggests Chicago location (Michigan Avenue)",
+    "Diploma sharing comment indicates academic achievement or graduation",
+    "Multiple redactions suggest privacy concerns for attendees",
+    "Mix of formal invitation and casual celebration photos",
+    "'Janet R.' appears as key figure in invitation",
+    "Gratitude expressed suggests this was meaningful achievement",
+    "Event appears to combine cocktails, dinner, and celebration",
+    "Co-host name redacted on invitation indicates privacy consideration"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000106",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.172324",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Outdoor gathering with multiple people",
+        "theme": "celebration",
+        "setting": "outdoor_venue",
+        "elements": [
+          "trees",
+          "casual gathering"
+        ],
+        "redactions": [
+          "multiple faces redacted"
+        ],
+        "individual_count": 5,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      },
+      {
+        "description": "Indoor celebration scene",
+        "theme": "diploma_celebration",
+        "setting": "indoor_venue",
+        "elements": [
+          "formal attire",
+          "celebration atmosphere"
+        ],
+        "redactions": [
+          "faces redacted with black boxes"
+        ],
+        "individual_count": 5,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      },
+      {
+        "description": "Additional celebration photos",
+        "theme": "social_gathering",
+        "setting": "mixed_venues",
+        "redactions": [
+          "multiple faces redacted"
+        ],
+        "individual_count": 5,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": [
+      "Multiple faces redacted with black boxes",
+      "One name redacted on invitation"
+    ],
+    "handwritten_notes": [
+      "I truly share this diploma with you.",
+      "THANK YOU!!!!",
+      "This was a great celebration!"
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Formal invitation card at top of page",
+    "Jeffrey and [name redacted] as hosts",
+    "Event for Janet R. Graduation Eve",
+    "Location: Country Club, 101 N. Michigan Ave",
+    "Four photographs with multiple black redaction boxes",
+    "Top left photo: Outdoor gathering with people",
+    "Top right photo: Indoor scene with redacted faces",
+    "Bottom two photos: Celebration scenes with redactions",
+    "Handwritten: 'I truly share this diploma with you!'\n'THANK YOU!!!!'",
+    "'This was a great celebration!' written below photos",
+    "Multiple faces redacted for privacy",
+    "Graduation/academic achievement celebration theme",
+    "Document stamped HOUSE_OVERSIGHT_000106",
+    "Michigan Avenue suggests Chicago location"
+  ],
+  "investigative_leads": []
+}

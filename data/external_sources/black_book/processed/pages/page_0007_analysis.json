@@ -1,0 +1,1033 @@
+{
+  "page_number": 7,
+  "alphabetical_section": "B",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "007_bossom_hon_bruce_&_penelope",
+      "name": {
+        "full_name": "Bossom, Hon Bruce",
+        "prefix": null,
+        "first_name": "Hon Bruce & Penelope",
+        "middle_name": null,
+        "last_name": "Bossom",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Penelope"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0386 89528 (fax)",
+          "formatting": "0386 89528 (fax)"
+        },
+        {
+          "type": "home",
+          "number": "0386 89303",
+          "formatting": "0386 89303"
+        },
+        {
+          "type": "home",
+          "number": "0207-727 5127",
+          "formatting": "0207-727 5127 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "34 Princedale Road"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W11 4NJ",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_boucherie_sylvianne",
+      "name": {
+        "full_name": "Boucherie Sylvianne",
+        "prefix": null,
+        "first_name": "Sylvianne",
+        "middle_name": null,
+        "last_name": "Boucherie",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0033 1 4321 0786 (f)",
+          "formatting": "0033 1 4321 0786 (f) (International)"
+        },
+        {
+          "type": "home",
+          "number": "0033 1 4321 6090",
+          "formatting": "0033 1 4321 6090 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "33 607 559712",
+          "formatting": "33 607 559712"
+        }
+      ],
+      "emails": [
+        {
+          "address": "sylvibou@club-internet.fr",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "90 Ave Du Maine"
+          ],
+          "city": "Paris",
+          "state": null,
+          "postal_code": "75014",
+          "country": "France",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_bourke_rick",
+      "name": {
+        "full_name": "Bourke, Rick",
+        "prefix": null,
+        "first_name": "Rick",
+        "middle_name": null,
+        "last_name": "Bourke",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 914 646 4000",
+          "formatting": "001 914 646 4000 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 203 629 0157",
+          "formatting": "001 203 629 0157 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 203 853 7515",
+          "formatting": "001 203 853 7515 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 203 661 3753",
+          "formatting": "001 203 661 3753 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Fort Hills Lane, Greenwich"
+          ],
+          "city": "Conneticut",
+          "state": null,
+          "postal_code": "6831",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_bowles_hamish",
+      "name": {
+        "full_name": "Bowles, Hamish (Vouge)",
+        "prefix": null,
+        "first_name": "Hamish",
+        "middle_name": null,
+        "last_name": "Bowles",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Vouge"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 286 6077",
+          "formatting": "001 212 286 6077 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "0207-589 8919",
+          "formatting": "0207-589 8919 (UK London)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 286 6037",
+          "formatting": "001 212 286 6037 (International)"
+        },
+        {
+          "type": "work",
+          "number": "0033 1441178 31/37",
+          "formatting": "0033 1441178 31/37 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 675 8608",
+          "formatting": "001 212 675 8608 (International)"
+        },
+        {
+          "type": "home",
+          "number": "00 33 1 4544 1489",
+          "formatting": "00 33 1 4544 1489 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_brachetti_peretti_ferdinando",
+      "name": {
+        "full_name": "Brachetti Peretti ferdinando",
+        "prefix": null,
+        "first_name": "ferdinando",
+        "middle_name": null,
+        "last_name": "Brachetti Peretti",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0039 0684 93 775",
+          "formatting": "0039 0684 93 775 (International)"
+        },
+        {
+          "type": "home",
+          "number": "0039 0688 45000",
+          "formatting": "0039 0688 45000 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "39335377377",
+          "formatting": "39335377377"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Via Pincina 13"
+          ],
+          "city": "Rome",
+          "state": null,
+          "postal_code": "198",
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_brachetti_hugo",
+      "name": {
+        "full_name": "Brachetti, Hugo",
+        "prefix": null,
+        "first_name": "Hugo",
+        "middle_name": null,
+        "last_name": "Brachetti",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "00 39 0684 93404/3",
+          "formatting": "00 39 0684 93404/3 (International)"
+        },
+        {
+          "type": "home",
+          "number": "00 39 0688 41867",
+          "formatting": "00 39 0688 41867 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "00 39 335 377 377",
+          "formatting": "00 39 335 377 377 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "u.bracheltiperetti@apioil",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_braine_caroline",
+      "name": {
+        "full_name": "Braine, Caroline",
+        "prefix": null,
+        "first_name": "Caroline",
+        "middle_name": null,
+        "last_name": "Braine",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-351 1499",
+          "formatting": "0207-351 1499 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_braine_katie_&_serge",
+      "name": {
+        "full_name": "Braine, Ms Katie",
+        "prefix": null,
+        "first_name": "Katie & Serge",
+        "middle_name": null,
+        "last_name": "Braine",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Serge"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0372 58158 (c)",
+          "formatting": "0372 58158 (c)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 39 5 85700795 (Carera)",
+          "formatting": "00 39 5 85700795 (Carera) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "0956 505321",
+          "formatting": "0956 505321"
+        },
+        {
+          "type": "unknown",
+          "number": "00 33 90 05 7956",
+          "formatting": "00 33 90 05 7956 (International)"
+        },
+        {
+          "type": "work",
+          "number": "0207-350 1614",
+          "formatting": "0207-350 1614 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0956 505 321",
+          "formatting": "0956 505 321"
+        },
+        {
+          "type": "home",
+          "number": "0207-351 6216",
+          "formatting": "0207-351 6216 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "0207-352 0030",
+          "formatting": "0207-352 0030 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "20 Cheney Row"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW3 5JB",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_bram_ben",
+      "name": {
+        "full_name": "Bram, Ben",
+        "prefix": null,
+        "first_name": "Ben",
+        "middle_name": null,
+        "last_name": "Bram",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 902 8620",
+          "formatting": "212 902 8620"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_brand_tony",
+      "name": {
+        "full_name": "Brand Tony (Plein Sud)",
+        "prefix": null,
+        "first_name": "Tony",
+        "middle_name": null,
+        "last_name": "Brand",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Plein Sud"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 431 6500",
+          "formatting": "212 431 6500"
+        },
+        {
+          "type": "unknown",
+          "number": "212 431 6724 (f)",
+          "formatting": "212 431 6724 (f)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "tony@pleinsudny.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_brandolini_d\u2019adda",
+      "name": {
+        "full_name": "Brandolini d\u2019Adda",
+        "prefix": null,
+        "first_name": "d\u2019Adda",
+        "middle_name": null,
+        "last_name": "Brandolini",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "060 751 7935 (Georgina)",
+          "formatting": "060 751 7935 (Georgina)"
+        },
+        {
+          "type": "unknown",
+          "number": "01 44 4343 35",
+          "formatting": "01 44 4343 35"
+        },
+        {
+          "type": "unknown",
+          "number": "01 4 952 0916 (fax)",
+          "formatting": "01 4 952 0916 (fax)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Georgina & Tiberto, 19 Avenue Monlaigne"
+          ],
+          "city": "Paris",
+          "state": null,
+          "postal_code": "75008",
+          "country": "France",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "President-Exor"
+    },
+    {
+      "entry_id": "007_brandolini_nuno_&_muriel",
+      "name": {
+        "full_name": "Brandolini Nuno",
+        "prefix": null,
+        "first_name": "Nuno & Muriel",
+        "middle_name": null,
+        "last_name": "Brandolini",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Muriel"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 288 6946 (hf)",
+          "formatting": "212 288 6946 (hf)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "murielbran@aol.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "167 E 80th"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_brandolini_nuno_&_muriel",
+      "name": {
+        "full_name": "Brandolini Nuno",
+        "prefix": null,
+        "first_name": "Nuno & Muriel",
+        "middle_name": null,
+        "last_name": "Brandolini",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Muriel"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "631 723 2961 (Hampton)",
+          "formatting": "631 723 2961 (Hampton)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 288 6946 (wf)",
+          "formatting": "212 288 6946 (wf)"
+        },
+        {
+          "type": "work",
+          "number": "212 249 4920",
+          "formatting": "212 249 4920"
+        },
+        {
+          "type": "portable",
+          "number": "917 655 6193",
+          "formatting": "917 655 6193 (NYC mobile)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "108 Newtown Road, Hampton Bays"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_brandt_peter",
+      "name": {
+        "full_name": "Brandt, Peter",
+        "prefix": null,
+        "first_name": "Peter",
+        "middle_name": null,
+        "last_name": "Brandt",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 561 795 4128 (f)",
+          "formatting": "001 561 795 4128 (f) (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 561 798 0460",
+          "formatting": "001 561 798 0460 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_branson_richard",
+      "name": {
+        "full_name": "Branson, Richard",
+        "prefix": null,
+        "first_name": "Richard",
+        "middle_name": null,
+        "last_name": "Branson",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-286 1213",
+          "formatting": "0207-286 1213 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "08675 3163",
+          "formatting": "08675 3163"
+        },
+        {
+          "type": "home",
+          "number": "0207-229 1282",
+          "formatting": "0207-229 1282 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "80 Oxford Gardens"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW10",
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_briatore_flavio",
+      "name": {
+        "full_name": "Briatore, Flavio",
+        "prefix": null,
+        "first_name": "Flavio",
+        "middle_name": null,
+        "last_name": "Briatore",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "44 1608 678 804 (f)",
+          "formatting": "44 1608 678 804 (f)"
+        },
+        {
+          "type": "work",
+          "number": "44 1608 678 000",
+          "formatting": "44 1608 678 000"
+        }
+      ],
+      "emails": [
+        {
+          "address": "flavio.briatore@uk.renaul",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Fingest Manoz, Fingest, Hanley on Thame"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Renault Fl Ltd."
+    },
+    {
+      "entry_id": "007_briatore_flavio",
+      "name": {
+        "full_name": "Briatore, Flavio",
+        "prefix": null,
+        "first_name": "Flavio",
+        "middle_name": null,
+        "last_name": "Briatore",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "+44 1491 638 012 (hf)",
+          "formatting": "+44 1491 638 012 (hf)"
+        },
+        {
+          "type": "unknown",
+          "number": "+44 1608 672 410 (Direct)",
+          "formatting": "+44 1608 672 410 (Direct)"
+        },
+        {
+          "type": "unknown",
+          "number": "00871 3232 71 610 (Boat/Plane)",
+          "formatting": "00871 3232 71 610 (Boat/Plane) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "+44 7785 307 306 (Emer)",
+          "formatting": "+44 7785 307 306 (Emer)"
+        },
+        {
+          "type": "home",
+          "number": "+44 1491 639 610",
+          "formatting": "+44 1491 639 610"
+        },
+        {
+          "type": "portable",
+          "number": "+44 7785 307 306",
+          "formatting": "+44 7785 307 306"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Chipping Norton, Oxfordshire"
+          ],
+          "city": "Enstone",
+          "state": null,
+          "postal_code": "OX7 4EE",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_unknown_rosella",
+      "name": {
+        "full_name": "Briatore, Flavio (Asst.)",
+        "prefix": null,
+        "first_name": "Rosella",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Asst."
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "+44 7831 675 888",
+          "formatting": "+44 7831 675 888"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "007_broadhurst_julia",
+      "name": {
+        "full_name": "Broadhurst, Julia (Speedo)",
+        "prefix": null,
+        "first_name": "Julia",
+        "middle_name": null,
+        "last_name": "Broadhurst",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Speedo"
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "00 27 21 534 1431",
+          "formatting": "00 27 21 534 1431 (International)"
+        },
+        {
+          "type": "home",
+          "number": "00 27 21 881 3235",
+          "formatting": "00 27 21 881 3235 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "julia@cygnet.co.za",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "4 Apple Lane, Newlands"
+          ],
+          "city": "Capetown",
+          "state": null,
+          "postal_code": "7700",
+          "country": "South Africa",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 19,
+    "entries_with_emails": 6,
+    "entries_with_addresses": 12,
+    "entries_with_handwritten_notes": 0,
+    "couples": 4,
+    "average_confidence": "high",
+    "notable_figures_count": 0
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Bossom, Hon Bruce",
+      "Penelope",
+      "Boucherie Sylvianne",
+      "Bourke, Rick",
+      "Bowles, Hamish (Vouge)",
+      "Brachetti Peretti ferdinando",
+      "Brachetti, Hugo",
+      "Braine, Caroline",
+      "Braine, Ms Katie",
+      "Serge",
+      "Bram, Ben",
+      "Brand Tony (Plein Sud)",
+      "Brandolini d\u2019Adda",
+      "Brandolini Nuno",
+      "Muriel",
+      "Brandolini Nuno",
+      "Muriel",
+      "Brandt, Peter",
+      "Branson, Richard",
+      "Briatore, Flavio",
+      "Briatore, Flavio",
+      "Briatore, Flavio (Asst.)",
+      "Broadhurst, Julia (Speedo)"
+    ],
+    "organizations": [
+      "Renault Fl Ltd."
+    ],
+    "locations": {
+      "international": [
+        "UK",
+        "France",
+        "South Africa"
+      ],
+      "us_cities": [
+        "Paris",
+        "London",
+        "Capetown",
+        "Rome",
+        "Enstone",
+        "New York",
+        "Conneticut"
+      ],
+      "elite_addresses": []
+    }
+  },
+  "insights": []
+}

@@ -1,0 +1,293 @@
+{
+  "page_number": 40,
+  "document_type": "Flight Log",
+  "metadata": {
+    "time_period": "February - April 1996",
+    "header_date": "1996 FEB",
+    "pilot": "David Rodgers",
+    "aircraft_registration": "N908JE",
+    "aircraft_make_model": "G1159B",
+    "total_flight_time_page": "53:08",
+    "amt_forward": "6586:00",
+    "total_to_date": "6639:08"
+  },
+  "flights": [
+    {
+      "date": "02/05/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TNCM",
+      "flight_time": "2:04",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "02/07/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TNCM",
+      "arrival": "TEB",
+      "flight_time": "4:10",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "02/09/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:01",
+      "passengers": "JE, GM, SIMEON CORMAND",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "02/12/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:02",
+      "passengers": "JE, ED, SIMEON RECORDS",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "02/15/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "BET",
+      "flight_time": "2:04",
+      "passengers": "JIMMY CAVEZA, MIKE CHRIS, AUCTION",
+      "crew": "JE, GM, DANNY, MARIA GUTIERREZ, GREG ALLEN",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "02/19/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "BET",
+      "arrival": "TEB",
+      "flight_time": "2:03",
+      "passengers": "[unclear]",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "02/28/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:02",
+      "passengers": "JE, GM, AS, SONJA BIDDLE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "03/04/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:04",
+      "passengers": "JE, GM, AS, GEORGE STEPANOPOULOS, MEG",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "03/08/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:06",
+      "passengers": "JE, GM, AS, BONNIE ADAM, 1 FEMALE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "03/11/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:03",
+      "passengers": "JE, GM, AS, CHRISTINE, 1 FEMALE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "03/13/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:01",
+      "passengers": "JE, GM, AS, 1 FEMALE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "03/18/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "CMH",
+      "flight_time": "2:01",
+      "passengers": "JE, GM, AS, CLAIRE HAZEN, 1 FEMALE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "03/18/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "CMH",
+      "arrival": "TEB",
+      "flight_time": "1:01",
+      "passengers": "JE, GM, AS",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "03/22/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:03",
+      "passengers": "JE, FRANCO, SOPHIE BIDDOU, SAM Y",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "03/24/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:02",
+      "passengers": "JE, LUM, BABY, KS, PAY",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "03/26/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "VNY",
+      "flight_time": "5:05",
+      "passengers": "",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "03/29/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "VNY",
+      "arrival": "SAV",
+      "flight_time": "1:05",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "04/01/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:01",
+      "passengers": "JE, GM, AS, EVA, GLENN, [unclear], KIRBY",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    }
+  ],
+  "entities": {
+    "people": [
+      {"name": "Jeffrey Epstein", "abbreviation": "JE", "role": "Primary passenger"},
+      {"name": "Ghislaine Maxwell", "abbreviation": "GM", "role": "Frequent passenger"},
+      {"name": "Andy Stewart", "abbreviation": "AS", "role": "Regular passenger"},
+      {"name": "Simeon Cormand", "role": "Passenger"},
+      {"name": "Ed", "role": "Passenger"},
+      {"name": "Simeon Records", "role": "Passenger (possibly same as Cormand)"},
+      {"name": "Jimmy Caveza", "role": "Passenger"},
+      {"name": "Mike Chris", "role": "Passenger"},
+      {"name": "Danny", "role": "Crew member"},
+      {"name": "Maria Gutierrez", "role": "Crew member"},
+      {"name": "Greg Allen", "role": "Crew member"},
+      {"name": "Sonja Biddle", "role": "Passenger"},
+      {"name": "George Stepanopoulos", "role": "Passenger (prominent political figure)"},
+      {"name": "Meg", "role": "Passenger"},
+      {"name": "Bonnie Adam", "role": "Passenger"},
+      {"name": "Christine", "role": "Passenger"},
+      {"name": "Claire Hazen", "role": "Passenger"},
+      {"name": "Franco", "role": "Passenger"},
+      {"name": "Sophie Biddou", "role": "Passenger"},
+      {"name": "Sam Y", "role": "Passenger"},
+      {"name": "Lum", "role": "Passenger"},
+      {"name": "Baby", "role": "Passenger (nickname)"},
+      {"name": "KS", "role": "Passenger"},
+      {"name": "Pay", "role": "Passenger"},
+      {"name": "Eva", "role": "Passenger"},
+      {"name": "Glenn", "role": "Passenger"},
+      {"name": "Kirby", "role": "Passenger"},
+      {"name": "David Rodgers", "role": "Pilot"}
+    ],
+    "locations": [
+      {"code": "PBI", "name": "Palm Beach International Airport", "location": "West Palm Beach, FL"},
+      {"code": "TNCM", "name": "Princess Juliana International Airport", "location": "St. Maarten"},
+      {"code": "TEB", "name": "Teterboro Airport", "location": "Teterboro, NJ"},
+      {"code": "BET", "name": "Unknown airport", "location": "Unknown"},
+      {"code": "CMH", "name": "John Glenn Columbus International Airport", "location": "Columbus, OH"},
+      {"code": "VNY", "name": "Van Nuys Airport", "location": "Van Nuys, CA"},
+      {"code": "SAV", "name": "Savannah/Hilton Head International Airport", "location": "Savannah, GA"}
+    ],
+    "aircraft": [
+      {"registration": "N908JE", "type": "Gulfstream G1159B", "category": "Private Jet"}
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {"location": "bottom_left", "description": "David Rodgers pilot signature", "legibility": "clear"}
+    ],
+    "stamps": [],
+    "markings": [
+      {"type": "page_number", "content": "40", "location": "bottom_center"},
+      {"type": "total_time", "content": "53:08", "location": "bottom_right"}
+    ]
+  },
+  "insights": [
+    "George Stepanopoulos appears as passenger (prominent political figure)",
+    "St. Maarten (TNCM) appears as Caribbean destination",
+    "Simeon Cormand/Records appears (possibly same person)",
+    "Auction notation on 2/15 flight",
+    "Multiple crew members noted including Danny, Maria Gutierrez, Greg Allen",
+    "Claire Hazen appears as passenger",
+    "Sophie Biddou appears (different spelling from Sonja Biddle)",
+    "Van Nuys, CA (VNY) appears as West Coast destination",
+    "Baby appears as passenger nickname",
+    "KS and Pay appear as abbreviated passenger names",
+    "Franco appears as passenger",
+    "Sam Y appears as passenger",
+    "Lum appears as passenger",
+    "Multiple '1 FEMALE' notations continue",
+    "Two flights on same day (3/18)"
+  ],
+  "corrections": {
+    "date_inference": "Page 40 covers February through early April 1996",
+    "actual_dates_from_png": "Verified from PNG: Header shows 1996 FEB, dates are February 5, 7, 9, 12, 15, 19, 28, March 4, 8, 11, 13, 18, 18, 22, 24, 26, 29, April 1",
+    "continuity": "This page should continue from page 39 which needs review",
+    "correction_note": "Previously incorrectly transcribed as December 1995-January 1996, now corrected to February-April 1996 based on PNG"
+  },
+  "pilot_signature": "David Rodgers",
+  "page_total": "53:08 hours"
+}

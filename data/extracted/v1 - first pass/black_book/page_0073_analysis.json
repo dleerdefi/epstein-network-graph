@@ -1,0 +1,660 @@
+{
+  "page_number": 73,
+  "section": "G-I Names",
+  "entries": [
+    {
+      "name": "Glick, Howard",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "5310 Avonia Court",
+          "street": "5310 Avonia Court",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Georgetown, Washington DC",
+          "city": "Georgetown, Washington",
+          "state": "DC",
+          "confidence": "high"
+        },
+        {
+          "type": "tertiary",
+          "address": "10-3344",
+          "reference": "10-3344",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "H",
+          "number": "212 289 5517 (H)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 343 3467",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 343 7597 (B)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 343 1988",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "Cell",
+          "number": "917 300 5530 Cell",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "Secretary",
+          "number": "212 343 4320 Secretary",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "Tyler",
+          "number": "212 343 2322 Tyler",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 343 [illegible]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "medium"
+        }
+      ],
+      "additional_contacts": [
+        "Tyler",
+        "Secretary"
+      ],
+      "notes": "Howard Glick - Georgetown DC and NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One phone number partially illegible"]
+      }
+    },
+    {
+      "name": "Gold, Bob",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "6 Wildwood Drive",
+          "street": "6 Wildwood Drive",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Rockport Golf Course (h)",
+          "location": "Rockport Golf Course",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "504 788 3189",
+          "area_code": "504",
+          "geographic_indicator": "Louisiana",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "503 208 3189",
+          "area_code": "503",
+          "geographic_indicator": "Oregon",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "bobg@[illegible].com",
+          "confidence": "low"
+        }
+      ],
+      "additional_info": [
+        "503 541 3190 H",
+        "503 544 5320 Cole w/home"
+      ],
+      "notes": "Bob Gold - Wildwood Drive",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Email domain illegible"]
+      }
+    },
+    {
+      "name": "Goodman, Bob",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "8 Seabird Lane",
+          "street": "8 Seabird Lane",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Old Greenwich, Rohr Area 8",
+          "location": "Old Greenwich, Rohr Area 8",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "H",
+          "number": "212 388 9023 (H)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Indianapolis, IN 01720",
+          "location": "Indianapolis, IN",
+          "postal_code": "01720",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Bob Goodman - Seabird Lane Old Greenwich",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Gray, Vicki",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "5441 California Street N.W.",
+          "street": "5441 California Street N.W.",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Washington DC",
+          "city": "Washington",
+          "state": "DC",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "202 237 6974 (H)",
+          "area_code": "202",
+          "geographic_indicator": "Washington DC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "202 472 4116 (O)",
+          "area_code": "202",
+          "geographic_indicator": "Washington DC",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "vickigray@verizon.com",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Vicki Gray - California Street NW Washington DC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Griaznove, Svetlana",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "506 E. 85th Street, SW",
+          "street": "506 E. 85th Street SW",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Bronx NY 10024",
+          "city": "Bronx",
+          "state": "NY",
+          "postal_code": "10024",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "917 770 1888",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "svetlana@[illegible].com",
+          "confidence": "low"
+        }
+      ],
+      "additional_info": [
+        "Lesley Cohn",
+        "011 44 207 584 92",
+        "Private @ home home"
+      ],
+      "notes": "Svetlana Griaznove - East 85th Street NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Email domain illegible"]
+      }
+    },
+    {
+      "name": "Guggenheim, Eileen",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "212 East 18th 9[H]",
+          "street": "212 East 18th Street 9H",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 533 7887",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 777 10003",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 777 [illegible]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "212 533 0302",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "Gayla Home",
+          "number": "212 333 5402 Gayla's Home",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 255 8987 (H)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 228 1607 (O)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "additional_contacts": [
+        "Gayla"
+      ],
+      "notes": "Eileen Guggenheim - East 18th Street NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One phone number partially illegible"]
+      }
+    },
+    {
+      "name": "Harold Matlin",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "(207) 348 6973",
+          "area_code": "207",
+          "geographic_indicator": "Maine",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Email: harold@[illegible].com",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Harold Matlin - Maine area",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Email domain illegible"]
+      }
+    },
+    {
+      "name": "Hashemi, Jalila",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "71 Montgomery Avenue",
+          "street": "71 Montgomery Avenue",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 8120514 P",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 812 0614",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Jalila Hashemi - Montgomery Avenue",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Heiberg, Gregory & Margaret",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "301 Amity St - Art Gallery",
+          "street": "301 Amity Street",
+          "location": "Art Gallery",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "New York, NY 10024",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10024",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 772 9132[O]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 777 9132[O]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "C-mayflow",
+          "number": "212 772 3131 C-mayflow.com",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "C-mayflow.com",
+          "confidence": "medium"
+        }
+      ],
+      "additional_info": [
+        "917 456 2167 Cell NYC"
+      ],
+      "notes": "Gregory & Margaret Heiberg - Art Gallery Amity Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Hunter, Joey",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Dynander",
+          "location": "Dynander",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "223 Boynsington",
+          "street": "223 Boynsington",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 838 0715",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 838 7710",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "H",
+          "number": "212 838 7711[H]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 838 0713/04",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "West 10312",
+        "Joey Howard, Apt 10024",
+        "213 838 8712 New Home",
+        "918 625 4006 M[obile]",
+        "212 838 5021 (B)"
+      ],
+      "notes": "Joey Hunter - Dynander/Boynsington",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Indyke, Darren K.",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1 Wall Court",
+          "street": "1 Wall Court",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Union, New Jersey",
+          "city": "Union",
+          "state": "New Jersey",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "973 564 1149",
+          "area_code": "973",
+          "geographic_indicator": "New Jersey",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "732 528 2100",
+          "area_code": "732",
+          "geographic_indicator": "New Jersey",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Darren Kaplowitz (corrn)",
+        "Union Medical Equip Ser",
+        "972 464 6524 Private to comp",
+        "973 464 5824",
+        "203 402 4831 Pennsylvania",
+        "702 834 5841 Pennsylvania",
+        "702 280 7999 Ext 298",
+        "518 834 1166 E-Far",
+        "518 936 1166 New Hampshire",
+        "973 439 7223 Cell Graphics"
+      ],
+      "notes": "Darren K. Indyke - Wall Court Union NJ",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Iscit, Paula",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "8 East River Dr #26",
+          "street": "8 East River Drive #26",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Las Vegas, Nevada 10022 (h)",
+          "city": "Las Vegas",
+          "state": "Nevada",
+          "postal_code": "10022",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Las Vegas, Nevada 10022 (h)",
+          "confidence": "low"
+        }
+      ],
+      "additional_info": [
+        "New York, New York 10010"
+      ],
+      "notes": "Paula Iscit - East River Drive and Las Vegas",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 12,
+    "illegible_entries": 0,
+    "partial_entries": 5,
+    "sections": ["G-I Names"],
+    "notable_entries": [
+      "Eileen Guggenheim - East 18th Street",
+      "Howard Glick - Georgetown DC connections",
+      "Gregory & Margaret Heiberg - Art Gallery",
+      "Darren K. Indyke - Wall Court Union NJ",
+      "Svetlana Griaznove - Russian name"
+    ],
+    "geographic_distribution": {
+      "usa": 12,
+      "nyc": 7,
+      "washington_dc": 2,
+      "new_jersey": 2,
+      "other": 1
+    },
+    "location_highlights": [
+      "Georgetown, Washington DC",
+      "California Street NW Washington DC",
+      "Art Gallery - Amity Street NYC",
+      "Wall Court Union NJ",
+      "Las Vegas Nevada connection"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 7,
+      "medium_confidence": 4,
+      "low_confidence": 1,
+      "specific_issues": [
+        "Multiple email domains illegible",
+        "Some phone numbers partially illegible",
+        "Various secondary numbers unclear"
+      ]
+    }
+  }
+}

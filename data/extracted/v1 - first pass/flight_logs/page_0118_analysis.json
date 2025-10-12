@@ -1,0 +1,274 @@
+{
+  "page_number": 118,
+  "date_header": "NOV 2005 - JAN 2006",
+  "time_period": "November 2005 - January 2006",
+  "aircraft": {
+    "registration": "Multiple (G-1159B N909JE, B-727-31M N905JE)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "NOV 12",
+      "date": "11/12/2005",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1895",
+      "remarks": "TEB - TIST - JE, Maritza Vialespino, [REDACTED], [REDACTED]",
+      "passengers": ["JE", "Maritza Vialespino", "REDACTED", "REDACTED"],
+      "crew": "LV 3/6"
+    },
+    {
+      "entry_number": "16",
+      "date": "11/16/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1897",
+      "remarks": "TIST - TEB - JE, AM, [REDACTED]",
+      "passengers": ["JE", "AM", "REDACTED"],
+      "crew": "LV 3/8"
+    },
+    {
+      "entry_number": "17",
+      "date": "11/17/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1898",
+      "remarks": "TEB - BED - JE, AM",
+      "passengers": ["JE", "AM"],
+      "crew": "LV LV 8"
+    },
+    {
+      "entry_number": "17",
+      "date": "11/17/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1899",
+      "remarks": "BED - CYUL - Alan Dershowitz",
+      "passengers": ["Alan Dershowitz"],
+      "crew": "LV LV 9"
+    },
+    {
+      "entry_number": "17",
+      "date": "11/17/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1900",
+      "remarks": "CYUL - BED - Alan Dershowitz",
+      "passengers": ["Alan Dershowitz"],
+      "crew": "LV 8"
+    },
+    {
+      "entry_number": "17",
+      "date": "11/17/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1901",
+      "remarks": "BED - TEB - JE, AM, Dr. Triskin",
+      "passengers": ["JE", "AM", "Dr. Triskin"],
+      "crew": "LV 1"
+    },
+    {
+      "entry_number": "19",
+      "date": "11/19/2005",
+      "departure": "B-727-31M",
+      "arrival": "N905JE",
+      "flight_time": "353",
+      "remarks": "JFK - TIST - JE, [REDACTED], SK",
+      "passengers": ["JE", "REDACTED", "SK"],
+      "crew": "BM 3/5"
+    },
+    {
+      "entry_number": "20",
+      "date": "11/20/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "354",
+      "remarks": "TIST - TMPA - JE, [REDACTED], SK, TATIANA Kovylina",
+      "passengers": ["JE", "REDACTED", "SK", "TATIANA Kovylina"],
+      "crew": "BM 8"
+    },
+    {
+      "entry_number": "20",
+      "date": "11/20/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "355",
+      "remarks": "TMPA - TIST - JE, John Slavitt, [REDACTED], SK, TATIANA Kovylina",
+      "passengers": ["JE", "John Slavitt", "REDACTED", "SK", "TATIANA Kovylina"],
+      "crew": "BM LV 8"
+    },
+    {
+      "entry_number": "28",
+      "date": "11/28/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "356",
+      "remarks": "TIST - JFK - JE, TATIANA Kovylina, SK, John Slavitt, Christie Gamble",
+      "passengers": ["JE", "TATIANA Kovylina", "SK", "John Slavitt", "Christie Gamble"],
+      "crew": "BM 3/4"
+    },
+    {
+      "entry_number": "30",
+      "date": "11/30/2005",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1884",
+      "remarks": "TEB - BED - JE, AM",
+      "passengers": ["JE", "AM"],
+      "crew": "BM 8"
+    },
+    {
+      "entry_number": "30",
+      "date": "11/30/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1885",
+      "remarks": "BED - TEB - JE, AM",
+      "passengers": ["JE", "AM"],
+      "crew": "BM 7"
+    },
+    {
+      "entry_number": "DEC 11",
+      "date": "12/11/2005",
+      "departure": "SEAPLANE",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "DEW - DFW - Melinda Christie, Barbara Phillips, Red Carpenter, Michael Veal, Stephanie Veal",
+      "passengers": ["Melinda Christie", "Barbara Phillips", "Red Carpenter", "Michael Veal", "Stephanie Veal"],
+      "crew": "2/2 2/5"
+    },
+    {
+      "entry_number": "21",
+      "date": "12/21/2005",
+      "departure": "N909JE",
+      "arrival": "",
+      "flight_time": "1892",
+      "remarks": "TEB - BED - GM",
+      "passengers": ["GM"],
+      "crew": "LV 4"
+    },
+    {
+      "entry_number": "21",
+      "date": "12/21/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1893",
+      "remarks": "BED - TIST - GM, [REDACTED], Larry Johnson, Ben Simmons",
+      "passengers": ["GM", "REDACTED", "Larry Johnson", "Ben Simmons"],
+      "crew": "LV 3/8"
+    },
+    {
+      "entry_number": "JAN 15",
+      "date": "01/15/2006",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1894",
+      "remarks": "TIST - BED - JE, [REDACTED]",
+      "passengers": ["JE", "REDACTED"],
+      "crew": "LV LV 3/8"
+    },
+    {
+      "entry_number": "16",
+      "date": "01/16/2006",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1895",
+      "remarks": "BED - TEB - JE",
+      "passengers": ["JE"],
+      "crew": "LV 1/8"
+    },
+    {
+      "entry_number": "19",
+      "date": "01/19/2006",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1896",
+      "remarks": "TEB - SAF - JE, GM, [REDACTED], SK",
+      "passengers": ["JE", "GM", "REDACTED", "SK"],
+      "crew": "LV 4/5"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "Maritza Vialespino",
+      "REDACTED",
+      "AM",
+      "Alan Dershowitz",
+      "Dr. Triskin",
+      "SK",
+      "TATIANA Kovylina",
+      "John Slavitt",
+      "Christie Gamble",
+      "Melinda Christie",
+      "Barbara Phillips",
+      "Red Carpenter",
+      "Michael Veal",
+      "Stephanie Veal",
+      "GM",
+      "Larry Johnson",
+      "Ben Simmons",
+      "LV",
+      "BM",
+      "David Rodgers"
+    ],
+    "locations": [
+      "TEB",
+      "TIST",
+      "BED",
+      "CYUL",
+      "JFK",
+      "TMPA",
+      "DEW",
+      "DFW",
+      "SAF"
+    ],
+    "aircraft": [
+      "G-1159B",
+      "N909JE",
+      "B-727-31M",
+      "N905JE",
+      "SEAPLANE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "Page Total: 9/6 918, Amount Forward: 9858.0, Total to Date: 9889.8",
+    "amount_forward": "9858.0",
+    "total_to_date": "9889.8",
+    "document_quality": "good",
+    "legibility": "mostly clear with some redactions"
+  },
+  "insights": [
+    "Page covers November 2005 - January 2006",
+    "November 2005 entries: 12, 16, 17, 17, 17, 17, 19, 20, 20, 28, 30, 30",
+    "December 2005 entries: 11, 21, 21",
+    "January 2006 entries: 15, 16, 19",
+    "Alan Dershowitz appears on November 17, 2005 (two flights to/from Montreal CYUL)",
+    "JE (Jeffrey Epstein) appears in most flights",
+    "AM appears multiple times in November",
+    "SK (Sarah Kellen) appears frequently",
+    "TATIANA Kovylina appears on November 20 and 28",
+    "John Slavitt appears on November 20 and 28",
+    "Maritza Vialespino appears on November 12",
+    "Dr. Triskin appears on November 17",
+    "Christie Gamble appears on November 28",
+    "Page transitions into 2006",
+    "Mix of Caribbean (TIST), domestic, and Canadian operations",
+    "Montreal, Canada (CYUL) appears on November 17",
+    "Santa Fe (SAF) appears on January 19, 2006",
+    "Tampa (TMPA) appears on November 20",
+    "Seaplane operations noted on December 11",
+    "Final page of the flight logs ending in January 2006"
+  ]
+}

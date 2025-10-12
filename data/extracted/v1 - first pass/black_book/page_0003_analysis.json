@@ -1,0 +1,1433 @@
+{
+  "page_number": 3,
+  "alphabetical_section": "A",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "003_arango_maite_continued",
+      "name": {
+        "full_name": "Arango, Maite",
+        "title": null,
+        "first_name": "Maite",
+        "last_name": "Arango",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "[multiple entries illegible]",
+          "type": "various",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "continuation from page 2 - phone numbers present but illegible",
+          "is_primary": false,
+          "formatting": "[illegible]"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": ["[no]", "NF"]
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["continued from page 2"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "n/a",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "003_arellano_victor",
+      "name": {
+        "full_name": "Arellano, Victor",
+        "title": null,
+        "first_name": "Victor",
+        "last_name": "Arellano",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "18 Cadogan Square",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "appears to be address not phone",
+          "is_primary": false,
+          "formatting": "18 Cadogan Square"
+        },
+        {
+          "number": "[additional numbers illegible]",
+          "type": "various",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "multiple phone entries present",
+          "is_primary": false,
+          "formatting": "[illegible]"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "18 Cadogan Square\nLondon SW1X 0JN",
+          "street_line1": "18 Cadogan Square",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW1X 0JN",
+          "country": "UK",
+          "notes": "Knightsbridge - exclusive area"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "003_arion_joaquin_fernandez",
+      "name": {
+        "full_name": "Arion Joaquin Fernandez de",
+        "title": null,
+        "first_name": "Joaquin",
+        "last_name": "Arion Fernandez de",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "[Multiple entries - illegible]",
+          "type": "various",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "extensive phone list present",
+          "is_primary": false,
+          "formatting": "[illegible]"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "Camino de Valencia\n[additional details illegible]\nFrance",
+          "street_line1": "Camino de Valencia",
+          "street_line2": null,
+          "city": null,
+          "state_province": null,
+          "postal_code": null,
+          "country": "France",
+          "notes": "French address with Spanish street name"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Spanish name with French address"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "003_arion_fernando",
+      "name": {
+        "full_name": "Arion, Fernando",
+        "title": null,
+        "first_name": "Fernando",
+        "last_name": "Arion",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 212 XXX XXXX",
+          "type": "home",
+          "label": "",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC number",
+          "is_primary": false,
+          "formatting": "001 212 XXX XXXX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "100 W. 26 St. [illegible]\nNew York, NY",
+          "street_line1": "100 W. 26 St.",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Chelsea area NYC"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": ["Possibly related to Joaquin Arion"],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "003_armstrong_arthur_celia",
+      "name": {
+        "full_name": "Armstrong, Arthur & Celia",
+        "title": null,
+        "first_name": "Arthur & Celia",
+        "last_name": "Armstrong",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 212 737 XXXX (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Upper East Side Manhattan",
+          "is_primary": false,
+          "formatting": "001 212 737 XXXX"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Arthur and Celia are a couple"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["couple listed together"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "n/a",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "003_aron_herve_marine",
+      "name": {
+        "full_name": "Aron, Herve & Marine",
+        "title": null,
+        "first_name": "Herve & Marine",
+        "last_name": "Aron",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 212 XXX XXXX (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "NYC number",
+          "is_primary": false,
+          "formatting": "001 212 XXX XXXX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "10 East 81St Street\nNew York, NY",
+          "street_line1": "10 East 81St Street",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Upper East Side - Museum Mile area"
+        }
+      ],
+      "emails": [
+        {
+          "address": "[illegible]@[illegible].com",
+          "type": "personal",
+          "domain": "[illegible].com",
+          "notes": "email present but illegible"
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Herve and Marine are a couple"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["couple listed together"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "low",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "003_ash_lorinda",
+      "name": {
+        "full_name": "Ash, Lorinda",
+        "title": null,
+        "first_name": "Lorinda",
+        "last_name": "Ash",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "338 Park Ave",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "appears to be address not phone",
+          "is_primary": false,
+          "formatting": "338 Park Ave"
+        },
+        {
+          "number": "001 212 XXX XXXX",
+          "type": "home",
+          "label": "",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "NYC number",
+          "is_primary": false,
+          "formatting": "001 212 XXX XXXX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "338 Park Ave\nNew York, NY",
+          "street_line1": "338 Park Ave",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Park Avenue - prestigious address"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "003_ashley_allegra_hicks",
+      "name": {
+        "full_name": "Ashley & Allegra Hicks",
+        "title": null,
+        "first_name": "Ashley & Allegra",
+        "last_name": "Hicks",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "72 Holland Park",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "appears to be address",
+          "is_primary": false,
+          "formatting": "72 Holland Park"
+        },
+        {
+          "number": "(020) 7XXX XX (o)",
+          "type": "work",
+          "label": "o",
+          "country_code": "+44",
+          "area_code": "020",
+          "extension": null,
+          "notes": "London office number",
+          "is_primary": false,
+          "formatting": "(020) 7XXX XX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "72 Holland Park\nLondon",
+          "street_line1": "72 Holland Park",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Holland Park - affluent area"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Ashley and Allegra are a couple"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["couple listed together"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "003_ashley_nick_ari",
+      "name": {
+        "full_name": "Ashley, Nick & Ari",
+        "title": null,
+        "first_name": "Nick & Ari",
+        "last_name": "Ashley",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "MTE XXX",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "partial/unclear number",
+          "is_primary": false,
+          "formatting": "MTE XXX"
+        },
+        {
+          "number": "(0207) XXX XXXX (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "Central London number",
+          "is_primary": false,
+          "formatting": "(0207) XXX XXXX"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Nick and Ari appear to be related or a couple"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "n/a",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "003_assad_charlotte_vittoria",
+      "name": {
+        "full_name": "Assad, Charlotte & Vittoria",
+        "title": null,
+        "first_name": "Charlotte & Vittoria",
+        "last_name": "Assad",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 561 XXX XXXX (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+1",
+          "area_code": "561",
+          "extension": null,
+          "notes": "Palm Beach County, Florida",
+          "is_primary": false,
+          "formatting": "001 561 XXX XXXX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "51 East 66th St (h)\n[additional details illegible]",
+          "street_line1": "51 East 66th St",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Upper East Side NYC"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Charlotte and Vittoria appear to be related"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["two people listed together"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "003_aznar_jose",
+      "name": {
+        "full_name": "Aznar Jose",
+        "title": null,
+        "first_name": "Jose",
+        "last_name": "Aznar",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "(34) XXXX XXX Street",
+          "type": "other",
+          "label": "",
+          "country_code": "+34",
+          "area_code": null,
+          "extension": null,
+          "notes": "Spain code visible, rest unclear",
+          "is_primary": false,
+          "formatting": "(34) XXXX XXX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "[illegible] Street\n168 Kensington\nPark Road\nLondon W11",
+          "street_line1": "168 Kensington Park Road",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "W11",
+          "country": "UK",
+          "notes": "Notting Hill area"
+        }
+      ],
+      "emails": [
+        {
+          "address": "[illegible]@[illegible].com",
+          "type": "personal",
+          "domain": "[illegible].com",
+          "notes": "email present but illegible"
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Spanish connection with UK address"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "low",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "003_astaire_mr_simon",
+      "name": {
+        "full_name": "Astaire, Mr Simon",
+        "title": "Mr",
+        "first_name": "Simon",
+        "last_name": "Astaire",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 212 XXX XXXX (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "NYC number",
+          "is_primary": false,
+          "formatting": "001 212 XXX XXXX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "80 Cadogan Road\nLondon SW3",
+          "street_line1": "80 Cadogan Road",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW3",
+          "country": "UK",
+          "notes": "Chelsea - affluent area"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "003_raddesley_jean",
+      "name": {
+        "full_name": "Raddesley, Jean",
+        "title": null,
+        "first_name": "Jean",
+        "last_name": "Raddesley",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": "Fiona Les Cabeza",
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "St 212 XXX XXXX",
+          "type": "home",
+          "label": "",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "NYC number",
+          "is_primary": false,
+          "formatting": "212 XXX XXXX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "Fiona Les Cabeza\n[street illegible]\n18360 Playa\nSpain",
+          "street_line1": "[illegible]",
+          "street_line2": null,
+          "city": "Playa",
+          "state_province": null,
+          "postal_code": "18360",
+          "country": "Spain",
+          "notes": "Spanish coastal location"
+        }
+      ],
+      "emails": [
+        {
+          "address": "[illegible]@yahoo.es",
+          "type": "personal",
+          "domain": "yahoo.es",
+          "notes": "Spanish Yahoo email"
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Spanish residence with NYC phone"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "medium",
+        "address_confidence": "medium",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "003_astor_viscount_william",
+      "name": {
+        "full_name": "Astor Viscount William",
+        "title": "Viscount",
+        "first_name": "William",
+        "last_name": "Astor",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0207-412 XXXX(w)",
+          "type": "work",
+          "label": "w",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "Central London work number",
+          "is_primary": true,
+          "formatting": "0207-412 XXXX"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": ["Astor family - British nobility"],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["British aristocracy"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "n/a",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "003_atkin_helene",
+      "name": {
+        "full_name": "Atkin Helene",
+        "title": null,
+        "first_name": "Helene",
+        "last_name": "Atkin",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "[Multiple entries - illegible]",
+          "type": "various",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "phone numbers present but illegible",
+          "is_primary": false,
+          "formatting": "[illegible]"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "296 [illegible] St\n[city illegible]",
+          "street_line1": "296 [illegible] St",
+          "street_line2": null,
+          "city": "[illegible]",
+          "state_province": null,
+          "postal_code": null,
+          "country": null,
+          "notes": "partial address visible"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "low",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "003_atkin_mike_aml",
+      "name": {
+        "full_name": "Atkin, Mike & Aml",
+        "title": null,
+        "first_name": "Mike & Aml",
+        "last_name": "Atkin",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 561 XXX XXXX",
+          "type": "home",
+          "label": "",
+          "country_code": "+1",
+          "area_code": "561",
+          "extension": null,
+          "notes": "Palm Beach County, Florida",
+          "is_primary": false,
+          "formatting": "001 561 XXX XXXX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "363 Wrexham Street Ave\n[details illegible]",
+          "street_line1": "363 Wrexham Street Ave",
+          "street_line2": null,
+          "city": null,
+          "state_province": null,
+          "postal_code": null,
+          "country": null,
+          "notes": "partial address"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Mike and Aml appear to be a couple"],
+        "implied_connections": ["Possibly related to Helene Atkin"],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["couple listed together"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "low",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "003_bahrke_peter",
+      "name": {
+        "full_name": "Bahrke Peter",
+        "title": null,
+        "first_name": "Peter",
+        "last_name": "Bahrke",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0207 373 XXXX",
+          "type": "home",
+          "label": "",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "Central London number",
+          "is_primary": false,
+          "formatting": "0207 373 XXXX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "[details illegible]",
+          "street_line1": "[illegible]",
+          "street_line2": null,
+          "city": null,
+          "state_province": null,
+          "postal_code": null,
+          "country": null,
+          "notes": "address present but illegible"
+        }
+      ],
+      "emails": [
+        {
+          "address": "[illegible]@[illegible].co.uk",
+          "type": "personal",
+          "domain": "[illegible].co.uk",
+          "notes": "UK email domain"
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "low",
+        "address_confidence": "low",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "003_baker_danny",
+      "name": {
+        "full_name": "Baker Danny",
+        "title": null,
+        "first_name": "Danny",
+        "last_name": "Baker",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 917 XXX XXXX",
+          "type": "mobile",
+          "label": "",
+          "country_code": "+1",
+          "area_code": "917",
+          "extension": null,
+          "notes": "NYC mobile number",
+          "is_primary": true,
+          "formatting": "001 917 XXX XXXX"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "n/a",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "003_bakhtiar_shariar",
+      "name": {
+        "full_name": "Bakhtiar, Shariar",
+        "title": null,
+        "first_name": "Shariar",
+        "last_name": "Bakhtiar",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "[Multiple entries - illegible]",
+          "type": "various",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "phone numbers present but illegible",
+          "is_primary": false,
+          "formatting": "[illegible]"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "Crocus Fields Corner\nClose Sudborough Green",
+          "street_line1": "Crocus Fields Corner",
+          "street_line2": "Close Sudborough Green",
+          "city": null,
+          "state_province": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "UK countryside address"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Persian/Iranian name"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "n/a",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 19,
+    "complete_entries": 0,
+    "partial_entries": 11,
+    "redacted_entries": 0,
+    "handwritten_additions": 0,
+    "crossed_out_entries": 0,
+    "quality": "poor",
+    "legibility": "poor",
+    "notable_features": ["Multiple couples listed", "Mix of UK and US addresses", "Several British aristocrats"],
+    "continues_to_page": 4,
+    "continued_from_page": 2,
+    "split_entry_note": "Page starts with continuation of Arango entry from page 2; Bakhtiar entry may continue on page 4"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Maite Arango",
+      "Victor Arellano",
+      "Joaquin Arion Fernandez de",
+      "Fernando Arion",
+      "Arthur Armstrong",
+      "Celia Armstrong",
+      "Herve Aron",
+      "Marine Aron",
+      "Lorinda Ash",
+      "Ashley Hicks",
+      "Allegra Hicks",
+      "Nick Ashley",
+      "Ari Ashley",
+      "Charlotte Assad",
+      "Vittoria Assad",
+      "Jose Aznar",
+      "Simon Astaire",
+      "Jean Raddesley",
+      "William Astor (Viscount)",
+      "Helene Atkin",
+      "Mike Atkin",
+      "Aml Atkin",
+      "Peter Bahrke",
+      "Danny Baker",
+      "Shariar Bakhtiar"
+    ],
+    "organizations": [
+      "Fiona Les Cabeza",
+      "Astor family"
+    ],
+    "locations": {
+      "cities": [
+        "London",
+        "New York",
+        "Paris",
+        "Valencia",
+        "Playa",
+        "Palm Beach",
+        "Chelsea",
+        "Knightsbridge",
+        "Holland Park",
+        "Notting Hill"
+      ],
+      "states": [
+        "New York",
+        "Florida"
+      ],
+      "countries": [
+        "UK",
+        "USA",
+        "France",
+        "Spain"
+      ]
+    }
+  },
+  "insights": [
+    "Page continues from page 2 with Arango entry at top",
+    "Strong concentration of Upper East Side NYC addresses (East 66th, East 81st, Park Avenue)",
+    "Multiple couples listed together (Armstrong, Aron, Ashley & Allegra Hicks, Assad, Atkin)",
+    "British aristocracy represented: Viscount William Astor, Astor family connection",
+    "London addresses cluster in affluent areas: SW1X (Knightsbridge), SW3 (Chelsea), W11 (Notting Hill)",
+    "Area codes show: 212 (Manhattan), 561 (Palm Beach, FL), 0207 (Central London), 020 (Greater London)",
+    "International connections: Spain (+34), France addresses with Spanish names",
+    "18 Cadogan Square is one of London's most expensive addresses",
+    "Park Avenue and East Side addresses indicate extreme wealth",
+    "Spanish connections: Jose Aznar (W11 London but Spanish code), Jean Raddesley (Spain residence)",
+    "Email domains: yahoo.es (Spanish), .co.uk (UK business)",
+    "917 area code (Danny Baker) is NYC mobile number",
+    "Persian/Iranian name (Shariar Bakhtiar) with UK countryside address",
+    "Holland Park (Ashley & Allegra Hicks) is celebrity neighborhood",
+    "Pattern of international elites with multiple residences US/UK/Europe"
+  ]
+}

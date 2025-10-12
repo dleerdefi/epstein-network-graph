@@ -1,0 +1,484 @@
+{
+  "page_number": 60,
+  "section": "Hotels and Services",
+  "entries": [
+    {
+      "name": "GlenPO Box 4405",
+      "category": "Address/Service",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Globe Courier Station",
+          "location": "Globe Courier Station",
+          "confidence": "high"
+        },
+        {
+          "type": "po_box",
+          "address": "PO Box 4405",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 702 8950",
+          "area_code": "702",
+          "geographic_indicator": "Las Vegas, Nevada",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01784 1062 Rikers cell",
+          "area_code": "01784",
+          "geographic_indicator": "UK (Surrey area)",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Courier service with Rikers cell reference",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Joseph & Florina Rueda",
+      "category": "Personal",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "917 938 1031 (JR)",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 765 3908",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 768 1668 (FR)",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [],
+      "notes": "Joseph & Florina Rueda",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone numbers mixed with address field"]
+      }
+    },
+    {
+      "name": "Kelly, Brian",
+      "category": "Personal",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "6 Fairview Rd.",
+          "street": "6 Fairview Rd.",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Scarsdale",
+          "city": "Scarsdale",
+          "state": "NY",
+          "postal_code": "10583",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "914 235 5776 (h,f)",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County NY",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Brian Kelly - Scarsdale NY",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Maxwell, Ghislaine",
+      "category": "Personal",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "116 East 65th Street",
+          "street": "116 East 65th Street",
+          "city": "New York",
+          "postal_code": "NY 10021",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "917 864 4609 @hotchhotmail.com",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 879 3032",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 516 2000 Ste Croix",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "@hotchhotmail.com",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Ghislaine Maxwell - East 65th Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Email partially captured"]
+      }
+    },
+    {
+      "name": "Mitrevich, Andrea",
+      "category": "Personal",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Via Zayal (Tel) # 846",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 931 8346",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Andrea Mitrevich",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Address unclear"]
+      }
+    },
+    {
+      "name": "Arizona",
+      "category": "Location",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "609 East 82th Street",
+          "street": "609 East 82th Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 838 0449",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Arizona location reference",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Aspen Club",
+      "category": "Club/Hotel",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "303 925 9900",
+          "area_code": "303",
+          "geographic_indicator": "Colorado (old code)",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Aspen Club - Colorado",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Au Bar",
+      "category": "Establishment",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Europe Museum & Park",
+          "location": "Europe Museum & Park",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 308 2224",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Au Bar establishment",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": []
+      }
+    },
+    {
+      "name": "Police",
+      "category": "Service",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Hotel Tri-Just Gallberg",
+          "location": "Hotel Tri-Just Gallberg",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 570 3614",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "516 945 0900",
+          "area_code": "516",
+          "geographic_indicator": "Long Island NY",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Police contact",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": []
+      }
+    },
+    {
+      "name": "Rueda, Joseph & Florencia",
+      "category": "Personal",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "116 East 65th Street",
+          "street": "116 East 65th Street",
+          "city": "New York",
+          "postal_code": "NY 10021",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Phone: 917 685 2034",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Joseph & Florencia Rueda - Same address as Maxwell",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Avis International",
+      "category": "Service",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "800 331 2112",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Avis car rental",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Bel Air Hotel",
+      "category": "Hotel",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Stone Canyon",
+          "location": "Stone Canyon",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "310 472 1211",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Bel Air Hotel - Stone Canyon",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Tahoe, Kinney Garage",
+      "category": "Service",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "291 Central Park Ave",
+          "street": "291 Central Park Ave",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 974 7111 (Carmen)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Kinney Garage Tahoe - Central Park Ave",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "AMERICA(A)",
+      "category": "Header/Section",
+      "addresses": [],
+      "phones": [],
+      "notes": "Section header",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Appears to be section marker"]
+      }
+    },
+    {
+      "name": "Antiques - Resale Numb-",
+      "category": "Service",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "10 344[illegible]",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Antiques resale service",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Phone number incomplete"]
+      }
+    },
+    {
+      "name": "Beverly Hills Hotel",
+      "category": "Hotel",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "9641 Sunset, CA Sun in",
+          "street": "9641 Sunset",
+          "city": "Beverly Hills",
+          "state": "CA",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "310 276 2761",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 887 2887 fax",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Beverly Hills Hotel - Sunset Boulevard",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 16,
+    "illegible_entries": 0,
+    "partial_entries": 3,
+    "cross_references": ["Ghislaine Maxwell and Rueda at same address"],
+    "notable_individuals": [
+      "Ghislaine Maxwell - 116 East 65th Street"
+    ],
+    "notable_locations": [
+      "Bel Air Hotel",
+      "Beverly Hills Hotel",
+      "Aspen Club",
+      "Au Bar"
+    ],
+    "geographic_distribution": {
+      "nyc": 8,
+      "california": 3,
+      "colorado": 1,
+      "other": 4
+    },
+    "location_highlights": [
+      "116 East 65th Street - Maxwell/Rueda shared address",
+      "Beverly Hills Hotel on Sunset",
+      "Bel Air Hotel Stone Canyon",
+      "Aspen Club Colorado",
+      "Scarsdale NY residence"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 11,
+      "medium_confidence": 3,
+      "low_confidence": 2,
+      "specific_issues": [
+        "Some phone numbers incomplete",
+        "Email addresses partial",
+        "Some location details unclear"
+      ]
+    }
+  }
+}

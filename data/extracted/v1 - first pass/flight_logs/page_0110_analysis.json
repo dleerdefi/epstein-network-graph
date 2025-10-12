@@ -1,0 +1,282 @@
+{
+  "page_number": 110,
+  "date_header": "JUN-AUG 2004",
+  "time_period": "June 2004 - August 2004",
+  "aircraft": {
+    "registration": "Multiple (G-1159B N909JE, B-727-31M N908JE)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "JUN 9",
+      "date": "06/09/2004",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1717",
+      "remarks": "TEB - MDW - JE, SK",
+      "passengers": ["JE", "SK"],
+      "crew": "LV 1/1 1/4"
+    },
+    {
+      "entry_number": "11",
+      "date": "06/11/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1718",
+      "remarks": "MDW - PBI - JE, SK",
+      "passengers": ["JE", "SK"],
+      "crew": "LV 2/7"
+    },
+    {
+      "entry_number": "13",
+      "date": "06/13/2004",
+      "departure": "B-727-31M",
+      "arrival": "N908JE",
+      "flight_time": "272",
+      "remarks": "PBI - JFK - JE, AS, George, MBV",
+      "passengers": ["JE", "AS", "George", "MBV"],
+      "crew": "GA 2/5"
+    },
+    {
+      "entry_number": "15",
+      "date": "06/15/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "273",
+      "remarks": "JFK - TIST - JE, DT, AS, SK, TD",
+      "passengers": ["JE", "DT", "AS", "SK", "TD"],
+      "crew": "GA 1/1 3/5"
+    },
+    {
+      "entry_number": "20",
+      "date": "06/20/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "274",
+      "remarks": "TIST - PBI - [REDACTED], Jason, [REDACTED], Ray J, Bob",
+      "passengers": ["REDACTED", "Jason", "REDACTED", "Ray J", "Bob"],
+      "crew": "GA 1/1 2/5"
+    },
+    {
+      "entry_number": "21",
+      "date": "06/21/2004",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "",
+      "remarks": "PBI - TEB - JE, DT, AD, [REDACTED]",
+      "passengers": ["JE", "DT", "AD", "REDACTED"],
+      "crew": "LV 2/2"
+    },
+    {
+      "entry_number": "23",
+      "date": "06/23/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1720",
+      "remarks": "TEB - SAC - JE, [REDACTED], SK",
+      "passengers": ["JE", "REDACTED", "SK"],
+      "crew": "LV 4/4"
+    },
+    {
+      "entry_number": "JUL 2",
+      "date": "07/02/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1723",
+      "remarks": "SAC - LAS - JE, AS, [REDACTED], K Schweizer",
+      "passengers": ["JE", "AS", "REDACTED", "K Schweizer"],
+      "crew": "1/1 1/6"
+    },
+    {
+      "entry_number": "2",
+      "date": "07/02/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1702",
+      "remarks": "LAS - SAC - JE, AS, [REDACTED], K Schweizer, GR",
+      "passengers": ["JE", "AS", "REDACTED", "K Schweizer", "GR"],
+      "crew": "1/3"
+    },
+    {
+      "entry_number": "4",
+      "date": "07/04/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1703",
+      "remarks": "SAC - ASE - JE, AD, [REDACTED], K Schweizer, GR",
+      "passengers": ["JE", "AD", "REDACTED", "K Schweizer", "GR"],
+      "crew": "1/4"
+    },
+    {
+      "entry_number": "4",
+      "date": "07/04/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1724",
+      "remarks": "ASE - PBI - JE, AD, [REDACTED], K Schweizer",
+      "passengers": ["JE", "AD", "REDACTED", "K Schweizer"],
+      "crew": "GR 1/1 0 3/8"
+    },
+    {
+      "entry_number": "11",
+      "date": "07/11/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1725",
+      "remarks": "PBI - TEB - JE, [REDACTED], SK, TD, Ty",
+      "passengers": ["JE", "REDACTED", "SK", "TD", "Ty"],
+      "crew": "LV 2/7"
+    },
+    {
+      "entry_number": "15",
+      "date": "07/15/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1726",
+      "remarks": "TEB - PBI - JE, BT, [REDACTED], SK, TD",
+      "passengers": ["JE", "BT", "REDACTED", "SK", "TD"],
+      "crew": "LV 1/1 2/6"
+    },
+    {
+      "entry_number": "19",
+      "date": "07/19/2004",
+      "departure": "B-727-31M",
+      "arrival": "N908JE",
+      "flight_time": "275",
+      "remarks": "PBI - TIST - JE, AL, Chris, [REDACTED], K Schweizer",
+      "passengers": ["JE", "AL", "Chris", "REDACTED", "K Schweizer"],
+      "crew": "LV 2/6"
+    },
+    {
+      "entry_number": "22",
+      "date": "07/22/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "276",
+      "remarks": "TIST - PBI - JE, AS, [REDACTED], JK, Stone, Cris",
+      "passengers": ["JE", "AS", "REDACTED", "JK", "Stone", "Cris"],
+      "crew": "2/6"
+    },
+    {
+      "entry_number": "25",
+      "date": "07/25/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "277",
+      "remarks": "PBI - JFK - JE, [REDACTED], DT",
+      "passengers": ["JE", "REDACTED", "DT"],
+      "crew": "GA 1/1 2/4"
+    },
+    {
+      "entry_number": "29",
+      "date": "07/29/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "278",
+      "remarks": "JFK - LFPB - JE, [REDACTED], SK",
+      "passengers": ["JE", "REDACTED", "SK"],
+      "crew": "GA 6/6"
+    },
+    {
+      "entry_number": "AUG 3",
+      "date": "08/03/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "279",
+      "remarks": "LFPB - LPAZ - JE, AD, [REDACTED], SK, TD",
+      "passengers": ["JE", "AD", "REDACTED", "SK", "TD"],
+      "crew": "LV 1/1 1/7"
+    },
+    {
+      "entry_number": "3",
+      "date": "08/03/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "280",
+      "remarks": "LPAZ - LPAZ - JE, AD, SK, TD",
+      "passengers": ["JE", "AD", "SK", "TD"],
+      "crew": "GA 1/1 2/6"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "SK",
+      "LV",
+      "AS",
+      "George",
+      "MBV",
+      "GA",
+      "DT",
+      "TD",
+      "REDACTED",
+      "Jason",
+      "Ray J",
+      "Bob",
+      "AD",
+      "K Schweizer",
+      "GR",
+      "Ty",
+      "BT",
+      "AL",
+      "Chris",
+      "JK",
+      "Stone",
+      "Cris",
+      "David Rodgers"
+    ],
+    "locations": [
+      "TEB",
+      "MDW",
+      "PBI",
+      "JFK",
+      "TIST",
+      "SAC",
+      "LAS",
+      "ASE",
+      "LFPB",
+      "LPAZ"
+    ],
+    "aircraft": [
+      "G-1159B",
+      "N909JE",
+      "B-727-31M",
+      "N908JE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "Total to Date: 9479.8 - 9524.5",
+    "amount_forward": "9479.8",
+    "total_to_date": "9524.5",
+    "document_quality": "good",
+    "legibility": "mostly clear with heavy redactions"
+  },
+  "insights": [
+    "Page covers June-August 2004",
+    "June 2004 entries: 9, 11, 13, 15, 20, 21, 23",
+    "July 2004 entries: 2, 2, 4, 4, 11, 15, 19, 22, 25, 29",
+    "August 2004 entries: 3, 3",
+    "JE (Jeffrey Epstein) appears in most flights",
+    "SK (Sarah Kellen) appears frequently",
+    "K Schweizer appears multiple times in July",
+    "Heavy redactions throughout page",
+    "Western US operations (Sacramento, Las Vegas, Aspen)",
+    "Caribbean operations continue (TIST)",
+    "International flight to Paris (LFPB) on July 29",
+    "Azores operations (LPAZ) in early August",
+    "Chicago Midway (MDW) appears in June",
+    "LV (Larry Visoski) appears frequently as crew",
+    "Mix of domestic, Caribbean, and international operations"
+  ]
+}

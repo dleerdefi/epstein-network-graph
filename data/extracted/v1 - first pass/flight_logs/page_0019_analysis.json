@@ -1,0 +1,394 @@
+{
+  "page_number": 19,
+  "file_path": "data/flight_logs_images/page-019.png",
+  "type": "aircraft_flight_log",
+  "content": {
+    "text": "DATE 1993 FEB | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARKS | POINTS OF DEPARTURE & ARRIVAL | FROM | TO | MILEAGE | FLT TIME | REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS | AIRCRAFT CATEGORY\n\n8 '' N908JE CMH CDJ 1.5 302 JEFFREY, GHISLAINE, SARAH, VIRGINIA\n9 '' '' '' ECG STI 5.0 303 JEFFREY, GHISLAINE, HAIR SPECIALIST, DENTAL HYGIENIST\n13 '' '' '' STI TED 5.0 304 JEFFREY, HAIR SPECIALIST, DENTAL HYGIENIST\n12 '' '' '' PBJ TED 3.0 305 JEFFREY, PRINCIPLE, JEAN FREDERICAS\n14 '' '' '' TED CMH 5.5 306 JEFFREY, VIRGINIA\n25 '' '' '' CMH SGD 2.5 307 JEFFREY, VIRGINIA, CAROL, DINA\n21 '' '' '' TED OCT 3.5 308 JEFFREY, VIRGINIA, SARAH, VIRGINIA, MARIA, JAMI\n23 '' '' '' OCT TCR 3.0 309 JEFFREY, GHISLAINE, VIRGINIA\n23 '' '' '' OSF TED 4.5 310 JEFFREY, STEVE, HIALEAH\n26 '' '' '' TED PBJ 3.0 311 JEFFREY, HANNA, ALAN\n26 '' '' '' TED OCT 5.0 312 JEFFREY, VIRGINIA, DENISE, AMY\n11 '' '' '' OCT PBJ 2.5 313 JEFFREY, NADIA, VIRGINIA, DENISE, AMY\n14 '' '' '' TED OBJ 2.0 314 JEFFREY, VIRGINIA, DENISE, AMY\n11 '' '' '' OBJ OCT 1.5 315 JEFFREY, PRINCE ANDREW, VIRGINIA\n14 '' '' '' TED TED 2.0 316 JEFFREY, DENISE, AMY, ALEX JONES\n15 '' '' '' CMH TED 4.0 317 JEFFREY\n27 '' '' '' TED DCJ 6.0 318 JEFFREY\n\nPAGE TOTAL\nAMT. FORWARD: 75.5 + 98.0 = 173.5\nTOTAL TO DATE: 6614 + 1331 = 7945\n\nI certify that the statements made by me on this form are true.\n\nPILOT'S SIGNATURE: David Rodgers",
+    "handwritten": true,
+    "typed": false,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "Complete cell-by-cell transcription provided above",
+      "flight_records": [
+        {
+          "date": "5/8/93",
+          "departure": "CMH",
+          "arrival": "CDJ",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Sarah", "Virginia"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE, SARAH, VIRGINIA"
+        },
+        {
+          "date": "5/9/93",
+          "departure": "ECG",
+          "arrival": "STI",
+          "aircraft": "N908JE",
+          "flight_time": "5.0 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Hair Specialist", "Dental Hygienist"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE, HAIR SPECIALIST, DENTAL HYGIENIST"
+        },
+        {
+          "date": "5/13/93",
+          "departure": "STI",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "5.0 hrs",
+          "passengers": ["Jeffrey", "Hair Specialist", "Dental Hygienist"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, HAIR SPECIALIST, DENTAL HYGIENIST"
+        },
+        {
+          "date": "5/12/93",
+          "departure": "PBJ",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "3.0 hrs",
+          "passengers": ["Jeffrey", "Principle", "Jean Fredericas"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, PRINCIPLE, JEAN FREDERICAS"
+        },
+        {
+          "date": "5/14/93",
+          "departure": "TED",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "5.5 hrs",
+          "passengers": ["Jeffrey", "Virginia"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, VIRGINIA"
+        },
+        {
+          "date": "5/25/93",
+          "departure": "CMH",
+          "arrival": "SGD",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Virginia", "Carol", "Dina"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, VIRGINIA, CAROL, DINA"
+        },
+        {
+          "date": "5/21/93",
+          "departure": "TED",
+          "arrival": "OCT",
+          "aircraft": "N908JE",
+          "flight_time": "3.5 hrs",
+          "passengers": ["Jeffrey", "Virginia", "Sarah", "Virginia", "Maria", "Jami"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, VIRGINIA, SARAH, VIRGINIA, MARIA, JAMI"
+        },
+        {
+          "date": "5/23/93",
+          "departure": "OCT",
+          "arrival": "TCR",
+          "aircraft": "N908JE",
+          "flight_time": "3.0 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Virginia"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE, VIRGINIA"
+        },
+        {
+          "date": "5/23/93",
+          "departure": "OSF",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "4.5 hrs",
+          "passengers": ["Jeffrey", "Steve", "Hialeah"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, STEVE, HIALEAH"
+        },
+        {
+          "date": "5/26/93",
+          "departure": "TED",
+          "arrival": "PBJ",
+          "aircraft": "N908JE",
+          "flight_time": "3.0 hrs",
+          "passengers": ["Jeffrey", "Hanna", "Alan"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, HANNA, ALAN"
+        },
+        {
+          "date": "5/26/93",
+          "departure": "TED",
+          "arrival": "OCT",
+          "aircraft": "N908JE",
+          "flight_time": "5.0 hrs",
+          "passengers": ["Jeffrey", "Virginia", "Denise", "Amy"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, VIRGINIA, DENISE, AMY"
+        },
+        {
+          "date": "6/11/93",
+          "departure": "OCT",
+          "arrival": "PBJ",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Nadia", "Virginia", "Denise", "Amy"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, NADIA, VIRGINIA, DENISE, AMY"
+        },
+        {
+          "date": "6/14/93",
+          "departure": "TED",
+          "arrival": "OBJ",
+          "aircraft": "N908JE",
+          "flight_time": "2.0 hrs",
+          "passengers": ["Jeffrey", "Virginia", "Denise", "Amy"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, VIRGINIA, DENISE, AMY"
+        },
+        {
+          "date": "6/11/93",
+          "departure": "OBJ",
+          "arrival": "OCT",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Prince Andrew", "Virginia"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, PRINCE ANDREW, VIRGINIA"
+        },
+        {
+          "date": "6/14/93",
+          "departure": "TED",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "2.0 hrs",
+          "passengers": ["Jeffrey", "Denise", "Amy", "Alex Jones"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, DENISE, AMY, ALEX JONES"
+        },
+        {
+          "date": "6/15/93",
+          "departure": "CMH",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "4.0 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "6/27/93",
+          "departure": "TED",
+          "arrival": "DCJ",
+          "aircraft": "N908JE",
+          "flight_time": "6.0 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        }
+      ],
+      "date_header": "DATE 1993 MAY",
+      "date_range": "May - June 1993",
+      "starting_month": "May",
+      "starting_year": "1993"
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey",
+        "context": "Primary passenger appearing in all flights",
+        "occurrences": 17
+      },
+      {
+        "name": "Ghislaine",
+        "context": "Frequent passenger",
+        "occurrences": 4
+      },
+      {
+        "name": "Sarah",
+        "context": "Passenger - appears multiple times",
+        "occurrences": 2
+      },
+      {
+        "name": "Virginia",
+        "context": "Very frequent passenger - appears multiple times",
+        "occurrences": 10
+      },
+      {
+        "name": "Hair Specialist",
+        "context": "Professional service provider passenger",
+        "occurrences": 2
+      },
+      {
+        "name": "Dental Hygienist",
+        "context": "Professional service provider passenger",
+        "occurrences": 2
+      },
+      {
+        "name": "Principle",
+        "context": "Passenger - possibly misspelled 'Principal'",
+        "occurrences": 1
+      },
+      {
+        "name": "Jean Fredericas",
+        "context": "Passenger - full name provided",
+        "occurrences": 1
+      },
+      {
+        "name": "Carol",
+        "context": "Passenger",
+        "occurrences": 1
+      },
+      {
+        "name": "Dina",
+        "context": "Passenger",
+        "occurrences": 1
+      },
+      {
+        "name": "Maria",
+        "context": "Passenger",
+        "occurrences": 1
+      },
+      {
+        "name": "Jami",
+        "context": "Passenger",
+        "occurrences": 1
+      },
+      {
+        "name": "Steve",
+        "context": "Passenger - possibly Steve Wisner from previous pages",
+        "occurrences": 1
+      },
+      {
+        "name": "Hialeah",
+        "context": "Passenger - unusual name",
+        "occurrences": 1
+      },
+      {
+        "name": "Hanna",
+        "context": "Passenger",
+        "occurrences": 1
+      },
+      {
+        "name": "Alan",
+        "context": "Passenger",
+        "occurrences": 1
+      },
+      {
+        "name": "Denise",
+        "context": "Passenger - appears multiple times",
+        "occurrences": 4
+      },
+      {
+        "name": "Amy",
+        "context": "Passenger - appears multiple times",
+        "occurrences": 4
+      },
+      {
+        "name": "Nadia",
+        "context": "Passenger",
+        "occurrences": 1
+      },
+      {
+        "name": "Prince Andrew",
+        "context": "British Royal - continued presence",
+        "occurrences": 1
+      },
+      {
+        "name": "Alex Jones",
+        "context": "Passenger",
+        "occurrences": 1
+      },
+      {
+        "name": "David Rodgers",
+        "context": "Pilot signature",
+        "occurrences": 1
+      }
+    ],
+    "locations": [
+      {
+        "code": "CMH",
+        "context": "Columbus, OH - frequent location"
+      },
+      {
+        "code": "CDJ",
+        "context": "Airport code"
+      },
+      {
+        "code": "ECG",
+        "context": "Airport code"
+      },
+      {
+        "code": "STI",
+        "context": "Airport code - frequent location"
+      },
+      {
+        "code": "TED",
+        "context": "Primary hub - most frequent location"
+      },
+      {
+        "code": "PBJ",
+        "context": "Airport code - frequent location"
+      },
+      {
+        "code": "SGD",
+        "context": "Airport code"
+      },
+      {
+        "code": "OCT",
+        "context": "Airport code - frequent location"
+      },
+      {
+        "code": "TCR",
+        "context": "Airport code"
+      },
+      {
+        "code": "OSF",
+        "context": "Airport code"
+      },
+      {
+        "code": "OBJ",
+        "context": "Airport code"
+      },
+      {
+        "code": "DCJ",
+        "context": "Airport code"
+      }
+    ],
+    "aircraft": [
+      {
+        "registration": "N908JE",
+        "context": "Primary aircraft used for all flights"
+      }
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "signature": "David Rodgers",
+        "context": "Pilot's signature at bottom of page",
+        "deciphered": true
+      }
+    ],
+    "stamps": [],
+    "handwriting_analysis": "Consistent handwriting throughout, same person filling out all entries",
+    "page_totals": {
+      "mileage": "75.5 + 98.0 = 173.5",
+      "total_to_date": "6614 + 1331 = 7945"
+    }
+  },
+  "metadata": {
+    "time_period": "May - June 1993",
+    "total_flights": 17,
+    "unique_passengers": 21,
+    "primary_aircraft": "N908JE",
+    "pilot": "David Rodgers"
+  },
+  "insights": [
+    "May-June 1993 flights - continuation from previous page",
+    "Virginia appears 10 times - highest frequency passenger after Jeffrey",
+    "Professional service providers traveled (Hair Specialist, Dental Hygienist)",
+    "Multiple flights with groups of young women (Virginia, Denise, Amy, Nadia)",
+    "Prince Andrew continues to appear with Virginia",
+    "Two Virginia entries on same flight (2/21/93) - possibly two different people or clerical error",
+    "Denise and Amy frequently travel together",
+    "Complex multi-passenger flights with up to 6 people",
+    "Same-day multiple flights pattern continues",
+    "Professional and personal travel mixed (service providers and social passengers)"
+  ]
+}

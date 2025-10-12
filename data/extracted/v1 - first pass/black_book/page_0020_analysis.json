@@ -1,0 +1,608 @@
+{
+  "page_number": 20,
+  "alphabetical_section": "F",
+  "contacts": [
+    {
+      "name": "Flick Mook",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Clay House / Chequers St / London EC1",
+          "street": "Chequers St",
+          "city": "London",
+          "postal_code": "EC1",
+          "country": "UK",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0171 251 17700",
+          "area_code": "0171",
+          "geographic_indicator": "London (old code)",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0171 251 114[0]",
+          "area_code": "0171",
+          "geographic_indicator": "London (old code)",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Foman, Bobby & Jeanette",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 688 4767 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "516 487 5099 (xx)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Forbes Zandy",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 262 6162",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 848 3801 (p)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Forbes, Chris (Kip) Astrid",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Box 5 Woodside / 25 West Market St [illegible] (h)",
+          "confidence": "medium"
+        },
+        {
+          "type": "secondary",
+          "address": "PO Box [illegible]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "516 621 5000",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 620 2395",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "516 924 2395 Lina America",
+          "area_code": "516",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "800 7002 9004 XX",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free US",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "718 519 3000",
+          "area_code": "718",
+          "geographic_indicator": "NYC outer boroughs",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Forbes family",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Forbes, Steve & Sabine",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "South View / Middle Road / Bedminster NJ 07921",
+          "city": "Bedminster",
+          "state": "NJ",
+          "postal_code": "07921",
+          "country": "USA",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Steve Forbes - Forbes Magazine",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Ford, Katie",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "142 Wooster St",
+          "street": "142 Wooster St",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 905 677 49 (h)",
+          "area_code": "905",
+          "geographic_indicator": "Toronto area, Canada",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "212 627 XXX (o)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "516 283 00[00]",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        "[illegible]@[illegible]"
+      ],
+      "notes": "Ford Models agency connection",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Ford, Tom & Richard Buckley",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "001 44 207 580 3000 / Richard cell 0033 6087070[0]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 44 207 580 3000",
+          "country_code": "44",
+          "area_code": "207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "cell",
+          "number": "0033 6087070[0]",
+          "country_code": "33",
+          "geographic_indicator": "France mobile",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Tom Ford - Fashion designer",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Foreman John",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 980 5040 (w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "001 212 664 1234 (h)",
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 664 1234 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 605 5220 (c)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Name unclear",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Name not visible"]
+      }
+    },
+    {
+      "name": "Forman Johnathan",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "001 212 586 0222",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 586 0222",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 631 653 1230",
+          "area_code": "631",
+          "geographic_indicator": "Suffolk County, NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Daughter 917 325 2280",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Daughter's number included",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Formby, Nicola",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "4802 Foucher St S[XX] 3",
+          "street": "4802 Foucher St",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 XXXXXX [p]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "07831 107584 [p]",
+          "area_code": "07831",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "email: jane XX@XXX1000002.XXX004"
+      ],
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Email partially illegible"]
+      }
+    },
+    {
+      "name": "Forte, Rocco & Aliai",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "11 Lowland Flats / London SW1",
+          "city": "London",
+          "postal_code": "SW1",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 235 0665 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Rocco Forte - Hotel chain owner",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Fox Andrew",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 91 3 923 22 0400",
+          "country_code": "91",
+          "geographic_indicator": "India",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 91 3 923 221[XX]",
+          "country_code": "91",
+          "geographic_indicator": "India",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "61 612 206 008 00 613 899",
+          "country_code": "61",
+          "geographic_indicator": "Australia",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "00 1219 Bee wave fax",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Fox, William & Lucinda",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "410 Grange Grove / London",
+          "city": "London",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0208 876 0025 (h)",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Fraiser, Violet",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 917 414 0022",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "violetfraiser@yahoo.net",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 242 5607(h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "violetfraiser@yahoo.net"
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Francesca de la Garcian [Mr]",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "3 avenue To ave / Aix en Provence",
+          "city": "Aix en Provence",
+          "country": "France",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0610 881 05XX (m)",
+          "area_code": "0610",
+          "geographic_indicator": "France mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "00 33 18 52034 0611 n5",
+          "country_code": "33",
+          "geographic_indicator": "France",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "00 33 18 52034[XXX]",
+          "country_code": "33",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Francey, Kathy",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 917 592 2416 (c)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 481 0119 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Fraysse, Isabel",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "15 rue des Frac / Aix en Provence 13100",
+          "street": "15 rue des Frac",
+          "city": "Aix en Provence",
+          "postal_code": "13100",
+          "country": "France",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 33 4 4777 9160 (h)",
+          "country_code": "33",
+          "area_code": "4",
+          "geographic_indicator": "Southern France",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Froud Mathew",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "0207 071 2000",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 071 2000",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0410 111 XXX",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0831 027 3636 (m)",
+          "area_code": "0831",
+          "geographic_indicator": "UK mobile (old)",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 19,
+    "quality": "good",
+    "legibility": "mostly clear",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "Steve Forbes - Forbes Magazine publisher",
+      "Tom Ford - Fashion designer",
+      "Rocco Forte - Hotel chain owner",
+      "Forbes family members"
+    ]
+  },
+  "insights": [
+    "Strong Forbes family presence (Steve, Chris/Kip, Zandy)",
+    "Tom Ford fashion designer with Richard Buckley",
+    "Rocco Forte hotel chain owner",
+    "International connections: France, India, Australia, Canada",
+    "Multiple NYC area codes (212, 917, 516, 718)",
+    "Fashion industry connections (Tom Ford, Katie Ford/Ford Models)",
+    "Mix of old UK codes (0171, 0831) and newer (0207, 0208)",
+    "Aix-en-Provence France connections (multiple entries)",
+    "Long Island NY strong presence (516 area code)",
+    "Business dynasties represented (Forbes, Forte)"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "high",
+    "total_contacts": 19,
+    "high_confidence": 12,
+    "medium_confidence": 6,
+    "low_confidence": 1,
+    "extraction_issues": [
+      "One entry missing name",
+      "Some phone numbers partially illegible",
+      "Email addresses partially obscured"
+    ]
+  }
+}

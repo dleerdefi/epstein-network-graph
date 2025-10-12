@@ -1,0 +1,293 @@
+{
+  "page_number": 50,
+  "date_header": "1997 SEPT",
+  "time_period": "September 1997 - October 1997",
+  "aircraft": {
+    "registration": "N908JE",
+    "type": "G1159B"
+  },
+  "flight_records": [
+    {
+      "entry_number": "1",
+      "date": "09/01/1997",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "1012",
+      "remarks": "JE, HEATHER, MANDY",
+      "passengers": ["JE", "HEATHER", "MANDY"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "2",
+      "date": "09/02/1997",
+      "departure": "TEB",
+      "arrival": "CMH",
+      "flight_time": "1013",
+      "remarks": "RONALD JAY",
+      "passengers": ["RONALD JAY"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "3",
+      "date": "09/03/1997",
+      "departure": "CMH",
+      "arrival": "TEB",
+      "flight_time": "1014",
+      "remarks": "STEVE + JUDY TUCKERMAN",
+      "passengers": ["STEVE", "JUDY TUCKERMAN"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "3",
+      "date": "09/03/1997",
+      "departure": "TEB",
+      "arrival": "LFPO",
+      "flight_time": "1015",
+      "remarks": "JE, STEVE DOROTHY + STEVE + JUDY, BILL CLAYTON + LESLIE + TIFFANY + SUSAN, JEN SIMON + TARA + DIANE SEAMAN",
+      "passengers": ["JE", "STEVE", "DOROTHY", "JUDY", "BILL CLAYTON", "LESLIE", "TIFFANY", "SUSAN", "JEN SIMON", "TARA", "DIANE SEAMAN"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "6",
+      "date": "09/06/1997",
+      "departure": "LFPO",
+      "arrival": "LPMN",
+      "flight_time": "1016",
+      "remarks": "JE, GM, WOLFGANG + KELLY, DIANA JENKINS",
+      "passengers": ["JE", "GM", "WOLFGANG", "KELLY", "DIANA JENKINS"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "7",
+      "date": "09/07/1997",
+      "departure": "LPMN",
+      "arrival": "EGCW",
+      "flight_time": "1017",
+      "remarks": "JE, GM",
+      "passengers": ["JE", "GM"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "12",
+      "date": "09/12/1997",
+      "departure": "EGCW",
+      "arrival": "CYYT",
+      "flight_time": "1018",
+      "remarks": "",
+      "passengers": [],
+      "crew": ""
+    },
+    {
+      "entry_number": "13",
+      "date": "09/13/1997",
+      "departure": "CYYT",
+      "arrival": "PBI",
+      "flight_time": "1019",
+      "remarks": "JE, GM",
+      "passengers": ["JE", "GM"],
+      "crew": ""
+    },
+    {
+      "entry_number": "15",
+      "date": "09/15/1997",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "1020",
+      "remarks": "JE, GM",
+      "passengers": ["JE", "GM"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "19",
+      "date": "09/19/1997",
+      "departure": "TEB",
+      "arrival": "CMH",
+      "flight_time": "1021",
+      "remarks": "JE, HEATHER, MANDY, DEBBIE",
+      "passengers": ["JE", "HEATHER", "MANDY", "DEBBIE"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "20",
+      "date": "09/20/1997",
+      "departure": "CMH",
+      "arrival": "PBI",
+      "flight_time": "1022",
+      "remarks": "JE, HEATHER, MANDY, DEBBIE",
+      "passengers": ["JE", "HEATHER", "MANDY", "DEBBIE"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "22",
+      "date": "09/22/1997",
+      "departure": "PBI",
+      "arrival": "SAF",
+      "flight_time": "1023",
+      "remarks": "JE, GM, BONNIE, GLENN, HAZEL",
+      "passengers": ["JE", "GM", "BONNIE", "GLENN", "HAZEL"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "26",
+      "date": "09/26/1997",
+      "departure": "SAF",
+      "arrival": "TEB",
+      "flight_time": "1024",
+      "remarks": "JE, GM, DENISE, BOX, JERRELEN, AUDREY, SARA",
+      "passengers": ["JE", "GM", "DENISE", "BOX", "JERRELEN", "AUDREY", "SARA"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "28",
+      "date": "09/28/1997",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "1025",
+      "remarks": "JE, GABRIELLE",
+      "passengers": ["JE", "GABRIELLE"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "16",
+      "date": "09/16/1997",
+      "departure": "CMV",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "BELAY GLDAW AVE ANTONIO, DEB BRANSFIELD CLEO 113, SKI ISON, AVA DWALIN",
+      "passengers": ["BELAY GLDAW AVE ANTONIO", "DEB BRANSFIELD CLEO 113", "SKI ISON", "AVA DWALIN"],
+      "crew": "4/4-"
+    },
+    {
+      "entry_number": "26",
+      "date": "09/26/1997",
+      "departure": "COGSWATER",
+      "arrival": "ZQR-SAF-PBI-AGC-ZR",
+      "flight_time": "",
+      "remarks": "",
+      "passengers": [],
+      "crew": "4/4-"
+    },
+    {
+      "entry_number": "4",
+      "date": "10/04/1997",
+      "departure": "PBI",
+      "arrival": "STL",
+      "flight_time": "1028",
+      "remarks": "JE, GM",
+      "passengers": ["JE", "GM"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "4",
+      "date": "10/04/1997",
+      "departure": "STL",
+      "arrival": "PBI",
+      "flight_time": "1029",
+      "remarks": "JE, GM",
+      "passengers": ["JE", "GM"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "12",
+      "date": "10/12/1997",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "1030",
+      "remarks": "JE, HEATHER, MANDY",
+      "passengers": ["JE", "HEATHER", "MANDY"],
+      "crew": "V1"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "GM",
+      "HEATHER",
+      "MANDY",
+      "RONALD JAY",
+      "STEVE",
+      "JUDY TUCKERMAN",
+      "DOROTHY",
+      "JUDY",
+      "BILL CLAYTON",
+      "LESLIE",
+      "TIFFANY",
+      "SUSAN",
+      "JEN SIMON",
+      "TARA",
+      "DIANE SEAMAN",
+      "WOLFGANG",
+      "KELLY",
+      "DIANA JENKINS",
+      "DEBBIE",
+      "BONNIE",
+      "GLENN",
+      "HAZEL",
+      "DENISE",
+      "BOX",
+      "JERRELEN",
+      "AUDREY",
+      "SARA",
+      "GABRIELLE",
+      "BELAY GLDAW AVE ANTONIO",
+      "DEB BRANSFIELD CLEO 113",
+      "SKI ISON",
+      "AVA DWALIN",
+      "David Rodgers"
+    ],
+    "locations": [
+      "PBI",
+      "TEB",
+      "CMH",
+      "LFPO",
+      "LPMN",
+      "EGCW",
+      "CYYT",
+      "SAF",
+      "CMV",
+      "COGSWATER",
+      "ZQR",
+      "AGC",
+      "ZR",
+      "STL"
+    ],
+    "aircraft": [
+      "N908JE",
+      "G1159B",
+      "GTLC",
+      "N893N"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "50",
+    "amount_forward": "10039",
+    "total_to_date": "11069.9",
+    "document_quality": "good",
+    "legibility": "clear"
+  },
+  "insights": [
+    "Page transitions from September 1997 to October 1997",
+    "Extensive European travel through France (LFPO) and Portugal (LPMN)",
+    "Transatlantic routing through Canada (CYYT)",
+    "Large passenger groups - up to 11 people on single flight (September 3)",
+    "Diana Jenkins as notable passenger",
+    "Multiple aircraft types including GTLC and N893N",
+    "Heather and Mandy appear frequently as recurring passengers",
+    "Complex routing patterns with multiple stops",
+    "St. Louis (STL) destination appears in October entries",
+    "Santa Fe (SAF) continues as key destination",
+    "Flight numbers exceeding 1030",
+    "Mix of business and personal travel patterns"
+  ]
+}

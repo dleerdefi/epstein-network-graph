@@ -1,0 +1,575 @@
+{
+  "page_number": 25,
+  "alphabetical_section": "H",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "025_south_beverly_drive",
+      "name": {
+        "full_name": null,
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": null,
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "310 274 1165", "formatting": "US format"},
+        {"type": "home", "number": "310 273 7030", "formatting": "US format"},
+        {"type": "home", "number": "310 553 0500", "formatting": "US format"},
+        {"type": "mobile", "number": "310 991 9800 (mobile)", "formatting": "US format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["(Hm)1155 South Beverly Drive", "Beverly Hills", "Los Angeles"],
+          "city": "Beverly Hills",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": ["Email: kmaurer", "310 553 0441 sec.", "310 273 9300 (e)", "310 273 2620", "310 273 2620 Fax"],
+      "confidence": {
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Orphan contact - Beverly Hills address"
+    },
+    {
+      "entry_id": "025_hammond_dana",
+      "name": {
+        "full_name": "Hammond, Dana",
+        "prefix": null,
+        "first_name": "Dana",
+        "middle_name": null,
+        "last_name": "Hammond",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 722 0279", "formatting": "International to US"},
+        {"type": "mobile", "number": "001 646 488 7642", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "NYC contact"
+    },
+    {
+      "entry_id": "025_handler_sharon",
+      "name": {
+        "full_name": "Handler, Sharon",
+        "prefix": null,
+        "first_name": "Sharon",
+        "middle_name": null,
+        "last_name": "Handler",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 472 6002(h)", "formatting": "International to US"},
+        {"type": "work", "number": "001 212 472 5900 (w)", "formatting": "International to US"},
+        {"type": "home", "number": "917 374 3199 (b)", "formatting": "US format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["410 East 57th Street", "New York"],
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": ["516 944 6736 Country h", "914 524 8190 country h John"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "NYC contact with country homes"
+    },
+    {
+      "entry_id": "025_hanover_ernst_chantal",
+      "name": {
+        "full_name": "Hanover Ernst & chantal",
+        "prefix": null,
+        "first_name": "Ernst",
+        "middle_name": null,
+        "last_name": "Hanover",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Chantal"
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Maison Blvy", "London SW10"],
+          "city": "London",
+          "postal_code": "SW10",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Prince Ernst of Hanover"
+    },
+    {
+      "entry_id": "025_hansen_brook",
+      "name": {
+        "full_name": "Hansen, Brook",
+        "prefix": null,
+        "first_name": "Brook",
+        "middle_name": null,
+        "last_name": "Hansen",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 631 726 4000", "formatting": "International to US"},
+        {"type": "home", "number": "001 631 726 (h)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["3 Crozier Terrace", "London W1"],
+          "city": "London",
+          "postal_code": "W1",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "UK/US connections"
+    },
+    {
+      "entry_id": "025_hanson_lord_lady",
+      "name": {
+        "full_name": "Hanson, Lord & Lady",
+        "prefix": "Lord",
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Hanson",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Lady Hanson"
+      },
+      "phones": [
+        {"type": "home", "number": "001 917 359 3001", "formatting": "International to US"},
+        {"type": "home", "number": "001 818 222 0172(Hm)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["32 Barclays Park", "London SW10"],
+          "city": "London",
+          "postal_code": "SW10",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "British nobility - industrial empire"
+    },
+    {
+      "entry_id": "025_hanson_the_hon_robert",
+      "name": {
+        "full_name": "Hanson, The Hon Robert",
+        "prefix": "The Hon",
+        "first_name": "Robert",
+        "middle_name": null,
+        "last_name": "Hanson",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "(Hm)0207 385 6414 S-C", "formatting": "UK format"},
+        {"type": "mobile", "number": "0468 899 313 (p)", "formatting": "UK mobile"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["The Garden House", "Cheyne Walk", "London SW3"],
+          "city": "London",
+          "postal_code": "SW3",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": ["0171 385 8153 Eddie"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Son of Lord Hanson"
+    },
+    {
+      "entry_id": "025_hapsburg_marie",
+      "name": {
+        "full_name": "Hapsburg, Marie",
+        "prefix": null,
+        "first_name": "Marie",
+        "middle_name": null,
+        "last_name": "Hapsburg",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "01 435 0647 (h)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["11 Campden Street", "London W8"],
+          "city": "London",
+          "postal_code": "W8",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "UK contact"
+    },
+    {
+      "entry_id": "025_harvey_victoria",
+      "name": {
+        "full_name": "Harvey Victoria",
+        "prefix": null,
+        "first_name": "Victoria",
+        "middle_name": null,
+        "last_name": "Harvey",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "07 799 424005", "formatting": "UK mobile"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "UK socialite"
+    },
+    {
+      "entry_id": "025_harvie_watt_isabella",
+      "name": {
+        "full_name": "Harvie-Watt, Isabella",
+        "prefix": null,
+        "first_name": "Isabella",
+        "middle_name": null,
+        "last_name": "Harvie-Watt",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207-978 0040 (p)", "formatting": "UK format"},
+        {"type": "mobile", "number": "0802 658 5013 (p)", "formatting": "UK mobile"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "UK contact"
+    },
+    {
+      "entry_id": "025_haslam_nick",
+      "name": {
+        "full_name": "Haslam, Nick",
+        "prefix": null,
+        "first_name": "Nick",
+        "middle_name": null,
+        "last_name": "Haslam",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207-730 6636(h)", "formatting": "UK format"},
+        {"type": "work", "number": "0207-581 8012(w)", "formatting": "UK format"}
+      ],
+      "emails": [
+        {"type": "business", "email": "A 810 897605 car"}
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "low"
+      },
+      "formatting_notes": "Interior designer"
+    },
+    {
+      "entry_id": "025_hatkoff_craig_jane",
+      "name": {
+        "full_name": "Hatkoff, Craig & Jane",
+        "prefix": null,
+        "first_name": "Craig",
+        "middle_name": null,
+        "last_name": "Hatkoff",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Jane"
+      },
+      "phones": [
+        {"type": "home", "number": "212 421 0214 (h)", "formatting": "US format"},
+        {"type": "home", "number": "917 678 5342 craig (c)", "formatting": "US format"},
+        {"type": "home", "number": "516 626 5234 LI", "formatting": "US format"},
+        {"type": "home", "number": "917 374 1600 car", "formatting": "US format"}
+      ],
+      "emails": [
+        {"type": "business", "email": "jl.hatkoff@aol.com"}
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["United Capital Group", "1 West 72nd St."],
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": ["Email: jl.hatkoff@aol.com", "N.Y., N.Y. 10023", "Tribeca Film Festival co-founder"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Tribeca Film Festival co-founder"
+    },
+    {
+      "entry_id": "025_hay_henry_patricia",
+      "name": {
+        "full_name": "Hay, Henry & Patricia",
+        "prefix": null,
+        "first_name": "Henry",
+        "middle_name": null,
+        "last_name": "Hay",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Patricia"
+      },
+      "phones": [
+        {"type": "home", "number": "01 437 0504", "formatting": "UK format"},
+        {"type": "home", "number": "01 437 1104 (h)", "formatting": "UK format"}
+      ],
+      "emails": [
+        {"type": "personal", "email": "hay77@lineone.net"}
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["34 Bryansion Sq", "London W1H 7DT"],
+          "city": "London",
+          "postal_code": "W1H 7DT",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": ["Email: hay77@lineone.net", "Email: 001 642 6194 (sat)"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "UK couple"
+    },
+    {
+      "entry_id": "025_hayworth_reggie",
+      "name": {
+        "full_name": "Hayworth Reggie",
+        "prefix": null,
+        "first_name": "Reggie",
+        "middle_name": null,
+        "last_name": "Hayworth",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "mobile", "number": "01233 642 0444", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["32 good Street", "New Lane"],
+          "notes": "Address unclear"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "low"
+      },
+      "formatting_notes": "UK contact"
+    },
+    {
+      "entry_id": "025_hazell_Iveagh_clare",
+      "name": {
+        "full_name": "Hazell-Iveagh, Clare",
+        "prefix": null,
+        "first_name": "Clare",
+        "middle_name": null,
+        "last_name": "Hazell-Iveagh",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "01 379 7420", "formatting": "UK format"},
+        {"type": "mobile", "number": "07 855 304199", "formatting": "UK mobile"},
+        {"type": "work", "number": "01 491 0277(w)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Masters", "87 York Road"],
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": ["0151 651 0131 direct", "0344 365 0142 0101(w)", "0831 652 773 car"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "UK contact with multiple numbers"
+    },
+    {
+      "entry_id": "025_hearn_barry_susan",
+      "name": {
+        "full_name": "Hearn Barry & Susan",
+        "prefix": null,
+        "first_name": "Barry",
+        "middle_name": null,
+        "last_name": "Hearn",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Susan"
+      },
+      "phones": [
+        {"type": "home", "number": "01708 735 0700", "formatting": "UK format"},
+        {"type": "home", "number": "01708 735 0726", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["16 Western Road", "Brentwood", "Essex CM14 4JX"],
+          "city": "Brentwood",
+          "county": "Essex",
+          "postal_code": "CM14 4JX",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": ["01277 219 home"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Sports promoter"
+    },
+    {
+      "entry_id": "025_hauteville_marc_de",
+      "name": {
+        "full_name": "Hauteville, Marc de",
+        "prefix": null,
+        "first_name": "Marc",
+        "middle_name": "de",
+        "last_name": "Hauteville",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "00 33 1 4224 4395 (h)", "formatting": "International to France"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "French contact"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 17,
+    "legibility": "excellent",
+    "page_condition": "good",
+    "notes": "Notable entries include Lord & Lady Hanson (British industrial empire), Prince Ernst of Hanover, Craig Hatkoff (Tribeca Film Festival co-founder), Nick Haslam (interior designer), Barry Hearn (sports promoter)"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Dana Hammond",
+      "Sharon Handler",
+      "Ernst Hanover",
+      "Chantal Hanover",
+      "Brook Hansen",
+      "Lord Hanson",
+      "Lady Hanson",
+      "Robert Hanson",
+      "Marie Hapsburg",
+      "Victoria Harvey",
+      "Isabella Harvie-Watt",
+      "Nick Haslam",
+      "Craig Hatkoff",
+      "Jane Hatkoff",
+      "Henry Hay",
+      "Patricia Hay",
+      "Reggie Hayworth",
+      "Clare Hazell-Iveagh",
+      "Barry Hearn",
+      "Susan Hearn",
+      "Marc de Hauteville"
+    ],
+    "organizations": [
+      "United Capital Group",
+      "Tribeca Film Festival"
+    ],
+    "locations": [
+      "Beverly Hills, CA",
+      "New York, NY",
+      "London, UK",
+      "Essex, UK",
+      "France"
+    ]
+  },
+  "insights": [
+    "Lord Hanson - British industrial magnate with Hanson plc empire",
+    "Prince Ernst of Hanover with wife Chantal - European royalty",
+    "Craig Hatkoff - co-founder of Tribeca Film Festival with Robert De Niro",
+    "Nick Haslam - prominent British interior designer",
+    "Barry Hearn - major UK sports promoter (snooker, darts, boxing)",
+    "The Hon Robert Hanson - son of Lord Hanson, Chelsea residence",
+    "Victoria Harvey - British socialite and model",
+    "Multiple Beverly Hills and Manhattan addresses indicating wealthy connections",
+    "Mix of British nobility, entertainment industry, and business elite",
+    "Strong presence in Chelsea and Kensington areas of London"
+  ]
+}

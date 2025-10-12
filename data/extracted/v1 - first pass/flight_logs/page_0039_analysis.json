@@ -1,0 +1,292 @@
+{
+  "page_number": 39,
+  "document_type": "Flight Log",
+  "metadata": {
+    "time_period": "November 1995 - January 1996",
+    "header_date": "1995 NOV",
+    "pilot": "David Rodgers",
+    "aircraft_registration": "N908JE",
+    "aircraft_make_model": "G1159B",
+    "total_flight_time_page": "44:02",
+    "amt_forward": "6541:58",
+    "total_to_date": "6586:00"
+  },
+  "flights": [
+    {
+      "date": "11/17/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "CMH",
+      "arrival": "PBI",
+      "flight_time": "2:10",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "11/20/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:02",
+      "passengers": "JE, AS",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "11/21/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:04",
+      "passengers": "JE, AS, GM, KELLY, MARY, 1 FEMALE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "11/26/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:04",
+      "passengers": "GM, AUNT BELOTE, AS, ALEX GIBBONS",
+      "crew": "MARY BOONE, GERRY, 8 PINAU",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "11/29/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "CMH",
+      "flight_time": "1:03",
+      "passengers": "GM, SONIA BOWEN, 8 PINAU",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "11/30/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "CMH",
+      "arrival": "PBI",
+      "flight_time": "2:03",
+      "passengers": "JE, SONIA BOWEN",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "12/02/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:02",
+      "passengers": "JE, SONJA BIDDLE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "12/03/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:03",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "01/05/1996",
+      "aircraft": "CHARMING/G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:01",
+      "passengers": "JE, GM, GWENDOLYN BECK",
+      "crew": "CHRIS TUCKER, DARIAN ANDREW",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "01/09/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:05",
+      "passengers": "JE, SONJA BIDDLE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "01/11/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:03",
+      "passengers": "JE, AS, SONJA BIDDLE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "01/12/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:05",
+      "passengers": "JE, GM, BODDEN/13",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "01/20/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "SAF",
+      "flight_time": "4:10",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "01/21/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "SAF",
+      "arrival": "LAX",
+      "flight_time": "2:02",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "01/23/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "LAX",
+      "arrival": "TEB",
+      "flight_time": "4:06",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "01/25/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:02",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "01/28/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "CMH",
+      "flight_time": "2:10",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "01/28/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "CMH",
+      "arrival": "TEB",
+      "flight_time": "1:10",
+      "passengers": "GM, JE, GM",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "01/31/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:03",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    }
+  ],
+  "entities": {
+    "people": [
+      {"name": "Jeffrey Epstein", "abbreviation": "JE", "role": "Primary passenger"},
+      {"name": "Ghislaine Maxwell", "abbreviation": "GM", "role": "Frequent passenger"},
+      {"name": "Andy Stewart", "abbreviation": "AS", "role": "Regular passenger"},
+      {"name": "Kelly", "role": "Passenger"},
+      {"name": "Mary", "role": "Passenger"},
+      {"name": "Aunt Belote", "role": "Passenger"},
+      {"name": "Alex Gibbons", "role": "Passenger"},
+      {"name": "Mary Boone", "role": "Crew member"},
+      {"name": "Gerry", "role": "Crew member"},
+      {"name": "Pinau", "role": "Passenger (8 Pinau notation)"},
+      {"name": "Sonia Bowen", "role": "Passenger"},
+      {"name": "Sonja Biddle", "role": "Passenger (multiple flights)"},
+      {"name": "Gwendolyn Beck", "role": "Passenger"},
+      {"name": "Chris Tucker", "role": "Crew member"},
+      {"name": "Darian Andrew", "role": "Crew member"},
+      {"name": "Bodden", "role": "Passenger"},
+      {"name": "David Rodgers", "role": "Pilot"}
+    ],
+    "locations": [
+      {"code": "CMH", "name": "John Glenn Columbus International Airport", "location": "Columbus, OH"},
+      {"code": "PBI", "name": "Palm Beach International Airport", "location": "West Palm Beach, FL"},
+      {"code": "TEB", "name": "Teterboro Airport", "location": "Teterboro, NJ"},
+      {"code": "SAF", "name": "Santa Fe Regional Airport", "location": "Santa Fe, NM"},
+      {"code": "LAX", "name": "Los Angeles International Airport", "location": "Los Angeles, CA"}
+    ],
+    "aircraft": [
+      {"registration": "N908JE", "type": "Gulfstream G1159B", "category": "Private Jet"},
+      {"registration": "CHARMING", "type": "Unknown", "category": "Special notation"}
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {"location": "bottom_left", "description": "David Rodgers pilot signature", "legibility": "clear"}
+    ],
+    "stamps": [],
+    "markings": [
+      {"type": "page_number", "content": "39", "location": "bottom_center"},
+      {"type": "total_time", "content": "44:02", "location": "bottom_right"}
+    ]
+  },
+  "insights": [
+    "Page transitions from November 1995 through December to January 1996",
+    "Year transition from 1995 to 1996",
+    "Limited December entries (only 2 days recorded)",
+    "CHARMING aircraft notation appears on 1/5",
+    "Sonja Biddle appears on multiple flights",
+    "Sonia Bowen appears (different from Biddle)",
+    "Cross-country routing through SAF and LAX in January",
+    "Aunt Belote mentioned as passenger",
+    "Alex Gibbons appears as passenger",
+    "Mary Boone appears as crew member",
+    "Chris Tucker appears as crew (not the actor)",
+    "Gwendolyn Beck appears as passenger",
+    "8 Pinau notation (possibly 8 PAX misread)",
+    "Multiple same-day flights on 1/28",
+    "Pattern of TEB-PBI corridor continues"
+  ],
+  "corrections": {
+    "date_inference": "Page 39 covers November 1995 through January 1996, with year transition",
+    "actual_dates_from_png": "Verified from PNG: November 17, 20, 21, 26, 29, 30, December 2, 3, then jumps to January 5, 9, 11, 12, 20, 21, 23, 25, 28, 28, 31 (1996)",
+    "continuity": "Continues from page 38, transitions to 1996, then page 40 picks up with February 5, 1996",
+    "correction_note": "Page shows limited December activity then resumes in January 1996"
+  },
+  "pilot_signature": "David Rodgers",
+  "page_total": "44:02 hours"
+}

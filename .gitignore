@@ -1,0 +1,123 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+.env
+.venv/
+env/
+ENV/
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+*.code-workspace
+.project
+.pydevproject
+.settings/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+*.backup
+*.orig
+.cache/
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Testing
+.coverage
+.pytest_cache/
+htmlcov/
+.tox/
+.hypothesis/
+
+# Documentation builds
+docs/_build/
+docs/.doctrees/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Private / Sensitive
+private/
+sensitive/
+credentials/
+*.key
+*.pem
+*.crt
+
+# Large files (if needed to exclude)
+# Note: We're tracking PNGs and PDFs for this project
+# *.png
+# *.jpg
+# *.jpeg
+# *.pdf
+
+# Archive files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# OS generated
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# Node (if used for any tools)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Project specific
+/scratch/
+/experiments/
+/backup/
+*.old
+TODO.txt
+NOTES.txt

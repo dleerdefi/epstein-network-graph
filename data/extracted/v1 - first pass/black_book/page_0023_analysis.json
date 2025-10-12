@@ -1,0 +1,642 @@
+{
+  "page_number": 23,
+  "alphabetical_section": "G",
+  "contacts": [
+    {
+      "name": "Gomme, William & Emma",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "7 Cadogan Square / London SW1",
+          "street": "7 Cadogan Square",
+          "city": "London",
+          "postal_code": "SW1",
+          "country": "UK",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "020 7581 XXXX",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Gordon, Jacobo",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Cine de Vergara, 128 / Donastico",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "34 917 239 50",
+          "country_code": "34",
+          "geographic_indicator": "Spain",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "34 916 119 666 (f)",
+          "country_code": "34",
+          "geographic_indicator": "Spain",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Gore, Juliet",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "90 Smith Street / London SW3",
+          "street": "90 Smith Street",
+          "city": "London",
+          "postal_code": "SW3",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "020 7333 1716",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0208 541 1270 (h)",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Gottlieb, Steve",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 774X074 o",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 999 0210 (o)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Goulandris Dimitri",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 351 2529(h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0171 352 3880[0]",
+          "area_code": "0171",
+          "geographic_indicator": "London (old code)",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Greek shipping family",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Grabau, Lorenzo",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 376 8269 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 XXXX",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "00 39 0 546 14 87 [Rome]",
+          "country_code": "39",
+          "geographic_indicator": "Rome, Italy",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Graff, Francois",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Bouvaine Street / [illegible]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 Madison Ave",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "917 1 789 0229[w]",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "516 624 4115 (h)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Possibly Graff Diamonds connection",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Granby, David",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "27 Bradmore Walk / London W8",
+          "street": "27 Bradmore Walk",
+          "city": "London",
+          "postal_code": "W8",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 937 7700 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0333 012 456 18",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 763 48 9311",
+          "area_code": "0207",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Grange, Jacques",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "6208 N Hollygrove / 90 XX 1 7824 8200",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 XX 1 7824 8200",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Grant Jamie",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 887 687 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Greece Princess Olga",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 606 1227",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Greek royalty",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Greece MC & Pavlos",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "[illegible]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 917 488 1564[0]",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 [illegible]@hotmail.com",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 301 7750[0]",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 916 803 2720[027]",
+          "area_code": "916",
+          "geographic_indicator": "Sacramento, CA",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Greek royalty - Prince Pavlos",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Green, Deborah",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "0207 603 5240",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 603 5240",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 626 0026 (h)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Green, Jeremy",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "3 Avenue Fontainebleau / Cannes 06400",
+          "street": "3 Avenue Fontainebleau",
+          "city": "Cannes",
+          "postal_code": "06400",
+          "country": "France",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "[illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "home: 39 [illegible]@ergo.com",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "Email: jeremy@[illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "Cannes 33 XXX 6 Cell Africa",
+          "country_code": "33",
+          "geographic_indicator": "France",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "039 33 34 55[070]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "Cell: 33 85 Mobile",
+          "country_code": "33",
+          "geographic_indicator": "France mobile",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Cannes, France residence",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Most phone numbers illegible"]
+      }
+    },
+    {
+      "name": "Griffen, Ted",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 646 495 0212",
+          "area_code": "646",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Griscom, Nina",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "660 Park Avenue / New York, NY 10021",
+          "street": "660 Park Avenue",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 737 1745",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Email: [illegible]@ergo.com",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "Nina [illegible]@sol.com",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "631 283 0000 [illegible]",
+          "area_code": "631",
+          "geographic_indicator": "Suffolk County, NY",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "212 753 00XX (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Park Avenue address",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Green, Judy",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "009 Park Ave",
+          "street": "Park Ave",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 980 [XXX]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 980 1097",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Gross Geordie & Katherine",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "38 Caversham Park Drive",
+          "street": "38 Caversham Park Drive",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 954 [illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0171 281 03[10]",
+          "area_code": "0171",
+          "geographic_indicator": "London (old code)",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "077 47 698 030 cell",
+          "area_code": "077",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Grenfell, Natasha",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "13 Claydon Road / Flamer Thames / London / SW19 [illegible]",
+          "street": "13 Claydon Road",
+          "city": "London",
+          "postal_code": "SW19",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Gross, Pamela & Jimmy Finkelst",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "[illegible]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York, NY 10021",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "212 737 1444 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "914 238 0022 (h country[side])",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "[illegible] First Neck Lake",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Couple entry with Jimmy Finkelstein",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 20,
+    "quality": "fair",
+    "legibility": "partially obscured",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "Princess Olga of Greece",
+      "Prince Pavlos of Greece (MC & Pavlos)",
+      "Nina Griscom - NYC socialite",
+      "Dimitri Goulandris - Greek shipping family"
+    ]
+  },
+  "insights": [
+    "Greek royalty presence (Princess Olga, Prince Pavlos)",
+    "Greek shipping dynasty (Goulandris)",
+    "Strong NYC Upper East Side presence (Park Avenue addresses)",
+    "International connections: Spain, France (Cannes), Italy (Rome)",
+    "Mix of London addresses in prime areas (Cadogan Square, SW1, SW3)",
+    "Long Island NY connections (516, 631 area codes)",
+    "Westchester County presence continues (914 area code)",
+    "Possible Graff Diamonds connection",
+    "Mix of old UK codes (0171) and newer (0207, 020)",
+    "French Riviera connection (Cannes residence)"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "medium",
+    "total_contacts": 20,
+    "high_confidence": 10,
+    "medium_confidence": 8,
+    "low_confidence": 2,
+    "extraction_issues": [
+      "Several phone numbers partially illegible",
+      "Some addresses incomplete",
+      "Email addresses mostly illegible"
+    ]
+  }
+}

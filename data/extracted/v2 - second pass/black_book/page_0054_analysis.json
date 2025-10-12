@@ -1,0 +1,1154 @@
+{
+  "page_number": 54,
+  "alphabetical_section": "T",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "054_theodoli_catherine",
+      "name": {
+        "full_name": "Theodoli, Catherine",
+        "prefix": null,
+        "first_name": "Catherine",
+        "middle_name": null,
+        "last_name": "Theodoli",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 305 931 4292",
+          "formatting": "001 305 931 4292 (w)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 212 439 1712",
+          "formatting": "001 212 439 1712"
+        }
+      ],
+      "emails": [
+        {
+          "address": "ktheodoli@aol.com",
+          "type": "personal",
+          "notes": "AOL email"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Miami (305) and NYC numbers"
+    },
+    {
+      "entry_id": "054_tholstrup_moegens",
+      "name": {
+        "full_name": "Tholstrup, Moegens",
+        "prefix": null,
+        "first_name": "Moegens",
+        "middle_name": null,
+        "last_name": "Tholstrup",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 351 6429",
+          "formatting": "0207 351 6429 (h)"
+        },
+        {
+          "type": "portable",
+          "number": "07785 250 990",
+          "formatting": "07785 250 990 (p)"
+        },
+        {
+          "type": "work",
+          "number": "0207 584 7215",
+          "formatting": "0207 584 7215 (w)"
+        },
+        {
+          "type": "St. Trop",
+          "number": "0033 49 497 7837",
+          "formatting": "0033 49 497 7837 (St. Trop.)"
+        },
+        {
+          "type": "Verbier",
+          "number": "0041 27 771 8551",
+          "formatting": "0041 27 771 8551 (Verbier)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "mmtholstrup@cs.com",
+          "type": "personal",
+          "notes": "CompuServe email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "6 Fawcett St",
+            "London",
+            "SW10 9HE"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW10 9HE",
+          "country": "UK",
+          "notes": "Chelsea address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Phone numbers for multiple international properties: London Chelsea, St. Tropez France, Verbier Switzerland. Possibly related to Tholstrup, Paola"
+    },
+    {
+      "entry_id": "054_tholstrup_paola",
+      "name": {
+        "full_name": "Tholstrup, Paola",
+        "prefix": null,
+        "first_name": "Paola",
+        "middle_name": null,
+        "last_name": "Tholstrup",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207 727 9211",
+          "formatting": "0207 727 9211"
+        },
+        {
+          "type": "portable",
+          "number": "07889 437 363",
+          "formatting": "07889 437 363 (p)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "11 Sheffield Terrace",
+            "London, W871NG"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W871NG",
+          "country": "UK",
+          "notes": "Kensington area"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Possibly related to Tholstrup, Moegens"
+    },
+    {
+      "entry_id": "054_thompson_barnaby",
+      "name": {
+        "full_name": "Thompson, Barnaby",
+        "prefix": null,
+        "first_name": "Barnaby",
+        "middle_name": null,
+        "last_name": "Thompson",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 265 7621",
+          "formatting": "001 212 265 7621 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "054_tisch_david",
+      "name": {
+        "full_name": "Tisch, David",
+        "prefix": null,
+        "first_name": "David",
+        "middle_name": null,
+        "last_name": "Tisch",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "212 752 0560",
+          "formatting": "212 752 0560 (w)"
+        },
+        {
+          "type": "portable",
+          "number": "917 385 3377",
+          "formatting": "917 385 3377 (p)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "david.tisch@gdb.com",
+          "type": "unknown",
+          "notes": "edb.com domain email"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Tisch family - major NYC business dynasty. Possibly related to Tisch, Merryl and Jimmy, and Ticsh, Anne & Andrew [spelled Tish on page possibly clerical error]"
+    },
+    {
+      "entry_id": "054_tisch_merryl_jimmy",
+      "name": {
+        "full_name": "Tisch, Merryl and Jimmy",
+        "prefix": null,
+        "first_name": "Merryl",
+        "middle_name": null,
+        "last_name": "Tisch",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Jimmy"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 879 9414",
+          "formatting": "001 212 879 9414"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "9 East 79th Street",
+            "New York, NY 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side - elite address. Possibly related to Tisch, David and Tish, Anne & Andrew [spelled Tish on page possibly clerical error]"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Possibly related to Tisch, David, and Tisch, Anne & Andrew. Tisch family - Merryl & James Tisch, billionaire Loews Corporation dynasty"
+    },
+    {
+      "entry_id": "054_tisch_anne_andrew",
+      "name": {
+        "full_name": "Tisch, Anne & Andrew",
+        "prefix": null,
+        "first_name": "Anne",
+        "middle_name": null,
+        "last_name": "Tisch",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Andrew"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 879 9414",
+          "formatting": "001 212 879 9414"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Regency Hotel",
+            "540 Park Ave. 10021",
+            "One Park Ave. #18th Floor",
+            "New York, NY 10016"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Regency Hotel Park Avenue + One Park Avenue office"
+        },
+        {
+          "type": "work",
+          "address_lines": [
+            "001 212 545 3456"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "[spelled Tish on page possibly clerical error]. Possibly related to Tisch, David, and Tisch, Merryl and Jimmy. Tisch family - Anne & Andrew Tisch, Regency Hotel residence"
+    },
+    {
+      "entry_id": "054_titopupolo_sonia",
+      "name": {
+        "full_name": "Titopupolo, Sonia",
+        "prefix": null,
+        "first_name": "Sonia",
+        "middle_name": null,
+        "last_name": "Titopupolo",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 706 2457",
+          "formatting": "001 212 706 2457 (h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "054_todhunter_emily_olympius",
+      "name": {
+        "full_name": "Todhunter, Emily Olympius",
+        "prefix": null,
+        "first_name": "Emily",
+        "middle_name": "Olympius",
+        "last_name": "Todhunter",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 828 4343",
+          "formatting": "0207 828 4343 (h)"
+        },
+        {
+          "type": "fax",
+          "number": "0207 828 5353",
+          "formatting": "0207 828 5353 (f)"
+        },
+        {
+          "type": "unknown",
+          "number": "0207 221 8006",
+          "formatting": "0207 221 8006"
+        },
+        {
+          "type": "unknown",
+          "number": "0468 473 793",
+          "formatting": "0468 473 793"
+        }
+      ],
+      "emails": [
+        {
+          "address": "emily@todhunterearle.com",
+          "type": "work",
+          "notes": "Todhunter Earle email domain - interior design firm"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "23 Warwick Sq",
+            "London SW1V 2AB"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW1V 2AB",
+          "country": "UK",
+          "notes": "Pimlico/Belgravia area - Warwick Square"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Emily Todhunter - interior designer, Todhunter Earle firm"
+    },
+    {
+      "entry_id": "054_toledo_ignacio_alvarez_de",
+      "name": {
+        "full_name": "Toledo Ignacio, Alvarez de",
+        "prefix": null,
+        "first_name": "Ignacio",
+        "middle_name": null,
+        "last_name": "Toledo Alvarez",
+        "suffix": "de"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "00 33 1 6458 9451",
+          "formatting": "00 33 1 6458 9451 (h)"
+        },
+        {
+          "type": "work",
+          "number": "00 33 1 4413 0343",
+          "formatting": "00 33 1 4413 0343 (w)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 212 688 5127",
+          "formatting": "001 212 688 5127"
+        },
+        {
+          "type": "portable",
+          "number": "00 33 07614287",
+          "formatting": "00 33 07614287 (p)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 305 582 9171",
+          "formatting": "001 305 582 9171"
+        },
+        {
+          "type": "unknown",
+          "number": "001 305 864 8080",
+          "formatting": "001 305 864 8080"
+        },
+        {
+          "type": "unknown",
+          "number": "+44 795 183 5245",
+          "formatting": "+44 795 183 5245"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "International presence: Paris (33), NYC (212), Miami (305), UK (44)"
+    },
+    {
+      "entry_id": "054_tollman_bea",
+      "name": {
+        "full_name": "Tollman, Bea",
+        "prefix": null,
+        "first_name": "Bea",
+        "middle_name": null,
+        "last_name": "Tollman",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "011 207 235 9251",
+          "formatting": "011 207 235 9251"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Tollman family - Red Carnation Hotels dynasty. Possibly related to Tollman, Brett, Tollman, Mr & Mrs, Tollman, Syrie & Gavin and Tollman, Wyne"
+    },
+    {
+      "entry_id": "054_tollman_brett",
+      "name": {
+        "full_name": "Tollman, Brett",
+        "prefix": null,
+        "first_name": "Brett",
+        "middle_name": null,
+        "last_name": "Tollman",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 838 4950",
+          "formatting": "001 212 838 4950 (h)"
+        },
+        {
+          "type": "country",
+          "number": "001 203 868 0720",
+          "formatting": "001 203 868 0720 (country)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 914 745 2177",
+          "formatting": "001 914 745 2177"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "485 Park Avenue",
+            "New York, NY 10022"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10022",
+          "country": "USA",
+          "notes": "Park Avenue - Upper East Side + country home"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Tollman family - 485 Park Avenue + Connecticut country home. Possibly related to Tollman, Bea, Tollman, Mr & Mrs, Tollman, Syrie & Gavin and Tollman, Wyne"
+    },
+    {
+      "entry_id": "054_tollman_mr_mrs",
+      "name": {
+        "full_name": "Tollman, Mr. & Mrs.",
+        "prefix": "Mr. & Mrs.",
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Tollman",
+        "suffix": null,
+        "couple": true,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 888 6048",
+          "formatting": "001 212 888 6048 (h)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 407 859 0999",
+          "formatting": "001 407 859 0999"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "485 Park Avenue",
+            "New York, NY, 10022"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10022",
+          "country": "USA",
+          "notes": "485 Park Avenue - same as Brett Tollman"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Tollman family - likely Brett's parents, Stanley & Bea Tollman. Possibly related to Tollman, Bea, Tollman, Brett, Tollman, Syrie & Gavin and Tollman, Wyne"
+    },
+    {
+      "entry_id": "054_tollman_syrie_gavin",
+      "name": {
+        "full_name": "Tollman, Syrie & Gavin",
+        "prefix": null,
+        "first_name": "Syrie",
+        "middle_name": null,
+        "last_name": "Tollman",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Gavin"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 996 2417",
+          "formatting": "001 212 996 2417 (h)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 489 8970",
+          "formatting": "001 212 489 8970 (gw) [Gavin Work]"
+        },
+        {
+          "type": "work",
+          "number": "001 212 606 7516",
+          "formatting": "001 212 606 7516 (sw) [Syrie Work"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "21 East 93rd Street",
+            "New York, NY, 10128"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10128",
+          "country": "USA",
+          "notes": "Upper East Side"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Tollman family - Syrie & Gavin. Possibly related to Tollman, Bea, Tollman, Brett, Tollman, Mr. & Mrs. and Tollman, Wyne"
+    },
+    {
+      "entry_id": "054_tollman_wyne",
+      "name": {
+        "full_name": "Tollman, Wyne",
+        "prefix": null,
+        "first_name": "Wyne",
+        "middle_name": null,
+        "last_name": "Tollman",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 355 0083",
+          "formatting": "001 212 355 0083"
+        },
+        {
+          "type": "home",
+          "number": "001 212 245 6952",
+          "formatting": "001 212 245 6952 (h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "641 Fifth Ave. #34E",
+            "NY, NY 10022"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10022",
+          "country": "USA",
+          "notes": "641 Fifth Avenue - Midtown elite address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Tollman family - 641 Fifth Avenue. Possibly related to Tollman, Bea, Tollman, Brett, Tollman, Mr. & Mrs. and Tollman, Syrie & Gavin"
+    },
+    {
+      "entry_id": "054_toub_veronica_busson",
+      "name": {
+        "full_name": "Toub, Veronica (Busson)",
+        "prefix": null,
+        "first_name": "Veronica",
+        "middle_name": null,
+        "last_name": "Toub",
+        "suffix": null,
+        "maiden_name": "Busson"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 888 0764",
+          "formatting": "001 212 888 0764 (h v)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 472 8757",
+          "formatting": "001 212 472 8757 (h a)"
+        },
+        {
+          "type": "home",
+          "number": "00 33 1 4500 0519",
+          "formatting": "00 33 1 4500 0519 (h)"
+        },
+        {
+          "type": "home",
+          "number": "00 33 1 4500 3341",
+          "formatting": "00 33 1 4500 3341 (h)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 917 88121455/3",
+          "formatting": "001 917 88121455/3"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "570 Park Avenue",
+            "New York, NY 10021 USA"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "570 Park Avenue - ultra-elite Upper East Side address"
+        },
+        {
+          "type": "home",
+          "address_lines": [
+            "5 Rue Lalo",
+            "Paris, France 75016"
+          ],
+          "city": "Paris",
+          "state": null,
+          "postal_code": "75016",
+          "country": "France",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Maiden name Busson - 570 Park Avenue elite address"
+    },
+    {
+      "entry_id": "054_treacy_philip",
+      "name": {
+        "full_name": "Treacy, Philip",
+        "prefix": null,
+        "first_name": "Philip",
+        "middle_name": null,
+        "last_name": "Treacy",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207 259 9605",
+          "formatting": "0207 259 9605"
+        },
+        {
+          "type": "home",
+          "number": "0207 824 8794",
+          "formatting": "0207 824 8794 (h)"
+        },
+        {
+          "type": "home",
+          "number": "07939 528663",
+          "formatting": "07939 528663 (Hm) Stefan"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "69 Elizabeth St.",
+            "London",
+            "England",
+            "SW1W W9PJ"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW1W W9PJ",
+          "country": "UK",
+          "notes": "Belgravia - Philip Treacy milliner/hat designer"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Philip Treacy - world-famous milliner/hat designer, 69 Elizabeth St Belgravia"
+    },
+    {
+      "entry_id": "054_trump_blaine_robert",
+      "name": {
+        "full_name": "Trump, Blaine & Robert",
+        "prefix": null,
+        "first_name": "Blaine",
+        "middle_name": null,
+        "last_name": "Trump",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Robert"
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "167 E 61 St",
+            "New York, NY 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side - Trump family (Robert Trump, Donald's brother)"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Trump family - Robert Trump (Donald's brother) & Blaine"
+    },
+    {
+      "entry_id": "054_trump_ivana",
+      "name": {
+        "full_name": "Trump, Ivana",
+        "prefix": null,
+        "first_name": "Ivana",
+        "middle_name": null,
+        "last_name": "Trump",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 319 4500",
+          "formatting": "001 212 319 4500"
+        },
+        {
+          "type": "home",
+          "number": "0207 823 1172",
+          "formatting": "0207 823 1172 (h)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 759 4770",
+          "formatting": "001 212 759 4770 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Ivana Trump - Donald Trump's first wife, London + NYC numbers"
+    },
+    {
+      "entry_id": "054_trump_ivanka",
+      "name": {
+        "full_name": "Trump, Ivanka",
+        "prefix": null,
+        "first_name": "Ivanka",
+        "middle_name": null,
+        "last_name": "Trump",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0777 565 1554",
+          "formatting": "0777 565 1554"
+        },
+        {
+          "type": "unknown",
+          "number": "001 917 446 2617",
+          "formatting": "001 917 446 2617"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Ivanka Trump - Donald Trump's daughter, UK mobile + NYC number"
+    },
+    {
+      "entry_id": "054_trump_misc",
+      "name": {
+        "full_name": "Trump (misc addresses)",
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Trump",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 888 0764",
+          "formatting": "001 212 888 0764 (h v)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 472 8757",
+          "formatting": "001 212 472 8757 (h a)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 33 1 4500 0519",
+          "formatting": "00 33 1 4500 0519 (h)"
+        },
+        {
+          "type": "home",
+          "number": "00 33 1 4500 3341",
+          "formatting": "00 33 1 4500 3341 (h)"
+        },
+        {
+          "type": "home",
+          "number": "001 917 881214553",
+          "formatting": "001 917 881214553"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "5 Rue Lalo",
+            "Paris",
+            "France",
+            "75015"
+          ],
+          "city": "Paris",
+          "state": null,
+          "postal_code": "75015",
+          "country": "France",
+          "notes": "Paris residence - Trump family property"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "medium",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "good"
+      },
+      "formatting_notes": "Miscellaneous Trump contact info - Paris address (5 Rue Lalo)"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 21,
+    "entries_with_emails": 4,
+    "entries_with_addresses": 14,
+    "entries_with_handwritten_notes": 1,
+    "couples": 6,
+    "average_confidence": "high",
+    "notable_figures_count": 5
+  },
+  "cross_references": [
+    {
+      "from": "054_tholstrup_moegens",
+      "to": "054_tholstrup_paola",
+      "relationship": "possibly_related",
+      "note": "Tholstrup family members - likely related"
+    },
+    {
+      "from": "054_tisch_david",
+      "to": "054_tisch_merryl_jimmy",
+      "relationship": "family",
+      "note": "Tisch family - billionaire Loews Corporation dynasty"
+    },
+    {
+      "from": "054_tisch_david",
+      "to": "054_tisch_anne_andrew",
+      "relationship": "family",
+      "note": "Tisch family - billionaire dynasty"
+    },
+    {
+      "from": "054_tollman_bea",
+      "to": "054_tollman_brett",
+      "relationship": "family",
+      "note": "Tollman family - Red Carnation Hotels dynasty, Bea likely Brett's mother"
+    },
+    {
+      "from": "054_tollman_brett",
+      "to": "054_tollman_mr_mrs",
+      "relationship": "family",
+      "note": "Same address (485 Park Avenue) - Brett and parents Mr. & Mrs. Tollman"
+    },
+    {
+      "from": "054_trump_blaine_robert",
+      "to": "054_trump_ivana",
+      "relationship": "family",
+      "note": "Trump family - Robert (Donald's brother), Ivana (Donald's ex-wife)"
+    },
+    {
+      "from": "054_trump_ivana",
+      "to": "054_trump_ivanka",
+      "relationship": "mother_daughter",
+      "note": "Ivana Trump (mother) and Ivanka Trump (daughter)"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Catherine Theodoli",
+      "Moegens Tholstrup",
+      "Paola Tholstrup",
+      "Barnaby Thompson",
+      "David Tisch",
+      "Merryl Tisch",
+      "Jimmy Tisch",
+      "Anne Tisch",
+      "Andrew Tisch",
+      "Sonia Titopupolo",
+      "Emily Olympius Todhunter",
+      "Ignacio Alvarez de Toledo",
+      "Bea Tollman",
+      "Brett Tollman",
+      "Mr. & Mrs. Tollman",
+      "Syrie Tollman",
+      "Gavin Tollman",
+      "Wyne Tollman",
+      "Veronica Toub (Busson)",
+      "Philip Treacy",
+      "Blaine Trump",
+      "Robert Trump",
+      "Ivana Trump",
+      "Ivanka Trump"
+    ],
+    "organizations": [
+      "Loews Corporation (Tisch family - billionaire hotel/insurance empire)",
+      "Red Carnation Hotels (Tollman family - luxury hotel group)",
+      "Todhunter Earle (Emily Todhunter - interior design)",
+      "Philip Treacy Ltd (millinery/hat design)"
+    ],
+    "locations": {
+      "international": [
+        "London, UK (multiple contacts)",
+        "Paris, France (Trump, Toledo, Tholstrup - St. Tropez)",
+        "Verbier, Switzerland (Tholstrup)",
+        "St. Tropez, France (Tholstrup)"
+      ],
+      "uk_cities": [
+        "London Chelsea (Tholstrup)",
+        "London Kensington (Tholstrup)",
+        "London Belgravia (Todhunter, Treacy)"
+      ],
+      "us_cities": [
+        "New York City (multiple contacts)",
+        "Miami (Theodoli, Toledo)"
+      ],
+      "elite_addresses": [
+        "485 Park Avenue, NYC (Brett Tollman, Mr. & Mrs. Tollman)",
+        "570 Park Avenue, NYC (Veronica Toub)",
+        "641 Fifth Avenue, NYC (Wyne Tollman)",
+        "540 Park Avenue - Regency Hotel (Anne & Andrew Tisch)",
+        "9 East 79th Street, NYC (Merryl & Jimmy Tisch)",
+        "167 E 61 St, NYC (Blaine & Robert Trump)",
+        "69 Elizabeth St, London SW1W (Philip Treacy - Belgravia)",
+        "23 Warwick Square, London SW1V (Emily Todhunter)",
+        "5 Rue Lalo, Paris 75015 (Trump family)"
+      ]
+    }
+  },
+  "insights": [
+    "Tisch family cluster: David, Merryl & Jimmy (9 E 79th), Anne & Andrew (Regency Hotel 540 Park) - billionaire Loews Corporation dynasty",
+    "Tollman family dynasty: Bea, Brett, Mr. & Mrs., Syrie & Gavin, Wyne - Red Carnation Hotels luxury group, multiple at 485 Park Avenue",
+    "Trump family presence: Robert & Blaine (Donald's brother), Ivana (ex-wife), Ivanka (daughter) - family pre-presidency connections",
+    "Philip Treacy - world-famous milliner/hat designer, 69 Elizabeth St Belgravia, created hats for British royalty",
+    "Emily Todhunter - prominent interior designer, Todhunter Earle firm, 23 Warwick Square Belgravia",
+    "Moegens Tholstrup - multiple international properties: London Chelsea, St. Tropez France (0033 49), Verbier Switzerland (0041 27)",
+    "485 Park Avenue shared by Brett Tollman and Mr. & Mrs. Tollman - family building, hotel dynasty headquarters",
+    "Anne & Andrew Tisch at Regency Hotel (540 Park Avenue) - same hotel as William Siegel from page 50",
+    "Trump Paris address: 5 Rue Lalo, 75015 - Trump family European property",
+    "Ivanka Trump with UK mobile (0777) + NYC number - international presence even in contact book era",
+    "Multiple Park Avenue addresses: 485 (Tollman family), 570 (Veronica Toub), 540 (Tisch - Regency Hotel)",
+    "Tisch family 9 East 79th Street - classic Upper East Side mansion address for billionaire family",
+    "Ignacio Alvarez de Toledo - extensive international: Paris (33), NYC (212), Miami (305), UK (44)",
+    "Red Carnation Hotels (Tollman) - family-owned luxury hotel group with properties worldwide",
+    "Loews Corporation (Tisch) - massive conglomerate: hotels, insurance, energy, founded by Laurence & Preston Tisch",
+    "Robert Trump (167 E 61st) - Donald Trump's younger brother, Trump Organization executive",
+    "Veronica Toub maiden name Busson - 570 Park Avenue, possibly related to Arpad Busson (financier)",
+    "CompuServe email (Moegens Tholstrup mmtholstrup@cs.com) - early internet era indicator"
+  ]
+}

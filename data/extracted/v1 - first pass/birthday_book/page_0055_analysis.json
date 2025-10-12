@@ -1,0 +1,162 @@
+{
+  "page_number": 55,
+  "file_path": "data/birthday_book_images/page_0055.png",
+  "file_size_mb": 2.506875991821289,
+  "type": "handwritten_note_and_photos",
+  "content": {
+    "text": "DEAR YOUR EVER SWINGIN STAR IS RAPIDLY RISE COME OUT OF YEARGIN WHERE COULD YOU HAVE IT ON YOUR CONFERENCE NOW YOU\n\n[Handwritten note in blue/purple ink:]\nBack in the night\nwit at the net bright\nBut you thought yer light\nyour dreams are\nthe ones caused by nite bite\nKeep too busy or\nLee\n- Jeff Hinton",
+    "handwritten": true,
+    "typed": true,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "[Typed text on left:]\nDEAR YOUR EVER SWINGIN STAR\nIS RAPIDLY RISE\nCOME OUT OF\nYEARGIN WHERE\nCOULD YOU HAVE IT\nON YOUR CONFERENCE\nNOW YOU\n\n[Handwritten note in blue frame:]\nBack in the night\nwit at the net bright\nBut you thought yer light\nyour dreams are\nthe ones caused by nite bite\nKeep too busy or\nLee\n- Jeff Hinton",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeff Hinton",
+        "title": null,
+        "context": "Signature on handwritten note",
+        "confidence": "high"
+      },
+      {
+        "name": "Lee",
+        "title": null,
+        "context": "Mentioned in handwritten note",
+        "confidence": "medium"
+      }
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Jeff",
+    "recipient": "J.",
+    "date": null,
+    "subject": "Personal note with photos",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "handwritten_note_and_photos"
+  },
+  "insights": [
+    "Typed cryptic message on left side - possibly coded or artistic",
+    "DEAR YOUR EVER SWINGIN STAR - unusual greeting format",
+    "Handwritten note in decorative frame/border",
+    "Poetic or stream-of-consciousness writing style",
+    "References to night, dreams, and nite bite",
+    "Signature from Jeff Hinton",
+    "Two photographs included - individual and group",
+    "Group photo shows 4 people on steps in 1970s attire",
+    "Mixed media presentation - typed text, handwritten note, photos",
+    "Purple/blue ink used for handwritten portion",
+    "Keep too busy or Lee - possible reference to person",
+    "Yeargin reference unclear - possible name or place",
+    "Conference mentioned in typed text",
+    "Artistic/creative presentation style",
+    "Personal memory collection format"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000055",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.145826",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Bottom left - Individual portrait",
+        "individual_count": 1,
+        "individuals_identified": [
+          {
+            "person": "Person in dark jacket",
+            "clothing": "Dark jacket/coat",
+            "setting": "Indoor"
+          }
+        ],
+        "photo_type": "Black and white photograph",
+        "era_indicators": [
+          "1970s-80s style clothing"
+        ]
+      },
+      {
+        "description": "Bottom right - Group photo on steps",
+        "individual_count": 4,
+        "individuals_identified": [
+          {
+            "person": "Four people sitting on brick/stone steps",
+            "arrangement": "Two rows on steps",
+            "clothing": "Casual 1970s attire"
+          }
+        ],
+        "photo_type": "Color photograph",
+        "setting": "Outdoor, brick or stone steps",
+        "era_indicators": [
+          "1970s fashion",
+          "Casual outdoor setting"
+        ]
+      }
+    ],
+    "signatures": [
+      {
+        "name": "Jeff Hinton",
+        "location": "Bottom of handwritten note",
+        "style": "Cursive signature"
+      }
+    ],
+    "logos": [],
+    "redactions": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Mixed media page - typed text, handwritten note, photographs",
+    "Handwritten note in blue/purple ink within decorative border",
+    "Typed text appears to be artistic or coded message",
+    "Two photographs from 1970s-80s era",
+    "Document stamped HOUSE_OVERSIGHT_000055",
+    "Signature identifies Jeff Hinton as note writer"
+  ],
+  "investigative_leads": [
+    "Identity of Jeff Hinton",
+    "Meaning of cryptic typed message",
+    "Identity of Lee mentioned in note",
+    "Yeargin reference - person or place",
+    "Identify individuals in photographs",
+    "Location of brick steps in group photo"
+  ]
+}

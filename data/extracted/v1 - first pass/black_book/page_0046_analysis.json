@@ -1,0 +1,710 @@
+{
+  "page_number": 46,
+  "alphabetical_section": "R",
+  "contacts": [
+    {
+      "name": "Rachline, Nicholas",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 718 237 2434",
+          "area_code": "718",
+          "geographic_indicator": "Brooklyn/Queens, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "202 393 3164",
+          "area_code": "202",
+          "geographic_indicator": "Washington DC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01 917 XXX 8955",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "516074 793 5211 uk cell",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Radziwill Carole",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "157 Park St",
+          "street": "157 Park St",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York, New York 10014",
+          "city": "New York",
+          "state": "New York",
+          "postal_code": "10014",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 432 1605(m)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "[illegible]@[illegible].net"
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "0207 451 2 [illegible]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "201 212 414 9 88(15)",
+          "area_code": "201",
+          "geographic_indicator": "New Jersey",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Radziwill family",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Rankin, Mr Gavin",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Clarence House",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW1A 1B4",
+          "city": "London",
+          "postal_code": "SW1A 1B4",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 839 6262",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 930 8440 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clarence House - Royal residence",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Rappaport Don",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 879 6700(h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "914 373 8082 (w)",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Ratazzi Isabel",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 980 8920",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 914 693 0030",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Raynes, Patty",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 966 1737 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 868 1658 (w)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 561 655 2000 (w) Palmer",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach, FL",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Reardon, Kate",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Ogron House",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "1 Canada Square",
+          "street": "1 Canada Square",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "London E14 XXX Island",
+          "city": "London",
+          "postal_code": "E14",
+          "geographic_indicator": "Canary Wharf, London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 261 0019",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 402 8128 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Reynal Michael",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 734 352 8893(m)",
+          "area_code": "734",
+          "geographic_indicator": "Ann Arbor/Detroit area, MI",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 646 943 6358[w]",
+          "area_code": "646",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Reynal, Miguel",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Westmount 334",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Quebec H3Z",
+          "province": "Quebec",
+          "postal_code": "H3Z",
+          "geographic_indicator": "Quebec, Canada",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Canada",
+          "country": "Canada",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 94 1 4499[14 21]",
+          "country_code": "94",
+          "geographic_indicator": "Sri Lanka",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Reza, Ali",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "90 Pantley House",
+          "street": "90 Pantley House",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Staytion Court Kingdom",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207100",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 365 9999 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 961 2602(w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "[illegible]@investec.com"
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "001 203 750 8850 (w)",
+          "area_code": "203",
+          "geographic_indicator": "Connecticut",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Robillant, Mr Edmondo di Maya",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "3 Warminster Road",
+          "street": "3 Warminster Road",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW19 XXX",
+          "city": "London",
+          "postal_code": "SW19",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0208 947 1000",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "012 713 41200(m)",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 937 1532 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 352 1023 (office)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Ribblet, Nick Rebecca Willie",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "73 Vanessa Street",
+          "street": "73 Vanessa Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London NW3",
+          "city": "London",
+          "postal_code": "NW3",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "020 8201 XXXXX",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Rixon Thomas Rupert",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 212XX",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Robin",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "917 856 9477 (g)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Rivers Joan",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1 E 62nd St",
+          "street": "1 E 62nd St",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York 10021",
+          "city": "New York",
+          "postal_code": "10021",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "1 212 644 2300(h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "1 818 840 7802",
+          "area_code": "818",
+          "geographic_indicator": "Los Angeles/Valley",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Joan Rivers - comedian/TV personality",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Robinski Keats/Pod",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "65 Battlesey Rise",
+          "street": "65 Battlesey Rise",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SE 220 UK",
+          "city": "London",
+          "postal_code": "SE220",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 351 2587 69",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0208 693[illegible]",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        "[illegible]@aol[illegible].co.uk"
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "07810 153 557 (g)",
+          "area_code": "07810",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Robert, Joseph & Jill",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "11603 Hacknz 800",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "McLean, VA 22100",
+          "city": "McLean",
+          "state": "VA",
+          "postal_code": "22100",
+          "geographic_indicator": "McLean, Virginia",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "703 714 0008",
+          "area_code": "703",
+          "geographic_indicator": "Northern Virginia",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "703 893 9025 (w)",
+          "area_code": "703",
+          "geographic_indicator": "Northern Virginia",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "703 714 4102 or 02",
+          "area_code": "703",
+          "geographic_indicator": "Northern Virginia",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Robeson, Jo & Lisa Shields",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 201 507 XXXXX[h]",
+          "area_code": "201",
+          "geographic_indicator": "New Jersey",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 914 332 8220(w)",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 203 656 4200 (Columbia)",
+          "area_code": "203",
+          "geographic_indicator": "Connecticut",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 916 612 0008(h)",
+          "area_code": "916",
+          "geographic_indicator": "Sacramento, CA",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 XXX XXX[m]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Roberts Deb",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 917 692 8734",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Rocksavage David",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207-408 XX XXXX",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Rocksavage - aristocratic title",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 20,
+    "quality": "fair",
+    "legibility": "moderate degradation",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "Joan Rivers - Comedian/TV personality",
+      "Carole Radziwill - Radziwill family",
+      "Mr Gavin Rankin - Clarence House (Royal residence)"
+    ]
+  },
+  "insights": [
+    "Joan Rivers - famous comedian and TV personality",
+    "Clarence House connection - Royal household staff",
+    "Carole Radziwill - connected to Kennedy family through marriage",
+    "Washington DC connection (202)",
+    "Ann Arbor/Detroit Michigan (734)",
+    "Quebec Canada presence",
+    "Sri Lanka connection (94 country code)",
+    "Palm Beach Florida continuing presence",
+    "McLean Virginia (Northern Virginia wealth corridor)",
+    "Sacramento California connection"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "high",
+    "total_contacts": 20,
+    "high_confidence": 14,
+    "medium_confidence": 5,
+    "low_confidence": 1,
+    "extraction_issues": [
+      "Some phone numbers partially illegible",
+      "Few addresses incomplete",
+      "Overall better legibility than previous pages"
+    ]
+  }
+}

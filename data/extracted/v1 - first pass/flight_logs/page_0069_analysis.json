@@ -1,0 +1,287 @@
+{
+  "page_number": 69,
+  "date_header": "SEPT 1999",
+  "time_period": "September 1999 - October 1999",
+  "aircraft": {
+    "registration": "Multiple (G-1159B N908JE, C-172, N23332L)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "5",
+      "date": "09/05/1999",
+      "departure": "G-1159B",
+      "arrival": "N908JE",
+      "flight_time": "",
+      "remarks": "SAF - SAE",
+      "passengers": [],
+      "crew": "1/6"
+    },
+    {
+      "entry_number": "7",
+      "date": "09/07/1999",
+      "departure": "",
+      "arrival": "SAE",
+      "flight_time": "1271",
+      "remarks": "TEB - JE, 3 KIDS, WENDYS NISA, MASON",
+      "passengers": ["JE", "3 KIDS", "WENDYS", "NISA", "MASON"],
+      "crew": "3/5"
+    },
+    {
+      "entry_number": "8",
+      "date": "09/08/1999",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1272",
+      "remarks": "SAE - JE, CLAIRE HAZEL",
+      "passengers": ["JE", "CLAIRE HAZEL"],
+      "crew": "1/4"
+    },
+    {
+      "entry_number": "8",
+      "date": "09/08/1999",
+      "departure": "",
+      "arrival": "CMH",
+      "flight_time": "1273",
+      "remarks": "TEB - JE, CLAIRE, MARILYN ALI, J ADLER",
+      "passengers": ["JE", "CLAIRE", "MARILYN ALI", "J ADLER"],
+      "crew": "1/8"
+    },
+    {
+      "entry_number": "9",
+      "date": "09/09/1999",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1274",
+      "remarks": "MBF - JE",
+      "passengers": ["JE"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "13",
+      "date": "09/13/1999",
+      "departure": "",
+      "arrival": "MBF",
+      "flight_time": "1294",
+      "remarks": "TEB - JE GM, PAULO GRACE, MANDY, MARITZA VASQUEZ, CLAIRE ET",
+      "passengers": ["JE", "GM", "PAULO GRACE", "MANDY", "MARITZA VASQUEZ", "CLAIRE", "ET"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "17",
+      "date": "09/17/1999",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1292",
+      "remarks": "MBF - JE, ANNIE FARMER, NANCY",
+      "passengers": ["JE", "ANNIE FARMER", "NANCY"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "19",
+      "date": "09/19/1999",
+      "departure": "C-172",
+      "arrival": "N23332L",
+      "flight_time": "",
+      "remarks": "LOGAN MILES - JG, KELLY SPAMM, SHELLY HARRISON, CELES, M 16",
+      "passengers": ["JG", "KELLY SPAMM", "SHELLY HARRISON", "CELES"],
+      "crew": "3/2"
+    },
+    {
+      "entry_number": "20",
+      "date": "09/20/1999",
+      "departure": "G-1159B",
+      "arrival": "N908JE",
+      "flight_time": "1295",
+      "remarks": "PBI - TEB - JE, GM, CLAIRE, ET",
+      "passengers": ["JE", "GM", "CLAIRE", "ET"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "22",
+      "date": "09/22/1999",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1296",
+      "remarks": "PBI",
+      "passengers": [],
+      "crew": "2/6"
+    },
+    {
+      "entry_number": "23",
+      "date": "09/23/1999",
+      "departure": "C-172",
+      "arrival": "N23332L",
+      "flight_time": "",
+      "remarks": "LOAD - EXC - ED AN AND CPL RENEWAL DAVID MAN CPL RENEWAL",
+      "passengers": ["ED", "DAVID MAN"],
+      "crew": "1/1"
+    },
+    {
+      "entry_number": "23",
+      "date": "09/23/1999",
+      "departure": "",
+      "arrival": "EXC",
+      "flight_time": "",
+      "remarks": "LNA",
+      "passengers": [],
+      "crew": "5"
+    },
+    {
+      "entry_number": "25",
+      "date": "09/25/1999",
+      "departure": "G-1159B",
+      "arrival": "N908JE",
+      "flight_time": "1300",
+      "remarks": "PBI - TIST - JE GM JG, BELLEY MORRIS",
+      "passengers": ["JE", "GM", "JG", "BELLEY MORRIS"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "26",
+      "date": "09/26/1999",
+      "departure": "",
+      "arrival": "TIST",
+      "flight_time": "1296",
+      "remarks": "TEB - JE, GM, N, SHELLEY HARRISON",
+      "passengers": ["JE", "GM", "N", "SHELLEY HARRISON"],
+      "crew": "3/8"
+    },
+    {
+      "entry_number": "27",
+      "date": "09/27/1999",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1282",
+      "remarks": "TIST - JE, SHELLEY LEWIS",
+      "passengers": ["JE", "SHELLEY LEWIS"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "9",
+      "date": "10/09/1999",
+      "departure": "",
+      "arrival": "TIST",
+      "flight_time": "",
+      "remarks": "PBI - JE, S KELLEY, LEWIS",
+      "passengers": ["JE", "S KELLEY", "LEWIS"],
+      "crew": "2/6"
+    },
+    {
+      "entry_number": "11",
+      "date": "10/11/1999",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1307",
+      "remarks": "SAC - JE",
+      "passengers": ["JE"],
+      "crew": "3/3"
+    },
+    {
+      "entry_number": "12",
+      "date": "10/12/1999",
+      "departure": "",
+      "arrival": "SAC",
+      "flight_time": "1286",
+      "remarks": "TEB - JE, SOPHIE BIDDLE",
+      "passengers": ["JE", "SOPHIE BIDDLE"],
+      "crew": "3/8"
+    },
+    {
+      "entry_number": "14",
+      "date": "10/14/1999",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1291",
+      "remarks": "BED - JE, GM, N, ANDREI ROSA GAVALJET",
+      "passengers": ["JE", "GM", "N", "ANDREI ROSA GAVALJET"],
+      "crew": "9"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "GM",
+      "JG",
+      "ET",
+      "3 KIDS",
+      "WENDYS",
+      "NISA",
+      "MASON",
+      "CLAIRE HAZEL",
+      "CLAIRE",
+      "MARILYN ALI",
+      "J ADLER",
+      "PAULO GRACE",
+      "MANDY",
+      "MARITZA VASQUEZ",
+      "ANNIE FARMER",
+      "NANCY",
+      "KELLY SPAMM",
+      "SHELLY HARRISON",
+      "CELES",
+      "ED",
+      "DAVID MAN",
+      "BELLEY MORRIS",
+      "N",
+      "SHELLEY HARRISON",
+      "SHELLEY LEWIS",
+      "S KELLEY",
+      "LEWIS",
+      "SOPHIE BIDDLE",
+      "ANDREI ROSA GAVALJET",
+      "David Rodgers"
+    ],
+    "locations": [
+      "SAF",
+      "SAE",
+      "TEB",
+      "CMH",
+      "MBF",
+      "PBI",
+      "LOGAN MILES",
+      "LOAD",
+      "EXC",
+      "LNA",
+      "TIST",
+      "SAC",
+      "BED"
+    ],
+    "aircraft": [
+      "G-1159B",
+      "N908JE",
+      "C-172",
+      "N23332L"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "10/14",
+    "amount_forward": "16190",
+    "total_to_date": "16680",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page continues from September 1999",
+    "Annie Farmer appears as passenger on 9/17/1999",
+    "Multiple appearances of Shelley/Shelly Harrison and Shelley Lewis",
+    "Claire Hazel continues as recurring passenger",
+    "Sophie Biddle appears as passenger",
+    "Multiple Caribbean operations to TIST (St. Thomas)",
+    "C-172 aircraft operations noted (training flights)",
+    "CPL renewal entries suggest pilot certification activities",
+    "Flight numbers reach 1307",
+    "Mix of passenger transport and training operations"
+  ]
+}

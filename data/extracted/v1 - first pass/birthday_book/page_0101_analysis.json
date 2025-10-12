@@ -1,0 +1,145 @@
+{
+  "page_number": 101,
+  "file_path": "data/birthday_book_images/page_0101.png",
+  "file_size_mb": 2.0682764053344727,
+  "type": "photo_page",
+  "content": {
+    "text": "Are you sure this will make any wiser?\n[Top photo: People in bookstore/library]\nOr my never was those years before!\n[Middle photo: Street scene with boxes/delivery]\nWaiting for my last moving\n[Bottom photo: Interior room scene]",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "Are you sure this will make any wiser? (top caption)\nOr my never was those years before! (middle caption)\nWaiting for my last moving (bottom caption)",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "[Multiple people in bookstore/library - top photo]",
+        "context": "3-4 people visible in bookstore setting",
+        "confidence": "high"
+      },
+      {
+        "name": "[Person on street - middle photo]",
+        "context": "Standing near boxes/delivery items",
+        "confidence": "high"
+      },
+      {
+        "name": "[Person in interior - bottom photo]",
+        "context": "Indoor room setting",
+        "confidence": "medium"
+      }
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": null,
+    "significance": "medium",
+    "theme": null,
+    "document_type": "photo_page"
+  },
+  "insights": [
+    "Page contains three photographs with handwritten captions",
+    "Handwriting appears casual and informal",
+    "Photos appear to be personal snapshots from various locations",
+    "Content suggests informal photo album or scrapbook style"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000101",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.169806",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Three photographs showing various scenes including people in what appears to be an office or library setting",
+        "individual_count": 4,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": null,
+        "era_indicators": [],
+        "photo_quality": null,
+        "photo_type": null
+      },
+      {
+        "description": "Middle photo shows a street scene with person standing near vehicles",
+        "individual_count": 4,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": null,
+        "era_indicators": [],
+        "photo_quality": null,
+        "photo_type": null
+      },
+      {
+        "description": "Bottom photo appears to be an indoor scene with furniture and lighting",
+        "individual_count": 4,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": null,
+        "era_indicators": [],
+        "photo_quality": null,
+        "photo_type": null
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Three color photographs with handwritten captions",
+    "Top photo: 3-4 people in bookstore/library with bookshelves",
+    "Caption: 'Are you sure this will make any wiser?'",
+    "Middle photo: Street scene with person and stacked boxes/packages",
+    "Caption: 'Or my never was those years before!'",
+    "Bottom photo: Dark interior room with furniture and lighting",
+    "Caption: 'Waiting for my last moving'",
+    "Photos appear to document moving or relocation activities",
+    "Handwriting in cursive, informal style",
+    "Photos from 1980s-1990s based on quality and style",
+    "Document stamped HOUSE_OVERSIGHT_000101",
+    "Theme suggests life transitions or relocations"
+  ],
+  "investigative_leads": []
+}

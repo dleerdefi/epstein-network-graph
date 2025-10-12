@@ -1,0 +1,182 @@
+{
+  "page_number": 51,
+  "file_path": "data/birthday_book_images/page_0051.png",
+  "file_size_mb": 1.502274513244629,
+  "type": "photos_and_article",
+  "content": {
+    "text": "BACHELOR OF THE MONTH\n\n\u2610 Financial strategist Jeffrey Epstein, 27, talks only to people who make over a million a year! If you're 'a cute Texas girl,' write this New York dynamo at 55 Water St., 49th floor, N.Y.C. 10041.\nPHOTO BY STEPHEN OGILVY",
+    "handwritten": false,
+    "typed": true,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "BACHELOR OF THE MONTH (yellow text)\n\u2610 Financial strategist Jeffrey Epstein, 27, talks only to people who make over a million a year! If you're 'a cute Texas girl,' write this New York dynamo at 55 Water St., 49th floor, N.Y.C. 10041.\nPHOTO BY STEPHEN OGILVY",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [
+        "BACHELOR OF THE MONTH",
+        "PHOTO BY STEPHEN OGILVY"
+      ],
+      "margins": [
+        "HOUSE_OVERSIGHT_000051 (bottom right)"
+      ],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "title": "Financial strategist",
+        "age": "27",
+        "context": "Subject of Bachelor of the Month feature",
+        "confidence": "high"
+      },
+      {
+        "name": "Stephen Ogilvy",
+        "title": "Photographer",
+        "context": "Photo credit",
+        "confidence": "high"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      "Texas",
+      "New York",
+      "55 Water St., 49th floor, N.Y.C. 10041"
+    ],
+    "dates": [
+      {
+        "reference": "Age 27",
+        "context": "Jeffrey Epstein age at time of article",
+        "confidence": "high"
+      }
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [
+      {
+        "address": "55 Water St., 49th floor, N.Y.C. 10041",
+        "type": "Business address",
+        "confidence": "high"
+      }
+    ],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Financial strategist profile",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "photos_and_article"
+  },
+  "insights": [
+    "Bachelor of the Month feature about Jeffrey Epstein at age 27",
+    "Financial strategist professional title claimed",
+    "Only talks to people who make over a million a year - wealth focus",
+    "Seeking a cute Texas girl - specific geographic preference",
+    "New York dynamo - self-promotional language",
+    "55 Water Street address - Manhattan financial district location",
+    "49th floor - high-rise office indicating success/status",
+    "Article appears to be from magazine or publication",
+    "Yellow highlighting on BACHELOR OF THE MONTH header",
+    "Two photos: youth photo in polka dots and professional headshot",
+    "Photo credit to Stephen Ogilvy",
+    "Checkbox format suggests this is part of a series",
+    "ZIP code 10041 is Lower Manhattan financial district",
+    "Article tone is promotional/dating profile style",
+    "Contrasts youth photo with professional adult image"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000051",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.143905",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Top photo - Young man in polka dot shirt",
+        "individual_count": 1,
+        "individuals_identified": [
+          {
+            "person": "Young male",
+            "clothing": "White shirt with black polka dots, dark tie with pattern, dark pants, belt",
+            "age_estimate": "Teenager/young adult"
+          }
+        ],
+        "setting": "Indoor, curtains/drapes visible in background",
+        "photo_quality": "Color photograph, casual/candid style",
+        "era_indicators": [
+          "1960s-70s fashion",
+          "Polka dot pattern shirt",
+          "Style of photograph"
+        ]
+      },
+      {
+        "description": "Bottom right photo - Professional headshot",
+        "individual_count": 1,
+        "individuals_identified": [
+          {
+            "person": "Jeffrey Epstein",
+            "clothing": "Dark suit and tie",
+            "age_estimate": "27 years old",
+            "appearance": "Professional business attire, curly dark hair"
+          }
+        ],
+        "setting": "Professional portrait setting",
+        "photo_quality": "Black and white professional photograph",
+        "era_indicators": [
+          "1980s business attire",
+          "Professional headshot style"
+        ]
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Article clipping from unknown publication",
+    "Yellow highlighting added to BACHELOR OF THE MONTH",
+    "Two distinct photos from different time periods",
+    "Professional photography credit included",
+    "Document stamped HOUSE_OVERSIGHT_000051",
+    "Article appears cut from larger publication"
+  ],
+  "investigative_leads": [
+    "Publication source for Bachelor of the Month article",
+    "Date of article (when Epstein was 27 - circa 1980)",
+    "Stephen Ogilvy photographer identity",
+    "55 Water Street office location and tenants",
+    "Texas connection mentioned in article",
+    "Financial strategist claims at age 27"
+  ]
+}

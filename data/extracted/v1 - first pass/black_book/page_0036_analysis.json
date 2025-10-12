@@ -1,0 +1,667 @@
+{
+  "page_number": 36,
+  "alphabetical_section": "M",
+  "contacts": [
+    {
+      "name": "Mavroleon, Manoli",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "69 Elmwood Court",
+          "street": "69 Elmwood Court",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "86 Draycott Place",
+          "street": "86 Draycott Place",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW3",
+          "city": "London",
+          "postal_code": "SW3",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 93 9873 1168",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Mavroleon, Mr Bluey",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "14 Cheesecake",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Hill[address]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 286 887[2]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Mavroleon, Nicholas & Barbara",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 917 474 6800 9",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 452 52425",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Maxwell & Laurena, Ms Anne",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "17 Thornwood Ave",
+          "street": "17 Thornwood Ave",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "S W 10",
+          "postal_code": "SW10",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "London",
+          "city": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 351 5906(h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 33 3 93XXXXX",
+          "country_code": "33",
+          "area_code": "3",
+          "geographic_indicator": "France",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "South France practice",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 4221 0121",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Maxwell Melius, Christina",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "133 Los jardins de Montmartre",
+          "street": "133 Los jardins de Montmartre",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Cannes 14930, France",
+          "city": "Cannes",
+          "postal_code": "14930",
+          "country": "France",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 33 04 4 3896 XXXX(h)",
+          "country_code": "33",
+          "area_code": "04",
+          "geographic_indicator": "South France",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "00333 444314789930",
+          "country_code": "33",
+          "confidence": "low"
+        }
+      ],
+      "emails": [
+        "[illegible]@msn.com"
+      ],
+      "addresses_additional": [
+        {
+          "type": "secondary",
+          "address": "New[building]7555 Rosewood",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "Chicago, USA 60615",
+          "city": "Chicago",
+          "state": "USA",
+          "postal_code": "60615",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "001 773 288 0707",
+          "area_code": "773",
+          "geographic_indicator": "Chicago, IL",
+          "confidence": "high"
+        }
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "001 416 946 X13 office[base]",
+          "area_code": "416",
+          "geographic_indicator": "Toronto, Canada",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 773 841 2000 (m)",
+          "area_code": "773",
+          "geographic_indicator": "Chicago, IL",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 916 927 4946 (h)",
+          "area_code": "916",
+          "geographic_indicator": "Sacramento, CA",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Maxwell, Sir",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "11 Lawrence House",
+          "street": "11 Lawrence House",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Candy Street",
+          "street": "Candy Street",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "London E1",
+          "city": "London",
+          "postal_code": "E1",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Maxwell, Debbie",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "01892 861 461021",
+          "area_code": "01892",
+          "geographic_indicator": "Tunbridge Wells, UK",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Maxwell, Dr & Mrs Philip",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "82 Paradise St",
+          "street": "82 Paradise St",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Richmond",
+          "city": "Richmond",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "NSW 1044",
+          "state": "NSW",
+          "postal_code": "1044",
+          "geographic_indicator": "New South Wales, Australia",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0208 948[illegible]",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0208 332 7280(h)",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01903 243087 (w)",
+          "area_code": "01903",
+          "geographic_indicator": "Worthing, UK",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Doctor couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Maxwell, Isabel",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1776 Ocean Street",
+          "street": "1776 Ocean Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "San Francisco CA 94133",
+          "city": "San Francisco",
+          "state": "CA",
+          "postal_code": "94133",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 650 968 58112",
+          "area_code": "650",
+          "geographic_indicator": "San Francisco Bay Area",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "E-mail: Grossman@[illegible].com"
+      ],
+      "addresses_additional": [
+        {
+          "type": "secondary",
+          "address": "Foxglove Cottage",
+          "confidence": "medium"
+        },
+        {
+          "type": "secondary",
+          "address": "P.o. Box Catt. Horsey and Anne",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "Everglad Cinema",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "W 441305",
+          "postal_code": "W 441305",
+          "confidence": "low"
+        }
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "001 415 626 9026 (h)",
+          "area_code": "415",
+          "geographic_indicator": "San Francisco, CA",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 415 346 9706 (o)",
+          "area_code": "415",
+          "geographic_indicator": "San Francisco, CA",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 415 941 5700",
+          "area_code": "415",
+          "geographic_indicator": "San Francisco, CA",
+          "confidence": "high"
+        }
+      ],
+      "addresses_additional2": [
+        {
+          "type": "secondary",
+          "address": "5390. 13th street (e)",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "France",
+          "country": "France",
+          "confidence": "medium"
+        },
+        {
+          "type": "secondary",
+          "address": "0144031 004-1 (fax)",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Maxwell family member",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Maxwell, Kit & Tara",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "18 Hyde Park Gate [h]",
+          "street": "18 Hyde Park Gate",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London",
+          "city": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "S.W.7",
+          "postal_code": "SW7",
+          "geographic_indicator": "South Kensington, London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 584 4683(h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "[illegible]@msn.com"
+      ],
+      "addresses_additional": [
+        {
+          "type": "secondary",
+          "address": "Headmaster House Summerfields Sch[ool]",
+          "confidence": "medium"
+        },
+        {
+          "type": "secondary",
+          "address": "127 Kidmore Square",
+          "confidence": "medium"
+        }
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "Oxford",
+          "city": "Oxford",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01865 [illegible] Direct [h]",
+          "area_code": "01865",
+          "geographic_indicator": "Oxford, UK",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0208 789 0051 (w)",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0208 776 0052 (h)",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0208 777 0052 (m)",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "079179 752 455 Nick (m)",
+          "area_code": "07917",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry, Hyde Park Gate address",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Maxwell, Kevin and Pandora",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Moulsford Heath",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Moulsford, Wallingford",
+          "city": "Moulsford",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0X10 9JS",
+          "postal_code": "OX10 9JS",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01491 682065 (h)",
+          "area_code": "01491",
+          "geographic_indicator": "Wallingford, UK",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "[illegible]@maxwellk.com"
+      ],
+      "addresses_additional": [
+        {
+          "type": "secondary",
+          "address": "Tetratech Media Network",
+          "confidence": "medium"
+        },
+        {
+          "type": "secondary",
+          "address": "1 Lyric Square",
+          "street": "1 Lyric Square",
+          "confidence": "high"
+        }
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "W6 0NS",
+          "postal_code": "W6 0NS",
+          "geographic_indicator": "West London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 348 5598[h]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 348 9400 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0374 854 907 Kevin Cell",
+          "area_code": "0374",
+          "geographic_indicator": "UK mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "C 374 854 067 Pandora [m]",
+          "area_code": "374",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "01 491 872 0XX[h]",
+          "area_code": "01491",
+          "geographic_indicator": "Wallingford, UK",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "01 491 [illegible]0 XX [f]",
+          "area_code": "01491",
+          "geographic_indicator": "Wallingford, UK",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 498 83004X00 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Kevin Maxwell - Robert Maxwell's son, couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 11,
+    "quality": "poor",
+    "legibility": "heavily degraded",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "Isabel Maxwell - Maxwell family member",
+      "Kevin Maxwell - Robert Maxwell's son"
+    ]
+  },
+  "insights": [
+    "Strong Maxwell family presence on this page",
+    "Isabel Maxwell - San Francisco tech connection",
+    "Kevin Maxwell - Robert Maxwell's son with media business",
+    "Hyde Park Gate address - prestigious London location",
+    "San Francisco Bay Area tech presence (650, 415 area codes)",
+    "Chicago connection (773 area code)",
+    "Sacramento connection (916 area code)",
+    "Toronto connection (416 area code)",
+    "New South Wales, Australia reference",
+    "Cannes, France property connections"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "medium",
+    "total_contacts": 11,
+    "high_confidence": 7,
+    "medium_confidence": 3,
+    "low_confidence": 1,
+    "extraction_issues": [
+      "Heavy page degradation",
+      "Multiple illegible sections",
+      "Complex multi-address entries",
+      "Some phone numbers partially obscured"
+    ]
+  }
+}

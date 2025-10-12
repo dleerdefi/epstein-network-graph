@@ -1,0 +1,141 @@
+{
+  "page_number": 49,
+  "file_path": "data/birthday_book_images/page_0049.png",
+  "file_size_mb": 2.642892837524414,
+  "type": "memorabilia_collage",
+  "content": {
+    "text": "Collection of personal documents including: Sea Gate Association membership card #7461; Mark Twain Junior High School Hall Pass dated May 31, 1974 with EXPIRE stamp; Brooklyn Tech student ID photo from 1974; Various transit passes and tickets; Certificate with text about Epstein's time at Mark Twain.",
+    "handwritten": true,
+    "typed": true,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "Collection of personal documents including: Sea Gate Association membership card #7461; Mark Twain Junior High School Hall Pass dated May 31, 1974 with EXPIRE stamp; Brooklyn Tech student ID photo from 1974; Various transit passes and tickets; Certificate with text about Epstein's time at Mark Twain.",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Perry S.",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          49
+        ]
+      },
+      {
+        "name": "Jeffrey E.",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          49
+        ]
+      }
+    ],
+    "organizations": [
+      "Sea Gate Association",
+      "Mark Twain Junior High School",
+      "Brooklyn Tech",
+      "Mark Twain Transit"
+    ],
+    "locations": [
+      "Sea Gate",
+      "Brooklyn"
+    ],
+    "dates": [
+      "May 31, 1974",
+      "EXPIRES MAY 31, 1974",
+      "June 3, 1974"
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": "1974",
+    "subject": "School memorabilia and documents from teenage years",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "memorabilia_collage"
+  },
+  "insights": [
+    "Shows Epstein's connection to Mark Twain Junior High School in 1974",
+    "Brooklyn Tech student ID from his high school years",
+    "Sea Gate Association membership indicating residence in that community",
+    "Various transit and hall passes from school days",
+    "Photo shows young Epstein with distinctive curly hair"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000049",
+  "processed_at": "2025-09-23 03:30:00",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.143088",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Student ID photo showing young man with dark curly hair",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": null,
+        "era_indicators": [],
+        "photo_quality": null,
+        "photo_type": null
+      }
+    ],
+    "signatures": [
+      {
+        "identified_as": "Multiple signatures on documents",
+        "confidence": "medium",
+        "style": null,
+        "characteristics": [],
+        "location": null,
+        "matches_pages": []
+      }
+    ],
+    "logos": [
+      "Sea Gate Association logo"
+    ],
+    "redactions": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [],
+  "investigative_leads": []
+}

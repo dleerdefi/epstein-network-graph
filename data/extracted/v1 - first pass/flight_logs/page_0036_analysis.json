@@ -1,0 +1,306 @@
+{
+  "page_number": 36,
+  "document_type": "Flight Log",
+  "metadata": {
+    "time_period": "June - July 1995",
+    "header_date": "1995 JUL",
+    "pilot": "David Rodgers",
+    "aircraft_registration": "N908JE",
+    "aircraft_make_model": "G1159B",
+    "total_flight_time_page": "36:08",
+    "amt_forward": "6435:41",
+    "total_to_date": "6471:49"
+  },
+  "flights": [
+    {
+      "date": "06/25/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:04",
+      "passengers": "JE, SEAN ANTHONY ANDY STEWART",
+      "crew": "",
+      "remarks": "RECORDING REISSUED",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "06/30/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "STANSTED",
+      "arrival": "SAV",
+      "flight_time": "5:00",
+      "passengers": "",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "07/01/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "CMH",
+      "flight_time": "1:07",
+      "passengers": "JE, AS, STEPHANIE, JULIE, JENNIFER",
+      "crew": "",
+      "remarks": "MICHAEL COLLIN, AS JENNIFER, STEPHANIE",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "07/11/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "CMH",
+      "arrival": "TEB",
+      "flight_time": "1:09",
+      "passengers": "JENNIFER BOSTON OPS, JEFF GARRISON",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "07/13/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "SAN",
+      "flight_time": "5:03",
+      "passengers": "JE, GM, PB, DAVID BOIES, JEFF GARRISON",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "07/14/1995",
+      "aircraft": "PRBE Subject",
+      "departure": "HNG-1800-HNG-05 JB CODE HNG",
+      "arrival": "",
+      "flight_time": "2:06",
+      "passengers": "ALL REEF ENERGY FUNDS INC BOX FD ATLANTA",
+      "crew": "",
+      "remarks": "JEFF GARRISON STEPHANIE REF",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "07/16/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "SAV",
+      "arrival": "SAN",
+      "flight_time": "1:05",
+      "passengers": "JE, CLASSIC DOUGLAS, RODNEY",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "07/16/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "SAN",
+      "arrival": "LAX",
+      "flight_time": "1:04",
+      "passengers": "JE, CLASSIC CAROL, HELEN, RODNEY",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "07/18/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "LAX",
+      "arrival": "LAS",
+      "flight_time": "1:06",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "07/18/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "LAS",
+      "arrival": "SAC",
+      "flight_time": "1:11",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "07/19/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "SAC",
+      "arrival": "CMH",
+      "flight_time": "2:05",
+      "passengers": "JE, PB, MARY GRIFFITH, ALISON, FRANK",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "07/19/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "CMH",
+      "arrival": "TEB",
+      "flight_time": "1:10",
+      "passengers": "JE, PB, MITCHELL, ALISON FRANK",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "07/21/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:06",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "07/23/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "HTS",
+      "flight_time": "1:07",
+      "passengers": "JE, 1 PRESCOE",
+      "crew": "JEFF GARRISON",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "07/23/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "HTS",
+      "arrival": "CMH",
+      "flight_time": "1:08",
+      "passengers": "JE",
+      "crew": "JEFF GARRISON",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "07/25/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "CMH",
+      "arrival": "TEB",
+      "flight_time": "1:10",
+      "passengers": "JE, GM, MK KEATING, ANDY KOTOWSKI",
+      "crew": "JEFF GARRISON",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "07/25/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:02",
+      "passengers": "JE, GM, AS",
+      "crew": "JEFF GARRISON",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "07/26/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "CMH",
+      "flight_time": "2:05",
+      "passengers": "JE, GM",
+      "crew": "JEFF GARRISON",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "07/27/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "CMH",
+      "arrival": "PBI",
+      "flight_time": "2:04",
+      "passengers": "JE, GM",
+      "crew": "JEFF GARRISON",
+      "landings": "1",
+      "aircraft_category": "V"
+    }
+  ],
+  "entities": {
+    "people": [
+      {"name": "Jeffrey Epstein", "abbreviation": "JE", "role": "Primary passenger"},
+      {"name": "Ghislaine Maxwell", "abbreviation": "GM", "role": "Frequent passenger"},
+      {"name": "Sean Anthony", "role": "Passenger"},
+      {"name": "Andy Stewart", "abbreviation": "AS", "role": "Regular passenger"},
+      {"name": "Stephanie", "role": "Passenger"},
+      {"name": "Julie", "role": "Passenger"},
+      {"name": "Jennifer", "role": "Passenger"},
+      {"name": "Michael Collin", "role": "Passenger"},
+      {"name": "Jennifer Pinkerton", "role": "Passenger"},
+      {"name": "Jennifer Boston", "role": "Passenger"},
+      {"name": "Jeff Garrison", "role": "Crew member/Passenger"},
+      {"name": "David Boies", "abbreviation": "PB", "role": "Passenger (prominent attorney)"},
+      {"name": "Douglas", "role": "Passenger"},
+      {"name": "Rodney", "role": "Passenger"},
+      {"name": "Carol", "role": "Passenger"},
+      {"name": "Helen", "role": "Passenger"},
+      {"name": "Mary Griffith", "role": "Passenger"},
+      {"name": "Alison", "role": "Passenger"},
+      {"name": "Frank", "role": "Passenger"},
+      {"name": "Mitchell", "role": "Passenger"},
+      {"name": "Prescoe", "role": "Passenger"},
+      {"name": "MK Keating", "role": "Passenger"},
+      {"name": "Andy Kotowski", "role": "Passenger"},
+      {"name": "David Rodgers", "role": "Pilot"}
+    ],
+    "locations": [
+      {"code": "TEB", "name": "Teterboro Airport", "location": "Teterboro, NJ"},
+      {"code": "PBI", "name": "Palm Beach International Airport", "location": "West Palm Beach, FL"},
+      {"code": "STANSTED", "name": "London Stansted Airport", "location": "London, UK"},
+      {"code": "SAV", "name": "Savannah/Hilton Head International Airport", "location": "Savannah, GA"},
+      {"code": "CMH", "name": "John Glenn Columbus International Airport", "location": "Columbus, OH"},
+      {"code": "SAN", "name": "San Diego International Airport", "location": "San Diego, CA"},
+      {"code": "LAX", "name": "Los Angeles International Airport", "location": "Los Angeles, CA"},
+      {"code": "LAS", "name": "Harry Reid International Airport", "location": "Las Vegas, NV"},
+      {"code": "SAC", "name": "Sacramento International Airport", "location": "Sacramento, CA"},
+      {"code": "HTS", "name": "Tri-State/Huntington Airport", "location": "Huntington, WV"}
+    ],
+    "aircraft": [
+      {"registration": "N908JE", "type": "Gulfstream G1159B", "category": "Private Jet"},
+      {"registration": "PRBE Subject", "type": "Unknown", "category": "Special notation"}
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {"location": "bottom_left", "description": "David Rodgers pilot signature", "legibility": "clear"}
+    ],
+    "stamps": [],
+    "markings": [
+      {"type": "page_number", "content": "36", "location": "bottom_center"},
+      {"type": "total_time", "content": "36:08", "location": "bottom_right"}
+    ]
+  },
+  "insights": [
+    "Page continues from page 35's June entries",
+    "David Boies (prominent attorney) appears as passenger",
+    "Jeff Garrison appears frequently as crew member in July",
+    "West Coast operations increase with California destinations",
+    "Multiple Jennifer names suggest different individuals",
+    "PRBE Subject notation appears with cryptic entry on 7/14",
+    "London Stansted appears as international destination",
+    "Multiple same-day flights show complex routing",
+    "Andy Stewart continues as regular passenger",
+    "Sean Anthony mentioned with Andy Stewart",
+    "Increased crew notation with Jeff Garrison",
+    "California circuit: SAN-LAX-LAS-SAC",
+    "Multiple Columbus, OH stops suggest it as operational hub",
+    "Recording reissued notation on first entry",
+    "Group travel with multiple named passengers increases"
+  ],
+  "corrections": {
+    "date_inference": "Page 36 continues from page 35, starting with June 25, 1995 and continuing through July 27, 1995",
+    "actual_dates_from_png": "Verified from PNG: June 25, 30, then July 1, 11, 13, 14, 16, 16, 18, 18, 19, 19, 21, 23, 23, 25, 25, 26, 27",
+    "continuity": "Properly continues from page 35 which ended in mid-June 1995"
+  },
+  "pilot_signature": "David Rodgers",
+  "page_total": "36:08 hours"
+}

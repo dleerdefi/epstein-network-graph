@@ -1,0 +1,144 @@
+{
+  "page_number": 110,
+  "file_path": "data/birthday_book_images/page_0110.png",
+  "file_size_mb": 0.3240013122558594,
+  "type": "children_story_continuation",
+  "content": {
+    "text": "as he Plop he\npoped on the floor\nso uncel F ran\nto tell his Mommy\nthat he had poped\non the floor. 'Mommy'\nMe popy on floor oh\nme see popy for\nfirst time. no not the\nnavater agh, why are\nyou here said Uncel F\nbecause you only have 1 min and 2 sec\nleft so hurry up with the\nstory OK. Well thats to fast I guess\nso to end the slippery he cleared it",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "description": "Child's handwritten story about 'Uncle F' turning 50, page 2 (continuation)",
+    "text_sections": {
+      "full_transcription": "as he Plop he\npoped on the floor\nso uncel F ran\nto tell his Mommy\nthat he had poped\non the floor. 'Mommy'\nMe popy on floor oh\nme see popy for\nfirst time. no not the\nnavater agh, why are\nyou here said Uncel F\nbecause you only have 1 min and 2 sec\nleft so hurry up with the\nstory OK. Well thats to fast I guess\nso to end the slippery he cleared it",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Uncle F",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          110
+        ]
+      },
+      {
+        "name": "Mommy (mentioned)",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          110
+        ]
+      },
+      {
+        "name": "Narrator",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          110
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      "floor"
+    ],
+    "dates": [
+      "1 min and 2 sec (time reference)"
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Child (identity unknown)",
+    "recipient": "Jeffrey Epstein (Uncle F)",
+    "date": null,
+    "subject": "Children's creative story for 50th birthday (continued)",
+    "theme": "child_birthday_story_bathroom_humor",
+    "significance": "medium",
+    "document_type": "children_story_continuation"
+  },
+  "insights": [
+    "Story continues with bathroom humor theme appealing to child's sense of comedy",
+    "Child depicts 'Uncle F' calling for 'Mommy' - infantilizing humor about turning 50",
+    "Meta-narrative continues with narrator rushing story due to time constraint",
+    "'1 min and 2 sec left' suggests performance aspect or reading time limit",
+    "Phonetic spelling ('popy' for potty) indicates young child author",
+    "Story structure shows creativity despite young age",
+    "Comfortable relationship implied by silly, personal humor",
+    "Child feels free to make jokes about bodily functions to adult recipient",
+    "Rushed ending ('so to the slippery he cleared it') suggests time pressure or loss of interest",
+    "Overall tone remains playful and innocent despite bathroom theme"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000110",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.174231",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": [],
+    "handwritten_notes": [
+      "Entire page is child's handwritten story continuation"
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Page 2 of child's handwritten story",
+    "Continues bathroom humor story about 'uncel F'",
+    "Dialog between Uncle F and narrator character",
+    "'Mommy' reference - Uncle F calling for his mother",
+    "Baby talk: 'Me popy on floor oh'",
+    "Narrator interrupts: 'agh, why are you here'",
+    "Time pressure: 'only have 1 min and 2 sec left'",
+    "Rushed ending: 'so to end the slippery he cleared it'",
+    "Child's spelling: 'navater' for narrator",
+    "Written in pencil on white paper",
+    "Similar handwriting to page 109",
+    "Document stamped HOUSE_OVERSIGHT_000110",
+    "Innocent childhood humor about bodily functions"
+  ],
+  "investigative_leads": []
+}

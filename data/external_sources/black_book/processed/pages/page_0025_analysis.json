@@ -1,0 +1,967 @@
+{
+  "page_number": 25,
+  "alphabetical_section": "H",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "025_hammond_dana",
+      "name": {
+        "full_name": "Hammond, Dana",
+        "prefix": null,
+        "first_name": "Dana",
+        "middle_name": null,
+        "last_name": "Hammond",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 283 0403 (f)",
+          "formatting": "001 212 283 0403 (f) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 212 288 5047",
+          "formatting": "001 212 288 5047 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 561 588 7632",
+          "formatting": "001 561 588 7632 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "117 East 72nd Street"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "025_handler_sharon",
+      "name": {
+        "full_name": "Handler, Sharon",
+        "prefix": null,
+        "first_name": "Sharon",
+        "middle_name": null,
+        "last_name": "Handler",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 230 1445 (hf)",
+          "formatting": "212 230 1445 (hf)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 509 1500 (in July try John Loeb\u2019s Office)",
+          "formatting": "212 509 1500 (in July try John Loeb\u2019s Office)"
+        },
+        {
+          "type": "unknown",
+          "number": "914 684 6165 (weekends)",
+          "formatting": "914 684 6165 (weekends)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 888 7676",
+          "formatting": "001 212 888 7676 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 758 9129",
+          "formatting": "001 212 758 9129 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "917 230 1445",
+          "formatting": "917 230 1445 (NYC mobile)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "530 Park Avenue, Apt 5H"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": "Upper East Side elite"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "025_hanover_ernst_&_chantal",
+      "name": {
+        "full_name": "Hanover Ernst",
+        "prefix": null,
+        "first_name": "Ernst & Chantal",
+        "middle_name": null,
+        "last_name": "Hanover",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Chantal"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-7314422",
+          "formatting": "0207-7314422 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Hurlingham Rd"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW6",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "025_hanson_brook",
+      "name": {
+        "full_name": "Hanson, Brook",
+        "prefix": null,
+        "first_name": "Brook",
+        "middle_name": null,
+        "last_name": "Hanson",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-245 1245",
+          "formatting": "0207-245 1245 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-235 8179",
+          "formatting": "0207-235 8179 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "65 Eaton Square"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW1",
+          "country": "UK",
+          "notes": "Eaton Square/Place elite"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "025_hanson_lord_&_lady",
+      "name": {
+        "full_name": "Hanson, Lord",
+        "prefix": null,
+        "first_name": "Lord & Lady",
+        "middle_name": null,
+        "last_name": "Hanson",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Lady"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 619 320 9980 (PSpr)",
+          "formatting": "001 619 320 9980 (PSpr) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 212 355 2088 (NY)",
+          "formatting": "001 212 355 2088 (NY) (International)"
+        },
+        {
+          "type": "home",
+          "number": "0635 248835",
+          "formatting": "0635 248835"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Kimber Cottage, Chieveley, Nr Newsbury Perks"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "025_hanson_the_hon_robert",
+      "name": {
+        "full_name": "Hanson, The Hon Robert",
+        "prefix": null,
+        "first_name": "The Hon Robert",
+        "middle_name": null,
+        "last_name": "Hanson",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "01666 880 313 (hf)",
+          "formatting": "01666 880 313 (hf)"
+        },
+        {
+          "type": "home",
+          "number": "1666880491",
+          "formatting": "1666880491"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "The Garden House, Westonbirt, Glos"
+          ],
+          "city": "GL8 8QQ",
+          "state": null,
+          "postal_code": "Tilbury",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "025_hanson_the_hon_robert",
+      "name": {
+        "full_name": "Hanson, The Hon Robert",
+        "prefix": null,
+        "first_name": "The Hon Robert",
+        "middle_name": null,
+        "last_name": "Hanson",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-235 3889",
+          "formatting": "0207-235 3889 (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "01666 880 334",
+          "formatting": "01666 880 334"
+        },
+        {
+          "type": "unknown",
+          "number": "0860 502722",
+          "formatting": "0860 502722"
+        },
+        {
+          "type": "unknown",
+          "number": "0207-351 4380 (Fax)",
+          "formatting": "0207-351 4380 (Fax) (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 619 320 9800 (Parents)",
+          "formatting": "001 619 320 9800 (Parents) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "0207 235 3892 (hf)",
+          "formatting": "0207 235 3892 (hf) (UK London)"
+        },
+        {
+          "type": "work",
+          "number": "0207-647 0900",
+          "formatting": "0207-647 0900 (UK London)"
+        },
+        {
+          "type": "work",
+          "number": "0207-245 1245",
+          "formatting": "0207-245 1245 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "760 320 9800",
+          "formatting": "760 320 9800"
+        },
+        {
+          "type": "home",
+          "number": "0207-351-6660",
+          "formatting": "0207-351-6660 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 355 2514",
+          "formatting": "001 212 355 2514 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "07836-543 474",
+          "formatting": "07836-543 474"
+        },
+        {
+          "type": "portable",
+          "number": "001 908 406 1429",
+          "formatting": "001 908 406 1429 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "48 Eaton Place"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": "SW1 X8AL",
+          "country": "UK",
+          "notes": "Eaton Square/Place elite"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "025_hapsburg_marie",
+      "name": {
+        "full_name": "Hapsburg, Marie",
+        "prefix": null,
+        "first_name": "Marie",
+        "middle_name": null,
+        "last_name": "Hapsburg",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-352 1987",
+          "formatting": "0207-352 1987 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "31 Fernshaw Road"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW1O",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "025_harvey_victoria",
+      "name": {
+        "full_name": "Harvey Victoria",
+        "prefix": null,
+        "first_name": "Victoria",
+        "middle_name": null,
+        "last_name": "Harvey",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "07 798 555999",
+          "formatting": "07 798 555999"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "025_harvie-watt_isabella",
+      "name": {
+        "full_name": "Harvie-Watt, Isabella",
+        "prefix": null,
+        "first_name": "Isabella",
+        "middle_name": null,
+        "last_name": "Harvie-Watt",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-602 6944 (ph)",
+          "formatting": "0207-602 6944 (ph) (UK London)"
+        },
+        {
+          "type": "work",
+          "number": "00 39 2 801481",
+          "formatting": "00 39 2 801481 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "025_haslam_nick",
+      "name": {
+        "full_name": "Haslam, Nick",
+        "prefix": null,
+        "first_name": "Nick",
+        "middle_name": null,
+        "last_name": "Haslam",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-730 0808",
+          "formatting": "0207-730 0808 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-584 0978",
+          "formatting": "0207-584 0978 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "0 410169700",
+          "formatting": "0 410169700"
+        }
+      ],
+      "emails": [
+        {
+          "address": "n.h.design@btinternet.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "025_hatkoff_craig_&_jane",
+      "name": {
+        "full_name": "Hatkoff, Craig",
+        "prefix": null,
+        "first_name": "Craig & Jane",
+        "middle_name": null,
+        "last_name": "Hatkoff",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Jane"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 273 1626 (car)",
+          "formatting": "001 212 273 1626 (car) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 516 537 0673",
+          "formatting": "001 516 537 0673 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 579 4393 (Direct Line)",
+          "formatting": "212 579 4393 (Direct Line)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 877 7042",
+          "formatting": "001 212 877 7042 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 501 7024 (hf)",
+          "formatting": "001 212 501 7024 (hf) (International)"
+        },
+        {
+          "type": "portable",
+          "number": "917 434 1600",
+          "formatting": "917 434 1600 (NYC mobile)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "Chatkoff@aol.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "1 West 72nd St."
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10023",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Victor Capital Group"
+    },
+    {
+      "entry_id": "025_hauteville_marc_de",
+      "name": {
+        "full_name": "Hauteville, Marc de",
+        "prefix": null,
+        "first_name": "Marc de",
+        "middle_name": null,
+        "last_name": "Hauteville",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "00 33 1 4224 4385",
+          "formatting": "00 33 1 4224 4385 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "025_hay_henry_&_patricia",
+      "name": {
+        "full_name": "Hay, Henry",
+        "prefix": null,
+        "first_name": "Henry & Patricia",
+        "middle_name": null,
+        "last_name": "Hay",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Patricia"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 646 387 3513 (hp)",
+          "formatting": "001 646 387 3513 (hp) (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 452 1485",
+          "formatting": "001 212 452 1485 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 603 5194",
+          "formatting": "001 603 5194 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "24 E 84st"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10028",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "025_hayworth_reggie",
+      "name": {
+        "full_name": "Hayworth Reggie",
+        "prefix": null,
+        "first_name": "Reggie",
+        "middle_name": null,
+        "last_name": "Hayworth",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "01993 822734",
+          "formatting": "01993 822734"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Bradwel Grove, Oxon"
+          ],
+          "city": "Burford",
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "025_hazeli-iveagh_clare",
+      "name": {
+        "full_name": "Hazeli-Iveagh, Clare",
+        "prefix": null,
+        "first_name": "Clare",
+        "middle_name": null,
+        "last_name": "Hazeli-Iveagh",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "01386 584200 (mom)",
+          "formatting": "01386 584200 (mom)"
+        },
+        {
+          "type": "unknown",
+          "number": "0208-960 357 (aunt)",
+          "formatting": "0208-960 357 (aunt) (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "01386 584200 (mum p)",
+          "formatting": "01386 584200 (mum p)"
+        },
+        {
+          "type": "unknown",
+          "number": "079331 382731 (victoria)",
+          "formatting": "079331 382731 (victoria)"
+        },
+        {
+          "type": "work",
+          "number": "0207-881 9847",
+          "formatting": "0207-881 9847 (UK London)"
+        },
+        {
+          "type": "work",
+          "number": "01842 890 223",
+          "formatting": "01842 890 223"
+        },
+        {
+          "type": "home",
+          "number": "1842890787",
+          "formatting": "1842890787"
+        },
+        {
+          "type": "portable",
+          "number": "114479326227596",
+          "formatting": "114479326227596"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Norfolk"
+          ],
+          "city": "IP243TQ",
+          "state": null,
+          "postal_code": "Thetford",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Elveden Farms Limited"
+    },
+    {
+      "entry_id": "025_hearn_barry_&_susan",
+      "name": {
+        "full_name": "Hearn Barry",
+        "prefix": null,
+        "first_name": "Barry & Susan",
+        "middle_name": null,
+        "last_name": "Hearn",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Susan"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "01708 782200",
+          "formatting": "01708 782200"
+        },
+        {
+          "type": "unknown",
+          "number": "01708 723425 (f)",
+          "formatting": "01708 723425 (f)"
+        },
+        {
+          "type": "home",
+          "number": "01277-217-116",
+          "formatting": "01277-217-116"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "10 Western Road, Essex"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": "Romford",
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Matchroom"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 17,
+    "entries_with_emails": 2,
+    "entries_with_addresses": 13,
+    "entries_with_handwritten_notes": 0,
+    "couples": 5,
+    "average_confidence": "high",
+    "notable_figures_count": 0
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Hammond, Dana",
+      "Handler, Sharon",
+      "Hanover Ernst",
+      "Chantal",
+      "Hanson, Brook",
+      "Hanson, Lord",
+      "Lady",
+      "Hanson, The Hon Robert",
+      "Hanson, The Hon Robert",
+      "Hapsburg, Marie",
+      "Harvey Victoria",
+      "Harvie-Watt, Isabella",
+      "Haslam, Nick",
+      "Hatkoff, Craig",
+      "Jane",
+      "Hauteville, Marc de",
+      "Hay, Henry",
+      "Patricia",
+      "Hayworth Reggie",
+      "Hazeli-Iveagh, Clare",
+      "Hearn Barry",
+      "Susan"
+    ],
+    "organizations": [],
+    "locations": {
+      "international": [
+        "UK"
+      ],
+      "us_cities": [
+        "GL8 8QQ",
+        "London",
+        "Burford",
+        "New York",
+        "IP243TQ"
+      ],
+      "elite_addresses": [
+        "65 Eaton Square",
+        "48 Eaton Place",
+        "530 Park Avenue, Apt 5H"
+      ]
+    }
+  },
+  "insights": []
+}

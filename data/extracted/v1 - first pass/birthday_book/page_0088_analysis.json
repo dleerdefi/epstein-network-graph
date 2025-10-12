@@ -1,0 +1,128 @@
+{
+  "page_number": 88,
+  "file_path": "data/birthday_book_images/page_0088.png",
+  "file_size_mb": 2.178708076477051,
+  "type": "photo_collage_with_text",
+  "content": {
+    "text": "Visible text includes references to science, quantum mechanics, physics concepts, and what appears to be academic or scientific content. Text mentions quantum mechanics and scientific theories.",
+    "handwritten": false,
+    "typed": true,
+    "mixed": false,
+    "description": "Page contains black and white photographs mounted on aged brown paper with typed text blocks",
+    "text_sections": {
+      "full_transcription": "Visible text includes references to science, quantum mechanics, physics concepts, and what appears to be academic or scientific content. Text mentions quantum mechanics and scientific theories.",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Individuals visible in photographs but not clearly identifiable",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          88
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Scientific/academic content with personal photographs",
+    "layout": "Scrapbook style with photos and text blocks",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "photo_collage_with_text"
+  },
+  "insights": [
+    "Combination of personal photographs with scientific/academic text suggests intellectual interests",
+    "Scrapbook-style layout indicates personal curation of content",
+    "Scientific content may reflect Epstein's interests in science and academia",
+    "Photos appear to be from social or professional gatherings",
+    "Aged paper aesthetic may be intentional design choice for birthday book"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000088",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.163638",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Black and white photograph showing people in what appears to be a social setting",
+        "position": "upper_left",
+        "subjects": "Multiple individuals",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      },
+      {
+        "description": "Black and white photograph showing people in conversation or meeting",
+        "position": "upper_right",
+        "subjects": "Multiple individuals in discussion",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      },
+      {
+        "description": "Small photograph or image",
+        "position": "center_left",
+        "subjects": "Unclear due to size",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": [],
+    "aged_paper": "Brown/sepia toned paper background suggesting vintage aesthetic or aging"
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [],
+  "investigative_leads": []
+}

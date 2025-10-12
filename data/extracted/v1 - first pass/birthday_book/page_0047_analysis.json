@@ -1,0 +1,171 @@
+{
+  "page_number": 47,
+  "file_path": "data/birthday_book_images/page_0047.png",
+  "file_size_mb": 0.46678924560546875,
+  "type": "newspaper_clipping_page11",
+  "content": {
+    "text": "Page 11 of The Sea Gate Chronicle. Multiple short articles and personals section. Articles include: Prey's (The lotion of the 'addicted hamburger'), Nodick's, White Castle, Coney Island Beach Knishes, Riviera Pizza, Joe's Focciceria Palestinians, John's Hero's, Extra Bar, Gargiulo's, Carolina's, Jap's, Elminger's, Jack's Good Humor, Spumoni Gardens. Personals section includes: Flagelang, Watch out, VILLAGE FUGS, Looking for, If Sgt. Gene, Get off the couch, Happy Sea Gate Girls (with redacted names), Three guys, Shape up, Bung cake with wall, Brighton Beach Barbs, Brooklyn Movie Theaters listing various theaters.",
+    "handwritten": false,
+    "typed": true,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "Page 11 of The Sea Gate Chronicle. Multiple short articles and personals section. Articles include: Prey's (The lotion of the 'addicted hamburger'), Nodick's, White Castle, Coney Island Beach Knishes, Riviera Pizza, Joe's Focciceria Palestinians, John's Hero's, Extra Bar, Gargiulo's, Carolina's, Jap's, Elminger's, Jack's Good Humor, Spumoni Gardens. Personals section includes: Flagelang, Watch out, VILLAGE FUGS, Looking for, If Sgt. Gene, Get off the couch, Happy Sea Gate Girls (with redacted names), Three guys, Shape up, Bung cake with wall, Brighton Beach Barbs, Brooklyn Movie Theaters listing various theaters.",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Sgt. Gene",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          47
+        ]
+      },
+      {
+        "name": "Jack",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          47
+        ]
+      },
+      {
+        "name": "Timmy the S.",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          47
+        ]
+      },
+      {
+        "name": "Thumis",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          47
+        ]
+      },
+      {
+        "name": "Walters",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          47
+        ]
+      }
+    ],
+    "organizations": [
+      "Prey's",
+      "Nodick's",
+      "White Castle",
+      "Coney Island Beach Knishes",
+      "Riviera Pizza",
+      "Joe's Focciceria Palestinians",
+      "John's Hero's",
+      "Extra Bar",
+      "Gargiulo's",
+      "Carolina's",
+      "Jap's",
+      "Elminger's",
+      "Jack's Good Humor",
+      "Spumoni Gardens",
+      "VILLAGE FUGS",
+      "THE DOOR",
+      "Brighton Beach Barbs",
+      "Brooklyn Movie Theaters"
+    ],
+    "locations": [
+      "Sea Gate",
+      "Coney Island",
+      "Brighton Beach",
+      "Brooklyn",
+      "Arthur Ave",
+      "Ocean Oriental",
+      "Kings Highway",
+      "Kingsway",
+      "Loews Oriental"
+    ],
+    "dates": [],
+    "emails": [],
+    "phones": [
+      "588-4-2262"
+    ],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "50th birthday commemoration - satirical newspaper page 11",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "newspaper_clipping_page11"
+  },
+  "insights": [
+    "Contains personals section with various messages and jokes",
+    "Multiple references to local Brooklyn/Coney Island eateries",
+    "Redacted names in 'Happy Sea Gate Girls' section",
+    "Movie theater listings for Brooklyn venues",
+    "Phone number visible: 588-4-2262"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000047",
+  "processed_at": "2025-09-23 03:25:00",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.142005",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": [
+      "Black redaction bar over names in 'Happy Sea Gate Girls' section"
+    ],
+    "layout": "Newspaper page 11 with multiple short articles and personals section"
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [],
+  "investigative_leads": []
+}

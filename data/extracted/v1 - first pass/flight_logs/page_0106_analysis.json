@@ -1,0 +1,299 @@
+{
+  "page_number": 106,
+  "date_header": "NOV 2003-JAN 2004",
+  "time_period": "November 2003 - January 2004",
+  "aircraft": {
+    "registration": "Multiple (B-727-31W N908JE, G-1159B N909JE)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "NOV 21",
+      "date": "11/21/2003",
+      "departure": "B-727-31W",
+      "arrival": "N908JE",
+      "flight_time": "237",
+      "remarks": "CMH - TIST - JE, SK",
+      "passengers": ["JE", "SK"],
+      "crew": "Airplane George Nelson 3/7"
+    },
+    {
+      "entry_number": "22",
+      "date": "11/22/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "238",
+      "remarks": "TIST - PBI - JE, SK, Visky LA Abreu",
+      "passengers": ["JE", "SK", "Visky LA Abreu"],
+      "crew": "Ray Landrum 1/1 2/7"
+    },
+    {
+      "entry_number": "23",
+      "date": "11/23/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "239",
+      "remarks": "PBI - JFK - JE, GM, SK",
+      "passengers": ["JE", "GM", "SK"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "25",
+      "date": "11/25/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "240",
+      "remarks": "JFK - PBI - JE, BT, Sara Mulholl GM, SK, Hebert, Oliver",
+      "passengers": ["JE", "BT", "Sara Mulholl", "GM", "SK", "Hebert", "Oliver"],
+      "crew": "Kellen Tomek Ray - Andrey Coleman 1/1 2/5"
+    },
+    {
+      "entry_number": "DEC 3",
+      "date": "12/03/2003",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1684",
+      "remarks": "MTV - JFK - [unclear]",
+      "passengers": [],
+      "crew": "8"
+    },
+    {
+      "entry_number": "7",
+      "date": "12/07/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1717",
+      "remarks": "JFK - CAD - JE, AM",
+      "passengers": ["JE", "AM"],
+      "crew": "Rachel Roberts 1/1 2"
+    },
+    {
+      "entry_number": "7",
+      "date": "12/07/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1681",
+      "remarks": "CMH - PBI - JE, SK",
+      "passengers": ["JE", "SK"],
+      "crew": "George Roberts 1/1 2/3"
+    },
+    {
+      "entry_number": "9",
+      "date": "12/09/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1685",
+      "remarks": "PBI - TIST - JE, SK, TD",
+      "passengers": ["JE", "SK", "TD"],
+      "crew": "Larry Powers Tony 1/1 2/4"
+    },
+    {
+      "entry_number": "15",
+      "date": "12/15/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "TIST - TEB - JE, AM, TD, Weiner + Williams",
+      "passengers": ["JE", "AM", "TD", "Weiner", "Williams"],
+      "crew": "4/5"
+    },
+    {
+      "entry_number": "19",
+      "date": "12/19/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1682",
+      "remarks": "TEB - TIST - JE, GM, SK",
+      "passengers": ["JE", "GM", "SK"],
+      "crew": "[REDACTED] 1/1 3/7"
+    },
+    {
+      "entry_number": "24",
+      "date": "12/24/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1694",
+      "remarks": "TIST - PBI - JE, GM, [REDACTED]",
+      "passengers": ["JE", "GM", "REDACTED"],
+      "crew": "Larry 1/1 2/7"
+    },
+    {
+      "entry_number": "26",
+      "date": "12/26/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1680",
+      "remarks": "PBI - TIST - JE, AT, CM",
+      "passengers": ["JE", "AT", "CM"],
+      "crew": "Larry Collins 1/1 2/3"
+    },
+    {
+      "entry_number": "DEC 30",
+      "date": "12/30/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1688",
+      "remarks": "TIST - PBI - JE, Duke S Montalina [REDACTED]",
+      "passengers": ["JE", "Duke S Montalina", "REDACTED"],
+      "crew": "Ray Landrum [REDACTED] 1/1 2/7"
+    },
+    {
+      "entry_number": "JAN 2",
+      "date": "01/02/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1695",
+      "remarks": "PBI - [unclear] - JE, AD, Kimberly Keaton, LV",
+      "passengers": ["JE", "AD", "Kimberly Keaton", "LV"],
+      "crew": "7"
+    },
+    {
+      "entry_number": "3",
+      "date": "01/03/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1689",
+      "remarks": "ISM - PBI - JE, AD, Susan [unclear]",
+      "passengers": ["JE", "AD", "Susan"],
+      "crew": "Oliver 2"
+    },
+    {
+      "entry_number": "3",
+      "date": "01/03/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "PBI - TEB - JE, BT, LR, SK",
+      "passengers": ["JE", "BT", "LR", "SK"],
+      "crew": "LV 1/1 3/5"
+    },
+    {
+      "entry_number": "5",
+      "date": "01/05/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1690",
+      "remarks": "TEB - PBI - JE, BT, LR, SK",
+      "passengers": ["JE", "BT", "LR", "SK"],
+      "crew": "LV 2/6"
+    },
+    {
+      "entry_number": "8",
+      "date": "01/08/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "[unclear]",
+      "passengers": [],
+      "crew": ""
+    },
+    {
+      "entry_number": "12",
+      "date": "01/12/2004",
+      "departure": "B-727-31W",
+      "arrival": "N908JE",
+      "flight_time": "241",
+      "remarks": "PBI - JFK - JE, BT, Sarah Vaughn, SK",
+      "passengers": ["JE", "BT", "Sarah Vaughn", "SK"],
+      "crew": "LK 2/5"
+    },
+    {
+      "entry_number": "15",
+      "date": "01/15/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "242",
+      "remarks": "JFK - PBI - JE, SK, TD [REDACTED]",
+      "passengers": ["JE", "SK", "TD", "REDACTED"],
+      "crew": "LV 2/5"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "SK",
+      "George Nelson",
+      "Visky LA Abreu",
+      "Ray Landrum",
+      "GM",
+      "BT",
+      "Sara Mulholl",
+      "Hebert",
+      "Oliver",
+      "Kellen Tomek Ray",
+      "Andrey Coleman",
+      "AM",
+      "Rachel Roberts",
+      "George Roberts",
+      "TD",
+      "Larry Powers Tony",
+      "Weiner",
+      "Williams",
+      "REDACTED",
+      "Larry",
+      "AT",
+      "CM",
+      "Larry Collins",
+      "Duke S Montalina",
+      "AD",
+      "Kimberly Keaton",
+      "LV",
+      "Susan",
+      "LR",
+      "Sarah Vaughn",
+      "LK",
+      "David Rodgers"
+    ],
+    "locations": [
+      "CMH",
+      "TIST",
+      "PBI",
+      "JFK",
+      "MTV",
+      "CAD",
+      "TEB",
+      "ISM"
+    ],
+    "aircraft": [
+      "B-727-31W",
+      "N908JE",
+      "G-1159B",
+      "N909JE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "Total to Date: 9334.5 - 9325.0",
+    "amount_forward": "9267.7",
+    "total_to_date": "9334.5",
+    "document_quality": "good",
+    "legibility": "mostly clear with some redactions"
+  },
+  "insights": [
+    "Page covers November 2003 through January 2004",
+    "November 2003 entries: 21, 22, 23, 25",
+    "December 2003 entries: 3, 7, 7, 9, 15, 19, 24, 26, 30",
+    "January 2004 entries: 2, 3, 3, 5, 8, 12, 15",
+    "JE (Jeffrey Epstein) appears in nearly every flight",
+    "SK (Sarah Kellen) appears very frequently",
+    "Multiple REDACTED entries preserved",
+    "Christmas Eve and post-Christmas flights documented",
+    "Caribbean operations continue heavily (TIST)",
+    "Several crew members identified including Ray Landrum, Larry Powers, George Roberts",
+    "Duke S Montalina appears on December 30",
+    "Sarah Vaughn appears on December 13",
+    "LV (likely Larry Visoski) appears as crew",
+    "Mix of domestic and Caribbean operations",
+    "Flight numbers reach 242 for B-727 and 1695 for G-1159B"
+  ]
+}

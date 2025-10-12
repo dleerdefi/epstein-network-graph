@@ -1,0 +1,281 @@
+{
+  "page_number": 112,
+  "date_header": "OCT-NOV 2004",
+  "time_period": "October 2004 - November 2004",
+  "aircraft": {
+    "registration": "Multiple (B-727-31M N908JE, G-1159B N909JE, BHT-407 N441GM)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "OCT 16",
+      "date": "10/16/2004",
+      "departure": "B-727-31M",
+      "arrival": "N908JE",
+      "flight_time": "300",
+      "remarks": "TIST - PBI - JE, AT, [REDACTED], SK, Andrew",
+      "passengers": ["JE", "AT", "REDACTED", "SK", "Andrew"],
+      "crew": "GA 1/1 2/4"
+    },
+    {
+      "entry_number": "17",
+      "date": "10/17/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "301",
+      "remarks": "PBI - JFK - JE, [REDACTED], SK, Andrew",
+      "passengers": ["JE", "REDACTED", "SK", "Andrew"],
+      "crew": "GA 2/5"
+    },
+    {
+      "entry_number": "20",
+      "date": "10/20/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "302",
+      "remarks": "JFK - LFPB - JE, JOAN, [REDACTED], SK",
+      "passengers": ["JE", "JOAN", "REDACTED", "SK"],
+      "crew": "1 6/8"
+    },
+    {
+      "entry_number": "25",
+      "date": "10/25/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "303",
+      "remarks": "LFPB - JFK - JE, [REDACTED], SK, SK, DM",
+      "passengers": ["JE", "REDACTED", "SK", "SK", "DM"],
+      "crew": "GA 7/6"
+    },
+    {
+      "entry_number": "27",
+      "date": "10/27/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "304",
+      "remarks": "JFK - JAX - [unclear]",
+      "passengers": [],
+      "crew": "LV 2/1"
+    },
+    {
+      "entry_number": "29",
+      "date": "10/29/2004",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1735",
+      "remarks": "PBI - TEB - [REDACTED], Natalie",
+      "passengers": ["REDACTED", "Natalie"],
+      "crew": "LV 2/6"
+    },
+    {
+      "entry_number": "29",
+      "date": "10/29/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1733",
+      "remarks": "TEB - PBI - JE, SK, [REDACTED]",
+      "passengers": ["JE", "SK", "REDACTED"],
+      "crew": "LV 2/3"
+    },
+    {
+      "entry_number": "31",
+      "date": "10/31/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1731",
+      "remarks": "PBI - TIST - JE, [REDACTED]",
+      "passengers": ["JE", "REDACTED"],
+      "crew": "LV 1/1 2/6"
+    },
+    {
+      "entry_number": "NOV 1",
+      "date": "11/01/2004",
+      "departure": "BHT-407",
+      "arrival": "N441GM",
+      "flight_time": "",
+      "remarks": "TIST - LSST - [unclear]",
+      "passengers": [],
+      "crew": "LV"
+    },
+    {
+      "entry_number": "1",
+      "date": "11/01/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "LSST - TIST - [unclear]",
+      "passengers": [],
+      "crew": "LV"
+    },
+    {
+      "entry_number": "2",
+      "date": "11/02/2004",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1732",
+      "remarks": "TIST - TEB - JE, [REDACTED]",
+      "passengers": ["JE", "REDACTED"],
+      "crew": "LV 4/0"
+    },
+    {
+      "entry_number": "7",
+      "date": "11/07/2004",
+      "departure": "G-1159B",
+      "arrival": "SEABOURNE",
+      "flight_time": "",
+      "remarks": "DFW - DFW - Phyllis, Jeff Price, John Sergio, Albert Galeano, Diane Alexander, Craig Michael, Sally Vickers, Andrew",
+      "passengers": ["Phyllis", "Jeff Price", "John Sergio", "Albert Galeano", "Diane Alexander", "Craig Michael", "Sally Vickers", "Andrew"],
+      "crew": "4/0 4/8"
+    },
+    {
+      "entry_number": "8",
+      "date": "11/08/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "[unclear]",
+      "passengers": [],
+      "crew": "4/5"
+    },
+    {
+      "entry_number": "9",
+      "date": "11/09/2004",
+      "departure": "",
+      "arrival": "N909JE",
+      "flight_time": "1737",
+      "remarks": "PBI - TEB - JE, SK",
+      "passengers": ["JE", "SK"],
+      "crew": "Per Russell 1/1 2/7"
+    },
+    {
+      "entry_number": "10",
+      "date": "11/10/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1738",
+      "remarks": "TEB - PBI - JE, SK",
+      "passengers": ["JE", "SK"],
+      "crew": "Per Russell 2/4"
+    },
+    {
+      "entry_number": "14",
+      "date": "11/14/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1736",
+      "remarks": "PBI - ABQ - JE, [REDACTED], TB, VC",
+      "passengers": ["JE", "REDACTED", "TB", "VC"],
+      "crew": "LV 1/3"
+    },
+    {
+      "entry_number": "14",
+      "date": "11/14/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1735",
+      "remarks": "ABQ - TEB - JE, [REDACTED]",
+      "passengers": ["JE", "REDACTED"],
+      "crew": "LV 2/1"
+    },
+    {
+      "entry_number": "16",
+      "date": "11/16/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1738",
+      "remarks": "TEB - BED - JE, Andrew",
+      "passengers": ["JE", "Andrew"],
+      "crew": "LV 8"
+    },
+    {
+      "entry_number": "16",
+      "date": "11/16/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1739",
+      "remarks": "BED - TEB - JE, Andrew",
+      "passengers": ["JE", "Andrew"],
+      "crew": "LV 8"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "AT",
+      "REDACTED",
+      "SK",
+      "Andrew",
+      "GA",
+      "JOAN",
+      "DM",
+      "LV",
+      "Natalie",
+      "Phyllis",
+      "Jeff Price",
+      "John Sergio",
+      "Albert Galeano",
+      "Diane Alexander",
+      "Craig Michael",
+      "Sally Vickers",
+      "Per Russell",
+      "TB",
+      "VC",
+      "David Rodgers"
+    ],
+    "locations": [
+      "TIST",
+      "PBI",
+      "JFK",
+      "LFPB",
+      "JAX",
+      "TEB",
+      "LSST",
+      "DFW",
+      "ABQ",
+      "BED"
+    ],
+    "aircraft": [
+      "B-727-31M",
+      "N908JE",
+      "G-1159B",
+      "N909JE",
+      "BHT-407",
+      "N441GM",
+      "SEABOURNE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "Total to Date: 9638.4 - 9638.4",
+    "amount_forward": "9582.4",
+    "total_to_date": "9638.4",
+    "document_quality": "good",
+    "legibility": "mostly clear with some redactions"
+  },
+  "insights": [
+    "Page covers October-November 2004",
+    "October 2004 entries: 16, 17, 20, 25, 27, 29, 29, 31",
+    "November 2004 entries: 1, 1, 2, 7, 8, 9, 10, 14, 14, 16, 16",
+    "JE (Jeffrey Epstein) appears frequently throughout both months",
+    "SK (Sarah Kellen) appears multiple times",
+    "International flight to Paris (LFPB) on October 20-25",
+    "Caribbean operations continue (TIST)",
+    "Albuquerque (ABQ) operations on November 14",
+    "Dallas/Fort Worth (DFW) operations on November 7",
+    "SEABOURNE aircraft designation appears",
+    "Multiple REDACTED entries throughout",
+    "Andrew appears multiple times as passenger",
+    "Per Russell appears as crew in November",
+    "Mix of domestic, Caribbean, and international operations"
+  ]
+}

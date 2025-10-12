@@ -1,0 +1,590 @@
+{
+  "page_number": 29,
+  "alphabetical_section": "J-K",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "029_jagger_hatti",
+      "name": {
+        "full_name": "Jagger, Hatti",
+        "prefix": null,
+        "first_name": "Hatti",
+        "middle_name": null,
+        "last_name": "Jagger",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0208- 671 7140", "formatting": "UK format"}
+      ],
+      "emails": [
+        {"type": "personal", "email": "halljaggers@compuserve.com"}
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["PO Box 6, SWEYTAS", "London, SW8 1BY"],
+          "city": "London",
+          "postal_code": "SW8 1BY",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": ["Email: halljaggers@compuserve.com", "5 Durtsling", "Court Road", "London", "SW11 6QQ"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "UK contact"
+    },
+    {
+      "entry_id": "029_jake",
+      "name": {
+        "full_name": "Jake",
+        "prefix": null,
+        "first_name": "Jake",
+        "middle_name": null,
+        "last_name": null,
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "011 44 886 487 504", "formatting": "International to UK"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "medium",
+        "phones": "high"
+      },
+      "formatting_notes": "First name only"
+    },
+    {
+      "entry_id": "029_jameel_mohammed",
+      "name": {
+        "full_name": "Jameel, Mohammed",
+        "prefix": null,
+        "first_name": "Mohammed",
+        "middle_name": null,
+        "last_name": "Jameel",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 430 5050", "formatting": "International to US"},
+        {"type": "fax", "number": "001 212 430 5051", "formatting": "International to US - fax"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "NYC contact"
+    },
+    {
+      "entry_id": "029_james_susie",
+      "name": {
+        "full_name": "James, Susie",
+        "prefix": null,
+        "first_name": "Susie",
+        "middle_name": null,
+        "last_name": "James",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "212 570 6046", "formatting": "US format"},
+        {"type": "mobile", "number": "917 921 0842", "formatting": "US format"}
+      ],
+      "emails": [
+        {"type": "personal", "email": "susoojames@yahoo.com"}
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["201 East 77th", "New York, NY 10021"],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": ["Email: susoojames@yahoo.com", "516 537 3323 (h) East Southampton"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Upper East Side NYC with Hamptons home"
+    },
+    {
+      "entry_id": "029_janklow_linda",
+      "name": {
+        "full_name": "Janklow, Linda",
+        "prefix": null,
+        "first_name": "Linda",
+        "middle_name": null,
+        "last_name": "Janklow",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 535 0276(h)", "formatting": "International to US"},
+        {"type": "mobile", "number": "001 212 973 4477", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["770 Park Avenue", "New York, New York 10023"],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10023",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "770 Park Avenue - prestigious address"
+    },
+    {
+      "entry_id": "029_jarecki_nancy_andrew",
+      "name": {
+        "full_name": "Jarecki, Nancy & Andrew",
+        "prefix": null,
+        "first_name": "Nancy",
+        "middle_name": null,
+        "last_name": "Jarecki",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Andrew"
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 535 4970", "formatting": "International to US"},
+        {"type": "mobile", "number": "212 535 5419 (h)", "formatting": "US format"}
+      ],
+      "emails": [
+        {"type": "personal", "email": "njarecki@aol.com"}
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["998 Frensmarsh earning Ring", "Park Avenue", "New York, NY 10 021 Andrew"],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": ["Email: njarecki@aol.com", "212 737 5427 Andrew", "212 427 7065 01 Nancy", "917 776 (s) 00 36 05", "212 751 5002 Milner - to email's of 37 t 19 007 Oldany", "914 712 2500 Andrew"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "NYC couple with extensive contact info 'hit the ground running films'"
+    },
+    {
+      "entry_id": "029_jarecki_nick",
+      "name": {
+        "full_name": "Jarecki, Nick",
+        "prefix": null,
+        "first_name": "Nick",
+        "middle_name": null,
+        "last_name": "Jarecki",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "mobile", "number": "001 917 699 3611(h)", "formatting": "International to US"}
+      ],
+      "emails": [
+        {"type": "personal", "email": "nyjarecki"}
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["250 Park Avenue", "NY NY"]
+        }
+      ],
+      "handwritten_notes": ["Email: nyjarecki", "917 699 3611(h)", "212 750 4497 (h)", "01 917 559 7254 nick.com"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high"
+      },
+      "formatting_notes": "Film director. 'Falconwood'"
+    },
+    {
+      "entry_id": "029_jason_canada",
+      "name": {
+        "full_name": "Jason (Canada)",
+        "prefix": null,
+        "first_name": "Jason",
+        "middle_name": null,
+        "last_name": null,
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 514 899 6474", "formatting": "International to Canada"},
+        {"type": "fax", "number": "001 514 899 841(fax)", "formatting": "International to Canada - fax"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "medium",
+        "phones": "high"
+      },
+      "formatting_notes": "Montreal area code"
+    },
+    {
+      "entry_id": "029_javier",
+      "name": {
+        "full_name": "Javier",
+        "prefix": null,
+        "first_name": "Javier",
+        "middle_name": null,
+        "last_name": null,
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "305 466 7416", "formatting": "US format"}
+      ],
+      "emails": [
+        {"type": "personal", "email": "jarmengno@gate.com"}
+      ],
+      "addresses": [],
+      "handwritten_notes": ["Email: jarmengno@gate.com"],
+      "confidence": {
+        "name": "medium",
+        "phones": "high",
+        "emails": "high"
+      },
+      "formatting_notes": "Miami area code - first name only"
+    },
+    {
+      "entry_id": "029_jeffries_tim",
+      "name": {
+        "full_name": "Jeffries, Tim",
+        "prefix": null,
+        "first_name": "Tim",
+        "middle_name": null,
+        "last_name": "Jeffries",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207-727 3600(h)", "formatting": "UK format"},
+        {"type": "work", "number": "0207-411 6180 (w)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["74 Comeragh Gardens", "London W14"],
+          "city": "London",
+          "postal_code": "W14",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": ["00 33 493 769 14 19 (h)", "001 321 657 1700", "001 321 657 2701 (h)", "00 33 493 767 19 09", "0177 70 01 (s)"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "UK with French connections"
+    },
+    {
+      "entry_id": "029_310_659_0608",
+      "name": {
+        "full_name": null,
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": null,
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "310 659 0608 (h-F)", "formatting": "US format"},
+        {"type": "home", "number": "310 652 7770", "formatting": "US format"}
+      ],
+      "emails": [
+        {"type": "personal", "email": "Tlm@vertherwesoncale.com"}
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["1024 Lexington Road", "Beverly Hills, CA 90210"],
+          "city": "Beverly Hills",
+          "state": "CA",
+          "postal_code": "90210",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": ["Email: Tlm@vertherwesoncale.com"],
+      "confidence": {
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high"
+      },
+      "formatting_notes": "Orphan Beverly Hills contact"
+    },
+    {
+      "entry_id": "029_johnson_richard_nadine",
+      "name": {
+        "full_name": "Johnson Richard & Nadine",
+        "prefix": null,
+        "first_name": "Richard",
+        "middle_name": null,
+        "last_name": "Johnson",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Nadine"
+      },
+      "phones": [
+        {"type": "home", "number": "001 310 659 7910", "formatting": "International to US"},
+        {"type": "home", "number": "310 659 0608 (h-F)", "formatting": "US format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["1024 Lexington Road", "Beverly Hills, CA 90210"],
+          "city": "Beverly Hills",
+          "state": "CA",
+          "postal_code": "90210",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Princess Diana's former private secretary"
+    },
+    {
+      "entry_id": "029_johnson_lucy",
+      "name": {
+        "full_name": "Johnson, Lucy",
+        "prefix": null,
+        "first_name": "Lucy",
+        "middle_name": null,
+        "last_name": "Johnson",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207-351 4010 (h)", "formatting": "UK format"},
+        {"type": "home", "number": "0207-351 7050 (h)", "formatting": "UK format"},
+        {"type": "work", "number": "0207-373 7070 (w)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "UK contact"
+    },
+    {
+      "entry_id": "029_jones_ann_mick",
+      "name": {
+        "full_name": "Jones Ann & Mick",
+        "prefix": null,
+        "first_name": "Ann",
+        "middle_name": null,
+        "last_name": "Jones",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Mick"
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 750 7473(M)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "NYC couple"
+    },
+    {
+      "entry_id": "029_josephson_barry_jackie",
+      "name": {
+        "full_name": "Josephson, Barry & Jackie",
+        "prefix": null,
+        "first_name": "Barry",
+        "middle_name": null,
+        "last_name": "Josephson",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Jackie"
+      },
+      "phones": [
+        {"type": "mobile", "number": "001 310 704 1805", "formatting": "International to US"},
+        {"type": "home", "number": "310 990 7497 (h wx)", "formatting": "US format"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "LA couple"
+    },
+    {
+      "entry_id": "029_karella_kalliope",
+      "name": {
+        "full_name": "Karella, Kalliope",
+        "prefix": null,
+        "first_name": "Kalliope",
+        "middle_name": null,
+        "last_name": "Karella",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207-376 5270 (h)", "formatting": "UK format"},
+        {"type": "work", "number": "0207-376 5271 (w)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["8 Streatham Street"],
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "UK contact"
+    },
+    {
+      "entry_id": "029_kastner_ron",
+      "name": {
+        "full_name": "Kastner, Ron",
+        "prefix": null,
+        "first_name": "Ron",
+        "middle_name": null,
+        "last_name": "Kastner",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001(7-734 8881 001", "formatting": "International - unclear"},
+        {"type": "mobile", "number": "917-577-516", "formatting": "US format - incomplete"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "medium"
+      },
+      "formatting_notes": "Phone numbers unclear"
+    },
+    {
+      "entry_id": "029_katz_anton_robin",
+      "name": {
+        "full_name": "Katz, Anton & Robin",
+        "prefix": null,
+        "first_name": "Anton",
+        "middle_name": null,
+        "last_name": "Katz",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Robin"
+      },
+      "phones": [
+        {"type": "home", "number": "212 606 6", "formatting": "US format - incomplete"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["ESDOA", "New York, NY 10021"],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "low",
+        "addresses": "medium"
+      },
+      "formatting_notes": "Upper East Side NYC - incomplete info"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 18,
+    "legibility": "excellent",
+    "page_condition": "good",
+    "notes": "Notable entries include Andrew and Nancy Jarecki (filmmakers), Nick Jarecki (director), Patrick Jephson (Princess Diana's former private secretary)"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Hall Jagger",
+      "Jake",
+      "Mohammed Jameel",
+      "Susie James",
+      "Linda Janklow",
+      "Nancy Jarecki",
+      "Andrew Jarecki",
+      "Nick Jarecki",
+      "Jason",
+      "Javier",
+      "Tim Jeffries",
+      "Richard Jephson",
+      "Nadine Jephson",
+      "Lucy Johnson",
+      "Ann Jones",
+      "Mick Jones",
+      "Barry Josephson",
+      "Jackie Josephson",
+      "Kalliope Karelia",
+      "Ron Kastner",
+      "Anton Katz",
+      "Robin Katz"
+    ],
+    "organizations": [],
+    "locations": [
+      "New York, NY",
+      "London, UK",
+      "Beverly Hills, CA",
+      "Los Angeles, CA",
+      "Miami, FL",
+      "Montreal, Canada",
+      "France"
+    ]
+  },
+  "insights": [
+    "Andrew Jarecki - documentary filmmaker (Capturing the Friedmans)",
+    "Nick Jarecki - film director (Arbitrage)",
+    "Patrick Jephson - Princess Diana's former private secretary living in Beverly Hills",
+    "Linda Janklow - 770 Park Avenue, one of NYC's most prestigious addresses",
+    "Tim Jeffries - UK socialite with extensive international connections",
+    "Multiple Hamptons and East Hampton connections (Susie James)",
+    "Strong filmmaker/entertainment industry presence",
+    "Mix of NYC elite, London society, and LA entertainment figures",
+    "Several entries with French Riviera connections",
+    "Upper East Side Manhattan addresses predominant"
+  ]
+}

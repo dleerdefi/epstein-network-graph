@@ -1,0 +1,619 @@
+{
+  "metadata": {
+    "sources": [
+      {
+        "name": "WTRF Article",
+        "url": "https://www.wtrf.com/top-stories/epstein-list-full-list-of-names-mentioned-so-far-includes-president-trump-bill-clinton-al-gore-george-lucas-cameron-diaz-and-more/",
+        "date_accessed": "2024-10-11",
+        "description": "Compilation of names mentioned in Epstein-related court documents"
+      },
+      {
+        "name": "Newsweek Article (Dead Link)",
+        "original_url": "https://www.newsweek.com/jeffrey-epstein-flight-logs-full-list-names-2037216",
+        "description": "Original Newsweek article listing names, now unavailable"
+      }
+    ],
+    "last_updated": "2024-10-11",
+    "total_names": 85,
+    "categories": [
+      "victim",
+      "associate",
+      "politician",
+      "celebrity",
+      "lawyer",
+      "investigator",
+      "witness",
+      "staff",
+      "business"
+    ]
+  },
+  "names": [
+    {
+      "full_name": "Ghislaine Maxwell",
+      "category": "associate",
+      "variations": ["GM", "Ghislaine", "G. Maxwell"],
+      "notable": true,
+      "description": "Epstein's close associate and co-conspirator"
+    },
+    {
+      "full_name": "Virginia Lee Roberts Giuffre",
+      "category": "victim",
+      "variations": ["Virginia Roberts", "Virginia Giuffre", "VR"],
+      "notable": true,
+      "description": "Epstein victim and key witness"
+    },
+    {
+      "full_name": "Prince Andrew of England",
+      "category": "associate",
+      "variations": ["Prince Andrew", "Duke of York", "Andrew Windsor"],
+      "notable": true,
+      "description": "British Royal, accused in court documents"
+    },
+    {
+      "full_name": "James Michael Austrich",
+      "category": "unknown",
+      "variations": ["James Austrich"],
+      "notable": false
+    },
+    {
+      "full_name": "Philip Barden",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Cate Blanchett",
+      "category": "celebrity",
+      "variations": [],
+      "notable": true,
+      "description": "Academy Award-winning actress"
+    },
+    {
+      "full_name": "David Boies",
+      "category": "lawyer",
+      "variations": [],
+      "notable": true,
+      "description": "Prominent attorney"
+    },
+    {
+      "full_name": "Laura Boothe",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Evelyn Boulet",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Rebecca Boylan",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Joshua Bunner",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Naomi Campbell",
+      "category": "celebrity",
+      "variations": [],
+      "notable": true,
+      "description": "Supermodel"
+    },
+    {
+      "full_name": "Carolyn Casey",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Paul Cassell",
+      "category": "lawyer",
+      "variations": [],
+      "notable": false,
+      "description": "Attorney"
+    },
+    {
+      "full_name": "Sharon Churcher",
+      "category": "journalist",
+      "variations": [],
+      "notable": false,
+      "description": "Journalist"
+    },
+    {
+      "full_name": "Bill Clinton",
+      "category": "politician",
+      "variations": ["President Clinton", "William Clinton", "William Jefferson Clinton"],
+      "notable": true,
+      "description": "42nd President of the United States"
+    },
+    {
+      "full_name": "David Copperfield",
+      "category": "celebrity",
+      "variations": [],
+      "notable": true,
+      "description": "Famous magician"
+    },
+    {
+      "full_name": "Alexandra Cousteau",
+      "category": "celebrity",
+      "variations": [],
+      "notable": false,
+      "description": "Environmental advocate, granddaughter of Jacques Cousteau"
+    },
+    {
+      "full_name": "Cameron Diaz",
+      "category": "celebrity",
+      "variations": [],
+      "notable": true,
+      "description": "Hollywood actress"
+    },
+    {
+      "full_name": "Leonardo DiCaprio",
+      "category": "celebrity",
+      "variations": ["Leo DiCaprio"],
+      "notable": true,
+      "description": "Academy Award-winning actor"
+    },
+    {
+      "full_name": "Alan Dershowitz",
+      "category": "lawyer",
+      "variations": ["Dershowitz"],
+      "notable": true,
+      "description": "Harvard Law professor and attorney"
+    },
+    {
+      "full_name": "Dr. Mona Devanesan",
+      "category": "unknown",
+      "variations": ["Mona Devanesan"],
+      "notable": false
+    },
+    {
+      "full_name": "Bradley Edwards",
+      "category": "lawyer",
+      "variations": ["Brad Edwards"],
+      "notable": false,
+      "description": "Victims' attorney"
+    },
+    {
+      "full_name": "Amanda Ellison",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Cimberly Espinosa",
+      "category": "staff",
+      "variations": ["Kimberly Espinosa"],
+      "notable": false,
+      "description": "Former Epstein employee"
+    },
+    {
+      "full_name": "Jeffrey Epstein",
+      "category": "principal",
+      "variations": ["JE", "Jeffrey", "J. Epstein"],
+      "notable": true,
+      "description": "Convicted sex offender and financier"
+    },
+    {
+      "full_name": "Annie Farmer",
+      "category": "victim",
+      "variations": [],
+      "notable": true,
+      "description": "Epstein victim"
+    },
+    {
+      "full_name": "Marie Farmer",
+      "category": "victim",
+      "variations": ["Maria Farmer"],
+      "notable": true,
+      "description": "Epstein victim, sister of Annie Farmer"
+    },
+    {
+      "full_name": "Alexandra Fekkai",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Crystal Figueroa",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Anthony Figueroa",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Louis Freeh",
+      "category": "investigator",
+      "variations": [],
+      "notable": true,
+      "description": "Former FBI Director"
+    },
+    {
+      "full_name": "Eric Gany",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Meg Garvin",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Sheridan Gibson-Butte",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Robert Giuffre",
+      "category": "witness",
+      "variations": [],
+      "notable": false,
+      "description": "Husband of Virginia Roberts Giuffre"
+    },
+    {
+      "full_name": "Al Gore",
+      "category": "politician",
+      "variations": ["Albert Gore", "Vice President Gore"],
+      "notable": true,
+      "description": "45th Vice President of the United States"
+    },
+    {
+      "full_name": "Ross Gow",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Fred Graff",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Philip Guderyon",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Shannon Harrison",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Stephen Hawking",
+      "category": "celebrity",
+      "variations": ["Professor Hawking"],
+      "notable": true,
+      "description": "Renowned theoretical physicist"
+    },
+    {
+      "full_name": "Victoria Hazel",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Brittany Henderson",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Brett Jaffe",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Michael Jackson",
+      "category": "celebrity",
+      "variations": ["MJ"],
+      "notable": true,
+      "description": "Pop music icon"
+    },
+    {
+      "full_name": "Carol Roberts Kess",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Dr. Karen Kutikoff",
+      "category": "unknown",
+      "variations": ["Karen Kutikoff"],
+      "notable": false
+    },
+    {
+      "full_name": "Peter Listerman",
+      "category": "associate",
+      "variations": [],
+      "notable": false,
+      "description": "Alleged procurer"
+    },
+    {
+      "full_name": "George Lucas",
+      "category": "celebrity",
+      "variations": [],
+      "notable": true,
+      "description": "Star Wars creator and filmmaker"
+    },
+    {
+      "full_name": "Tony Lyons",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Bob Meister",
+      "category": "unknown",
+      "variations": ["Robert Meister"],
+      "notable": false
+    },
+    {
+      "full_name": "Jamie A. Melanson",
+      "category": "unknown",
+      "variations": ["Jamie Melanson"],
+      "notable": false
+    },
+    {
+      "full_name": "Lynn Miller",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Marvin Minsky",
+      "category": "celebrity",
+      "variations": [],
+      "notable": true,
+      "description": "MIT professor and AI pioneer"
+    },
+    {
+      "full_name": "David Mullen",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Joe Pagano",
+      "category": "unknown",
+      "variations": ["Joseph Pagano"],
+      "notable": false
+    },
+    {
+      "full_name": "Mary Paluga",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "J. Stanley Pottinger",
+      "category": "unknown",
+      "variations": ["Stanley Pottinger"],
+      "notable": false
+    },
+    {
+      "full_name": "Joseph Recarey",
+      "category": "investigator",
+      "variations": ["Detective Recarey"],
+      "notable": false,
+      "description": "Palm Beach Police detective"
+    },
+    {
+      "full_name": "Michael Reiter",
+      "category": "investigator",
+      "variations": ["Chief Reiter"],
+      "notable": false,
+      "description": "Former Palm Beach Police Chief"
+    },
+    {
+      "full_name": "Jason Richards",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Bill Richardson",
+      "category": "politician",
+      "variations": ["Governor Richardson"],
+      "notable": true,
+      "description": "Former Governor of New Mexico"
+    },
+    {
+      "full_name": "Sky Roberts",
+      "category": "victim",
+      "variations": [],
+      "notable": false,
+      "description": "Sister of Virginia Roberts Giuffre"
+    },
+    {
+      "full_name": "Scott Rothstein",
+      "category": "lawyer",
+      "variations": [],
+      "notable": false,
+      "description": "Convicted Ponzi schemer and attorney"
+    },
+    {
+      "full_name": "Forest Sawyer",
+      "category": "journalist",
+      "variations": ["Forrest Sawyer"],
+      "notable": false,
+      "description": "TV journalist"
+    },
+    {
+      "full_name": "Doug Schoettle",
+      "category": "unknown",
+      "variations": ["Doug Schoetlle"],
+      "notable": false
+    },
+    {
+      "full_name": "Kevin Spacey",
+      "category": "celebrity",
+      "variations": [],
+      "notable": true,
+      "description": "Academy Award-winning actor"
+    },
+    {
+      "full_name": "Cecilia Stein",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Mark Tafoya",
+      "category": "unknown",
+      "variations": ["Tagoya Mark", "Mark Tagoya"],
+      "notable": false,
+      "description": "Note: Often misspelled as 'Tagoya' in OCR documents"
+    },
+    {
+      "full_name": "Brent Tindall",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Kevin Thompson",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Donald Trump",
+      "category": "politician",
+      "variations": ["President Trump", "Donald J. Trump"],
+      "notable": true,
+      "description": "45th President of the United States"
+    },
+    {
+      "full_name": "Ed Tuttle",
+      "category": "unknown",
+      "variations": ["Edward Tuttle"],
+      "notable": false
+    },
+    {
+      "full_name": "Emma Vaghan",
+      "category": "unknown",
+      "variations": ["Emma Vaughan"],
+      "notable": false
+    },
+    {
+      "full_name": "Kimberly Vaughan-Edwards",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Cresenda Valdes",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Anthony Valladares",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Maritza Vazquez",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Vicky Ward",
+      "category": "journalist",
+      "variations": ["Victoria Ward"],
+      "notable": false,
+      "description": "Journalist who wrote about Epstein"
+    },
+    {
+      "full_name": "Jarred Weisfeld",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Courtney Wild",
+      "category": "victim",
+      "variations": [],
+      "notable": true,
+      "description": "Epstein victim"
+    },
+    {
+      "full_name": "Bruce Willis",
+      "category": "celebrity",
+      "variations": [],
+      "notable": true,
+      "description": "Hollywood actor"
+    },
+    {
+      "full_name": "Daniel Wilson",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Kathy Alexander",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    },
+    {
+      "full_name": "Miles Alexander",
+      "category": "unknown",
+      "variations": [],
+      "notable": false
+    }
+  ],
+  "redacted_entries": [
+    {
+      "position": 6,
+      "note": "Name redacted in original source"
+    },
+    {
+      "position": 24,
+      "note": "Name redacted in original source"
+    },
+    {
+      "position": 41,
+      "note": "Name redacted in original source"
+    },
+    {
+      "position": 59,
+      "note": "Name redacted in original source"
+    }
+  ],
+  "passenger_codes": {
+    "JE": "Jeffrey Epstein",
+    "GM": "Ghislaine Maxwell",
+    "SK": "Sarah Kellen",
+    "AP": "Adriana Ross (Adriana Mucinska)",
+    "LV": "Larry Visoski (Chief Pilot)",
+    "JC": "Likely Jeffrey's code or crew notation",
+    "AS": "Unknown - possibly Adam Perry Lang or another associate",
+    "DD": "Unknown associate",
+    "RD": "Unknown associate",
+    "CM": "Unknown associate",
+    "SM": "Unknown associate",
+    "MNN": "Unknown associate"
+  }
+}

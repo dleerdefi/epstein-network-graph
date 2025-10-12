@@ -1,0 +1,683 @@
+{
+  "page_number": 15,
+  "alphabetical_section": "D",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "015_diniz_pedro",
+      "name": {
+        "full_name": "Diniz, Pedro",
+        "first_name": "Pedro",
+        "last_name": "Diniz"
+      },
+      "phones": [
+        {
+          "number": "0171-243 1664(h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "171"
+        }
+      ],
+      "emails": [
+        {
+          "address": "pdiniz@dinizj.com",
+          "type": "personal"
+        }
+      ],
+      "addresses": [
+        {
+          "full_address": "15 Clanricarde Road 1, Andar, Sao Paulo, Brazil",
+          "street": "15 Clanricarde Road 1, Andar",
+          "city": "Sao Paulo",
+          "country": "Brazil"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Mixed UK phone and Brazil address"
+    },
+    {
+      "entry_id": "015_dixon_alexandra",
+      "name": {
+        "full_name": "Dixon, Alexandra",
+        "first_name": "Alexandra",
+        "last_name": "Dixon"
+      },
+      "phones": [
+        {
+          "number": "212 308 7781 317 1425",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "516 671 1054 (office)",
+          "type": "office",
+          "country_code": "+1",
+          "area_code": "516"
+        },
+        {
+          "number": "611 201 2384 (Prada Vault)",
+          "type": "work",
+          "notes": "Prada Vault"
+        },
+        {
+          "number": "011 7817 9 4499 6001",
+          "type": "unknown"
+        }
+      ],
+      "emails": [
+        {
+          "address": "alexdixon@msn.com",
+          "type": "personal"
+        }
+      ],
+      "addresses": [
+        {
+          "full_address": "14 Sawmill Close, Bromley Heath, London"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "015_djerassi_dale",
+      "name": {
+        "full_name": "Djerassi, Dale",
+        "first_name": "Dale",
+        "last_name": "Djerassi"
+      },
+      "phones": [
+        {
+          "number": "001 603 751 1970",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "603"
+        },
+        {
+          "number": "001 877 649 0099(h)",
+          "type": "home",
+          "country_code": "+1"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "New Hampshire area code"
+    },
+    {
+      "entry_id": "015_dolbey_alex_suzie",
+      "name": {
+        "full_name": "Dolbey, Alex & Suzie",
+        "first_name": "Alex",
+        "last_name": "Dolbey",
+        "spouse_name": "Suzie",
+        "is_couple": true
+      },
+      "phones": [
+        {
+          "number": "Short Hop",
+          "type": "unknown",
+          "notes": "Property name"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "Short Hop"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "medium",
+        "completeness": "minimal",
+        "legibility": "good"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "015_hopkins",
+      "name": {
+        "full_name": "Hopkins",
+        "last_name": "Hopkins"
+      },
+      "phones": [
+        {
+          "number": "0128 621 1300 UK",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "128"
+        },
+        {
+          "number": "01433 734 3383",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "1433"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "Houghton Grange, Chapel en le Frith, Derbyshire",
+          "city": "Chapel en le Frith",
+          "county": "Derbyshire",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "015_donne_alegra",
+      "name": {
+        "full_name": "Donne, Alegra",
+        "first_name": "Alegra",
+        "last_name": "Donne"
+      },
+      "phones": [
+        {
+          "number": "0207-402 2335 (w)",
+          "type": "work",
+          "country_code": "+44",
+          "area_code": "207"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "61 Pellman Road, London NW6 2TA",
+          "street": "61 Pellman Road",
+          "city": "London",
+          "postal_code": "NW6 2TA",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "015_dool",
+      "name": {
+        "full_name": "Dool",
+        "last_name": "Dool"
+      },
+      "phones": [
+        {
+          "number": "1 917 476 7742",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "917"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "minimal",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "015_dorrit",
+      "name": {
+        "full_name": "Dorrit",
+        "last_name": "Dorrit"
+      },
+      "phones": [
+        {
+          "number": "0207-235 5697",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "207"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "minimal",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "015_doss_david_christy",
+      "name": {
+        "full_name": "Doss, David & Christy Prunier",
+        "first_name": "David",
+        "last_name": "Doss",
+        "spouse_name": "Christy Prunier",
+        "is_couple": true
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "31 Manston Osso, New York NY 10024",
+          "street": "31 Manston Osso",
+          "city": "New York",
+          "state": "NY",
+          "zip": "10024"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "015_driver_minnie",
+      "name": {
+        "full_name": "Driver, Minnie",
+        "first_name": "Minnie",
+        "last_name": "Driver"
+      },
+      "phones": [
+        {
+          "number": "001 323 656 8199(w)",
+          "type": "work",
+          "country_code": "+1",
+          "area_code": "323"
+        }
+      ],
+      "emails": [
+        {
+          "address": "minnie@golfone.net",
+          "type": "personal"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Actress"
+    },
+    {
+      "entry_id": "015_douglas_diandra",
+      "name": {
+        "full_name": "Douglas, Diandra",
+        "first_name": "Diandra",
+        "last_name": "Douglas"
+      },
+      "phones": [
+        {
+          "number": "212 570 7147",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "01 917 254 1417",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "917"
+        }
+      ],
+      "emails": [
+        {
+          "address": "mdouglas@yahoo.com",
+          "type": "personal"
+        }
+      ],
+      "addresses": [
+        {
+          "full_address": "125 Main Way, 924 A, New York, NY 10021",
+          "street": "125 Main Way, 924 A",
+          "city": "New York",
+          "state": "NY",
+          "zip": "10021"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "complete",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "015_dubb_anthony_v",
+      "name": {
+        "full_name": "Dubb, Anthony V.",
+        "first_name": "Anthony V.",
+        "last_name": "Dubb"
+      },
+      "phones": [
+        {
+          "number": "001 917 941 9998",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "917"
+        },
+        {
+          "number": "212 274 0050",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "212"
+        }
+      ],
+      "emails": [
+        {
+          "address": "adubb@aol.com",
+          "type": "personal"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "015_dubbens_peter",
+      "name": {
+        "full_name": "Dubbens, Peter",
+        "first_name": "Peter",
+        "last_name": "Dubbens"
+      },
+      "phones": [
+        {
+          "number": "0207 978 8755 (h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "207"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "015_dr_eli_wiesel",
+      "name": {
+        "full_name": "Dr Eli Wiesel",
+        "title": "Dr",
+        "first_name": "Eli",
+        "last_name": "Wiesel"
+      },
+      "phones": [
+        {
+          "number": "001 212 211 7029",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "212"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Unusual surname with exclamation"
+    },
+    {
+      "entry_id": "015_dubin_glen",
+      "name": {
+        "full_name": "Dubin, Glen",
+        "first_name": "Glen",
+        "last_name": "Dubin"
+      },
+      "phones": [
+        {
+          "number": "0700 911 924 001",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "700"
+        },
+        {
+          "number": "Age 11(DN)",
+          "type": "unknown",
+          "notes": "Age notation"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "6 West 57th Street, 27th floor, New York, New York 10019",
+          "street": "6 West 57th Street, 27th floor",
+          "city": "New York",
+          "state": "NY",
+          "zip": "10019"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Age 11 notation"
+    },
+    {
+      "entry_id": "015_drax_jeremy",
+      "name": {
+        "full_name": "Drax, Jeremy",
+        "first_name": "Jeremy",
+        "last_name": "Drax"
+      },
+      "phones": [
+        {
+          "number": "0207-584 3318 (w)",
+          "type": "work",
+          "country_code": "+44",
+          "area_code": "207"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "7307 S Main Road, SW1",
+          "street": "7307 S Main Road",
+          "postal_code": "SW1",
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "015_dressmann_bernard",
+      "name": {
+        "full_name": "Dressmann, Bernard",
+        "first_name": "Bernard",
+        "last_name": "Dressmann"
+      },
+      "phones": [
+        {
+          "number": "917 701 9906",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "917"
+        },
+        {
+          "number": "0207-376 6475 (h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "207"
+        },
+        {
+          "number": "0207-376 6476 (h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "207"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "9 Fox's Walk, Chelsea, London SW3"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Mix of US and UK numbers"
+    },
+    {
+      "entry_id": "015_dubin_louis_tiffany",
+      "name": {
+        "full_name": "Dubin, Louis & Tiffany",
+        "first_name": "Louis",
+        "last_name": "Dubin",
+        "spouse_name": "Tiffany",
+        "is_couple": true
+      },
+      "phones": [
+        {
+          "number": "202 537 2325 (m)",
+          "type": "mobile",
+          "country_code": "+1",
+          "area_code": "202"
+        },
+        {
+          "number": "765 9020(h)",
+          "type": "home",
+          "notes": "Incomplete number"
+        }
+      ],
+      "emails": [
+        {
+          "address": "Email:",
+          "type": "unknown",
+          "notes": "Email header only"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Washington DC area code"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 18,
+    "legibility": "excellent",
+    "notable_features": [
+      "Minnie Driver (actress)",
+      "Diandra Douglas (Michael Douglas ex-wife)",
+      "Mix of UK and international contacts",
+      "Several incomplete entries",
+      "Property names used as addresses",
+      "Dr Eli Whee! with unusual surname",
+      "Age notation for Glen Dublin"
+    ],
+    "extraction_timestamp": "2025-01-29T16:00:00",
+    "extractor_version": "2.0"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Pedro Diniz",
+      "Alexandra Dixon",
+      "Dale Djerassi",
+      "Alex Dolbey",
+      "Suzie Dolbey",
+      "Hopkins",
+      "Alegra Donne",
+      "Dool",
+      "Dorrit",
+      "David Doss",
+      "Christy Prunier Doss",
+      "Minnie Driver",
+      "Diandra Douglas",
+      "Anthony V. Dubb",
+      "Peter Dubbens",
+      "Dr Eli Wiesel",
+      "Glen Dubin",
+      "Jeremy Drax",
+      "Bernard Dressmann",
+      "Louis Dubin",
+      "Tiffany Dubin"
+    ],
+    "organizations": [
+      "Prada Vault"
+    ],
+    "locations": {
+      "cities": [
+        "Sao Paulo",
+        "London",
+        "New York",
+        "Chapel en le Frith",
+        "Washington DC"
+      ],
+      "states": [
+        "NY"
+      ],
+      "countries": [
+        "Brazil",
+        "UK",
+        "USA"
+      ]
+    }
+  },
+  "insights": [
+    "Page contains celebrity contacts including Minnie Driver and Diandra Douglas",
+    "Pedro Diniz has UK phone but Brazil address suggesting international connections",
+    "Alexandra Dixon has Prada Vault connection suggesting fashion industry links",
+    "Several entries with property names like 'Short Hop' and 'Houghton Grange'",
+    "Dr Eli Whee! has unusual surname with exclamation mark",
+    "Glen Dublin entry includes 'Age 11(DN)' notation which is unusual",
+    "Mix of UK London numbers (0207) with US numbers especially NYC (212, 917)",
+    "Bernard Dressmann has both UK and US phone numbers",
+    "Several incomplete entries with just last names (Hopkins, Dool, Dorrit)",
+    "Washington DC presence through Louis Dublin (202 area code)"
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "page_number": 81,
+  "date_header": "MARCH-APRIL 2001",
+  "time_period": "March 2001 - April 2001",
+  "aircraft": {
+    "registration": "Multiple (G-1159B N908JE, C141A, N908GM)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "15",
+      "date": "04/15/2001",
+      "departure": "G-1159B",
+      "arrival": "N908JE",
+      "flight_time": "1472",
+      "remarks": "TSP - LCQ - JG, GM, AY, ALEXIA WALTHER, ALEX",
+      "passengers": ["JG", "GM", "AY", "ALEXIA WALTHER", "ALEX"],
+      "crew": "1/1 2/6"
+    },
+    {
+      "entry_number": "15",
+      "date": "04/15/2001",
+      "departure": "",
+      "arrival": "LCQ",
+      "flight_time": "1473",
+      "remarks": "PBI - JG, GM, AY, VW, VR, ALEX",
+      "passengers": ["JG", "GM", "AY", "VW", "VR", "ALEX"],
+      "crew": "4"
+    },
+    {
+      "entry_number": "16",
+      "date": "04/16/2001",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1474",
+      "remarks": "MAPA - JG, GM, AY, GK, CHELSEA, LEEANNA BOR",
+      "passengers": ["JG", "GM", "AY", "GK", "CHELSEA", "LEEANNA BOR"],
+      "crew": "7"
+    },
+    {
+      "entry_number": "16",
+      "date": "04/16/2001",
+      "departure": "",
+      "arrival": "MAPA",
+      "flight_time": "1479",
+      "remarks": "TIST - JG, GM, AY, GK, VF, CL, 69 MATRIC",
+      "passengers": ["JG", "GM", "AY", "GK", "VF", "CL", "69 MATRIC"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "19",
+      "date": "04/19/2001",
+      "departure": "",
+      "arrival": "TIST",
+      "flight_time": "1476",
+      "remarks": "LGIR - JG, GM, AW, GK, CL, STEPHANIE, ALEC",
+      "passengers": ["JG", "GM", "AW", "GK", "CL", "STEPHANIE", "ALEC"],
+      "crew": "3/8"
+    },
+    {
+      "entry_number": "22",
+      "date": "04/22/2001",
+      "departure": "",
+      "arrival": "LGIB",
+      "flight_time": "1477",
+      "remarks": "PBI - JG, GM, JY, DR, JENNIFER, VIOLET, JP, SEAN, DIANE DEAN, ANNE ANDERJ, SALLY",
+      "passengers": ["JG", "GM", "JY", "DR", "JENNIFER", "VIOLET", "JP", "SEAN", "DIANE DEAN", "ANNE ANDERJ", "SALLY"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "22",
+      "date": "04/22/2001",
+      "departure": "C141A",
+      "arrival": "N908GM",
+      "flight_time": "",
+      "remarks": "PBI - OFT - CINDY RANGER - 340, JOHN",
+      "passengers": ["CINDY RANGER", "340", "JOHN"],
+      "crew": "6"
+    },
+    {
+      "entry_number": "23",
+      "date": "04/23/2001",
+      "departure": "",
+      "arrival": "OFT",
+      "flight_time": "",
+      "remarks": "CLL - VINCE MANSO - 340, JOHN",
+      "passengers": ["VINCE MANSO", "340", "JOHN"],
+      "crew": "4"
+    },
+    {
+      "entry_number": "23",
+      "date": "04/23/2001",
+      "departure": "",
+      "arrival": "CLL",
+      "flight_time": "",
+      "remarks": "PBI - JONATHAN A RAO - 115 PBI",
+      "passengers": ["JONATHAN A RAO", "115", "PBI"],
+      "crew": "6"
+    },
+    {
+      "entry_number": "24",
+      "date": "04/24/2001",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "",
+      "remarks": "JSM - JENNIFER C KYDD - 213 & SCOTT GUNTER STEVE LEMON, REGINE, VICTOR",
+      "passengers": ["JENNIFER C KYDD", "213", "SCOTT GUNTER", "STEVE LEMON", "REGINE", "VICTOR"],
+      "crew": "1/0"
+    },
+    {
+      "entry_number": "24",
+      "date": "04/24/2001",
+      "departure": "",
+      "arrival": "JSM",
+      "flight_time": "",
+      "remarks": "PBI - SCOTT CHARLES LEBARA - U8 REGINE, STEVE CHARLES",
+      "passengers": ["SCOTT CHARLES LEBARA", "U8", "REGINE", "STEVE CHARLES"],
+      "crew": "1/1"
+    },
+    {
+      "entry_number": "27",
+      "date": "04/27/2001",
+      "departure": "G-1159B",
+      "arrival": "N908JE",
+      "flight_time": "1471",
+      "remarks": "PBI - TEB - ALEX, M, SHANNON, LYNN, WEXNER, GBR",
+      "passengers": ["ALEX", "M", "SHANNON", "LYNN", "WEXNER", "GBR"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "29",
+      "date": "04/29/2001",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1478",
+      "remarks": "PBI - LG, GM, JIZZ DERSHOWITZ, TATIANA",
+      "passengers": ["LG", "GM", "JIZZ DERSHOWITZ", "TATIANA"],
+      "crew": "4/1"
+    },
+    {
+      "entry_number": "31",
+      "date": "03/31/2001",
+      "departure": "",
+      "arrival": "SAF",
+      "flight_time": "1476",
+      "remarks": "PBI - ALEX, REDACTED",
+      "passengers": ["ALEX", "REDACTED"],
+      "crew": "3/3"
+    },
+    {
+      "entry_number": "APR 1",
+      "date": "04/01/2001",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1481",
+      "remarks": "LCQ - JG, GM, AY, EVA",
+      "passengers": ["JG", "GM", "AY", "EVA"],
+      "crew": "1/9"
+    },
+    {
+      "entry_number": "1",
+      "date": "04/01/2001",
+      "departure": "",
+      "arrival": "LCQ",
+      "flight_time": "1480",
+      "remarks": "GBI - JG, GM, AP",
+      "passengers": ["JG", "GM", "AP"],
+      "crew": "2/1"
+    },
+    {
+      "entry_number": "3",
+      "date": "04/03/2001",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1483",
+      "remarks": "GBI - JW, DOMINIC, MARIA, LOPEZ",
+      "passengers": ["JW", "DOMINIC", "MARIA", "LOPEZ"],
+      "crew": "9"
+    },
+    {
+      "entry_number": "3",
+      "date": "04/03/2001",
+      "departure": "",
+      "arrival": "GBI",
+      "flight_time": "1404",
+      "remarks": "TEB - JG, VINTAGE MUSIC, VIDEO",
+      "passengers": ["JG", "VINTAGE MUSIC", "VIDEO"],
+      "crew": "1/2"
+    },
+    {
+      "entry_number": "4",
+      "date": "04/04/2001",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1455",
+      "remarks": "BWD - JW, FRANCOIS",
+      "passengers": ["JW", "FRANCOIS"],
+      "crew": "8"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JG",
+      "GM",
+      "AY",
+      "AW",
+      "GK",
+      "VF",
+      "CL",
+      "VW",
+      "VR",
+      "JY",
+      "DR",
+      "JP",
+      "M",
+      "LG",
+      "JW",
+      "AP",
+      "ALEXIA WALTHER",
+      "ALEX",
+      "CHELSEA",
+      "LEEANNA BOR",
+      "69 MATRIC",
+      "STEPHANIE",
+      "ALEC",
+      "JENNIFER",
+      "VIOLET",
+      "SEAN",
+      "DIANE DEAN",
+      "ANNE ANDERJ",
+      "SALLY",
+      "CINDY RANGER",
+      "340",
+      "JOHN",
+      "VINCE MANSO",
+      "JONATHAN A RAO",
+      "115",
+      "PBI",
+      "JENNIFER C KYDD",
+      "213",
+      "SCOTT GUNTER",
+      "STEVE LEMON",
+      "REGINE",
+      "VICTOR",
+      "SCOTT CHARLES LEBARA",
+      "U8",
+      "STEVE CHARLES",
+      "SHANNON",
+      "LYNN",
+      "WEXNER",
+      "GBR",
+      "JIZZ DERSHOWITZ",
+      "TATIANA",
+      "REDACTED",
+      "EVA",
+      "DOMINIC",
+      "MARIA",
+      "LOPEZ",
+      "VINTAGE MUSIC",
+      "VIDEO",
+      "FRANCOIS",
+      "David Rodgers"
+    ],
+    "locations": [
+      "TSP",
+      "LCQ",
+      "PBI",
+      "MAPA",
+      "TIST",
+      "LGIR",
+      "LGIB",
+      "OFT",
+      "CLL",
+      "JSM",
+      "TEB",
+      "SAF",
+      "GBI",
+      "BWD"
+    ],
+    "aircraft": [
+      "G-1159B",
+      "N908JE",
+      "C141A",
+      "N908GM"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "15/6",
+    "amount_forward": "8133",
+    "total_to_date": "8165",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page includes March 31 and April 2001 entries",
+    "VR (Virginia Roberts) appears multiple times in April entries",
+    "Wexner appears as passenger on April 27",
+    "Dershowitz appears as passenger on April 29",
+    "REDACTED appears in passenger list",
+    "International operations continue (TIST, LGIR, LGIB - Greece)",
+    "Multiple aircraft types used",
+    "Flight numbers reach 1483",
+    "Mix of domestic and international flights",
+    "Large group flights with multiple passengers"
+  ]
+}

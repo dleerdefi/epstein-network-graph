@@ -1,0 +1,996 @@
+{
+  "page_number": 30,
+  "alphabetical_section": "K",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "030_katzenellenbogen_mark",
+      "name": {
+        "full_name": "Katzenellenbogen, Mark",
+        "prefix": null,
+        "first_name": "Mark",
+        "middle_name": null,
+        "last_name": "Katzenellenbogen",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 27 21 4613601",
+          "formatting": "001 27 21 4613601 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 2783 375 9908",
+          "formatting": "001 2783 375 9908 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "030_kelling_sarah",
+      "name": {
+        "full_name": "Kelling, Sarah",
+        "prefix": null,
+        "first_name": "Sarah",
+        "middle_name": null,
+        "last_name": "Kelling",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0410-657-887",
+          "formatting": "0410-657-887"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "030_kegan_rory",
+      "name": {
+        "full_name": "Kegan, Rory",
+        "prefix": null,
+        "first_name": "Rory",
+        "middle_name": null,
+        "last_name": "Kegan",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0956-312754",
+          "formatting": "0956-312754"
+        },
+        {
+          "type": "home",
+          "number": "0207-349 0414",
+          "formatting": "0207-349 0414 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-790 3346",
+          "formatting": "0207-790 3346 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "17 Redcliffe Place"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW10",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "030_keidan_amanda",
+      "name": {
+        "full_name": "Keidan, Amanda",
+        "prefix": null,
+        "first_name": "Amanda",
+        "middle_name": null,
+        "last_name": "Keidan",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "212 922 2003",
+          "formatting": "212 922 2003"
+        },
+        {
+          "type": "portable",
+          "number": "212 922 5537",
+          "formatting": "212 922 5537"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "750 Third Avenue, 6th floor"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 100017",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Amanda Keidan Jewelry"
+    },
+    {
+      "entry_id": "030_keidan_jon",
+      "name": {
+        "full_name": "Keidan, Jon",
+        "prefix": null,
+        "first_name": "Jon",
+        "middle_name": null,
+        "last_name": "Keidan",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 210 0066",
+          "formatting": "212 210 0066"
+        },
+        {
+          "type": "portable",
+          "number": "917 626 5880",
+          "formatting": "917 626 5880 (NYC mobile)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "jon@keidanmgmt.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "030_keller_georgie",
+      "name": {
+        "full_name": "Keller Georgie",
+        "prefix": null,
+        "first_name": "Georgie",
+        "middle_name": null,
+        "last_name": "Keller",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 760 324 0046",
+          "formatting": "001 760 324 0046 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "07712 421842",
+          "formatting": "07712 421842"
+        },
+        {
+          "type": "home",
+          "number": "0171-589 6929",
+          "formatting": "0171-589 6929"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "030_kellet_fraysse_caroline",
+      "name": {
+        "full_name": "Kellett Fraysse, Caroline",
+        "prefix": null,
+        "first_name": "Caroline",
+        "middle_name": null,
+        "last_name": "Kellet Fraysse",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-795 0323",
+          "formatting": "0207-795 0323 (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "07958 401436",
+          "formatting": "07958 401436"
+        }
+      ],
+      "emails": [
+        {
+          "address": "kellettfraysse@btinternet",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "56 Christchurch St"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW3 4AR",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Jeanmarc Fraysse"
+    },
+    {
+      "entry_id": "030_kelmenson_leo-arthur_&_gayl",
+      "name": {
+        "full_name": "Kelmenson, Leo-Arthur",
+        "prefix": null,
+        "first_name": "Leo-Arthur & Gayl",
+        "middle_name": null,
+        "last_name": "Kelmenson",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Gayl"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "10010-5201",
+          "formatting": "10010-5201"
+        },
+        {
+          "type": "unknown",
+          "number": "212 988 7273",
+          "formatting": "212 988 7273"
+        },
+        {
+          "type": "work",
+          "number": "212 727-5279",
+          "formatting": "212 727-5279"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "40 West 23rd St"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Buzell, Jacobs, Neyann & Eckh"
+    },
+    {
+      "entry_id": "030_kennedy_cuomo_andrew_&_kerry",
+      "name": {
+        "full_name": "Kennedy Cuomo, Andrew",
+        "prefix": null,
+        "first_name": "Andrew & Kerry",
+        "middle_name": null,
+        "last_name": "Kennedy Cuomo",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Kerry"
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 202 333 1880",
+          "formatting": "001 202 333 1880 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "1344 Kirby Road"
+          ],
+          "city": "McLean",
+          "state": null,
+          "postal_code": "VA 22101",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "030_kennedy_ted_jr.",
+      "name": {
+        "full_name": "Kennedy Jr, Ted",
+        "prefix": null,
+        "first_name": "Ted Jr.",
+        "middle_name": null,
+        "last_name": "Kennedy",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 508 548 1400",
+          "formatting": "001 508 548 1400 (International)"
+        },
+        {
+          "type": "work",
+          "number": "ext 2216",
+          "formatting": "ext 2216"
+        },
+        {
+          "type": "home",
+          "number": "001 508 775 7177",
+          "formatting": "001 508 775 7177 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Box 447"
+          ],
+          "city": "Hyanannis Port",
+          "state": null,
+          "postal_code": "Mass 02647",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "030_kennedy_bobby_&_mary",
+      "name": {
+        "full_name": "Kennedy, Bobby",
+        "prefix": null,
+        "first_name": "Bobby & Mary",
+        "middle_name": null,
+        "last_name": "Kennedy",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Mary"
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "914 422 4343",
+          "formatting": "914 422 4343"
+        },
+        {
+          "type": "home",
+          "number": "914-241-2313",
+          "formatting": "914-241-2313"
+        }
+      ],
+      "emails": [
+        {
+          "address": "mpostman@law.pace.edu",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "326 S. Bedford Road"
+          ],
+          "city": "Mount Kisco",
+          "state": null,
+          "postal_code": "NY 10549",
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "030_kennedy_bobby_&_mary",
+      "name": {
+        "full_name": "Kennedy, Bobby",
+        "prefix": null,
+        "first_name": "Bobby & Mary",
+        "middle_name": null,
+        "last_name": "Kennedy",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Mary"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "914 422 4437 (wf)",
+          "formatting": "914 422 4437 (wf)"
+        },
+        {
+          "type": "unknown",
+          "number": "914 241 4616 (hf)",
+          "formatting": "914 241 4616 (hf)"
+        },
+        {
+          "type": "unknown",
+          "number": "914 804 0058 (Rp)",
+          "formatting": "914 804 0058 (Rp)"
+        },
+        {
+          "type": "unknown",
+          "number": "914 715 2004 (Mp)",
+          "formatting": "914 715 2004 (Mp)"
+        },
+        {
+          "type": "portable",
+          "number": "917 885 4411 (Emergency Contact Kerry Cuomo)",
+          "formatting": "917 885 4411 (Emergency Contact Kerry Cuomo) (NYC mobile)"
+        },
+        {
+          "type": "home",
+          "number": "914 234 3275",
+          "formatting": "914 234 3275"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "78 North Broadway"
+          ],
+          "city": "White Plains",
+          "state": null,
+          "postal_code": "NY 10603",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Pace Environmental Litigalion Clinic"
+    },
+    {
+      "entry_id": "030_kennedy_ethel",
+      "name": {
+        "full_name": "Kennedy, Ethel",
+        "prefix": null,
+        "first_name": "Ethel",
+        "middle_name": null,
+        "last_name": "Kennedy",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 305 865 4875",
+          "formatting": "001 305 865 4875 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "1147 Chainbridge Road"
+          ],
+          "city": "Mclean",
+          "state": null,
+          "postal_code": "VA 22101",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Hickory Hill"
+    },
+    {
+      "entry_id": "030_kennedy_jo",
+      "name": {
+        "full_name": "Kennedy, Jo",
+        "prefix": null,
+        "first_name": "Jo",
+        "middle_name": null,
+        "last_name": "Kennedy",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 202 225 5111",
+          "formatting": "001 202 225 5111 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "73 Bigelow St"
+          ],
+          "city": "Brighton",
+          "state": null,
+          "postal_code": "Mass 02135",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "030_kennedy_senator_edward",
+      "name": {
+        "full_name": "Kennedy, Senator Edward",
+        "prefix": null,
+        "first_name": "Senator Edward",
+        "middle_name": null,
+        "last_name": "Kennedy",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 703-524-0733",
+          "formatting": "001 703-524-0733 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "636 Chainbridge Road"
+          ],
+          "city": "McLean",
+          "state": null,
+          "postal_code": "VA 22101",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "030_kersner_sol",
+      "name": {
+        "full_name": "Kersner, Sol",
+        "prefix": null,
+        "first_name": "Sol",
+        "middle_name": null,
+        "last_name": "Kersner",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "011 27 21 790 1109",
+          "formatting": "011 27 21 790 1109 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "011 27 1465 73000",
+          "formatting": "011 27 1465 73000 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "809 363 3000/3916",
+          "formatting": "809 363 3000/3916"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "030_khayat_antoine_&_jana_&_george",
+      "name": {
+        "full_name": "Khayat, Antoine, Jana",
+        "prefix": null,
+        "first_name": "Antoine & Jana & George",
+        "middle_name": null,
+        "last_name": "Khayat",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "George"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-731 6170",
+          "formatting": "0207-731 6170 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "47 Perrymead Street"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW6 3SN",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "030_kidd_jemma",
+      "name": {
+        "full_name": "Kidd Jemma",
+        "prefix": null,
+        "first_name": "Jemma",
+        "middle_name": null,
+        "last_name": "Kidd",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 646 638 3178",
+          "formatting": "001 646 638 3178 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 646 229 2502",
+          "formatting": "001 646 229 2502 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "030_king_abby",
+      "name": {
+        "full_name": "King, Abby",
+        "prefix": null,
+        "first_name": "Abby",
+        "middle_name": null,
+        "last_name": "King",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "020 7642 9813",
+          "formatting": "020 7642 9813"
+        },
+        {
+          "type": "portable",
+          "number": "07944 57 4202",
+          "formatting": "07944 57 4202"
+        }
+      ],
+      "emails": [
+        {
+          "address": "abyrufflesking@hotmail.co",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "10 Smeaton Road"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW18 5JH",
+          "country": "UK",
+          "notes": "Eaton Square/Place elite"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "030_king_abby",
+      "name": {
+        "full_name": "King, Abby",
+        "prefix": null,
+        "first_name": "Abby",
+        "middle_name": null,
+        "last_name": "King",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207 734 5522 (hf)",
+          "formatting": "0207 734 5522 (hf) (UK London)"
+        },
+        {
+          "type": "work",
+          "number": "020 7734 6565",
+          "formatting": "020 7734 6565"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Berrimais, Nr Bisley, Gloucestgershir"
+          ],
+          "city": "Middle Lypiatt",
+          "state": null,
+          "postal_code": "GL6 7LN",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 20,
+    "entries_with_emails": 4,
+    "entries_with_addresses": 14,
+    "entries_with_handwritten_notes": 0,
+    "couples": 5,
+    "average_confidence": "high",
+    "notable_figures_count": 0
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Katzenellenbogen, Mark",
+      "Kelling, Sarah",
+      "Kegan, Rory",
+      "Keidan, Amanda",
+      "Keidan, Jon",
+      "Keller Georgie",
+      "Kellett Fraysse, Caroline",
+      "Kelmenson, Leo-Arthur",
+      "Gayl",
+      "Kennedy Cuomo, Andrew",
+      "Kerry",
+      "Kennedy Jr, Ted",
+      "Kennedy, Bobby",
+      "Mary",
+      "Kennedy, Bobby",
+      "Mary",
+      "Kennedy, Ethel",
+      "Kennedy, Jo",
+      "Kennedy, Senator Edward",
+      "Kersner, Sol",
+      "Khayat, Antoine, Jana",
+      "George",
+      "Kidd Jemma",
+      "King, Abby",
+      "King, Abby"
+    ],
+    "organizations": [],
+    "locations": {
+      "international": [
+        "UK"
+      ],
+      "us_cities": [
+        "Middle Lypiatt",
+        "London",
+        "Mount Kisco",
+        "McLean",
+        "Brighton",
+        "Mclean",
+        "New York",
+        "Hyanannis Port",
+        "White Plains"
+      ],
+      "elite_addresses": [
+        "10 Smeaton Road"
+      ]
+    }
+  },
+  "insights": [
+    "Geographic cluster: London (4 entries)"
+  ]
+}

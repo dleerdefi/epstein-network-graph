@@ -1,0 +1,157 @@
+{
+  "page_number": 29,
+  "type": "handwritten_letter_seymour_final",
+  "content": {
+    "text": "I was sent to Becomsbury [?] until Oct. 12 1945. I made many friends in the Army. My duties in the Army was KB I finally the made me a 1st class gunner [unclear] got my Best Friend was John Ferris. And also I met my SGT. Fred Roeck. I enjoyed my stay in Okinawa very much. When I was discharged from Ft. Monmouth New Jersey I was sent home a empty house. My Mother Had a nervous breakdown - Sidney [redacted] - dead at the [?] over felt me their near - All were in NURSING HOME AUSTRALIA Queens. When I arrived there I saw hell. My mother was [?] asked her daughter how she was he told me not too good. They HAD TO GIVE HER SHOCK TREATMENT if - every 2 DAYS - When I saw her again [crossed out text] she seemed better. She stayed there for about 14 days. They sent her home on one off - finally she passed away Sept 16 - 1960 - in a Hospital in HAMPSTEAD L.I.",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "I was sent to Becomsbury [?] bayonet\n36 mo until Oct. 12 1945 - I made many\nFriends in the Army -\nMy duties in THE ARMY was KB\nI finally they made me a 1st CLASS\nGUNNER making 90.00 MY Best\nFriend was John FERRIS - And also I\nMET My SGT. FRED Roeck -\nI enjoyed my stay in Okinawa very much\nWhen I was discharged from FT. Monmouth\nNew Jersey I was sent home -\na empty House. My Mother Had a NERVOUS\nBREAKDOWN - Sidney SOFIA - dead at the [?]\nOwn Felt me their near was -\nAll were in NURSING HOME - ASTORIA Queens -\nWhen I arrived there I saw hell. My mother\nwas - I then asked her daughter how she was\nhe Told me not too good - They HAD TO GIVE\nHER SHOCK TREATMENT if - every 2 DAYS -\nWhen I saw her again [crossed out: this Probably when]\nShe seemed better. She Stayed there -\nfor about 14 days. They sent her Home -\non and off - finally she passed away\nSept 16 - 1960 - in a Hospital in HAMPSTEAD\nL.I.\n\nHOUSE_OVERSIGHT_000029",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "John Ferris",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          29
+        ]
+      },
+      {
+        "name": "Fred Roeck",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          29
+        ]
+      },
+      {
+        "name": "Sidney",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          29
+        ]
+      }
+    ],
+    "organizations": [
+      "Army",
+      "Ft. Monmouth"
+    ],
+    "locations": [
+      "Becomsbury",
+      "Okinawa",
+      "Fort Monmouth New Jersey",
+      "Australia Queens",
+      "Hampstead L.I."
+    ],
+    "dates": [
+      "Oct. 12 1945",
+      "Sept 16 - 1960"
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Seymour Epstein (father)",
+    "recipient": "Jeff (Jeffrey Epstein)",
+    "date": "2003",
+    "subject": "Military service and mother's illness",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "handwritten_letter_continued"
+  },
+  "relationships": [
+    "John Ferris - best friend in Army",
+    "Sgt. Fred Roeck - military superior",
+    "Mother suffered nervous breakdown"
+  ],
+  "insights": [
+    "Discharged October 12, 1945 - end of WWII",
+    "Made 1st Class Gunner earning $90.00",
+    "Best friend in Army: John Ferris",
+    "Sergeant: Fred Roeck",
+    "'enjoyed my stay in Okinawa very much' - Pacific theater",
+    "Discharged from Fort Monmouth, New Jersey",
+    "Returned to 'empty House' - family dispersed",
+    "Mother had NERVOUS BREAKDOWN while he was at war",
+    "'Sidney SOFIA - dead' - unclear family member deceased",
+    "Mother in nursing home - Astoria, Queens",
+    "'When I arrived there I saw hell' - shocking conditions",
+    "Mother receiving SHOCK TREATMENT every 2 days",
+    "Electroconvulsive therapy - 1940s-50s psychiatric treatment",
+    "Mother died September 16, 1960 in Hampstead, Long Island",
+    "Seymour's mother (Jeffrey's grandmother) mental health crisis",
+    "War trauma compounded by family tragedy",
+    "14 days in facility, then in and out of care"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000029",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.133305",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": [
+      "Text after 'Sidney' is redacted",
+      "Some text crossed out"
+    ]
+  },
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": true,
+    "high_priority": false,
+    "quality_score": 85,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "October 12, 1945 discharge date verifiable",
+    "Okinawa service - major WWII battle April-June 1945",
+    "Mother's death Sept 16, 1960 - verifiable record",
+    "Shock treatment documentation of 1940s-50s psychiatry",
+    "'Sidney SOFIA' - unclear if redaction or confusion"
+  ],
+  "investigative_leads": [
+    "Verify military service records October 1945",
+    "Research Astoria Queens nursing homes 1940s",
+    "Death certificate for grandmother Sept 16, 1960",
+    "Identify Sidney/Sofia family member",
+    "Research Hampstead Hospital Long Island"
+  ]
+}

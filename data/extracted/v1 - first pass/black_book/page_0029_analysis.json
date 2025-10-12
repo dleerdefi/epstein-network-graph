@@ -1,0 +1,721 @@
+{
+  "page_number": 29,
+  "alphabetical_section": "J-K",
+  "contacts": [
+    {
+      "name": "Jagger, Hatti",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Tivoli Cottage Rd / 12 Rowan Road",
+          "street": "12 Rowan Road",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London W4 5HU",
+          "postal_code": "W4 5HU",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 352 9086[5] SW17/20",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "144 [illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "FX (George L. Kenshelwood.ca",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "(UK) 020[XX]",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 352 9[0]",
+          "area_code": "0207",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Related to Mick Jagger",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Jake",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "917 54 089 407 604",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "First name only",
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Jamesl, Mohammed",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "London 1 Kings Arms / 00 207 278 2985 1981",
+          "city": "London",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 207 278 2985 1981",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "Tele [illegible]@aol.com",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "James, Susie",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "117 Broadway",
+          "street": "117 Broadway",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0203 240 66 [illegible]",
+          "area_code": "0203",
+          "geographic_indicator": "London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0203 240 56[0]8",
+          "area_code": "0203",
+          "geographic_indicator": "London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0204 492 1204 523[second]cell",
+          "area_code": "0204",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Janklow, Linda",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1 Cross Manor Street / Los Angeles 90049",
+          "city": "Los Angeles",
+          "postal_code": "90049",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York: Mort: New York 10023",
+          "postal_code": "10023",
+          "geographic_indicator": "NYC Upper West Side",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 879 0927",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 876 0921",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Mort Janklow connection - literary agent",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Jarecki, Nancy & Andrew",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "12 [illegible]waingrove Road / 250 XXX Church St and [illegible]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 966 4040 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 966 3222 (o)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Email: aj@[illegible].com",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "917 842 0002 c",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 39 06 3290 L",
+          "country_code": "39",
+          "area_code": "06",
+          "geographic_indicator": "Rome, Italy",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "(Nancy) 917 6845099 00 39 06",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 39 06 48XX",
+          "country_code": "39",
+          "area_code": "06",
+          "geographic_indicator": "Rome, Italy",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "212 X Morrow",
+          "area_code": "212",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Couple entry, Jarecki family",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Jarecki, Nick",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "203 Fifth Avenue / New York, NY 10010",
+          "street": "203 Fifth Avenue",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10010",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "917 913 860 0400[7]",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "212 677 5520 [illegible]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "01 917 860 1036 cell",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Jarecki family",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Jason (canada)",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 514 298 3900",
+          "area_code": "514",
+          "geographic_indicator": "Montreal, Quebec",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 514 317 8 (cell)",
+          "area_code": "514",
+          "geographic_indicator": "Montreal, Quebec",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Canadian contact",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Javier",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 646 334 0178",
+          "area_code": "646",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "Email: javier@[illegible].com"
+      ],
+      "notes": "First name only",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Jeffries, Tim",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "74 Campden Gardens / London SW",
+          "street": "74 Campden Gardens",
+          "city": "London",
+          "postal_code": "SW",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "1 826 331 10 Best",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 287 2126 (o)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 491 8164 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "010 44 20 7602 2117",
+          "country_code": "44",
+          "area_code": "20",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Johnson Richard & Nadine",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "29 [illegible] Park",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 581 90774",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 576 91064",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "210 600 600 cell(n)x",
+          "area_code": "210",
+          "geographic_indicator": "San Antonio, Texas",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Johnson, Lucy",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "6 Chelsea Street / London SW7",
+          "street": "6 Chelsea Street",
+          "city": "London",
+          "postal_code": "SW7",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 351 1511 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 978 7058 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Jones Ann & Nick",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 799 1424(h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Josephson, Barry & Jackie",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "[illegible]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Bev Hills, CA 90028",
+          "city": "Beverly Hills",
+          "state": "CA",
+          "postal_code": "90028",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 365 7197 (0-w)",
+          "area_code": "310",
+          "geographic_indicator": "West LA/Beverly Hills",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry, Beverly Hills",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "310 699 0898 (0-f)",
+      "phones": [
+        {
+          "type": "fax",
+          "number": "310 699 0898 (0-f)",
+          "area_code": "310",
+          "geographic_indicator": "West LA/Beverly Hills",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "barryj@[illegible]power.com"
+      ],
+      "notes": "Name not visible, continuation of previous entry",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Name missing"]
+      }
+    },
+    {
+      "name": "[Entry with multiple phones]",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "818 [illegible] Firm Los[illegal]",
+          "area_code": "818",
+          "geographic_indicator": "San Fernando Valley, LA",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "310 659 6991 [Bar]",
+          "area_code": "310",
+          "geographic_indicator": "West LA",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 659 9998 [h]",
+          "area_code": "310",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 659 [illegible] (fax)",
+          "area_code": "310",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "310 502 0053 [power]",
+          "area_code": "310",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 502 7883 (h)",
+          "area_code": "310",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Barry Email",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "312 356 4000 call Julie 020 2004",
+          "area_code": "312",
+          "geographic_indicator": "Chicago",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Name not visible, multiple LA numbers",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Name missing"]
+      }
+    },
+    {
+      "name": "Karella, Kalliope",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "4 Pelham Place / London S.W.7",
+          "street": "4 Pelham Place",
+          "city": "London",
+          "postal_code": "SW7",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 917 855 6448 (w)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 935 0585 (o)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Kastner, Ron",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "0207 270 7343",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 270 7343",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0155 [illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "01317 56[illegible]. 001",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "01344 [illegible]",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Katz, Anton & Robin Hunt",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "520 W 23",
+          "street": "520 W 23",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 XXX 61",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Phone number mostly illegible"]
+      }
+    },
+    {
+      "name": "NYXX",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "New York, NY 10021",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "notes": "Name unclear",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Name unclear"]
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 20,
+    "quality": "poor",
+    "legibility": "heavily obscured",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "Linda & Mort Janklow - Literary agent power couple",
+      "Tim Jeffries - Art dealer/socialite",
+      "Jarecki family - Finance/film family"
+    ]
+  },
+  "insights": [
+    "Transition from J to K section of alphabetical listing",
+    "Janklow family - major literary agents (Mort Janklow)",
+    "Jarecki family multiple entries (finance/documentary film)",
+    "Montreal, Canada connection (514 area code)",
+    "Rome, Italy connections in Jarecki entries",
+    "Strong Beverly Hills/LA presence (310, 818 area codes)",
+    "Chicago connection (312 area code)",
+    "San Antonio, Texas connection (210 area code)",
+    "Multiple entries missing names or with first names only",
+    "Page quality very poor with heavy illegibility"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "medium",
+    "total_contacts": 20,
+    "high_confidence": 8,
+    "medium_confidence": 9,
+    "low_confidence": 3,
+    "extraction_issues": [
+      "Two entries missing names entirely",
+      "Several first-name-only entries",
+      "Many phone numbers partially illegible",
+      "Poor page quality throughout"
+    ]
+  }
+}

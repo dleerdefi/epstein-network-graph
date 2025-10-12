@@ -1,0 +1,688 @@
+{
+  "page_number": 56,
+  "section": "V-W",
+  "entries": [
+    {
+      "name": "Vittorelli, Dott. Marco",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Via Cosima 1 Bar",
+          "street": "Via Cosima 1 Bar",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 39 86 384(M)",
+          "area_code": "39",
+          "geographic_indicator": "Italy",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "00 39 0521 874 443",
+          "area_code": "39",
+          "geographic_indicator": "Parma, Italy",
+          "confidence": "high"
+        },
+        {
+          "type": "tel",
+          "number": "00 39 88 340515 (H Tel)",
+          "area_code": "39",
+          "geographic_indicator": "Italy",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 39 67 [illegible]",
+          "area_code": "39",
+          "geographic_indicator": "Italy",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Dott. Marco Vittorelli - Italy",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One phone number partially illegible"]
+      }
+    },
+    {
+      "name": "Vittos Martins",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "30 bis 1 vieux chateau",
+          "street": "30 bis 1 vieux chateau",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 33 1 3969 7060(H)",
+          "area_code": "33",
+          "geographic_indicator": "Paris, France",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 33 1 3888 8840(O)",
+          "area_code": "33",
+          "geographic_indicator": "Paris, France",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Martins Vittos - France",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Vittoz, Patrick",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "10 York House",
+          "street": "10 York House",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Kensington",
+          "location": "Kensington",
+          "city": "London",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Chadwick BOV 8PO",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "01 71 431 831(H)",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "01 48 93 8399 (O) F/[illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0836 [illegible] (M)",
+          "area_code": "0836",
+          "geographic_indicator": "UK mobile (old)",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Patrick Vittoz - Kensington",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Multiple phone numbers unclear or illegible"]
+      }
+    },
+    {
+      "name": "Vittoz, Vonnie",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "80 St Clement Street",
+          "street": "80 St Clement Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "00 33 33 1768 0074(H)",
+          "area_code": "33",
+          "geographic_indicator": "France",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 33 33 178 68 (F)",
+          "area_code": "33",
+          "geographic_indicator": "France",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Vonnie Vittoz",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Vivian Smith, Charles",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "40 Eaton Mews North",
+          "street": "40 Eaton Mews North",
+          "city": "London",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Chelsea: 0107 235 7200 [illegible]",
+          "area_code": "0107",
+          "geographic_indicator": "London",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "Work: Ashley Gardens",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 235 7290 Parents",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Charles Vivian Smith - Eaton Mews North",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Some phone details unclear"]
+      }
+    },
+    {
+      "name": "Von Halsseburg, Francesco",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Paris 75116",
+          "city": "Paris",
+          "postal_code": "75116",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Email: francesco[illegible]@nyc.com",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Francesco Von Halsseburg - Paris",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Email partially illegible"]
+      }
+    },
+    {
+      "name": "Von Hase, Bettina",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "22 Green Park House",
+          "street": "22 Green Park House",
+          "city": "London",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Email: 107 pall Green",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 493 0035",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 00 317 350 [illegible]@aol.co.uk",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "07766 210 318 (p)",
+          "area_code": "07766",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Bettina Von Hase - Green Park House",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Email format unclear", "Some contact details illegible"]
+      }
+    },
+    {
+      "name": "Waehsberg, Eric",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "266 East 66th St. W 8D",
+          "street": "266 East 66th St. W 8D",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "New York, NY 10021",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "Tel. 212 452 000 [illegible]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "61 33 0200 210[illegible]@aol.com",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "212 988 9003",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "011 43 143 200048 (a)",
+          "area_code": "43",
+          "geographic_indicator": "Austria",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Eric Waehsberg - East 66th Street, Austria connection",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Multiple phone numbers partially illegible"]
+      }
+    },
+    {
+      "name": "Wagner David",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 768 7143",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "David Wagner",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Warner, Ozzie",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 345 945 5134 (H)",
+          "area_code": "345",
+          "geographic_indicator": "Cayman Islands",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Ozzie Warner - Cayman Islands",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Wainright, Rupert",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 213 876 1323 (H)",
+          "area_code": "213",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "office",
+          "number": "001 310 566 2988 (off)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Rupert Wainright - Los Angeles",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Warnford-Davis, Ms Wendy",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Notting Hill Gate",
+          "location": "Notting Hill Gate",
+          "city": "London",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 313 0308 (H)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Ms Wendy Warnford-Davis - Notting Hill Gate",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Waksal, Sam",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "180 Thompson Street",
+          "street": "180 Thompson Street",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 877 3600 (H)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "office",
+          "number": "001 212 644 4015 O",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Sam Waksal - Thompson Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Wasserman, Casey & Laura",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "132 Bentwood Drive",
+          "street": "132 Bentwood Drive",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Belair LA 90077",
+          "postal_code": "90077",
+          "confidence": "low"
+        },
+        {
+          "type": "home",
+          "number": "310 474 5847 (H)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 785 7970 (O)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Casey & Laura Wasserman - Bel Air",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Wallace, Mike",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Vinyard",
+          "location": "Vinyard",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "508 845 2800 (Home on vineyard)",
+          "area_code": "508",
+          "geographic_indicator": "Massachusetts (Martha's Vineyard)",
+          "confidence": "high"
+        },
+        {
+          "type": "office",
+          "number": "001 212 397 4747 o",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 845 373 (Home [illegible] co",
+          "area_code": "845",
+          "geographic_indicator": "Hudson Valley NY",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Mike Wallace - Martha's Vineyard",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One phone partially illegible"]
+      }
+    },
+    {
+      "name": "Walters, Barbara",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "944 Fifth Avenue",
+          "street": "944 Fifth Avenue",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York NY 10021",
+          "postal_code": "10021",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 [illegible]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Barbara Walters - 944 Fifth Avenue",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Phone number incomplete"]
+      }
+    },
+    {
+      "name": "Wassong David",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Swippl Avenue[illegible] Apartment",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 860 496 3888 (off)",
+          "area_code": "860",
+          "geographic_indicator": "Connecticut",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "NY 10021",
+          "postal_code": "10021",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 535 071442(h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 339 6348",
+          "area_code": "516",
+          "geographic_indicator": "Long Island NY",
+          "confidence": "high"
+        }
+      ],
+      "notes": "David Wassong - Connecticut office",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Address partially illegible", "Some phone details unclear"]
+      }
+    },
+    {
+      "name": "Ward, Kevin",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 355 6347 (O)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 203 966 6144 (H)",
+          "area_code": "203",
+          "geographic_indicator": "Connecticut",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Kevin Ward - NYC office, Connecticut home",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "[Name unclear]",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 516 922 3838 (O)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 388 1008 (H)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 388 3707 Mrs. Lisa Wassong",
+          "area_code": "516",
+          "geographic_indicator": "Long Island NY",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Mrs. Lisa Wassong reference",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Primary name unclear"]
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 19,
+    "illegible_entries": 1,
+    "partial_entries": 8,
+    "cross_references": ["Vittoz family entries", "Wassong/Wasserman entries"],
+    "notable_individuals": [
+      "Mike Wallace - Journalist, Martha's Vineyard",
+      "Barbara Walters - Journalist, 944 Fifth Avenue",
+      "Sam Waksal - ImClone CEO",
+      "Casey Wasserman - Sports executive, Bel Air"
+    ],
+    "geographic_distribution": {
+      "uk": 5,
+      "usa": 8,
+      "italy": 1,
+      "france": 3,
+      "austria": 1,
+      "cayman_islands": 1
+    },
+    "location_highlights": [
+      "944 Fifth Avenue - Barbara Walters",
+      "Martha's Vineyard - Mike Wallace",
+      "Bel Air - Wasserman residence",
+      "Eaton Mews North - prime London",
+      "Green Park House London",
+      "Cayman Islands connection",
+      "Paris 75116 - exclusive arrondissement"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 11,
+      "medium_confidence": 6,
+      "low_confidence": 2,
+      "specific_issues": [
+        "Multiple phone numbers illegible",
+        "Several email addresses unclear",
+        "Some address details incomplete",
+        "One entry name unclear"
+      ]
+    }
+  }
+}

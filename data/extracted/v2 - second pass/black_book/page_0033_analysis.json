@@ -1,0 +1,816 @@
+{
+  "page_number": 33,
+  "alphabetical_section": "L",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "033_lindemann_adam_elizabeth",
+      "name": {
+        "full_name": "Lindemann, Adam & Elizabeth",
+        "prefix": null,
+        "first_name": "Adam",
+        "middle_name": null,
+        "last_name": "Lindemann",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Elizabeth"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 795 1814 (hOA)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "212 794 7449 (h)",
+          "formatting": "NYC direct dial"
+        },
+        {
+          "type": "mobile",
+          "number": "001 917 734 5640 (w)",
+          "formatting": "International to US - NYC mobile"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [
+        "001 914 234 6951 (m)",
+        "001 914 234 6981 (m)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Art collector and dealer, son of billionaire George Lindemann"
+    },
+    {
+      "entry_id": "033_lindemann_george_freida",
+      "name": {
+        "full_name": "Lindemann, George (Sr.) & Freida",
+        "prefix": null,
+        "first_name": "George",
+        "middle_name": null,
+        "last_name": "Lindemann",
+        "suffix": "Sr.",
+        "couple": true,
+        "partner_name": "Freida"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "561 655 0545",
+          "formatting": "Palm Beach area direct dial"
+        },
+        {
+          "type": "work",
+          "number": "001 561 655 6547(m2)",
+          "formatting": "International to US - Palm Beach"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "George Lindemann - billionaire businessman, Palm Beach based"
+    },
+    {
+      "entry_id": "033_lindsay_alex_jaclyn",
+      "name": {
+        "full_name": "Lindsay, Alex & Jaclyn",
+        "prefix": null,
+        "first_name": "Alex",
+        "middle_name": null,
+        "last_name": "Lindsay",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Jaclyn"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 431 2333 (h)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "0207 409 7979 (w)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Primrose Hill Studios",
+            "Fitzroy Rd",
+            "London NW1"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "NW1",
+          "country": "UK",
+          "notes": "Primrose Hill - affluent North London neighborhood"
+        }
+      ],
+      "handwritten_notes": [
+        "07770 363 7393",
+        "0207 584 8421"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Primrose Hill residence - fashionable London area"
+    },
+    {
+      "entry_id": "033_lindsey_ludovic",
+      "name": {
+        "full_name": "Lindsey, Ludovic",
+        "prefix": null,
+        "first_name": "Ludovic",
+        "middle_name": null,
+        "last_name": "Lindsey",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "mobile",
+          "number": "0797 996 991",
+          "formatting": "UK mobile"
+        },
+        {
+          "type": "home",
+          "number": "0207 352 1394 (h)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [
+        "0310 143 2010 (w) Agnewts us"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Agnew's gallery connection"
+    },
+    {
+      "entry_id": "033_lindsiey_blake",
+      "name": {
+        "full_name": "Lindsiey, Blake",
+        "prefix": null,
+        "first_name": "Blake",
+        "middle_name": null,
+        "last_name": "Lindsiey",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0208 960 6304 (home)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "0207 389 2325 (w)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "mobile",
+          "number": "001 310 472 3020",
+          "formatting": "International to US - Los Angeles"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK and LA contacts"
+    },
+    {
+      "entry_id": "033_linley_david",
+      "name": {
+        "full_name": "Linley, David",
+        "prefix": null,
+        "first_name": "David",
+        "middle_name": null,
+        "last_name": "Linley",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-730 7300(w)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "David Armstrong-Jones, 2nd Earl of Snowdon (known as David Linley) - British furniture designer, nephew of Queen Elizabeth II"
+    },
+    {
+      "entry_id": "033_liogos_babis",
+      "name": {
+        "full_name": "Liogos, Babis",
+        "prefix": null,
+        "first_name": "Babis",
+        "middle_name": null,
+        "last_name": "Liogos",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "00 1 212 605 3635 (w)",
+          "formatting": "International to US - NYC"
+        },
+        {
+          "type": "home",
+          "number": "00 30 1 894 2535(h)",
+          "formatting": "International - Greece, Athens"
+        },
+        {
+          "type": "mobile",
+          "number": "00 30 32 686 2000",
+          "formatting": "International - Greece"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC and Athens contact"
+    },
+    {
+      "entry_id": "033_lister_paul",
+      "name": {
+        "full_name": "Lister, Paul",
+        "prefix": null,
+        "first_name": "Paul",
+        "middle_name": null,
+        "last_name": "Lister",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 431 0287 (h)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "0207 287 1010 (w)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "033_livanos_arriette",
+      "name": {
+        "full_name": "Livanos, Arriette",
+        "prefix": null,
+        "first_name": "Arriette",
+        "middle_name": null,
+        "last_name": "Livanos",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 355 0804",
+          "formatting": "International to US - NYC"
+        },
+        {
+          "type": "work",
+          "number": "001 212 355 6952 (w)",
+          "formatting": "International to US - NYC"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Livanos shipping family - prominent Greek shipping dynasty"
+    },
+    {
+      "entry_id": "033_locascio_robert",
+      "name": {
+        "full_name": "Lo Cascio, Robert",
+        "prefix": null,
+        "first_name": "Robert",
+        "middle_name": null,
+        "last_name": "Lo Cascio",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "212 431 8235",
+          "formatting": "NYC direct dial"
+        }
+      ],
+      "emails": [
+        {
+          "address": "robert@liveperson.com",
+          "type": "work",
+          "notes": "CEO of Live Wire"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "462 W. End Ave, #13A",
+            "New York",
+            "10024"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10024",
+          "country": "USA",
+          "notes": "Upper West Side address"
+        }
+      ],
+      "handwritten_notes": [
+        "212 609 4300 x",
+        "917 903 7151"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Robert LoCascio - founder and CEO of Live Wire, tech entrepreneur"
+    },
+    {
+      "entry_id": "033_loeb_alex",
+      "name": {
+        "full_name": "Loeb, Alex",
+        "prefix": null,
+        "first_name": "Alex",
+        "middle_name": null,
+        "last_name": "Loeb",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 861 1617",
+          "formatting": "International to US - NYC"
+        },
+        {
+          "type": "work",
+          "number": "001 212 239 6076 (h)",
+          "formatting": "International to US - NYC"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "033_lonsdale_richard",
+      "name": {
+        "full_name": "Lonsdale, Richard",
+        "prefix": null,
+        "first_name": "Richard",
+        "middle_name": null,
+        "last_name": "Lonsdale",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 838 0180",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [
+        {
+          "address": "rlh@rlh.com",
+          "type": "work",
+          "notes": "Business email"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [
+        "0207 838 0181"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "033_lorenzoli_evavivre",
+      "name": {
+        "full_name": "Lorenzoli, Eva Vivre",
+        "prefix": null,
+        "first_name": "Eva Vivre",
+        "middle_name": null,
+        "last_name": "Lorenzoli",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 917 940 5288",
+          "formatting": "International to US - NYC mobile"
+        },
+        {
+          "type": "work",
+          "number": "001 011 39 335 5621(w)",
+          "formatting": "International - Italy mobile"
+        },
+        {
+          "type": "work",
+          "number": "001 011 39 02 7600 2060",
+          "formatting": "International - Italy, Milan (02 prefix)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC and Milan contact with Italian business numbers"
+    },
+    {
+      "entry_id": "033_lorimer_john_lottie",
+      "name": {
+        "full_name": "Lorimer, John & Lottie",
+        "prefix": null,
+        "first_name": "John",
+        "middle_name": null,
+        "last_name": "Lorimer",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Lottie"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 225 3343",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "0207 355 1151 (w)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [
+        {
+          "address": "lottelorimer@hotmail.com",
+          "type": "personal",
+          "notes": "Hotmail personal email"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [
+        "07802 401 803 (m)",
+        "0207 24 235 3303 (h)",
+        "001 011 44 7747 774 724",
+        "001 011 39 339 734 0690"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK contact with UK and Italy mobile numbers"
+    },
+    {
+      "entry_id": "033_loyd_mark",
+      "name": {
+        "full_name": "Loyd, Mark",
+        "prefix": null,
+        "first_name": "Mark",
+        "middle_name": null,
+        "last_name": "Loyd",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "212 606 3340 15 Fl floor",
+          "formatting": "NYC direct dial"
+        },
+        {
+          "type": "work",
+          "number": "001 212 644 7373(w)",
+          "formatting": "International to US - NYC"
+        },
+        {
+          "type": "mobile",
+          "number": "001 212 451 1160(m)",
+          "formatting": "International to US - NYC"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "033_lucas_colin",
+      "name": {
+        "full_name": "Lucas, Colin",
+        "prefix": null,
+        "first_name": "Colin",
+        "middle_name": null,
+        "last_name": "Lucas",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 727 9821",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "033_love_courtney",
+      "name": {
+        "full_name": "Love, Courtney",
+        "prefix": null,
+        "first_name": "Courtney",
+        "middle_name": null,
+        "last_name": "Love",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 310 271 8630 (h)",
+          "formatting": "International to US - Los Angeles"
+        },
+        {
+          "type": "mobile",
+          "number": "001 310 770 8005 (m/Timo)",
+          "formatting": "International to US - LA mobile"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "9460 Wilshire Beverly Hills"
+          ],
+          "city": "Beverly Hills",
+          "state": "CA",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Beverly Hills address"
+        }
+      ],
+      "handwritten_notes": [
+        "001 310 476 1030 (h) home",
+        "001 310 274 6608 (h) house"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Courtney Love - musician, actress, widow of Kurt Cobain, lead singer of Hole"
+    },
+    {
+      "entry_id": "033_mack_carol_earl",
+      "name": {
+        "full_name": "Mack, Carol & Earl",
+        "prefix": null,
+        "first_name": "Carol",
+        "middle_name": null,
+        "last_name": "Mack",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Earl"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 772 0917",
+          "formatting": "International to US - NYC"
+        },
+        {
+          "type": "work",
+          "number": "001 845 223 3141 (Garrison)",
+          "formatting": "International to US - Hudson Valley NY"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "40 West 67th St",
+            "28 Auditors Place"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Upper West Side address"
+        }
+      ],
+      "handwritten_notes": [
+        "845 424 3815",
+        "212 580 0920 Home",
+        "212 724 7051 Earl Home",
+        "212 772 0917 Home"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC with Hudson Valley residence (Garrison area)"
+    },
+    {
+      "entry_id": "033_louthan_guy",
+      "name": {
+        "full_name": "Louthan, Guy J.",
+        "prefix": null,
+        "first_name": "Guy",
+        "middle_name": "J.",
+        "last_name": "Louthan",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "212 421 3244 (h)",
+          "formatting": "NYC direct dial"
+        },
+        {
+          "type": "work",
+          "number": "212 753 5841 (w)",
+          "formatting": "NYC direct dial"
+        }
+      ],
+      "emails": [
+        {
+          "address": "highlandfilms@earthlink.net",
+          "type": "work",
+          "notes": "Highland Films email"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Highland Films contact"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 19,
+    "entries_with_emails": 5,
+    "entries_with_addresses": 5,
+    "entries_with_handwritten_notes": 7,
+    "couples": 6,
+    "average_confidence": "high",
+    "notable_figures_count": 5
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Adam Lindemann",
+      "Elizabeth Lindemann",
+      "George Lindemann",
+      "Freida Lindemann",
+      "Alex Lindsay",
+      "Jaclyn Lindsay",
+      "Ludovic Lindsay",
+      "Blake Lindsay",
+      "David Linley",
+      "Babis Lisgos",
+      "Paul Lister",
+      "Arlette Livanos",
+      "Robert Lo Cascio",
+      "Alex Loeb",
+      "Richard Lonsdale",
+      "Eva Vivre Lorenzoli",
+      "John Lorimer",
+      "Lottie Lorimer",
+      "Mark Loyd",
+      "Colin Lucas",
+      "Courtney Love",
+      "Carol Mack",
+      "Earl Mack",
+      "Guy J. Louthan"
+    ],
+    "organizations": [
+      "LivePerson (tech company)",
+      "Sotheby's (auction house)",
+      "Agnew's (art gallery)"
+    ],
+    "locations": {
+      "international": [
+        "London, UK (multiple contacts)",
+        "Athens, Greece",
+        "Milan, Italy",
+        "Paris, France"
+      ],
+      "us_cities": [
+        "New York City (multiple contacts)",
+        "Los Angeles/Beverly Hills (multiple contacts)",
+        "Palm Beach, Florida",
+        "Garrison, NY (Hudson Valley)"
+      ],
+      "elite_addresses": [
+        "Primrose Hill, London",
+        "Beverly Hills, CA",
+        "Upper West Side NYC (West 67th St, West End Ave)",
+        "Palm Beach, FL"
+      ]
+    }
+  },
+  "insights": [
+    "British royalty: David Linley (David Armstrong-Jones, 2nd Earl of Snowdon) - furniture designer, nephew of Queen Elizabeth II",
+    "Entertainment: Courtney Love - musician, actress, widow of Kurt Cobain, lead singer of Hole",
+    "Tech entrepreneur: Robert LoCascio - founder and CEO of LivePerson",
+    "Billionaire family: George Lindemann - billionaire businessman, and son Adam Lindemann (art collector/dealer)",
+    "Greek shipping dynasty: Arlette Livanos - member of prominent Greek shipping family",
+    "Auction house connections: Guy J. Louthan at Sotheby's, Ludovic Lindsay at Agnew's gallery",
+    "International business elite: Multiple contacts spanning UK, US, Greece, Italy",
+    "Geographic concentration: Palm Beach (Lindemann family), NYC Upper East/West Side, London exclusive neighborhoods",
+    "Art world connections: Adam Lindemann (contemporary art collector), Ludovic Lindsay (Agnew's), Guy Louthan (Sotheby's)",
+    "Multi-residence pattern: Several contacts with NYC + London, NYC + Hudson Valley, LA + Beverly Hills combinations"
+  ]
+}

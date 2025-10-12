@@ -1,0 +1,751 @@
+{
+  "page_number": 2,
+  "alphabetical_section": "A",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "002_alun-jones_carella",
+      "name": {
+        "full_name": "Alun-Jones, Carella",
+        "prefix": null,
+        "first_name": "Carella",
+        "middle_name": null,
+        "last_name": "Alun-Jones",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0372 58158 (c)",
+          "formatting": "0372 58158 (c)"
+        },
+        {
+          "type": "home",
+          "number": "0207-235 7500",
+          "formatting": "0207-235 7500 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "34 Eaton Place"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW1 0QY",
+          "country": "UK",
+          "notes": "Eaton Square/Place elite"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "002_alun-jones_jeremy_&_deborah",
+      "name": {
+        "full_name": "Alun-Jones, Jeremy",
+        "prefix": null,
+        "first_name": "Jeremy & Deborah",
+        "middle_name": null,
+        "last_name": "Alun-Jones",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Deborah"
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207 878 3381",
+          "formatting": "0207 878 3381 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0124 357 2102",
+          "formatting": "0124 357 2102"
+        }
+      ],
+      "emails": [
+        {
+          "address": "daj@old-park.co.uk",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Old Park, Fishbourne"
+          ],
+          "city": "West Sussex",
+          "state": null,
+          "postal_code": "PO18 8AP",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "002_alun-jones_jeremy_&_deborah",
+      "name": {
+        "full_name": "Alun-Jones, Jeremy",
+        "prefix": null,
+        "first_name": "Jeremy & Deborah",
+        "middle_name": null,
+        "last_name": "Alun-Jones",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0777 412 1212 (Dp)",
+          "formatting": "0777 412 1212 (Dp)"
+        },
+        {
+          "type": "unknown",
+          "number": "0207 930 4237 (wf)",
+          "formatting": "0207 930 4237 (wf) (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "21 St. James Square"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW1Y 4JP",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "002_alvarez_vincente",
+      "name": {
+        "full_name": "Alvarez, Senor Vincente",
+        "prefix": null,
+        "first_name": "Vincente",
+        "middle_name": null,
+        "last_name": "Alvarez",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 34 1 563 8466 (f)",
+          "formatting": "00 34 1 563 8466 (f) (International)"
+        },
+        {
+          "type": "work",
+          "number": "011 34 915 903490",
+          "formatting": "011 34 915 903490 (International)"
+        },
+        {
+          "type": "home",
+          "number": "0034 1 276 8697",
+          "formatting": "0034 1 276 8697 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "002_amon_philippe",
+      "name": {
+        "full_name": "Amon, Mr. Philippe",
+        "prefix": null,
+        "first_name": "Philippe",
+        "middle_name": null,
+        "last_name": "Amon",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "41 21 681 5555",
+          "formatting": "41 21 681 5555"
+        },
+        {
+          "type": "home",
+          "number": "00 41 21 821 2222",
+          "formatting": "00 41 21 821 2222 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "philippe.amon@sicpa.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Domaine de Bougy"
+          ],
+          "city": "Aubonne",
+          "state": null,
+          "postal_code": "1170",
+          "country": "Switzerland",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "002_amon_philippe",
+      "name": {
+        "full_name": "Amon, Mr. Philippe",
+        "prefix": null,
+        "first_name": "Philippe",
+        "middle_name": null,
+        "last_name": "Amon",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0041 21 821 2200 (hf)",
+          "formatting": "0041 21 821 2200 (hf) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "41 21 627 5925 (wf)",
+          "formatting": "41 21 627 5925 (wf)"
+        },
+        {
+          "type": "unknown",
+          "number": "0207-235-7769/9169 (2nd home phone & fax)",
+          "formatting": "0207-235-7769/9169 (2nd home phone & fax) (UK London)"
+        },
+        {
+          "type": "work",
+          "number": "0041 21 627 5920",
+          "formatting": "0041 21 627 5920 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "0041 792103175",
+          "formatting": "0041 792103175 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "25 Eaton Square (2nd home)|Flat D"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW1",
+          "country": "UK",
+          "notes": "Eaton Square/Place elite"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "002_amon_roberta_&_maurice",
+      "name": {
+        "full_name": "Amon, Roberta",
+        "prefix": null,
+        "first_name": "Roberta & Maurice",
+        "middle_name": null,
+        "last_name": "Amon",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Maurice"
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 319 2020",
+          "formatting": "001 212 319 2020 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 535 9877",
+          "formatting": "001 212 535 9877 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "4 East 72 Street"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "002_anastos_lisa",
+      "name": {
+        "full_name": "Anastos, Lisa",
+        "prefix": null,
+        "first_name": "Lisa",
+        "middle_name": null,
+        "last_name": "Anastos",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 446 4900 (wf)",
+          "formatting": "001 212 446 4900 (wf) (International)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 446 4761",
+          "formatting": "001 212 446 4761 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 737 1722",
+          "formatting": "001 212 737 1722 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 923 4513",
+          "formatting": "001 917 923 4513 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "200 E 72nd"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "002_anderson_lulu",
+      "name": {
+        "full_name": "Anderson, Lulu",
+        "prefix": null,
+        "first_name": "Lulu",
+        "middle_name": null,
+        "last_name": "Anderson",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-937 7730",
+          "formatting": "0207-937 7730 (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "0976 287 202",
+          "formatting": "0976 287 202"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "002_appleby_robert_&_alex",
+      "name": {
+        "full_name": "Appleby, Robert",
+        "prefix": null,
+        "first_name": "Robert & Alex",
+        "middle_name": null,
+        "last_name": "Appleby",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Alex"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-498 3400",
+          "formatting": "0207-498 3400 (UK London)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "RA@Asia.debt.com|alex@rockgecko.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "16 Grafton Square"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW4",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "002_appleby_alex",
+      "name": {
+        "full_name": "Appleby, Alex",
+        "prefix": null,
+        "first_name": "Alex",
+        "middle_name": null,
+        "last_name": "Appleby",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 852 2817 4281 (hf)",
+          "formatting": "00 852 2817 4281 (hf) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 852 2147 2813 (wf)",
+          "formatting": "00 852 2147 2813 (wf) (International)"
+        },
+        {
+          "type": "home",
+          "number": "00 852 2817 4181",
+          "formatting": "00 852 2817 4181 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "00 852 9104 2651",
+          "formatting": "00 852 9104 2651 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "RA@Asia.debt.com|alex@rockgecko.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "House 7, 3 Consort Rise, Pok Fu Lam"
+          ],
+          "city": "Hong Kong",
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "002_appleby_robert",
+      "name": {
+        "full_name": "Appleby, Robert",
+        "prefix": null,
+        "first_name": "Robert",
+        "middle_name": null,
+        "last_name": "Appleby",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 852 2817 4281 (hf)",
+          "formatting": "00 852 2817 4281 (hf) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 852 2147 2813 (wf)",
+          "formatting": "00 852 2147 2813 (wf) (International)"
+        },
+        {
+          "type": "work",
+          "number": "00 852 2536 4567",
+          "formatting": "00 852 2536 4567 (International)"
+        },
+        {
+          "type": "home",
+          "number": "00 852 2817 4181",
+          "formatting": "00 852 2817 4181 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "00 852 9104 2615",
+          "formatting": "00 852 9104 2615 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "RA@Asia.debt.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "House 7, 3 Consort Rise, Pok Fu Lam"
+          ],
+          "city": "Hong Kong",
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "002_arango_maite",
+      "name": {
+        "full_name": "Arango, Maite",
+        "prefix": null,
+        "first_name": "Maite",
+        "middle_name": null,
+        "last_name": "Arango",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "011 34 91 590 6710",
+          "formatting": "011 34 91 590 6710 (International)"
+        },
+        {
+          "type": "home",
+          "number": "011 34 91 420 3776",
+          "formatting": "011 34 91 420 3776 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "00 34 63 913 6063",
+          "formatting": "00 34 63 913 6063 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "marango@mail.vips.es",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Espaller #10, 9C"
+          ],
+          "city": "Madrid",
+          "state": null,
+          "postal_code": "28014",
+          "country": "Spain",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 13,
+    "entries_with_emails": 6,
+    "entries_with_addresses": 11,
+    "entries_with_handwritten_notes": 0,
+    "couples": 3,
+    "average_confidence": "high",
+    "notable_figures_count": 0
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Alun-Jones, Carella",
+      "Alun-Jones, Jeremy",
+      "Deborah",
+      "Alun-Jones, Jeremy",
+      "Alvarez, Senor Vincente",
+      "Amon, Mr. Philippe",
+      "Amon, Mr. Philippe",
+      "Amon, Roberta",
+      "Maurice",
+      "Anastos, Lisa",
+      "Anderson, Lulu",
+      "Appleby, Robert",
+      "Alex",
+      "Appleby, Alex",
+      "Appleby, Robert",
+      "Arango, Maite"
+    ],
+    "organizations": [],
+    "locations": {
+      "international": [
+        "UK",
+        "Spain",
+        "Switzerland"
+      ],
+      "us_cities": [
+        "West Sussex",
+        "London",
+        "Madrid",
+        "New York",
+        "Hong Kong",
+        "Aubonne"
+      ],
+      "elite_addresses": [
+        "34 Eaton Place",
+        "25 Eaton Square (2nd home)|Flat D"
+      ]
+    }
+  },
+  "insights": [
+    "Geographic cluster: London (4 entries)"
+  ]
+}

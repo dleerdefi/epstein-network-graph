@@ -1,0 +1,292 @@
+{
+  "page_number": 75,
+  "date_header": "JULY 2000",
+  "time_period": "June 2000 - August 2000",
+  "aircraft": {
+    "registration": "Multiple (G-1159B N908JE, St. Mulhouse)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "30",
+      "date": "06/30/2000",
+      "departure": "G-1159B",
+      "arrival": "N908JE",
+      "flight_time": "1356",
+      "remarks": "PBI - TIST - REDACTED",
+      "passengers": ["REDACTED"],
+      "crew": "1/6 2/8"
+    },
+    {
+      "entry_number": "30",
+      "date": "06/30/2000",
+      "departure": "",
+      "arrival": "TIST",
+      "flight_time": "1357",
+      "remarks": "PBI - JG, GM, ET, AP, SANEE PEDALE",
+      "passengers": ["JG", "GM", "ET", "AP", "SANEE PEDALE"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "JULY 3",
+      "date": "07/03/2000",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1358",
+      "remarks": "TEB - NAOMI LEWIS",
+      "passengers": ["NAOMI LEWIS"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "5",
+      "date": "07/05/2000",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1359",
+      "remarks": "LPKB - JG, GM",
+      "passengers": ["JG", "GM"],
+      "crew": "6/9"
+    },
+    {
+      "entry_number": "6",
+      "date": "07/06/2000",
+      "departure": "",
+      "arrival": "LPKB",
+      "flight_time": "1360",
+      "remarks": "LEEO - JG, GM",
+      "passengers": ["JG", "GM"],
+      "crew": "2/2"
+    },
+    {
+      "entry_number": "9",
+      "date": "07/09/2000",
+      "departure": "",
+      "arrival": "LEEO",
+      "flight_time": "1361",
+      "remarks": "GMMAX - JG, GM",
+      "passengers": ["JG", "GM"],
+      "crew": "2/9"
+    },
+    {
+      "entry_number": "11",
+      "date": "07/11/2000",
+      "departure": "",
+      "arrival": "GMMAX",
+      "flight_time": "1362",
+      "remarks": "GAFF - JG, GM",
+      "passengers": ["JG", "GM"],
+      "crew": "9"
+    },
+    {
+      "entry_number": "11",
+      "date": "07/11/2000",
+      "departure": "",
+      "arrival": "GAFF",
+      "flight_time": "1363",
+      "remarks": "LCPB - JG",
+      "passengers": ["JG"],
+      "crew": "1/9"
+    },
+    {
+      "entry_number": "11",
+      "date": "07/11/2000",
+      "departure": "",
+      "arrival": "LCPB",
+      "flight_time": "1364",
+      "remarks": "EGGW - JG, GM",
+      "passengers": ["JG", "GM"],
+      "crew": "1/7"
+    },
+    {
+      "entry_number": "12",
+      "date": "07/12/2000",
+      "departure": "",
+      "arrival": "EGGW",
+      "flight_time": "1365",
+      "remarks": "EGAA - JG, GM",
+      "passengers": ["JG", "GM"],
+      "crew": "1/2"
+    },
+    {
+      "entry_number": "12",
+      "date": "07/12/2000",
+      "departure": "",
+      "arrival": "EGAA",
+      "flight_time": "1366",
+      "remarks": "BGF - JG, GM",
+      "passengers": ["JG", "GM"],
+      "crew": "6/4"
+    },
+    {
+      "entry_number": "12",
+      "date": "07/12/2000",
+      "departure": "",
+      "arrival": "BGF",
+      "flight_time": "1367",
+      "remarks": "TEB - JG, GM",
+      "passengers": ["JG", "GM"],
+      "crew": "1/1"
+    },
+    {
+      "entry_number": "14",
+      "date": "07/14/2000",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1368",
+      "remarks": "PBI - JG, S KELLEY, LEWIS",
+      "passengers": ["JG", "S KELLEY", "LEWIS"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "19",
+      "date": "07/19/2000",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1369",
+      "remarks": "TEB - JG, S KELLEY, LEWIS, CHEF ADAM",
+      "passengers": ["JG", "S KELLEY", "LEWIS", "CHEF ADAM"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "19",
+      "date": "07/19/2000",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1370",
+      "remarks": "SAF - JG, GM, ET, AV, SOPHIE, RYAN, MAX",
+      "passengers": ["JG", "GM", "ET", "AV", "SOPHIE", "RYAN", "MAX"],
+      "crew": "4/1"
+    },
+    {
+      "entry_number": "22",
+      "date": "07/22/2000",
+      "departure": "St.Mulhouse",
+      "arrival": "STK",
+      "flight_time": "",
+      "remarks": "JCK - JG, NATALIE, YOUNG, 4 ADULTS, SAW FLOWERS, VIP",
+      "passengers": ["JG", "NATALIE", "YOUNG", "4 ADULTS", "SAW FLOWERS", "VIP"],
+      "crew": "3/5"
+    },
+    {
+      "entry_number": "3",
+      "date": "08/03/2000",
+      "departure": "",
+      "arrival": "JCK",
+      "flight_time": "",
+      "remarks": "TEB - STK - CAROLINA, ANGELA, EDGEWATER, SANDRA, 137 BH CHARLES, EDWARD, CALVIN, LT ALAN DRECK, CHRISTINE, CAROLYN, LT BRIAN DRECK, SHELLY, AY",
+      "passengers": ["CAROLINA", "ANGELA", "EDGEWATER", "SANDRA", "137 BH", "CHARLES", "EDWARD", "CALVIN", "LT ALAN DRECK", "CHRISTINE", "CAROLYN", "LT BRIAN DRECK", "SHELLY", "AY"],
+      "crew": "4/0"
+    },
+    {
+      "entry_number": "4",
+      "date": "08/04/2000",
+      "departure": "",
+      "arrival": "STK-SWF-JCK",
+      "flight_time": "",
+      "remarks": "",
+      "passengers": [],
+      "crew": "4/1"
+    },
+    {
+      "entry_number": "21",
+      "date": "08/21/2000",
+      "departure": "N908JE",
+      "arrival": "PBI",
+      "flight_time": "1378",
+      "remarks": "SAC - JG, GM, GT, AY",
+      "passengers": ["JG", "GM", "GT", "AY"],
+      "crew": "2/5"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JG",
+      "GM",
+      "ET",
+      "GT",
+      "AP",
+      "AV",
+      "AY",
+      "SANEE PEDALE",
+      "NAOMI LEWIS",
+      "S KELLEY",
+      "LEWIS",
+      "CHEF ADAM",
+      "SOPHIE",
+      "RYAN",
+      "MAX",
+      "NATALIE",
+      "YOUNG",
+      "4 ADULTS",
+      "SAW FLOWERS",
+      "VIP",
+      "CAROLINA",
+      "ANGELA",
+      "EDGEWATER",
+      "SANDRA",
+      "137 BH",
+      "CHARLES",
+      "EDWARD",
+      "CALVIN",
+      "LT ALAN DRECK",
+      "CHRISTINE",
+      "CAROLYN",
+      "LT BRIAN DRECK",
+      "SHELLY",
+      "David Rodgers"
+    ],
+    "locations": [
+      "PBI",
+      "TIST",
+      "TEB",
+      "LPKB",
+      "LEEO",
+      "GMMAX",
+      "GAFF",
+      "LCPB",
+      "EGGW",
+      "EGAA",
+      "BGF",
+      "SAF",
+      "STK",
+      "JCK",
+      "SWF",
+      "SAC"
+    ],
+    "aircraft": [
+      "G-1159B",
+      "N908JE",
+      "St.Mulhouse"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "5/7/2",
+    "amount_forward": "17818",
+    "total_to_date": "18055",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page transitions from June 30, 2000 through July to August 2000",
+    "European tour in July (Morocco, Spain, Cyprus, UK, Ireland)",
+    "REDACTED appears in passenger list",
+    "International airport codes: LPKB (Morocco), LEEO (Spain), GMMAX (Morocco), LCPB (Cyprus), EGGW (London Luton), EGAA (Belfast)",
+    "S Kelley and Lewis continue as recurring passengers",
+    "Chef Adam appears as passenger",
+    "Military personnel mentioned (LT ALAN DRECK, LT BRIAN DRECK)",
+    "St. Mulhouse aircraft used for some flights",
+    "Flight numbers reach 1378",
+    "Mix of international and domestic operations"
+  ]
+}

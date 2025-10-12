@@ -1,0 +1,98 @@
+{
+  "page_number": 10,
+  "file_path": "data/birthday_book_images/page_0010.png",
+  "file_size_mb": 3.2951183319091797,
+  "type": "young_adult_photo_with_caption",
+  "content": {
+    "text": "As you were then",
+    "handwritten": true,
+    "typed": false,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "As you were then",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Photograph of Jeffrey Epstein as a young adult photograph with nostalgic caption 'As you were then'",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "young_adult_photo_with_caption"
+  },
+  "insights": [
+    "Photograph appears to be from late 1960s or early 1970s",
+    "Shows Jeffrey Epstein as a young adult male in casual setting",
+    "Caption 'As you were then' suggests nostalgic reflection",
+    "Black and white photography consistent with era",
+    "Personal moment captured for memory book",
+    "Represents transition from childhood to young adulthood"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000010",
+  "processed_at": "2025-09-23 03:42:00",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.125562",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Black and white photograph of Jeffrey Epstein as a young man in casual attire, appears to be from late 1960s or early 1970s based on hairstyle and clothing with nostalgic caption 'As you were then'",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": null,
+        "era_indicators": [],
+        "photo_quality": null,
+        "photo_type": null
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [],
+  "investigative_leads": []
+}

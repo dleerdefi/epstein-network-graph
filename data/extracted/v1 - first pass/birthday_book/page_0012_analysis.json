@@ -1,0 +1,137 @@
+{
+  "page_number": 12,
+  "type": "childhood_location_photos",
+  "content": {
+    "text": "Ya go from Brooklyn to....",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "Handwritten captions:\nYa go from\nBrooklyn\n\nto....\n\nVisible text on Wonder Wheel:\nWONDER\nWHEEL\n\nDocument ID:\nHOUSE_OVERSIGHT_000012",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [
+        "Ya go from Brooklyn (top left)",
+        "to.... (bottom right)"
+      ],
+      "margins": [],
+      "annotations": ["HOUSE_OVERSIGHT_000012"],
+      "handwritten_portions": [
+        "Ya go from Brooklyn",
+        "to...."
+      ]
+    }
+  },
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "Brooklyn",
+      "Coney Island",
+      "Parachute Jump",
+      "Wonder Wheel"
+    ],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": null,
+    "date": null,
+    "subject": "Brooklyn childhood landmarks",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "childhood_location_photos"
+  },
+  "relationships": [],
+  "insights": [
+    "'Ya go from Brooklyn' - colloquial Brooklyn accent/dialect",
+    "'to....' continues on next page - narrative structure",
+    "Parachute Jump - Coney Island's iconic 1939 World's Fair structure",
+    "Wonder Wheel - 1920 landmark ferris wheel still operating",
+    "Two most iconic Coney Island landmarks chosen deliberately",
+    "Working-class Brooklyn childhood environment established",
+    "Rags-to-riches narrative being constructed visually",
+    "Part of BROOKLYN section submitted by childhood friends",
+    "Photos show daytime visits to public amusement area",
+    "Boardwalk visible in Parachute Jump photo",
+    "Clear blue sky suggests idealized memory presentation",
+    "No people visible - landmarks presented as symbols",
+    "Establishes geographic origin before wealth transition",
+    "Brooklyn vernacular 'Ya go' instead of 'You go'",
+    "Ellipsis creates suspense for next page reveal"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000012",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.126473",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Coney Island Parachute Jump - 250-foot steel tower structure",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": "Coney Island boardwalk and beach",
+        "era_indicators": ["Modern color photo", "Well-maintained landmark"],
+        "photo_quality": "Professional color photograph",
+        "photo_type": "Landmark documentation"
+      },
+      {
+        "description": "Wonder Wheel with 'WONDER WHEEL' text on spokes",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": "Coney Island amusement park",
+        "era_indicators": ["Operating ferris wheel", "Color photograph"],
+        "photo_quality": "Clear color photograph",
+        "photo_type": "Landmark documentation"
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": true,
+    "high_priority": false,
+    "quality_score": 90,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Handwriting appears different from other pages - likely contributor",
+    "'Ya go' - authentic Brooklyn vernacular preserved",
+    "Photos are modern (color) not vintage - retrospective compilation",
+    "Narrative structure bridges to next page",
+    "No personal photos - symbolic representation only"
+  ],
+  "investigative_leads": [
+    "Identify who from Brooklyn section contributed this page",
+    "Determine what 'to....' refers to on next page",
+    "Research Epstein's specific Brooklyn neighborhood",
+    "Investigate childhood visits to Coney Island",
+    "Track progression from Brooklyn to Manhattan"
+  ]
+}

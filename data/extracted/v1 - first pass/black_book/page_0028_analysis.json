@@ -1,0 +1,701 @@
+{
+  "page_number": 28,
+  "alphabetical_section": "H-I-J",
+  "contacts": [
+    {
+      "name": "Hurst, Anne",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "631 537 0789",
+          "area_code": "631",
+          "geographic_indicator": "Suffolk County, NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "631 537 0789",
+          "area_code": "631",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Hurst, Robert J.",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Goldman, Sachs & Co. / 85 Broad Street",
+          "street": "85 Broad Street",
+          "company": "Goldman, Sachs & Co.",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "276 Park & 47 E / 212 357 3014",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 357 3014",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Home: 914[illegible]@aol.com",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "New York NY 100XX",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "Home: Mark Robert",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Goldman Sachs executive",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Hussain, Ayla",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "112 West 73",
+          "street": "112 West 73",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0203 794 0202",
+          "area_code": "0203",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "New York, NY 10012",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "212 243 1047 (o)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 243 1047 (o)",
+          "area_code": "212",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Yayla@[illegible].com",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Hussey Simon",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "37 Harrington Rd / London SW7 3ND",
+          "street": "37 Harrington Rd",
+          "city": "London",
+          "postal_code": "SW7 3ND",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 319 XX (w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 407 412800",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Hulley, Henry",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "69 Lancaster Gate Mansions / Lancaster Gate / London W2",
+          "street": "69 Lancaster Gate Mansions",
+          "city": "London",
+          "postal_code": "W2",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0289 3242 (h)",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "0207-727 8765 (h)",
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-727 8765 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Name not visible",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Name missing"]
+      }
+    },
+    {
+      "name": "Hulley, Luigi & Edward",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "91 Earl's Square, Earls Court",
+          "street": "91 Earl's Square",
+          "area": "Earls Court",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "[illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "Fluxy Square 020 24 5",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0795 355 7752 m3",
+          "area_code": "0795",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0795 355 775 m3",
+          "area_code": "0795",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0831 658 649 m",
+          "area_code": "0831",
+          "geographic_indicator": "UK mobile (old)",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0831 658 642(m)",
+          "area_code": "0831",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple/partners entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Hulley, Mr & Mrs",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "[illegible] Blenheim / 41 Bramley",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0435 783 31(7 h)",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Hutton, Lauren",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "423 Cinnamon Street",
+          "street": "423 Cinnamon Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 737 [illegible]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "619 2947 (w)",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Lauren Hutton - supermodel/actress",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Hymes Ivan",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 58 2 67232 1469",
+          "country_code": "58",
+          "area_code": "2",
+          "geographic_indicator": "Venezuela (Caracas)",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Ibos",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "4 Finchingley Park South / NW4 Park",
+          "postal_code": "NW4",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "(near end Avenue of Park Park)",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "020 8208 2914",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "212 673 6745 (p)",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 673 6745 (p)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 859 6700",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Name not visible",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Name missing"]
+      }
+    },
+    {
+      "name": "Ind, Charlie",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "London Mayfair Row",
+          "city": "London",
+          "area": "Mayfair",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 713 8383",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00393 [illegible]",
+          "country_code": "39",
+          "geographic_indicator": "Italy",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Inzerillo, Gerard J.",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "111 Fordham Avenue Rd / PO Box",
+          "street": "111 Fordham Avenue Rd",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York, NY 10016",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 764 00[5]",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 862 0046",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Long Distance [illegible] Mobile",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "5 ST Paris Avenue",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Sicilian surname",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Ireland, Beatric",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "H.T the Albany Piccadilly / London W1",
+          "location": "The Albany, Piccadilly",
+          "city": "London",
+          "postal_code": "W1",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 437 9734 (o)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 734 13[XX]h",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "The Albany - exclusive London residence",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Isamel Abdullah",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 66 624 3200 (o)",
+          "country_code": "66",
+          "geographic_indicator": "Thailand",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 66 624 3200 (o)",
+          "country_code": "66",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Isham, Chris",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 456 284[0m]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Jackson, Michael",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Applied Data Technology / ABC Holdings [illegible]",
+          "company": "Applied Data Technology",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 602 1000 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Asst: 0XX XXX94[2]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "1 212 XXX 6377 [DA]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        "compwrk@ing@aol.com"
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Jacobson, Julian",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207-589 2237 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Jagger Mick",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 2167500",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 217 1800[0]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Mick Jagger - Rolling Stones",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Irvine, Eddie",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0785 600 7060 (p)",
+          "area_code": "0785",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Eddie Irvine - Formula 1 driver",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "011 305 770 6009[0]",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "011 305 770 6009[0]",
+          "area_code": "305",
+          "geographic_indicator": "Miami, Florida",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "Email: jimmy@[illegible].com"
+      ],
+      "notes": "Name not visible",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Name missing"]
+      }
+    },
+    {
+      "name": "[Entry with multiple numbers]",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 326 4440[0]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "00 [illegible] 000[0]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 989 5588 Asst pilot",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 5888 Cell",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        "email: [illegible]"
+      ],
+      "notes": "Assistant pilot reference, name not visible",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Name missing"]
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 23,
+    "quality": "poor",
+    "legibility": "heavily obscured",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "Robert J. Hurst - Goldman Sachs executive",
+      "Lauren Hutton - Supermodel/actress",
+      "Mick Jagger - Rolling Stones frontman",
+      "Eddie Irvine - Formula 1 driver"
+    ]
+  },
+  "insights": [
+    "Transition from H to I to J sections",
+    "Mick Jagger of Rolling Stones present",
+    "Eddie Irvine Formula 1 driver",
+    "Lauren Hutton supermodel/actress",
+    "Goldman Sachs connection (Robert Hurst)",
+    "The Albany residence - exclusive London address",
+    "Venezuela connection (area code 58-2 Caracas)",
+    "Thailand connection (country code 66)",
+    "Several entries missing names (4 total)",
+    "Assistant pilot reference suggests aviation connections",
+    "Page quality very poor with many illegible entries"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "medium",
+    "total_contacts": 23,
+    "high_confidence": 10,
+    "medium_confidence": 9,
+    "low_confidence": 4,
+    "extraction_issues": [
+      "Four entries missing names entirely",
+      "Many phone numbers partially illegible",
+      "Page quality significantly degraded",
+      "Several email addresses illegible"
+    ]
+  }
+}

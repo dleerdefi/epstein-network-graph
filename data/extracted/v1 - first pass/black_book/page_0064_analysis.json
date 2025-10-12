@@ -1,0 +1,543 @@
+{
+  "page_number": 64,
+  "section": "Finance and France Contacts",
+  "entries": [
+    {
+      "name": "Colonial Bank",
+      "category": "Financial Institution",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "105 Worth Avenue",
+          "street": "105 Worth Avenue",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Palm Beach, FL 33480",
+          "city": "Palm Beach",
+          "state": "FL",
+          "postal_code": "33480",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 833 1311",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach, Florida",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Colonial Bank - Worth Avenue Palm Beach",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Nat West",
+      "category": "Financial Institution",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "100 Brompton Road Executive Dept",
+          "street": "100 Brompton Road",
+          "location": "Executive Dept",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0171 726 1077",
+          "area_code": "0171",
+          "geographic_indicator": "London (old code)",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0171 831 4741",
+          "area_code": "0171",
+          "geographic_indicator": "London (old code)",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Andrea Marshall",
+        "10000 3119139 nt account",
+        "Account 50-00-90 4031 OU1"
+      ],
+      "notes": "NatWest Bank - Brompton Road Executive Dept",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Natwest Bank",
+      "category": "Financial Institution",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "1999 320113",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "1999 320113 (3)",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "NatWest Bank additional entry",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone format unclear"]
+      }
+    },
+    {
+      "name": "PB National",
+      "category": "Financial Institution",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "15 Main Street",
+          "street": "15 Main Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Tel: 978-811-[illegible]",
+          "area_code": "978",
+          "geographic_indicator": "Massachusetts",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 391 843 8340",
+          "confidence": "high"
+        }
+      ],
+      "notes": "PB National - Main Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Phone partially illegible"]
+      }
+    },
+    {
+      "name": "FRANCE (FR)",
+      "category": "Section Header",
+      "entries": [],
+      "notes": "France section",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Aisle, Azzedine",
+      "category": "Personal",
+      "location": "France",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "7 rue de Moussy",
+          "street": "7 rue de Moussy",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "notes": "Azzedine Aisle - rue de Moussy",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Avia France Hertz",
+      "category": "Service",
+      "location": "France",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "306 34 [illegible]",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Avia France Hertz car rental",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Phone number illegible"]
+      }
+    },
+    {
+      "name": "ATT Acess",
+      "category": "Service",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0 800 99 0011",
+          "area_code": "0800",
+          "geographic_indicator": "Toll-free France",
+          "confidence": "high"
+        }
+      ],
+      "notes": "ATT Access service",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Bristol Hotel",
+      "category": "Hotel",
+      "location": "France",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "112 rue du Faubourg St Honore",
+          "street": "112 rue du Faubourg St Honore",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "011 33 153 43 4300",
+          "area_code": "33",
+          "geographic_indicator": "Paris, France",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "011 33 153431",
+          "area_code": "33",
+          "geographic_indicator": "Paris, France",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Claude Pierre [illegible]",
+        "011 38 16603412 [illegible] Room home",
+        "011 3016639042 Jeannine [illegible]"
+      ],
+      "notes": "Bristol Hotel - Faubourg St Honore Paris",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Some staff names illegible"]
+      }
+    },
+    {
+      "name": "Cab Blue",
+      "category": "Service",
+      "location": "France",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "6669 1010",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Cab Blue taxi service",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone incomplete"]
+      }
+    },
+    {
+      "name": "Cabaret (night club)",
+      "category": "Entertainment",
+      "location": "France",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "68 rue Pierre Charret",
+          "street": "68 rue Pierre Charret",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "notes": "Cabaret nightclub - rue Pierre Charret",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Car rental",
+      "category": "Service",
+      "location": "France",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "90 20 [illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "00 33 04 90 21 48 90",
+          "area_code": "33",
+          "geographic_indicator": "France",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Car rental service France",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["First phone incomplete"]
+      }
+    },
+    {
+      "name": "Chateau de la Messardiere",
+      "category": "Hotel",
+      "location": "France",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Restaurant",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "011 33 4949 676000",
+          "area_code": "33",
+          "geographic_indicator": "France",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Chateau de la Messardiere hotel/restaurant",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Chez Denise",
+      "category": "Restaurant",
+      "location": "France",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 33 1 4236 2182",
+          "area_code": "33",
+          "geographic_indicator": "Paris, France",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Chez Denise restaurant",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Chez L'Ami Louis",
+      "category": "Restaurant",
+      "location": "France",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "32, Rue de Vertbois",
+          "street": "32, Rue de Vertbois",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "01 48 87 77 48",
+          "area_code": "01",
+          "geographic_indicator": "Paris",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Lunch and Dinner"
+      ],
+      "notes": "Chez L'Ami Louis restaurant - Rue de Vertbois",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Epstein Jeffrey",
+      "category": "Personal",
+      "location": "France",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "31 Avenue Lodge",
+          "street": "31 Avenue Lodge",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "2eme - 75016 Paris",
+          "postal_code": "75016",
+          "city": "Paris",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "01 45 00 84 11",
+          "area_code": "01",
+          "geographic_indicator": "Paris",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Email: jfepstein@NYA[illegible]",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Jeffrey Epstein - Avenue Lodge Paris 75016",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Email domain partially illegible"]
+      }
+    },
+    {
+      "name": "Epstein Jeffrey (G)",
+      "category": "Personal",
+      "location": "France",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "29 Avenue Foch",
+          "street": "29 Avenue Foch",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Chez. Charlotte",
+          "contact": "Chez Charlotte",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "011 33 37 16 18 Ambassador Car",
+          "area_code": "33",
+          "geographic_indicator": "France",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "011 33 5 24 26 Jean Marc or",
+          "area_code": "33",
+          "geographic_indicator": "France",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01 508 48 476 Jean Marc or",
+          "confidence": "high"
+        }
+      ],
+      "additional_contacts": [
+        "Christophefleur@[illegible]",
+        "Jean Marc Chategofleur@Etc"
+      ],
+      "notes": "Jeffrey Epstein - Avenue Foch, Chez Charlotte",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Email domains partially illegible"]
+      }
+    },
+    {
+      "name": "Multiple French Contacts",
+      "category": "Various",
+      "location": "France",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "01 37 16 18 Ambassador CW",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01120 4 4320 Jean Marc or",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01 54 5 431 [illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "01 60 14 80 90 [illegible]",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "06 27 31 8243 [illegible]",
+          "area_code": "06",
+          "geographic_indicator": "France mobile",
+          "confidence": "medium"
+        }
+      ],
+      "additional_contacts": [
+        "William Castle",
+        "Malcolm's office",
+        "Madame [illegible]"
+      ],
+      "notes": "Various French contacts and services",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Multiple illegible entries"]
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 18,
+    "illegible_entries": 0,
+    "partial_entries": 6,
+    "sections": ["Finance", "France"],
+    "notable_entries": [
+      "Jeffrey Epstein - Paris addresses (Avenue Lodge 75016, Avenue Foch)",
+      "Colonial Bank - Worth Avenue Palm Beach",
+      "NatWest Bank - Brompton Road Executive",
+      "Bristol Hotel - Faubourg St Honore Paris",
+      "Chez L'Ami Louis restaurant",
+      "Chateau de la Messardiere"
+    ],
+    "geographic_distribution": {
+      "france": 12,
+      "usa": 3,
+      "uk": 3
+    },
+    "location_highlights": [
+      "Jeffrey Epstein Paris properties",
+      "Avenue Foch - ultra-luxury Paris address",
+      "75016 Paris - exclusive 16th arrondissement",
+      "Palm Beach Worth Avenue banking",
+      "London Brompton Road banking"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 12,
+      "medium_confidence": 4,
+      "low_confidence": 2,
+      "specific_issues": [
+        "Multiple phone numbers partially illegible",
+        "Email addresses incomplete",
+        "Some contact names illegible"
+      ]
+    }
+  }
+}

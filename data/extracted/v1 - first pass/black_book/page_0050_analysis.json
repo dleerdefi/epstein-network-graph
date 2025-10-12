@@ -1,0 +1,720 @@
+{
+  "page_number": 50,
+  "alphabetical_section": "S",
+  "contacts": [
+    {
+      "name": "Shuster Susie",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 877 8571(h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 677 8571(h)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Siegal, Peggy",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "125 East 65th St",
+          "street": "125 East 65th St",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "NYC",
+          "city": "NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 737 XXX[h]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "212 935 4009(w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 832 XXX[h]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        "[illegible]@peggysiegal.com"
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "917 671 Cellphone h",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "Phone 200[i]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "Cell 200 1833000",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "01 XXX 1001965",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Peggy Siegal - PR executive",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Siegel, William (Bill)",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "777 3th Ave, ste 42B A",
+          "street": "777 3th Ave",
+          "unit": "ste 42B A",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York, NY 10017",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10017",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 316 XXX[3]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        "[illegible]@channel5.com.er"
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "14th floor Penthouse Room (h)",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "New York",
+          "city": "New York",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 646 408 XX",
+          "area_code": "646",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "917 741 2488 (m)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Stephurt, William",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "20 Columbia Gardens",
+          "street": "20 Columbia Gardens",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW6",
+          "city": "London",
+          "postal_code": "SW6",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0208 994 5788 (h)",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Silver Ron",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 914 723 8XX",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 582 0546",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 829 8808(h)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 582 0609",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Silverman, Nancy & Henry",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "4 East [illegible] Street",
+          "street": "4 East [illegible] Street",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York, NY 10021",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 712 3969(both)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "addresses_additional": [
+        {
+          "type": "secondary",
+          "address": "25[illegible] California",
+          "state": "California",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "17505 Grand Ave St",
+          "street": "17505 Grand Ave St",
+          "confidence": "medium"
+        },
+        {
+          "type": "secondary",
+          "address": "310-472 1180",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "310-472 1195(h)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "310-472 8343",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "212 888 3543 Cali phone",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "914 967 344 (h)",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Simon, Bren",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "501-2 East 79 034",
+          "street": "501-2 East 79",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "NYC NY 10021",
+          "city": "NYC",
+          "state": "NY",
+          "postal_code": "10021",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "London",
+          "city": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "SW7",
+          "postal_code": "SW7",
+          "geographic_indicator": "South Kensington, London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0011 17 226 5555(h)",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 310 550 0666(h)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "Email: brenia31[illegible].com"
+      ],
+      "addresses_additional": [
+        {
+          "type": "secondary",
+          "address": "[illegible] Calls Flat Floor [h]",
+          "confidence": "low"
+        }
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "46200.",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Smith, James",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Cayla House",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "170 Bent 4002",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "P.O. Box 2050",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Hanover",
+          "city": "Hanover",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "[illegible] terrace, HXJX 8002 UK",
+          "postal_code": "HXJX 8002",
+          "country": "UK",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "British Properties[illegible] Garden",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 604 922 8246(h)",
+          "area_code": "604",
+          "geographic_indicator": "Vancouver, Canada",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "017 44 601 922 8246(h)",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Simpson (Caruth), Sophie",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Empire",
+          "confidence": "low"
+        }
+      ],
+      "emails": [
+        "[illegible]@[illegible]@beauallen"
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "0207 X2D (home)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Snyder, Maria",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "201 West End Apt Suite 4E",
+          "street": "201 West End",
+          "unit": "Apt Suite 4E",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "NYC 10023",
+          "city": "NYC",
+          "postal_code": "10023",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 874 8677 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Snell, Rena & Sami",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "919 Park Avenue, 10th Floor",
+          "street": "919 Park Avenue",
+          "floor": "10th Floor",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "NY 10028",
+          "state": "NY",
+          "postal_code": "10028",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "NYCity",
+          "city": "NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 535 3355",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Soames, Rupert & Milly",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "[illegible]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Surrey",
+          "county": "Surrey",
+          "confidence": "high"
+        }
+      ],
+      "addresses_additional": [
+        {
+          "type": "secondary",
+          "address": "The Westminster Upper",
+          "confidence": "medium"
+        },
+        {
+          "type": "secondary",
+          "address": "[illegible] Book at[illegible] Books",
+          "confidence": "low"
+        }
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "01 732 85 775(h)",
+          "area_code": "01732",
+          "geographic_indicator": "Sevenoaks, UK",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0208 647 5200(w)",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "[illegible]@[illegible]@tesco.co.uk"
+      ],
+      "notes": "Couple entry, Soames family",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Slayton Bobby",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 310 804 2015(h)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 818 985 5013(h)",
+          "area_code": "818",
+          "geographic_indicator": "Los Angeles/Valley",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Smith Osborne",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "51 Berkeley",
+          "street": "51 Berkeley",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London X 177",
+          "city": "London",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Smith Peterson, Noona",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "90 SW Place 502",
+          "street": "90 SW Place",
+          "unit": "502",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Bradford House",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "London W7",
+          "city": "London",
+          "postal_code": "W7",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 39 1 8060 4567 (Summer)",
+          "country_code": "39",
+          "area_code": "1",
+          "geographic_indicator": "Italy",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0208 438 7811(cell)",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0208 438 7864 (w)",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0208 438 7866 (fax)",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01631-467 457 (g)",
+          "area_code": "01631",
+          "geographic_indicator": "Oban, Scotland",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 15,
+    "quality": "poor",
+    "legibility": "heavily degraded",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "Peggy Siegal - PR executive",
+      "Soames family members"
+    ]
+  },
+  "insights": [
+    "Peggy Siegal - prominent NYC PR executive",
+    "Vancouver Canada connection (604)",
+    "Oban Scotland connection (01631)",
+    "Sevenoaks UK connection (01732)",
+    "Strong Los Angeles/Beverly Hills presence",
+    "Mix of NYC and London addresses",
+    "California properties in multiple entries",
+    "Surrey UK presence",
+    "Italy summer home references",
+    "Entertainment industry connections"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "medium",
+    "total_contacts": 15,
+    "high_confidence": 7,
+    "medium_confidence": 6,
+    "low_confidence": 2,
+    "extraction_issues": [
+      "Heavy page degradation",
+      "Multiple illegible addresses",
+      "Several incomplete phone numbers",
+      "Complex multi-location entries"
+    ]
+  }
+}

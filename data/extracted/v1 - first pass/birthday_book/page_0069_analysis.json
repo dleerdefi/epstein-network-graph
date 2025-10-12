@@ -1,0 +1,95 @@
+{
+  "page_number": 69,
+  "file_path": "data/birthday_book_images/page_0069.png",
+  "file_size_mb": 1.924025535583496,
+  "type": "medical_forms_with_handwriting",
+  "content": {
+    "text": "Medical or administrative forms with handwritten notes and signatures",
+    "handwritten": true,
+    "typed": true,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "Medical or administrative forms with handwritten notes and signatures",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Medical/administrative forms",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "medical_forms_with_handwriting"
+  },
+  "insights": [
+    "Contains medical or administrative forms",
+    "Mix of typed forms with handwritten additions",
+    "Multiple signatures and handwritten notes",
+    "Appears to be official documentation",
+    "DL NOTES ON 2025-09-28: THIS APPEARS TO BE SCHOOL REPORTS WITH HAND WRITTEN INPUTS LIKELY BY TEACHER. NOT MEDICAL. MUST BE REVISED."
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000069",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.153173",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [
+      {
+        "identified_as": "Multiple handwritten signatures visible",
+        "confidence": "medium",
+        "style": null,
+        "characteristics": [],
+        "location": null,
+        "matches_pages": []
+      }
+    ],
+    "logos": [],
+    "redactions": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [],
+  "investigative_leads": []
+}

@@ -1,0 +1,170 @@
+{
+  "page_number": 46,
+  "file_path": "data/birthday_book_images/page_0046.png",
+  "file_size_mb": 0.40589237213134766,
+  "type": "newspaper_clipping_page10",
+  "content": {
+    "text": "Page 10 of The Sea Gate Chronicle. Two main sections: 1) 'Ejected from Singles Weekend' by Henry Youngman (Catskills Courier) - story about Coney Island teens at Kutcher's Country Club singles weekend, causing disturbances, pool trouble, and eventual ejection. 2) 'CONEY ISLAND CLASSIFIEDS' section with multiple ads including: Nathan's Fries, Sam's Knishes, Dubrow's, Foofy's, Mary's Heroes, Lin's Gardens, Randazzo's, Atlantic Baking, Gitlers, Totona's Pizzeria, Major Meats, Orange Hoolins. Various humorous fake ads for restaurants and food establishments.",
+    "handwritten": false,
+    "typed": true,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "Page 10 of The Sea Gate Chronicle. Two main sections: 1) 'Ejected from Singles Weekend' by Henry Youngman (Catskills Courier) - story about Coney Island teens at Kutcher's Country Club singles weekend, causing disturbances, pool trouble, and eventual ejection. 2) 'CONEY ISLAND CLASSIFIEDS' section with multiple ads including: Nathan's Fries, Sam's Knishes, Dubrow's, Foofy's, Mary's Heroes, Lin's Gardens, Randazzo's, Atlantic Baking, Gitlers, Totona's Pizzeria, Major Meats, Orange Hoolins. Various humorous fake ads for restaurants and food establishments.",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Henry Youngman",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          46
+        ]
+      },
+      {
+        "name": "Sam",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          46
+        ]
+      },
+      {
+        "name": "Mary",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          46
+        ]
+      },
+      {
+        "name": "Lin",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          46
+        ]
+      },
+      {
+        "name": "Randazzo",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          46
+        ]
+      },
+      {
+        "name": "Gitlers",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          46
+        ]
+      }
+    ],
+    "organizations": [
+      "Catskills Courier",
+      "Kutcher's Country Club",
+      "Nathan's Fries",
+      "Sam's Knishes",
+      "Dubrow's",
+      "Foofy's",
+      "Mary's Heroes",
+      "Lin's Gardens",
+      "Randazzo's",
+      "Atlantic Baking",
+      "Gitlers",
+      "Totona's Pizzeria",
+      "Major Meats",
+      "Orange Hoolins"
+    ],
+    "locations": [
+      "Coney Island",
+      "Kutcher's Country Club",
+      "PIZZA/BURGER CIUT ERUITT",
+      "Mev. N. benders"
+    ],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "50th birthday commemoration - satirical newspaper page 10",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "newspaper_clipping_page10"
+  },
+  "insights": [
+    "References to singles weekend at Kutcher's Country Club in the Catskills",
+    "Multiple references to Coney Island food establishments",
+    "Satirical classified ads for local restaurants",
+    "Continues the humorous newspaper format",
+    "Black redaction bar visible at top of page"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000046",
+  "processed_at": "2025-09-23 03:22:00",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.141370",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": [
+      "Black bar at top of page"
+    ],
+    "layout": "Newspaper page 10 with article and classifieds section"
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [],
+  "investigative_leads": []
+}

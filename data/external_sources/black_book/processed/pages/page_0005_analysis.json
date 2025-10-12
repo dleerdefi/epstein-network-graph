@@ -1,0 +1,1112 @@
+{
+  "page_number": 5,
+  "alphabetical_section": "B/E",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "005_batstone_tim_natasha",
+      "name": {
+        "full_name": "Batstone, Tim Natasha",
+        "prefix": null,
+        "first_name": "Tim Natasha",
+        "middle_name": null,
+        "last_name": "Batstone",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "01492 876593",
+          "formatting": "01492 876593"
+        },
+        {
+          "type": "work",
+          "number": "0492 76593",
+          "formatting": "0492 76593"
+        },
+        {
+          "type": "home",
+          "number": "01492 580274",
+          "formatting": "01492 580274"
+        },
+        {
+          "type": "home",
+          "number": "0492 860584",
+          "formatting": "0492 860584"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_baumer_lorenzo",
+      "name": {
+        "full_name": "Baumer, Lorenzo",
+        "prefix": null,
+        "first_name": "Lorenzo",
+        "middle_name": null,
+        "last_name": "Baumer",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 33 1 4286 9933",
+          "formatting": "00 33 1 4286 9933 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 33 1 4286 9944 (f)",
+          "formatting": "00 33 1 4286 9944 (f) (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "www.lorenzbaumer.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_beaumont_lord_&_lady",
+      "name": {
+        "full_name": "Beaumont, Lord",
+        "prefix": null,
+        "first_name": "Lord & Lady",
+        "middle_name": null,
+        "last_name": "Beaumont",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Lady"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-498 8604",
+          "formatting": "0207-498 8604 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "40 Elms Road"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW4",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_beckwith_tamara",
+      "name": {
+        "full_name": "Beckwith, Tamara",
+        "prefix": null,
+        "first_name": "Tamara",
+        "middle_name": null,
+        "last_name": "Beckwith",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 323 864 4005",
+          "formatting": "001 323 864 4005 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_beizberg_lisa",
+      "name": {
+        "full_name": "Beizberg, Lisa",
+        "prefix": null,
+        "first_name": "Lisa",
+        "middle_name": null,
+        "last_name": "Beizberg",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 647 7777 (mw)",
+          "formatting": "001 212 647 7777 (mw) (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 517 5009",
+          "formatting": "001 212 517 5009 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "7 E. 67th Street"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_beizberg_lisa",
+      "name": {
+        "full_name": "Beizberg, Lisa",
+        "prefix": null,
+        "first_name": "Lisa",
+        "middle_name": null,
+        "last_name": "Beizberg",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 249 7742 (hf)",
+          "formatting": "212 249 7742 (hf)"
+        },
+        {
+          "type": "portable",
+          "number": "646 638 0565",
+          "formatting": "646 638 0565 (NYC mobile)"
+        },
+        {
+          "type": "home",
+          "number": "001 914 234 3087",
+          "formatting": "001 914 234 3087 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Pencil, 30 West 26th Street, 2nd Floor"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10010",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_eagan_erin",
+      "name": {
+        "full_name": "Beizberg, Lisa (Asst)",
+        "prefix": null,
+        "first_name": "Erin",
+        "middle_name": null,
+        "last_name": "Eagan",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Asst"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 249 6801",
+          "formatting": "212 249 6801"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_benson_steven",
+      "name": {
+        "full_name": "Benson, Steven",
+        "prefix": null,
+        "first_name": "Steven",
+        "middle_name": null,
+        "last_name": "Benson",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 715 7352",
+          "formatting": "001 212 715 7352 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 832 0091",
+          "formatting": "001 212 832 0091 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_bentinck_baron",
+      "name": {
+        "full_name": "Bentinck, Baron",
+        "prefix": null,
+        "first_name": "Baron",
+        "middle_name": null,
+        "last_name": "Bentinck",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "01 440730396 (o)",
+          "formatting": "01 440730396 (o)"
+        },
+        {
+          "type": "home",
+          "number": "01440 730073",
+          "formatting": "01440 730073"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 734 4663",
+          "formatting": "001 917 734 4663 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "00 468 864 224",
+          "formatting": "00 468 864 224 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "Steven_Bentlinck@msn.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Moyns Park, Birdbrook near Halstead"
+          ],
+          "city": "Essex",
+          "state": null,
+          "postal_code": "C094BP",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_berggruen_nicolas",
+      "name": {
+        "full_name": "Berggruen, Nicolas",
+        "prefix": null,
+        "first_name": "Nicolas",
+        "middle_name": null,
+        "last_name": "Berggruen",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 421-0169 (f)",
+          "formatting": "001 212 421-0169 (f) (International)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 421-0110",
+          "formatting": "001 212 421-0110 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "nicolasb@alphamgmt.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "110 East 59th Street, 33rd Floor"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10022",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_berggruen_nicolas",
+      "name": {
+        "full_name": "Berggruen, Nicolas",
+        "prefix": null,
+        "first_name": "Nicolas",
+        "middle_name": null,
+        "last_name": "Berggruen",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "646 824 0111 (Emergency Contact)",
+          "formatting": "646 824 0111 (Emergency Contact) (NYC mobile)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 702 0611",
+          "formatting": "001 212 702 0611 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212-838-8000",
+          "formatting": "001 212-838-8000 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 786 553 7277",
+          "formatting": "001 786 553 7277 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Pierre Hotel, 795 Fifth Avenue, Suite 3104"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NYC 10021",
+          "country": "US",
+          "notes": "Fifth Avenue luxury"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Alpha Investment Managment"
+    },
+    {
+      "entry_id": "005_berkman_bill",
+      "name": {
+        "full_name": "Berkman, Bill",
+        "prefix": null,
+        "first_name": "Bill",
+        "middle_name": null,
+        "last_name": "Berkman",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 301 2800 (o)",
+          "formatting": "212 301 2800 (o)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 301 2811 (f)",
+          "formatting": "212 301 2811 (f)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "650 Madison Avenue, 25th Floor"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10022",
+          "country": "US",
+          "notes": "Madison Avenue prestige"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "The Associated Group"
+    },
+    {
+      "entry_id": "005_berkman_bill",
+      "name": {
+        "full_name": "Berkman, Bill",
+        "prefix": null,
+        "first_name": "Bill",
+        "middle_name": null,
+        "last_name": "Berkman",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 917 520 8910",
+          "formatting": "001 917 520 8910 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 625 0066",
+          "formatting": "001 212 625 0066 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "158 Mercer St"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "10012",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_bernard_tara",
+      "name": {
+        "full_name": "Bernard, Tara",
+        "prefix": null,
+        "first_name": "Tara",
+        "middle_name": null,
+        "last_name": "Bernard",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "7770523149",
+          "formatting": "7770523149"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_birchall_martyn",
+      "name": {
+        "full_name": "Birchall, Martyn",
+        "prefix": null,
+        "first_name": "Martyn",
+        "middle_name": null,
+        "last_name": "Birchall",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 253 0437 (o)",
+          "formatting": "212 253 0437 (o)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 253-0438 (Office Fax)",
+          "formatting": "212 253-0438 (Office Fax)"
+        },
+        {
+          "type": "home",
+          "number": "212 254 1548",
+          "formatting": "212 254 1548"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "44 E. 12th Street"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10003",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_birley_robin",
+      "name": {
+        "full_name": "Birley, Robin",
+        "prefix": null,
+        "first_name": "Robin",
+        "middle_name": null,
+        "last_name": "Birley",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-591 1940",
+          "formatting": "0207-591 1940 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "7730396656",
+          "formatting": "7730396656"
+        }
+      ],
+      "emails": [
+        {
+          "address": "rbirley@birleys.co.uk",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "35 Brompton Square, Flat 2"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW3 2AE",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Birleys Limited"
+    },
+    {
+      "entry_id": "005_birley_robin",
+      "name": {
+        "full_name": "Birley, Robin",
+        "prefix": null,
+        "first_name": "Robin",
+        "middle_name": null,
+        "last_name": "Birley",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 34 52 781621 (Mar)",
+          "formatting": "00 34 52 781621 (Mar) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "020 7538 1347 (wf)",
+          "formatting": "020 7538 1347 (wf)"
+        },
+        {
+          "type": "work",
+          "number": "0207-513 8886",
+          "formatting": "0207-513 8886 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Suite K3 Curbian Hse 217 Marsh Wall"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "E14 9FJ",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_bismarck_debbie_&_bola_von",
+      "name": {
+        "full_name": "Bismarck, Debbie",
+        "prefix": null,
+        "first_name": "Debbie & Bola Von",
+        "middle_name": null,
+        "last_name": "Bismarck",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Bola Von"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-808 4801 (hf)",
+          "formatting": "0207-808 4801 (hf) (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "0207-730 6224",
+          "formatting": "0207-730 6224 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-808 4800",
+          "formatting": "0207-808 4800 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "07 77 05 23 026",
+          "formatting": "07 77 05 23 026"
+        }
+      ],
+      "emails": [
+        {
+          "address": "bis-marck@netcomuk.co.uk",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "1 Gerald Road"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW1W 9EH",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_bismarck_vanessa_von",
+      "name": {
+        "full_name": "Bismarck Vanessa Von",
+        "prefix": null,
+        "first_name": "Vanessa Von",
+        "middle_name": null,
+        "last_name": "Bismarck",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 917 497 4970",
+          "formatting": "001 917 497 4970 (International)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 741 0141",
+          "formatting": "001 212 741 0141 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "43 West 13th St., Apt PHF"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10011",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_bismarck_vanessa_von",
+      "name": {
+        "full_name": "Bismarck Vanessa Von",
+        "prefix": null,
+        "first_name": "Vanessa Von",
+        "middle_name": null,
+        "last_name": "Bismarck",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 529 3400",
+          "formatting": "001 212 529 3400 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 212 517 5697",
+          "formatting": "001 212 517 5697 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 212 741 0630 (wf)",
+          "formatting": "001 212 741 0630 (wf) (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 645 6331",
+          "formatting": "001 212 645 6331 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "112 West 27th, Suite 401"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10001",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_bisson_jean_marc",
+      "name": {
+        "full_name": "Bisson, Jean Marc",
+        "prefix": null,
+        "first_name": "Jean Marc",
+        "middle_name": null,
+        "last_name": "Bisson",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 917 983 0642 (Beeper)",
+          "formatting": "001 917 983 0642 (Beeper) (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 989 4228",
+          "formatting": "001 212 989 4228 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 699 4523",
+          "formatting": "001 917 699 4523 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "005_bjorlin_jean_paul",
+      "name": {
+        "full_name": "Bjorlin, Jean Paul",
+        "prefix": null,
+        "first_name": "Jean Paul",
+        "middle_name": null,
+        "last_name": "Bjorlin",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "917 822 9168",
+          "formatting": "917 822 9168 (NYC mobile)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Juilliard School, 60 Lincoln Center Plaza, Box 800"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10023",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 22,
+    "entries_with_emails": 5,
+    "entries_with_addresses": 15,
+    "entries_with_handwritten_notes": 0,
+    "couples": 2,
+    "average_confidence": "high",
+    "notable_figures_count": 0
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Batstone, Tim Natasha",
+      "Baumer, Lorenzo",
+      "Beaumont, Lord",
+      "Lady",
+      "Beckwith, Tamara",
+      "Beizberg, Lisa",
+      "Beizberg, Lisa",
+      "Beizberg, Lisa (Asst)",
+      "Benson, Steven",
+      "Bentinck, Baron",
+      "Berggruen, Nicolas",
+      "Berggruen, Nicolas",
+      "Berkman, Bill",
+      "Berkman, Bill",
+      "Bernard, Tara",
+      "Birchall, Martyn",
+      "Birley, Robin",
+      "Birley, Robin",
+      "Bismarck, Debbie",
+      "Bola Von",
+      "Bismarck Vanessa Von",
+      "Bismarck Vanessa Von",
+      "Bisson, Jean Marc",
+      "Bjorlin, Jean Paul"
+    ],
+    "organizations": [],
+    "locations": {
+      "international": [
+        "UK"
+      ],
+      "us_cities": [
+        "Essex",
+        "New York",
+        "London"
+      ],
+      "elite_addresses": [
+        "650 Madison Avenue, 25th Floor",
+        "Pierre Hotel, 795 Fifth Avenue, Suite 3104"
+      ]
+    }
+  },
+  "insights": [
+    "Geographic cluster: London (4 entries)",
+    "Geographic cluster: New York (10 entries)"
+  ]
+}

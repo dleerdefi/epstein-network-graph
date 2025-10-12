@@ -1,0 +1,309 @@
+{
+  "page_number": 99,
+  "date_header": "JAN-FEB 2003",
+  "time_period": "January 2003 - February 2003",
+  "aircraft": {
+    "registration": "Multiple (G-450B N610126, B-727-31, N909GC, G-1159B N909JE)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "JAN 10",
+      "date": "01/10/2003",
+      "departure": "G-450B",
+      "arrival": "N610126",
+      "flight_time": "",
+      "remarks": "PBI - PBI - KIDS FLIGHT - JAMES DILAMOIA",
+      "passengers": ["KIDS FLIGHT", "JAMES DILAMOIA"],
+      "crew": "9"
+    },
+    {
+      "entry_number": "17",
+      "date": "01/17/2003",
+      "departure": "B-727-31",
+      "arrival": "N909GC",
+      "flight_time": "169",
+      "remarks": "PBI - JFK - JE, GM, SK, ANTHONY D. DAVID, TIMOTHY MAGAN, ANNE SHALER, CHRISTIAN KOERHER, CAROLINE, REDACTED",
+      "passengers": ["JE", "GM", "SK", "ANTHONY D. DAVID", "TIMOTHY MAGAN", "ANNE SHALER", "CHRISTIAN KOERHER", "CAROLINE", "REDACTED"],
+      "crew": "3/2"
+    },
+    {
+      "entry_number": "20",
+      "date": "01/20/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "170",
+      "remarks": "JFK - PBI - JAMES MCCARTHY",
+      "passengers": ["JAMES MCCARTHY"],
+      "crew": "3/1"
+    },
+    {
+      "entry_number": "22",
+      "date": "01/22/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "171",
+      "remarks": "PBI - TIST - JE, GM, SK, ANDREA D. HELEN, JENNY HOUSTON",
+      "passengers": ["JE", "GM", "SK", "ANDREA D.", "HELEN", "JENNY HOUSTON"],
+      "crew": "2/2"
+    },
+    {
+      "entry_number": "25",
+      "date": "01/25/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "172",
+      "remarks": "TIST - PBI - J. ROMMEL, ANNIE",
+      "passengers": ["J. ROMMEL", "ANNIE"],
+      "crew": "2/6"
+    },
+    {
+      "entry_number": "26",
+      "date": "01/26/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "JE, SK, REDACTED",
+      "passengers": ["JE", "SK", "REDACTED"],
+      "crew": "5"
+    },
+    {
+      "entry_number": "26",
+      "date": "01/26/2003",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1614",
+      "remarks": "PBI - TEB - JE, SK, JAMES MICHAEL",
+      "passengers": ["JE", "SK", "JAMES MICHAEL"],
+      "crew": "2/3"
+    },
+    {
+      "entry_number": "30",
+      "date": "01/30/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1615",
+      "remarks": "TEB - PBI - JG, NADIA THOMAS, BARBARA, J THOMAS",
+      "passengers": ["JG", "NADIA THOMAS", "BARBARA", "J THOMAS"],
+      "crew": "2/6"
+    },
+    {
+      "entry_number": "FEB 1",
+      "date": "02/01/2003",
+      "departure": "B-727-31",
+      "arrival": "N909GC",
+      "flight_time": "173",
+      "remarks": "TBK - PBI - REDACTED",
+      "passengers": ["REDACTED"],
+      "crew": "1/4"
+    },
+    {
+      "entry_number": "3",
+      "date": "02/03/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "174",
+      "remarks": "PBI - JFK - JE, GM, SK, DEBBY LEVY, PEGGY SIEGAL, ANISETTE MAIORISON",
+      "passengers": ["JE", "GM", "SK", "DEBBY LEVY", "PEGGY SIEGAL", "ANISETTE MAIORISON"],
+      "crew": "2/3"
+    },
+    {
+      "entry_number": "7",
+      "date": "02/07/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "176",
+      "remarks": "JFK - PBI - J. ROM, ALICE, EL CARLO",
+      "passengers": ["J. ROM", "ALICE", "EL CARLO"],
+      "crew": "2/3"
+    },
+    {
+      "entry_number": "11",
+      "date": "02/11/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "177",
+      "remarks": "PBI - TIST - JE, GM, SK, ANDREA, MICHELLE, CAROLINE",
+      "passengers": ["JE", "GM", "SK", "ANDREA", "MICHELLE", "CAROLINE"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "12",
+      "date": "02/12/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "178",
+      "remarks": "TIST - LESR - JE, GM, SK, ANDREA, LAUREN BARTON, J. ANDREW",
+      "passengers": ["JE", "GM", "SK", "ANDREA", "LAUREN BARTON", "J. ANDREW"],
+      "crew": "2/2"
+    },
+    {
+      "entry_number": "13",
+      "date": "02/13/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "179",
+      "remarks": "LESR - LFPB - JE, GM, SK, AUDREY, PATRICIO MORRISSEY, ALICE ALLGEIR, PAUL HALA, FERDINAND, ANDRE, ROBERT HUMANN, A VANDERBOURG",
+      "passengers": ["JE", "GM", "SK", "AUDREY", "PATRICIO MORRISSEY", "ALICE ALLGEIR", "PAUL HALA", "FERDINAND", "ANDRE", "ROBERT HUMANN", "A VANDERBOURG"],
+      "crew": "2/2"
+    },
+    {
+      "entry_number": "17",
+      "date": "02/17/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "180",
+      "remarks": "LFPB - CYRX - RAQUEL QUINCY, TOM H. MCKINNEY, TATIANA, ALSHARIE, H. REDACTED",
+      "passengers": ["RAQUEL QUINCY", "TOM H. MCKINNEY", "TATIANA", "ALSHARIE", "H. REDACTED"],
+      "crew": "3/5"
+    },
+    {
+      "entry_number": "17",
+      "date": "02/17/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "181",
+      "remarks": "CYRX - PBI - JE, GM, SK, JEAN LUC BRUNEL, NICO DELEFRERES, KRISTY, REDACTED",
+      "passengers": ["JE", "GM", "SK", "JEAN LUC BRUNEL", "NICO DELEFRERES", "KRISTY", "REDACTED"],
+      "crew": "5/5"
+    },
+    {
+      "entry_number": "25",
+      "date": "02/25/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "182",
+      "remarks": "PBI - JFK - JE, DIANE KEEGAN, ELIZABETH, BARBARA",
+      "passengers": ["JE", "DIANE KEEGAN", "ELIZABETH", "BARBARA"],
+      "crew": "2/0"
+    },
+    {
+      "entry_number": "26",
+      "date": "02/26/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "183",
+      "remarks": "JFK - PBI - JE, SK, CHARLOTTE JENSEN, BETSY MARKS, DAVID ELLIN",
+      "passengers": ["JE", "SK", "CHARLOTTE JENSEN", "BETSY MARKS", "DAVID ELLIN"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "",
+      "date": "",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "189",
+      "remarks": "OMITTED LOGBOOK ENTRIES",
+      "passengers": [],
+      "crew": "1/8"
+    }
+  ],
+  "entities": {
+    "people": [
+      "KIDS FLIGHT",
+      "JAMES DILAMOIA",
+      "JE",
+      "GM",
+      "SK",
+      "ANTHONY D. DAVID",
+      "TIMOTHY MAGAN",
+      "ANNE SHALER",
+      "CHRISTIAN KOERHER",
+      "CAROLINE",
+      "REDACTED",
+      "JAMES MCCARTHY",
+      "ANDREA D.",
+      "HELEN",
+      "JENNY HOUSTON",
+      "J. ROMMEL",
+      "ANNIE",
+      "JAMES MICHAEL",
+      "JG",
+      "NADIA THOMAS",
+      "BARBARA",
+      "J THOMAS",
+      "DEBBY LEVY",
+      "PEGGY SIEGAL",
+      "ANISETTE MAIORISON",
+      "J. ROM",
+      "ALICE",
+      "EL CARLO",
+      "ANDREA",
+      "MICHELLE",
+      "LAUREN BARTON",
+      "J. ANDREW",
+      "AUDREY",
+      "PATRICIO MORRISSEY",
+      "ALICE ALLGEIR",
+      "PAUL HALA",
+      "FERDINAND",
+      "ANDRE",
+      "ROBERT HUMANN",
+      "A VANDERBOURG",
+      "RAQUEL QUINCY",
+      "TOM H. MCKINNEY",
+      "TATIANA",
+      "ALSHARIE",
+      "H. REDACTED",
+      "JEAN LUC BRUNEL",
+      "NICO DELEFRERES",
+      "KRISTY",
+      "DIANE KEEGAN",
+      "ELIZABETH",
+      "CHARLOTTE JENSEN",
+      "BETSY MARKS",
+      "DAVID ELLIN",
+      "David Rodgers"
+    ],
+    "locations": [
+      "PBI",
+      "JFK",
+      "TIST",
+      "TEB",
+      "TBK",
+      "LESR",
+      "LFPB",
+      "CYRX"
+    ],
+    "aircraft": [
+      "G-450B",
+      "N610126",
+      "B-727-31",
+      "N909GC",
+      "G-1159B",
+      "N909JE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "18/19 18/0",
+    "amount_forward": "8944",
+    "total_to_date": "9010",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page covers January-February 2003",
+    "JE (Jeffrey Epstein) appears frequently throughout both months",
+    "SK (Sarah Kellen) continues to appear frequently",
+    "Jean Luc Brunel appears on February 17",
+    "Peggy Siegal appears on February 3",
+    "Kids Flight noted on January 10",
+    "Caribbean operations continue (TIST)",
+    "European operations (LFPB, LESR)",
+    "Flight numbers reach 183 for B-727 and 1615 for G-1159B",
+    "Multiple REDACTED entries preserved",
+    "Note about 'OMITTED LOGBOOK ENTRIES' at end",
+    "Mix of domestic and international operations"
+  ]
+}

@@ -1,0 +1,949 @@
+{
+  "page_number": 4,
+  "alphabetical_section": "B",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "page4_balazs_andre",
+      "name": {
+        "full_name": "Balazs, Andre",
+        "title": null,
+        "first_name": "Andre",
+        "last_name": "Balazs",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "(XXX) 7XXXX4 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": null,
+          "area_code": "XXX",
+          "extension": null,
+          "notes": "partially illegible",
+          "is_primary": false,
+          "formatting": "(XXX) 7XXXX4 (h)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "154 Mercer Street [illegible]\nNew York, NY 10012",
+          "street_line1": "154 Mercer Street",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": "10012",
+          "country": "USA",
+          "notes": "SoHo neighborhood"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page4_baldwin_alec",
+      "name": {
+        "full_name": "Baldwin Alec",
+        "title": null,
+        "first_name": "Alec",
+        "last_name": "Baldwin",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 516 XXX XX(Xh)",
+          "type": "home",
+          "label": "h",
+          "country_code": "001",
+          "area_code": "516",
+          "extension": null,
+          "notes": "Long Island area code",
+          "is_primary": false,
+          "formatting": "001 516 XXX XX(Xh)"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page4_balliol_college_oxford",
+      "name": {
+        "full_name": "Balliol College, Oxford",
+        "title": null,
+        "first_name": null,
+        "last_name": null,
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": "Balliol College Oxford",
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "01865 277XXX",
+          "type": "work",
+          "label": null,
+          "country_code": null,
+          "area_code": "01865",
+          "extension": null,
+          "notes": "Oxford UK area code",
+          "is_primary": false,
+          "formatting": "01865 277XXX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "business",
+          "label": null,
+          "full_address": "Broad Street\nOxford OX1 3BJ",
+          "street_line1": "Broad Street",
+          "street_line2": null,
+          "city": "Oxford",
+          "state_province": null,
+          "postal_code": "OX1 3BJ",
+          "country": "UK",
+          "notes": "Historic Oxford college"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Educational institution"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "medium",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page4_bamford_georgiealice",
+      "name": {
+        "full_name": "Bamford Georgiealice",
+        "title": null,
+        "first_name": "Georgiealice",
+        "last_name": "Bamford",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "[illegible]",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "number not legible",
+          "is_primary": false,
+          "formatting": "[illegible]"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Daylesford House\n[illegible]\nGloucestershire\nGL56 0YG",
+          "street_line1": "Daylesford House",
+          "street_line2": null,
+          "city": "[illegible]",
+          "state_province": "Gloucestershire",
+          "postal_code": "GL56 0YG",
+          "country": "UK",
+          "notes": "Cotswolds area"
+        }
+      ],
+      "emails": [
+        {
+          "address": "georgiealice@bamfords.com",
+          "type": "personal",
+          "domain": "bamfords.com",
+          "notes": null
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page4_bamford_sir_anthony",
+      "name": {
+        "full_name": "Bamford Sir Anthony and Lady C",
+        "title": "Sir",
+        "first_name": "Anthony",
+        "last_name": "Bamford",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "01608 6597XXXX",
+          "type": "home",
+          "label": null,
+          "country_code": null,
+          "area_code": "01608",
+          "extension": null,
+          "notes": "Cotswolds area code",
+          "is_primary": false,
+          "formatting": "01608 6597XXXX"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Lady C" ],
+        "implied_connections": ["Related to Bamford Georgiealice"],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["British nobility title"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page4_bands_doug",
+      "name": {
+        "full_name": "Bands, Doug",
+        "title": null,
+        "first_name": "Doug",
+        "last_name": "Bands",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": "Office of President Clinton",
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "212 348 4XXX",
+          "type": "work",
+          "label": null,
+          "country_code": null,
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan area code",
+          "is_primary": false,
+          "formatting": "212 348 4XXX"
+        },
+        {
+          "number": "212 977 112",
+          "type": "work",
+          "label": null,
+          "country_code": null,
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan area code",
+          "is_primary": false,
+          "formatting": "212 977 112"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "business",
+          "label": null,
+          "full_address": "Office of President Clinton\n55 West 125th St\nNew York, NY",
+          "street_line1": "55 West 125th St",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Harlem office location"
+        }
+      ],
+      "emails": [
+        {
+          "address": "[illegible]@presidentclinton.com",
+          "type": "business",
+          "domain": "presidentclinton.com",
+          "notes": "Official Clinton domain"
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": "Office of President Clinton"
+      },
+      "metadata": {
+        "entry_completeness": "complete",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Political connection"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "medium",
+        "email_confidence": "medium",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page4_bannister_clive",
+      "name": {
+        "full_name": "Bannister, Clive",
+        "title": null,
+        "first_name": "Clive",
+        "last_name": "Bannister",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "011 44 XXXX XXXX",
+          "type": "home",
+          "label": null,
+          "country_code": "011 44",
+          "area_code": null,
+          "extension": null,
+          "notes": "UK international code",
+          "is_primary": false,
+          "formatting": "011 44 XXXX XXXX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "9 Cadogan Square\nLondon SW1X [illegible]\nEngland UK",
+          "street_line1": "9 Cadogan Square",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW1X [illegible]",
+          "country": "UK",
+          "notes": "Chelsea, exclusive area"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page4_banon_javier",
+      "name": {
+        "full_name": "Banon, Javier",
+        "title": null,
+        "first_name": "Javier",
+        "last_name": "Banon",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 561 XXX XXXX",
+          "type": "home",
+          "label": "Palm Beach",
+          "country_code": "001",
+          "area_code": "561",
+          "extension": null,
+          "notes": "Palm Beach area code",
+          "is_primary": false,
+          "formatting": "001 561 XXX XXXX"
+        },
+        {
+          "number": "001 917 XXX XXXX",
+          "type": "mobile",
+          "label": null,
+          "country_code": "001",
+          "area_code": "917",
+          "extension": null,
+          "notes": "NYC mobile",
+          "is_primary": false,
+          "formatting": "001 917 XXX XXXX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "Palm Beach",
+          "full_address": "Palm Beach Resort\n66 Prospect Avenue Bank\n[illegible]",
+          "street_line1": "66 Prospect Avenue Bank",
+          "street_line2": null,
+          "city": "Palm Beach",
+          "state_province": "FL",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Resort location"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page4_barnett_craig",
+      "name": {
+        "full_name": "Barnett, Craig",
+        "title": null,
+        "first_name": "Craig",
+        "last_name": "Barnett",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 917 XXX XXXX (m)",
+          "type": "mobile",
+          "label": "m",
+          "country_code": "001",
+          "area_code": "917",
+          "extension": null,
+          "notes": "NYC mobile",
+          "is_primary": false,
+          "formatting": "001 917 XXX XXXX (m)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "200 Park Avenue\nNew York, NY 10152",
+          "street_line1": "200 Park Avenue",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": "10152",
+          "country": "USA",
+          "notes": "MetLife Building address"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page4_bastone_hillary",
+      "name": {
+        "full_name": "Bastone, Hillary",
+        "title": null,
+        "first_name": "Hillary",
+        "last_name": "Bastone",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0207-259 0010",
+          "type": "work",
+          "label": null,
+          "country_code": null,
+          "area_code": "0207",
+          "extension": null,
+          "notes": "Central London area code",
+          "is_primary": false,
+          "formatting": "0207-259 0010"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page4_barham_nicholas_crystal",
+      "name": {
+        "full_name": "Barham, Nicholas & Crystal",
+        "title": null,
+        "first_name": "Nicholas",
+        "last_name": "Barham",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "[illegible]",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "number not legible",
+          "is_primary": false,
+          "formatting": "[illegible]"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "5 Lennox Terrace\nLondon SW10 XXX",
+          "street_line1": "5 Lennox Terrace",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW10 XXX",
+          "country": "UK",
+          "notes": "Chelsea area"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Crystal"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page4_barnes_peter",
+      "name": {
+        "full_name": "Barnes, Peter",
+        "title": null,
+        "first_name": "Peter",
+        "last_name": "Barnes",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 212 421 XXXX (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": "001",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan area code",
+          "is_primary": false,
+          "formatting": "001 212 421 XXXX (w)"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page4_belstone_hillary",
+      "name": {
+        "full_name": "Belstone Hillary",
+        "title": null,
+        "first_name": "Hillary",
+        "last_name": "Belstone",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0171 XXX XXXX",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": "0171",
+          "extension": null,
+          "notes": "Old London area code (pre-2000)",
+          "is_primary": false,
+          "formatting": "0171 XXX XXXX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "8 Hectons Green\nWeston, XXX XXXX\nLondon SW10 XXX",
+          "street_line1": "8 Hectons Green",
+          "street_line2": "Weston",
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW10 XXX",
+          "country": "UK",
+          "notes": "Chelsea area"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 13,
+    "complete_entries": 1,
+    "partial_entries": 9,
+    "minimal_entries": 3,
+    "redacted_entries": 0,
+    "handwritten_additions": 0,
+    "crossed_out_entries": 0,
+    "quality": "poor",
+    "legibility": "partially obscured",
+    "notable_features": ["Poor image quality with significant illegibility", "Multiple UK entries with London addresses", "Clinton office connection (Doug Bands)"],
+    "continues_to_page": 5,
+    "continued_from_page": 3,
+    "split_entry_note": "No clear continuation from page 3's Bakhtiar entry"
+  },
+  "cross_references": [
+    {
+      "from_name": "Bamford Sir Anthony",
+      "to_name": "Bamford Georgiealice",
+      "reference_type": "related_to",
+      "page_reference": null
+    }
+  ],
+  "entities": {
+    "people": ["Andre Balazs", "Alec Baldwin", "Georgiealice Bamford", "Sir Anthony Bamford", "Lady C Bamford", "Doug Bands", "Clive Bannister", "Javier Banon", "Craig Barnett", "Hillary Bastone", "Nicholas Barham", "Crystal Barham", "Peter Barnes", "Hillary Belstone"],
+    "organizations": ["Balliol College Oxford", "Office of President Clinton", "Bamfords"],
+    "locations": {
+      "cities": ["New York", "Oxford", "London", "Palm Beach", "Harlem"],
+      "states": ["NY", "Gloucestershire", "FL"],
+      "countries": ["USA", "UK", "England"]
+    }
+  },
+  "insights": [
+    "Page 4 continues the B section with 13 contacts",
+    "Doug Bands entry shows direct connection to President Clinton's office in Harlem",
+    "Multiple entries with prestigious London addresses (Cadogan Square, Chelsea)",
+    "Alec Baldwin entry with Long Island phone (516 area code)",
+    "Balliol College Oxford - academic institution connection",
+    "Bamford family entries suggest wealthy British business family",
+    "Sir Anthony Bamford title indicates British peerage/knighthood",
+    "0171 area code in Belstone entry dates this before 2000 (changed to 0207)",
+    "Mix of US (NYC, Palm Beach) and UK (London, Oxford, Gloucestershire) contacts",
+    "917 area codes indicate NYC mobile numbers",
+    "561 area code confirms Palm Beach Florida connections",
+    "Image quality significantly degraded compared to earlier pages",
+    "Many phone numbers partially illegible but area codes provide geographic context",
+    "No clear continuation of Bakhtiar entry from page 3"
+  ]
+}

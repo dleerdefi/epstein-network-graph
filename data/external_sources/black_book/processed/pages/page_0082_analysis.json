@@ -1,0 +1,1893 @@
+{
+  "page_number": 82,
+  "alphabetical_section": "Mixed",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "082_zuckerman_mort",
+      "name": {
+        "full_name": "Jeffrey \u2013 Zuckerman, Mort",
+        "prefix": null,
+        "first_name": "Mort",
+        "middle_name": null,
+        "last_name": "Zuckerman",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 326 4096 (f)",
+          "formatting": "212 326 4096 (f)"
+        },
+        {
+          "type": "work",
+          "number": "212 326 4010",
+          "formatting": "212 326 4010"
+        }
+      ],
+      "emails": [
+        {
+          "address": "mzuckerman@bostonproperti",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "599 Lexington Ave, Suite 1800"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10022",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Boston Properties"
+    },
+    {
+      "entry_id": "082_unknown_unknown",
+      "name": {
+        "full_name": "Jeffrey \u2013 Zuckerman, Mort",
+        "prefix": null,
+        "first_name": "Jeffrey",
+        "middle_name": "\u2013 Zuckerman,",
+        "last_name": "Mort",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 879 4693 (hf)",
+          "formatting": "212 879 4693 (hf)"
+        },
+        {
+          "type": "unknown",
+          "number": "970 920 3141 (Aspen) (f)",
+          "formatting": "970 920 3141 (Aspen) (f)"
+        },
+        {
+          "type": "unknown",
+          "number": "631-329-5711 (East Hampton) (f)",
+          "formatting": "631-329-5711 (East Hampton) (f)"
+        },
+        {
+          "type": "unknown",
+          "number": "202 537 1435 (DC) (hf)",
+          "formatting": "202 537 1435 (DC) (hf)"
+        },
+        {
+          "type": "unknown",
+          "number": "631 329 5711 (hf)",
+          "formatting": "631 329 5711 (hf)"
+        },
+        {
+          "type": "unknown",
+          "number": "954 648 1281 (boat)",
+          "formatting": "954 648 1281 (boat)"
+        },
+        {
+          "type": "unknown",
+          "number": "011 39 335 5645933 (boat)",
+          "formatting": "011 39 335 5645933 (boat) (International)"
+        },
+        {
+          "type": "work",
+          "number": "202 955 2537 (DC)",
+          "formatting": "202 955 2537 (DC)"
+        },
+        {
+          "type": "work",
+          "number": "617 859 2600 (Boston)",
+          "formatting": "617 859 2600 (Boston)"
+        },
+        {
+          "type": "home",
+          "number": "212 744 3995",
+          "formatting": "212 744 3995"
+        },
+        {
+          "type": "home",
+          "number": "970 920 2983 (Aspen)",
+          "formatting": "970 920 2983 (Aspen)"
+        },
+        {
+          "type": "home",
+          "number": "631-324-7086 (E. Hampton)",
+          "formatting": "631-324-7086 (E. Hampton)"
+        },
+        {
+          "type": "home",
+          "number": "202 537 0324 (DC)",
+          "formatting": "202 537 0324 (DC)"
+        },
+        {
+          "type": "home",
+          "number": "631 324 7084",
+          "formatting": "631 324 7084"
+        },
+        {
+          "type": "portable",
+          "number": "917 750 1900",
+          "formatting": "917 750 1900 (NYC mobile)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "8 Arlington Street"
+          ],
+          "city": "Boston",
+          "state": null,
+          "postal_code": "MY",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Boston Properties"
+    },
+    {
+      "entry_id": "082_unknown_clare",
+      "name": {
+        "full_name": "Jeffrey \u2013 Zuckerman, Mort (Asst.)",
+        "prefix": null,
+        "first_name": "Clare",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Asst."
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 326 4012",
+          "formatting": "212 326 4012"
+        },
+        {
+          "type": "unknown",
+          "number": "212 326 4096 (f)",
+          "formatting": "212 326 4096 (f)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "8 Arlington Street"
+          ],
+          "city": "Boston",
+          "state": null,
+          "postal_code": "MY",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Boston Properties"
+    },
+    {
+      "entry_id": "082_wedge_bill",
+      "name": {
+        "full_name": "Jeffrey \u2013 Zuckerman, Mort (Asst.)",
+        "prefix": null,
+        "first_name": "Bill",
+        "middle_name": null,
+        "last_name": "Wedge",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Asst."
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "617 895 1555 (f)",
+          "formatting": "617 895 1555 (f)"
+        },
+        {
+          "type": "work",
+          "number": "617 859 2612",
+          "formatting": "617 859 2612"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "8 Arlington Street"
+          ],
+          "city": "Boston",
+          "state": null,
+          "postal_code": "MY",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Boston Properties"
+    },
+    {
+      "entry_id": "082_barnett_richard",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Barnett, Richard",
+        "prefix": null,
+        "first_name": "Richard",
+        "middle_name": null,
+        "last_name": "Barnett",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "116-4497 (pin #)",
+          "formatting": "116-4497 (pin #)"
+        },
+        {
+          "type": "home",
+          "number": "516 883 4448",
+          "formatting": "516 883 4448"
+        }
+      ],
+      "emails": [
+        {
+          "address": "rb9east71@aol.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "14 Oakland Ave"
+          ],
+          "city": "Port Washington",
+          "state": null,
+          "postal_code": "NY 11050",
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "082_barnett_richard",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Barnett, Richard",
+        "prefix": null,
+        "first_name": "Richard",
+        "middle_name": null,
+        "last_name": "Barnett",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "516 883 6498 (f)",
+          "formatting": "516 883 6498 (f)"
+        },
+        {
+          "type": "work",
+          "number": "212 249 1122",
+          "formatting": "212 249 1122"
+        },
+        {
+          "type": "work",
+          "number": "212 249 1113",
+          "formatting": "212 249 1113"
+        },
+        {
+          "type": "portable",
+          "number": "917 940 6157",
+          "formatting": "917 940 6157 (NYC mobile)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "1800 skypage"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "082_hughs_patricia",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Barnett, Richard (Mom)",
+        "prefix": null,
+        "first_name": "Patricia",
+        "middle_name": null,
+        "last_name": "Hughs",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Mom"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "717 383 2733",
+          "formatting": "717 383 2733"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "1800 skypage"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "082_blachon_magali",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Blachon, Magali",
+        "prefix": null,
+        "first_name": "Magali",
+        "middle_name": null,
+        "last_name": "Blachon",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "011 33 68 294 0794",
+          "formatting": "011 33 68 294 0794 (International)"
+        },
+        {
+          "type": "work",
+          "number": "01133 561 41 75 00 (Parents)",
+          "formatting": "01133 561 41 75 00 (Parents) (International)"
+        },
+        {
+          "type": "home",
+          "number": "1 212 996 1127",
+          "formatting": "1 212 996 1127"
+        },
+        {
+          "type": "portable",
+          "number": "01133682940794",
+          "formatting": "01133682940794 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "1 917 553 0136",
+          "formatting": "1 917 553 0136"
+        }
+      ],
+      "emails": [
+        {
+          "address": "magali.blachon@wanadoo.fr",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "8 Impasse Bourtholle"
+          ],
+          "city": "Toulouse",
+          "state": null,
+          "postal_code": "31100",
+          "country": "France",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "082_epstein_jeffrey",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Epstein, Jeffrey",
+        "prefix": null,
+        "first_name": "Jeffrey",
+        "middle_name": null,
+        "last_name": "Epstein",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 879 0840 (f)",
+          "formatting": "212 879 0840 (f)"
+        },
+        {
+          "type": "home",
+          "number": "212 772 9416",
+          "formatting": "212 772 9416"
+        }
+      ],
+      "emails": [
+        {
+          "address": "jeeproject@yahoo.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "9 East 71st Street"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "082_epstein_jeffrey",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Epstein, Jeffrey (Merc Garage)",
+        "prefix": null,
+        "first_name": "Jeffrey",
+        "middle_name": null,
+        "last_name": "Epstein",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Merc Garage"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "Account # 047-EP02",
+          "formatting": "Account # 047-EP02"
+        },
+        {
+          "type": "unknown",
+          "number": "212 772 0517 (JEE extra line)",
+          "formatting": "212 772 0517 (JEE extra line)"
+        },
+        {
+          "type": "portable",
+          "number": "917 860 9177 (Merc)",
+          "formatting": "917 860 9177 (Merc) (NYC mobile)"
+        },
+        {
+          "type": "portable",
+          "number": "917 597 8141 (Merc)",
+          "formatting": "917 597 8141 (Merc) (NYC mobile)"
+        },
+        {
+          "type": "portable",
+          "number": "917 855 6931 (Tahoe \u2013 JE)",
+          "formatting": "917 855 6931 (Tahoe \u2013 JE) (NYC mobile)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 772 3853 (Staff 1)",
+          "formatting": "212 772 3853 (Staff 1)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 772 0939 (Staff 2)",
+          "formatting": "212 772 0939 (Staff 2)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 772 3733 (Staff) (f)",
+          "formatting": "212 772 3733 (Staff) (f)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 249 5514 (Merc. Garage)",
+          "formatting": "212 249 5514 (Merc. Garage)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 744 5511 (Tahoe Garage)",
+          "formatting": "212 744 5511 (Tahoe Garage)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "124 East 63rd St."
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Merc Garage"
+    },
+    {
+      "entry_id": "082_unknown_michael",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Epstein, Jeffrey (Merc Garage)",
+        "prefix": null,
+        "first_name": "Michael",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Merc Garage"
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "1 917 545 6300",
+          "formatting": "1 917 545 6300"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "124 East 63rd St."
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Merc Garage"
+    },
+    {
+      "entry_id": "082_unknown_dennis_\u2013_flowers",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Epstein, Jeffrey (Merc Garage)",
+        "prefix": null,
+        "first_name": "Dennis \u2013 Flowers",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Merc Garage"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "1 917 309 0259",
+          "formatting": "1 917 309 0259"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "124 East 63rd St."
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Merc Garage"
+    },
+    {
+      "entry_id": "082_unknown_magali",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Epstein, Jeffrey (Merc Garage)",
+        "prefix": null,
+        "first_name": "Magali",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Merc Garage"
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "917 553 0136",
+          "formatting": "917 553 0136 (NYC mobile)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "124 East 63rd St."
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Merc Garage"
+    },
+    {
+      "entry_id": "082_unknown_rich",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Epstein, Jeffrey (Merc Garage)",
+        "prefix": null,
+        "first_name": "Rich",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Merc Garage"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 772 3733 (f)",
+          "formatting": "212 772 3733 (f)"
+        },
+        {
+          "type": "unknown",
+          "number": "116 4497 (b)",
+          "formatting": "116 4497 (b)"
+        },
+        {
+          "type": "portable",
+          "number": "917 940 6157",
+          "formatting": "917 940 6157 (NYC mobile)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "124 East 63rd St."
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Merc Garage"
+    },
+    {
+      "entry_id": "082_maxwell_ghislaine",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Epstein, Jeffrey (Merc Garage)",
+        "prefix": null,
+        "first_name": "Ghislaine",
+        "middle_name": null,
+        "last_name": "Maxwell",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Merc Garage"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 249 8510",
+          "formatting": "212 249 8510"
+        },
+        {
+          "type": "unknown",
+          "number": "212 717 4872 (f)",
+          "formatting": "212 717 4872 (f)"
+        },
+        {
+          "type": "portable",
+          "number": "917 494 9690 (Tahoe GM)",
+          "formatting": "917 494 9690 (Tahoe GM) (NYC mobile)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "124 East 63rd St."
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Merc Garage"
+    },
+    {
+      "entry_id": "082_unknown_richie",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Epstein, Jeffrey (Merc Garage)",
+        "prefix": null,
+        "first_name": "Richie",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Merc Garage"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 249 1122 (Line 1)",
+          "formatting": "212 249 1122 (Line 1)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 249 1113 (Line 2)",
+          "formatting": "212 249 1113 (Line 2)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "124 East 63rd St."
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Merc Garage"
+    },
+    {
+      "entry_id": "082_unknown_ryan",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Epstein, Jeffrey (Merc Garage)",
+        "prefix": null,
+        "first_name": "Ryan",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Merc Garage"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "212 535 7374",
+          "formatting": "212 535 7374"
+        },
+        {
+          "type": "portable",
+          "number": "609 915 9311",
+          "formatting": "609 915 9311"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "124 East 63rd St."
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Merc Garage"
+    },
+    {
+      "entry_id": "082_unknown_lynn",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Epstein, Jeffrey (Merc Garage)",
+        "prefix": null,
+        "first_name": "Lynn",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Merc Garage"
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "917 856 1285",
+          "formatting": "917 856 1285 (NYC mobile)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "124 East 63rd St."
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Merc Garage"
+    },
+    {
+      "entry_id": "082_unknown_lyn_&_jojo",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Epstein, Jeffrey (Merc Garage)",
+        "prefix": null,
+        "first_name": "Lyn & Jojo",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Merc Garage"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "212 517 3215",
+          "formatting": "212 517 3215"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "124 East 63rd St."
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Merc Garage"
+    },
+    {
+      "entry_id": "082_unknown_jojo",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Epstein, Jeffrey (Merc Garage)",
+        "prefix": null,
+        "first_name": "Jojo",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Merc Garage"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "807 0253 (b)",
+          "formatting": "807 0253 (b)"
+        },
+        {
+          "type": "portable",
+          "number": "917 975 4500",
+          "formatting": "917 975 4500 (NYC mobile)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "124 East 63rd St."
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Merc Garage"
+    },
+    {
+      "entry_id": "082_unknown_lyn",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Epstein, Jeffrey (Merc Garage)",
+        "prefix": null,
+        "first_name": "Lyn",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Merc Garage"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "130 4666",
+          "formatting": "130 4666"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "124 East 63rd St."
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Merc Garage"
+    },
+    {
+      "entry_id": "082_baura_gary",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Flowers \u2013 Gary Baura",
+        "prefix": null,
+        "first_name": "Gary",
+        "middle_name": null,
+        "last_name": "Baura",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 917 207 2236",
+          "formatting": "001 917 207 2236 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 675 2476 (PM only)",
+          "formatting": "212 675 2476 (PM only)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "bauranewyork@yahoo.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Flowers"
+    },
+    {
+      "entry_id": "082_fontanilla_lynn",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Fontanilla, Lynn",
+        "prefix": null,
+        "first_name": "Lynn",
+        "middle_name": null,
+        "last_name": "Fontanilla",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Jojo (aka Rosalyn",
+        "formatting_notes": "Nickname: aka Rosalyn & Luciano"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "800 759 7243 (Lynn Skytel pin# 130 4666)",
+          "formatting": "800 759 7243 (Lynn Skytel pin# 130 4666)"
+        },
+        {
+          "type": "work",
+          "number": "212 772 3853 (71)",
+          "formatting": "212 772 3853 (71)"
+        },
+        {
+          "type": "home",
+          "number": "212 517 3215",
+          "formatting": "212 517 3215"
+        },
+        {
+          "type": "portable",
+          "number": "917 856 1285",
+          "formatting": "917 856 1285 (NYC mobile)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "301 East 66th Street, Apartment 5P"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "082_fontanilla_jojo",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Fontanilla, Lynn",
+        "prefix": null,
+        "first_name": "Jojo",
+        "middle_name": null,
+        "last_name": "Fontanilla",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Jojo (aka Rosalyn",
+        "formatting_notes": "Nickname: aka Rosalyn & Luciano"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "800 759 7243 (JoJo Skytel pin# 807 0254)",
+          "formatting": "800 759 7243 (JoJo Skytel pin# 807 0254)"
+        },
+        {
+          "type": "work",
+          "number": "212 772 3853 (71)",
+          "formatting": "212 772 3853 (71)"
+        },
+        {
+          "type": "portable",
+          "number": "917 975 4500",
+          "formatting": "917 975 4500 (NYC mobile)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "301 East 66th Street, Apartment 5P"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "082_gaston_steve",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Gaston Steve",
+        "prefix": null,
+        "first_name": "Steve",
+        "middle_name": null,
+        "last_name": "Gaston",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 888 9146",
+          "formatting": "001 212 888 9146 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 608 6685",
+          "formatting": "001 917 608 6685 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "310 E. 55th Street #11F"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "082_unknown_unknown",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Graces Marketplace",
+        "prefix": null,
+        "first_name": "Jeffrey",
+        "middle_name": "71st \u2013 Graces",
+        "last_name": "Marketplace",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212-737-0600 (Acct# 5002)",
+          "formatting": "212-737-0600 (Acct# 5002)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "1237 Third Avenue"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Graces Marketplace"
+    },
+    {
+      "entry_id": "082_hamblin_sue",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Hamblin, Sue",
+        "prefix": null,
+        "first_name": "Sue",
+        "middle_name": null,
+        "last_name": "Hamblin",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "01127 21 761 8442",
+          "formatting": "01127 21 761 8442 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "1127827795782",
+          "formatting": "1127827795782"
+        }
+      ],
+      "emails": [
+        {
+          "address": "suehamblin2003@yahoo.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "41 Meadow Way, Constantia Meadows"
+          ],
+          "city": "Cape Town",
+          "state": null,
+          "postal_code": "7806",
+          "country": "South Africa",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "082_miller_charles",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Miller, Charles",
+        "prefix": null,
+        "first_name": "Charles",
+        "middle_name": null,
+        "last_name": "Miller",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "914 235-6555",
+          "formatting": "914 235-6555"
+        },
+        {
+          "type": "work",
+          "number": "914-235-5005 (Fax)",
+          "formatting": "914-235-5005 (Fax)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "cmi3540012@aol.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Halfmoon Bay 609"
+          ],
+          "city": "Crotin on Hudso",
+          "state": null,
+          "postal_code": "NY 10520",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Miller & Raved Inc."
+    },
+    {
+      "entry_id": "082_miller_charles",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Miller, Charles",
+        "prefix": null,
+        "first_name": "Charles",
+        "middle_name": null,
+        "last_name": "Miller",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "914 271 5579 (h&f)",
+          "formatting": "914 271 5579 (h&f)"
+        },
+        {
+          "type": "unknown",
+          "number": "246 419 1345 (h&f)",
+          "formatting": "246 419 1345 (h&f)"
+        },
+        {
+          "type": "unknown",
+          "number": "207 348 2600 (main)",
+          "formatting": "207 348 2600 (main)"
+        },
+        {
+          "type": "portable",
+          "number": "917 846 4295 (emerg.)",
+          "formatting": "917 846 4295 (emerg.) (NYC mobile)"
+        },
+        {
+          "type": "work",
+          "number": "212 343 1645 +225 (emergency)",
+          "formatting": "212 343 1645 +225 (emergency)"
+        },
+        {
+          "type": "home",
+          "number": "212 965 1069 (emergency)",
+          "formatting": "212 965 1069 (emergency)"
+        },
+        {
+          "type": "portable",
+          "number": "917 750 4797",
+          "formatting": "917 750 4797 (NYC mobile)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "2 Hamilton Avenue, Suite 207, New Rochelle"
+          ],
+          "city": "New Rochelle",
+          "state": null,
+          "postal_code": "NY 10801",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Miller & Raved Inc."
+    },
+    {
+      "entry_id": "082_bob_unknown",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Miller, Charles",
+        "prefix": null,
+        "first_name": "",
+        "middle_name": null,
+        "last_name": "Bob",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "914-632-3555",
+          "formatting": "914-632-3555"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "2 Hamilton Avenue, Suite 207, New Rochelle"
+          ],
+          "city": "New Rochelle",
+          "state": null,
+          "postal_code": "NY 10801",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "082_sawyers_tom",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Sawyers Tom/Pat (telephones) (Barbara (wife))",
+        "prefix": null,
+        "first_name": "Tom",
+        "middle_name": null,
+        "last_name": "Sawyers",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: telephones"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "908-996-6903 (o)",
+          "formatting": "908-996-6903 (o)"
+        },
+        {
+          "type": "unknown",
+          "number": "908-996-6958 (f)",
+          "formatting": "908-996-6958 (f)"
+        },
+        {
+          "type": "unknown",
+          "number": "908 581 2641 (ph)",
+          "formatting": "908 581 2641 (ph)"
+        },
+        {
+          "type": "unknown",
+          "number": "Pin# 5460174 (Tom)",
+          "formatting": "Pin# 5460174 (Tom)"
+        },
+        {
+          "type": "unknown",
+          "number": "1 800 759 7243 (Tom beeper)",
+          "formatting": "1 800 759 7243 (Tom beeper)"
+        },
+        {
+          "type": "unknown",
+          "number": "908 581 2641 (Pp)",
+          "formatting": "908 581 2641 (Pp)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "133 County Rd 513"
+          ],
+          "city": "Frenchtown",
+          "state": null,
+          "postal_code": "NJ 08825",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "082_sawyers_pat",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Sawyers Tom/Pat (telephones)",
+        "prefix": null,
+        "first_name": "Pat",
+        "middle_name": null,
+        "last_name": "Sawyers",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: telephones"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "908-996-6903 (o)",
+          "formatting": "908-996-6903 (o)"
+        },
+        {
+          "type": "unknown",
+          "number": "908-996-6958 (f)",
+          "formatting": "908-996-6958 (f)"
+        },
+        {
+          "type": "unknown",
+          "number": "908 581 2641 (ph)",
+          "formatting": "908 581 2641 (ph)"
+        },
+        {
+          "type": "unknown",
+          "number": "pin# 4195978 (Pat)",
+          "formatting": "pin# 4195978 (Pat)"
+        },
+        {
+          "type": "unknown",
+          "number": "1 800 759 7243 (Pat beeper)",
+          "formatting": "1 800 759 7243 (Pat beeper)"
+        },
+        {
+          "type": "unknown",
+          "number": "908 581 2641 (Pp)",
+          "formatting": "908 581 2641 (Pp)"
+        },
+        {
+          "type": "home",
+          "number": "(610) 749-2939 (Pat\u2019s home)",
+          "formatting": "(610) 749-2939 (Pat\u2019s home)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "133 County Rd 513"
+          ],
+          "city": "Frenchtown",
+          "state": null,
+          "postal_code": "NJ 08825",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "082_tindall_brent",
+      "name": {
+        "full_name": "Jeffrey 71st \u2013 Tindall, Brent",
+        "prefix": null,
+        "first_name": "Brent",
+        "middle_name": null,
+        "last_name": "Tindall",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "212 535 7374",
+          "formatting": "212 535 7374"
+        },
+        {
+          "type": "portable",
+          "number": "917 601 4143",
+          "formatting": "917 601 4143 (NYC mobile)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "301 East 66th Street, Apartment 8C"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 33,
+    "entries_with_emails": 7,
+    "entries_with_addresses": 32,
+    "entries_with_handwritten_notes": 0,
+    "couples": 2,
+    "average_confidence": "high",
+    "notable_figures_count": 0
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Jeffrey \u2013 Zuckerman, Mort",
+      "Jeffrey \u2013 Zuckerman, Mort",
+      "Jeffrey \u2013 Zuckerman, Mort (Asst.)",
+      "Jeffrey \u2013 Zuckerman, Mort (Asst.)",
+      "Jeffrey 71st \u2013 Barnett, Richard",
+      "Jeffrey 71st \u2013 Barnett, Richard",
+      "Jeffrey 71st \u2013 Barnett, Richard (Mom)",
+      "Jeffrey 71st \u2013 Blachon, Magali",
+      "Jeffrey 71st \u2013 Epstein, Jeffrey",
+      "Jeffrey 71st \u2013 Epstein, Jeffrey (Merc Garage)",
+      "Jeffrey 71st \u2013 Epstein, Jeffrey (Merc Garage)",
+      "Jeffrey 71st \u2013 Epstein, Jeffrey (Merc Garage)",
+      "Jeffrey 71st \u2013 Epstein, Jeffrey (Merc Garage)",
+      "Jeffrey 71st \u2013 Epstein, Jeffrey (Merc Garage)",
+      "Jeffrey 71st \u2013 Epstein, Jeffrey (Merc Garage)",
+      "Jeffrey 71st \u2013 Epstein, Jeffrey (Merc Garage)",
+      "Jeffrey 71st \u2013 Epstein, Jeffrey (Merc Garage)",
+      "Jeffrey 71st \u2013 Epstein, Jeffrey (Merc Garage)",
+      "Jeffrey 71st \u2013 Epstein, Jeffrey (Merc Garage)",
+      "Jeffrey 71st \u2013 Epstein, Jeffrey (Merc Garage)",
+      "Jeffrey 71st \u2013 Epstein, Jeffrey (Merc Garage)",
+      "Jeffrey 71st \u2013 Flowers \u2013 Gary Baura",
+      "Jeffrey 71st \u2013 Fontanilla, Lynn",
+      "Jojo (aka Rosalyn",
+      "Jeffrey 71st \u2013 Fontanilla, Lynn",
+      "Jojo (aka Rosalyn",
+      "Jeffrey 71st \u2013 Gaston Steve",
+      "Jeffrey 71st \u2013 Graces Marketplace",
+      "Jeffrey 71st \u2013 Hamblin, Sue",
+      "Jeffrey 71st \u2013 Miller, Charles",
+      "Jeffrey 71st \u2013 Miller, Charles",
+      "Jeffrey 71st \u2013 Miller, Charles",
+      "Jeffrey 71st \u2013 Sawyers Tom/Pat (telephones) (Barbara (wife))",
+      "Jeffrey 71st \u2013 Sawyers Tom/Pat (telephones)",
+      "Jeffrey 71st \u2013 Tindall, Brent"
+    ],
+    "organizations": [
+      "Miller & Raved Inc.",
+      "Miller & Raved Inc."
+    ],
+    "locations": {
+      "international": [
+        "South Africa",
+        "France"
+      ],
+      "us_cities": [
+        "Boston",
+        "Crotin on Hudso",
+        "Toulouse",
+        "Frenchtown",
+        "New Rochelle",
+        "New York",
+        "Port Washington",
+        "Cape Town"
+      ],
+      "elite_addresses": []
+    }
+  },
+  "insights": [
+    "Geographic cluster: New York (18 entries)"
+  ]
+}

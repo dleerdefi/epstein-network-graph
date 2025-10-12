@@ -1,0 +1,793 @@
+{
+  "page_number": 79,
+  "section": "S Names",
+  "entries": [
+    {
+      "name": "Schantz, Jeffrey",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1625 Yestler Avenue",
+          "street": "1625 Yestler Avenue",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Regular NY",
+          "location": "Regular NY",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "917 714 7700 work",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 229 1065 Jeff",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "cell",
+          "number": "917 974 7588 Cell Jeff",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 229 1068 cell",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "AA phones",
+          "number": "718 514 Flyer",
+          "area_code": "718",
+          "geographic_indicator": "NYC outer boroughs",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "jeff@schantzgroupllc.com",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Jeffrey Schantz - Yestler Avenue",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Schoville, Douglas A",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "240 Riverside Drive #12D",
+          "street": "240 Riverside Drive #12D",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "New York, NY 10025",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10025",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "H",
+          "number": "212 932 2818 (H)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 581 0101 General",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 581 8100 cell Jeffrey",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Douglas A Schoville - Riverside Drive NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Shadow, Monty",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Abigail Cassidy",
+          "contact": "Abigail Cassidy",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Ben Nermine State (RO)",
+          "location": "Ben Nermine State (RO)",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "917332091202020200",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "917336 333",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "medium"
+        }
+      ],
+      "additional_info": [
+        "917170174333357100private call",
+        "917190033334100 private Box st home"
+      ],
+      "notes": "Monty Shadow - Ben Nermine State",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Phone numbers unclear or malformed"]
+      }
+    },
+    {
+      "name": "Shaeffer David",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 315 421 301W(h)",
+          "area_code": "315",
+          "geographic_indicator": "Syracuse NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 221 9343(h)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 221 9347(h)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        }
+      ],
+      "notes": "David Shaeffer - Syracuse and Long Island",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Snyder, Richard & Laura",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "5 Park Ave",
+          "street": "5 Park Avenue",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Lincoln Banks Forum Associates",
+          "company": "Lincoln Banks Forum Associates",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Apt 15 L.N",
+          "apartment": "Apt 15 L.N",
+          "confidence": "low"
+        }
+      ],
+      "additional_info": [
+        "700 Ave Avenue (CL)"
+      ],
+      "notes": "Richard & Laura Snyder - Park Avenue",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Solomon, Melissa",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "8800 Washington Plaza",
+          "street": "8800 Washington Plaza",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "New York, NY 10016",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10016",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 268 0004",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 449 0044 C",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Waldorf Towers Central Plaza",
+        "5400 Ave",
+        "901 999 4243 United Alissa",
+        "901 542 8111 West Palace",
+        "212 421 1212 [illegible]",
+        "212 421 1213 [illegible]"
+      ],
+      "notes": "Melissa Solomon - Washington Plaza NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Some additional numbers illegible"]
+      }
+    },
+    {
+      "name": "Sowell, Dottis",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "737 Park Avenue, Apt 6D",
+          "street": "737 Park Avenue Apt 6D",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "New York, NY 10021",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 472 2410",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 472 2405",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "cell",
+          "number": "305 333 2411 cell",
+          "area_code": "305",
+          "geographic_indicator": "Miami",
+          "confidence": "high"
+        },
+        {
+          "type": "portable",
+          "number": "917 446 4669 portable",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Dottis Sowell - Park Avenue NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Spector, Warren",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "920 Marlowe #20",
+          "street": "920 Marlowe #20",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "5441 Brown Forest (w)",
+          "street": "5441 Brown Forest",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 278 6713 W",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 278 8714 (O)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "[illegible]@tellyacom",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Warren Spector - Marlowe address",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Email illegible"]
+      }
+    },
+    {
+      "name": "Stark, Caroline",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "10 West 77th Street (h)",
+          "street": "10 West 77th Street",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "NY NY 10024",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10024",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "315 Madison Building (h)",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "212 479 7674 (home)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Good Work Telephone 100",
+        "Work Eilat 33339116",
+        "Carolyn Telephone (w)",
+        "9321 Riverside Ave",
+        "Work # 15"
+      ],
+      "notes": "Caroline Stark - West 77th Street NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Staley, Jes",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "5 East #",
+          "street": "5 East",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Somers # 19919",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "corner of Main B",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "317 874 8243 Mobile",
+          "area_code": "317",
+          "geographic_indicator": "Indianapolis",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "[illegible]@jpmorgan.com",
+          "confidence": "low"
+        }
+      ],
+      "additional_info": [
+        "315 #",
+        "900 Park Avenue"
+      ],
+      "notes": "Jes Staley - JPMorgan connection",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Address incomplete", "Email partially illegible"]
+      }
+    },
+    {
+      "name": "Stock, Ann",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "3610 Prospect",
+          "street": "3610 Prospect",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Washington DC 20007",
+          "city": "Washington",
+          "state": "DC",
+          "postal_code": "20007",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "2025555114",
+          "area_code": "202",
+          "geographic_indicator": "Washington DC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Ann Stock - Prospect Street Washington DC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Stone, Linda",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "P.O. Box 2477",
+          "postal_box": "P.O. Box 2477",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "P.O. Box 98002 (assistant)",
+          "postal_box": "P.O. Box 98002",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "402 705 2350 Home",
+          "area_code": "402",
+          "geographic_indicator": "Nebraska",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "402 705 2360 South",
+          "area_code": "402",
+          "geographic_indicator": "Nebraska",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "402 705 705 0717 (H31)",
+          "area_code": "402",
+          "geographic_indicator": "Nebraska",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Cell 705 8363 # office",
+        "Cell 705 8563 [illegible]",
+        "425 705 8564 Linda Simonite"
+      ],
+      "notes": "Linda Stone - P.O. Box addresses",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Some numbers partially illegible"]
+      }
+    },
+    {
+      "name": "Steel, Kim",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "305 532 617 5083",
+          "area_code": "305",
+          "geographic_indicator": "Miami",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 974 3914 cell",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 683 0125",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "number",
+          "number": "212 581 1132 number",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Kim Steel - Miami and NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Stein, Andrew",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 360 1999",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Andrew Stein",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Stroll, Lawrence S.",
+      "category": "Personal",
+      "location": "Switzerland",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Plaisand Street",
+          "street": "Plaisand Street",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Lausanne",
+          "city": "Lausanne",
+          "country": "Switzerland",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Plaza Hotel NY 10019",
+          "location": "Plaza Hotel NY",
+          "postal_code": "10019",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 307 3333 (O)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "514 937 3222 cell",
+          "area_code": "514",
+          "geographic_indicator": "Montreal",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "10 Birkenhald Germany",
+        "305 233 2424",
+        "Covent, Quebec",
+        "514 937 3175 Canada"
+      ],
+      "notes": "Lawrence S. Stroll - Lausanne Switzerland",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Hewitt Fifth Avenue (h)",
+      "category": "Location",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Fifth Avenue",
+          "street": "Fifth Avenue",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York, NY 10031",
+          "postal_code": "10031",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "917 843 8585 (h)",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 843 8586 (h) brass[illegible]",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Hewitt Fifth Avenue location",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Additional entries",
+      "category": "Various",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 522 5098 Work",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 522 5030",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "305 485 5053 #",
+        "305 485 5054",
+        "305 485 5056 Stanley (h)",
+        "305 485 5352",
+        "305 485 5354 Emergency contact"
+      ],
+      "notes": "Additional contact numbers",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 17,
+    "illegible_entries": 0,
+    "partial_entries": 5,
+    "sections": ["S Names"],
+    "notable_entries": [
+      "Jes Staley - JPMorgan connection",
+      "Andrew Stein - NYC politician",
+      "Warren Spector - Financial executive",
+      "Lawrence S. Stroll - International businessman",
+      "Multiple Park Avenue addresses"
+    ],
+    "geographic_distribution": {
+      "usa": 15,
+      "switzerland": 1,
+      "canada": 1,
+      "nyc": 11,
+      "washington_dc": 1,
+      "miami": 2
+    },
+    "location_highlights": [
+      "737 Park Avenue (Dottis Sowell)",
+      "240 Riverside Drive",
+      "West 77th Street NYC",
+      "Lausanne Switzerland (Lawrence Stroll)",
+      "Washington DC Prospect Street"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 12,
+      "medium_confidence": 3,
+      "low_confidence": 2,
+      "specific_issues": [
+        "Some email addresses illegible",
+        "Monty Shadow entry has malformed phone numbers",
+        "Various partial addresses and numbers"
+      ]
+    }
+  }
+}

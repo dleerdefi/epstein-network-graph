@@ -1,0 +1,303 @@
+{
+  "page_number": 6,
+  "file_path": "data/flight_logs_images/page-006.png",
+  "type": "aircraft_flight_log",
+  "content": {
+    "text": "DATE | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARKS | POINTS OF DEPARTURE & ARRIVAL | FROM | TO | MILEAGE SINGLE PILOT | FLY TIME | REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS | AIRCRAFT CATEGORY\n\n29 N908JE N908JE JFK CMH 16 76 Naomi Campbell\n1 '' '' CMH OKL 13 77 JEFFREY, EVA\n2 '' '' BKL CMH 16 78 JEFFREY, EVA\n3 '' '' CMH CMH 23 79 MARIA + ADRIANA ROSS PHONE\n5 '' '' SXM CMH 1 80 ''\n7 '' '' CMH BKL 1 81 ''\n7 '' '' BKL CMH 16 82 ''\n11 '' '' CMH TED 20 83 JEFFREY + MARILYN HAWKINS, SANDY\n13 '' '' TED JFK 6 84 EMILY, LAUREN, K SARAH\n15 '' '' CMH TED 21 85 JEFFREY, CB TED + KIM W, SANDY\n18 '' '' TED PSP 61 86 JEFFREY LEE, ATF, NATE SANDY, MARIA\n6 '' '' PSP CPS 1 87 ZAK JM L TAR CB WT VIP CHARLIE SAURA\n26 '' '' CPS PGP 65 88 JEFFREY, VIA DOF ATT BKL GM + JEFFREY + SARAH KELLER\n21 '' '' PGP TEB 31 89 VICKY WOOD, CASEY, FOREST\n22 '' '' TEB PGP 1 90 MONTE\n4 '' '' PGP TEB 40 91 J/JEFFJ, ROBERT WITHNEY STD HB\n25 '' '' FSP CMH 71 92 JEFFREY, MELINDA, DERSHOWITZ\n26 '' '' TEB CMH 11 93 JE, GM MAXWELL\n5 '' '' CMH ASC 18 94\n\nPAGE TOTAL\nAMT. FORWARD: 137 + 543.4 = 1517.3\nTOTAL TO DATE: 543.4 + 973.9 = 1517.3\n\nI certify that the statements made by me on this form are true.\n\nPILOT'S SIGNATURE: David Rodgers",
+    "handwritten": true,
+    "typed": false,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "Complete cell-by-cell transcription provided above",
+      "flight_records": [
+        {
+          "date": "10/29/91",
+          "departure": "JFK",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "1.6 hrs",
+          "passengers": ["Naomi Campbell"],
+          "pilot": "David Rodgers",
+          "notes": "Naomi Campbell"
+        },
+        {
+          "date": "11/1/91",
+          "departure": "CMH",
+          "arrival": "OKL",
+          "aircraft": "N908JE",
+          "flight_time": "1.3 hrs",
+          "passengers": ["Jeffrey", "Eva"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, EVA"
+        },
+        {
+          "date": "11/2/91",
+          "departure": "BKL",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "1.6 hrs",
+          "passengers": ["Jeffrey", "Eva"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, EVA"
+        },
+        {
+          "date": "11/3/91",
+          "departure": "CMH",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "2.3 hrs",
+          "passengers": ["Maria", "Adriana Ross"],
+          "pilot": "David Rodgers",
+          "notes": "MARIA + ADRIANA ROSS PHONE"
+        },
+        {
+          "date": "11/5/91",
+          "departure": "SXM",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "0.1 hrs",
+          "passengers": [],
+          "pilot": "David Rodgers",
+          "notes": "''"
+        },
+        {
+          "date": "11/7/91",
+          "departure": "CMH",
+          "arrival": "BKL",
+          "aircraft": "N908JE",
+          "flight_time": "0.1 hrs",
+          "passengers": [],
+          "pilot": "David Rodgers",
+          "notes": "''"
+        },
+        {
+          "date": "11/7/91",
+          "departure": "BKL",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "1.6 hrs",
+          "passengers": [],
+          "pilot": "David Rodgers",
+          "notes": "''"
+        },
+        {
+          "date": "11/11/91",
+          "departure": "CMH",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "2.0 hrs",
+          "passengers": ["Jeffrey", "Marilyn Hawkins", "Sandy"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY + MARILYN HAWKINS, SANDY"
+        },
+        {
+          "date": "11/13/91",
+          "departure": "TED",
+          "arrival": "JFK",
+          "aircraft": "N908JE",
+          "flight_time": "0.6 hrs",
+          "passengers": ["Emily", "Lauren", "K Sarah"],
+          "pilot": "David Rodgers",
+          "notes": "EMILY, LAUREN, K SARAH"
+        },
+        {
+          "date": "11/15/91",
+          "departure": "CMH",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "2.1 hrs",
+          "passengers": ["Jeffrey", "CB", "Kim W", "Sandy"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, CB TED + KIM W, SANDY"
+        },
+        {
+          "date": "11/18/91",
+          "departure": "TED",
+          "arrival": "PSP",
+          "aircraft": "N908JE",
+          "flight_time": "6.1 hrs",
+          "passengers": ["Jeffrey", "Lee", "ATF", "Nate", "Sandy", "Maria"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY LEE, ATF, NATE SANDY, MARIA"
+        },
+        {
+          "date": "12/6/91",
+          "departure": "PSP",
+          "arrival": "CPS",
+          "aircraft": "N908JE",
+          "flight_time": "0.1 hrs",
+          "passengers": ["Zak", "JM", "L", "Tar", "CB", "WT", "VIP", "Charlie", "Saura"],
+          "pilot": "David Rodgers",
+          "notes": "ZAK JM L TAR CB WT VIP CHARLIE SAURA"
+        },
+        {
+          "date": "12/26/91",
+          "departure": "CPS",
+          "arrival": "PGP",
+          "aircraft": "N908JE",
+          "flight_time": "6.5 hrs",
+          "passengers": ["Jeffrey", "GM", "Sarah Keller"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, VIA DOF ATT BKL GM + JEFFREY + SARAH KELLER"
+        },
+        {
+          "date": "12/21/91",
+          "departure": "PGP",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "3.1 hrs",
+          "passengers": ["Vicky Wood", "Casey", "Forest"],
+          "pilot": "David Rodgers",
+          "notes": "VICKY WOOD, CASEY, FOREST"
+        },
+        {
+          "date": "12/22/91",
+          "departure": "TEB",
+          "arrival": "PGP",
+          "aircraft": "N908JE",
+          "flight_time": "0.1 hrs",
+          "passengers": ["Monte"],
+          "pilot": "David Rodgers",
+          "notes": "MONTE"
+        },
+        {
+          "date": "1/4/92",
+          "departure": "PGP",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "4.0 hrs",
+          "passengers": ["J", "Jeff", "Robert Withney"],
+          "pilot": "David Rodgers",
+          "notes": "J/JEFFJ, ROBERT WITHNEY STD HB"
+        },
+        {
+          "date": "1/25/92",
+          "departure": "FSP",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "7.1 hrs",
+          "passengers": ["Jeffrey", "Melinda", "Dershowitz"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, MELINDA, DERSHOWITZ"
+        },
+        {
+          "date": "1/26/92",
+          "departure": "TEB",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "1.1 hrs",
+          "passengers": ["JE", "GM Maxwell"],
+          "pilot": "David Rodgers",
+          "notes": "JE, GM MAXWELL"
+        },
+        {
+          "date": "2/5/92",
+          "departure": "CMH",
+          "arrival": "ASC",
+          "aircraft": "N908JE",
+          "flight_time": "1.8 hrs",
+          "passengers": [],
+          "pilot": "David Rodgers",
+          "notes": ""
+        }
+      ],
+      "headers": ["DATE", "AIRCRAFT MAKE AND MODEL", "AIRCRAFT IDENTIFICATION MARKS", "POINTS OF DEPARTURE & ARRIVAL", "FROM", "TO", "MILEAGE SINGLE PILOT", "FLY TIME", "REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS", "AIRCRAFT CATEGORY"],
+      "annotations": ["PHONE", "VIP", "STD HB", "VIA DOF ATT BKL", "Empty quotes ('')"]
+    }
+  },
+  "entities": {
+    "people": [
+      "Naomi Campbell",
+      "Jeffrey",
+      "Eva",
+      "Maria",
+      "Adriana Ross",
+      "Marilyn Hawkins",
+      "Sandy",
+      "Emily",
+      "Lauren",
+      "K Sarah",
+      "CB",
+      "Kim W",
+      "Lee",
+      "ATF",
+      "Nate",
+      "Zak",
+      "JM",
+      "L",
+      "Tar",
+      "WT",
+      "Charlie",
+      "Saura",
+      "GM",
+      "GM Maxwell",
+      "Sarah Keller",
+      "Vicky Wood",
+      "Casey",
+      "Forest",
+      "Monte",
+      "J",
+      "Jeff",
+      "Robert Withney",
+      "Melinda",
+      "Dershowitz",
+      "JE",
+      "David Rodgers"
+    ],
+    "organizations": [],
+    "locations": [
+      "JFK",
+      "CMH",
+      "OKL",
+      "BKL",
+      "SXM",
+      "TED",
+      "PSP",
+      "CPS",
+      "PGP",
+      "TEB",
+      "FSP",
+      "ASC"
+    ],
+    "dates": ["10/29/91", "11/1/91", "11/2/91", "11/3/91", "11/5/91", "11/7/91", "11/11/91", "11/13/91", "11/15/91", "11/18/91", "12/6/91", "12/21/91", "12/22/91", "12/26/91", "1/4/92", "1/25/92", "1/26/92", "2/5/92"],
+    "aircraft": ["N908JE"],
+    "phones": [],
+    "emails": []
+  },
+  "visual_elements": {
+    "signatures": ["David Rodgers (pilot signature at bottom)"],
+    "stamps": [],
+    "corrections": ["Ditto marks ('') throughout", "Mathematical corrections in totals"],
+    "redactions": []
+  },
+  "metadata": {
+    "log_type": "passenger_and_cargo_manifest",
+    "time_period": "October 1991-February 1992",
+    "total_flights": 19,
+    "page_condition": "good",
+    "aircraft_registration": "N908JE",
+    "running_total_hours": "1517.3",
+    "handwriting_notes": "Consistent handwriting, some entries use empty quotes ('') to indicate no passengers or continuation"
+  },
+  "insights": [
+    "NAOMI CAMPBELL appears as passenger - supermodel and celebrity",
+    "DERSHOWITZ appears with Jeffrey and Melinda - Alan Dershowitz, prominent lawyer",
+    "GM MAXWELL explicitly written - confirming GM as Ghislaine Maxwell",
+    "JE abbreviation used for Jeffrey Epstein",
+    "VIP notation appears with large group on date 6",
+    "PHONE notation after Adriana Ross - possibly phone number recorded elsewhere",
+    "SXM airport code - Sint Maarten, Caribbean destination",
+    "PGP appears multiple times - possibly Guadeloupe (Pointe-à-Pitre)",
+    "Eva appears with Jeffrey on consecutive flights",
+    "Sandy appears multiple times with different groups",
+    "Very short flight times (0.1 hrs) appear multiple times - possibly data entry errors or very short repositioning flights",
+    "Robert Withney noted with 'STD HB' - possibly standard or standby notation",
+    "Large passenger group on date 6 with 9 people including 'VIP' designation",
+    "Casey appears again (previously seen on earlier pages)",
+    "Marilyn Hawkins travels with Jeffrey",
+    "Sarah Keller distinguished from other Sarahs by full name",
+    "Complex notation 'VIA DOF ATT BKL' - possibly routing information",
+    "ASC as new destination - possibly Ascension Island or another location",
+    "Pattern of Jeffrey traveling with 1-3 companions continues"
+  ]
+}

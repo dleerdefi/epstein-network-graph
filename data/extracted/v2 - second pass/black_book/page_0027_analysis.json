@@ -1,0 +1,588 @@
+{
+  "page_number": 27,
+  "alphabetical_section": "H",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "027_hodges_elliot",
+      "name": {
+        "full_name": "R Hodges  Elliot apt",
+        "prefix": null,
+        "first_name": "Elliot",
+        "middle_name": null,
+        "last_name": "Hodges",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "00 33 66 61 70 64 (h)", "formatting": "International to France"},
+        {"type": "home", "number": "01570 79 21320", "formatting": "UK format"},
+        {"type": "mobile", "number": "0850 127 5530", "formatting": "Mobile"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "France/UK connections"
+    },
+    {
+      "entry_id": "027_hoffman_jessica",
+      "name": {
+        "full_name": "Hoffman, Jessica",
+        "prefix": null,
+        "first_name": "Jessica",
+        "middle_name": null,
+        "last_name": "Hoffman",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 917 859 8047", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["135 Florence Hill Road", "Auvergue, Mon 21037"],
+          "city": "Auvergne",
+          "state": "MO",
+          "postal_code": "21037",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "US contact"
+    },
+    {
+      "entry_id": "027_holland_martin_ben",
+      "name": {
+        "full_name": "Holland-Martin, Ben",
+        "prefix": null,
+        "first_name": "Ben",
+        "middle_name": null,
+        "last_name": "Holland-Martin",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207-351 5631 (h)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Radnor Walk"],
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "medium"
+      },
+      "formatting_notes": "UK contact"
+    },
+    {
+      "entry_id": "027_hollond_mr_mrs_james",
+      "name": {
+        "full_name": "Hollond, Mr & Mrs James",
+        "prefix": "Mr",
+        "first_name": "James",
+        "middle_name": null,
+        "last_name": "Hollond",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Mrs Hollond"
+      },
+      "phones": [
+        {"type": "home", "number": "01822 852 000 (p)", "formatting": "UK format"},
+        {"type": "mobile", "number": "01822 852 500 (p)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Endsleigh", "Devon EX20"],
+          "city": "Devon",
+          "postal_code": "EX20",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Bea and James European Financial Products Ld"
+    },
+    {
+      "entry_id": "027_horne_adam_tierney",
+      "name": {
+        "full_name": "Horne Adam & Tierney",
+        "prefix": null,
+        "first_name": "Adam",
+        "middle_name": null,
+        "last_name": "Horne",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Tierney"
+      },
+      "phones": [
+        {"type": "work", "number": "001 5087", "formatting": "US extension"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["1A Centre Terrace", "London SW7 6022"],
+          "city": "London",
+          "postal_code": "SW7 6022",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "addresses": "high"
+      },
+      "formatting_notes": "UK couple"
+    },
+    {
+      "entry_id": "027_phone_numbers",
+      "name": {
+        "full_name": null,
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": null,
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207-730 4088 (h)", "formatting": "UK format"},
+        {"type": "pager", "number": "07789 587 811 (p)", "formatting": "UK mobile"}
+      ],
+      "emails": [
+        {"type": "personal", "email": "shelly@belledauventure.co"}
+      ],
+      "addresses": [],
+      "handwritten_notes": ["Email: shelly@belledauventure.co", "Melanie Bloomberg - Fanningtown p", "212 406", "0207 -", "001 516 799 6901"],
+      "confidence": {
+        "phones": "high",
+        "emails": "high"
+      },
+      "formatting_notes": "Orphan contact info"
+    },
+    {
+      "entry_id": "027_hoveniann_nina",
+      "name": {
+        "full_name": "Hovenian, Nina",
+        "prefix": null,
+        "first_name": "Nina",
+        "middle_name": null,
+        "last_name": "Hovenian",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 696 1687(h)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "NYC contact"
+    },
+    {
+      "entry_id": "027_hovnanian_shaunt",
+      "name": {
+        "full_name": "Hovnanian, Shaunt",
+        "prefix": null,
+        "first_name": "Shaunt",
+        "middle_name": null,
+        "last_name": "Hovnanian",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 873 3200 home", "formatting": "International to US"},
+        {"type": "work", "number": "001 610 891 7846 (w)", "formatting": "International to US"},
+        {"type": "mobile", "number": "212-696-1687 Nina", "formatting": "US format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Berkeley House", "162 Park Ave"],
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": ["001 201 870 1212", "00 941 4191 as (Karen - the", "secretary)", "212-696-1687 Nina"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Hovnanian construction company"
+    },
+    {
+      "entry_id": "027_howard_j_kaplan",
+      "name": {
+        "full_name": "Howard, J. Kaplan",
+        "prefix": null,
+        "first_name": "Howard",
+        "middle_name": "J",
+        "last_name": "Kaplan",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "mobile", "number": "07747- 038129", "formatting": "UK mobile"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["17/17 G. Stevensin Drive"],
+          "notes": "Address unclear"
+        }
+      ],
+      "handwritten_notes": ["Derby DE 23116", "Road Flat 21330"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "low"
+      },
+      "formatting_notes": "UK contact"
+    },
+    {
+      "entry_id": "027_phone_305_466_0677",
+      "name": {
+        "full_name": null,
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": null,
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "305 466 0677 (h)", "formatting": "US format"},
+        {"type": "work", "number": "305 466 6884 (w)", "formatting": "US format"}
+      ],
+      "emails": [
+        {"type": "business", "email": "Maggie@livingnrop.com"}
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["14035 USA"],
+          "notes": "Incomplete address"
+        }
+      ],
+      "handwritten_notes": ["Email: Maggie@livingnrop.com", "10100 Bel Air Rd", "Manse Bell CA, 94178"],
+      "confidence": {
+        "phones": "high",
+        "emails": "high",
+        "addresses": "low"
+      },
+      "formatting_notes": "Miami area code - orphan entry"
+    },
+    {
+      "entry_id": "027_howegego_lucy_johnnson",
+      "name": {
+        "full_name": "Howegego, (Johnnson) Lucy",
+        "prefix": null,
+        "first_name": "Lucy",
+        "middle_name": null,
+        "last_name": "Howegego (Johnnson)",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0410 841 808 (p)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "027_hsu_peter",
+      "name": {
+        "full_name": "Hsu, Peter",
+        "prefix": null,
+        "first_name": "Peter",
+        "middle_name": null,
+        "last_name": "Hsu",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 734 0007(h)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "NYC contact"
+    },
+    {
+      "entry_id": "027_hunt_laura",
+      "name": {
+        "full_name": "Hunt, Laura",
+        "prefix": null,
+        "first_name": "Laura",
+        "middle_name": null,
+        "last_name": "Hunt",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 617 247 69", "formatting": "International to US - incomplete"},
+        {"type": "home", "number": "516 922 4415 (h)", "formatting": "US format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["P.O. Box", "Cambridge Turtle Creek Blvd. 81"],
+          "notes": "Address unclear"
+        }
+      ],
+      "handwritten_notes": ["001 817 803 4445 Tx", "001 817 803 5370 direct", "001 614 785 4222 Oh"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "low"
+      },
+      "formatting_notes": "Multiple US locations"
+    },
+    {
+      "entry_id": "027_hunter_carlyn_laurie",
+      "name": {
+        "full_name": "Hunter, Carlyn & Laurie",
+        "prefix": null,
+        "first_name": "Carlyn",
+        "middle_name": null,
+        "last_name": "Hunter",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Laurie"
+      },
+      "phones": [
+        {"type": "home", "number": "0207-229 7566 (h)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["10 St. Marys Terrace"],
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "UK couple"
+    },
+    {
+      "entry_id": "027_huntsman_jon_mary_kaye",
+      "name": {
+        "full_name": "Huntsman, Jon & Mary Kaye",
+        "prefix": null,
+        "first_name": "Jon",
+        "middle_name": null,
+        "last_name": "Huntsman",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Mary Kate"
+      },
+      "phones": [
+        {"type": "home", "number": "001 951 244 74103", "formatting": "International to US"},
+        {"type": "home", "number": "001 561 833 0602", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["1255 Million Way"],
+          "notes": "Address incomplete"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "low"
+      },
+      "formatting_notes": "US couple"
+    },
+    {
+      "entry_id": "027_hurd_nick_kim",
+      "name": {
+        "full_name": "Hurd, Nick & Kim",
+        "prefix": null,
+        "first_name": "Nick",
+        "middle_name": null,
+        "last_name": "Hurd",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Kim"
+      },
+      "phones": [
+        {"type": "home", "number": "0208 883 3451", "formatting": "UK format"},
+        {"type": "mobile", "number": "0378 567 060", "formatting": "UK mobile"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Happy Hill House", "1070 San Francisco"],
+          "notes": "Mixed UK/US address"
+        }
+      ],
+      "handwritten_notes": ["michaelchristopher@duke.co", "0171 629 8261087", "00 39 55 2831307", "0653 641698 p(y)"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "low"
+      },
+      "formatting_notes": "UK politician - son of Douglas Hurd"
+    },
+    {
+      "entry_id": "027_hurley_liz",
+      "name": {
+        "full_name": "Hurley, Liz",
+        "prefix": null,
+        "first_name": "Liz",
+        "middle_name": null,
+        "last_name": "Hurley",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 310 652 0830", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "business",
+          "address_lines": ["Simian Films", "3 Cromwell Place", "London SW7 2JE"],
+          "city": "London",
+          "postal_code": "SW7 2JE",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Actress/model"
+    },
+    {
+      "entry_id": "027_hunter_gordon_kit",
+      "name": {
+        "full_name": "Hunter Gordon, Kit &",
+        "prefix": null,
+        "first_name": "Kit",
+        "middle_name": null,
+        "last_name": "Hunter Gordon",
+        "suffix": null
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["9 Edgerton Terrace", "London, SW3"],
+          "city": "London",
+          "postal_code": "SW3",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Chelsea, London"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 19,
+    "legibility": "excellent",
+    "page_condition": "good",
+    "notes": "Notable entries include Liz Hurley (actress/model), Nick Hurd (UK politician, son of Douglas Hurd), Simon Hornby (business figure), Hovnanian construction family"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Elliot Hodges",
+      "Jessica Hoffman",
+      "Ben Holland-Martin",
+      "James Hollond",
+      "Mrs Hollond",
+      "Adam Horne",
+      "Tierney Horne",
+      "Nina Hovenian",
+      "Shaunt Hovnanian",
+      "Howard J. Kaplan",
+      "Peter Hsu",
+      "Laura Hunt",
+      "Carlyn Hunter",
+      "Laurie Hunter",
+      "Jon Huntsman",
+      "Mary Kaye Huntsman",
+      "Nick Hurd",
+      "Kim Hurd",
+      "Liz Hurley",
+      "Kit Hunter Gordon",
+      "Lucy Howegego"
+    ],
+    "organizations": [
+      "Hovnanian Construction",
+      "Simian Films"
+    ],
+    "locations": [
+      "France",
+      "Devon, UK",
+      "London, UK",
+      "New York, NY",
+      "Miami, FL",
+      "California",
+      "Texas",
+      "Ohio"
+    ]
+  },
+  "insights": [
+    "Liz Hurley - actress and model with Simian Films production company",
+    "Nick Hurd - UK Conservative politician, son of former Foreign Secretary Douglas Hurd",
+    "Hovnanian family - major US construction/homebuilding company",
+    "Simon Hornby - likely former chairman of WHSmith",
+    "Multiple Devon estate entries suggesting aristocratic connections",
+    "Chelsea and South Kensington London addresses predominant",
+    "Mix of entertainment, politics, and business figures",
+    "International scope with France, UK, and US connections",
+    "Several couples listed together indicating social circle",
+    "Orphan entries suggest continued lists from previous page"
+  ]
+}

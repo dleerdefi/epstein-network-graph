@@ -1,0 +1,293 @@
+{
+  "page_number": 103,
+  "date_header": "JUL-SEP 2003",
+  "time_period": "July 2003 - September 2003",
+  "aircraft": {
+    "registration": "Multiple (B-727-31W N908JE, G-1159B N909JE)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "JUL 31",
+      "date": "07/31/2003",
+      "departure": "B-727-31W",
+      "arrival": "N908JE",
+      "flight_time": "215",
+      "remarks": "JFK - PBI - CARLOS, [REDACTED]",
+      "passengers": ["CARLOS", "REDACTED"],
+      "crew": "Anderson George Vaccaro 2/5"
+    },
+    {
+      "entry_number": "AUG 4",
+      "date": "08/04/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "216",
+      "remarks": "PBI - TIST - JE, BT, AM, GM, SK",
+      "passengers": ["JE", "BT", "AM", "GM", "SK"],
+      "crew": "Chris Roberts 1/1 2/4"
+    },
+    {
+      "entry_number": "4",
+      "date": "08/04/2003",
+      "departure": "B HT-407",
+      "arrival": "N141CM",
+      "flight_time": "",
+      "remarks": "LSGM - 0/0",
+      "passengers": [],
+      "crew": "3"
+    },
+    {
+      "entry_number": "5",
+      "date": "08/05/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "TEST-LOC - TIST",
+      "passengers": [],
+      "crew": "3"
+    },
+    {
+      "entry_number": "10",
+      "date": "08/10/2003",
+      "departure": "B-727-31W",
+      "arrival": "N908JE",
+      "flight_time": "217",
+      "remarks": "TIST - JFK - JE, AM, JET, GM, Chris Roberts Wentworth, Emery, Audrey Johnsen",
+      "passengers": ["JE", "AM", "JET", "GM", "Chris Roberts", "Wentworth", "Emery", "Audrey Johnsen"],
+      "crew": "Chris Roberts 3/8"
+    },
+    {
+      "entry_number": "10",
+      "date": "08/10/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "218",
+      "remarks": "JFK - PBI - [unclear]",
+      "passengers": [],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "13",
+      "date": "08/13/2003",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1624",
+      "remarks": "MRY - TEB - [unclear]",
+      "passengers": [],
+      "crew": "1/1 9"
+    },
+    {
+      "entry_number": "19",
+      "date": "08/19/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1650",
+      "remarks": "TEB - SAC - JE, REDACTED, GM",
+      "passengers": ["JE", "REDACTED", "GM"],
+      "crew": "2/3"
+    },
+    {
+      "entry_number": "20",
+      "date": "08/20/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1651",
+      "remarks": "SAC - ASE - JE, SK, GM",
+      "passengers": ["JE", "SK", "GM"],
+      "crew": "3"
+    },
+    {
+      "entry_number": "20",
+      "date": "08/20/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1652",
+      "remarks": "ASE - TEB - JE, SK, GM",
+      "passengers": ["JE", "SK", "GM"],
+      "crew": "3/8"
+    },
+    {
+      "entry_number": "22",
+      "date": "08/22/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1657",
+      "remarks": "TEB - PBI - JE, GM, SK, TM",
+      "passengers": ["JE", "GM", "SK", "TM"],
+      "crew": "2/3"
+    },
+    {
+      "entry_number": "31",
+      "date": "08/31/2003",
+      "departure": "G-727-31W",
+      "arrival": "N908JE",
+      "flight_time": "219",
+      "remarks": "PBI - JAX - [unclear]",
+      "passengers": [],
+      "crew": "4"
+    },
+    {
+      "entry_number": "31",
+      "date": "08/31/2003",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "",
+      "remarks": "PBI - TEB - JE, BT, GM, SD",
+      "passengers": ["JE", "BT", "GM", "SD"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "31",
+      "date": "08/31/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1657",
+      "remarks": "TEB - TEB - [unclear]",
+      "passengers": [],
+      "crew": "3"
+    },
+    {
+      "entry_number": "SEP 16",
+      "date": "09/16/2003",
+      "departure": "",
+      "arrival": "SEABROOK",
+      "flight_time": "",
+      "remarks": "LOB - LOB - Kilgallin, Chris Conrod, Mrs. K, Kelly, SEA EFF",
+      "passengers": ["Kilgallin", "Chris Conrod", "Mrs. K", "Kelly", "SEA EFF"],
+      "crew": "1/1 4/5"
+    },
+    {
+      "entry_number": "17",
+      "date": "09/17/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "LOB - LOB - Kilgallin, Chris Conrod, Kelly, Gabriel",
+      "passengers": ["Kilgallin", "Chris Conrod", "Kelly", "Gabriel"],
+      "crew": "4/5"
+    },
+    {
+      "entry_number": "18",
+      "date": "09/18/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "LOB - LOB - Chris Conrod, Chris Gallucci",
+      "passengers": ["Chris Conrod", "Chris Gallucci"],
+      "crew": "4/4 4/0"
+    },
+    {
+      "entry_number": "22",
+      "date": "09/22/2003",
+      "departure": "",
+      "arrival": "N909JE",
+      "flight_time": "1662",
+      "remarks": "PBI - TIST - JE, BT, REDACTED, S, SD, TD",
+      "passengers": ["JE", "BT", "REDACTED", "S", "SD", "TD"],
+      "crew": "1/1 2/6"
+    },
+    {
+      "entry_number": "26",
+      "date": "09/26/2003",
+      "departure": "B-727-200",
+      "arrival": "SEABROOK",
+      "flight_time": "",
+      "remarks": "MRD - MTD - Chris Shapiro, Dominic TSK",
+      "passengers": ["Chris Shapiro", "Dominic TSK"],
+      "crew": "2/0"
+    }
+  ],
+  "entities": {
+    "people": [
+      "CARLOS",
+      "REDACTED",
+      "Anderson George Vaccaro",
+      "JE",
+      "BT",
+      "AM",
+      "GM",
+      "SK",
+      "Chris Roberts",
+      "JET",
+      "Wentworth",
+      "Emery",
+      "Audrey Johnsen",
+      "TM",
+      "SD",
+      "Kilgallin",
+      "Chris Conrod",
+      "Mrs. K",
+      "Kelly",
+      "SEA EFF",
+      "Gabriel",
+      "Chris Gallucci",
+      "S",
+      "TD",
+      "Chris Shapiro",
+      "Dominic TSK",
+      "David Rodgers"
+    ],
+    "locations": [
+      "JFK",
+      "PBI",
+      "TIST",
+      "LSGM",
+      "TEST-LOC",
+      "MRY",
+      "TEB",
+      "SAC",
+      "ASE",
+      "JAX",
+      "LOB",
+      "MRD",
+      "MTD"
+    ],
+    "aircraft": [
+      "B-727-31W",
+      "N908JE",
+      "B HT-407",
+      "N141CM",
+      "G-1159B",
+      "N909JE",
+      "G-727-31W",
+      "SEABROOK",
+      "B-727-200"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "Total to Date: 9195.5 - 9195.14",
+    "amount_forward": "9152.94",
+    "total_to_date": "9195.5",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page starts with July 31, 2003 (only one July entry)",
+    "Transitions to August 2003 for most entries",
+    "Final five entries are September 2003 (16, 17, 18, 22, 26)",
+    "JE (Jeffrey Epstein) appears frequently in August and September",
+    "SK (Sarah Kellen) appears multiple times in August",
+    "AM and GM continue to travel frequently with JE",
+    "Chris Roberts appears multiple times as crew and passenger",
+    "SEABROOK aircraft designation appears in September",
+    "Multiple REDACTED entries preserved",
+    "Colorado operations noted (ASE - Aspen) on August 20",
+    "Caribbean operations continue (TIST)",
+    "LOB location appears in September entries",
+    "Flight numbers reach 219 for B-727 and 1662 for G-1159B",
+    "Several test flights noted (TEST-LOC) in August",
+    "Mix of domestic and Caribbean operations"
+  ]
+}

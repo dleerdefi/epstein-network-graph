@@ -1,0 +1,863 @@
+{
+  "page_number": 91,
+  "section": "Various Contacts and Services",
+  "entries": [
+    {
+      "name": "Epstein, Jeffrey",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "9 East 71st Street",
+          "street": "9 East 71st Street",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "c/o New York Media Tower",
+          "location": "New York Media Tower",
+          "confidence": "high"
+        },
+        {
+          "type": "tertiary",
+          "address": "Minneola, FL / Hunter Stone",
+          "city": "Minneola",
+          "state": "FL",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "505 260 0933 Cox's 2 (J)",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 992 1100 (t) direct front",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 660 2976 Mercedes - back",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 660",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "303 660 8246 Mercedes D600",
+          "area_code": "303",
+          "geographic_indicator": "Denver",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 860 1473 J & Suburban",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "505 660 0117 Suburban#1",
+        "505 860 2217 Sam (cell)",
+        "505 992 1101 (t) Suburban"
+      ],
+      "notes": "Jeffrey Epstein - East 71st Street NYC and various locations",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Epstein, Jeffrey",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "49 Zorro Ranch Road",
+          "street": "49 Zorro Ranch Road",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Stanley, New Mexico 87056",
+          "city": "Stanley",
+          "state": "New Mexico",
+          "postal_code": "87056",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "505 780 6666 (ranch cell)",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 880 2276 Maxwell cell",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 680 2276 Mark (ranch)",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 680 2247 Adam (ranch)",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 680 0032 Stephen",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 780 8418 Simon's house",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 832 4058 Book1",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 832 4058 Book 2",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 832 4058 Book 3",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 832 4058 Book 4",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 832 4062 Stop Wood Shop",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "505 832 4058 cell control",
+        "505 832 4089 Guest Lodge (cell)",
+        "505 832 4044 Guest Lodge (H)"
+      ],
+      "notes": "Jeffrey Epstein - Zorro Ranch Stanley New Mexico",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Additional Ranch Numbers",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "505 780 0910 S-2",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 780 8618 Book 2",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 780 8418 Book 3",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 858 3434 Fax",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 678 5555 Kitchen",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 780 6111 Bryan Irak",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 780 0611 Book 4",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 780 0644 Book 5 Mary G#1",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 780 0633 Books 4 & 5",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 780 8888 Brian Kelly",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "505 780 8888 House",
+        "505 780 8666 Maxwell",
+        "505 780 0033 Mike Weinland",
+        "505 780 8033 Pity Tuesday",
+        "505 780 0033 Larry Monday",
+        "505 780 0633 Eddie V (off)"
+      ],
+      "notes": "Additional Zorro Ranch phone numbers",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Bradbury Station",
+      "category": "Location",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "505 849 5418 Bradbury Station (r)",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 780 6602 Joan Bradbury",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Bradbury Station",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Kelly, John",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "9210 Wallace Place, N.E.",
+          "street": "9210 Wallace Place N.E.",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Albuquerque, New Mexico 87105",
+          "city": "Albuquerque",
+          "state": "New Mexico",
+          "postal_code": "87105",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "505 821 1330 (w)",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 861 3402 General Street HW",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Albuquerque, NM 87105-5708",
+        "505 780 8899 Jill",
+        "505 899 1889 (W)"
+      ],
+      "notes": "John Kelly - Wallace Place Albuquerque",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Healy, Shannon",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "321 Camino Chelo",
+          "street": "321 Camino Chelo",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Santa Fe, NM 87505",
+          "city": "Santa Fe",
+          "state": "NM",
+          "postal_code": "87505",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "505 966 0418",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 983 1832 (h)",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 310 6610 (Chelsea)",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Shannon Healy - Camino Chelo Santa Fe",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Various Ranch Contacts",
+      "category": "Various",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "505 863 2742 Maureen (GM m)",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 780",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "505 852 0004 Store - GM cell to",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 228 4520 cell to Garalt",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "156 228-0203 redd (p)",
+        "G&G satellite phone"
+      ],
+      "notes": "Various ranch-related contacts",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Some numbers incomplete"]
+      }
+    },
+    {
+      "name": "King, Bruce",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "505 790 1400 cell to King Bruce",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 832-4735",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Bruce King",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "King, Rhonda",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Home",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "Work 22200 cell to house",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "505 832-4735",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Rhonda King",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone numbers incomplete"]
+      }
+    },
+    {
+      "name": "Richardson, Bill",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "505 476 2200",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 443 3334 (h)",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 444 0000",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Office direct",
+        "Secretary office"
+      ],
+      "notes": "Bill Richardson",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Santa Fe Institute",
+      "category": "Institution",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1399 Hyde Park Road",
+          "street": "1399 Hyde Park Road",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Santa Fe, NM 87501",
+          "city": "Santa Fe",
+          "state": "NM",
+          "postal_code": "87501",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "505 946-2795",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Santa Fe Institute - Hyde Park Road",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "King, Rhonda",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "7820 Lew Lane",
+          "street": "7820 Lew Lane",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "St. Lt County of Stanley",
+          "location": "Stanley County",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "505 780 2468 Rhonda #V005",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 780 4555 Rhonda home",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Santa Fe County 87056"
+      ],
+      "notes": "Rhonda King - Lew Lane Stanley",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Singleton, Dr. & Mrs.",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Lakewood Towers",
+          "location": "Lakewood Towers",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Cell:# 847 (P) (h)",
+          "area_code": "847",
+          "geographic_indicator": "Chicago suburbs",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "Cell:# 847 (P) (W)",
+          "area_code": "847",
+          "geographic_indicator": "Chicago suburbs",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Dr. & Mrs. Singleton - Lakewood Towers",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone numbers incomplete"]
+      }
+    },
+    {
+      "name": "RM",
+      "category": "Section Header",
+      "location": "Unknown",
+      "entries": [],
+      "notes": "RM section header",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Message - New Mexico",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "505 384 1433 Donna (w)",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 364 2733 Jenny",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 364 8142 (maid) <-> customer",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Message services - New Mexico",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Aloof Shelley",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 967 333 9337",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 967 333 9339",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Shelley Aloof",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Additional Entries",
+      "category": "Various",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "505 899 3333 balance",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 899 3333 balance",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 899 3338 (mobile)",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 899 3333 Larkin",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "505 899 3338 [illegible]",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "medium"
+        }
+      ],
+      "additional_info": [
+        "505 474 9170 Beverly Walker",
+        "505 988 9142 Galileo Hammer"
+      ],
+      "notes": "Various additional New Mexico contacts",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One entry partially illegible"]
+      }
+    },
+    {
+      "name": "Cowley, Dick",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 422 3691 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Dick Cowley",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Dumb, Sam",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "230 Central Park South #18F",
+          "street": "230 Central Park South #18F",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "1472 Broadway",
+          "street": "1472 Broadway",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "notes": "Sam Dumb - Central Park South",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 20,
+    "illegible_entries": 0,
+    "partial_entries": 4,
+    "sections": ["Various Contacts", "RM"],
+    "notable_entries": [
+      "Jeffrey Epstein - Zorro Ranch New Mexico extensive entries",
+      "Bill Richardson",
+      "Santa Fe Institute",
+      "Multiple ranch-related contacts and phone lines",
+      "Extensive New Mexico network"
+    ],
+    "geographic_distribution": {
+      "usa": 20,
+      "new_mexico": 18,
+      "nyc": 2,
+      "london": 1
+    },
+    "location_highlights": [
+      "Jeffrey Epstein - Zorro Ranch Stanley New Mexico",
+      "Jeffrey Epstein - 9 East 71st Street NYC",
+      "Santa Fe Institute",
+      "Extensive New Mexico ranch operations",
+      "Multiple ranch phone lines and staff"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 16,
+      "medium_confidence": 3,
+      "low_confidence": 1,
+      "specific_issues": [
+        "Some phone numbers incomplete",
+        "One entry partially illegible",
+        "Several partial contact entries"
+      ]
+    }
+  }
+}

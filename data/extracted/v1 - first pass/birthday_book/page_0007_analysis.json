@@ -1,0 +1,98 @@
+{
+  "page_number": 7,
+  "file_path": "data/birthday_book_images/page_0007.png",
+  "file_size_mb": 4.067588806152344,
+  "type": "vintage_photo_with_handwritten_caption",
+  "content": {
+    "text": "[Vintage sepia-toned photograph of Jeffrey Epstein in formal dress standing next to three armed African Soldiers holding automatic weapons.]\n\nHandwritten caption: 'These were your body guards before ya began traveling with presidents and perhaps the army and secret service to guard you.'",
+    "handwritten": true,
+    "typed": false,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "[Vintage sepia-toned photograph of Jeffrey Epstein in formal dress standing next to three armed African Soldiers holding automatic weapons.]\n\nHandwritten caption: 'These were your body guards before ya began traveling with presidents and perhaps the army and secret service to guard you.'",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Historical family photograph with personal caption",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "vintage_photo_with_handwritten_caption"
+  },
+  "insights": [
+    "Vintage family photograph with personal handwritten caption",
+    "Sepia-toned image suggests historical significance",
+    "Caption mentions 'grandf boys' and 'President', suggesting family/political connections",
+    "References to 'secret service' indicate security or protection themes",
+    "Personal nature of caption suggests intimate family knowledge",
+    "High-quality preservation of old photograph"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000007",
+  "processed_at": "2025-09-23 03:35:00",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.124675",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Vintage sepia-toned formal photograph showing multiple people in period dress, appears to be from early-to-mid 20th century",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": null,
+        "era_indicators": [],
+        "photo_quality": null,
+        "photo_type": null
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [],
+  "investigative_leads": []
+}

@@ -1,0 +1,264 @@
+{
+  "page_number": 63,
+  "alphabetical_section": "BUSINESS LISTINGS",
+  "page_header": "Restaurants, entertainment, and finance directory",
+  "contacts": [],
+  "page_metadata": {
+    "total_entries": 0,
+    "entries_with_emails": 0,
+    "entries_with_addresses": 0,
+    "entries_with_handwritten_notes": 0,
+    "couples": 0,
+    "average_confidence": "N/A",
+    "notable_figures_count": 0,
+    "special_notes": "Page contains only business listings - tickets, restaurants, entertainment venues, finance services"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Johanna London (Tickets - shows and games)",
+      "Ricardo (Riccardo restaurant)",
+      "Cecilia Szajman (Brazil contact)",
+      "Mario Sr. Ganero (Brazil - Rio)"
+    ],
+    "organizations": [],
+    "locations": {
+      "international": [
+        "Brazil (Rio, Sao Paulo)",
+        "London, UK (multiple references)"
+      ],
+      "us_cities": [
+        "New York City (dominant - restaurants, clubs, services)"
+      ],
+      "elite_addresses": []
+    },
+    "business_listings": [
+      {
+        "name": "Tickets",
+        "subtitle": "For shows and games",
+        "phones": [
+          "212 840-1234 First Call Tele Tickets",
+          "212 307-1212 Tele Con-cierge/Johanna London"
+        ],
+        "type": "ticketing_service",
+        "location": "NYC"
+      },
+      {
+        "name": "Tribeca Grill",
+        "phone": "001 212 941 3900",
+        "type": "restaurant",
+        "location": "NYC - Tribeca"
+      },
+      {
+        "name": "Two Bunch Palm",
+        "phone": "0101 619 329 8791",
+        "type": "spa_resort",
+        "location": "Palm Springs area"
+      },
+      {
+        "name": "Waldorf Astoria",
+        "phone": "0101 212 355 3000",
+        "type": "hotel",
+        "location": "NYC"
+      },
+      {
+        "name": "Westbury hotel",
+        "phone": "212 535 2000",
+        "type": "hotel",
+        "location": "NYC"
+      },
+      {
+        "name": "BRAZIL",
+        "type": "section_header"
+      },
+      {
+        "name": "Cecilia Szajman",
+        "phones": [
+          "55 11 30 34 3771 (h)",
+          "55 11 88 66 9653 (f)"
+        ],
+        "type": "contact",
+        "location": "Brazil - Sao Paulo"
+      },
+      {
+        "name": "Ganero, Mario Sr.",
+        "phone": "Av. Brigadeiro Faria Lima,1485",
+        "type": "contact",
+        "location": "Brazil - Rio"
+      },
+      {
+        "name": "Torre Norte - 19 Andar",
+        "address": "Sao Paulo, Brazil",
+        "phones": [
+          "011561I3813,7011(w)",
+          "011561I3813,7110 (f)"
+        ],
+        "emails": [
+          "mszajman@brasilinvest.com",
+          "011334937615 30 house in",
+          "France",
+          "01133621051972 cell in France"
+        ],
+        "type": "business_office",
+        "location": "Sao Paulo, Brazil"
+      },
+      {
+        "name": "Riccardo",
+        "subtitle": "In Ipanema",
+        "phone": "00 55 11 0937 6688",
+        "type": "restaurant",
+        "location": "Brazil - Rio (Ipanema)"
+      },
+      {
+        "name": "ENTERTAINMENT (E)",
+        "type": "section_header"
+      },
+      {
+        "name": "Annabels",
+        "phone": "071-629 1096",
+        "type": "nightclub",
+        "location": "London"
+      },
+      {
+        "name": "Aspinalls",
+        "phone": "071-629 4400",
+        "type": "casino_club",
+        "location": "London"
+      },
+      {
+        "name": "Bibendum",
+        "phone": "581 5817",
+        "type": "restaurant",
+        "location": "London"
+      },
+      {
+        "name": "Clermont Club",
+        "phone": "071-493 5587",
+        "type": "casino_club",
+        "location": "London"
+      },
+      {
+        "name": "Daphne",
+        "phone": "589 4257",
+        "type": "restaurant",
+        "location": "London"
+      },
+      {
+        "name": "Foxtrot Oscar",
+        "phone": "352 7179",
+        "type": "restaurant",
+        "location": "London"
+      },
+      {
+        "name": "Harrys Bar",
+        "phones": [
+          "408 0844",
+          "408 0844"
+        ],
+        "type": "restaurant_bar",
+        "location": "London"
+      },
+      {
+        "name": "Marks Club",
+        "phone": "212-499-2936",
+        "type": "club",
+        "location": "London"
+      },
+      {
+        "name": "Nam Iong",
+        "phone": "379 1926",
+        "type": "restaurant",
+        "location": "London"
+      },
+      {
+        "name": "Nikitas",
+        "phone": "352 63 26",
+        "type": "restaurant",
+        "location": "London"
+      },
+      {
+        "name": "Patisserie Valerie",
+        "phone": "0207-823 9971",
+        "type": "cafe_patisserie",
+        "location": "London"
+      },
+      {
+        "name": "San Lorenzo",
+        "phone": "584 1074",
+        "type": "restaurant",
+        "location": "London"
+      },
+      {
+        "name": "Scalinis",
+        "phone": "225 23 01",
+        "type": "restaurant",
+        "location": "London"
+      },
+      {
+        "name": "Tramp",
+        "phone": "071-734 3174",
+        "type": "nightclub",
+        "location": "London"
+      },
+      {
+        "name": "FINANCE (F)",
+        "type": "section_header"
+      },
+      {
+        "name": "Bear Stearns",
+        "address": "24 2 Entrance, 245 Park Avenue, New York, NY 10167",
+        "phones": [
+          "001 212 272 2000",
+          "001 0 62 7 3 4 11"
+        ],
+        "type": "investment_bank",
+        "location": "NYC"
+      },
+      {
+        "name": "Centurion",
+        "phone": "1972 827 6047",
+        "additional": "1877 621 9992 (4008 Card number 10004 Expiry date)",
+        "type": "credit_card",
+        "location": "American Express Centurion Card"
+      },
+      {
+        "name": "Chemical Bank",
+        "address": "James A. Growney, Madison Ave. & 52nd St.",
+        "phones": [
+          "212-935-9935",
+          "Intl 935 3395",
+          "212-935-6266 Easy Wire Dept.",
+          "125-0800 Set-Elus",
+          "George-321 3565",
+          "Intl-935-2256",
+          "Stop payment no. 935-9935",
+          "212-480-6573"
+        ],
+        "type": "bank",
+        "location": "NYC"
+      }
+    ]
+  },
+  "insights": [
+    "BRAZIL section includes Sao Paulo business contacts: Cecilia Szajman with France house and cell numbers",
+    "Torre Norte office in Sao Paulo with email mszajman@brasilinvest.com - investment business",
+    "Riccardo restaurant in Ipanema (Rio) - upscale beach neighborhood dining",
+    "ENTERTAINMENT (E) section - primarily London exclusive establishments",
+    "London club cluster: Annabels (legendary members club), Aspinalls (elite casino), Clermont Club (casino)",
+    "Tramp nightclub London (071-734 3174) - exclusive celebrity nightclub founded 1969",
+    "London restaurant concentration: Daphne, Foxtrot Oscar, Harrys Bar, San Lorenzo, Scalinis, Bibendum, Nikitas",
+    "San Lorenzo - famous London Italian restaurant frequented by Princess Diana and celebrities",
+    "Marks Club with NYC phone number (212-499-2936) despite being London establishment",
+    "FINANCE (F) section begins",
+    "Bear Stearns at 245 Park Avenue - major investment bank (collapsed 2008 financial crisis)",
+    "Centurion Card details - American Express Centurion (Black Card), ultra-exclusive credit card",
+    "Card number partially listed: 4008, expiry date 10004 - highly sensitive financial information",
+    "Chemical Bank extensive contact list including James A. Growney at Madison Ave & 52nd St",
+    "Chemical Bank services: Easy Wire Dept (212-935-6266), Stop payment (935-9935), International department",
+    "Two Bunch Palm (619 area code) - luxury spa resort in Palm Springs/Desert Hot Springs area",
+    "Tribeca Grill - Robert De Niro's famous NYC restaurant in Tribeca",
+    "Waldorf Astoria - legendary NYC luxury hotel on Park Avenue",
+    "Ticketing services: First Call Tele Tickets, Tele Concierge/Johanna London - VIP ticket access",
+    "Geographic sections: Brazil (business contacts), London (entertainment), NYC (finance/hotels)"
+  ]
+}

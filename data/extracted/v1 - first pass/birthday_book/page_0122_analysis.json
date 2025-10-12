@@ -1,0 +1,147 @@
+{
+  "page_number": 122,
+  "file_path": "data/birthday_book_images/page_0122.png",
+  "file_size_mb": 1.3228158950805664,
+  "type": "artistic_portrait_tribute",
+  "content": {
+    "text": "Joy\n\nKeep going\nYoung man",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "description": "Pop art portrait with handwritten birthday message",
+    "text_sections": {
+      "full_transcription": "Joy\n\nKeep going\nYoung man",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein (portrait subject)",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          122
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Friend or associate with artistic sensibility",
+    "recipient": "Jeffrey Epstein",
+    "date": "Birthday celebration",
+    "subject": "Artistic birthday tribute",
+    "theme": "pop_art_celebration",
+    "significance": "medium",
+    "document_type": "artistic_portrait_tribute"
+  },
+  "insights": [
+    "Warhol-style pop art treatment suggests sophisticated artistic circle",
+    "Professional quality artwork indicates significant effort/expense",
+    "'Young man' reference despite Epstein being 50 suggests youthful persona",
+    "'Keep going' encouragement implies ongoing activities or ambitions",
+    "'Joy' suggests celebratory, positive relationship",
+    "Pop art style reminiscent of celebrity portraits (Warhol's Marilyn Monroe, etc.)",
+    "Four-panel format is classic Warhol technique",
+    "Color variations: blue/purple and pink/orange treatments",
+    "Subject posed thoughtfully with hand to chin",
+    "High-quality artistic tribute suggests wealthy, cultured social circle",
+    "Portrait style typically reserved for celebrities and cultural icons",
+    "Artistic presentation indicates sender values aesthetic sophistication"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000122",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.179894",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Warhol-style pop art portrait in four quadrants",
+        "theme": "artistic_tribute",
+        "style": "Andy Warhol pop art style",
+        "elements": [
+          "Four color variations of same portrait",
+          "Blue/purple tones",
+          "Pink/orange tones"
+        ],
+        "notable_details": [
+          "Subject smiling with hand to chin",
+          "Repeated image in different color treatments",
+          "Professional artistic composition"
+        ],
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": [],
+    "handwritten_notes": [
+      {
+        "type": "birthday_message",
+        "style": "casual_handwriting",
+        "ink_color": "black",
+        "content": "Joy at top, Keep going Young man at bottom"
+      }
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Warhol-style pop art portrait in four quadrants",
+    "Subject appears to be Jeffrey Epstein",
+    "Four color variations of same photograph",
+    "Top panels: blue/purple color treatments",
+    "Bottom panels: pink/orange color treatments",
+    "Pose: smiling with hand thoughtfully placed at chin",
+    "Handwritten 'Joy' at top of page",
+    "Handwritten 'Keep going Young man' at bottom",
+    "Professional artistic quality suggests commissioned work",
+    "Andy Warhol pop art style iconic treatment",
+    "Same technique used for celebrity portraits (Marilyn Monroe, etc.)",
+    "Document stamped HOUSE_OVERSIGHT_000122",
+    "High-quality artistic birthday tribute"
+  ],
+  "investigative_leads": []
+}

@@ -1,0 +1,142 @@
+{
+  "page_number": 60,
+  "file_path": "data/birthday_book_images/page_0060.png",
+  "file_size_mb": 0.2070016860961914,
+  "type": "handwritten_narrative",
+  "content": {
+    "text": "Concord Hotel\n\nJewish singles weekend\nsit us Down at table with ugly girls & I told\nthem Don't you have any Pretty ones\n\nWe get in Room Jack says Don't touch my\nhair, you Dump water Right on his head\nthen we set Room on fire.\n\nthrowing food in Dining Room, No one would\nserve us - so they Put us By Kitchen\n\nGave us all our Money Back & told us to\nLeave & Never come Back",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "Concord Hotel\n\nJewish singles weekend\nsit us Down at table with ugly girls & I told\nthem Don't you have any Pretty ones\n\nWe get in Room Jack says Don't touch my\nhair, you Dump water Right on his head\nthen we set Room on fire.\n\nthrowing food in Dining Room, No one would\nserve us - so they Put us By Kitchen\n\nGave us all our Money Back & told us to\nLeave & Never come Back",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [
+        "HOUSE_OVERSIGHT_000060 (bottom right)"
+      ],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jack",
+        "title": null,
+        "context": "Friend/companion at Concord Hotel",
+        "confidence": "high"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Concord Hotel",
+        "type": "Resort hotel",
+        "context": "Famous Catskills resort in New York",
+        "confidence": "high"
+      }
+    ],
+    "locations": [
+      {
+        "place": "Concord Hotel",
+        "type": "Resort",
+        "region": "Catskills, New York",
+        "confidence": "high"
+      }
+    ],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Concord Hotel incident (duplicate)",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "handwritten_narrative"
+  },
+  "insights": [
+    "Story about Jewish singles weekend at Concord Hotel",
+    "Concord Hotel was famous Catskills resort (Borscht Belt)",
+    "Narrative describes extremely disruptive behavior",
+    "Complained about table companions appearance",
+    "Dumped water on Jack's head after hair comment",
+    "Claims to have set room on fire",
+    "Threw food in dining room",
+    "Relegated to kitchen area seating as punishment",
+    "Hotel refunded money and banned them",
+    "Story appears to be humorous/exaggerated memory",
+    "Handwritten in casual narrative style",
+    "Jewish singles weekends were common at Catskills resorts",
+    "Behavior described would result in criminal charges",
+    "Tone suggests youthful misbehavior story",
+    "Part of birthday memory collection"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000060",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.148184",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [
+      "Complete page of handwritten text"
+    ],
+    "characteristics": [
+      "Casual cursive handwriting",
+      "Inconsistent capitalization",
+      "Natural writing flow",
+      "Black or dark blue ink",
+      "Some words emphasized with capitals"
+    ],
+    "matches": [],
+    "expert_notes": [
+      "Different handwriting from other pages examined"
+    ]
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Full page of handwritten text",
+    "Story format rather than letter",
+    "No signature or attribution",
+    "Document stamped HOUSE_OVERSIGHT_000060",
+    "Paper appears to be standard white paper",
+    "Writing covers approximately 1/3 of page"
+  ],
+  "investigative_leads": [
+    "Concord Hotel records for incidents",
+    "Identity of Jack mentioned in story",
+    "Date of Jewish singles weekend event",
+    "Verification of incident (likely exaggerated)",
+    "Author of handwritten story"
+  ]
+}

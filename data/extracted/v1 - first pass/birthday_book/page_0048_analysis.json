@@ -1,0 +1,101 @@
+{
+  "page_number": 48,
+  "file_path": "data/birthday_book_images/page_0048.png",
+  "file_size_mb": 0.13411712646484375,
+  "type": "newspaper_clipping_page12",
+  "content": {
+    "text": "Page 12 of The Sea Gate Chronicle. Contains classified/personal ads: 'Bus Passes Cheap - tired of paying full fare on buses?? Call for bargain prices on NYC Student Bus Passes - C1242'; 'Free Long Distance phone calls anywhere with our famous GOO-GOO Box. Order now and never pay long distance rates again!!! - R1912'; 'Subway Tokens getting expensive?? Ask us about the Wonder Slug. Not just an aluminum punch-out from electrical switch boxes...these are custom made at a fraction of the cost. - B177'; 'Swingles, if you are wild and crazy and want it bad, you're invited to Botany Talk House. If you're lucky you'll be selected to attend one of NY's most uninhibited orgies. See ya there. - S1969'",
+    "handwritten": false,
+    "typed": true,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "Page 12 of The Sea Gate Chronicle. Contains classified/personal ads: 'Bus Passes Cheap - tired of paying full fare on buses?? Call for bargain prices on NYC Student Bus Passes - C1242'; 'Free Long Distance phone calls anywhere with our famous GOO-GOO Box. Order now and never pay long distance rates again!!! - R1912'; 'Subway Tokens getting expensive?? Ask us about the Wonder Slug. Not just an aluminum punch-out from electrical switch boxes...these are custom made at a fraction of the cost. - B177'; 'Swingles, if you are wild and crazy and want it bad, you're invited to Botany Talk House. If you're lucky you'll be selected to attend one of NY's most uninhibited orgies. See ya there. - S1969'",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [],
+    "organizations": [
+      "NYC Student Bus Passes",
+      "Botany Talk House"
+    ],
+    "locations": [
+      "NYC",
+      "NY"
+    ],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "codes": [
+      "C1242",
+      "R1912",
+      "B177",
+      "S1969"
+    ],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "50th birthday commemoration - satirical newspaper page 12",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "newspaper_clipping_page12"
+  },
+  "insights": [
+    "Final page of satirical newspaper",
+    "Contains joke classified ads about transit fare evasion",
+    "Reference to 'Swingles' and 'Botany Talk House' parties",
+    "Code S1969 possibly references 1969",
+    "Satirical ads about illegal/questionable activities (fare evasion, free phone calls)"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000048",
+  "processed_at": "2025-09-23 03:27:00",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.142678",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": [
+      "Black bar at top of page"
+    ],
+    "layout": "Newspaper page 12 with classified-style ads"
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [],
+  "investigative_leads": []
+}

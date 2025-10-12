@@ -1,0 +1,152 @@
+{
+  "page_number": 113,
+  "file_path": "data/birthday_book_images/page_0113.png",
+  "file_size_mb": 1.602320671081543,
+  "type": "children_photos_toddler",
+  "content": {
+    "text": "",
+    "handwritten": false,
+    "typed": false,
+    "mixed": false,
+    "description": "Photos of young children/toddlers in various settings",
+    "text_sections": {
+      "full_transcription": "",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Young children/toddlers",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          113
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      "Indoor residential settings"
+    ],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Young children photos",
+    "theme": "children_candid_photos",
+    "significance": "medium",
+    "document_type": "children_photos_toddler"
+  },
+  "insights": [
+    "Photos show very young children (toddler age)",
+    "Domestic/residential settings suggest family environment",
+    "Star and stripe patterns on children's clothing",
+    "Heavy redactions on all faces for child privacy protection",
+    "Part of children's section of birthday book",
+    "Casual, candid nature of photos suggests close relationship",
+    "No text or captions accompany these photos",
+    "Photos appear to be family snapshots"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000113",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.175998",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Toddler in star-patterned pajamas or outfit",
+        "theme": "children_candid",
+        "setting": "indoor_residential",
+        "elements": [
+          "star pattern clothing",
+          "standing pose"
+        ],
+        "redactions": [
+          "face heavily redacted with black box"
+        ],
+        "individual_count": 1,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      },
+      {
+        "description": "Child in striped clothing on bed or couch",
+        "theme": "children_casual",
+        "setting": "bedroom_living_area",
+        "elements": [
+          "striped bedding/clothing",
+          "casual setting"
+        ],
+        "redactions": [
+          "face heavily redacted with black box"
+        ],
+        "individual_count": 1,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": [
+      "All children's faces heavily redacted with black boxes"
+    ],
+    "handwritten_notes": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Two photographs of young children/toddlers",
+    "Top photo: Child in white pajamas with pattern",
+    "Bottom photo: Child in striped clothing on bed",
+    "Both faces heavily redacted with black boxes",
+    "No text or captions on this page",
+    "Toddler-age children based on body proportions",
+    "Indoor residential settings",
+    "Casual, candid family photos",
+    "Star or similar pattern on white clothing",
+    "Blue and white striped bedding/clothing visible",
+    "Document stamped HOUSE_OVERSIGHT_000113",
+    "Part of children's section of birthday book"
+  ],
+  "investigative_leads": []
+}

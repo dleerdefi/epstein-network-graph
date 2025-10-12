@@ -1,0 +1,95 @@
+{
+  "page_number": 87,
+  "file_path": "data/birthday_book_images/page_0087.png",
+  "file_size_mb": 2.4429521560668945,
+  "type": "sheet_music",
+  "content": {
+    "text": "THEY CAN'T TAKE THAT AWAY FROM ME",
+    "handwritten": false,
+    "typed": true,
+    "mixed": false,
+    "description": "Sheet music for the classic American standard song 'They Can't Take That Away From Me'",
+    "text_sections": {
+      "full_transcription": "THEY CAN'T TAKE THAT AWAY FROM ME",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Musical entertainment content",
+    "song_title": "They Can't Take That Away From Me",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "sheet_music"
+  },
+  "insights": [
+    "Sheet music suggests musical entertainment was part of Epstein's social gatherings",
+    "Classic American standard indicates sophisticated musical taste",
+    "Presence in birthday book suggests music may have been gift or entertainment reference",
+    "Song choice may have personal significance or was performed at events"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000087",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.163209",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": [],
+    "sheet_music": [
+      {
+        "title": "They Can't Take That Away From Me",
+        "sections": 4,
+        "notation_type": "standard_musical_score",
+        "layout": "four_quadrant_arrangement"
+      }
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [],
+  "investigative_leads": []
+}

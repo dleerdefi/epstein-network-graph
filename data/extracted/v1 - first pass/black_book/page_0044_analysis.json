@@ -1,0 +1,740 @@
+{
+  "page_number": 44,
+  "alphabetical_section": "P",
+  "contacts": [
+    {
+      "name": "Pittman, Sandy",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 800 XXX 4502 (w)",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        "[illegible]@sandypittmanfg.com"
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Planter, Richard",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1783 Park Avenue",
+          "street": "1783 Park Avenue",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York, NY 10037",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10037",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 534 0942 Gramercy",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 311 974(30)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 914 674 513400",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Plouvier, Diane & Denis",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "40 Villa Chanson",
+          "street": "40 Villa Chanson",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Barbican Palace Flat 3",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "00 33 1 7765 100[2]",
+          "country_code": "33",
+          "area_code": "1",
+          "geographic_indicator": "Paris, France",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 33 1 7492 3602",
+          "country_code": "33",
+          "area_code": "1",
+          "geographic_indicator": "Paris, France",
+          "confidence": "high"
+        }
+      ],
+      "addresses_additional": [
+        {
+          "type": "secondary",
+          "address": "3 Place Charles France",
+          "confidence": "medium"
+        },
+        {
+          "type": "secondary",
+          "address": "00 33 4 9302 15602[x]",
+          "country_code": "33",
+          "area_code": "4",
+          "geographic_indicator": "Southern France",
+          "confidence": "medium"
+        },
+        {
+          "type": "secondary",
+          "address": "00 33 06X6X0826 cell",
+          "country_code": "33",
+          "area_code": "06",
+          "geographic_indicator": "France mobile",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Podolsky, Jeffrey",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Park Ave",
+          "street": "Park Ave",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "100 East 72nd St",
+          "street": "100 East 72nd St",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "New York",
+          "city": "New York",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 988 8812 (w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 861 3239 (w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 988 8812 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Polle, George",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 520 2424 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Polli, Edoardo",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Cannes Ave",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Mont Alban Le Cannet",
+          "city": "Le Cannet",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "Cannes & Villa",
+          "city": "Cannes",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "33 493 Cannes of Aleo [illegible]",
+          "country_code": "33",
+          "area_code": "493",
+          "geographic_indicator": "Cannes, France",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "33 600 XXXX",
+          "country_code": "33",
+          "area_code": "600",
+          "geographic_indicator": "France",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "00 39 328 2373719 (c)",
+          "country_code": "39",
+          "area_code": "328",
+          "geographic_indicator": "Italy mobile",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Polli Emmanuelle",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 331 4305 420[30]",
+          "country_code": "33",
+          "area_code": "1",
+          "geographic_indicator": "Paris, France",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 336 34946 89 [illegible].com",
+          "country_code": "33",
+          "area_code": "6",
+          "geographic_indicator": "France mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "00 331[illegible] 72 3302",
+          "country_code": "33",
+          "area_code": "1",
+          "geographic_indicator": "Paris, France",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Polli Isabelle",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "[0201 891037[w]]",
+          "area_code": "0201",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "03XX XXX 8897",
+          "confidence": "low"
+        }
+      ],
+      "emails": [
+        "Email: Isabelle@microsoft.com"
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Polu, Clary",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "37 Bry-an-Francois",
+          "street": "37 Bry-an-Francois",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "91 99 83 66 88308",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "33 93 27 66 1",
+          "country_code": "33",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Portin Ivaniveric",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 917 859 3210[c]",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 859 2161",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Porter, Pliny",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "11 House X (Spain)",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 34 93 2123400",
+          "country_code": "34",
+          "area_code": "93",
+          "geographic_indicator": "Barcelona, Spain",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 656 8016[w]",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "[illegible]@finefly.int"
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "917939 6 80730",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Porthault Emmanuelle",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Rue France",
+          "street": "Rue France",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Porthault, Mr & Mrs",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "77 Avenue Georges Carnier",
+          "street": "77 Avenue Georges Carnier",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Paris",
+          "city": "Paris",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 33 1 4227 2748 (h)",
+          "country_code": "33",
+          "area_code": "1",
+          "geographic_indicator": "Paris, France",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 33 1 8896 60XX (h)",
+          "country_code": "33",
+          "area_code": "1",
+          "geographic_indicator": "Paris, France",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Porthault, Pascal",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "3 Place du Gymnase Common",
+          "street": "3 Place du Gymnase Common",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Gen X Xev 2 [illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "00 33 1 4574 8100 (h)",
+          "country_code": "33",
+          "area_code": "1",
+          "geographic_indicator": "Paris, France",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Porthault, Remi & Isabel",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "59 Avenue Charles de Gaulle",
+          "street": "59 Avenue Charles de Gaulle",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Neuilly sur Seine, France",
+          "city": "Neuilly sur Seine",
+          "country": "France",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 331 4743 1355(h)",
+          "country_code": "33",
+          "area_code": "1",
+          "geographic_indicator": "Paris, France",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Porter, Maryl",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Whitton Baronness",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New Haven Square Street",
+          "city": "New Haven",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "017 XXX 41 34 XX13",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 248 1909 (h)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 203 XX 8XXX 90",
+          "area_code": "203",
+          "geographic_indicator": "Connecticut",
+          "confidence": "medium"
+        }
+      ],
+      "addresses_additional": [
+        {
+          "type": "secondary",
+          "address": "0034",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "New York, NY 10028",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10028",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "[America][illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "001 212 249 9167 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Potter, Muffie",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "01 917 861 XXX[h]",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "01 914 737 932099",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Prestin, Electra",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 879 4214",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Prevost, Catherine",
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Mr Henry",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 396 094XX[s]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        }
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "Paul & Fred J 884XXXXj",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "France Phone 145XX[illegible] w/ nchild",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "Henry Brother",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "Frech/UK",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 484 XX09",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 XXX XX[work]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "212 484 0198 (w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 914 697 8509 (XX private h)",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 914 697 00 25 (h)",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "911 336 61 6791194",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Nancy's cell",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0917873 XXXX FAX",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 20,
+    "quality": "poor",
+    "legibility": "heavily degraded",
+    "completeness": "complete page",
+    "notable_individuals": []
+  },
+  "insights": [
+    "Strong Paris/France presence (multiple entries)",
+    "Barcelona Spain connection (34 93)",
+    "Cannes and Southern France connections",
+    "Long Island NY continuing presence",
+    "Connecticut connections",
+    "New Haven mentioned",
+    "Neuilly sur Seine - affluent Paris suburb",
+    "Mix of French aristocracy/luxury (Porthault family)",
+    "Italy mobile connections",
+    "Heavy French concentration on this page"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "medium",
+    "total_contacts": 20,
+    "high_confidence": 8,
+    "medium_confidence": 7,
+    "low_confidence": 5,
+    "extraction_issues": [
+      "Heavy page degradation",
+      "Multiple illegible entries",
+      "Several incomplete addresses",
+      "Some entries fragmented or unclear"
+    ]
+  }
+}

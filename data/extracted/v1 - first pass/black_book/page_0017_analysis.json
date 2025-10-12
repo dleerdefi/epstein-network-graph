@@ -1,0 +1,628 @@
+{
+  "page_number": 17,
+  "alphabetical_section": "E",
+  "contacts": [
+    {
+      "name": "Edwards, Andrew & Tracy",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "9 Palace Garden Walk / London W8 5LS",
+          "city": "London",
+          "postal_code": "W8 5LS",
+          "country": "UK",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 229 1131 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Ellen, Johnathan",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "7 Hiel Road / Belmont, MA 02478",
+          "city": "Belmont",
+          "state": "MA",
+          "postal_code": "02478",
+          "country": "USA",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 617 527 77XX",
+          "area_code": "617",
+          "geographic_indicator": "Boston area",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 207 276 512[1]",
+          "area_code": "207",
+          "geographic_indicator": "Maine",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        "jellen@[illegible].com"
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "1 202 267 8080 cell",
+          "area_code": "202",
+          "geographic_indicator": "Washington DC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Elias, Brian",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "001 305 756 1931 (o)",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "office",
+          "number": "305 756 1931 (o)",
+          "area_code": "305",
+          "geographic_indicator": "Miami, Florida",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "044 2075 893 5515 SG[o home]",
+          "country_code": "44",
+          "area_code": "2075",
+          "geographic_indicator": "London",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Eliasch, Johan & Amanda",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "24 Chester Square / London SW1V [illegible]",
+          "city": "London",
+          "postal_code": "SW1V",
+          "country": "UK",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "020 7824 8444 (h)",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 222 2222",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Home 17 South Audley Street",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "212 421 6500 Amanda (o)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 555 7288 [illegible]",
+          "area_code": "212",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Ellingworth, Charlie & Pandora",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "The Bungalow / La Grange Gardens / [illegible]",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "0033 235 433 (h)",
+          "country_code": "33",
+          "geographic_indicator": "France",
+          "confidence": "medium"
+        },
+        {
+          "type": "office",
+          "number": "0033 235 1100 (o)",
+          "country_code": "33",
+          "geographic_indicator": "France",
+          "confidence": "medium"
+        },
+        {
+          "type": "fax",
+          "number": "0171 823 0542 (f)",
+          "area_code": "0171",
+          "geographic_indicator": "London (old code)",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Elizabeth",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0033 609 086 587",
+          "country_code": "33",
+          "geographic_indicator": "France mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "First name only",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Ellenbogen Eric",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "29 Deerland Drive",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 617 555 71XX",
+          "area_code": "617",
+          "geographic_indicator": "Boston area",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 593 1225[00]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Ellingworth, Mr & Mrs",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "The Old Hostel / West Park Stradbrook",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0242 943 332 (h)",
+          "geographic_indicator": "UK",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0243 943 0130 (o)",
+          "geographic_indicator": "UK",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0171 876 65XX",
+          "area_code": "0171",
+          "geographic_indicator": "London (old code)",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Elliot, Ben",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Quintessentially",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0870 850 8585",
+          "geographic_indicator": "UK non-geographic",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0044 7768 017 00648",
+          "country_code": "44",
+          "area_code": "7768",
+          "geographic_indicator": "UK mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 206 6100 call",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "ben@quintessentially.com"
+      ],
+      "notes": "Quintessentially concierge service",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Erbs Noona",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "IBM Grand Architecture",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 258 4455",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 02 303 [illegible]",
+          "area_code": "0207",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Elliot, Gail & Joe Coffey",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "75 Reading Street E5",
+          "postal_code": "E5",
+          "city": "London",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 924 9103 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 841 4922 (c)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Espirito Santo, Manuel",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "0041 22 [illegible]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0041 22 [illegible]",
+          "country_code": "41",
+          "area_code": "22",
+          "geographic_indicator": "Geneva, Switzerland",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 752 77XXX(h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Portuguese banking family name",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Ellison, Mandy & Ralph",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "6 Stray Rd (illegible)",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 617 924 20XX",
+          "area_code": "617",
+          "geographic_indicator": "Boston area",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 617 924 19XX (h)",
+          "area_code": "617",
+          "geographic_indicator": "Boston area",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 617 721 3023 (o)",
+          "area_code": "617",
+          "geographic_indicator": "Boston area",
+          "confidence": "high"
+        },
+        {
+          "type": "mobile",
+          "number": "801 521 8100 Mike Moll",
+          "area_code": "801",
+          "geographic_indicator": "Utah",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry, Mike Moll connection",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Estlin, Jean-Marc",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1 Pine du Saint-Pierre",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 33 1 476 0317[00]",
+          "country_code": "33",
+          "area_code": "1",
+          "geographic_indicator": "Paris, France",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "00 33 6 09 48 [illegible]",
+          "country_code": "33",
+          "area_code": "6",
+          "geographic_indicator": "France mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "00 33 4 9383 [illegible] St Tropez (h)",
+          "country_code": "33",
+          "area_code": "4",
+          "geographic_indicator": "Southern France",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "St Tropez connection",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Elwes, Anabel",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "215A Clapham Street / London SW9 XXX",
+          "city": "London",
+          "postal_code": "SW9",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 738 3999",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Epstein, Ed",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "240 East 79th St / New York, NY 10028",
+          "street": "240 East 79th St",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10028",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 249 4005",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Estrada Juffali, Christina",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "VDSC / Madrid / 52 Hyde Park Gate / London",
+          "city": "London",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "91769 7717766 (m)",
+          "country_code": "91",
+          "geographic_indicator": "India",
+          "confidence": "low"
+        }
+      ],
+      "emails": [
+        "Email: [illegible]@hotmail.com"
+      ],
+      "notes": "International connections Spain/London",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "[Entry at bottom]",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "23 Carriage Place / Doha Qatar",
+          "city": "Doha",
+          "country": "Qatar",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 974 4 871123",
+          "country_code": "974",
+          "geographic_indicator": "Qatar",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Name unclear, Qatar connection",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Name not fully legible"]
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 18,
+    "quality": "fair",
+    "legibility": "partially obscured",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "Ben Elliot - Quintessentially concierge service",
+      "Manuel Espirito Santo - Portuguese banking family",
+      "Ed Epstein - NYC contact"
+    ]
+  },
+  "insights": [
+    "Ben Elliot entry with Quintessentially luxury concierge service",
+    "Manuel Espirito Santo - prominent Portuguese banking family",
+    "Strong international presence: France, Switzerland, Qatar, UK, USA",
+    "Multiple Boston area (617) contacts",
+    "Several couple entries indicating social connections",
+    "Mix of old UK codes (0171) and newer (0207/020)",
+    "Qatar connection at bottom of page",
+    "Geneva Switzerland connection (41-22 area code)",
+    "St Tropez reference indicating French Riviera connections",
+    "Several entries with both UK and US phone numbers"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "medium",
+    "total_contacts": 18,
+    "high_confidence": 8,
+    "medium_confidence": 9,
+    "low_confidence": 1,
+    "extraction_issues": [
+      "Several phone numbers partially illegible",
+      "Some addresses incomplete",
+      "Bottom entry name unclear"
+    ]
+  }
+}

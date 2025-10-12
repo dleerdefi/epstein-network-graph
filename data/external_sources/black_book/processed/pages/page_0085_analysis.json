@@ -1,0 +1,1558 @@
+{
+  "page_number": 85,
+  "alphabetical_section": "Mixed",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "085_unknown_unknown",
+      "name": {
+        "full_name": "Medical \u2013 Oxford Health Plans",
+        "prefix": null,
+        "first_name": "Medical",
+        "middle_name": "\u2013 Oxford Health",
+        "last_name": "Plans",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "800 201 4911",
+          "formatting": "800 201 4911"
+        },
+        {
+          "type": "unknown",
+          "number": "800 444 6222",
+          "formatting": "800 444 6222"
+        },
+        {
+          "type": "unknown",
+          "number": "4311440*01 (Member number)",
+          "formatting": "4311440*01 (Member number)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Oxford Health Plans"
+    },
+    {
+      "entry_id": "085_unknown_unknown",
+      "name": {
+        "full_name": "Medical \u2013 Prudential",
+        "prefix": null,
+        "first_name": "Medical",
+        "middle_name": "\u2013",
+        "last_name": "Prudential",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "800 843 3661",
+          "formatting": "800 843 3661"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Prudential"
+    },
+    {
+      "entry_id": "085_steinburg_unknown",
+      "name": {
+        "full_name": "Medical \u2013 Steinburg Dr.",
+        "prefix": null,
+        "first_name": "",
+        "middle_name": null,
+        "last_name": "Steinburg",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 746 4100",
+          "formatting": "001 212 746 4100 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "525 E 68th St"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": null,
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NY Hospital"
+    },
+    {
+      "entry_id": "085_sternberg_esther",
+      "name": {
+        "full_name": "Medical \u2013 Sternberg, Esther Dr.",
+        "prefix": null,
+        "first_name": "Esther",
+        "middle_name": null,
+        "last_name": "Sternberg",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 301 402 2773",
+          "formatting": "001 301 402 2773 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 202 237 6020",
+          "formatting": "001 202 237 6020 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "sternber@bellatlantic.net",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "3610 Uptown Street N.W."
+          ],
+          "city": "Washington, D.C.",
+          "state": null,
+          "postal_code": "DC 20008",
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "085_tom_maggie",
+      "name": {
+        "full_name": "Medical \u2013 Tom, Maggie",
+        "prefix": null,
+        "first_name": "Maggie",
+        "middle_name": null,
+        "last_name": "Tom",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-486 9272",
+          "formatting": "0207-486 9272 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "085_victor_steve",
+      "name": {
+        "full_name": "Medical \u2013 Victor, Steve Dr.",
+        "prefix": null,
+        "first_name": "Steve",
+        "middle_name": null,
+        "last_name": "Victor",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 988 5026 (f)",
+          "formatting": "212 988 5026 (f)"
+        },
+        {
+          "type": "work",
+          "number": "212 249 3050",
+          "formatting": "212 249 3050"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "30 E. 76th St. (P&M) 6fl"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "085_victor_steve",
+      "name": {
+        "full_name": "Medical \u2013 Victor, Steve Dr.",
+        "prefix": null,
+        "first_name": "Steve",
+        "middle_name": null,
+        "last_name": "Victor",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 516 354 3304",
+          "formatting": "001 516 354 3304 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "917 913 9029 (car)",
+          "formatting": "917 913 9029 (car) (NYC mobile)"
+        },
+        {
+          "type": "unknown",
+          "number": "516 329 5873 (Beach)",
+          "formatting": "516 329 5873 (Beach)"
+        },
+        {
+          "type": "unknown",
+          "number": "516 625 6222",
+          "formatting": "516 625 6222"
+        },
+        {
+          "type": "unknown",
+          "number": "212 249 1482 (wf)",
+          "formatting": "212 249 1482 (wf)"
+        },
+        {
+          "type": "portable",
+          "number": "917 328 8655 (emergency)",
+          "formatting": "917 328 8655 (emergency) (NYC mobile)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 628 5210",
+          "formatting": "001 212 628 5210 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "917 226 1554",
+          "formatting": "917 226 1554 (NYC mobile)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "845 UN Plaza, Apt 32A"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10017",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "085_wyntik_wayne",
+      "name": {
+        "full_name": "Medical \u2013 Wyntik, Wayne",
+        "prefix": null,
+        "first_name": "Wayne",
+        "middle_name": null,
+        "last_name": "Wyntik",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212-249-7790",
+          "formatting": "212-249-7790"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Chiropractor"
+    },
+    {
+      "entry_id": "085_unknown_unknown",
+      "name": {
+        "full_name": "PB \u2013 Babor",
+        "prefix": null,
+        "first_name": "PB",
+        "middle_name": "\u2013",
+        "last_name": "Babor",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "561 832 9385",
+          "formatting": "561 832 9385"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Babor"
+    },
+    {
+      "entry_id": "085_bard_perry",
+      "name": {
+        "full_name": "PB \u2013 Bard, Dr. Perry",
+        "prefix": null,
+        "first_name": "Perry",
+        "middle_name": null,
+        "last_name": "Bard",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "561 640 9999 (WPB)",
+          "formatting": "561 640 9999 (WPB)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "docbones77@aol.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "4275 Okeechobee Blvd., Suite H"
+          ],
+          "city": "WPB",
+          "state": null,
+          "postal_code": "FL 33409",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "085_bard_perry",
+      "name": {
+        "full_name": "PB \u2013 Bard, Dr. Perry",
+        "prefix": null,
+        "first_name": "Perry",
+        "middle_name": null,
+        "last_name": "Bard",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "561 266 5785",
+          "formatting": "561 266 5785"
+        },
+        {
+          "type": "portable",
+          "number": "561 302 1844",
+          "formatting": "561 302 1844"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "3636 S. Ocean Blvd"
+          ],
+          "city": "Highland Beach",
+          "state": null,
+          "postal_code": "FL 33487",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "085_unknown_unknown",
+      "name": {
+        "full_name": "PB \u2013 Breakers, The",
+        "prefix": null,
+        "first_name": "PB",
+        "middle_name": "\u2013 Breakers,",
+        "last_name": "The",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "561-655-6611",
+          "formatting": "561-655-6611"
+        },
+        {
+          "type": "unknown",
+          "number": "Account# 17313",
+          "formatting": "Account# 17313"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "The Breakers"
+    },
+    {
+      "entry_id": "085_bard_unknown",
+      "name": {
+        "full_name": "PB \u2013 Chiropractor (Dr. Bard",
+        "prefix": null,
+        "first_name": "",
+        "middle_name": null,
+        "last_name": "Bard",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 407 640 9999",
+          "formatting": "001 407 640 9999 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Chiropractor"
+    },
+    {
+      "entry_id": "085_peadon_francis",
+      "name": {
+        "full_name": "PB \u2013 Cleaners (handwritten: Witness)",
+        "prefix": null,
+        "first_name": "Francis",
+        "middle_name": null,
+        "last_name": "Peadon",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: handwritten: Witness"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "561 833 4486",
+          "formatting": "561 833 4486"
+        },
+        {
+          "type": "work",
+          "number": "1 561 820 4642 (Bill \u2013 husband)",
+          "formatting": "1 561 820 4642 (Bill \u2013 husband)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "085_unknown_unknown",
+      "name": {
+        "full_name": "PB \u2013 Creative Custom Swimwear",
+        "prefix": null,
+        "first_name": "PB",
+        "middle_name": "\u2013 Creative Custom",
+        "last_name": "Swimwear",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "561-747 6424",
+          "formatting": "561-747 6424"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Jupiter Town Center Plaza, 711 W. Indiantown Rd."
+          ],
+          "city": "Jupiter",
+          "state": null,
+          "postal_code": "FL 33458",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Creative Custom Swimwear"
+    },
+    {
+      "entry_id": "085_devito_dawn",
+      "name": {
+        "full_name": "PB \u2013 Devito, Dawn",
+        "prefix": null,
+        "first_name": "Dawn",
+        "middle_name": null,
+        "last_name": "Devito",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212-750-9198",
+          "formatting": "212-750-9198"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "267 Atlantic Ave."
+          ],
+          "city": "Palm Beach",
+          "state": null,
+          "postal_code": "FL 33480",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "085_devito_dawn",
+      "name": {
+        "full_name": "PB \u2013 Devito, Dawn",
+        "prefix": null,
+        "first_name": "Dawn",
+        "middle_name": null,
+        "last_name": "Devito",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "617-926 7877 (Boston)",
+          "formatting": "617-926 7877 (Boston)"
+        },
+        {
+          "type": "unknown",
+          "number": "401-423-9886 (Rhode Island)",
+          "formatting": "401-423-9886 (Rhode Island)"
+        },
+        {
+          "type": "home",
+          "number": "561 832 4616 (Palm Beach)",
+          "formatting": "561 832 4616 (Palm Beach)"
+        },
+        {
+          "type": "portable",
+          "number": "561 248 3445",
+          "formatting": "561 248 3445"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "144 Pleasant St."
+          ],
+          "city": "Watertown",
+          "state": null,
+          "postal_code": "MA 02172",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "085_unknown_ray",
+      "name": {
+        "full_name": "PB \u2013 Driver \u2013 PB",
+        "prefix": null,
+        "first_name": "Ray",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "305 491 1998",
+          "formatting": "305 491 1998"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "085_epstein_jeffrey",
+      "name": {
+        "full_name": "PB \u2013 Epstein, Jeffrey",
+        "prefix": null,
+        "first_name": "Jeffrey",
+        "middle_name": null,
+        "last_name": "Epstein",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "561 309 6415 (NY Merc)",
+          "formatting": "561 309 6415 (NY Merc)"
+        },
+        {
+          "type": "unknown",
+          "number": "561 655 7626 (JE Line 1)",
+          "formatting": "561 655 7626 (JE Line 1)"
+        },
+        {
+          "type": "unknown",
+          "number": "561 655 7629 (JE Line 2)",
+          "formatting": "561 655 7629 (JE Line 2)"
+        },
+        {
+          "type": "unknown",
+          "number": "561 655 2779 (JE Line 3)",
+          "formatting": "561 655 2779 (JE Line 3)"
+        },
+        {
+          "type": "unknown",
+          "number": "561 655 3704 (JE Line 4)",
+          "formatting": "561 655 3704 (JE Line 4)"
+        },
+        {
+          "type": "unknown",
+          "number": "561 820 8790 (f)",
+          "formatting": "561 820 8790 (f)"
+        },
+        {
+          "type": "unknown",
+          "number": "561 655 0995 (Main house kitchen)",
+          "formatting": "561 655 0995 (Main house kitchen)"
+        },
+        {
+          "type": "unknown",
+          "number": "561 379 9390 (Armored Merc S500 \u2013 front)",
+          "formatting": "561 379 9390 (Armored Merc S500 \u2013 front)"
+        },
+        {
+          "type": "unknown",
+          "number": "561 309 6415 (Armored Merc S500 \u2013 back)",
+          "formatting": "561 309 6415 (Armored Merc S500 \u2013 back)"
+        },
+        {
+          "type": "unknown",
+          "number": "561 818 8867 (Guest Merc S600 \u2013 front)",
+          "formatting": "561 818 8867 (Guest Merc S600 \u2013 front)"
+        },
+        {
+          "type": "unknown",
+          "number": "561 758 1672 (Guest Merc S600 \u2013 back)",
+          "formatting": "561 758 1672 (Guest Merc S600 \u2013 back)"
+        },
+        {
+          "type": "unknown",
+          "number": "561 762 6380 (New Suburban)",
+          "formatting": "561 762 6380 (New Suburban)"
+        },
+        {
+          "type": "unknown",
+          "number": "561 371 1686 (Staff Suburban)",
+          "formatting": "561 371 1686 (Staff Suburban)"
+        },
+        {
+          "type": "unknown",
+          "number": "561 832 0232 (Staff House Line 1)",
+          "formatting": "561 832 0232 (Staff House Line 1)"
+        },
+        {
+          "type": "unknown",
+          "number": "561 832 0319 (Staff House Line 2)",
+          "formatting": "561 832 0319 (Staff House Line 2)"
+        },
+        {
+          "type": "unknown",
+          "number": "561 832 0414 (Staff House Line 3)",
+          "formatting": "561 832 0414 (Staff House Line 3)"
+        },
+        {
+          "type": "unknown",
+          "number": "561 832 4533 (Staff House Line 4)",
+          "formatting": "561 832 4533 (Staff House Line 4)"
+        },
+        {
+          "type": "unknown",
+          "number": "4710156 (# Call forwarding)",
+          "formatting": "4710156 (# Call forwarding)"
+        },
+        {
+          "type": "work",
+          "number": "561 804 9849 (Main house kitchen)",
+          "formatting": "561 804 9849 (Main house kitchen)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "jeffreye@mindspring.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "358 El Brillo Way"
+          ],
+          "city": "Palm Beach",
+          "state": null,
+          "postal_code": "FL 33480",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "085_maxwell_ghislaine",
+      "name": {
+        "full_name": "PB \u2013 Epstein, Jeffrey",
+        "prefix": null,
+        "first_name": "Ghislaine",
+        "middle_name": null,
+        "last_name": "Maxwell",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "561 655 4870 (GM)",
+          "formatting": "561 655 4870 (GM)"
+        },
+        {
+          "type": "unknown",
+          "number": "561 346 7141 (GM merc SL55)",
+          "formatting": "561 346 7141 (GM merc SL55)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "358 El Brillo Way"
+          ],
+          "city": "Palm Beach",
+          "state": null,
+          "postal_code": "FL 33480",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "085_unknown_mike",
+      "name": {
+        "full_name": "PB \u2013 Epstein, Jeffrey",
+        "prefix": null,
+        "first_name": "Mike",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "561 818 8361",
+          "formatting": "561 818 8361"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "358 El Brillo Way"
+          ],
+          "city": "Palm Beach",
+          "state": null,
+          "postal_code": "FL 33480",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "085_unknown_sally",
+      "name": {
+        "full_name": "PB \u2013 Epstein, Jeffrey",
+        "prefix": null,
+        "first_name": "Sally",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "561 818 8398",
+          "formatting": "561 818 8398"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "358 El Brillo Way"
+          ],
+          "city": "Palm Beach",
+          "state": null,
+          "postal_code": "FL 33480",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "085_unknown_jerome_pierre",
+      "name": {
+        "full_name": "PB \u2013 Epstein, Jeffrey (Gardener) (handwritten: pointer)",
+        "prefix": null,
+        "first_name": "Jerome Pierre",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Gardener"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "561 369 4354",
+          "formatting": "561 369 4354"
+        },
+        {
+          "type": "home",
+          "number": "561 841 0728",
+          "formatting": "561 841 0728"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "358 El Brillo Way"
+          ],
+          "city": "Palm Beach",
+          "state": null,
+          "postal_code": "FL 33480",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Gardener"
+    },
+    {
+      "entry_id": "085_unknown_christophe",
+      "name": {
+        "full_name": "PB \u2013 Epstein, Jeffrey (handwritten: Pentagram?)",
+        "prefix": null,
+        "first_name": "Christophe",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: handwritten: Pentagram?"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "561 350 1700",
+          "formatting": "561 350 1700"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "358 El Brillo Way"
+          ],
+          "city": "Palm Beach",
+          "state": null,
+          "postal_code": "FL 33480",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "085_unknown_paula",
+      "name": {
+        "full_name": "PB \u2013 Epstein, Jeffrey",
+        "prefix": null,
+        "first_name": "Paula",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "561 762 2741 (car)",
+          "formatting": "561 762 2741 (car)"
+        },
+        {
+          "type": "home",
+          "number": "561 686 3707",
+          "formatting": "561 686 3707"
+        },
+        {
+          "type": "portable",
+          "number": "561 308 8684",
+          "formatting": "561 308 8684"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "358 El Brillo Way"
+          ],
+          "city": "Palm Beach",
+          "state": null,
+          "postal_code": "FL 33480",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "085_goodman_fay",
+      "name": {
+        "full_name": "PB \u2013 Epstein, Jeffrey",
+        "prefix": null,
+        "first_name": "Fay",
+        "middle_name": null,
+        "last_name": "Goodman",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "718 449 5440",
+          "formatting": "718 449 5440"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "358 El Brillo Way"
+          ],
+          "city": "Palm Beach",
+          "state": null,
+          "postal_code": "FL 33480",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "085_carey_ronnie",
+      "name": {
+        "full_name": "PB \u2013 Epstein, Jeffrey",
+        "prefix": null,
+        "first_name": "Ronnie",
+        "middle_name": null,
+        "last_name": "Carey",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "310 215 0303",
+          "formatting": "310 215 0303"
+        },
+        {
+          "type": "home",
+          "number": "310 306 1362",
+          "formatting": "310 306 1362"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "358 El Brillo Way"
+          ],
+          "city": "Palm Beach",
+          "state": null,
+          "postal_code": "FL 33480",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "085_gaie_christophe",
+      "name": {
+        "full_name": "PB \u2013 Gaie, Christophe (handwritten: Witness)",
+        "prefix": null,
+        "first_name": "Christophe",
+        "middle_name": null,
+        "last_name": "Gaie",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: handwritten: Witness"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "561 233 7242 (o)",
+          "formatting": "561 233 7242 (o)"
+        },
+        {
+          "type": "unknown",
+          "number": "561 233 7240 (f)",
+          "formatting": "561 233 7240 (f)"
+        },
+        {
+          "type": "portable",
+          "number": "561 350 1700",
+          "formatting": "561 350 1700"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "6102 Wheatley Ct"
+          ],
+          "city": "Boynton Beach",
+          "state": null,
+          "postal_code": "FL 33436",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "085_goldman_francis",
+      "name": {
+        "full_name": "PB \u2013 Goldman, Francis",
+        "prefix": null,
+        "first_name": "Francis",
+        "middle_name": null,
+        "last_name": "Goldman",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "561 656 4409",
+          "formatting": "561 656 4409"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "122 Laka Rebecca Drive"
+          ],
+          "city": "Golden Lakes",
+          "state": null,
+          "postal_code": "FL 33411",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "085_goldsmith_gerald",
+      "name": {
+        "full_name": "PB \u2013 Goldsmith, Gerald",
+        "prefix": null,
+        "first_name": "Gerald",
+        "middle_name": null,
+        "last_name": "Goldsmith",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "561-659-7433 (hf)",
+          "formatting": "561-659-7433 (hf)"
+        },
+        {
+          "type": "home",
+          "number": "561-659-0441",
+          "formatting": "561-659-0441"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "220 Wells Road"
+          ],
+          "city": "Palm Beach",
+          "state": null,
+          "postal_code": "FL 33480",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Palm Beach National Bank"
+    },
+    {
+      "entry_id": "085_goldsmith_gerald",
+      "name": {
+        "full_name": "PB \u2013 Goldsmith, Gerald",
+        "prefix": null,
+        "first_name": "Gerald",
+        "middle_name": null,
+        "last_name": "Goldsmith",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "561 650 0866 (wf)",
+          "formatting": "561 650 0866 (wf)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 308 0519 (emerg.)",
+          "formatting": "212 308 0519 (emerg.)"
+        },
+        {
+          "type": "work",
+          "number": "561 653 5586",
+          "formatting": "561 653 5586"
+        },
+        {
+          "type": "work",
+          "number": "212 319 9404",
+          "formatting": "212 319 9404"
+        },
+        {
+          "type": "work",
+          "number": "212 659 1433",
+          "formatting": "212 659 1433"
+        },
+        {
+          "type": "portable",
+          "number": "772 971 1000",
+          "formatting": "772 971 1000"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "125 Worth Ave."
+          ],
+          "city": "Palm Beach",
+          "state": null,
+          "postal_code": "FL 33480",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Palm Beach National Bank"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 31,
+    "entries_with_emails": 3,
+    "entries_with_addresses": 22,
+    "entries_with_handwritten_notes": 0,
+    "couples": 0,
+    "average_confidence": "high",
+    "notable_figures_count": 0
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Medical \u2013 Oxford Health Plans",
+      "Medical \u2013 Prudential",
+      "Medical \u2013 Steinburg Dr.",
+      "Medical \u2013 Sternberg, Esther Dr.",
+      "Medical \u2013 Tom, Maggie",
+      "Medical \u2013 Victor, Steve Dr.",
+      "Medical \u2013 Victor, Steve Dr.",
+      "Medical \u2013 Wyntik, Wayne",
+      "PB \u2013 Babor",
+      "PB \u2013 Bard, Dr. Perry",
+      "PB \u2013 Bard, Dr. Perry",
+      "PB \u2013 Breakers, The",
+      "PB \u2013 Chiropractor (Dr. Bard",
+      "PB \u2013 Cleaners (handwritten: Witness)",
+      "PB \u2013 Creative Custom Swimwear",
+      "PB \u2013 Devito, Dawn",
+      "PB \u2013 Devito, Dawn",
+      "PB \u2013 Driver \u2013 PB",
+      "PB \u2013 Epstein, Jeffrey",
+      "PB \u2013 Epstein, Jeffrey",
+      "PB \u2013 Epstein, Jeffrey",
+      "PB \u2013 Epstein, Jeffrey",
+      "PB \u2013 Epstein, Jeffrey (Gardener) (handwritten: pointer)",
+      "PB \u2013 Epstein, Jeffrey (handwritten: Pentagram?)",
+      "PB \u2013 Epstein, Jeffrey",
+      "PB \u2013 Epstein, Jeffrey",
+      "PB \u2013 Epstein, Jeffrey",
+      "PB \u2013 Gaie, Christophe (handwritten: Witness)",
+      "PB \u2013 Goldman, Francis",
+      "PB \u2013 Goldsmith, Gerald",
+      "PB \u2013 Goldsmith, Gerald"
+    ],
+    "organizations": [],
+    "locations": {
+      "international": [],
+      "us_cities": [
+        "Palm Beach",
+        "Boynton Beach",
+        "WPB",
+        "Watertown",
+        "Highland Beach",
+        "New York",
+        "Jupiter",
+        "Golden Lakes",
+        "Washington, D.C."
+      ],
+      "elite_addresses": []
+    }
+  },
+  "insights": [
+    "Geographic cluster: Palm Beach (12 entries)"
+  ]
+}

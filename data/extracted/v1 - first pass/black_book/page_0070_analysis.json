@@ -1,0 +1,636 @@
+{
+  "page_number": 70,
+  "section": "B Names Continued",
+  "entries": [
+    {
+      "name": "Barrett, Anthony",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "50 East 69th Street",
+          "street": "50 East 69th Street",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10022",
+          "confidence": "high"
+        },
+        {
+          "type": "car",
+          "address": "8 Surrey Court Room",
+          "location": "8 Surrey Court Room",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Laurel / East 59th St",
+          "location": "Laurel / East 59th Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 439 4651",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "H",
+          "number": "212 308 0831",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "W",
+          "number": "212 261 3311 (W)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 438 4654 Anthea Lamba - house",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "Anthea Lamba",
+          "number": "212 438 4653 Anthea Lamba",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "additional_contacts": [
+        "Anthea Lamba"
+      ],
+      "notes": "Anthony Barrett - East 69th Street NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Barrett, Jonathan",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "273 A, 10th Avenue #11",
+          "street": "273 A, 10th Avenue #11",
+          "city": "New York",
+          "state": "NY",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 414 7116",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "B",
+          "number": "212 316 8115 (B)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "off",
+          "number": "212 316 8116 (off)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "email: jonnyrogers@earthlink.com",
+          "confidence": "high"
+        },
+        {
+          "email": "Jonathan@rogers.com (Barrett)",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Jon Rogers House 212 247"
+      ],
+      "notes": "Jonathan Barrett - 10th Avenue NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Beck, Jerry",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1021 Island Ave",
+          "street": "1021 Island Avenue",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "West Columbia SC 43956 (1)",
+          "city": "West Columbia",
+          "state": "SC",
+          "postal_code": "43956",
+          "confidence": "high"
+        },
+        {
+          "type": "tertiary",
+          "address": "1021 Sterling Road",
+          "street": "1021 Sterling Road",
+          "confidence": "high"
+        },
+        {
+          "type": "phone_note",
+          "address": "917-476-1721",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "917-476-1721",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Jerry Beck - West Columbia SC and Sterling Road",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Benemon, Albert",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "66 Avenue Montaigne",
+          "street": "66 Avenue Montaigne",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "113 Rue St. Honore",
+          "street": "113 Rue St. Honore",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "01 40 67 84 98",
+          "area_code": "01",
+          "geographic_indicator": "Paris",
+          "confidence": "high"
+        },
+        {
+          "type": "email_note",
+          "number": "Email: email@[illegible].com",
+          "confidence": "low"
+        }
+      ],
+      "additional_info": [
+        "Boutique Givenchy Salon",
+        "30 Avenue George V Bar Stevig",
+        "Vicki [illegible]"
+      ],
+      "notes": "Albert Benemon - Avenue Montaigne Paris (Givenchy connection)",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Email domain illegible"]
+      }
+    },
+    {
+      "name": "Biddle-Hakim, Sophie",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "53 West 64th Street",
+          "street": "53 West 64th Street",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 873 1320",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 877 9838",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 799 9142 (home)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "SohieCooper@vck",
+          "confidence": "medium"
+        }
+      ],
+      "additional_info": [
+        "OLD Stephanie Shaw",
+        "7 Rue Keppler 75016",
+        "Stephanie Shaw Temple Briggs"
+      ],
+      "notes": "Sophie Biddle-Hakim - West 64th Street NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Email incomplete"]
+      }
+    },
+    {
+      "name": "Birgin, Nadja",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "21 Constern Court",
+          "street": "21 Constern Court",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Brooklyn Brooklyn CA 54507",
+          "city": "Brooklyn",
+          "state": "CA",
+          "postal_code": "54507",
+          "confidence": "high"
+        },
+        {
+          "type": "tertiary",
+          "address": "798 Eton Court apt",
+          "street": "798 Eton Court",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "310 553 6276",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "H",
+          "number": "310 553 6278 (H)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Nadja Birgin - Brooklyn CA addresses",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Black, Leon",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1301 Avenue of the Americas",
+          "street": "1301 Avenue of the Americas",
+          "city": "New York",
+          "state": "NY",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "16th Floor",
+          "floor": "16th Floor",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 515 4649",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 515 4608 (or)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "Office",
+          "number": "212 515 2064 Office",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 515 2661 [off]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "lblack@apollo.com",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Apollo Partners - [illegible]",
+        "Leon Black, Apollo Global",
+        "West 67th B"
+      ],
+      "notes": "Leon Black - Apollo Partners, Avenue of the Americas NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Brown, Coco",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "420 E 50th - South",
+          "street": "420 E 50th Street South",
+          "city": "New York",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Tucson",
+          "city": "Tucson",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "310 859 0508",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "H",
+          "number": "310 859 4988 (H)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "520 603 3541 [off]",
+          "area_code": "520",
+          "geographic_indicator": "Tucson",
+          "confidence": "high"
+        },
+        {
+          "type": "H",
+          "number": "520 602 0643 H",
+          "area_code": "520",
+          "geographic_indicator": "Tucson",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Apt 2B"
+      ],
+      "notes": "Coco Brown - NYC and Tucson addresses",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Buckingham Research",
+      "category": "Business",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "590 Madison Ave Floor 20",
+          "street": "590 Madison Avenue Floor 20",
+          "city": "New York",
+          "state": "NY",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 831 5127",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 388 1800",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "Sara Crowley",
+          "number": "212 692 5115 (Sara Crowley)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "additional_contacts": [
+        "Sara Crowley"
+      ],
+      "notes": "Buckingham Research - Madison Avenue NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Butler Aviation, Newark",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Signature Flight Support",
+          "company": "Signature Flight Support",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Newark International Airport",
+          "location": "Newark International Airport",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "973-824-4300 [or]",
+          "area_code": "973",
+          "geographic_indicator": "Newark",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "973-824-4400 Margie",
+          "area_code": "973",
+          "geographic_indicator": "Newark",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "877-628-8537 (B)",
+          "area_code": "877",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        }
+      ],
+      "additional_contacts": [
+        "Margie"
+      ],
+      "notes": "Butler Aviation - Newark Airport Signature Flight Support",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Bovino, Kelly",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "120 Hart Avenue",
+          "street": "120 Hart Avenue",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "120 Hart Ave [illegible]",
+          "confidence": "low"
+        }
+      ],
+      "additional_info": [
+        "LA 90404",
+        "718 934 5000",
+        "310 260 0317 cell",
+        "310 392 112 99"
+      ],
+      "notes": "Kelly Bovino - Hart Avenue, multiple phone numbers",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone number partially illegible"]
+      }
+    },
+    {
+      "name": "Campos, Michelle",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1 Dana Place",
+          "street": "1 Dana Place",
+          "city": "Mount NJ",
+          "state": "NJ",
+          "postal_code": "07652",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "additional_info": [
+        "World Safety",
+        "Handwritten notation at bottom"
+      ],
+      "notes": "Michelle Campos - Dana Place Mount NJ",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 12,
+    "illegible_entries": 0,
+    "partial_entries": 2,
+    "sections": ["B Names Continued"],
+    "notable_entries": [
+      "Leon Black - Apollo Partners, Avenue of the Americas",
+      "Sophie Biddle-Hakim - West 64th Street NYC",
+      "Butler Aviation - Newark Airport services",
+      "Albert Benemon - Avenue Montaigne Paris (Givenchy)",
+      "Anthony Barrett - East 69th Street NYC"
+    ],
+    "geographic_distribution": {
+      "usa": 11,
+      "france": 1
+    },
+    "location_highlights": [
+      "1301 Avenue of the Americas - Apollo Partners",
+      "Avenue Montaigne Paris - luxury fashion district",
+      "Newark International Airport - Butler Aviation",
+      "Multiple Manhattan Upper East/West Side addresses"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 10,
+      "medium_confidence": 1,
+      "low_confidence": 1,
+      "specific_issues": [
+        "Some email domains illegible",
+        "Kelly Bovino phone partially illegible",
+        "Handwritten notations unclear"
+      ]
+    }
+  }
+}

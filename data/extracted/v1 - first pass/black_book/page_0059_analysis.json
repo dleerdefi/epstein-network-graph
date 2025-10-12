@@ -1,0 +1,703 @@
+{
+  "page_number": 59,
+  "section": "Y-Z",
+  "entries": [
+    {
+      "name": "Yariv Zghoul",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "617 3rd Ave",
+          "street": "617 3rd Ave",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 336 4480",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Email: yariv@yarivgreatestate.com",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Yariv Zghoul - 3rd Avenue",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Yates Andrew (piggy)",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 745 0500",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0776 249 2547 (P)",
+          "area_code": "0776",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Andrew Yates (piggy)",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Young Toby",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "18 Studdrige St.",
+          "street": "18 Studdrige St.",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "020 7385 0095",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 4 [illegible]",
+          "confidence": "low"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Email: Toby@tobyoung@hotmail.com",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Toby Young - Studdridge St",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One phone number illegible"]
+      }
+    },
+    {
+      "name": "Younger, Tracy & Lee, Tim",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 589 3124(h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Tracy Younger & Tim Lee",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Yugoslavia Dimitri",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "400 E. 52nd Street Rd",
+          "street": "400 E. 52nd Street Rd",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "P.O. Box NY 10021",
+          "postal_code": "10021",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 355 5115(H)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 581 5446(G)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 312 649 [illegible]@nothemery.co",
+          "area_code": "312",
+          "geographic_indicator": "Chicago",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 563 1035 Work",
+          "area_code": "516",
+          "geographic_indicator": "Long Island NY",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Dimitri Yugoslavia - East 52nd Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Email partially illegible"]
+      }
+    },
+    {
+      "name": "Yugoslavia, Prince Michel of",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "2101 Government Ave",
+          "street": "2101 Government Ave",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "2102 Place",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New 10022",
+          "postal_code": "10022",
+          "confidence": "low"
+        },
+        {
+          "type": "home",
+          "number": "001 212 223 7167 (H)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "office",
+          "number": "001 212 332 2236 (O)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 319 6699(2nd home)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Prince Michel of Yugoslavia - Government Ave",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Yugoslavia, Serge de",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0127 816 3260",
+          "area_code": "0127",
+          "geographic_indicator": "UK",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0836 595 881 Mob",
+          "area_code": "0836",
+          "geographic_indicator": "UK mobile (old)",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Serge de Yugoslavia",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Zacks Gordon",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "40 Briar Cliff",
+          "street": "40 Briar Cliff",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 514 735 5599",
+          "area_code": "514",
+          "geographic_indicator": "Montreal, Canada",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Gordon Zacks - Montreal",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Zaies, Alexi",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 989 8092",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 308 6975",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Alexi Zaies",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Zangrillo Paige & Bob",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1110 Cypress Creek Road",
+          "street": "1110 Cypress Creek Road",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Lauderdale 33321",
+          "postal_code": "33321",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 919 808 9912",
+          "area_code": "919",
+          "geographic_indicator": "North Carolina",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Paige & Bob Zangrillo - Cypress Creek Road",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Zawsuri, Waleed",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "20 Aston Court",
+          "street": "20 Aston Court",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW17E SW1",
+          "postal_code": "SW1",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "home: 44 171 371 gov. Box 875,",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Waleed Zawsuri - Aston Court",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone details unclear"]
+      }
+    },
+    {
+      "name": "Zecher Bitti and Adrian",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Casa Havana",
+          "location": "Casa Havana",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 305 4555(H)",
+          "area_code": "305",
+          "geographic_indicator": "Miami, Florida",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 305 672 4400",
+          "area_code": "305",
+          "geographic_indicator": "Miami, Florida",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "mailbox@casaa.topinfo.com",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Bitti and Adrian Zecher - Casa Havana Miami",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Zeff Mark",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "41 Union Sq 1214",
+          "street": "41 Union Sq 1214",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "tel Union Square Design@aol.com",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Mark Zeff - Union Square",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone/email format unclear"]
+      }
+    },
+    {
+      "name": "Zeiler, John",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "9 Charterhouse St.",
+          "street": "9 Charterhouse St.",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 838 7004(H)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 [illegible]",
+          "area_code": "516",
+          "geographic_indicator": "Long Island NY",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 213 941 5348",
+          "area_code": "213",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        }
+      ],
+      "notes": "John Zeiler - Charterhouse St",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One phone number illegible"]
+      }
+    },
+    {
+      "name": "Zilkha, Bettina",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "124 East 79th St.",
+          "street": "124 East 79th St.",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "NY 10021",
+          "postal_code": "10021",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 570 8151(h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 249 8212(o)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "bxj@psymail.com",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Bettina Zilkha - East 79th Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Zinn, Brian",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "151 East 83rd St. #10, 10021(m)",
+          "street": "151 East 83rd St. #10",
+          "city": "New York",
+          "postal_code": "10021",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 717 2950 (H)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 650 0156",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "brianzinn@aol.com",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Brian Zinn - East 83rd Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "65TH STREET",
+      "addresses": [],
+      "phones": [],
+      "notes": "Address header or reference",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Appears to be section marker"]
+      }
+    },
+    {
+      "name": "Dionne, Ryan",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "303 East 60th Street",
+          "street": "303 East 60th Street",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York, NY 10021",
+          "postal_code": "10021",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "1 516 851 9514",
+          "area_code": "516",
+          "geographic_indicator": "Long Island NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "1 212 838 9424",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Ryan Dionne - East 60th Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Zwi, Dino & Rosl",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "8 Lanston place",
+          "street": "8 Lanston place",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW1",
+          "postal_code": "SW1",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 589 8219 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Dino & Rosl Zwi - Lanston Place SW1",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Geffert, Scott",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "415 South Doyale Ave",
+          "street": "415 South Doyale Ave",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Long Island, NY",
+          "location": "Long Island, NY",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001[illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 631 433 1022(H)",
+          "area_code": "631",
+          "geographic_indicator": "Long Island NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 631 833 [illegible]",
+          "area_code": "631",
+          "geographic_indicator": "Long Island NY",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        {
+          "email": "scottgeffert@[illegible].com",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Scott Geffert - South Doyale Ave Long Island",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone numbers partially illegible", "Email domain illegible"]
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 20,
+    "illegible_entries": 0,
+    "partial_entries": 8,
+    "cross_references": ["Multiple Yugoslavia royal entries"],
+    "notable_individuals": [
+      "Prince Michel of Yugoslavia",
+      "Serge de Yugoslavia",
+      "Bettina Zilkha - East 79th Street"
+    ],
+    "geographic_distribution": {
+      "uk": 4,
+      "usa": 13,
+      "canada": 1,
+      "other": 2
+    },
+    "location_highlights": [
+      "Multiple East Side NYC addresses",
+      "Yugoslav royalty in NYC",
+      "Montreal connection",
+      "Miami/Fort Lauderdale presence",
+      "Long Island connections"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 12,
+      "medium_confidence": 5,
+      "low_confidence": 3,
+      "specific_issues": [
+        "Several phone numbers illegible",
+        "Some email domains unclear",
+        "Address details incomplete in places"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1026 @@
+{
+  "page_number": 47,
+  "alphabetical_section": "R",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "047_roedy_bill",
+      "name": {
+        "full_name": "Roedy, Bill",
+        "prefix": null,
+        "first_name": "Bill",
+        "middle_name": null,
+        "last_name": "Roedy",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207 478 6000",
+          "formatting": "0207 478 6000 (w)"
+        },
+        {
+          "type": "work",
+          "number": "0207 383 4250",
+          "formatting": "0207 383 4250 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "MTV Europe",
+            "24 Hanover House - Wood Hi St.",
+            "St. Johns, NW87DX"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "NW87DX",
+          "country": "UK",
+          "notes": "MTV Europe executive"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "MTV Europe - major media executive"
+    },
+    {
+      "entry_id": "047_rolfe_gail",
+      "name": {
+        "full_name": "Rolfe, Gail",
+        "prefix": null,
+        "first_name": "Gail",
+        "middle_name": null,
+        "last_name": "Rolfe",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 351 1836",
+          "formatting": "0207 151 1836 (h)"
+        },
+        {
+          "type": "work",
+          "number": "0207 938 6000",
+          "formatting": "0207 938 6000 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "46-48 Gertrud Street",
+            "London, SW10"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW10",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "047_ronson_lisa",
+      "name": {
+        "full_name": "Ronson, Lisa",
+        "prefix": null,
+        "first_name": "Lisa",
+        "middle_name": null,
+        "last_name": "Ronson",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 493 3577",
+          "formatting": "0207 493 3577 (h)"
+        },
+        {
+          "type": "fax",
+          "number": "0207 493 3524",
+          "formatting": "0207 493 3524 (f)"
+        },
+        {
+          "type": "work",
+          "number": "212 412 2200",
+          "formatting": "212 412 2200 Lisa's work"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "54 Grosvanor Street",
+            "London, W1X OEU"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W1X OEU",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Possibly related to Ronson, Mr & Mrs Gerald"
+    },
+    {
+      "entry_id": "047_ronson_mr_mrs_gerald",
+      "name": {
+        "full_name": "Ronson, Mr & Mrs Gerald",
+        "prefix": "Mr & Mrs",
+        "first_name": "Gerald",
+        "middle_name": null,
+        "last_name": "Ronson",
+        "suffix": null,
+        "couple": true,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "07785 975 607",
+          "formatting": "07785 975 607 Gail p"
+        },
+        {
+          "type": "fax",
+          "number": "0207 487 2970",
+          "formatting": "0207 487 2970 (f)"
+        },
+        {
+          "type": "home",
+          "number": "0208 458 9309",
+          "formatting": "0208 458 9309 (h)"
+        },
+        {
+          "type": "work",
+          "number": "0207 486 4477",
+          "formatting": "0207 486 4477 (w)"
+        },
+        {
+          "type": "unknown",
+          "number": "0836 202207",
+          "formatting": "0836 202207"
+        },
+        {
+          "type": "boat",
+          "number": "00 87 11440333",
+          "formatting": "00 87 11440333 (b oat)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Carrington Chase",
+            "85 Winnington Road",
+            "Hampstead, London N2 OTY"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "N2 OTY",
+          "country": "UK",
+          "notes": "Hampstead - wealthy North London area"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Gerald Ronson - British businessman, property magnate. Possibly related to Ronson, Lisa."
+    },
+    {
+      "entry_id": "047_rose_wendy_jo",
+      "name": {
+        "full_name": "Rose, Wendy & Jo",
+        "prefix": null,
+        "first_name": "Wendy",
+        "middle_name": null,
+        "last_name": "Rose",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Jo"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 633 9270",
+          "formatting": "001 212 633 9270 (h)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 720 3200",
+          "formatting": "001 212 720 3200 Jo (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "047_rose_charlie_burder_amanda",
+      "name": {
+        "full_name": "Rose, Charlie & Burder, Amanda",
+        "prefix": null,
+        "first_name": "Charlie",
+        "middle_name": null,
+        "last_name": "Rose",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Amanda Burder"
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "212-940-1600",
+          "formatting": "212-940-1600 (w)"
+        },
+        {
+          "type": "home",
+          "number": "212-249-4645",
+          "formatting": "212-249-4645 (h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "119 E 71ST. Street",
+            "New York, NY 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side - Charlie Rose TV journalist"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Charlie Rose - major TV journalist/interviewer"
+    },
+    {
+      "entry_id": "047_rosen_andrew",
+      "name": {
+        "full_name": "Rosen, Andrew",
+        "prefix": null,
+        "first_name": "Andrew",
+        "middle_name": null,
+        "last_name": "Rosen",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0208 883 5377",
+          "formatting": "0208 883 5377 (h)"
+        },
+        {
+          "type": "portable",
+          "number": "01797 226486",
+          "formatting": "01797 226486 (c)"
+        },
+        {
+          "type": "home",
+          "number": "0207 267 6991",
+          "formatting": "0207 267 6991 (h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "047_rosen_denis_sylvia",
+      "name": {
+        "full_name": "Rosen, Denis & Sylvia",
+        "prefix": null,
+        "first_name": "Denis",
+        "middle_name": null,
+        "last_name": "Rosen",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Sylvia"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0208-883 5377",
+          "formatting": "0208-883 5377 (h)"
+        },
+        {
+          "type": "portable",
+          "number": "01797 226485",
+          "formatting": "01797 226485 (c)"
+        },
+        {
+          "type": "home",
+          "number": "0207-267 6991",
+          "formatting": "0207-267 6991 (h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "78 Twyford Ave",
+            "Fortis Green N2"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "N2",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "047_rosencrantz_claudia",
+      "name": {
+        "full_name": "Rosencrantz, Ms Claudia",
+        "prefix": "Ms",
+        "first_name": "Claudia",
+        "middle_name": null,
+        "last_name": "Rosencrantz",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 607 1401",
+          "formatting": "0207 607 1401 (h)"
+        },
+        {
+          "type": "work",
+          "number": "0207 261 3733",
+          "formatting": "0207 261 3733 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "11 Pottery Lane",
+            "London, W11 4LY"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W11 4LY",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "047_rosenfeld_donald",
+      "name": {
+        "full_name": "Rosenfeld, Donald",
+        "prefix": null,
+        "first_name": "Donald",
+        "middle_name": null,
+        "last_name": "Rosenfeld",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 535 5379",
+          "formatting": "001 212 535 5379"
+        },
+        {
+          "type": "home",
+          "number": "001 212 462 4101",
+          "formatting": "001 212 462 4101 (hm)"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 523 0446",
+          "formatting": "001 917 523 0446 (p)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "11 East 68th St",
+            "7G",
+            "New York, NY 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "047_rosenstein_rob",
+      "name": {
+        "full_name": "Rosenstein, Rob",
+        "prefix": null,
+        "first_name": "Rob",
+        "middle_name": null,
+        "last_name": "Rosenstein",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 416 4082",
+          "formatting": "001 212 416 4082 (w)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 249 8150",
+          "formatting": "001 212 249 8150 (h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "047_rosenthal_jane",
+      "name": {
+        "full_name": "Rosenthal, Jane",
+        "prefix": null,
+        "first_name": "Jane",
+        "middle_name": null,
+        "last_name": "Rosenthal",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "212 941 4040",
+          "formatting": "212 941 4040 (w)"
+        },
+        {
+          "type": "work",
+          "number": "212 941 4044",
+          "formatting": "212 941 4044 (w1)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 516 537 6274",
+          "formatting": "001 516 537 6274"
+        },
+        {
+          "type": "home",
+          "number": "212 877 7042",
+          "formatting": "212 877 7042 (h)"
+        }
+      ],
+      "emails": [
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "375 Greenwich Street 8th floor",
+            "New York, NY 10013"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10013",
+          "country": "USA",
+          "notes": "'Tribeca Productions' - film producer, Robert De Niro's partner"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'Tribeca Productions' - major film producer"
+    },
+    {
+      "entry_id": "047_roth_peter_thomas_noreen",
+      "name": {
+        "full_name": "Roth, Peter Thomas & Noreen",
+        "prefix": null,
+        "first_name": "Peter Thomas",
+        "middle_name": null,
+        "last_name": "Roth",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Noreen"
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "212 581 5800",
+          "formatting": "212 581 5800 (w)"
+        },
+        {
+          "type": "home",
+          "number": "212 737 7303",
+          "formatting": "212 737 7303 P.(h) [Peter home]"
+        },
+        {
+          "type": "home",
+          "number": "212 753 0663",
+          "formatting": "212 753 0663 Parents (h)"
+        },
+        {
+          "type": "home",
+          "number": "212 737 7303",
+          "formatting": "212 737 7303 N.(h) [Noreen home]"
+        },
+        {
+          "type": "portable",
+          "number": "917 608 1701",
+          "formatting": "917 608 1701 (w)"
+        },
+        {
+          "type": "fax",
+          "number": "212 737 2074",
+          "formatting": "212 737 2074 (hf)"
+        },
+        {
+          "type": "fax",
+          "number": "212 581 5810",
+          "formatting": "212 581 5810 (wf)"
+        },
+        {
+          "type": "portable",
+          "number": "917 608 1702",
+          "formatting": "917 608 1702 N.(p) [Noreen portable]"
+        },
+        {
+          "type": "office",
+          "number": "212 736 9300",
+          "formatting": "212 736 9300 (other office)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "proth@peterthomasroth.com",
+          "type": "home",
+          "notes": "Peter Thomas Roth Labs peterthomasroth.com email domain"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "52 E 73rd st",
+            "New York, NY 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "'Karbra Co.' Peter Thomas Roth Labs - luxury skincare brand founder"
+        },
+        {
+          "type": "work",
+          "address_lines": [
+            "630 5th Avenue, Suite 1406",
+            "New York, NY 10111"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10111",
+          "country": "USA",
+          "notes": "Business office"
+        }
+      ],
+      "handwritten_notes": [
+        ""
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'Karbra Co.' Peter Thomas Roth - luxury skincare brand founder, extensive contact info"
+    },
+    {
+      "entry_id": "047_rothschild_jessica",
+      "name": {
+        "full_name": "Rothschild, Jessica",
+        "prefix": null,
+        "first_name": "Jessica",
+        "middle_name": null,
+        "last_name": "Rothschild",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "07710 579799",
+          "formatting": "07710 579799"
+        },
+        {
+          "type": "unknown",
+          "number": "0207 243 4525",
+          "formatting": "0207 243 4525"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Spelled as 'Rothchild' not 'Rothschild' but believed to be clerical error. Possibly related to Rothschild, Hannah, Rothschild, Edouard, de, and Rothschild, Evelyn de."
+    },
+    {
+      "entry_id": "047_rothschild_hannah",
+      "name": {
+        "full_name": "Rothschild, Hannah",
+        "prefix": null,
+        "first_name": "Hannah",
+        "middle_name": null,
+        "last_name": "Rothschild",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 289 0035",
+          "formatting": "0207 289 0035 (h)"
+        },
+        {
+          "type": "work",
+          "number": "0207 493 8111",
+          "formatting": "0207 493 8111 (w)"
+        },
+        {
+          "type": "fax",
+          "number": "0207 286 9784",
+          "formatting": "0207 286 9784 (private fax)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "5 Clifton Villas",
+            "London,",
+            "W92 PH",
+            "London, UK"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W92 PH",
+          "country": "UK",
+          "notes": "Clifton Villas - prestigious area"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Spelled as 'Rothchild' not 'Rothschild' but believed to be clerical error. Rothschild family dynasty. Possibly related to Rothschild, Jessica, Rothschild, Edouard, de, and Rothschild, Evelyn de."
+    },
+    {
+      "entry_id": "047_rothenburg_rich",
+      "name": {
+        "full_name": "Rothenburg, Rich",
+        "prefix": null,
+        "first_name": "Rich",
+        "middle_name": null,
+        "last_name": "Rothenburg",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 893 5300",
+          "formatting": "001 212 893 5300 (w)"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 239 7424",
+          "formatting": "001 917 239 7424 (p)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 744 9341",
+          "formatting": "001 212 744 9341 (h)"
+        },
+        {
+          "type": "portable",
+          "number": "01 646 436 3283",
+          "formatting": "01 646 436 3283 cell"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "047_rotherwick_tania_robin",
+      "name": {
+        "full_name": "Rotherwick, Tania & Robin",
+        "prefix": null,
+        "first_name": "Tania",
+        "middle_name": null,
+        "last_name": "Rotherwick",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Robin"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 937 9999",
+          "formatting": "0207 937 9999 (h)"
+        },
+        {
+          "type": "unknown",
+          "number": "07887 985 801",
+          "formatting": "07887 985 801"
+        },
+        {
+          "type": "home",
+          "number": "01865 858730",
+          "formatting": "01865 858730 (h)"
+        },
+        {
+          "type": "work",
+          "number": "0207 942 0949",
+          "formatting": "0207 942 0949 (w)"
+        },
+        {
+          "type": "home",
+          "number": "0207 722 1240",
+          "formatting": "0207 722 1240 diana (h)"
+        },
+        {
+          "type": "work",
+          "number": "0207 393 1642",
+          "formatting": "0207 393 1642 diana (w)"
+        },
+        {
+          "type": "country",
+          "number": "01608 811 600",
+          "formatting": "01608 811 600 Country"
+        }
+      ],
+      "emails": [
+        {
+          "address": "tania.thornlon@omgroup.co",
+          "type": "work",
+          "notes": "OMGgroup email domain"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "21 Ansdell Street",
+            "London W8 5BN"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W8 5BN",
+          "country": "UK",
+          "notes": "'Orc Softward Ltd"
+        },
+        {
+          "type": "home",
+          "address_lines": [
+            "Cornbury Park,",
+            "Charlbury,",
+            "OX7 3EH"
+          ],
+          "city": "Charlbury",
+          "state": null,
+          "postal_code": "OX7 3EH",
+          "country": "UK",
+          "notes": "Country estate in Oxfordshire"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'Orc Software Ltd' OMG group connection, multiple properties including country estate"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 17,
+    "entries_with_emails": 3,
+    "entries_with_addresses": 12,
+    "entries_with_handwritten_notes": 1,
+    "couples": 6,
+    "average_confidence": "high",
+    "notable_figures_count": 3
+  },
+  "cross_references": [
+    {
+      "from": "047_ronson_lisa",
+      "to": "047_ronson_mr_mrs_gerald",
+      "relationship": "possibly_related",
+      "note": "Same surname - possibly family members. Gerald Ronson prominent businessman"
+    },
+    {
+      "from": "047_rosenthal_jane",
+      "to": "047_roth_peter_thomas_noreen",
+      "relationship": "business_connection",
+      "note": "Both have @peterthomasroth.com emails - same company (Jane's email may be error, or business relationship)"
+    },
+    {
+      "from": "047_rothchild_jessica",
+      "to": "047_rothchild_hannah",
+      "relationship": "possibly_related",
+      "note": "Rothchild family members - banking dynasty"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Bill Roedy",
+      "Gail Rolfe",
+      "Lisa Ronson",
+      "Gerald Ronson",
+      "Wendy Rose",
+      "Jo Rose",
+      "Charlie Rose",
+      "Amanda Burder",
+      "Andrew Rosen",
+      "Denis Rosen",
+      "Sylvia Rosen",
+      "Claudia Rosencrantz",
+      "Donald Rosenfeld",
+      "Rob Rosenstein",
+      "Jane Rosenthal",
+      "Peter Thomas Roth",
+      "Noreen Roth",
+      "Jessica Rothchild",
+      "Hannah Rothchild",
+      "Rich Rothenburg",
+      "Tania Rotherwick",
+      "Robin Rotherwick"
+    ],
+    "organizations": [
+      "MTV Europe (Bill Roedy)",
+      "Tribeca Productions (Jane Rosenthal - Robert De Niro's production company)",
+      "Peter Thomas Roth Labs (luxury skincare)",
+      "OMG Software Ltd (Tania Rotherwick)"
+    ],
+    "locations": {
+      "international": [
+        "London, UK (multiple contacts)",
+        "Hampstead, London (Ronson)",
+        "Mayfair, London (Lisa Ronson)",
+        "Fortis Green, London",
+        "Charlbury, Oxfordshire (country estate)"
+      ],
+      "us_cities": [
+        "New York City (multiple contacts)",
+        "Upper East Side, NYC"
+      ],
+      "elite_addresses": [
+        "54 Grosvenor Street, Mayfair (Lisa Ronson)",
+        "85 Winnington Road, Hampstead (Gerald Ronson)",
+        "119 E 71st Street, NYC (Charlie Rose)",
+        "375 Greenwich Street, NYC (Jane Rosenthal - Tribeca)",
+        "52 E 73rd Street, NYC (Peter Thomas Roth)",
+        "11 East 68th St, NYC (Donald Rosenfeld)",
+        "5 Clifton Villas, London (Hannah Rothchild)",
+        "Cornbury Park, Charlbury (Rotherwick country estate)"
+      ]
+    }
+  },
+  "insights": [
+    "Bill Roedy - MTV Europe executive, major media figure with London/NYC presence",
+    "Charlie Rose - prominent TV journalist/interviewer, Upper East Side residence (119 E 71st)",
+    "Jane Rosenthal - Tribeca Productions (375 Greenwich) - Robert De Niro's business partner, major film producer",
+    "Gerald Ronson - British property magnate with boat phone (00 87 11440333), Hampstead mansion",
+    "Lisa Ronson - Grosvenor Street Mayfair (elite London address), possibly Gerald Ronson's daughter",
+    "Peter Thomas Roth - luxury skincare brand founder, extensive contact info with multiple NYC addresses including parents' residence",
+    "Hannah Rothchild - Rothschild banking family, Clifton Villas London with private fax line",
+    "Jessica Rothchild - Rothschild family member with UK/NYC presence",
+    "Multiple couples: Rose (Wendy & Jo), Rose (Charlie & Amanda Burder), Rosen (Denis & Sylvia), Roth (Peter Thomas & Noreen), Rotherwick (Tania & Robin), Ronson (Mr & Mrs Gerald)",
+    "Tania Rotherwick - OMG Software Ltd, country estate in Oxfordshire (Cornbury Park) plus London residence",
+    "Strong London elite presence: Mayfair (Grosvenor St), Hampstead, Chelsea, Kensington",
+    "NYC concentration on Upper East Side: 71st St, 73rd St, 68th St",
+    "Jane Rosenthal email jroth@peterthomasroth.com suggests business connection to Peter Thomas Roth skincare",
+    "Roth entry shows data entry confusion with phone numbers listed as addresses - extensive contact info",
+    "Gerald Ronson boat phone indicates yacht ownership, wealth indicator",
+    "Charlie Rose with Amanda Burder (not married, separate surnames) at 119 E 71st",
+    "Multiple high-profile media figures: Bill Roedy (MTV), Charlie Rose (journalism), Jane Rosenthal (film production)"
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "page_number": 120,
+  "file_path": "data/birthday_book_images/page_0120.png",
+  "file_size_mb": 0.3391857147216797,
+  "type": "handwritten_birthday_letter",
+  "content": {
+    "text": "Birthday Greetings\nto Deyonenta One\n\nFrom Eaton Square to Burton Way\nfrom St. Moritz to Palm Beach & Manhattan\nis it a mere 2 decades or Earth time\n(so many girls, so little time)? And you\nThree Jeffrey's always running like the Mysterious\nmischievous lad you are - I remember of\nall with a smile, though with a melancholy\nsmile to thank you are only not mid century\na mere boy (Thank me vampire one supposed\nto age slowly)(right at all). So there will\nbe decades more of my screaming commodity orders\non planes while the other passengers say 'Still,' and you\nnever feeling to ostensibly me 'I'll look out the\nwindow and you'll be shooting Trust me right\nwith a Cheshire Cat grin.' Kind of a Jeffrey\nWith great affection\nDeyonenta II\n[signature redacted]",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "description": "Personal handwritten birthday letter with travel and lifestyle references",
+    "text_sections": {
+      "full_transcription": "Birthday Greetings\nto Deyonenta One\n\nFrom Eaton Square to Burton Way\nfrom St. Moritz to Palm Beach & Manhattan\nis it a mere 2 decades or Earth time\n(so many girls, so little time)? And you\nThree Jeffrey's always running like the Mysterious\nmischievous lad you are - I remember of\nall with a smile, though with a melancholy\nsmile to thank you are only not mid century\na mere boy (Thank me vampire one supposed\nto age slowly)(right at all). So there will\nbe decades more of my screaming commodity orders\non planes while the other passengers say 'Still,' and you\nnever feeling to ostensibly me 'I'll look out the\nwindow and you'll be shooting Trust me right\nwith a Cheshire Cat grin.' Kind of a Jeffrey\nWith great affection\nDeyonenta II\n[signature redacted]",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          120
+        ]
+      },
+      {
+        "name": "Deyonenta One (Epstein nickname)",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          120
+        ]
+      },
+      {
+        "name": "Deyonenta II (sender)",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          120
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      "Eaton Square",
+      "Burton Way",
+      "St. Moritz",
+      "Palm Beach",
+      "Manhattan"
+    ],
+    "dates": [
+      "2 decades"
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [
+      "Three Jeffrey's",
+      "vampire",
+      "commodity orders"
+    ],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Deyonenta II (signature redacted)",
+    "recipient": "Jeffrey Epstein (Deyonenta One)",
+    "date": "Birthday (referencing 2 decades of friendship)",
+    "subject": "Birthday greetings with personal memories",
+    "theme": "long_friendship_lifestyle_references",
+    "significance": "medium",
+    "document_type": "handwritten_birthday_letter"
+  },
+  "insights": [
+    "'Deyonenta' appears to be a private nickname system between sender and Epstein",
+    "'So many girls, so little time' - explicit reference to multiple women",
+    "Parenthetical comment about girls suggests casual attitude toward relationships",
+    "References luxury travel locations: Eaton Square (London), Burton Way (Beverly Hills), St. Moritz",
+    "Palm Beach and Manhattan mentioned as regular locations",
+    "'2 decades' suggests 20-year relationship with sender",
+    "'Three Jeffrey's' may reference multiple personas or associates",
+    "'Mysterious mischievous lad' characterization",
+    "'Vampire' reference about aging slowly - possibly about youthful appearance",
+    "'Screaming commodity orders on planes' suggests financial trading during travel",
+    "'Cheshire Cat grin' reference implies secretive, knowing demeanor",
+    "Letter indicates long-term friendship with shared experiences",
+    "International jet-set lifestyle evident from location references",
+    "Signature redacted suggests sender wishes to remain anonymous",
+    "Tone is affectionate but acknowledges controversial aspects",
+    "Financial dealings conducted while traveling on planes"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000120",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.179181",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [
+      {
+        "name": "Redacted",
+        "style": "cursive",
+        "location": "bottom",
+        "redacted": true,
+        "identified_as": "Redacted",
+        "confidence": "medium",
+        "characteristics": [],
+        "matches_pages": []
+      }
+    ],
+    "logos": [],
+    "redactions": [
+      "Signature at bottom redacted with black box"
+    ],
+    "handwritten_notes": [
+      {
+        "type": "full_page_letter",
+        "style": "cursive",
+        "ink_color": "black"
+      }
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Handwritten birthday letter addressed to 'Deyonenta One'",
+    "From 'Deyonenta II' - coded nickname system",
+    "Location references: Eaton Square (London), Burton Way (Beverly Hills)",
+    "St. Moritz, Palm Beach, Manhattan - luxury destinations",
+    "'(so many girls, so little time)' written in parentheses",
+    "'Three Jeffrey's always running like the Mysterious'",
+    "'mischievous lad you are'",
+    "'2 decades' of relationship mentioned",
+    "'vampire one supposed to age slowly' reference",
+    "'screaming commodity orders on planes'",
+    "'Cheshire Cat grin' characterization",
+    "Signed 'With great affection'",
+    "Signature redacted with black box at bottom",
+    "Written in cursive with black ink",
+    "Document stamped HOUSE_OVERSIGHT_000120"
+  ],
+  "investigative_leads": []
+}

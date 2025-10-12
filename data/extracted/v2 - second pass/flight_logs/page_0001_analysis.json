@@ -1,0 +1,853 @@
+{
+  "page_number": 1,
+  "date_header": {
+    "year": 1991,
+    "month": "APR",
+    "full_text": "1991 APR",
+    "confidence": "high"
+  },
+  "flights": [
+    {
+      "date": {
+        "original": "25",
+        "parsed": "1991-04-25",
+        "display": "04/25/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-400F",
+        "tail_number": "N125JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PSP - CLE",
+        "to": "CMH",
+        "from_codes": ["PSP", "CLE"],
+        "to_codes": ["CMH"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "135",
+        "flight_number": "75",
+        "confidence": "high"
+      },
+      "remarks": "NESTLE MR. MARIENO",
+      "passengers": [
+        {
+          "name": "Mr. Martino",
+          "code": null,
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "4",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "2",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "30",
+        "parsed": "1991-04-30",
+        "display": "04/30/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-400P",
+        "tail_number": "N125JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "PSP",
+        "from_codes": ["CMH"],
+        "to_codes": ["PSP"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "135",
+        "flight_number": "70",
+        "confidence": "high"
+      },
+      "remarks": "DEL COLEMAN",
+      "passengers": [
+        {
+          "name": "Del Coleman",
+          "code": null,
+          "type": "identified",
+          "notable": true,
+          "confidence": "medium"
+        }
+      ],
+      "landings": {
+        "count": "5",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "MAY",
+        "parsed": "1991-05-01",
+        "display": "05/01/1991",
+        "confidence": "medium",
+        "notes": "Month change - assuming day 1"
+      },
+      "aircraft": {
+        "make_model": "HS125-400P",
+        "tail_number": "N125JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PSP - MDW - BKL",
+        "to": "CMH",
+        "from_codes": ["PSP", "MDW", "BKL"],
+        "to_codes": ["CMH"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "135",
+        "flight_number": "70",
+        "confidence": "high"
+      },
+      "remarks": "DEL COLEMAN",
+      "passengers": [
+        {
+          "name": "Del Coleman",
+          "code": null,
+          "type": "identified",
+          "notable": true,
+          "confidence": "medium"
+        }
+      ],
+      "landings": {
+        "count": "4",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "5",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "2",
+        "parsed": "1991-05-02",
+        "display": "05/02/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-400P",
+        "tail_number": "N125JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH - PSP - CGB",
+        "to": "CMH",
+        "from_codes": ["CMH", "PSP", "CGB"],
+        "to_codes": ["CMH"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "135",
+        "flight_number": "70",
+        "confidence": "high"
+      },
+      "remarks": "SAUL LEVY",
+      "passengers": [
+        {
+          "name": "Saul Levy",
+          "code": null,
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "5",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "6",
+        "parsed": "1991-05-06",
+        "display": "05/06/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-400P",
+        "tail_number": "N125JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "CPS",
+        "from_codes": ["CMH"],
+        "to_codes": ["CPS"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "160",
+        "flight_number": "",
+        "confidence": "high"
+      },
+      "remarks": "TO MAINJON (illegible), BELOW THE FLOOR TRAYS, 20 YEAR. XDDYS, FOXGER BOND, GONE HATCH...",
+      "passengers": [],
+      "landings": {
+        "count": "1",
+        "confidence": "low"
+      },
+      "aircraft_category": {
+        "airplane": "3",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "21",
+        "parsed": "1991-05-21",
+        "display": "05/21/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-400P",
+        "tail_number": "N125JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CPS",
+        "to": "CMH",
+        "from_codes": ["CPS"],
+        "to_codes": ["CMH"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "80",
+        "flight_number": "",
+        "confidence": "high"
+      },
+      "remarks": "",
+      "passengers": [],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "0",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "30",
+        "parsed": "1991-05-30",
+        "display": "05/30/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-400P",
+        "tail_number": "N125JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH - [RDU]",
+        "to": "CMH",
+        "from_codes": ["CMH", "RDU"],
+        "to_codes": ["CMH"],
+        "confidence": "medium"
+      },
+      "flight_data": {
+        "miles_flown": "125",
+        "flight_number": "95",
+        "confidence": "high"
+      },
+      "remarks": "S HUNTON'S STEIN CHARGER MEL, NFG, SJU, LFF",
+      "passengers": [
+        {
+          "name": "Hunting",
+          "code": null,
+          "type": "identified",
+          "notable": false,
+          "confidence": "low"
+        },
+        {
+          "name": "Ted Steinert",
+          "code": null,
+          "type": "identified",
+          "confidence": "low"
+        }
+      ],
+      "landings": {
+        "count": "2",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "0",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "JUN",
+        "parsed": "1991-06-17",
+        "display": "06/17/1991",
+        "confidence": "medium",
+        "notes": "Month change"
+      },
+      "aircraft": {
+        "make_model": "HS125-400P",
+        "tail_number": "N125JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH - BKL",
+        "to": "CMH",
+        "from_codes": ["CMH", "BKL"],
+        "to_codes": ["CMH"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "80",
+        "flight_number": "",
+        "confidence": "high"
+      },
+      "remarks": "HERB, MICHAEL, DAVID, FRED, DOUG",
+      "passengers": [
+        {
+          "name": "Herb",
+          "code": null,
+          "type": "identified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Michael",
+          "code": null,
+          "type": "identified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "David",
+          "code": null,
+          "type": "identified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Fred",
+          "code": null,
+          "type": "identified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Doug",
+          "code": null,
+          "type": "identified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "",
+        "confidence": "medium"
+      },
+      "aircraft_category": {
+        "airplane": "",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "22",
+        "parsed": "1991-06-22",
+        "display": "06/22/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-400P",
+        "tail_number": "N125JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH - MBS",
+        "to": "CMH",
+        "from_codes": ["CMH", "MBS"],
+        "to_codes": ["CMH"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "75",
+        "flight_number": "",
+        "confidence": "high"
+      },
+      "remarks": "HERB - SHOW PLANE TO REBA MCENTIRE & HUSBAND & KEVIN MCCUTCHEON",
+      "passengers": [
+        {
+          "name": "Herb",
+          "code": null,
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Reba McEntire",
+          "code": null,
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Reba's Husband",
+          "code": null,
+          "type": "identified",
+          "notable": true,
+          "confidence": "medium"
+        },
+        {
+          "name": "Kevin McCutcheon",
+          "code": null,
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "7",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "25",
+        "parsed": "1991-06-25",
+        "display": "06/25/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N401CB",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ATW",
+        "to": "ATW",
+        "from_codes": ["ATW"],
+        "to_codes": ["ATW"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "",
+        "confidence": "low"
+      },
+      "remarks": "TO LEX SHOW BERRY LOPBCNAIR & WILL HARRISON PLANE TO MR DWALT FOR PREPURCHASE",
+      "passengers": [],
+      "landings": {
+        "count": "2",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "2",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "22",
+        "parsed": "1991-07-22",
+        "display": "07/22/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N401CB",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ATW",
+        "to": "ATW",
+        "from_codes": ["ATW"],
+        "to_codes": ["ATW"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "",
+        "confidence": "low"
+      },
+      "remarks": "TEST FLIGHT",
+      "passengers": [],
+      "landings": {
+        "count": "8",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "23",
+        "parsed": "1991-07-23",
+        "display": "07/23/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N401CB",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ATW",
+        "to": "ATW",
+        "from_codes": ["ATW"],
+        "to_codes": ["ATW"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "",
+        "confidence": "low"
+      },
+      "remarks": "TEST FLIGHT",
+      "passengers": [],
+      "landings": {
+        "count": "8",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "24",
+        "parsed": "1991-07-24",
+        "display": "07/24/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N401CB",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ATW",
+        "to": "ISP",
+        "from_codes": ["ATW"],
+        "to_codes": ["ISP"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "",
+        "confidence": "low"
+      },
+      "remarks": "TO EARNHART FOR STATION BLADE CHANGED",
+      "passengers": [],
+      "landings": {
+        "count": "1",
+        "confidence": "low"
+      },
+      "aircraft_category": {
+        "airplane": "8",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "25",
+        "parsed": "1991-07-25",
+        "display": "07/25/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N401CB",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ISP - ISP",
+        "to": "ILG",
+        "from_codes": ["ISP", "ISP"],
+        "to_codes": ["ILG"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "",
+        "confidence": "low"
+      },
+      "remarks": "TO ILG FOR CLOSING. RETURN TO PSP ISP FOR VIBRATION PROBLEM TURNED OUT TO BE DUCT FREEZING",
+      "passengers": [],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "6",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "26",
+        "parsed": "1991-07-26",
+        "display": "07/26/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N401CB",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TLG",
+        "to": "TLG",
+        "from_codes": ["TLG"],
+        "to_codes": ["TLG"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "150",
+        "flight_number": "",
+        "confidence": "high"
+      },
+      "remarks": "REPOSITION TO TEB HANGER CLOSING ON PLANE",
+      "passengers": [],
+      "landings": {
+        "count": "5",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "26",
+        "parsed": "1991-07-26",
+        "display": "07/26/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N401CB",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "PBI",
+        "from_codes": ["TEB"],
+        "to_codes": ["PBI"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "22",
+        "flight_number": "",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY EPSTEIN, GHISLAINE MAXWELL, MARK EPSTEIN, LINDA",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Mark Epstein",
+          "code": "ME",
+          "type": "identified",
+          "confidence": "high"
+        },
+        {
+          "name": "Linda",
+          "code": null,
+          "type": "identified",
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "2",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "5",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "28",
+        "parsed": "1991-07-28",
+        "display": "07/28/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N401CB",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": ["PBI"],
+        "to_codes": ["TEB"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "48",
+        "flight_number": "5",
+        "confidence": "high"
+      },
+      "remarks": "APLOG",
+      "passengers": [],
+      "landings": {
+        "count": "2",
+        "confidence": "low"
+      },
+      "aircraft_category": {
+        "airplane": "6",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "29",
+        "parsed": "1991-07-29",
+        "display": "07/29/1991",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N401CB",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "CMH",
+        "from_codes": ["TEB"],
+        "to_codes": ["CMH"],
+        "confidence": "medium"
+      },
+      "flight_data": {
+        "miles_flown": "14",
+        "flight_number": "",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY",
+      "passengers": [
+        {
+          "name": "Jeffrey",
+          "code": null,
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "3",
+        "glider": "",
+        "helicopter": ""
+      }
+    }
+  ],
+  "page_totals": {
+    "page_total": {
+      "value": "55",
+      "confidence": "high"
+    },
+    "amount_forward": {
+      "value": "3514",
+      "confidence": "high"
+    },
+    "total_to_date": {
+      "value": "3569",
+      "confidence": "high"
+    },
+    "validation": {
+      "math_check": "pass",
+      "notes": "55 + 3514 = 3569"
+    }
+  },
+  "pilot_signature": {
+    "present": true,
+    "legible": false,
+    "notes": "Signature present but not clearly legible"
+  },
+  "page_metadata": {
+    "total_flights": 17,
+    "date_range": {
+      "start": "1991-04-25",
+      "end": "1991-06-29"
+    },
+    "aircraft_used": [
+      "HS125-400P (N125JE)",
+      "HS125-700 (N401CB)"
+    ],
+    "notable_passengers": [
+      "Jeffrey Epstein"
+    ],
+    "extraction_quality": "good",
+    "handwriting_legibility": "fair",
+    "notes": "First page - establishes baseline. Some remarks difficult to read due to handwriting."
+  },
+  "validation": {
+    "date_progression": "valid",
+    "no_time_travel": true,
+    "sequential_dates": true,
+    "totals_accurate": true
+  }
+}

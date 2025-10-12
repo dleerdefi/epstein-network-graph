@@ -1,0 +1,163 @@
+{
+  "page_number": 104,
+  "file_path": "data/birthday_book_images/page_0104.png",
+  "file_size_mb": 2.4724178314208984,
+  "type": "photo_collage_social",
+  "content": {
+    "text": "Heading for the blue sea... Wake me up tomorrow! / He promised you what ?!!",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "description": "Photo collage with yacht/boat interior scenes and handwritten captions",
+    "text_sections": {
+      "full_transcription": "Heading for the blue sea... Wake me up tomorrow! / He promised you what ?!!",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Multiple individuals in casual boat/yacht setting",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          104
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      "Yacht/boat interior",
+      "Maritime setting"
+    ],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Yacht/maritime leisure activities",
+    "theme": "nautical_social_gatherings",
+    "significance": "medium",
+    "document_type": "photo_collage_social"
+  },
+  "insights": [
+    "Photos document yacht or boat leisure activities",
+    "Handwritten captions suggest playful, casual atmosphere",
+    "'Blue sea' reference indicates ocean travel or coastal cruising",
+    "Interior shots show luxury yacht/boat accommodations",
+    "Multiple social interactions captured in maritime setting",
+    "Redactions indicate privacy concerns for at least one individual",
+    "Caption 'He promised you what ?!!' suggests humorous or surprising conversation"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000104",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.171245",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Interior yacht/boat scene with people in casual attire",
+        "theme": "maritime_leisure",
+        "setting": "yacht_interior",
+        "elements": [
+          "wood paneling",
+          "maritime interior",
+          "casual gathering"
+        ],
+        "individual_count": 3,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      },
+      {
+        "description": "Person in white clothing on yacht/boat",
+        "theme": "leisure_travel",
+        "setting": "boat_deck",
+        "redactions": [
+          "face partially obscured"
+        ],
+        "individual_count": 3,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      },
+      {
+        "description": "Interior scene with dark lighting",
+        "theme": "social_gathering",
+        "setting": "yacht_cabin",
+        "redactions": [
+          "face redacted with black box"
+        ],
+        "individual_count": 3,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": [
+      "One face redacted with black box"
+    ],
+    "handwritten_notes": [
+      "Heading for the blue sea...",
+      "Wake me up tomorrow!",
+      "He promised you what ?!!"
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Two photographs showing yacht/boat interior scenes",
+    "Top photo: Wood-paneled yacht interior with 3 people",
+    "Caption: 'Heading for the blue sea...'",
+    "'Wake me up tomorrow!'",
+    "Bottom photo: Darker interior scene with people",
+    "Caption: 'He promised you what ?!!'",
+    "One face redacted with black box in bottom photo",
+    "Luxury yacht interior with wood ceiling and paneling",
+    "Casual clothing suggests leisure cruise",
+    "Photos appear to be from 1980s-1990s",
+    "Maritime/nautical setting throughout",
+    "Document stamped HOUSE_OVERSIGHT_000104",
+    "Playful captions suggest relaxed social atmosphere"
+  ],
+  "investigative_leads": []
+}

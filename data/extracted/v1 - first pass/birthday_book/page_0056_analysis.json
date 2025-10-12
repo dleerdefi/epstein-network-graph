@@ -1,0 +1,106 @@
+{
+  "page_number": 56,
+  "file_path": "data/birthday_book_images/page_0056.png",
+  "file_size_mb": 2.647282600402832,
+  "type": "swimming_photos",
+  "content": {
+    "text": "",
+    "handwritten": false,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Pool/swimming photographs",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "swimming_photos"
+  },
+  "insights": [
+    "Contains two pool/swimming related photographs",
+    "Shows groups of young people in swimwear",
+    "Casual pool setting",
+    "Both photos appear to be from social gatherings"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000056",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.146359",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Four young women in swimwear by pool",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": null,
+        "era_indicators": [],
+        "photo_quality": null,
+        "photo_type": null
+      },
+      {
+        "description": "Four men in swimming attire by pool",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": null,
+        "era_indicators": [],
+        "photo_quality": null,
+        "photo_type": null
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [],
+  "investigative_leads": []
+}

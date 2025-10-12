@@ -1,0 +1,505 @@
+{
+  "page_number": 15,
+  "alphabetical_section": "D",
+  "contacts": [
+    {
+      "name": "Diniz, Pedro",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Casa Aldeia / [illegible] Square / SaoPhalo Brazil",
+          "confidence": "medium"
+        },
+        {
+          "type": "secondary",
+          "address": "3124 Green Road / Alpine, NY 10994",
+          "postal_code": "10994",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0171-343 164XX",
+          "geographic_indicator": "UK (old London code)",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "914 797 68XX",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "011 5511 38XXXX",
+          "country_code": "55",
+          "geographic_indicator": "Brazil",
+          "confidence": "medium"
+        },
+        {
+          "type": "fax",
+          "number": "914 797 9250 [fax]",
+          "area_code": "914",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "[illegible]"
+      ],
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Some phone numbers partially illegible"]
+      }
+    },
+    {
+      "name": "Dixon, Alexandra",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "12 Queens Close / Ascott Park / [illegible] / London [illegible]",
+          "city": "London",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "044 2075 317 [illegible]",
+          "country_code": "44",
+          "area_code": "207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "mobile",
+          "number": "044 7831 614 5166[0]",
+          "country_code": "44",
+          "area_code": "7831",
+          "geographic_indicator": "UK mobile",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        "alexandrad@[illegible]1073.free[illegible].uk"
+      ],
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Email partially illegible"]
+      }
+    },
+    {
+      "name": "Djerassi, Dale",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "301 870 125 0005",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "011 415 949 000[9]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "301 870 125 0005",
+          "area_code": "301",
+          "geographic_indicator": "Maryland",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "415 949 000[9]",
+          "area_code": "415",
+          "geographic_indicator": "San Francisco Bay Area",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Unclear if numbers are addresses or phones"]
+      }
+    },
+    {
+      "name": "Dolbey, Alex & Suzie",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Short Hale",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Limited information available"]
+      }
+    },
+    {
+      "name": "Donne, Alegra",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "121 Fashion Road",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "(0)20 585 2186 (h)",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "office",
+          "number": "(0)20 585 2395 (o)",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Dori",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "1 917 478 7742",
+          "area_code": "917",
+          "geographic_indicator": "New York City mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "First name only",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Dorrit",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "(0)20 420 5687",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "First name only",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Doss, David & Christy",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Premier / Le Buisson 0XXX / 1687 VUXX",
+          "postal_code": "1687",
+          "geographic_indicator": "Switzerland (postal code)",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Address partially illegible"]
+      }
+    },
+    {
+      "name": "Driver, Minnie",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Douglas, Diandra / 225 East 70th Street / New York, NY 10021",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 535 617XX",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "011 917 533 XX83",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        "ddouglas@earthlink.net"
+      ],
+      "notes": "Entry appears to be for Douglas, Diandra at this address",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Some phone digits illegible"]
+      }
+    },
+    {
+      "name": "Dubb, Anthony V.",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "425 Fifth at [illegible] / New York",
+          "city": "New York",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 978 7070",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "516 XX5 XX00",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "low"
+        }
+      ],
+      "emails": [
+        "[illegible]@msn.com"
+      ],
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Some numbers illegible", "Email partially illegible"]
+      }
+    },
+    {
+      "name": "Dubbens, Peter",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "(0)20 378 4158 (h)",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Dr Eli Wiesal",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 371 [illegible]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Nobel laureate, Holocaust survivor",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone number partially illegible"]
+      }
+    },
+    {
+      "name": "Drax, Jeremy",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "207 Fulham Road / SWXX",
+          "city": "London",
+          "country": "UK",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 378 2318 (o)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Dreesmann, Bernard",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "5 Plus Avenue / [illegible]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 373 5556 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "office",
+          "number": "0207 224 0015 (o)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "fax",
+          "number": "0207 224 7618 (f)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Dubin, Glen",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Highbridge Capital / 9 West 57th St, Apt 11D(h) / New York",
+          "city": "New York",
+          "confidence": "high"
+        },
+        {
+          "type": "home",
+          "address": "9 West 57th Street, 37th floor",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 888 3577 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "516 726 XXXX",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "212 8872 [illegible]",
+          "area_code": "212",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "516 726 4017 home",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 521 4100 Salem",
+          "area_code": "212",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Highbridge Capital - hedge fund",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Some numbers partially illegible"]
+      }
+    },
+    {
+      "name": "Dubin, Louis & Tiffany",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "020 582 907 [illegible]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "020 582 907 [illegible]",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        "Email: [illegible]"
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Most information illegible"]
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 16,
+    "quality": "fair",
+    "legibility": "partially obscured",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "Dr Eli Wiesal - Nobel laureate, Holocaust survivor",
+      "Minnie Driver - Actress",
+      "Glen Dubin - Highbridge Capital hedge fund",
+      "Diandra Douglas - Ex-wife of Michael Douglas"
+    ]
+  },
+  "insights": [
+    "Mix of international contacts spanning Brazil, UK, Switzerland, and US",
+    "Several finance industry connections (Highbridge Capital)",
+    "Multiple UK numbers using old 0171 and newer 0207/020 codes",
+    "Several couple entries indicating social/family connections",
+    "Dr Eli Wiesal entry notable - Holocaust survivor and Nobel Peace Prize winner",
+    "Glen Dubin entry has extensive contact details including Highbridge Capital",
+    "Multiple NYC area codes (212, 917) indicating strong Manhattan connections",
+    "Swiss postal code 1687 indicates Vaud canton location",
+    "Mix of business and personal contacts",
+    "Several entries with fashion/entertainment industry connections"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "medium",
+    "total_contacts": 16,
+    "high_confidence": 6,
+    "medium_confidence": 7,
+    "low_confidence": 3,
+    "extraction_issues": [
+      "Several phone numbers partially illegible",
+      "Some email addresses incomplete",
+      "Mix of address and phone number formatting"
+    ]
+  }
+}

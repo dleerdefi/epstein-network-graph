@@ -1,0 +1,678 @@
+{
+  "page_number": 67,
+  "section": "Hotels UK and Island Contacts",
+  "entries": [
+    {
+      "name": "Blakes",
+      "category": "Hotel",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "071-376 6701",
+          "area_code": "071",
+          "geographic_indicator": "London (old code)",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Blakes hotel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Carlton Tower",
+      "category": "Hotel",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "071-235 5411",
+          "area_code": "071",
+          "geographic_indicator": "London (old code)",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Carlton Tower hotel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Claridges",
+      "category": "Hotel",
+      "location": "UK",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Brook Street",
+          "street": "Brook Street",
+          "city": "LONDON W1A 2JQ",
+          "postal_code": "W1A 2JQ",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "44 207 629 8860",
+          "area_code": "207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "44 207 409 2210 H",
+          "area_code": "207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Claridges hotel - Brook Street Mayfair",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Cliveden House",
+      "category": "Hotel",
+      "location": "UK",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Taplow",
+          "city": "Taplow",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "(01628) 668561",
+          "area_code": "01628",
+          "geographic_indicator": "Taplow/Maidenhead",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "(01117) 720465",
+          "area_code": "01117",
+          "geographic_indicator": "Bristol",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Cliveden House hotel - Taplow",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Connaught",
+      "category": "Hotel",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "071-499 7070",
+          "area_code": "071",
+          "geographic_indicator": "London (old code)",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Connaught hotel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Dorchester",
+      "category": "Hotel",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "071-629 8888",
+          "area_code": "071",
+          "geographic_indicator": "London (old code)",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Dorchester hotel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Lanesborough Hotel",
+      "category": "Hotel",
+      "location": "UK",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Bentley Square",
+          "street": "Bentley Square",
+          "city": "LONDON",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "01480 733000",
+          "area_code": "01480",
+          "geographic_indicator": "Cambridgeshire",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "071 259 5606",
+          "area_code": "071",
+          "geographic_indicator": "London (old code)",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 259 5599 H",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Lanesborough Hotel - Bentley Square London",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Ritz",
+      "category": "Hotel",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "4471-333-7633 Private fax. E/C",
+          "area_code": "71",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "071-493 8181",
+          "area_code": "071",
+          "geographic_indicator": "London (old code)",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Ritz hotel - Private fax noted",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Savoy",
+      "category": "Hotel",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "071-836 4343",
+          "area_code": "071",
+          "geographic_indicator": "London (old code)",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Savoy hotel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "The Barclay Hotel",
+      "category": "Hotel",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Lexington",
+          "street": "Lexington",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "48th-516-4000",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "The Barclay Hotel - Lexington",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone format unclear"]
+      }
+    },
+    {
+      "name": "Waterside Inn",
+      "category": "Hotel/Restaurant",
+      "location": "UK",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Bray SL69JH",
+          "city": "Bray",
+          "postal_code": "SL69JH",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "notes": "Waterside Inn - Bray",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "ISLAND(I)",
+      "category": "Section Header",
+      "entries": [],
+      "notes": "Island section header",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Air Center Helicopter",
+      "category": "Service",
+      "location": "Island",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "340-776-7595 Nicholas & Tina",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        }
+      ],
+      "additional_contacts": [
+        "Nicholas & Tina"
+      ],
+      "notes": "Air Center Helicopter service - US Virgin Islands",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Christopher Taxi",
+      "category": "Service",
+      "location": "Island",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "340-695-1151 Norman 1",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "340-777-9592 (Cassidy)",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        }
+      ],
+      "additional_contacts": [
+        "Norman 1",
+        "Cassidy"
+      ],
+      "notes": "Christopher Taxi service - US Virgin Islands",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Cox, Madison",
+      "category": "Personal",
+      "location": "Island/USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "PO BOX F-6001 Castries",
+          "postal_box": "PO BOX F-6001",
+          "city": "Castries",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "350 West 18th Street",
+          "street": "350 West 18th Street",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10011",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "917 627 401[illegible]",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "212 337 6043",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 206 9446",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Moxismaddox@aol.com",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Maison e"
+      ],
+      "notes": "Madison Cox - Castries and New York addresses",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One phone number partially illegible"]
+      }
+    },
+    {
+      "name": "Epstein, Jeffrey",
+      "category": "Personal",
+      "location": "Island",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "72 Shorelands",
+          "street": "72 Shorelands",
+          "location": "St Thomas/St James B-3",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "office",
+          "number": "340 775 8011 Office (St)",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "340 775 1412",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        },
+        {
+          "type": "fax",
+          "number": "340 715 8005 fax",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        },
+        {
+          "type": "private",
+          "number": "340 715 7561 private com",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        },
+        {
+          "type": "home_office",
+          "number": "340 775 1516 home office",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        },
+        {
+          "type": "cell",
+          "number": "340 998 4419 Cell Ghislaine",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        },
+        {
+          "type": "ghislaine",
+          "number": "340 775 1516 [Ghislaine(St)]",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "340 775 1516",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "340 998 [illegible]",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "medium"
+        }
+      ],
+      "additional_contacts": [
+        "Ghislaine - multiple references"
+      ],
+      "notes": "Jeffrey Epstein - St Thomas/St James Island property, multiple phone lines including Ghislaine references",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One phone number partially illegible"]
+      }
+    },
+    {
+      "name": "Hoffman, Paul",
+      "category": "Personal/Business",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "business",
+          "address": "Paul Hoffman & Co.",
+          "company": "Paul Hoffman & Co.",
+          "confidence": "high"
+        },
+        {
+          "type": "primary",
+          "address": "116 Thompson Street",
+          "street": "116 Thompson Street",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10012",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 274 7776",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 219 0061",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "fax",
+          "number": "340 776 5316 FAX",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "PHH_CO@CANDLE-ATT.net",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Paul Hoffman & Co. - Thompson Street NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Restano, Jeffrey",
+      "category": "Personal",
+      "location": "Island",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1150 (Bay) Road",
+          "street": "1150 Bay Road",
+          "city": "Charlotte",
+          "state": "VT",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "B",
+          "number": "340 774 5151",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        },
+        {
+          "type": "H",
+          "number": "340 775 0515",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        },
+        {
+          "type": "Cell",
+          "number": "340 513 1515",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        },
+        {
+          "type": "Delia H",
+          "number": "340 775 1515",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        },
+        {
+          "type": "Delia B",
+          "number": "340 776 5515",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        },
+        {
+          "type": "Jeanne H",
+          "number": "340 998 4419",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        },
+        {
+          "type": "Jeanne B",
+          "number": "340 998 [illegible]",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "medium"
+        },
+        {
+          "type": "Jamie H",
+          "number": "340 998 1515",
+          "area_code": "340",
+          "geographic_indicator": "US Virgin Islands",
+          "confidence": "high"
+        }
+      ],
+      "additional_contacts": [
+        "Delia",
+        "Jeanne",
+        "Jamie"
+      ],
+      "additional_info": [
+        "East End Cay"
+      ],
+      "notes": "Jeffrey Restano - Charlotte VT and USVI, multiple family member contacts",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One phone number partially illegible"]
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 18,
+    "illegible_entries": 0,
+    "partial_entries": 3,
+    "sections": ["UK Hotels", "ISLAND(I)"],
+    "notable_entries": [
+      "Jeffrey Epstein - St Thomas/St James Island property with 9 phone lines",
+      "Ghislaine Maxwell - multiple phone references with Epstein",
+      "Claridges - Brook Street Mayfair",
+      "Dorchester Hotel",
+      "The Ritz - Private fax line noted",
+      "Madison Cox - Castries and NYC addresses",
+      "Jeffrey Restano - multiple family contacts"
+    ],
+    "geographic_distribution": {
+      "uk": 9,
+      "usvi": 6,
+      "usa": 3
+    },
+    "location_highlights": [
+      "Jeffrey Epstein USVI property - 72 Shorelands St Thomas",
+      "Multiple UK luxury hotels (Claridges, Dorchester, Savoy, Ritz)",
+      "US Virgin Islands transportation services",
+      "Ghislaine Maxwell cell phone in USVI"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 15,
+      "medium_confidence": 3,
+      "low_confidence": 0,
+      "specific_issues": [
+        "Three phone numbers partially illegible",
+        "Barclay Hotel phone format unclear"
+      ]
+    }
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "page_number": 35,
+  "document_type": "Flight Log",
+  "metadata": {
+    "time_period": "May - June 1995",
+    "header_date": "Continuing from Page 34",
+    "pilot": "David Rodgers",
+    "aircraft_registration": "N908JE",
+    "aircraft_make_model": "G1159B",
+    "total_flight_time_page": "32:02",
+    "amt_forward": "6403:39",
+    "total_to_date": "6435:41"
+  },
+  "flights": [
+    {
+      "date": "05/09/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "DAY",
+      "flight_time": "1:03",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "05/09/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "DAY",
+      "arrival": "CMH",
+      "flight_time": "1:00",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "05/16/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "CMH",
+      "arrival": "TEB",
+      "flight_time": "1:03",
+      "passengers": "JE, IRA LEHMAN",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "05/18/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TBT",
+      "arrival": "TEB",
+      "flight_time": "2:03",
+      "passengers": "JE, GM, MARK EPSTEIN",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "05/21/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "TIST",
+      "flight_time": "3:03",
+      "passengers": "JE, GM",
+      "crew": "JEM MURRAY",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "05/22/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TIST",
+      "arrival": "PBI",
+      "flight_time": "2:05",
+      "passengers": "JE, GM",
+      "crew": "JEM MURRAY",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "05/25/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:05",
+      "passengers": "JE",
+      "crew": "JEM MURRAY",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "05/25/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "CMH",
+      "flight_time": "1:02",
+      "passengers": "JE",
+      "crew": "JEM MURRAY",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "05/26/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "CMH",
+      "arrival": "PBI",
+      "flight_time": "1:10",
+      "passengers": "JE",
+      "crew": "JEM MURRAY",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "05/29/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "MIA",
+      "flight_time": "1:03",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "05/29/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "MIA",
+      "arrival": "ISM",
+      "flight_time": "1:05",
+      "passengers": "JE, GM, FORMER COLLEGE APPRENTICE & ANDREW WANG & JMH",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "05/29/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "ISM",
+      "arrival": "MIA",
+      "flight_time": "1:00",
+      "passengers": "JE, GM, ANDREW WANG & JMH, THE APPRENTICE & MBR, TOYA & STAR",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "05/29/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "MIA",
+      "arrival": "TEB",
+      "flight_time": "2:04",
+      "passengers": "JE, GM, ANDY & FORMER",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "05/30/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "SOV",
+      "flight_time": "3:07",
+      "passengers": "JE, GM, VIVIAN, MARK GRACE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "06/04/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "SOV",
+      "arrival": "TEB",
+      "flight_time": "3:03",
+      "passengers": "JE, GM, PG, MARK GRACE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "06/11/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:05",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "06/16/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "CMH",
+      "flight_time": "1:10",
+      "passengers": "JE, JENNIFER",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "06/17/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "CMH",
+      "arrival": "TCK",
+      "flight_time": "1:03",
+      "passengers": "JE, JENNIFER",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "06/17/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TCK",
+      "arrival": "TEB",
+      "flight_time": "1:09",
+      "passengers": "",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    }
+  ],
+  "entities": {
+    "people": [
+      {"name": "Jeffrey Epstein", "abbreviation": "JE", "role": "Primary passenger"},
+      {"name": "Ghislaine Maxwell", "abbreviation": "GM", "role": "Frequent passenger"},
+      {"name": "Ira Lehman", "role": "Passenger"},
+      {"name": "Mark Epstein", "role": "Passenger (JE's brother)"},
+      {"name": "Jem Murray", "role": "Crew member"},
+      {"name": "Andrew Wang", "role": "Passenger"},
+      {"name": "JMH", "role": "Passenger"},
+      {"name": "Former College Apprentice", "role": "Passenger"},
+      {"name": "The Apprentice", "role": "Passenger"},
+      {"name": "MBR", "role": "Passenger"},
+      {"name": "Toya", "role": "Passenger"},
+      {"name": "Star", "role": "Passenger"},
+      {"name": "Andy", "role": "Passenger"},
+      {"name": "Former", "role": "Passenger"},
+      {"name": "Vivian", "role": "Passenger"},
+      {"name": "Mark Grace", "role": "Passenger"},
+      {"name": "PG", "role": "Passenger"},
+      {"name": "Jennifer", "role": "Passenger"},
+      {"name": "David Rodgers", "role": "Pilot"}
+    ],
+    "locations": [
+      {"code": "TEB", "name": "Teterboro Airport", "location": "Teterboro, NJ"},
+      {"code": "DAY", "name": "James M. Cox Dayton International Airport", "location": "Dayton, OH"},
+      {"code": "CMH", "name": "John Glenn Columbus International Airport", "location": "Columbus, OH"},
+      {"code": "TBT", "name": "Unknown airport", "location": "Unknown"},
+      {"code": "TIST", "name": "Cyril E. King Airport", "location": "St. Thomas, US Virgin Islands"},
+      {"code": "PBI", "name": "Palm Beach International Airport", "location": "West Palm Beach, FL"},
+      {"code": "MIA", "name": "Miami International Airport", "location": "Miami, FL"},
+      {"code": "ISM", "name": "Unknown airport", "location": "Unknown"},
+      {"code": "SOV", "name": "Unknown airport", "location": "Unknown"},
+      {"code": "TCK", "name": "Unknown airport", "location": "Unknown"}
+    ],
+    "aircraft": [
+      {"registration": "N908JE", "type": "Gulfstream G1159B", "category": "Private Jet"}
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {"location": "bottom_left", "description": "David Rodgers pilot signature", "legibility": "clear"}
+    ],
+    "stamps": [],
+    "markings": [
+      {"type": "page_number", "content": "35", "location": "bottom_center"},
+      {"type": "monthly_total", "content": "32:2", "location": "bottom_right", "description": "May total hours"}
+    ]
+  },
+  "corrections": {
+    "date_inference": "Page 35 continues from page 34's May entries, starting with May 9, 1995, and continuing through May, then transitioning to June entries (6/4, 6/11, 6/16, 6/17)",
+    "actual_dates_from_png": "Verified from PNG: May 1995 entries (5/9-5/30), then June 1995 entries (6/4-6/17)",
+    "continuity": "Page correctly continues from page 34 which ended with early May entries"
+  },
+  "pilot_signature": "David Rodgers",
+  "page_total": "32:02 hours",
+  "monthly_totals": {
+    "may_1995": "Amount forward: 6403:39, Page total for May shown at bottom: 32:2"
+  },
+  "insights": [
+    "Multiple flights on same day (5/9, 5/25, 5/29, 6/17)",
+    "Introduction of US Virgin Islands destination (TIST - St. Thomas)",
+    "Mark Epstein (JE's brother) appears as passenger",
+    "Jem Murray appears as crew member on multiple flights",
+    "Complex multi-leg journey on 5/29 with multiple passenger pickups",
+    "Group travel with cryptic passenger descriptions (Former College Apprentice, The Apprentice)",
+    "Mark Grace appears as repeat passenger",
+    "Jennifer appears as passenger on final June flights",
+    "Empty passenger manifest on final 6/17 repositioning flight",
+    "Increased Caribbean travel pattern emerging"
+  ]
+}

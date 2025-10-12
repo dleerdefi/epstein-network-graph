@@ -1,0 +1,606 @@
+{
+  "page_number": 82,
+  "section": "Names W-Z and Various",
+  "entries": [
+    {
+      "name": "Zuckerman, Mort",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "599 Lexington Ave, Suite 1800",
+          "street": "599 Lexington Avenue Suite 1800",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "New York, NY 10022",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10022",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212-371-5745 Ext",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212-207-3458 Direct",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212-371-3348 Home NYC",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212-935-7548 Home",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212-935-7636",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212-517-8 Other House",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "mzuckerman@bostonproperties",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "RM Boston Properties",
+        "617 Boylston Place",
+        "202 764 5965 (h)",
+        "202 785 3965 [h]",
+        "617 984 4700 Office Atst",
+        "617 859 2600 Boston Prop (w)",
+        "516 627 3368 Office",
+        "516 759 3358 Asst (sec)",
+        "917 400 8161 Always (m) Phone (h)",
+        "917 224 1900 Cell",
+        "917 224 1901 Secretary (cl)",
+        "917 224 1905 h",
+        "917 224 1901 [h]",
+        "917 224 1908 (cl)",
+        "917 627 3343 [h]",
+        "631 653 1001",
+        "631 653 100033 [Home]"
+      ],
+      "notes": "Mort Zuckerman - Lexington Avenue NYC, Boston Properties",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "JEFFREY 71ST.",
+      "category": "Location",
+      "location": "USA",
+      "addresses": [],
+      "phones": [],
+      "notes": "Jeffrey 71st Street reference",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Barnett, Richard",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "34 Oakland ST, NY 11020",
+          "street": "34 Oakland Street",
+          "state": "NY",
+          "postal_code": "11020",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "914 381 2303",
+          "area_code": "914",
+          "geographic_indicator": "Westchester",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 232 2636",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "barnett@[illegible].com",
+          "confidence": "low"
+        }
+      ],
+      "additional_info": [
+        "Former 19-Pub",
+        "516 232 2639",
+        "917 445 9737 (p)"
+      ],
+      "notes": "Richard Barnett - Oakland Street NY",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Email domain illegible"]
+      }
+    },
+    {
+      "name": "Blachon, Magali",
+      "category": "Personal",
+      "location": "France",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "3 impasse Bourgeois",
+          "street": "3 impasse Bourgeois",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "F-91120 86 247 63-44",
+          "postal_code": "F-91120",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "magali.blachon@[illegible]",
+          "confidence": "low"
+        }
+      ],
+      "emails": [
+        {
+          "email": "magali.blachon@[illegible]",
+          "confidence": "low"
+        }
+      ],
+      "additional_info": [
+        "06 25 52 54 240 Palaisio",
+        "331 65 690 17",
+        "33160 691 172 190 Parents"
+      ],
+      "notes": "Magali Blachon - Impasse Bourgeois France",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Email domain illegible"]
+      }
+    },
+    {
+      "name": "Epstein, Jeffrey",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "9 East 71st Street",
+          "street": "9 East 71st Street",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "New York NY 10021",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 517 6548000",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "[illegible]@yahoo.com",
+          "confidence": "low"
+        }
+      ],
+      "emails": [
+        {
+          "email": "[illegible]@yahoo.com",
+          "confidence": "low"
+        }
+      ],
+      "additional_info": [
+        "9 E (First)"
+      ],
+      "notes": "Jeffrey Epstein - 9 East 71st Street NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Email illegible"]
+      }
+    },
+    {
+      "name": "Flowers-Gary Baura",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "7100 Bridge Way",
+          "street": "7100 Bridge Way",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "631 615 261 2767",
+          "area_code": "631",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "GBT@[illegible].com",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Gary Baura (Flowers) - Bridge Way",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Email domain illegible"]
+      }
+    },
+    {
+      "name": "Fontanillo, Lynn & Jojo",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "201 East 88th Street (h)",
+          "street": "201 East 88th Street",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "New York City",
+          "city": "New York City",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "917 364 1551",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "631 653 8900 (h)",
+          "area_code": "631",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "631 653 8901 cell Lynn Skytel cell",
+          "area_code": "631",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "631 329 8000 cell",
+        "646 443 Lynn Skytel cell"
+      ],
+      "notes": "Lynn & Jojo Fontanillo - East 88th Street NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Gaston Steve",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "315 East 86 St #11",
+          "street": "315 East 86 Street #11",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "PO 10028 Frd",
+          "postal_code": "10028",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "901 212 369 0 Uffert",
+          "area_code": "901",
+          "geographic_indicator": "Tennessee",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Steve Gaston - East 86th Street NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Phone number unclear"]
+      }
+    },
+    {
+      "name": "Gracee Marketplace",
+      "category": "Business",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "222 Third Ave",
+          "street": "222 Third Avenue",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "New York, NY 10021",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 737 0090",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Gracee Marketplace - Third Avenue NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Hamblin, Sue",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "24 Swadstone NYO",
+          "street": "24 Swadstone",
+          "location": "NYO",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "West Main Home 3900 Main AH",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "516 H Park Street East",
+          "area_code": "516",
+          "geographic_indicator": "Long Island",
+          "confidence": "medium"
+        }
+      ],
+      "additional_info": [
+        "113 West Palms"
+      ],
+      "notes": "Sue Hamblin - Swadstone NYO",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone numbers unclear"]
+      }
+    },
+    {
+      "name": "Miller, Charles",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Mail Airport Bus c/o J10020",
+          "location": "Mail Airport Bus c/o J10020",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "917 Samurai Frd",
+          "street": "917 Samurai Frd",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "813 or 904 [illegible]",
+          "confidence": "low"
+        }
+      ],
+      "emails": [
+        {
+          "email": "charlie@[illegible].com",
+          "confidence": "low"
+        }
+      ],
+      "additional_info": [
+        "Airborne Express",
+        "Key West 100 Side Haw 10001",
+        "516 229 2221",
+        "516 248 2950 [number]",
+        "516 248 1436 Credit at prem-",
+        "516 626",
+        "TBC Bar, used yours"
+      ],
+      "notes": "Charles Miller - Airport/Mail service connection",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Multiple unclear entries", "Email illegible"]
+      }
+    },
+    {
+      "name": "Lawyers Tom/Pat (telephones)",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "James 109 N76",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "908 856 8700 Jfk",
+          "area_code": "908",
+          "geographic_indicator": "New Jersey",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "908 856 2237 H",
+          "area_code": "908",
+          "geographic_indicator": "New Jersey",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "201 222 4444 Tom beeper 1 800",
+          "area_code": "201",
+          "geographic_indicator": "New Jersey",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "908 419 Pares Pat beeper 1000",
+        "908 413",
+        "434 213 3999 Pat's beeper",
+        "646 584 5941 Fax"
+      ],
+      "notes": "Tom/Pat Lawyers - Telephone services",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Some entries unclear"]
+      }
+    },
+    {
+      "name": "Tindall, Brent",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Eton Elm 250",
+          "street": "Eton Elm 250",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Columbus 0",
+          "city": "Columbus",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "609 333 9 [illegible]",
+          "area_code": "609",
+          "geographic_indicator": "New Jersey",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "916 453 1234 H",
+          "area_code": "916",
+          "geographic_indicator": "Sacramento",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Brent Tindall - Eton Elm Columbus",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone partially illegible"]
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 13,
+    "illegible_entries": 0,
+    "partial_entries": 6,
+    "sections": ["W-Z Names", "Various Services"],
+    "notable_entries": [
+      "Mort Zuckerman - Boston Properties executive",
+      "Jeffrey Epstein - 9 East 71st Street NYC",
+      "Multiple lawyer services",
+      "Various business connections",
+      "Airport and mail services"
+    ],
+    "geographic_distribution": {
+      "usa": 12,
+      "france": 1,
+      "nyc": 7,
+      "new_jersey": 3,
+      "long_island": 2
+    },
+    "location_highlights": [
+      "Mort Zuckerman - 599 Lexington Avenue",
+      "Jeffrey Epstein - 9 East 71st Street",
+      "Multiple NYC Upper East Side addresses",
+      "Various service providers"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 7,
+      "medium_confidence": 4,
+      "low_confidence": 2,
+      "specific_issues": [
+        "Multiple email addresses illegible",
+        "Several phone numbers unclear",
+        "Various service entries incomplete"
+      ]
+    }
+  }
+}

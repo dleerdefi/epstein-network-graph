@@ -1,0 +1,152 @@
+{
+  "page_number": 72,
+  "file_path": "data/birthday_book_images/page_0072.png",
+  "file_size_mb": 1.9779977798461914,
+  "type": "handwritten_notes_with_photo",
+  "content": {
+    "text": "ALIYAH letterhead (left note):\nHi middling\nGod, can't wait\nfor the weekend\n(you beautiful handsome impressive highly)\n\nALIYAH letterhead (right note):\nWho could not\nattend the\nbirthday Alum-\nchun on [unclear]\nbut my thoughts\nare with you!\n\n[Photo of three men in formal attire]\n[Two on left, one wearing bow tie, one on right in dark suit]\nHOUSE_OVERSIGHT_000072",
+    "handwritten": true,
+    "typed": false,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "ALIYAH letterhead (left note):\nHi middling\nGod, can't wait\nfor the weekend\n(you beautiful handsome impressive highly)\n\nALIYAH letterhead (right note):\nWho could not\nattend the\nbirthday Alum-\nchun on [unclear]\nbut my thoughts\nare with you!\n\n[Photo caption: Three men in formal business attire]",
+      "letterhead": "ALIYAH (with triangular logo/design)",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "[Man 1 - left with mustache]",
+        "context": "Wearing gray suit, formal photo",
+        "confidence": "high"
+      },
+      {
+        "name": "[Man 2 - center with bow tie]",
+        "context": "Wearing dark suit with bow tie and boutonniere",
+        "confidence": "high"
+      },
+      {
+        "name": "[Man 3 - right]",
+        "context": "Wearing dark suit with regular tie",
+        "confidence": "high"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Aliyah",
+        "type": "Organization (letterhead)",
+        "context": "Letterhead on both notes",
+        "confidence": "high"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Unknown (handwritten notes)",
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Personal notes and photograph",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "handwritten_notes_with_photo"
+  },
+  "insights": [
+    "Aliyah organization letterhead used for personal birthday notes",
+    "Left note expresses excitement about upcoming weekend",
+    "Right note apologizes for missing birthday 'Alum-chun' (luncheon?)",
+    "Both notes on same Aliyah letterhead with triangular design",
+    "Photo shows three men in formal business attire",
+    "Center man wearing bow tie and boutonniere suggests special occasion",
+    "Professional indoor setting for photo",
+    "Photo appears to be from formal event or celebration",
+    "Handwriting different between two notes - different authors",
+    "'Middling' greeting unusual - possible nickname or inside reference",
+    "Notes suggest close personal relationships",
+    "Aliyah likely refers to Jewish immigration to Israel organization",
+    "Photo composition suggests business or organizational leadership",
+    "Era appears to be 1980s-1990s based on suits and photo quality",
+    "Document combines personal messages with formal photography"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000072",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.155469",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Formal photograph showing three men in business attire",
+        "individual_count": 3,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": null,
+        "era_indicators": [],
+        "photo_quality": null,
+        "photo_type": null
+      }
+    ],
+    "signatures": [
+      {
+        "identified_as": "Two different handwritten notes on Aliyah letterhead",
+        "confidence": "medium",
+        "style": null,
+        "characteristics": [],
+        "location": null,
+        "matches_pages": []
+      }
+    ],
+    "logos": [
+      "Aliyah organization logo with triangular design on both notes"
+    ],
+    "redactions": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Two handwritten notes on Aliyah letterhead",
+    "Different handwriting styles indicate two different authors",
+    "Left note: casual tone with 'middling' greeting",
+    "Right note: apologetic tone for missing birthday event",
+    "Photo shows three men in formal business attire",
+    "Center figure wearing bow tie and boutonniere",
+    "Indoor professional setting for photo",
+    "Document stamped HOUSE_OVERSIGHT_000072",
+    "Aliyah organization connection established",
+    "Birthday 'Alum-chun' likely means alumni luncheon"
+  ],
+  "investigative_leads": []
+}

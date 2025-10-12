@@ -1,0 +1,186 @@
+{
+  "page_number": 26,
+  "type": "handwritten_note_continued",
+  "content": {
+    "text": "Complete page 3 of Seymour's handwritten family history",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "Left margin note:\nMrs Dorothy\nDavis\n\n(3)\n\nI born Seymour Epstein on December 14, 1916\non the East beautiful baby born\nto Yuliana (also Rose). Rose was REALLY a\nbeautiful woman - I saw this myself\nas I was Growing up. I Yulina was along\nin High School now. This First World\nbook place in a New York Hospital\n329 West 20TH St. My father was in\nthe real [?] Business - My father\nwas born in Russia. My mother was\nborn in Russia Too In Poland -\nMy father started his business in the\nyear of 1900. He was in business for\n44 years before he passed away. All were\nin wholesale. Also John I was young then.\nThen we moved to LONG STREET where ALL 8\nwhose All 8 children [?] Summer [unclear]\n[?] His or Her old story [?] - None - before\n[unclear words crossed out]\n[unclear] in Area California. I stayed\nthere only time then we delivered with\nnews about my mothers passing - His\nMEDIA ALMOST My mothers passing -\nThen my parents name is [?] Fields -\nMy Mother HAD 1 Step Sister\nHer Name was May FACER -\nMy partner brother was large when Foster\nShe had more sisters & brothers -\n\nHOUSE_OVERSIGHT_000026",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Seymour Epstein",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          26
+        ]
+      },
+      {
+        "name": "Yuliana",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          26
+        ]
+      },
+      {
+        "name": "Rose",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          26
+        ]
+      },
+      {
+        "name": "Susie",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          26
+        ]
+      },
+      {
+        "name": "John",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          26
+        ]
+      },
+      {
+        "name": "May Facer",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          26
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      "New York Hospital",
+      "329 West 20th St",
+      "Russia",
+      "Poland",
+      "Long Street",
+      "California"
+    ],
+    "dates": [
+      "December 14, 1916",
+      "1900",
+      "1944 (44 years from 1900)"
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Seymour (father)",
+    "recipient": "Jeff (Jeffrey Epstein)",
+    "date": "2003",
+    "subject": "Father's family history",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "handwritten_note_continued"
+  },
+  "relationships": [
+    "Yuliana (Rose-Susie) - Seymour's mother",
+    "Father born in Russia",
+    "Mother born in Russia/Poland",
+    "8 children in family",
+    "Sister Rose",
+    "May Facer - mother's stepsister"
+  ],
+  "insights": [
+    "CRITICAL: Birth date given as December 14, 1916 (conflicts with Dec 4 on page 24)",
+    "Mother: Yuliana (also called Rose) - 'REALLY beautiful woman'",
+    "Born at New York Hospital, 329 West 20th Street",
+    "Grandfather from Russia, in business since 1900",
+    "Grandmother also from Russia/Poland",
+    "Grandfather's business: wholesale trade for 44 years (1900-1944)",
+    "Family had 8 children total",
+    "Moved to 'LONG STREET' with all 8 children",
+    "Sister named Rose mentioned",
+    "Reference to California - family member lived there",
+    "Mother's death mentioned - traveled for news",
+    "Mother had stepsister May FACER",
+    "'Mrs Dorothy Davis' written in margin - unclear connection",
+    "Handwriting shows confusion - multiple corrections",
+    "Date discrepancy: Dec 4 vs Dec 14 birth date",
+    "Page numbered (3) continuing from previous pages"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000026",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.132153",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": true,
+    "high_priority": false,
+    "quality_score": 85,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "CRITICAL DATE CONFLICT: Dec 14 here vs Dec 4 on page 24",
+    "Mother's names: Yuliana/Rose - Eastern European Jewish naming",
+    "329 West 20th St, NYC - verifiable birth location",
+    "8 children in family - large immigrant household",
+    "Writing quality deteriorating - age-related decline evident"
+  ],
+  "investigative_leads": [
+    "Verify Seymour birth: Dec 4 or Dec 14, 1916?",
+    "Research 329 West 20th St, NYC Hospital records",
+    "Identify Yuliana/Rose Epstein in immigration records",
+    "Trace 8 Epstein siblings",
+    "Research May Facer family connection",
+    "Identify Mrs Dorothy Davis margin note"
+  ]
+}

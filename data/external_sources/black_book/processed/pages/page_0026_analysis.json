@@ -1,0 +1,1110 @@
+{
+  "page_number": 26,
+  "alphabetical_section": "H/S",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "026_hefner_iii_bob",
+      "name": {
+        "full_name": "Hefner III, Bob",
+        "prefix": null,
+        "first_name": "Bob",
+        "middle_name": null,
+        "last_name": "Hefner III",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 405 948 9898 (f)",
+          "formatting": "001 405 948 9898 (f) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 303 925 4927 (Aspen)",
+          "formatting": "001 303 925 4927 (Aspen) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 405 948 9800 (Okalh)",
+          "formatting": "001 405 948 9800 (Okalh) (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 405 843 4773",
+          "formatting": "001 405 843 4773 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "026_heiden_lisa",
+      "name": {
+        "full_name": "Heiden Lisa",
+        "prefix": null,
+        "first_name": "Lisa",
+        "middle_name": null,
+        "last_name": "Heiden",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 305 865 3436 (par)",
+          "formatting": "001 305 865 3436 (par) (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "30 East 81st #11B"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10028",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "026_heiden_lisa",
+      "name": {
+        "full_name": "Heiden Lisa",
+        "prefix": null,
+        "first_name": "Lisa",
+        "middle_name": null,
+        "last_name": "Heiden",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 917 518 5210",
+          "formatting": "001 917 518 5210 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 305 538 1795",
+          "formatting": "001 305 538 1795 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "917 319 5507 (sister Leslie)",
+          "formatting": "917 319 5507 (sister Leslie) (NYC mobile)"
+        },
+        {
+          "type": "portable",
+          "number": "0776 6044218",
+          "formatting": "0776 6044218"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "6494 Allison Island"
+          ],
+          "city": "Miami Beach",
+          "state": null,
+          "postal_code": "33141",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "026_heineken_mr_fredie",
+      "name": {
+        "full_name": "Heineken, Mr Fredie",
+        "prefix": null,
+        "first_name": "Mr Fredie",
+        "middle_name": null,
+        "last_name": "Heineken",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "00 33 93 614101",
+          "formatting": "00 33 93 614101 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Domaine de Grange"
+          ],
+          "city": "Cap d\u2019Antibes",
+          "state": null,
+          "postal_code": null,
+          "country": "France",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "026_shifter_helen_&_tim",
+      "name": {
+        "full_name": "Helen",
+        "prefix": null,
+        "first_name": "Helen & Tim",
+        "middle_name": null,
+        "last_name": "Shifter",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Tim Shifter"
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "784 Park Ave"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "026_helvin_marie",
+      "name": {
+        "full_name": "Helvin, Marie",
+        "prefix": null,
+        "first_name": "Marie",
+        "middle_name": null,
+        "last_name": "Helvin",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-834 5321",
+          "formatting": "0207-834 5321 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "026_herbert_jason",
+      "name": {
+        "full_name": "Herbert Jason",
+        "prefix": null,
+        "first_name": "Jason",
+        "middle_name": null,
+        "last_name": "Herbert",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-292 9600",
+          "formatting": "0207-292 9600 (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "07974 084233",
+          "formatting": "07974 084233"
+        },
+        {
+          "type": "unknown",
+          "number": "001 646 872 9583",
+          "formatting": "001 646 872 9583 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 646 613 6100",
+          "formatting": "001 646 613 6100 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "026_hermes_olga_&_olaf",
+      "name": {
+        "full_name": "Hermes, Olka",
+        "prefix": null,
+        "first_name": "Olga & Olaf",
+        "middle_name": null,
+        "last_name": "Hermes",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Olaf"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 874 2527",
+          "formatting": "001 212 874 2527 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "165 West 66th Street"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10023",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "026_herrero_juan_&_helen",
+      "name": {
+        "full_name": "Herrero, Juan",
+        "prefix": null,
+        "first_name": "Juan & Helen",
+        "middle_name": null,
+        "last_name": "Herrero",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Helen"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "00 34 1 276 6157",
+          "formatting": "00 34 1 276 6157 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Fransisco Morenol"
+          ],
+          "city": "Madrid",
+          "state": null,
+          "postal_code": "28001",
+          "country": "Spain",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "026_hersov_robert_&_kim",
+      "name": {
+        "full_name": "Hersov, Robert",
+        "prefix": null,
+        "first_name": "Robert & Kim",
+        "middle_name": null,
+        "last_name": "Hersov",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Kim"
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-439 5184",
+          "formatting": "0207-439 5184 (UK London)"
+        },
+        {
+          "type": "work",
+          "number": "011442075907552 (Robert\u2019\u2019s)",
+          "formatting": "011442075907552 (Robert\u2019\u2019s) (International)"
+        },
+        {
+          "type": "home",
+          "number": "0207-584 0764",
+          "formatting": "0207-584 0764 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "0374 810898",
+          "formatting": "0374 810898"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "15 Thurlos Sq"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW7",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "026_heseltine_mr_&_mrs",
+      "name": {
+        "full_name": "Heseltine, Mr",
+        "prefix": null,
+        "first_name": "Mr & Mrs",
+        "middle_name": null,
+        "last_name": "Heseltine",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Mrs"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0295 711765",
+          "formatting": "0295 711765"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Thenford House, Nr Banbury Oxon"
+          ],
+          "city": "Thenford",
+          "state": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "026_heseltine_mr_&_mrs",
+      "name": {
+        "full_name": "Heseltine, Mr",
+        "prefix": null,
+        "first_name": "Mr & Mrs",
+        "middle_name": null,
+        "last_name": "Heseltine",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Mrs"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0295 712 012",
+          "formatting": "0295 712 012"
+        },
+        {
+          "type": "unknown",
+          "number": "0295 712 013",
+          "formatting": "0295 712 013"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "30 Chapel Street"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW1",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "026_heseltine_ms_annabel",
+      "name": {
+        "full_name": "Heseltine, Ms Annabel",
+        "prefix": null,
+        "first_name": "Ms Annabel",
+        "middle_name": null,
+        "last_name": "Heseltine",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "01295 712774 (c)",
+          "formatting": "01295 712774 (c)"
+        },
+        {
+          "type": "home",
+          "number": "0207 727 9907",
+          "formatting": "0207 727 9907 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "0777 442 0913",
+          "formatting": "0777 442 0913"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "4 Palace Gardens Terrace"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W8 4RP",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Husband: Peter Butler"
+    },
+    {
+      "entry_id": "026_heseltine_rupert",
+      "name": {
+        "full_name": "Heseltine, Rupert",
+        "prefix": null,
+        "first_name": "Rupert",
+        "middle_name": null,
+        "last_name": "Heseltine",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "071-351 5776",
+          "formatting": "071-351 5776"
+        },
+        {
+          "type": "work",
+          "number": "001 212 532 9200",
+          "formatting": "001 212 532 9200 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 744 8613",
+          "formatting": "001 212 744 8613 (International)"
+        },
+        {
+          "type": "home",
+          "number": "0207-221 6201",
+          "formatting": "0207-221 6201 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "026_hicks_india",
+      "name": {
+        "full_name": "Hicks India",
+        "prefix": null,
+        "first_name": "India",
+        "middle_name": null,
+        "last_name": "Hicks",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 242 333 2060 (f)",
+          "formatting": "001 242 333 2060 (f) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "0208-878 0111",
+          "formatting": "0208-878 0111 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "001 242 333 2180",
+          "formatting": "001 242 333 2180 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Hibiscus Hill, PO Box 225"
+          ],
+          "city": "Harbour Island",
+          "state": null,
+          "postal_code": null,
+          "country": "Bahamas",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "David Flintwood"
+    },
+    {
+      "entry_id": "026_hill_anthony",
+      "name": {
+        "full_name": "Hill, Anthony",
+        "prefix": null,
+        "first_name": "Anthony",
+        "middle_name": null,
+        "last_name": "Hill",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-283 8577",
+          "formatting": "0207-283 8577 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0208-960 1982",
+          "formatting": "0208-960 1982 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "105 Oxford Gardens"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W10",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "026_hill_anthony",
+      "name": {
+        "full_name": "Hill, Anthony",
+        "prefix": null,
+        "first_name": "Anthony",
+        "middle_name": null,
+        "last_name": "Hill",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0765 89326",
+          "formatting": "0765 89326"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Clifton Castle, New Yorkshire"
+          ],
+          "city": "Ripon",
+          "state": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "026_himmelstein_howard",
+      "name": {
+        "full_name": "Himmelstein, Howard",
+        "prefix": null,
+        "first_name": "Howard",
+        "middle_name": null,
+        "last_name": "Himmelstein",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212-620-0949",
+          "formatting": "212-620-0949"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Zyzzx"
+    },
+    {
+      "entry_id": "026_hirsch_jeff",
+      "name": {
+        "full_name": "Hirsch, Jeff",
+        "prefix": null,
+        "first_name": "Jeff",
+        "middle_name": null,
+        "last_name": "Hirsch",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 741 2990",
+          "formatting": "212 741 2990"
+        },
+        {
+          "type": "work",
+          "number": "201 493 7647 (Scott)",
+          "formatting": "201 493 7647 (Scott)"
+        },
+        {
+          "type": "portable",
+          "number": "917 842 5755 (Scott)",
+          "formatting": "917 842 5755 (Scott) (NYC mobile)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "136 W. 21st Street, bet 6th/7th"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Photo Care"
+    },
+    {
+      "entry_id": "026_hissom_robert_&_andrea",
+      "name": {
+        "full_name": "Hissom, Robert",
+        "prefix": null,
+        "first_name": "Robert & Andrea",
+        "middle_name": null,
+        "last_name": "Hissom",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Andrea"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "01428 656744",
+          "formatting": "01428 656744"
+        },
+        {
+          "type": "unknown",
+          "number": "001 303-920-4680",
+          "formatting": "001 303-920-4680 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "0207-589 8555",
+          "formatting": "0207-589 8555 (UK London)"
+        },
+        {
+          "type": "work",
+          "number": "001 713 739 0750",
+          "formatting": "001 713 739 0750 (International)"
+        },
+        {
+          "type": "home",
+          "number": "0207-584 8070",
+          "formatting": "0207-584 8070 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "001 713 956 5613",
+          "formatting": "001 713 956 5613 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "7836360460",
+          "formatting": "7836360460"
+        }
+      ],
+      "emails": [
+        {
+          "address": "rdhiss@aol.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Sa Herbert Cresent, Knightsbridge"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "London Knightsbridge"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "026_hoffman_dustin",
+      "name": {
+        "full_name": "Hoffman, Dustin",
+        "prefix": null,
+        "first_name": "Dustin",
+        "middle_name": null,
+        "last_name": "Hoffman",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 207 8127",
+          "formatting": "001 212 207 8127 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "026_hoffman_hetty",
+      "name": {
+        "full_name": "Hoffman, Hetty",
+        "prefix": null,
+        "first_name": "Hetty",
+        "middle_name": null,
+        "last_name": "Hoffman",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0256 83279 (c)",
+          "formatting": "0256 83279 (c)"
+        },
+        {
+          "type": "unknown",
+          "number": "0207-589 1435",
+          "formatting": "0207-589 1435 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-373 4203",
+          "formatting": "0207-373 4203 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-373 4203",
+          "formatting": "0207-373 4203 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "& Brocas Nr Basingstoke, Hanls"
+          ],
+          "city": "Ellisfield",
+          "state": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 22,
+    "entries_with_emails": 1,
+    "entries_with_addresses": 16,
+    "entries_with_handwritten_notes": 0,
+    "couples": 7,
+    "average_confidence": "high",
+    "notable_figures_count": 0
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Hefner III, Bob",
+      "Heiden Lisa",
+      "Heiden Lisa",
+      "Heineken, Mr Fredie",
+      "Helen",
+      "Tim Shifter",
+      "Helvin, Marie",
+      "Herbert Jason",
+      "Hermes, Olka",
+      "Olaf",
+      "Herrero, Juan",
+      "Helen",
+      "Hersov, Robert",
+      "Kim",
+      "Heseltine, Mr",
+      "Mrs",
+      "Heseltine, Mr",
+      "Mrs",
+      "Heseltine, Ms Annabel",
+      "Heseltine, Rupert",
+      "Hicks India",
+      "Hill, Anthony",
+      "Hill, Anthony",
+      "Himmelstein, Howard",
+      "Hirsch, Jeff",
+      "Hissom, Robert",
+      "Andrea",
+      "Hoffman, Dustin",
+      "Hoffman, Hetty"
+    ],
+    "organizations": [],
+    "locations": {
+      "international": [
+        "UK",
+        "France",
+        "Spain",
+        "Bahamas"
+      ],
+      "us_cities": [
+        "London",
+        "Cap d\u2019Antibes",
+        "Ripon",
+        "Thenford",
+        "Harbour Island",
+        "New York",
+        "Miami Beach",
+        "Ellisfield",
+        "Madrid"
+      ],
+      "elite_addresses": [
+        "Sa Herbert Cresent, Knightsbridge"
+      ]
+    }
+  },
+  "insights": [
+    "Geographic cluster: London (5 entries)"
+  ]
+}

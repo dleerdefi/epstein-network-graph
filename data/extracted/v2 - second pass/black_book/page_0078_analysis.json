@@ -1,0 +1,1245 @@
+{
+  "page_number": 78,
+  "alphabetical_section": "P-S",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "078_pivar_stuart",
+      "name": {
+        "full_name": "Pivar, Stuart",
+        "prefix": null,
+        "first_name": "Stuart",
+        "middle_name": null,
+        "last_name": "Pivar",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "212-799-1680",
+          "formatting": "212-799-1680 (h)"
+        },
+        {
+          "type": "unknown",
+          "number": "212-580-0527",
+          "formatting": "212-580-0527"
+        },
+        {
+          "type": "home",
+          "number": "212 875 8654",
+          "formatting": "212 875 8654 (hf)"
+        },
+        {
+          "type": "home",
+          "number": "212 299 1680",
+          "formatting": "212 299 1680 (h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "15 West 67th Street (h)",
+            "New York, NY 10023"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10023",
+          "country": "USA",
+          "notes": "Upper West Side"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "078_preece_dara",
+      "name": {
+        "full_name": "Preece Dara",
+        "prefix": null,
+        "first_name": "Dara",
+        "middle_name": null,
+        "last_name": "Preece",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "3139 Kingston Court",
+            "West Palm Beach, FL 33409"
+          ],
+          "city": "West Palm Beach",
+          "state": "FL",
+          "postal_code": "33409",
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "078_aviation_numbers",
+      "name": {
+        "full_name": "Aviation Numbers",
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Aviation Numbers",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "201 288 1860",
+          "formatting": "201 288 1860 International Aviation"
+        },
+        {
+          "type": "unknown",
+          "number": "970 920 2016",
+          "formatting": "970 920 2016 Aspen Base Operations"
+        },
+        {
+          "type": "unknown",
+          "number": "310 568 3700",
+          "formatting": "310 568 3700 LA Garrett Aviation"
+        },
+        {
+          "type": "unknown",
+          "number": "561 237 3552",
+          "formatting": "561 237 3552 PB Jet Aviation"
+        },
+        {
+          "type": "unknown",
+          "number": "561 686 7544",
+          "formatting": "561 686 7544 PB Jet Aviation"
+        },
+        {
+          "type": "unknown",
+          "number": "617 569 5250",
+          "formatting": "617 569 5250 Boston Signature Flight"
+        },
+        {
+          "type": "unknown",
+          "number": "617 569 1606",
+          "formatting": "617 569 1606 Boston Signature Flight"
+        },
+        {
+          "type": "unknown",
+          "number": "505 471 2525",
+          "formatting": "505 471 2525 Santa Fe Capital"
+        },
+        {
+          "type": "unknown",
+          "number": "614 239 8828",
+          "formatting": "614 239 8828 Columbus Pilot Off."
+        },
+        {
+          "type": "unknown",
+          "number": "614 237 3747",
+          "formatting": "614 237 3747 FBO Lane Aviation"
+        },
+        {
+          "type": "unknown",
+          "number": "201 624 7660",
+          "formatting": "201 624 7660 Newark"
+        },
+        {
+          "type": "unknown",
+          "number": "740-777-6177",
+          "formatting": "740-777-6177 Bchlke International Airways"
+        },
+        {
+          "type": "unknown",
+          "number": "201-288-1740",
+          "formatting": "201-288-1740 Atlantic Aviation - Teterboro"
+        },
+        {
+          "type": "unknown",
+          "number": "561 286 9040",
+          "formatting": "561 286 9040 Million air"
+        },
+        {
+          "type": "unknown",
+          "number": "561 683 1121",
+          "formatting": "561 683 1121 Galaxy"
+        },
+        {
+          "type": "unknown",
+          "number": "800-642-7738",
+          "formatting": "800-642-7738 LAX Garrett Aviation"
+        },
+        {
+          "type": "unknown",
+          "number": "310-396-6770",
+          "formatting": "310-396-6770 Santa Monica - Super Marine"
+        },
+        {
+          "type": "unknown",
+          "number": "800-447-4452",
+          "formatting": "800-447-4452 Van Nuys - Million Air"
+        },
+        {
+          "type": "unknown",
+          "number": "800-638-9378",
+          "formatting": "800-638-9378 Jet West (Van Nuys)"
+        },
+        {
+          "type": "unknown",
+          "number": "877-769-8724",
+          "formatting": "877-769-8724 Sky Trails"
+        },
+        {
+          "type": "unknown",
+          "number": "719 478 5200",
+          "formatting": "719 478 5200 LGA Signature - Flight Support"
+        },
+        {
+          "type": "unknown",
+          "number": "914 428 3730",
+          "formatting": "914 428 3730 White Plains Westchester Airpo"
+        },
+        {
+          "type": "unknown",
+          "number": "718 244 4111",
+          "formatting": "718 244 4111 JFK General Aviation"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "medium",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Aviation services directory"
+    },
+    {
+      "entry_id": "078_quinn_thomas",
+      "name": {
+        "full_name": "Quinn, Thomas H.",
+        "prefix": null,
+        "first_name": "Thomas",
+        "middle_name": "H",
+        "last_name": "Quinn",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "202-887-1433",
+          "formatting": "202-887-1433"
+        },
+        {
+          "type": "unknown",
+          "number": "202-466-2198",
+          "formatting": "202-466-2198"
+        },
+        {
+          "type": "unknown",
+          "number": "401-846-4479",
+          "formatting": "401-846-4479 Newport Rhode Island"
+        },
+        {
+          "type": "unknown",
+          "number": "202-337-8863",
+          "formatting": "202-337-8863 h-Washington"
+        },
+        {
+          "type": "cell",
+          "number": "202 841 5401",
+          "formatting": "202 841 5401 cell"
+        },
+        {
+          "type": "work",
+          "number": "202 862 4800",
+          "formatting": "202 862 4800 (w)"
+        },
+        {
+          "type": "direct",
+          "number": "202 513 4701",
+          "formatting": "202 513 4701 (direct)"
+        },
+        {
+          "type": "work",
+          "number": "202 862 8300",
+          "formatting": "202 862 8300 (wf)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "thquinn@venable.com",
+          "type": "work",
+          "notes": "Venable law firm"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Venable Law firm",
+            "1201 New York Ave, NW",
+            "Suite 1000",
+            "Washington, D.C. 20005"
+          ],
+          "city": "Washington",
+          "state": "DC",
+          "postal_code": "20005",
+          "country": "USA",
+          "notes": "Venable Law firm"
+        },
+        {
+          "type": "home",
+          "address_lines": [
+            "(Hm)1201 New York Avenue, NW",
+            "Suite 1100",
+            "Washington, DC 20005"
+          ],
+          "city": "Washington",
+          "state": "DC",
+          "postal_code": "20005",
+          "country": "USA",
+          "notes": ""
+        },
+        {
+          "type": "unknown",
+          "address_lines": [
+            "202-887-1433 Direct line"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Venable Law firm"
+    },
+    {
+      "entry_id": "078_ranieri_lewis",
+      "name": {
+        "full_name": "Ranieri, Lewis S.",
+        "prefix": null,
+        "first_name": "Lewis",
+        "middle_name": "S",
+        "last_name": "Ranieri",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "516-745-6644",
+          "formatting": "516-745-6644 (w)"
+        },
+        {
+          "type": "fax",
+          "number": "516-745-67878",
+          "formatting": "516-745-67878 (f)"
+        },
+        {
+          "type": "home",
+          "number": "516-379-7433",
+          "formatting": "516-379-7433 Home"
+        },
+        {
+          "type": "unknown",
+          "number": "080-8400",
+          "formatting": "080-8400 Local w"
+        },
+        {
+          "type": "unknown",
+          "number": "753-5869/5863",
+          "formatting": "753-5869/5863 Local f"
+        },
+        {
+          "type": "unknown",
+          "number": "304 528 2568",
+          "formatting": "304 528 2568"
+        },
+        {
+          "type": "unknown",
+          "number": "352 795 3339",
+          "formatting": "352 795 3339 FL"
+        },
+        {
+          "type": "unknown",
+          "number": "352-628-2568",
+          "formatting": "352-628-2568 Lew (h) FL"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Ranieri & Co., Inc.",
+            "226 N. Hewlett Avenue",
+            "Merrick, NY 11566"
+          ],
+          "city": "Merrick",
+          "state": "NY",
+          "postal_code": "11566",
+          "country": "USA",
+          "notes": "Ranieri & Co., Inc."
+        },
+        {
+          "type": "home",
+          "address_lines": [
+            "(h)",
+            "50 Charles Lindberg Blvd, #500",
+            "Uniondale, NY 11553"
+          ],
+          "city": "Uniondale",
+          "state": "NY",
+          "postal_code": "11553",
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Ranieri & Co., Inc."
+    },
+    {
+      "entry_id": "078_razek_ed",
+      "name": {
+        "full_name": "Razek, Ed",
+        "prefix": null,
+        "first_name": "Ed",
+        "middle_name": null,
+        "last_name": "Razek",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "10920 Gorsuch Road",
+          "formatting": "10920 Gorsuch Road (h)"
+        },
+        {
+          "type": "home",
+          "number": "Galena, OH 43021",
+          "formatting": "Galena, OH 43021 (h)"
+        },
+        {
+          "type": "unknown",
+          "number": "Columbus, OH 43230",
+          "formatting": "Columbus, OH 43230"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "10920 Gorsuch Road (h)",
+            "Galena, OH 43021"
+          ],
+          "city": "Galena",
+          "state": "OH",
+          "postal_code": "43021",
+          "country": "USA",
+          "notes": ""
+        },
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Columbus, OH 43230"
+          ],
+          "city": "Columbus",
+          "state": "OH",
+          "postal_code": "43230",
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "078_portable_numbers_2",
+      "name": {
+        "full_name": "Portable Numbers",
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Portable Numbers",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "561 704 8946",
+          "formatting": "561 704 8946 (p)"
+        },
+        {
+          "type": "unknown",
+          "number": "561 686 2599h",
+          "formatting": "561 686 2599h"
+        },
+        {
+          "type": "cell",
+          "number": "561 704 8946",
+          "formatting": "561 704 8946 cell"
+        },
+        {
+          "type": "work",
+          "number": "561 742 0171",
+          "formatting": "561 742 0171 work"
+        },
+        {
+          "type": "work",
+          "number": "561 742 0171",
+          "formatting": "561 742 0171 work"
+        },
+        {
+          "type": "unknown",
+          "number": "(Hm)2500 Quantum Lakes Drive #203",
+          "formatting": "(Hm)2500 Quantum Lakes Drive #203"
+        },
+        {
+          "type": "work",
+          "number": "Boynton Beach",
+          "formatting": "Boynton Beach (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "low",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Additional phone numbers"
+    },
+    {
+      "entry_id": "078_limited_parkway",
+      "name": {
+        "full_name": "Limited Parkway Contacts",
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Limited Parkway",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "614 415 6240",
+          "formatting": "614 415 6240(w)"
+        },
+        {
+          "type": "work",
+          "number": "614 415 6245",
+          "formatting": "614 415 6245(fw)"
+        },
+        {
+          "type": "home",
+          "number": "740-965-4582",
+          "formatting": "740-965-4582 (h)"
+        },
+        {
+          "type": "car",
+          "number": "614-271-8760",
+          "formatting": "614-271-8760 Car"
+        },
+        {
+          "type": "home",
+          "number": "740-965-1339",
+          "formatting": "740-965-1339 (hf)"
+        },
+        {
+          "type": "car",
+          "number": "614-519-7107",
+          "formatting": "614-519-7107 Car"
+        },
+        {
+          "type": "mobile",
+          "number": "614-619-7100",
+          "formatting": "614-619-7100 Mobile"
+        },
+        {
+          "type": "unknown",
+          "number": "614-470-4470",
+          "formatting": "614-470-4470 World Cell"
+        },
+        {
+          "type": "office",
+          "number": "212 884 3060",
+          "formatting": "212 884 3060 NY office"
+        },
+        {
+          "type": "portable",
+          "number": "614 203 7400",
+          "formatting": "614 203 7400 (p)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "arazek@limited.com",
+          "type": "work",
+          "notes": "Limited Brands email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "(Hm)3 Limited Parkway",
+            "Columbus, OH 43230"
+          ],
+          "city": "Columbus",
+          "state": "OH",
+          "postal_code": "43230",
+          "country": "USA",
+          "notes": "Limited Brands headquarters"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "low",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Limited Brands connection"
+    },
+    {
+      "entry_id": "078_rockefeller_david",
+      "name": {
+        "full_name": "Rockefeller, David",
+        "prefix": null,
+        "first_name": "David",
+        "middle_name": null,
+        "last_name": "Rockefeller",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212-765-5522",
+          "formatting": "212-765-5522 (w)"
+        },
+        {
+          "type": "home",
+          "number": "212-765-6817",
+          "formatting": "212-765-6817 (h)"
+        },
+        {
+          "type": "unknown",
+          "number": "212-661-1180",
+          "formatting": "212-661-1180 Tristeral Com"
+        },
+        {
+          "type": "home",
+          "number": "212-472-1474",
+          "formatting": "212-472-1474 Home"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Rockefeller Financial Service",
+            "30 Rockefeller Plaza",
+            "Room 5600",
+            "146 E 65th St (h)",
+            "New York, NY 10112"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10112",
+          "country": "USA",
+          "notes": "Rockefeller Plaza office"
+        },
+        {
+          "type": "home",
+          "address_lines": [
+            "212-549-5522 (w)"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Rockefeller Financial Service"
+    },
+    {
+      "entry_id": "078_rodgers_dave",
+      "name": {
+        "full_name": "Rodgers, Dave",
+        "prefix": null,
+        "first_name": "Dave",
+        "middle_name": null,
+        "last_name": "Rodgers",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "561 953 9345",
+          "formatting": "561 953 9345(h)"
+        },
+        {
+          "type": "home",
+          "number": "561 969 5631",
+          "formatting": "561 969 5631(h)"
+        },
+        {
+          "type": "unknown",
+          "number": "888-434-9892",
+          "formatting": "888-434-9892 Beeper #"
+        },
+        {
+          "type": "home",
+          "number": "212 517 7779",
+          "formatting": "212 517 7779 (h)"
+        },
+        {
+          "type": "portable",
+          "number": "561 317 5444",
+          "formatting": "561 317 5444 (p)"
+        },
+        {
+          "type": "unknown",
+          "number": "917 642 8117",
+          "formatting": "917 642 8117 (p) only in St. Thomas"
+        },
+        {
+          "type": "unknown",
+          "number": "1 614 433 7063",
+          "formatting": "1 614 433 7063 david rigg insurance"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "7318 Heathley Drive",
+            "Lake Worth, FL 33467"
+          ],
+          "city": "Lake Worth",
+          "state": "FL",
+          "postal_code": "33467",
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "David Rigg insurance reference"
+    },
+    {
+      "entry_id": "078_rosovsky_henry",
+      "name": {
+        "full_name": "Rosovsky, Henry",
+        "prefix": null,
+        "first_name": "Henry",
+        "middle_name": null,
+        "last_name": "Rosovsky",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "617-495-4151",
+          "formatting": "617-495-4151(w)"
+        },
+        {
+          "type": "home",
+          "number": "617-495 938100",
+          "formatting": "617-495 938100 (h)"
+        },
+        {
+          "type": "home",
+          "number": "617-332-8134",
+          "formatting": "617-332-8134 Home"
+        }
+      ],
+      "emails": [
+        {
+          "address": "hrosovsky@harvard.edu",
+          "type": "work",
+          "notes": "Harvard University email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Dean",
+            "Harvard University",
+            "37 Beechcroft Road",
+            "Newton, MA 02458"
+          ],
+          "city": "Newton",
+          "state": "MA",
+          "postal_code": "02458",
+          "country": "USA",
+          "notes": "Harvard Dean"
+        },
+        {
+          "type": "home",
+          "address_lines": [
+            "Loop House, 17 Quincy Street",
+            "Cambridge, MA 02138"
+          ],
+          "city": "Cambridge",
+          "state": "MA",
+          "postal_code": "02138",
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Harvard University Dean"
+    },
+    {
+      "entry_id": "078_ross_david",
+      "name": {
+        "full_name": "Ross, David",
+        "prefix": null,
+        "first_name": "David",
+        "middle_name": null,
+        "last_name": "Ross",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "617 354 3369",
+          "formatting": "617 354 3369 (hf)"
+        },
+        {
+          "type": "portable",
+          "number": "617 529 6619",
+          "formatting": "617 529 6619 (p)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "daross@sfmoma.org",
+          "type": "work",
+          "notes": "SF MOMA email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "San Francisco Museum of Modern Art",
+            "151 Third Street",
+            "San Francisco, CA 94103-3159"
+          ],
+          "city": "San Francisco",
+          "state": "CA",
+          "postal_code": "94103",
+          "country": "USA",
+          "notes": "SF MOMA"
+        },
+        {
+          "type": "unknown",
+          "address_lines": [
+            "917 892 5151p",
+            "917 892 5151b",
+            "Email: daross@sfmoma.org",
+            "(Hm)51 Telegraph Place",
+            "San Francisco, CA 94133"
+          ],
+          "city": "San Francisco",
+          "state": "CA",
+          "postal_code": "94133",
+          "country": "USA",
+          "notes": ""
+        },
+        {
+          "type": "unknown",
+          "address_lines": [
+            "415 503 0750 (w)",
+            "800 609-5744 beeper watch #",
+            "415 749 0666 (hf)",
+            "415 730 4011 David's (p)",
+            "415 357 4015 Daphne (sec)",
+            "415 357 4010 Tracy (sec)"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": "Additional contact numbers"
+        },
+        {
+          "type": "home",
+          "address_lines": [
+            "508-349-1794 Cape Home",
+            "(Wellfleet, MA)",
+            "617-495-1934 Asst. Maureen McCarthy"
+          ],
+          "city": "Wellfleet",
+          "state": "MA",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Cape Cod home"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "San Francisco Museum of Modern Art"
+    },
+    {
+      "entry_id": "078_roxton_sporting",
+      "name": {
+        "full_name": "Roxton Sporting",
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Roxton Sporting",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0488 683222",
+          "formatting": "0488 683222"
+        },
+        {
+          "type": "fax",
+          "number": "0488 682877",
+          "formatting": "0488 682877 (fax)"
+        },
+        {
+          "type": "unknown",
+          "number": "0488 683222",
+          "formatting": "0488 683222"
+        },
+        {
+          "type": "fax",
+          "number": "0488 682977",
+          "formatting": "0488 682977 (fax)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Daniel Reynolds"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": "Daniel Reynolds"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "078_sacks_oliver",
+      "name": {
+        "full_name": "Sacks Oliver Dr.",
+        "prefix": "Dr.",
+        "first_name": "Oliver",
+        "middle_name": null,
+        "last_name": "Sacks",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 633 8926",
+          "formatting": "212 633 8926(h)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 633 8923",
+          "formatting": "212 633 8923(f)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "cycad123@aol.com",
+          "type": "personal",
+          "notes": "AOL email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "2 Horatio Street",
+            "New York, NY 10014"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10014",
+          "country": "USA",
+          "notes": "Greenwich Village"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Neurologist/author"
+    },
+    {
+      "entry_id": "078_schaeffer_stan",
+      "name": {
+        "full_name": "Schaeffer, Stan",
+        "prefix": null,
+        "first_name": "Stan",
+        "middle_name": null,
+        "last_name": "Schaeffer",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 580 5522",
+          "formatting": "001 212 580 5522 W"
+        },
+        {
+          "type": "unknown",
+          "number": "001 212 496 8817",
+          "formatting": "001 212 496 8817 F"
+        },
+        {
+          "type": "unknown",
+          "number": "305 531 2727",
+          "formatting": "305 531 2727"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "2211 Broadway",
+            "Apt",
+            "8ain, 78th & 79th"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Upper West Side"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 14,
+    "entries_with_emails": 5,
+    "entries_with_addresses": 12,
+    "entries_with_handwritten_notes": 0,
+    "couples": 0,
+    "average_confidence": "high",
+    "notable_figures_count": 3
+  },
+  "cross_references": [
+    {
+      "from": "078_limited_parkway",
+      "to": "078_razek_ed",
+      "relationship": "same_person",
+      "note": "Ed Razek - Limited Brands executive with arazek@limited.com email"
+    },
+    {
+      "from": "078_aviation_numbers",
+      "to": "Jeffrey Epstein aviation",
+      "relationship": "aviation_services",
+      "note": "Extensive FBO and aviation services directory"
+    },
+    {
+      "from": "078_rosovsky_henry",
+      "to": "Harvard University",
+      "relationship": "dean",
+      "note": "Harvard University Dean"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Stuart Pivar",
+      "Dara Preece",
+      "Thomas H. Quinn",
+      "Lewis S. Ranieri",
+      "Ed Razek",
+      "David Rockefeller",
+      "Dave Rodgers",
+      "David Rigg",
+      "Henry Rosovsky",
+      "David Ross",
+      "Maureen McCarthy (assistant)",
+      "Daphne (secretary)",
+      "Tracy (secretary)",
+      "Daniel Reynolds",
+      "Dr. Oliver Sacks",
+      "Stan Schaeffer"
+    ],
+    "organizations": [
+      "Venable Law firm",
+      "Ranieri & Co., Inc.",
+      "Limited Brands",
+      "Rockefeller Financial Service",
+      "Harvard University",
+      "San Francisco Museum of Modern Art",
+      "Roxton Sporting",
+      "Various FBOs and aviation services"
+    ],
+    "locations": {
+      "international": [],
+      "us_cities": [
+        "New York City, NY",
+        "West Palm Beach, FL",
+        "Washington, DC",
+        "Newport, RI",
+        "Merrick, NY",
+        "Uniondale, NY",
+        "Galena, OH",
+        "Columbus, OH",
+        "Lake Worth, FL",
+        "Newton, MA",
+        "Cambridge, MA",
+        "San Francisco, CA",
+        "Wellfleet, MA"
+      ],
+      "elite_addresses": [
+        "15 West 67th Street, NYC (Stuart Pivar)",
+        "30 Rockefeller Plaza, Room 5600 (David Rockefeller)",
+        "146 E 65th St, NYC (Rockefeller home)",
+        "3 Limited Parkway, Columbus (Limited Brands HQ)",
+        "2 Horatio Street, NYC (Oliver Sacks)"
+      ]
+    }
+  },
+  "insights": [
+    "CRITICAL: David Rockefeller - Banking patriarch with Rockefeller Financial Service at 30 Rockefeller Plaza",
+    "Ed Razek - Limited Brands/Victoria's Secret executive with arazek@limited.com, extensive Limited Parkway contacts",
+    "Lewis S. Ranieri - Bond market pioneer, inventor of mortgage-backed securities, Ranieri & Co.",
+    "Henry Rosovsky - Harvard University Dean with harvard.edu email",
+    "Dr. Oliver Sacks - Famous neurologist and author at 2 Horatio Street, Greenwich Village",
+    "David Ross - Director of San Francisco Museum of Modern Art",
+    "Extensive aviation services directory with 20+ FBO contacts across major airports",
+    "Limited Brands/Victoria's Secret connection continues through Ed Razek",
+    "Harvard academic network: Henry Rosovsky as Dean",
+    "Financial titans: David Rockefeller (banking), Lewis Ranieri (mortgage securities pioneer)",
+    "Art world connections: David Ross (SF MOMA director)",
+    "Ohio business cluster continues with Columbus and Galena addresses",
+    "Thomas Quinn at Venable law firm in Washington DC",
+    "Multiple Cape Cod/Massachusetts properties (Wellfleet, Newton, Cambridge)",
+    "Aviation infrastructure extremely detailed with FBOs at Teterboro, Santa Monica, Van Nuys, JFK, etc."
+  ]
+}

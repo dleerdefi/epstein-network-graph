@@ -1,0 +1,604 @@
+{
+  "page_number": 21,
+  "alphabetical_section": "F-G",
+  "contacts": [
+    {
+      "name": "Frost, Mr David & Lady Carina",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "22 Carlyle Square / London SW3 6NP",
+          "street": "22 Carlyle Square",
+          "city": "London",
+          "postal_code": "SW3 6NP",
+          "country": "UK",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 351 7044 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 361 7314 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "David Frost - TV interviewer",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Frostrup, Mariella",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0171 352 5912",
+          "area_code": "0171",
+          "geographic_indicator": "London (old code)",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "Email: mariella@[illegible]husky.com"
+      ],
+      "notes": "Media personality",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Fry, Cosmo & Amanda",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "16 Brompton Gate / London SW3",
+          "street": "16 Brompton Gate",
+          "city": "London",
+          "postal_code": "SW3",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "020 7700 XX00",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Fullhurst Teresa",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 917 752 1230",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Furstenberg, Heinrich & Milena",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "771 [illegible]strasse",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 49 XXX XXXX",
+          "country_code": "49",
+          "geographic_indicator": "Germany",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "00 49 711 89423 (o)",
+          "country_code": "49",
+          "area_code": "711",
+          "geographic_indicator": "Stuttgart, Germany",
+          "confidence": "high"
+        }
+      ],
+      "notes": "German aristocracy",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Furstenburg Alex, Alexandra V.",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 206 5329(h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Furstenburg Burevallli, Nina",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Via Carlo Maddalena 35 / Milano 20136",
+          "street": "Via Carlo Maddalena 35",
+          "city": "Milano",
+          "postal_code": "20136",
+          "country": "Italy",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 02 584421[1750]",
+          "country_code": "39",
+          "area_code": "02",
+          "geographic_indicator": "Milan, Italy",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "00 02 5847112[9]",
+          "country_code": "39",
+          "area_code": "02",
+          "geographic_indicator": "Milan, Italy",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        "Email: 00 39 08[84]4[00077]men+"
+      ],
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Email format unclear"]
+      }
+    },
+    {
+      "name": "Fyeen, Edwina",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "12 [illegible] Street / London NW8 8LA",
+          "city": "London",
+          "postal_code": "NW8 8LA",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 345 851 00 20 (w)",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Gaetani, Gelasio",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Via Gregoriana, 5 / Rome 00187",
+          "street": "Via Gregoriana, 5",
+          "city": "Rome",
+          "postal_code": "00187",
+          "country": "Italy",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "06 678 1727",
+          "country_code": "39",
+          "area_code": "06",
+          "geographic_indicator": "Rome, Italy",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Italian nobility",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Gaetani, Rufroldo",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 371 4108",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Italian nobility",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Gallman, Kuki",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Nairobi Kenya / Box 45593",
+          "city": "Nairobi",
+          "country": "Kenya",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Nairobi",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "00 254 22204048 ( h)",
+          "country_code": "254",
+          "geographic_indicator": "Kenya",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Kenya-based conservationist/author",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Ganero, Mario Jr.",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "39 11 8976 1000 (o)",
+          "country_code": "39",
+          "area_code": "11",
+          "geographic_indicator": "Turin, Italy",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "001 646 281 2211",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 646 281 2211",
+          "area_code": "646",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Name not visible",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Name missing"]
+      }
+    },
+    {
+      "name": "Ganoza, Esteban Juan",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Avenida El Bosque Norte 184, Floor 11",
+          "street": "Avenida El Bosque Norte 184",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0011 562 9716 18",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0011 562 9716 18",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "[illegible] Seville",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Latin American connection",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Garcia, Ludinila",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "12 De Julio Hotel Grand 4022",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 954 239032[9]",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "00 924 [illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "At 24 lines 8613 (w)",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "00 39 32 17034 ( h)",
+          "country_code": "39",
+          "geographic_indicator": "Italy",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Gardner, Adam",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 881 8860",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Garland Michael",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0777 332 77XX(h)",
+          "area_code": "0777",
+          "geographic_indicator": "UK mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 333 773(h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Garson Jeremy",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 371 3264",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Gaspar, Nacho",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "43 Cadmus del Sur / la Montanya",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 34 1 [illegible] Spain",
+          "country_code": "34",
+          "geographic_indicator": "Spain",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "00 34 1 6[405000] Fax",
+          "country_code": "34",
+          "geographic_indicator": "Spain",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Gaul, Harriett",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Flying Lodge / Coddinham Green Rd / Blackheath / London SE3",
+          "city": "London",
+          "postal_code": "SE3",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0208 XXXX [illegible]",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0208 2968 XX00[00]",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Geary Tim",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 917 596 0551",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "Email: [illegible]@aol.com",
+        "tim@[illegible].com[illegible]"
+      ],
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Emails partially illegible"]
+      }
+    },
+    {
+      "name": "Gelardin, Jack",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "39 Market St",
+          "street": "39 Market St",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 318 151(m)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 378 23XX(h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 874 130 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "German-Ribon Catriona",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0779 965 1073",
+          "area_code": "0779",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 23,
+    "quality": "fair",
+    "legibility": "partially obscured",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "David Frost - Famous TV interviewer",
+      "Mariella Frostrup - Media personality",
+      "Kuki Gallman - Kenya conservationist/author",
+      "Furstenberg family - European aristocracy",
+      "Gaetani family - Italian nobility"
+    ]
+  },
+  "insights": [
+    "Transition from F to G section of alphabetical listing",
+    "David Frost prominent TV personality with Lady Carina",
+    "Strong European aristocracy presence (Furstenberg, Gaetani)",
+    "Italian connections prominent (Milan, Rome, Turin)",
+    "Kenya connection through conservationist Kuki Gallman",
+    "German aristocracy (Furstenberg family)",
+    "Mix of old UK codes (0171) and newer (0207/020)",
+    "International span: Kenya, Italy, Germany, Spain",
+    "NYC presence continues with 212/917/646 area codes",
+    "Media personalities (Frost, Frostrup) prominent"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "medium",
+    "total_contacts": 23,
+    "high_confidence": 10,
+    "medium_confidence": 11,
+    "low_confidence": 2,
+    "extraction_issues": [
+      "Two entries missing names",
+      "Several phone numbers partially illegible",
+      "Email addresses incomplete or unclear"
+    ]
+  }
+}

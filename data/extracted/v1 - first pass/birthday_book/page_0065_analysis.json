@@ -1,0 +1,268 @@
+{
+  "page_number": 65,
+  "file_path": "data/birthday_book_images/page_0065.png",
+  "file_size_mb": 0.593597412109375,
+  "type": "handwritten_letter",
+  "content": {
+    "text": "Dear Jeff\nJan 2003\nI'm supposed to write something funny - well\nI can't think of just a single episode but rather many years\nof great times; Sea Gate, Coney Island, Mark Twain, 188\nLafayette HS - our trips to Greenwich Village,\nsneaking into the Fillmore East driving taxi cabs,\nMax's Kansas City, wearing my green Army fatigue\nJacket (that 'Uncle Stanley' gave me) and 'liberating\nbooks from the Book store on 6th Ave & 8th Street\n(next to Prexy's - 'Home of the educated Hamburger')\nstories about chronic UTI's, prostate massage, orgies,\nice skating in Prospect park with Terry + me & Warren\nwith scarves on our head so we could 'skate\nduring 'couples only' music, lake lights on center ice,\nbike riding in the middle of the night during\nallergy season; Herb Alpert records like 'Whipped\nCream' (and Jacques Loussier plays Bach!), Paula, Seymour,\nPuggy, 'Charmer Greenberg', Harold Sikel, Maple Avenue\ngetting stopped in Warren's Gold VW Beetle.\nThe 'Shed House' & big scarves with huge stripes,\nbikini underwear, no underwear. The Shore Theatre;\nThe Huba-Huba Luncheonette, Carolina's, The Riviera\n (& the Skin Family Pizza place), Cooper Union, your visit\nto Italy (Via Pandolfini, 27!) Finally, your accordion\n& the infamous Flight of the Bumble Bee, Brighton\nBeach Baths - Terry, Warren, Me & now you\n50 years old! WOW! Happy Birthday Best Wishes\nLove Always Michael",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "Complete text as transcribed above with all corrections",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeff",
+        "title": null,
+        "context": "Letter recipient (Jeffrey Epstein)",
+        "confidence": "high"
+      },
+      {
+        "name": "Michael",
+        "title": null,
+        "context": "Letter writer, signed at bottom",
+        "confidence": "high"
+      },
+      {
+        "name": "Teddy",
+        "title": null,
+        "context": "Friend mentioned multiple times",
+        "confidence": "high"
+      },
+      {
+        "name": "Uncle Stanley",
+        "title": null,
+        "context": "Gave Army fatigue jacket",
+        "confidence": "high"
+      },
+      {
+        "name": "Marc",
+        "title": null,
+        "context": "Marc's Kansas City reference",
+        "confidence": "medium"
+      },
+      {
+        "name": "Herb Alpert",
+        "title": "Musician",
+        "context": "Records mentioned",
+        "confidence": "high"
+      },
+      {
+        "name": "Jacques Loussier",
+        "title": "Musician",
+        "context": "Playing Bach",
+        "confidence": "high"
+      },
+      {
+        "name": "Paula",
+        "title": null,
+        "context": "Friend mentioned",
+        "confidence": "medium"
+      },
+      {
+        "name": "Seymour",
+        "title": null,
+        "context": "Friend mentioned",
+        "confidence": "medium"
+      },
+      {
+        "name": "Peggy",
+        "title": null,
+        "context": "Friend mentioned",
+        "confidence": "high"
+      },
+      {
+        "name": "Charmer Greenberg",
+        "title": null,
+        "context": "Nickname/person mentioned",
+        "confidence": "high"
+      },
+      {
+        "name": "Harold Sikel",
+        "title": null,
+        "context": "Friend mentioned",
+        "confidence": "high"
+      },
+      {
+        "name": "Warren",
+        "title": null,
+        "context": "Owner of Gold VW Beetle, friend",
+        "confidence": "high"
+      },
+      {
+        "name": "Tom Jones",
+        "title": null,
+        "context": "Not the singer - place reference",
+        "confidence": "medium"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Lafayette HS",
+        "type": "High School"
+      },
+      {
+        "name": "Fillmore East",
+        "type": "Music venue"
+      },
+      {
+        "name": "Marc's Kansas City",
+        "type": "Club/venue"
+      },
+      {
+        "name": "Prexy's",
+        "type": "Restaurant",
+        "tagline": "Home of the educated Hamburger"
+      },
+      {
+        "name": "The Shell House",
+        "type": "Venue/establishment"
+      },
+      {
+        "name": "The Shore Theatre",
+        "type": "Movie theater"
+      },
+      {
+        "name": "The Hula-Hula Luncheonette",
+        "type": "Restaurant"
+      },
+      {
+        "name": "Garaldi's",
+        "type": "Restaurant"
+      },
+      {
+        "name": "Cooper Union",
+        "type": "College"
+      },
+      {
+        "name": "Brighton Beach Baths",
+        "type": "Beach club"
+      }
+    ],
+    "locations": [
+      "Sea Gate",
+      "Coney Island",
+      "Greenwich Village",
+      "6th Ave & 8th Street",
+      "Prospect Park",
+      "Magic Avenue",
+      "Warren's Gold VW Beetle",
+      "Brighton Beach",
+      "Italy"
+    ],
+    "dates": [
+      {
+        "date": "Jan 2003",
+        "context": "Date letter written",
+        "confidence": "high"
+      },
+      {
+        "reference": "50 years old",
+        "context": "Jeff's age at birthday",
+        "confidence": "high"
+      },
+      {
+        "reference": "186",
+        "context": "Possibly address or class number",
+        "confidence": "low"
+      }
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Birthday memories from Michael",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "handwritten_letter"
+  },
+  "insights": [
+    "Letter from Michael to Jeff for 50th birthday in January 2003",
+    "Extensive shared memories from Brooklyn youth",
+    "Lafayette High School connection confirmed",
+    "Greenwich Village trips - cultural exploration",
+    "Fillmore East - famous rock venue they snuck into",
+    "Marc's Kansas City - legendary NYC club",
+    "Army fatigue jacket from Uncle Stanley",
+    "Liberating books from bookstore - shoplifting reference",
+    "Prexy's restaurant next to bookstore",
+    "Ice skating at Prospect Park with disguises for couples only",
+    "Herb Alpert and Jacques Loussier music references",
+    "Flight of the Bumble Bee accordion reference (matches earlier pages)",
+    "Brighton Beach Baths - social club membership",
+    "Warren owned Gold VW Beetle they got stopped in",
+    "Multiple Brooklyn locations: Sea Gate, Coney Island",
+    "Shell House, Shore Theatre, Hula-Hula Luncheonette - local spots",
+    "Italy visit mentioned (via Handlippin - unclear)",
+    "Close friendship group: Teddy, Warren, Michael, Jeff",
+    "Written with stream of consciousness style",
+    "Signed Love Always Michael - intimate friendship"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000065",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.150381",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Full page handwritten letter dated Jan 2003",
+    "Black ink on white paper",
+    "Natural handwriting with corrections",
+    "Document stamped HOUSE_OVERSIGHT_000065",
+    "Signature: Love Always Michael",
+    "Letter for Jeffrey Epstein's 50th birthday"
+  ],
+  "investigative_leads": [
+    "Michael identity - close friend from Brooklyn",
+    "Teddy and Warren - friendship circle",
+    "Uncle Stanley relationship",
+    "Lafayette HS class of 1971 connections",
+    "Brighton Beach Baths membership records",
+    "Italy trip details"
+  ]
+}

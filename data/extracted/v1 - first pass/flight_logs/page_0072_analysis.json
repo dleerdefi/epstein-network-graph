@@ -1,0 +1,311 @@
+{
+  "page_number": 72,
+  "date_header": "FEB 2000",
+  "time_period": "February 2000 - October 2000",
+  "aircraft": {
+    "registration": "Multiple (G1159B N908JE, N72PH, N72PV)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "2",
+      "date": "02/02/2000",
+      "departure": "G1159B",
+      "arrival": "N908JE",
+      "flight_time": "1329",
+      "remarks": "SAF - VNY - JE, NICOLE, B, MICHELE, CHRYSTAL, JOHN, PATRICE",
+      "passengers": ["JE", "NICOLE", "B", "MICHELE", "CHRYSTAL", "JOHN", "PATRICE"],
+      "crew": "1/1"
+    },
+    {
+      "entry_number": "2",
+      "date": "02/02/2000",
+      "departure": "",
+      "arrival": "VNY",
+      "flight_time": "1330",
+      "remarks": "TEB - JE, VY, LESLIE MAZO",
+      "passengers": ["JE", "VY", "LESLIE MAZO"],
+      "crew": "4/7"
+    },
+    {
+      "entry_number": "3",
+      "date": "02/03/2000",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1331",
+      "remarks": "PMP - MAX, JG, DINA, S, SARAH FRANCES, SANDRA, ALICE",
+      "passengers": ["MAX", "JG", "DINA", "S", "SARAH FRANCES", "SANDRA", "ALICE"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "7",
+      "date": "02/07/2000",
+      "departure": "20663",
+      "arrival": "N72PH",
+      "flight_time": "",
+      "remarks": "PMP - PMY - REVIEWED A-6 2A",
+      "passengers": [],
+      "crew": "1"
+    },
+    {
+      "entry_number": "8",
+      "date": "02/08/2000",
+      "departure": "20663",
+      "arrival": "N72PH",
+      "flight_time": "",
+      "remarks": "PMP - HH - PMP - J, JL, J, BETTY, MR JAMES, WAVERLY AVE",
+      "passengers": ["J", "JL", "J", "BETTY", "MR JAMES", "WAVERLY AVE"],
+      "crew": "1/5"
+    },
+    {
+      "entry_number": "9",
+      "date": "02/09/2000",
+      "departure": "20663",
+      "arrival": "N72PH",
+      "flight_time": "",
+      "remarks": "PMP - NP - PMP - J, JL, J, S, JL, PAUL, MICK, IEE, DOMINO, ES",
+      "passengers": ["J", "JL", "J", "S", "JL", "PAUL", "MICK", "IEE", "DOMINO", "ES"],
+      "crew": "1"
+    },
+    {
+      "entry_number": "9",
+      "date": "02/09/2000",
+      "departure": "20663",
+      "arrival": "N72PH",
+      "flight_time": "",
+      "remarks": "PMP - AN - PMP - J, JL, MARIAN, MICHAEL, MICHAEL, PHIL HODSPODS",
+      "passengers": ["J", "JL", "MARIAN", "MICHAEL", "MICHAEL", "PHIL HODSPODS"],
+      "crew": "1/5"
+    },
+    {
+      "entry_number": "11",
+      "date": "02/11/2000",
+      "departure": "20663",
+      "arrival": "N72PV",
+      "flight_time": "",
+      "remarks": "PMP - NW - PMP - CARRIER, LARA",
+      "passengers": ["CARRIER", "LARA"],
+      "crew": "1/1"
+    },
+    {
+      "entry_number": "11",
+      "date": "02/11/2000",
+      "departure": "20663",
+      "arrival": "N72PV",
+      "flight_time": "",
+      "remarks": "PMP - NW - PMP - REVIEWED JL BETH, EDDIE, J, REVIEWED, S, MICHAEL, BETH",
+      "passengers": ["JL", "BETH", "EDDIE", "J", "S", "MICHAEL", "BETH"],
+      "crew": "1"
+    },
+    {
+      "entry_number": "14",
+      "date": "02/14/2000",
+      "departure": "10663",
+      "arrival": "N72PH",
+      "flight_time": "",
+      "remarks": "PMP - HST - ASHLEY",
+      "passengers": ["ASHLEY"],
+      "crew": "2/6"
+    },
+    {
+      "entry_number": "14",
+      "date": "02/14/2000",
+      "departure": "20663",
+      "arrival": "N72PH",
+      "flight_time": "",
+      "remarks": "HST - PMP - AMBER REVIEW - G, J, N, XL",
+      "passengers": ["AMBER", "G", "J", "N", "XL"],
+      "crew": "1"
+    },
+    {
+      "entry_number": "15",
+      "date": "02/15/2000",
+      "departure": "20663",
+      "arrival": "N72PH",
+      "flight_time": "",
+      "remarks": "PMP - ELC",
+      "passengers": [],
+      "crew": ""
+    },
+    {
+      "entry_number": "15",
+      "date": "02/15/2000",
+      "departure": "20663",
+      "arrival": "N72PV",
+      "flight_time": "",
+      "remarks": "ELC - PMP",
+      "passengers": [],
+      "crew": ""
+    },
+    {
+      "entry_number": "15",
+      "date": "02/15/2000",
+      "departure": "20663",
+      "arrival": "N72PV",
+      "flight_time": "",
+      "remarks": "PMP - CXE - BERNARD, DOC, HOWARD, NICHOLAS, NATASHA, DONALD, PAULA",
+      "passengers": ["BERNARD", "DOC", "HOWARD", "NICHOLAS", "NATASHA", "DONALD", "PAULA"],
+      "crew": ""
+    },
+    {
+      "entry_number": "16",
+      "date": "02/16/2000",
+      "departure": "20663",
+      "arrival": "N72PV",
+      "flight_time": "",
+      "remarks": "CXE - PMP",
+      "passengers": [],
+      "crew": ""
+    },
+    {
+      "entry_number": "16",
+      "date": "02/16/2000",
+      "departure": "20663",
+      "arrival": "72PH",
+      "flight_time": "",
+      "remarks": "PMP - LU - PMP - IVRY, LI",
+      "passengers": ["IVRY", "LI"],
+      "crew": "1/3"
+    },
+    {
+      "entry_number": "16",
+      "date": "02/16/2000",
+      "departure": "10663",
+      "arrival": "72PH",
+      "flight_time": "",
+      "remarks": "PMP - LU - PMP - IVRY, L, J, XL, MARK G",
+      "passengers": ["IVRY", "L", "J", "XL", "MARK G"],
+      "crew": "1/9"
+    },
+    {
+      "entry_number": "23",
+      "date": "02/23/2000",
+      "departure": "20663",
+      "arrival": "72PH",
+      "flight_time": "",
+      "remarks": "BQI - PMP - 1, 2, 3, 4, 5, 6, 7, 8, 9, NC, CAROLINE",
+      "passengers": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "NC", "CAROLINE"],
+      "crew": "1/7"
+    },
+    {
+      "entry_number": "23",
+      "date": "02/23/2000",
+      "departure": "OCT 2000",
+      "arrival": "12172",
+      "flight_time": "",
+      "remarks": "BDL - TBL - MARC MCINAY",
+      "passengers": ["MARC MCINAY"],
+      "crew": "1/7"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "JG",
+      "VY",
+      "NICOLE",
+      "B",
+      "MICHELE",
+      "CHRYSTAL",
+      "JOHN",
+      "PATRICE",
+      "LESLIE MAZO",
+      "MAX",
+      "DINA",
+      "S",
+      "SARAH FRANCES",
+      "SANDRA",
+      "ALICE",
+      "J",
+      "JL",
+      "BETTY",
+      "MR JAMES",
+      "WAVERLY AVE",
+      "PAUL",
+      "MICK",
+      "IEE",
+      "DOMINO",
+      "ES",
+      "MARIAN",
+      "MICHAEL",
+      "PHIL HODSPODS",
+      "CARRIER",
+      "LARA",
+      "BETH",
+      "EDDIE",
+      "ASHLEY",
+      "AMBER",
+      "G",
+      "N",
+      "XL",
+      "BERNARD",
+      "DOC",
+      "HOWARD",
+      "NICHOLAS",
+      "NATASHA",
+      "DONALD",
+      "PAULA",
+      "IVRY",
+      "LI",
+      "L",
+      "MARK G",
+      "NC",
+      "CAROLINE",
+      "MARC MCINAY",
+      "David Rodgers"
+    ],
+    "locations": [
+      "SAF",
+      "VNY",
+      "TEB",
+      "PMP",
+      "PMY",
+      "HH",
+      "NP",
+      "AN",
+      "NW",
+      "HST",
+      "ELC",
+      "CXE",
+      "LU",
+      "BQI",
+      "BDL",
+      "TBL"
+    ],
+    "aircraft": [
+      "G1159B",
+      "N908JE",
+      "N72PH",
+      "N72PV"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "9/3",
+    "amount_forward": "17324",
+    "total_to_date": "17604",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page shows February 2000 entries with one October 2000 entry at the end",
+    "Multiple N72PH and N72PV aircraft operations",
+    "Frequent PMP (likely Palm Beach) operations",
+    "Many short hop flights with various passengers",
+    "REVIEWED notation appears multiple times suggesting training or check flights",
+    "Flight numbers reach 1331",
+    "Mix of passenger transport and training operations",
+    "Numbered passengers (1,2,3,4,5,6,7,8,9) suggest coded references",
+    "October 2000 entry appears at the bottom of page"
+  ]
+}

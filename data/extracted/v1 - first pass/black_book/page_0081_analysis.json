@@ -1,0 +1,708 @@
+{
+  "page_number": 81,
+  "section": "W Names",
+  "entries": [
+    {
+      "name": "Walleart, Alexia",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "17 Rue Le Sueur",
+          "street": "17 Rue Le Sueur",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "PR 75, Paris, 75116",
+          "city": "Paris",
+          "postal_code": "75116",
+          "country": "France",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "011 33 40 49 12492",
+          "area_code": "33",
+          "geographic_indicator": "France",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "011 33 40 29 1279",
+          "area_code": "33",
+          "geographic_indicator": "France",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Home - West Hove Chelsea",
+        "347 3330449 EXT Cinema",
+        "347 5323 [illegible]",
+        "347 4537 3238413 Avenue Malmy",
+        "347 217 0001 Clr Bell",
+        "347 0163 6532 EY Clairvoi"
+      ],
+      "notes": "Alexia Walleart - Rue Le Sueur Paris",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Some additional numbers partially illegible"]
+      }
+    },
+    {
+      "name": "Wania (Rachel) Vara",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "173 Perry Street #10B",
+          "street": "173 Perry Street #10B",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "New York, NY 10014 (h)",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10014",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "H",
+          "number": "718 638 9176",
+          "area_code": "718",
+          "geographic_indicator": "NYC outer boroughs",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 864 1921",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Mayflowertab (REHAB ALL)",
+          "confidence": "low"
+        }
+      ],
+      "additional_info": [
+        "PFAI",
+        "P.A. Page 56th Street",
+        "212 535",
+        "212 767 4343",
+        "212-387-0088 home",
+        "212 712 2323 Peter Lynch",
+        "212 541 8100 South Hampton",
+        "212 319-2121 Portfolio",
+        "212 710-2121",
+        "646-456 2131 Chris - Carriage",
+        "631 212 210-0 Paris - Apt",
+        "631 5346 2161",
+        "212 710 1000 showroom BA"
+      ],
+      "notes": "Rachel Vara (Wania) - Perry Street NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Wasche, Cristalle",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "10 E 29th St.",
+          "street": "10 E 29th Street",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Apt #1807",
+          "apartment": "Apt #1807",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 217 3312",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 889 4418",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Email: Cristalle@[illegible].com",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Cristalle Wasche - East 29th Street NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Email domain illegible"]
+      }
+    },
+    {
+      "name": "Wexner - Abigail (Hantz) tion",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "66 B/C Waverly Pl",
+          "street": "66 B/C Waverly Place",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 94 520177",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "646 434 0821 W",
+          "area_code": "646",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "646 858 0821",
+          "area_code": "646",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "646 865 0821 (Harriet Hamtwick)",
+          "area_code": "646",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Abigail Wexner (Hantz) - Waverly Place",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Wexner - Flight Dept.",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1107 International Gateway",
+          "street": "1107 International Gateway",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Columbus OH 43219",
+          "city": "Columbus",
+          "state": "OH",
+          "postal_code": "43219",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "614-415-7050",
+          "area_code": "614",
+          "geographic_indicator": "Columbus, Ohio",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "614-415-7053",
+          "area_code": "614",
+          "geographic_indicator": "Columbus, Ohio",
+          "confidence": "high"
+        },
+        {
+          "type": "Jim Selby",
+          "number": "614-239-0440 Jim Selby",
+          "area_code": "614",
+          "geographic_indicator": "Columbus, Ohio",
+          "confidence": "high"
+        },
+        {
+          "type": "Don Bailey",
+          "number": "614-237-2577 Don Bailey",
+          "area_code": "614",
+          "geographic_indicator": "Columbus, Ohio",
+          "confidence": "high"
+        }
+      ],
+      "additional_contacts": [
+        "Jim Selby",
+        "Don Bailey"
+      ],
+      "notes": "Wexner Flight Department - Columbus OH International Gateway",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Wexner, Les",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "79 Mount Street",
+          "street": "79 Mount Street",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Limited, United Kingdom W1K",
+          "location": "Limited, United Kingdom",
+          "postal_code": "W1K",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "44 20-7493 7773 Home",
+          "area_code": "44 20",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "44 20 7514 0041 Home",
+          "area_code": "44 20",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "1937 S Drexelbrook House",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "011 44 020 793 Marina-Apt",
+          "area_code": "44 20",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "New Albany, OH 43054",
+          "postal_code": "43054",
+          "confidence": "low"
+        },
+        {
+          "type": "Home",
+          "number": "614 476-5885 Home",
+          "area_code": "614",
+          "geographic_indicator": "Columbus, Ohio",
+          "confidence": "high"
+        },
+        {
+          "type": "Aspen",
+          "number": "970 920-4599 Aspen - ski",
+          "area_code": "970",
+          "geographic_indicator": "Aspen, Colorado",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "5811 S 195 WD NE Vin Records",
+        "011 44 270 883 883 Marina-Skz",
+        "011 44 270 893 893",
+        "011 44 7802 1090 Home cell",
+        "011 44 270 883 993 Range Rover"
+      ],
+      "notes": "Les Wexner - Mount Street London and New Albany OH",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Some phone numbers format unclear"]
+      }
+    },
+    {
+      "name": "Wexner, Les",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Box 920 34/36 Curt Ulties Farm",
+          "postal_box": "Box 920",
+          "location": "34/36 Curt Ulties Farm",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "State Road #1 3033",
+          "street": "State Road #1 3033",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "614 479 2000 Curt Utites",
+          "area_code": "614",
+          "geographic_indicator": "Columbus, Ohio",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "614 415 3548 Curt Utites Page",
+          "area_code": "614",
+          "geographic_indicator": "Columbus, Ohio",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "614 476 5672 Jaap Wittenger",
+          "area_code": "614",
+          "geographic_indicator": "Columbus, Ohio",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "614 638 0010 Nicolette St.",
+          "area_code": "614",
+          "geographic_indicator": "Columbus, Ohio",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "614 738 0214 Wilson Pierogi",
+          "area_code": "614",
+          "geographic_indicator": "Columbus, Ohio",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "970 950 [illegible]",
+        "516 324 7210 Curt Utites P.O.A",
+        "614 415 7242 Curt Utites Flight D"
+      ],
+      "notes": "Les Wexner - Curt Ulties Farm, additional properties",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One Aspen number partially illegible"]
+      }
+    },
+    {
+      "name": "White House",
+      "category": "Government",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Main line switchboard",
+          "location": "White House",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Special Assistant to Secretary, N.W.",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "Washington DC 20502",
+          "city": "Washington",
+          "state": "DC",
+          "postal_code": "20502",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "202 456 1414",
+          "area_code": "202",
+          "geographic_indicator": "Washington DC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "White House - Main switchboard",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Wexner, Les",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Albany House",
+          "location": "Albany House",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Port Washington 11050",
+          "city": "Port Washington",
+          "postal_code": "11050",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "516 625 1000",
+          "area_code": "516",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Cont Jeffrey Island"
+      ],
+      "notes": "Les Wexner - Albany House Port Washington",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Whitehead, Jim",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561-993-3333 (w)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561-993-5037 (h)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Jim Whitehead - Palm Beach area",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Wexner, Les [Additional]",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Main Office address list",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "614 415 2000 Shelia (Main Admin)",
+          "area_code": "614",
+          "geographic_indicator": "Columbus, Ohio",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "614 534 0300 cell",
+          "area_code": "614",
+          "geographic_indicator": "Columbus, Ohio",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "614 0300 Lynnet",
+          "area_code": "614",
+          "geographic_indicator": "Columbus, Ohio",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Les Wexner - Additional main office contacts",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Wollman, Herb",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Sheridan Office Central Ohio",
+          "company": "Sheridan Office Central Ohio",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "234 North Company Avenue (H)",
+          "street": "234 North Company Avenue",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "312 504 0800",
+          "area_code": "312",
+          "geographic_indicator": "Chicago",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "312 504 0816",
+          "area_code": "312",
+          "geographic_indicator": "Chicago",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "312 504 0700 Herb ASOGE",
+          "area_code": "312",
+          "geographic_indicator": "Chicago",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "312 540 4003 Scott Gardner",
+          "area_code": "312",
+          "geographic_indicator": "Chicago",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Jel Mar Sales 312 866",
+        "614 221 5371 Work"
+      ],
+      "notes": "Herb Wollman - Sheridan Office Central Ohio/Chicago",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Mailing Places",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "901 4a 5th Ave c11 Randy Mobile",
+          "street": "901 4a 5th Avenue c11",
+          "contact": "Randy Mobile",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "614-555-8017 Connectivity Gate",
+          "area_code": "614",
+          "geographic_indicator": "Columbus, Ohio",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 342 0037 Chicago (tax 1)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "614 415 0069 Credit",
+          "area_code": "614",
+          "geographic_indicator": "Columbus, Ohio",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "510 0063 London Manager",
+        "614 006 [illegible] Daily",
+        "London Tower",
+        "614 0069 Credit"
+      ],
+      "notes": "Mailing Places service",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One number partially illegible"]
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 13,
+    "illegible_entries": 0,
+    "partial_entries": 4,
+    "sections": ["W Names"],
+    "notable_entries": [
+      "Les Wexner - Multiple entries (London, Ohio, Aspen properties)",
+      "Wexner Flight Department - Columbus OH",
+      "White House - Main switchboard",
+      "Alexia Walleart - Paris address",
+      "Multiple Wexner business connections"
+    ],
+    "geographic_distribution": {
+      "usa": 11,
+      "france": 1,
+      "uk": 1,
+      "ohio": 6,
+      "nyc": 3,
+      "washington_dc": 1
+    },
+    "location_highlights": [
+      "Les Wexner - Mount Street London W1K",
+      "New Albany Ohio (Wexner properties)",
+      "Columbus OH International Gateway (Flight Dept)",
+      "White House switchboard",
+      "Paris Rue Le Sueur"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 9,
+      "medium_confidence": 3,
+      "low_confidence": 1,
+      "specific_issues": [
+        "Some email domains illegible",
+        "Various phone numbers partially illegible",
+        "Some addresses incomplete"
+      ]
+    }
+  }
+}

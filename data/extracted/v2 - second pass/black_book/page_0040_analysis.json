@@ -1,0 +1,1016 @@
+{
+  "page_number": 40,
+  "alphabetical_section": "N",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "040_nadler_emanuel",
+      "name": {
+        "full_name": "Nadler, Emanuel",
+        "prefix": null,
+        "first_name": "Emanuel",
+        "middle_name": null,
+        "last_name": "Nadler",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 758 5430",
+          "formatting": "International to US - NYC"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC contact"
+    },
+    {
+      "entry_id": "040_nagel_adam",
+      "name": {
+        "full_name": "Nagel, Adam",
+        "prefix": null,
+        "first_name": "Adam",
+        "middle_name": null,
+        "last_name": "Nagel",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 873 8622",
+          "formatting": "International to US - NYC"
+        },
+        {
+          "type": "work",
+          "number": "0207-242 9636",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Dual NYC and UK contact"
+    },
+    {
+      "entry_id": "040_nagel_william",
+      "name": {
+        "full_name": "Nagel, William",
+        "prefix": null,
+        "first_name": "William",
+        "middle_name": null,
+        "last_name": "Nagel",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-242 9636",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK contact - same number as Adam Nagel"
+    },
+    {
+      "entry_id": "040_nardi_dott_m_jacope",
+      "name": {
+        "full_name": "Nardi, Dott M Jacope",
+        "prefix": "Dott",
+        "first_name": "M Jacope",
+        "middle_name": null,
+        "last_name": "Nardi",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0335 663 1395",
+          "formatting": "Italian mobile"
+        },
+        {
+          "type": "work",
+          "number": "00 39 02 Bergamont",
+          "formatting": "International to Italy"
+        },
+        {
+          "type": "home",
+          "number": "00 39 02 6360478 (h)",
+          "formatting": "International to Italy"
+        },
+        {
+          "type": "work",
+          "number": "00 39 02 63604575 (w)",
+          "formatting": "International to Italy"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Italian doctor (Dott) - Bergamo area"
+    },
+    {
+      "entry_id": "040_nastasse_lile_alex",
+      "name": {
+        "full_name": "Nastasse, Lile & Alex",
+        "prefix": null,
+        "first_name": "Lile",
+        "middle_name": null,
+        "last_name": "Nastasse",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Alex"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 472 2543",
+          "formatting": "International to US - NYC"
+        },
+        {
+          "type": "work",
+          "number": "00 401 210 2332(H)",
+          "formatting": "International"
+        },
+        {
+          "type": "mobile",
+          "number": "OO 401 230 0484(l)",
+          "formatting": "International"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Apt E81 67th Street",
+            "New York, NY 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side NYC"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Tennis legend Ilie Nastase - NYC Upper East Side apartment"
+    },
+    {
+      "entry_id": "040_negrete_jelitza",
+      "name": {
+        "full_name": "Negrete, Jelitza",
+        "prefix": null,
+        "first_name": "Jelitza",
+        "middle_name": null,
+        "last_name": "Negrete",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212-744 8771",
+          "formatting": "International to US - NYC"
+        },
+        {
+          "type": "work",
+          "number": "001 617 783 7753",
+          "formatting": "International to US - Boston area"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "903 Park Avenue",
+            "3C",
+            "New York, NY"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Park Avenue - prestigious NYC address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC Park Avenue residence with Boston work number"
+    },
+    {
+      "entry_id": "040_neil_andrew",
+      "name": {
+        "full_name": "Neil, Andrew",
+        "prefix": null,
+        "first_name": "Andrew",
+        "middle_name": null,
+        "last_name": "Neil",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-581 1755",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [
+        {
+          "address": "afneil@aol.com",
+          "type": "personal",
+          "notes": "AOL email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "55 Onslow Gdns",
+            "London SW7 3QF"
+          ],
+          "city": "London",
+          "postal_code": "SW7 3QF",
+          "country": "UK",
+          "notes": "South Kensington - Onslow Gardens"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "South Kensington address with AOL email"
+    },
+    {
+      "entry_id": "040_neil_andrew_2",
+      "name": {
+        "full_name": "Neil, Andrew",
+        "prefix": null,
+        "first_name": "Andrew",
+        "middle_name": null,
+        "last_name": "Neil",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "235 E 49th St #118",
+          "formatting": "Address format - NYC"
+        },
+        {
+          "type": "work",
+          "number": "NY, NY 10017",
+          "formatting": "Postal code"
+        },
+        {
+          "type": "mobile",
+          "number": "001 212 888 9060",
+          "formatting": "International to US - NYC"
+        },
+        {
+          "type": "work",
+          "number": "001 212 826 8555 (w)",
+          "formatting": "International to US - NYC"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "235 E 49th St #118",
+            "New York, NY 10017"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10017",
+          "country": "USA",
+          "notes": "Midtown East NYC"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Appears to be same Andrew Neil with NYC apartment - journalist/broadcaster"
+    },
+    {
+      "entry_id": "040_newman_hetty",
+      "name": {
+        "full_name": "Newman, Hetty",
+        "prefix": null,
+        "first_name": "Hetty",
+        "middle_name": null,
+        "last_name": "Newman",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-351-4544",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "2 Pelly Place",
+            "London, England",
+            "SW3 5BY"
+          ],
+          "city": "London",
+          "postal_code": "SW3 5BY",
+          "country": "UK",
+          "notes": "Chelsea - SW3"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Chelsea residence"
+    },
+    {
+      "entry_id": "040_newman_mr_mrs_john",
+      "name": {
+        "full_name": "Newman, Mr & Mrs John",
+        "prefix": "Mr & Mrs",
+        "first_name": "John",
+        "middle_name": null,
+        "last_name": "Newman",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Mrs John"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-370 0769 (h)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "0207-930 3007 (w)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "mobile",
+          "number": "07970 294 (h)",
+          "formatting": "UK mobile - partial"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Compton Park",
+            "Compton Chamberlayne"
+          ],
+          "city": "Wiltshire",
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Compton Park estate - Wiltshire countryside"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Wiltshire country estate"
+    },
+    {
+      "entry_id": "040_ng_clive",
+      "name": {
+        "full_name": "Ng, Clive",
+        "prefix": null,
+        "first_name": "Clive",
+        "middle_name": null,
+        "last_name": "Ng",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-38 0203",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "0207-255 5599 (w)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "552 Broadway",
+            "5th Floor",
+            "New York, NY 10012"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10012",
+          "country": "USA",
+          "notes": "SoHo NYC"
+        }
+      ],
+      "handwritten_notes": [
+        "0207-255-5699(o)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "SoHo NYC with UK phone numbers"
+    },
+    {
+      "entry_id": "040_niarchos_constantine",
+      "name": {
+        "full_name": "Niarchos, Constantine",
+        "prefix": null,
+        "first_name": "Constantine",
+        "middle_name": null,
+        "last_name": "Niarchos",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-629 8400 (w)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "mobile",
+          "number": "00 30 1 9233441085/36 938 (St M)",
+          "formatting": "International to Greece - St Moritz"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "33 Grosvenor Square",
+            "London, SW1A"
+          ],
+          "city": "London",
+          "postal_code": "SW1A",
+          "country": "UK",
+          "notes": "Grosvenor Square - Mayfair, one of London's most exclusive addresses"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Greek shipping heir - Grosvenor Square Mayfair"
+    },
+    {
+      "entry_id": "040_nickerson_william_jayne",
+      "name": {
+        "full_name": "Nickerson, William & Jayne",
+        "prefix": null,
+        "first_name": "William",
+        "middle_name": null,
+        "last_name": "Nickerson",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Jayne"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-221 6105 (h)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "131b Portland Road",
+            "London W11"
+          ],
+          "city": "London",
+          "postal_code": "W11",
+          "country": "UK",
+          "notes": "Notting Hill area"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Notting Hill couple"
+    },
+    {
+      "entry_id": "040_nishio_yoshi",
+      "name": {
+        "full_name": "Nishio, Yoshi",
+        "prefix": null,
+        "first_name": "Yoshi",
+        "middle_name": null,
+        "last_name": "Nishio",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-938 0744 (h)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "0207—629 7030(h)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "mobile",
+          "number": "0207—937 4269(w)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "fax",
+          "number": "0207—937 0429(w)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "30 & 36 MacFadden Pl.",
+            "LA, CA 90020"
+          ],
+          "city": "Los Angeles",
+          "state": "CA",
+          "postal_code": "90020",
+          "country": "USA",
+          "notes": "Los Angeles address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "LA address with UK phone numbers"
+    },
+    {
+      "entry_id": "040_noel_alix",
+      "name": {
+        "full_name": "Noel, Alix",
+        "prefix": null,
+        "first_name": "Alix",
+        "middle_name": null,
+        "last_name": "Noel",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 203 661 0993(h)",
+          "formatting": "International to US - Connecticut"
+        },
+        {
+          "type": "work",
+          "number": "001 203 661 0505(w)",
+          "formatting": "International to US - Connecticut"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "812 Park Ave",
+            "New York"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Park Avenue NYC"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Park Avenue NYC with Connecticut numbers"
+    },
+    {
+      "entry_id": "040_noel_hon_thomas",
+      "name": {
+        "full_name": "Noel, Hon Thomas",
+        "prefix": "Hon",
+        "first_name": "Thomas",
+        "middle_name": null,
+        "last_name": "Noel",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-589 1841 (h)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "24 Lennox Gardens",
+            "London SW1X 0DQ"
+          ],
+          "city": "London",
+          "postal_code": "SW1X 0DQ",
+          "country": "UK",
+          "notes": "The Grange Farm"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Hon (Honourable) - Lennox Gardens, Knightsbridge"
+    },
+    {
+      "entry_id": "040_exton_oakham_leice_stershire",
+      "name": {
+        "full_name": null,
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": null,
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0780 86488 (h)",
+          "formatting": "UK format"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Exton Oakham Leicestershire",
+            "LE15 8BN"
+          ],
+          "city": "Exton",
+          "postal_code": "LE15 8BN",
+          "country": "UK",
+          "notes": "Possible continuation or additional address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "low",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Orphan entry - likely continuation of previous contact"
+    },
+    {
+      "entry_id": "040_noel_vanessa",
+      "name": {
+        "full_name": "Noel, Vanessa",
+        "prefix": null,
+        "first_name": "Vanessa",
+        "middle_name": null,
+        "last_name": "Noel",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "212 906 0054",
+          "formatting": "NYC direct dial"
+        },
+        {
+          "type": "work",
+          "number": "212 906 0058 (f)",
+          "formatting": "NYC fax"
+        },
+        {
+          "type": "mobile",
+          "number": "001 212 917 6133 (h)",
+          "formatting": "International to US - NYC"
+        },
+        {
+          "type": "work",
+          "number": "001 212 737 0115 (w)",
+          "formatting": "International to US - NYC"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "12 East 86th St. #535",
+            "New York, NY 10028"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10028",
+          "country": "USA",
+          "notes": "Upper East Side NYC"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Vanessa Noel - footwear designer, Upper East Side"
+    },
+    {
+      "entry_id": "040_noha_cecilia",
+      "name": {
+        "full_name": "Noha, Cecilia",
+        "prefix": null,
+        "first_name": "Cecilia",
+        "middle_name": null,
+        "last_name": "Noha",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 683 4649",
+          "formatting": "International to US - NYC"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC contact"
+    },
+    {
+      "entry_id": "040_noonan_tim",
+      "name": {
+        "full_name": "Noonan, Tim",
+        "prefix": null,
+        "first_name": "Tim",
+        "middle_name": null,
+        "last_name": "Noonan",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 446 3861",
+          "formatting": "International to US - NYC"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC contact"
+    },
+    {
+      "entry_id": "040_nuttall_harry",
+      "name": {
+        "full_name": "Nuttall, Harry",
+        "prefix": null,
+        "first_name": "Harry",
+        "middle_name": null,
+        "last_name": "Nuttall",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-823 4308",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "0207-590 6262(w)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "mobile",
+          "number": "07768 004 328 (p)",
+          "formatting": "UK mobile"
+        }
+      ],
+      "emails": [
+        {
+          "address": "mrsport@aol.com",
+          "type": "work",
+          "notes": "AOL email - (frn)17 Queens's Gate Place Mews(w)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "business",
+          "address_lines": [
+            "15 Sloane Court West (h)",
+            "London, SW3"
+          ],
+          "city": "London",
+          "postal_code": "SW3",
+          "country": "UK",
+          "notes": "SW7 6BG"
+        }
+      ],
+      "handwritten_notes": [
+        "(frn)17 Queens's Gate Place Mews(w)",
+        "SW7 6BG"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'Chairman RNR International Ltd' SW3/SW7 business addresses"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 22,
+    "entries_with_emails": 3,
+    "entries_with_addresses": 16,
+    "entries_with_handwritten_notes": 2,
+    "couples": 4,
+    "average_confidence": "high",
+    "notable_figures_count": 3
+  },
+  "cross_references": [
+    {
+      "entry_id": "040_nastasse_ilie_alex",
+      "reference": "Ilie Nastase - Romanian tennis legend, former world No. 1",
+      "notes": "Upper East Side NYC residence"
+    },
+    {
+      "entry_id": "040_niarchos_constantine",
+      "reference": "Constantine Niarchos - Greek shipping heir, Niarchos family",
+      "notes": "Grosvenor Square Mayfair - one of London's most prestigious addresses"
+    },
+    {
+      "entry_id": "040_neil_andrew",
+      "reference": "Andrew Neil - British journalist and broadcaster",
+      "notes": "Dual residences in London (South Kensington) and NYC (Midtown East)"
+    },
+    {
+      "entry_id": "040_noel_vanessa",
+      "reference": "Vanessa Noel - footwear designer",
+      "notes": "Upper East Side NYC"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Emanuel Nadler",
+      "Adam Nagel",
+      "William Nagel",
+      "Dott M Jacope Nardi",
+      "Ilie Nastasse",
+      "Alex Nastasse",
+      "Jelitza Negrete",
+      "Andrew Neil",
+      "Hetty Newman",
+      "Mr & Mrs John Newman",
+      "Clive Ng",
+      "Constantine Niarchos",
+      "William Nickerson",
+      "Jayne Nickerson",
+      "Yoshi Nishio",
+      "Alix Noel",
+      "Hon Thomas Noel",
+      "Vanessa Noel",
+      "Cecilia Noha",
+      "Tim Noonan",
+      "Harry Nuttall"
+    ],
+    "organizations": [
+      "Chapman International Ltd (Harry Nuttall)"
+    ],
+    "locations": {
+      "international": [
+        "London, UK (multiple contacts)",
+        "Venice, Italy (Gritti Palace)",
+        "Bergamo area, Italy"
+      ],
+      "us_cities": [
+        "New York City (multiple contacts)",
+        "Los Angeles, CA",
+        "Connecticut"
+      ],
+      "elite_addresses": [
+        "Grosvenor Square, Mayfair (Constantine Niarchos)",
+        "Park Avenue, NYC (Jelitza Negrete, Alix Noel)",
+        "Upper East Side NYC (67th St, 86th St)",
+        "South Kensington, London (Onslow Gardens)",
+        "Chelsea, London (SW3)",
+        "Knightsbridge, London (Lennox Gardens)",
+        "Notting Hill, London (Portland Road)",
+        "SoHo, NYC (Broadway)",
+        "Compton Park, Wiltshire (country estate)",
+        "Exton Oakham, Leicestershire"
+      ]
+    }
+  },
+  "insights": [
+    "Ilie Nastase - Romanian tennis legend with NYC Upper East Side apartment (Apt E81 67th Street)",
+    "Constantine Niarchos - Greek shipping heir at 33 Grosvenor Square, Mayfair - one of London's most exclusive addresses",
+    "Andrew Neil - British journalist/broadcaster with dual residences: London South Kensington and NYC Midtown East",
+    "Vanessa Noel - footwear designer with Upper East Side address and multiple business numbers",
+    "Hon Thomas Noel - Honourable title, Lennox Gardens Knightsbridge and Grange Farm Leicestershire",
+    "Multiple Park Avenue NYC addresses (Negrete, Alix Noel) - indicating ultra-wealthy social circle",
+    "Dual location contacts: Adam Nagel (NYC/UK), Nishio Yoshi (LA/UK), Ng Clive (NYC/UK) - international lifestyle",
+    "Chapman International Ltd (Harry Nuttall) - business in SW3/SW7 London",
+    "Dott M Jacope Nardi - Italian doctor (Dott) in Bergamo area with multiple Italian numbers",
+    "Geographic concentration: London elite (Mayfair, Knightsbridge, Chelsea, South Kensington), NYC (Upper East Side, Park Ave, SoHo)",
+    "Four couples listed, several with country estates (Newman in Wiltshire, Noel in Leicestershire)",
+    "Multiple AOL emails indicating late 1990s/early 2000s timeframe"
+  ]
+}

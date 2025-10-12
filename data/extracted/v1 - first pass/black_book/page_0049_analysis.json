@@ -1,0 +1,767 @@
+{
+  "page_number": 49,
+  "alphabetical_section": "S",
+  "contacts": [
+    {
+      "name": "Saltzman, Elizabeth",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "30 Ladymore Grove",
+          "street": "30 Ladymore Grove",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW10",
+          "city": "London",
+          "postal_code": "SW10",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0171 376 3006",
+          "area_code": "0171",
+          "geographic_indicator": "London (old code)",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01 372 244XXXX",
+          "area_code": "01372",
+          "geographic_indicator": "Esher, UK",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        "[illegible]@saltzman@aol.com"
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "001 212 727 2616",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 914 361 6209 (w)",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 226 7800",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 288 9715 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Samuels, Mia",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "200 Prince Tower",
+          "street": "200 Prince Tower",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 221 7474 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Sandelmer Jon & Carrie",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "620 Park Ave",
+          "street": "620 Park Ave",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York, NY",
+          "city": "New York",
+          "state": "NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 861 8048",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Sangster, Guy & Fi",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "18 Cromwell House",
+          "street": "18 Cromwell House",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Barchan Gardens[illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "London SW5",
+          "city": "London",
+          "postal_code": "SW5",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207-439 9665 [illegible].co.uk",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207-385 8268 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Sangster, Mr Ben",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "147 Kenington Place",
+          "street": "147 Kenington Place",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London W11",
+          "city": "London",
+          "postal_code": "W11",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207-602 XXXX",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207-602 6853 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Santo Domingo, Julio Mario",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "53 Esplanada Sant Antonio",
+          "street": "53 Esplanada Sant Antonio",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 917 607 2068",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 861 2468",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "[illegible]@yahoo.org"
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "00 37 1 9 44XX (o)",
+          "country_code": "37",
+          "geographic_indicator": "Latvia",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Santo Domingo family",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Santo, Mr & Mrs M Espirito",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Apto Mariane 11",
+          "unit": "Apto Mariane 11",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Brazil",
+          "country": "Brazil",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 973 2033 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Espirito Santo banking family",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Saud Prince Salman",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "202 388 0500 (h)",
+          "area_code": "202",
+          "geographic_indicator": "Washington DC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "202 966 8440 (h)",
+          "area_code": "202",
+          "geographic_indicator": "Washington DC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Saudi Prince Salman",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Scarbo, Randall",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "311 East 72nd Street",
+          "street": "311 East 72nd Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "NYC 10021 NY",
+          "city": "NYC",
+          "postal_code": "10021",
+          "state": "NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "1 917 608 1468 (h)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "1 917 XX 4588 (h)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        "Email: [illegible]@aol.com"
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Schleiff, Gianmarco",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 39 337 754 477 38",
+          "country_code": "39",
+          "area_code": "337",
+          "geographic_indicator": "Italy mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 39 1 4348 3456",
+          "country_code": "39",
+          "area_code": "1",
+          "geographic_indicator": "Italy",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 39 1 4934 3201 (h)",
+          "country_code": "39",
+          "area_code": "1",
+          "geographic_indicator": "Italy",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Schiller, Helen & Tim",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "725 Park Ave",
+          "street": "725 Park Ave",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "10021",
+          "postal_code": "10021",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "1959 L3825",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "212 794 6461",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 517 6183 or Schiller P",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 XXX XXX (w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "516 922 7854 Port home",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Shearer Andre & Angie",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 516 922 8999(h)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 585 11000(a)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Shore Chris and Maura",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "850 Park Ave",
+          "street": "850 Park Ave",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "NY NY 10075",
+          "city": "NY",
+          "state": "NY",
+          "postal_code": "10075",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Saban Montoffore Simon",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "01 961 10643",
+          "area_code": "01961",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0303-4818122",
+          "area_code": "0303",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Simon Sebag Montefiore - historian/author",
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Shriver, Bobby",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Santa Mon",
+          "city": "Santa Monica",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "310 576 1826 direct",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 310 576 2313 USA",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "1564 Washington St Ocean Park",
+          "street": "1564 Washington St",
+          "city": "Ocean Park",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "CA 90403",
+          "state": "CA",
+          "postal_code": "90403",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "[illegible]@[illegible]productions",
+          "confidence": "low"
+        }
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "Shawn",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "12 XXX",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "1949 Chenox Canyon cell 3102",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "1318[illegible] 7254 310[h]",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0113[illegible]",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Bobby Shriver - Kennedy family member",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Seilern Christine",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "30 Maly",
+          "street": "30 Maly",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "SW3",
+          "postal_code": "SW3",
+          "geographic_indicator": "Chelsea, London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 XXX14",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 353 909(h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 923 5092(w)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Sejournot, Isabel de",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "15 Hanson street",
+          "street": "15 Hanson street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW11",
+          "city": "London",
+          "postal_code": "SW11",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "020 7736 7894 (m)",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 474 8888 (Dw)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Shablai, Ranny",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 917 955 5850",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 922 3820(w)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Shad, Brenda",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 777 1122",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "Email: shad[illegible]@verizon.net"
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Shriver, Mark",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 516 850 0417",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 940 7516 (h)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Mark Shriver - Kennedy family member",
+      "data_quality": {
+        "confidence": "high"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 20,
+    "quality": "fair",
+    "legibility": "moderate degradation",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "Saudi Prince Salman",
+      "Santo Domingo family - Colombian billionaires",
+      "Espirito Santo banking family",
+      "Bobby Shriver - Kennedy family member",
+      "Mark Shriver - Kennedy family member",
+      "Simon Sebag Montefiore - Historian/author"
+    ]
+  },
+  "insights": [
+    "Saudi Prince Salman with Washington DC connections",
+    "Santo Domingo family - major Colombian business dynasty",
+    "Espirito Santo Portuguese banking family",
+    "Multiple Shriver family members (Kennedy connections)",
+    "Simon Sebag Montefiore - noted historian",
+    "Strong Long Island NY presence (516)",
+    "Santa Monica/Ocean Park California",
+    "Washington DC diplomatic presence (202)",
+    "Brazil connection",
+    "Mix of royalty, banking, and political families"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "high",
+    "total_contacts": 20,
+    "high_confidence": 15,
+    "medium_confidence": 4,
+    "low_confidence": 1,
+    "extraction_issues": [
+      "Some email addresses partially illegible",
+      "Few phone numbers incomplete",
+      "Overall better legibility than many previous pages"
+    ]
+  }
+}

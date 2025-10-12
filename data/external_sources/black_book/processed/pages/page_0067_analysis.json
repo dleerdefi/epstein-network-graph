@@ -1,0 +1,1786 @@
+{
+  "page_number": 67,
+  "alphabetical_section": "Mixed",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "067_unknown_unknown",
+      "name": {
+        "full_name": "Hotels \u2013 Blakes",
+        "prefix": null,
+        "first_name": "Hotels",
+        "middle_name": "\u2013",
+        "last_name": "Blakes",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "071-370 6701",
+          "formatting": "071-370 6701"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Blakes"
+    },
+    {
+      "entry_id": "067_unknown_unknown",
+      "name": {
+        "full_name": "Hotels \u2013 Carlton Tower",
+        "prefix": null,
+        "first_name": "Hotels",
+        "middle_name": "\u2013 Carlton",
+        "last_name": "Tower",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "071-235 5411",
+          "formatting": "071-235 5411"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Carlton Tower"
+    },
+    {
+      "entry_id": "067_unknown_unknown",
+      "name": {
+        "full_name": "Hotels \u2013 Claridges",
+        "prefix": null,
+        "first_name": "Hotels",
+        "middle_name": "\u2013",
+        "last_name": "Claridges",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "44 207 629 8860",
+          "formatting": "44 207 629 8860"
+        },
+        {
+          "type": "unknown",
+          "number": "44 207 499 2210 (f)",
+          "formatting": "44 207 499 2210 (f)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Brook Street, Mayfair"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W1A 2JQ",
+          "country": "UK",
+          "notes": "London Mayfair"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Claridges Hotel"
+    },
+    {
+      "entry_id": "067_unknown_unknown",
+      "name": {
+        "full_name": "Hotels \u2013 Cliveden House",
+        "prefix": null,
+        "first_name": "Hotels",
+        "middle_name": "\u2013 Cliveden",
+        "last_name": "House",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "011441717306466",
+          "formatting": "011441717306466 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "062-866-8561",
+          "formatting": "062-866-8561"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Cliveden House"
+    },
+    {
+      "entry_id": "067_unknown_unknown",
+      "name": {
+        "full_name": "Hotels \u2013 Connaught",
+        "prefix": null,
+        "first_name": "Hotels",
+        "middle_name": "\u2013",
+        "last_name": "Connaught",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "071-499 7070",
+          "formatting": "071-499 7070"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Connaught Hotel"
+    },
+    {
+      "entry_id": "067_unknown_unknown",
+      "name": {
+        "full_name": "Hotels \u2013 Dorchester",
+        "prefix": null,
+        "first_name": "Hotels",
+        "middle_name": "\u2013",
+        "last_name": "Dorchester",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "071-629 8888",
+          "formatting": "071-629 8888"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Dorchester Hotel"
+    },
+    {
+      "entry_id": "067_gelardi_geoffrey",
+      "name": {
+        "full_name": "Hotels \u2013 Lanesborough Hotel",
+        "prefix": null,
+        "first_name": "Geoffrey",
+        "middle_name": null,
+        "last_name": "Gelardi",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "44 207 259 5599",
+          "formatting": "44 207 259 5599"
+        },
+        {
+          "type": "unknown",
+          "number": "44 207 259 5606 (f)",
+          "formatting": "44 207 259 5606 (f)"
+        },
+        {
+          "type": "unknown",
+          "number": "4471-333-7633 (Private fax. 8/2)",
+          "formatting": "4471-333-7633 (Private fax. 8/2)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "1 Lanesborough Place, Hyde Park Corner "
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW1X 7TA",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Lanesborough Hotel General Manager"
+    },
+    {
+      "entry_id": "067_unknown_unknown",
+      "name": {
+        "full_name": "Hotels \u2013 Ritz",
+        "prefix": null,
+        "first_name": "Hotels",
+        "middle_name": "\u2013",
+        "last_name": "Ritz",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "071 493 8181",
+          "formatting": "071 493 8181"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Hotel Ritz"
+    },
+    {
+      "entry_id": "067_unknown_unknown",
+      "name": {
+        "full_name": "Hotels \u2013 Savoy",
+        "prefix": null,
+        "first_name": "Hotels",
+        "middle_name": "\u2013",
+        "last_name": "Savoy",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "071-836-4343",
+          "formatting": "071-836-4343"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Hotel Savoy"
+    },
+    {
+      "entry_id": "067_unknown_unknown",
+      "name": {
+        "full_name": "Hotels \u2013 The Barcley Hotel",
+        "prefix": null,
+        "first_name": "Hotels",
+        "middle_name": "\u2013 The Barcley",
+        "last_name": "Hotel",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-235-6000",
+          "formatting": "0207-235-6000 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "The Barcley Hotel"
+    },
+    {
+      "entry_id": "067_unknown_unknown",
+      "name": {
+        "full_name": "Hotels \u2013 Waterside Inn",
+        "prefix": null,
+        "first_name": "Hotels",
+        "middle_name": "\u2013 Waterside",
+        "last_name": "Inn",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0628 20691",
+          "formatting": "0628 20691"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Waterside Inn"
+    },
+    {
+      "entry_id": "067_unknown_nicholas_&_tina",
+      "name": {
+        "full_name": "Island \u2013 Air Center Helicopter",
+        "prefix": null,
+        "first_name": "Nicholas & Tina",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "340-775-7335 (o)",
+          "formatting": "340-775-7335 (o)"
+        },
+        {
+          "type": "home",
+          "number": "340-774-0976",
+          "formatting": "340-774-0976"
+        },
+        {
+          "type": "portable",
+          "number": "340-690-1012/11",
+          "formatting": "340-690-1012/11"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Air Center Helicopter"
+    },
+    {
+      "entry_id": "067_unknown_christopher",
+      "name": {
+        "full_name": "Island \u2013 Christopher Taxi",
+        "prefix": null,
+        "first_name": "Christopher",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "340-777-5092",
+          "formatting": "340-777-5092"
+        },
+        {
+          "type": "portable",
+          "number": "340-690-1581",
+          "formatting": "340-690-1581"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "067_cox_madison",
+      "name": {
+        "full_name": "Island \u2013 Cox, Madison",
+        "prefix": null,
+        "first_name": "Madison",
+        "middle_name": null,
+        "last_name": "Cox",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 807 8081 (f)",
+          "formatting": "212 807 8081 (f)"
+        },
+        {
+          "type": "work",
+          "number": "212 242 4631",
+          "formatting": "212 242 4631"
+        },
+        {
+          "type": "portable",
+          "number": "917 495 9399",
+          "formatting": "917 495 9399 (NYC mobile)"
+        },
+        {
+          "type": "portable",
+          "number": "01121263526383 (Moroco)",
+          "formatting": "01121263526383 (Moroco) (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "mc@madisoncox.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "220 West 19th Street, 9th Floor"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10011",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Madison Cox Design, Inc."
+    },
+    {
+      "entry_id": "067_epstein_jeffrey",
+      "name": {
+        "full_name": "Island \u2013 Epstein, Jeffrey",
+        "prefix": null,
+        "first_name": "Jeffrey",
+        "middle_name": null,
+        "last_name": "Epstein",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "340 775 7335 (Air Center Helicopter)",
+          "formatting": "340 775 7335 (Air Center Helicopter)"
+        },
+        {
+          "type": "unknown",
+          "number": "340 774 0056 (JE 1)",
+          "formatting": "340 774 0056 (JE 1)"
+        },
+        {
+          "type": "unknown",
+          "number": "340 714 0805 (JE 2)",
+          "formatting": "340 714 0805 (JE 2)"
+        },
+        {
+          "type": "unknown",
+          "number": "340 714 0806 (JE 3)",
+          "formatting": "340 714 0806 (JE 3)"
+        },
+        {
+          "type": "unknown",
+          "number": "340 774 3578 (JE 4)",
+          "formatting": "340 774 3578 (JE 4)"
+        },
+        {
+          "type": "unknown",
+          "number": "340 777 4414 (JE Study) (f)",
+          "formatting": "340 777 4414 (JE Study) (f)"
+        },
+        {
+          "type": "unknown",
+          "number": "340 774 4265 (Cottage) (f)",
+          "formatting": "340 774 4265 (Cottage) (f)"
+        },
+        {
+          "type": "unknown",
+          "number": "340 714 0808 (Spare) (unused)",
+          "formatting": "340 714 0808 (Spare) (unused)"
+        },
+        {
+          "type": "work",
+          "number": "340 777 9181 (Office) (f)",
+          "formatting": "340 777 9181 (Office) (f)"
+        },
+        {
+          "type": "portable",
+          "number": "340 771 2680",
+          "formatting": "340 771 2680"
+        },
+        {
+          "type": "portable",
+          "number": "340 771 1523 (Backup 1)",
+          "formatting": "340 771 1523 (Backup 1)"
+        },
+        {
+          "type": "portable",
+          "number": "340 771 3828 (Backup 2)",
+          "formatting": "340 771 3828 (Backup 2)"
+        },
+        {
+          "type": "portable",
+          "number": "340 771 2678 (Guest)",
+          "formatting": "340 771 2678 (Guest)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "cathmile@yahoo.com|manager@littlestjeff.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "6100 Red Hook, Quarters B-3, St. Thomas"
+          ],
+          "city": "St. Thomas, Virgin Islands",
+          "state": null,
+          "postal_code": "USVI 00802",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "LSJ"
+    },
+    {
+      "entry_id": "067_maxwell_ghislaine",
+      "name": {
+        "full_name": "Island \u2013 Epstein, Jeffrey",
+        "prefix": null,
+        "first_name": "Ghislaine",
+        "middle_name": null,
+        "last_name": "Maxwell",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "340 714 2552",
+          "formatting": "340 714 2552"
+        },
+        {
+          "type": "portable",
+          "number": "340 771 2679",
+          "formatting": "340 771 2679"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "6100 Red Hook, Quarters B-3, St. Thomas"
+          ],
+          "city": "St. Thomas, Virgin Islands",
+          "state": null,
+          "postal_code": "USVI 00802",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "LSJ"
+    },
+    {
+      "entry_id": "067_epstein_jeffrey",
+      "name": {
+        "full_name": "Island \u2013 Epstein, Jeffrey (Staff)",
+        "prefix": null,
+        "first_name": "Jeffrey",
+        "middle_name": null,
+        "last_name": "Epstein",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Staff"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "340 774 1611 (staff 1)",
+          "formatting": "340 774 1611 (staff 1)"
+        },
+        {
+          "type": "unknown",
+          "number": "340 714 0807 (Staff 2)",
+          "formatting": "340 714 0807 (Staff 2)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "6100 Red Hook, Quarters B-3, St. Thomas"
+          ],
+          "city": "St. Thomas, Virgin Islands",
+          "state": null,
+          "postal_code": "USVI 00802",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "LSJ"
+    },
+    {
+      "entry_id": "067_epstein_jeffrey",
+      "name": {
+        "full_name": "Island \u2013 Epstein, Jeffrey (Amer. Yacht Harb.)",
+        "prefix": null,
+        "first_name": "Jeffrey",
+        "middle_name": null,
+        "last_name": "Epstein",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Amer. Yacht Harb."
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "340 775 6454 (Amer, Yacht Harb.)",
+          "formatting": "340 775 6454 (Amer, Yacht Harb.)"
+        },
+        {
+          "type": "unknown",
+          "number": "340 776 5970 (Amer. Yacht Harb.) (f)",
+          "formatting": "340 776 5970 (Amer. Yacht Harb.) (f)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "6100 Red Hook, Quarters B-3, St. Thomas"
+          ],
+          "city": "St. Thomas, Virgin Islands",
+          "state": null,
+          "postal_code": "USVI 00802",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "LSJ"
+    },
+    {
+      "entry_id": "067_unknown_nicolas",
+      "name": {
+        "full_name": "Island \u2013 Epstein, Jeffrey",
+        "prefix": null,
+        "first_name": "Nicolas",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "340 690 1012",
+          "formatting": "340 690 1012"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "6100 Red Hook, Quarters B-3, St. Thomas"
+          ],
+          "city": "St. Thomas, Virgin Islands",
+          "state": null,
+          "postal_code": "USVI 00802",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "LSJ"
+    },
+    {
+      "entry_id": "067_unknown_gretchen",
+      "name": {
+        "full_name": "Island \u2013 Epstein, Jeffrey",
+        "prefix": null,
+        "first_name": "Gretchen",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "340 777 5334",
+          "formatting": "340 777 5334"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "6100 Red Hook, Quarters B-3, St. Thomas"
+          ],
+          "city": "St. Thomas, Virgin Islands",
+          "state": null,
+          "postal_code": "USVI 00802",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "LSJ"
+    },
+    {
+      "entry_id": "067_unknown_miles",
+      "name": {
+        "full_name": "Island \u2013 Epstein, Jeffrey",
+        "prefix": null,
+        "first_name": "Miles",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "340 771 2024",
+          "formatting": "340 771 2024"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "6100 Red Hook, Quarters B-3, St. Thomas"
+          ],
+          "city": "St. Thomas, Virgin Islands",
+          "state": null,
+          "postal_code": "USVI 00802",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "LSJ"
+    },
+    {
+      "entry_id": "067_unknown_cathy",
+      "name": {
+        "full_name": "Island \u2013 Epstein, Jeffrey",
+        "prefix": null,
+        "first_name": "Cathy",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "340 771 4897",
+          "formatting": "340 771 4897"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "6100 Red Hook, Quarters B-3, St. Thomas"
+          ],
+          "city": "St. Thomas, Virgin Islands",
+          "state": null,
+          "postal_code": "USVI 00802",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "LSJ"
+    },
+    {
+      "entry_id": "067_hague_bascoe",
+      "name": {
+        "full_name": "Island \u2013 Epstein, Jeffrey",
+        "prefix": null,
+        "first_name": "Bascoe",
+        "middle_name": null,
+        "last_name": "Hague",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "340 777 0669 (b)",
+          "formatting": "340 777 0669 (b)"
+        },
+        {
+          "type": "portable",
+          "number": "340 771 2032",
+          "formatting": "340 771 2032"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "6100 Red Hook, Quarters B-3, St. Thomas"
+          ],
+          "city": "St. Thomas, Virgin Islands",
+          "state": null,
+          "postal_code": "USVI 00802",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "LSJ"
+    },
+    {
+      "entry_id": "067_white_bruce",
+      "name": {
+        "full_name": "Island \u2013 Epstein, Jeffrey",
+        "prefix": null,
+        "first_name": "Bruce",
+        "middle_name": null,
+        "last_name": "White",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "340 771 1339",
+          "formatting": "340 771 1339"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "6100 Red Hook, Quarters B-3, St. Thomas"
+          ],
+          "city": "St. Thomas, Virgin Islands",
+          "state": null,
+          "postal_code": "USVI 00802",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "LSJ"
+    },
+    {
+      "entry_id": "067_cook_tim",
+      "name": {
+        "full_name": "Island \u2013 Epstein, Jeffrey",
+        "prefix": null,
+        "first_name": "Tim",
+        "middle_name": null,
+        "last_name": "Cook",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "340 771 6264",
+          "formatting": "340 771 6264"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "6100 Red Hook, Quarters B-3, St. Thomas"
+          ],
+          "city": "St. Thomas, Virgin Islands",
+          "state": null,
+          "postal_code": "USVI 00802",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "LSJ"
+    },
+    {
+      "entry_id": "067_unknown_unknown",
+      "name": {
+        "full_name": "Island \u2013 Epstein, Jeffrey (Amer, Yacht Harb.)",
+        "prefix": null,
+        "first_name": "Island",
+        "middle_name": "\u2013 Epstein, Jeffrey (Amer, Yacht",
+        "last_name": "Harb.)",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Amer, Yacht Harb."
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "6100 Red Hook, Quarters B-3, St. Thomas"
+          ],
+          "city": "St. Thomas, Virgin Islands",
+          "state": null,
+          "postal_code": "USVI 00802",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "LSJ"
+    },
+    {
+      "entry_id": "067_epstein_jeffrey",
+      "name": {
+        "full_name": "Island \u2013 Epstein, Jeffrey \u2013 Financial Trust Company",
+        "prefix": null,
+        "first_name": "Jeffrey",
+        "middle_name": null,
+        "last_name": "Epstein",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "340 775 2525",
+          "formatting": "340 775 2525"
+        },
+        {
+          "type": "unknown",
+          "number": "340 775 2528 (f)",
+          "formatting": "340 775 2528 (f)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "6100 Red Hook, Quarters B-3, St. Thomas"
+          ],
+          "city": "St. Thomas, Virgin Islands",
+          "state": null,
+          "postal_code": "USVI 00802",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "LSJ \u2013 Financial Trust Company"
+    },
+    {
+      "entry_id": "067_unknown_leon",
+      "name": {
+        "full_name": "Island \u2013 Epstein, Jeffrey \u2013 Financial Trust Company",
+        "prefix": null,
+        "first_name": "Leon",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "340 690 3623 (b)",
+          "formatting": "340 690 3623 (b)"
+        },
+        {
+          "type": "unknown",
+          "number": "340 771 6086 (Leon car)",
+          "formatting": "340 771 6086 (Leon car)"
+        },
+        {
+          "type": "home",
+          "number": "340 775 0093",
+          "formatting": "340 775 0093"
+        },
+        {
+          "type": "portable",
+          "number": "340 690 0241",
+          "formatting": "340 690 0241"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "6100 Red Hook, Quarters B-3, St. Thomas"
+          ],
+          "city": "St. Thomas, Virgin Islands",
+          "state": null,
+          "postal_code": "USVI 00802",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "LSJ \u2013 Financial Trust Company"
+    },
+    {
+      "entry_id": "067_unknown_dale",
+      "name": {
+        "full_name": "Island \u2013 Epstein, Jeffrey \u2013 Financial Trust Company",
+        "prefix": null,
+        "first_name": "Dale",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "340 775 6971",
+          "formatting": "340 775 6971"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "6100 Red Hook, Quarters B-3, St. Thomas"
+          ],
+          "city": "St. Thomas, Virgin Islands",
+          "state": null,
+          "postal_code": "USVI 00802",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "LSJ \u2013 Financial Trust Company"
+    },
+    {
+      "entry_id": "067_unknown_cecile",
+      "name": {
+        "full_name": "Island \u2013 Epstein, Jeffrey \u2013 Financial Trust Company",
+        "prefix": null,
+        "first_name": "Cecile",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "340 777 6157",
+          "formatting": "340 777 6157"
+        },
+        {
+          "type": "portable",
+          "number": "340 690 1443",
+          "formatting": "340 690 1443"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "6100 Red Hook, Quarters B-3, St. Thomas"
+          ],
+          "city": "St. Thomas, Virgin Islands",
+          "state": null,
+          "postal_code": "USVI 00802",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "LSJ \u2013 Financial Trust Company"
+    },
+    {
+      "entry_id": "067_unknown_jeanne",
+      "name": {
+        "full_name": "Island \u2013 Epstein, Jeffrey \u2013 Financial Trust Company",
+        "prefix": null,
+        "first_name": "Jeanne",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "340 775 6265",
+          "formatting": "340 775 6265"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "6100 Red Hook, Quarters B-3, St. Thomas"
+          ],
+          "city": "St. Thomas, Virgin Islands",
+          "state": null,
+          "postal_code": "USVI 00802",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "LSJ \u2013 Financial Trust Company"
+    },
+    {
+      "entry_id": "067_unknown_lorette",
+      "name": {
+        "full_name": "Island \u2013 Epstein, Jeffrey \u2013 Financial Trust Company",
+        "prefix": null,
+        "first_name": "Lorette",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "340 775 2770",
+          "formatting": "340 775 2770"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "6100 Red Hook, Quarters B-3, St. Thomas"
+          ],
+          "city": "St. Thomas, Virgin Islands",
+          "state": null,
+          "postal_code": "USVI 00802",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "LSJ \u2013 Financial Trust Company"
+    },
+    {
+      "entry_id": "067_unknown_jermaine",
+      "name": {
+        "full_name": "Island \u2013 Epstein, Jeffrey \u2013 Financial Trust Company",
+        "prefix": null,
+        "first_name": "Jermaine",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "340 774 9599",
+          "formatting": "340 774 9599"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "6100 Red Hook, Quarters B-3, St. Thomas"
+          ],
+          "city": "St. Thomas, Virgin Islands",
+          "state": null,
+          "postal_code": "USVI 00802",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "LSJ \u2013 Financial Trust Company"
+    },
+    {
+      "entry_id": "067_unknown_jamie",
+      "name": {
+        "full_name": "Island \u2013 Epstein, Jeffrey \u2013 Financial Trust Company",
+        "prefix": null,
+        "first_name": "Jamie",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "340 776 1351",
+          "formatting": "340 776 1351"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "6100 Red Hook, Quarters B-3, St. Thomas"
+          ],
+          "city": "St. Thomas, Virgin Islands",
+          "state": null,
+          "postal_code": "USVI 00802",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "LSJ \u2013 Financial Trust Company"
+    },
+    {
+      "entry_id": "067_unknown_daphne",
+      "name": {
+        "full_name": "Island \u2013 Epstein, Jeffrey \u2013 Financial Trust Company",
+        "prefix": null,
+        "first_name": "Daphne",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "340 775 6057",
+          "formatting": "340 775 6057"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "6100 Red Hook, Quarters B-3, St. Thomas"
+          ],
+          "city": "St. Thomas, Virgin Islands",
+          "state": null,
+          "postal_code": "USVI 00802",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "LSJ \u2013 Financial Trust Company"
+    },
+    {
+      "entry_id": "067_unknown_kim",
+      "name": {
+        "full_name": "Island \u2013 Epstein, Jeffrey \u2013 Financial Trust Company",
+        "prefix": null,
+        "first_name": "Kim",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "340 714 3955",
+          "formatting": "340 714 3955"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "6100 Red Hook, Quarters B-3, St. Thomas"
+          ],
+          "city": "St. Thomas, Virgin Islands",
+          "state": null,
+          "postal_code": "USVI 00802",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "LSJ \u2013 Financial Trust Company"
+    },
+    {
+      "entry_id": "067_hoffman_paul",
+      "name": {
+        "full_name": "Island \u2013 Hoffman, Paul P.C.",
+        "prefix": null,
+        "first_name": "Paul",
+        "middle_name": null,
+        "last_name": "Hoffman",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "340-774-2266",
+          "formatting": "340-774-2266"
+        },
+        {
+          "type": "home",
+          "number": "340-774-3318",
+          "formatting": "340-774-3318"
+        }
+      ],
+      "emails": [
+        {
+          "address": "PaulhoffmanPC@ATT.net",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "41-42-Kongens Gade, P.O. Box 870"
+          ],
+          "city": "St. Thomas",
+          "state": null,
+          "postal_code": "USVI 00804-0870",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Paul Hoffman, P.C."
+    },
+    {
+      "entry_id": "067_hoffman_paul",
+      "name": {
+        "full_name": "Island \u2013 Hoffman, Paul P.C.",
+        "prefix": null,
+        "first_name": "Paul",
+        "middle_name": null,
+        "last_name": "Hoffman",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "340-774-2030 (f)",
+          "formatting": "340-774-2030 (f)"
+        },
+        {
+          "type": "unknown",
+          "number": "340 776 8309 (hf)",
+          "formatting": "340 776 8309 (hf)"
+        },
+        {
+          "type": "home",
+          "number": "617 547 7907 (Boston)",
+          "formatting": "617 547 7907 (Boston)"
+        },
+        {
+          "type": "home",
+          "number": "340 774 3318",
+          "formatting": "340 774 3318"
+        },
+        {
+          "type": "portable",
+          "number": "340-690-6688",
+          "formatting": "340-690-6688"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Estate Havens, P.O. Box 870"
+          ],
+          "city": "St. Thomas",
+          "state": null,
+          "postal_code": "USVI 00804",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Paul Hoffman, P.C."
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 38,
+    "entries_with_emails": 3,
+    "entries_with_addresses": 27,
+    "entries_with_handwritten_notes": 0,
+    "couples": 0,
+    "average_confidence": "high",
+    "notable_figures_count": 0
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Hotels \u2013 Blakes",
+      "Hotels \u2013 Carlton Tower",
+      "Hotels \u2013 Claridges",
+      "Hotels \u2013 Cliveden House",
+      "Hotels \u2013 Connaught",
+      "Hotels \u2013 Dorchester",
+      "Hotels \u2013 Lanesborough Hotel",
+      "Hotels \u2013 Ritz",
+      "Hotels \u2013 Savoy",
+      "Hotels \u2013 The Barcley Hotel",
+      "Hotels \u2013 Waterside Inn",
+      "Island \u2013 Air Center Helicopter",
+      "Island \u2013 Christopher Taxi",
+      "Island \u2013 Cox, Madison",
+      "Island \u2013 Epstein, Jeffrey",
+      "Island \u2013 Epstein, Jeffrey",
+      "Island \u2013 Epstein, Jeffrey (Staff)",
+      "Island \u2013 Epstein, Jeffrey (Amer. Yacht Harb.)",
+      "Island \u2013 Epstein, Jeffrey",
+      "Island \u2013 Epstein, Jeffrey",
+      "Island \u2013 Epstein, Jeffrey",
+      "Island \u2013 Epstein, Jeffrey",
+      "Island \u2013 Epstein, Jeffrey",
+      "Island \u2013 Epstein, Jeffrey",
+      "Island \u2013 Epstein, Jeffrey",
+      "Island \u2013 Epstein, Jeffrey (Amer, Yacht Harb.)",
+      "Island \u2013 Epstein, Jeffrey \u2013 Financial Trust Company",
+      "Island \u2013 Epstein, Jeffrey \u2013 Financial Trust Company",
+      "Island \u2013 Epstein, Jeffrey \u2013 Financial Trust Company",
+      "Island \u2013 Epstein, Jeffrey \u2013 Financial Trust Company",
+      "Island \u2013 Epstein, Jeffrey \u2013 Financial Trust Company",
+      "Island \u2013 Epstein, Jeffrey \u2013 Financial Trust Company",
+      "Island \u2013 Epstein, Jeffrey \u2013 Financial Trust Company",
+      "Island \u2013 Epstein, Jeffrey \u2013 Financial Trust Company",
+      "Island \u2013 Epstein, Jeffrey \u2013 Financial Trust Company",
+      "Island \u2013 Epstein, Jeffrey \u2013 Financial Trust Company",
+      "Island \u2013 Hoffman, Paul P.C.",
+      "Island \u2013 Hoffman, Paul P.C."
+    ],
+    "organizations": [
+      "Madison Cox Design, Inc.",
+      "LSJ \u2013 Financial Trust Company",
+      "LSJ \u2013 Financial Trust Company",
+      "LSJ \u2013 Financial Trust Company",
+      "LSJ \u2013 Financial Trust Company",
+      "LSJ \u2013 Financial Trust Company",
+      "LSJ \u2013 Financial Trust Company",
+      "LSJ \u2013 Financial Trust Company",
+      "LSJ \u2013 Financial Trust Company",
+      "LSJ \u2013 Financial Trust Company",
+      "LSJ \u2013 Financial Trust Company"
+    ],
+    "locations": {
+      "international": [
+        "UK"
+      ],
+      "us_cities": [
+        "St. Thomas, Virgin Islands",
+        "New York",
+        "London",
+        "St. Thomas"
+      ],
+      "elite_addresses": [
+        "Brook Street, Mayfair"
+      ]
+    }
+  },
+  "insights": [
+    "Geographic cluster: St. Thomas, Virgin Islands (22 entries)"
+  ]
+}

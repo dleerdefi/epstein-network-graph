@@ -1,0 +1,307 @@
+{
+  "page_number": 111,
+  "date_header": "AUG-OCT 2004",
+  "time_period": "August 2004 - October 2004",
+  "aircraft": {
+    "registration": "Multiple (B-727-31M N908JE, G-1159B N909JE, BHT-407)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "AUG 5",
+      "date": "08/05/2004",
+      "departure": "B-727-31M",
+      "arrival": "N908JE",
+      "flight_time": "281",
+      "remarks": "LPAZ - TIST - JE, AD, [REDACTED], SK, TD",
+      "passengers": ["JE", "AD", "REDACTED", "SK", "TD"],
+      "crew": "GA 1/1 Airplane George Miller Cox 5/6"
+    },
+    {
+      "entry_number": "6",
+      "date": "08/06/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "282",
+      "remarks": "TIST - PBI - JE, AD, TD, S, Vallez, Andrea",
+      "passengers": ["JE", "AD", "TD", "S", "Vallez", "Andrea"],
+      "crew": "Cox 2/4"
+    },
+    {
+      "entry_number": "10",
+      "date": "08/10/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "283",
+      "remarks": "PBI - JFK - JE, DT, JARED SWANSON",
+      "passengers": ["JE", "DT", "JARED SWANSON"],
+      "crew": "GA 2/4"
+    },
+    {
+      "entry_number": "13",
+      "date": "08/13/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "284",
+      "remarks": "JFK - ABQ - JE, GM, CELINE, [unclear]",
+      "passengers": ["JE", "GM", "CELINE"],
+      "crew": "LV 1/1 4/7"
+    },
+    {
+      "entry_number": "18",
+      "date": "08/18/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "285",
+      "remarks": "ABQ - VNY - JE, DM, JE",
+      "passengers": ["JE", "DM", "JE"],
+      "crew": "LV 4/3"
+    },
+    {
+      "entry_number": "19",
+      "date": "08/19/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "286",
+      "remarks": "VNY - PBI - JE, AD, [REDACTED], DK",
+      "passengers": ["JE", "AD", "REDACTED", "DK"],
+      "crew": "Perry Shiner 4/1"
+    },
+    {
+      "entry_number": "24",
+      "date": "08/24/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "287",
+      "remarks": "PBI - SECU - JE, GM, [REDACTED], SK, TD",
+      "passengers": ["JE", "GM", "REDACTED", "SK", "TD"],
+      "crew": "GA 4/1"
+    },
+    {
+      "entry_number": "25",
+      "date": "08/25/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "288",
+      "remarks": "SECU - PBI - JE, GM, [REDACTED], SK, TD",
+      "passengers": ["JE", "GM", "REDACTED", "SK", "TD"],
+      "crew": "LV 1/1 4/3"
+    },
+    {
+      "entry_number": "SEP 1",
+      "date": "09/01/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "289",
+      "remarks": "PBI - TIST - JE, [REDACTED], SK, TD",
+      "passengers": ["JE", "REDACTED", "SK", "TD"],
+      "crew": "GA 3/2"
+    },
+    {
+      "entry_number": "7",
+      "date": "09/07/2004",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1729",
+      "remarks": "TIST - TEB - JE, [REDACTED], TD, Bob",
+      "passengers": ["JE", "REDACTED", "TD", "Bob"],
+      "crew": "LV 2/5"
+    },
+    {
+      "entry_number": "9",
+      "date": "09/09/2004",
+      "departure": "B-727-31M",
+      "arrival": "N908JE",
+      "flight_time": "290",
+      "remarks": "TIST - JFK - JE, [REDACTED], Melissa Polipito",
+      "passengers": ["JE", "REDACTED", "Melissa Polipito"],
+      "crew": "Gary Ray Ray Fisher 1/1 3/8"
+    },
+    {
+      "entry_number": "16",
+      "date": "09/16/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "291",
+      "remarks": "JFK - PBI - [REDACTED], RS, WD",
+      "passengers": ["REDACTED", "RS", "WD"],
+      "crew": "GA 2/7"
+    },
+    {
+      "entry_number": "20",
+      "date": "09/20/2004",
+      "departure": "BHT-407",
+      "arrival": "583GMY",
+      "flight_time": "",
+      "remarks": "Boston - NASHUA - Sergey Anderson, Michael, Bill Dunn",
+      "passengers": ["Sergey Anderson", "Michael", "Bill Dunn"],
+      "crew": "2/5 1/0"
+    },
+    {
+      "entry_number": "21",
+      "date": "09/21/2004",
+      "departure": "BHT-407",
+      "arrival": "583GMY",
+      "flight_time": "",
+      "remarks": "NASHUA - BOSTON - HYA IX - [unclear]",
+      "passengers": [],
+      "crew": "Bill Reynolds 1/0"
+    },
+    {
+      "entry_number": "23",
+      "date": "09/23/2004",
+      "departure": "B-727-31M",
+      "arrival": "N908JE",
+      "flight_time": "304",
+      "remarks": "PBI - JFK - JE, [REDACTED]",
+      "passengers": ["JE", "REDACTED"],
+      "crew": "1/1 2/4"
+    },
+    {
+      "entry_number": "OCT 5",
+      "date": "10/05/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "309",
+      "remarks": "JFK - PBI - JE, LARRY SUMMERS, [REDACTED], L. Summers",
+      "passengers": ["JE", "LARRY SUMMERS", "REDACTED", "L. Summers"],
+      "crew": "LV 2/3"
+    },
+    {
+      "entry_number": "8",
+      "date": "10/08/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "310",
+      "remarks": "PBI - JFK - JE, Alan Dershowitz, [REDACTED], Larry Summers, Elisa Durer",
+      "passengers": ["JE", "Alan Dershowitz", "REDACTED", "Larry Summers", "Elisa Durer"],
+      "crew": "LK 2/5"
+    },
+    {
+      "entry_number": "10",
+      "date": "10/10/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "JFK - PBI - JE, SK, [REDACTED]",
+      "passengers": ["JE", "SK", "REDACTED"],
+      "crew": "LV 3/3"
+    },
+    {
+      "entry_number": "12",
+      "date": "10/12/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "PBI - TIST - JE, SK, [REDACTED]",
+      "passengers": ["JE", "SK", "REDACTED"],
+      "crew": "LV 3/3"
+    },
+    {
+      "entry_number": "13",
+      "date": "10/13/2004",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1728",
+      "remarks": "TEB - PBI - GM",
+      "passengers": ["GM"],
+      "crew": "2/5"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "AD",
+      "REDACTED",
+      "SK",
+      "TD",
+      "GA",
+      "George Miller Cox",
+      "Cox",
+      "S",
+      "Vallez",
+      "Andrea",
+      "DT",
+      "JARED SWANSON",
+      "GM",
+      "CELINE",
+      "LV",
+      "DM",
+      "DK",
+      "Perry Shiner",
+      "Bob",
+      "Melissa Polipito",
+      "Gary Ray",
+      "Ray Fisher",
+      "RS",
+      "WD",
+      "Sergey Anderson",
+      "Michael",
+      "Bill Dunn",
+      "Bill Reynolds",
+      "LARRY SUMMERS",
+      "L. Summers",
+      "Alan Dershowitz",
+      "Elisa Durer",
+      "LK",
+      "David Rodgers"
+    ],
+    "locations": [
+      "LPAZ",
+      "TIST",
+      "PBI",
+      "JFK",
+      "ABQ",
+      "VNY",
+      "SECU",
+      "TEB",
+      "Boston",
+      "NASHUA",
+      "HYA"
+    ],
+    "aircraft": [
+      "B-727-31M",
+      "N908JE",
+      "G-1159B",
+      "N909JE",
+      "BHT-407",
+      "583GMY"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "Total to Date: 9534.3 - 9581.4",
+    "amount_forward": "9534.3",
+    "total_to_date": "9581.4",
+    "document_quality": "good",
+    "legibility": "mostly clear with heavy redactions"
+  },
+  "insights": [
+    "Page covers August-October 2004",
+    "August 2004 entries: 5, 6, 10, 13, 18, 19, 24, 25",
+    "September 2004 entries: 1, 7, 9, 16, 20, 21, 23",
+    "October 2004 entries: 5, 8, 10, 12, 13",
+    "CRITICAL: Larry Summers appears on October 5 and October 8, 2004",
+    "CRITICAL: Alan Dershowitz appears on October 8, 2004",
+    "JE (Jeffrey Epstein) appears frequently throughout",
+    "SK (Sarah Kellen) appears multiple times",
+    "Heavy redactions throughout page",
+    "Caribbean operations continue (TIST)",
+    "Albuquerque (ABQ) and Van Nuys (VNY) operations in August",
+    "SECU location appears August 24-25",
+    "Boston/Nashua operations in late September",
+    "Mix of domestic and Caribbean operations",
+    "Elisa Durer appears on September 10",
+    "Melissa Polipito appears on September 9"
+  ]
+}

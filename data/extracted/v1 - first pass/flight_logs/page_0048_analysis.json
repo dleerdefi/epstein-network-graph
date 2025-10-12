@@ -1,0 +1,274 @@
+{
+  "page_number": 48,
+  "date_header": "1997 MAY",
+  "time_period": "May 1997 - June 1997",
+  "aircraft": {
+    "registration": "N908JE",
+    "type": "G1159B"
+  },
+  "flight_records": [
+    {
+      "entry_number": "5",
+      "date": "05/05/1997",
+      "departure": "EGCW",
+      "arrival": "LSGG",
+      "flight_time": "973",
+      "remarks": "JE",
+      "passengers": ["JE"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "5",
+      "date": "05/05/1997",
+      "departure": "LSGG",
+      "arrival": "LFPB",
+      "flight_time": "974",
+      "remarks": "JE, GM",
+      "passengers": ["JE", "GM"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "6",
+      "date": "05/06/1997",
+      "departure": "LFPB",
+      "arrival": "CYYT",
+      "flight_time": "977",
+      "remarks": "JE, GM",
+      "passengers": ["JE", "GM"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "6",
+      "date": "05/06/1997",
+      "departure": "CYYT",
+      "arrival": "TEB",
+      "flight_time": "978",
+      "remarks": "JE, GM",
+      "passengers": ["JE", "GM"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "9",
+      "date": "05/09/1997",
+      "departure": "TEB",
+      "arrival": "SAF",
+      "flight_time": "979",
+      "remarks": "JE, GM [REDACTED]",
+      "passengers": ["JE", "GM"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "12",
+      "date": "05/12/1997",
+      "departure": "SAF",
+      "arrival": "VNY",
+      "flight_time": "980",
+      "remarks": "JE",
+      "passengers": ["JE"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "14",
+      "date": "05/14/1997",
+      "departure": "VNY",
+      "arrival": "SAF",
+      "flight_time": "981",
+      "remarks": "JE, SOME BLONDE",
+      "passengers": ["JE", "SOME BLONDE"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "15",
+      "date": "05/15/1997",
+      "departure": "SAF",
+      "arrival": "DFW",
+      "flight_time": "982",
+      "remarks": "JE, GM, SOME BLONDE, TEALA",
+      "passengers": ["JE", "GM", "SOME BLONDE", "TEALA"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "15",
+      "date": "05/15/1997",
+      "departure": "DFW",
+      "arrival": "PBI",
+      "flight_time": "983",
+      "remarks": "JE, GM, JENNY",
+      "passengers": ["JE", "GM", "JENNY"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "25",
+      "date": "05/25/1997",
+      "departure": "PBI",
+      "arrival": "JFK",
+      "flight_time": "984",
+      "remarks": "RELOCATION TO JFK",
+      "passengers": [],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "24",
+      "date": "05/24/1997",
+      "departure": "JFK",
+      "arrival": "PBI",
+      "flight_time": "985",
+      "remarks": "JE, GM, RUSSIAN GIRLS, GEORGE SWAROVSKI",
+      "passengers": ["JE", "GM", "RUSSIAN GIRLS", "GEORGE SWAROVSKI"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "30",
+      "date": "05/30/1997",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "986",
+      "remarks": "JE, MANDY",
+      "passengers": ["JE", "MANDY"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "5",
+      "date": "06/05/1997",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "987",
+      "remarks": "JE, GM, DEDE",
+      "passengers": ["JE", "GM", "DEDE"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "9",
+      "date": "06/09/1997",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "988",
+      "remarks": "JE, GM",
+      "passengers": ["JE", "GM"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "21",
+      "date": "06/21/1997",
+      "departure": "TEB",
+      "arrival": "MVY",
+      "flight_time": "989",
+      "remarks": "JE, LYNN FORESTER, HEATHER, MINDY",
+      "passengers": ["JE", "LYNN FORESTER", "HEATHER", "MINDY"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "21",
+      "date": "06/21/1997",
+      "departure": "MVY",
+      "arrival": "PBI",
+      "flight_time": "990",
+      "remarks": "JE, HEATHER, MANDY, 2 JOHNNYS",
+      "passengers": ["JE", "HEATHER", "MANDY", "2 JOHNNYS"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "22",
+      "date": "06/22/1997",
+      "departure": "PBI",
+      "arrival": "CMH",
+      "flight_time": "991",
+      "remarks": "JE, HEATHER",
+      "passengers": ["JE", "HEATHER"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "23",
+      "date": "06/23/1997",
+      "departure": "CMH",
+      "arrival": "TEB",
+      "flight_time": "992",
+      "remarks": "JE",
+      "passengers": ["JE"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "27",
+      "date": "06/27/1997",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "993",
+      "remarks": "JE, GM",
+      "passengers": ["JE", "GM"],
+      "crew": "V1"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "GM",
+      "SOME BLONDE",
+      "TEALA",
+      "JENNY",
+      "RUSSIAN GIRLS",
+      "GEORGE SWAROVSKI",
+      "MANDY",
+      "DEDE",
+      "LYNN FORESTER",
+      "HEATHER",
+      "MINDY",
+      "2 JOHNNYS",
+      "David Rodgers"
+    ],
+    "locations": [
+      "EGCW",
+      "LSGG",
+      "LFPB",
+      "CYYT",
+      "TEB",
+      "SAF",
+      "VNY",
+      "DFW",
+      "PBI",
+      "JFK",
+      "MVY",
+      "CMH"
+    ],
+    "aircraft": [
+      "N908JE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": [
+      {
+        "location": "flight_entry_979",
+        "content": "[REDACTED TEXT]",
+        "description": "Text appears to be deliberately obscured or redacted in remarks column"
+      }
+    ]
+  },
+  "metadata": {
+    "page_total": "48",
+    "amount_forward": "7901",
+    "total_to_date": "8993/8933",
+    "document_quality": "good",
+    "legibility": "clear"
+  },
+  "insights": [
+    "Page starts in May 1997 and transitions to June 1997",
+    "European travel through UK (EGCW), Switzerland (LSGG), France (LFPB)",
+    "Transatlantic routing through Canada (CYYT)",
+    "Redacted content on May 9th flight",
+    "Russian girls mentioned as passengers on May 24",
+    "George Swarovski (likely of the crystal company) as passenger",
+    "Lynn Forester (later Lynn Forester de Rothschild) as passenger",
+    "Multiple female passengers with first names only",
+    "Martha's Vineyard (MVY) destination",
+    "Columbus, Ohio (CMH) multiple stops",
+    "Signature of David Rodgers as pilot",
+    "Flight numbers approaching 993"
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "page_number": 40,
+  "file_path": "data/birthday_book_images/page_0040.png",
+  "file_size_mb": 0.27014923095703125,
+  "type": "newspaper_clipping_page4",
+  "content": {
+    "text": "4\n\n[Column 1 - continuation]\ngruesome details. Sea Gate cops were unable to capture the foaming-mad Jankowitz, which resulted in the victim being forced to have 29 injections in the stomach. A Bite Alert has been announced and posted on the Sea Gate Chapel Bulletin Board.\n\nPizza Man Goes Berserk!\nBy Yetta Parnes\nYenta Times\n\nPizza man Luigi Tortoni flew into a fit of rage after employer Arthur Stern (owner of the famed restaurants, 'The Spot' and 'The Riviera Snack Bar') told Luigi that he would start using fake cheese in his pizza. Tortoni exploded and held Stern at knife point until Sgt. Gino 'Gene' Venezia of Sea Gate Police S.W.A.T. team negotiated with the mad Italian. The straight-jacketed Tortoni was promptly shipped back to Italy. Sources report that Luigi Tortoni is now a famous spumoni scoop designer frequently seen on the prestigious Vespa racing circuit.\n\n[Column 2]\nDermatologist Fights Fire\nBy Robert Ardigo\nPizza Face Pages\n\nWorld renowned Pimple Expert Dr. Shin Ho Yep claims the secret to a great complexion is in his secret formula. Hundreds of butter face teens flock to Dr. Yep's office off Ocean Pkwy. in Brooklyn to obtain much needed help. The Dr. applies his 'secret formula' to kid's faces and within seconds their skin feels like a raging inferno. Some patients wait in agony from the fiery concoction, and if they scream loud enough, Yep says 'just 10 more minutes'. If they start to cry, Dr. Yep proclaims 'OK we put out fire now'. He takes a tissue and puts 2 drops of water on it and barely dabs at the blistering skin. Chemical analysis of Yep's 'secret formula' found it to be nothing but a combination of straight hydrochloric and sulfuric acids.\nThe results: a cranberry sauce red appearance immediately after treatment, but after two weeks, all but one kinky haired Sea Gate boy, had a peaches and cream complexion.",
+    "handwritten": false,
+    "typed": true,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "Complete text as transcribed above with all visible content",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Yetta Parnes",
+        "title": "Writer",
+        "context": "Yenta Times",
+        "confidence": "high"
+      },
+      {
+        "name": "Luigi Tortoni",
+        "title": "Pizza maker",
+        "context": "Arthur Stern employee, now spumoni designer",
+        "confidence": "high"
+      },
+      {
+        "name": "Arthur Stern",
+        "title": "Restaurant owner",
+        "context": "Owner of The Spot and The Riviera Snack Bar",
+        "confidence": "high"
+      },
+      {
+        "name": "Sgt. Gino Gene Venezia",
+        "title": "Police Sergeant",
+        "context": "Sea Gate Police SWAT team",
+        "confidence": "high"
+      },
+      {
+        "name": "Robert Ardigo",
+        "title": "Writer",
+        "context": "Pizza Face Pages",
+        "confidence": "high"
+      },
+      {
+        "name": "Dr. Shin Ho Yep",
+        "title": "Dermatologist",
+        "context": "Pimple Expert with office off Ocean Pkwy Brooklyn",
+        "confidence": "high"
+      },
+      {
+        "name": "Jankowitz",
+        "title": null,
+        "context": "From continued story - foaming-mad attacker",
+        "confidence": "medium"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Yenta Times",
+        "type": "Publication"
+      },
+      {
+        "name": "The Spot",
+        "type": "Restaurant",
+        "owner": "Arthur Stern"
+      },
+      {
+        "name": "The Riviera Snack Bar",
+        "type": "Restaurant",
+        "owner": "Arthur Stern"
+      },
+      {
+        "name": "Sea Gate Police SWAT",
+        "type": "Law enforcement"
+      },
+      {
+        "name": "Sea Gate Chapel",
+        "type": "Religious facility"
+      },
+      {
+        "name": "Pizza Face Pages",
+        "type": "Publication"
+      }
+    ],
+    "locations": [
+      "Sea Gate",
+      "Italy",
+      "Ocean Pkwy, Brooklyn",
+      "Sea Gate Chapel"
+    ],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "50th birthday commemoration - satirical newspaper page 4",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "newspaper_clipping_page4"
+  },
+  "insights": [
+    "Page 4 continues mock newspaper satire",
+    "Continuation of Teen Bitten story from page 39",
+    "29 injections in stomach - rabies treatment reference",
+    "Pizza Man story satirizes Italian stereotypes",
+    "Arthur Stern owned The Spot and The Riviera Snack Bar",
+    "Fake cheese controversy as trigger for violence",
+    "Luigi Tortoni becomes spumoni scoop designer - absurd career change",
+    "Vespa racing circuit - Italian cultural reference",
+    "Dr. Shin Ho Yep dermatologist story is dark humor about acne treatment",
+    "Secret formula revealed as hydrochloric and sulfuric acids",
+    "Butter face teens - cruel slang for acne sufferers",
+    "Ocean Pkwy Brooklyn - specific location reference",
+    "Kinky haired Sea Gate boy - only treatment failure",
+    "Cranberry sauce red appearance - vivid description of chemical burn",
+    "Peaches and cream complexion - desired outcome after two weeks"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000040",
+  "processed_at": "2025-09-23 03:06:00",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.137838",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": [],
+    "layout": "Newspaper page 4 with multiple column articles"
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Page 4 of mock newspaper continues format",
+    "Two column layout maintained throughout",
+    "Professional typesetting and formatting",
+    "Continuation of Teen Bitten story from page 39",
+    "Document stamped HOUSE_OVERSIGHT_000040"
+  ],
+  "investigative_leads": [
+    "Arthur Stern restaurants - The Spot and Riviera Snack Bar",
+    "Ocean Pkwy Brooklyn location significance",
+    "Sea Gate Chapel as community center",
+    "Connection between recurring Sea Gate references",
+    "Identity of kinky haired Sea Gate boy"
+  ]
+}

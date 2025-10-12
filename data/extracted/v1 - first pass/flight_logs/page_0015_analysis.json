@@ -1,0 +1,336 @@
+{
+  "page_number": 15,
+  "file_path": "data/flight_logs_images/page-015.png",
+  "type": "aircraft_flight_log",
+  "content": {
+    "text": "DATE 1992 NOV | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARKS | POINTS OF DEPARTURE & ARRIVAL | FROM | TO | MILEAGE | FLT TIME | REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS | AIRCRAFT CATEGORY\n\n3 N908JE N908JE ULM TED 0.5 233 JEFFREY GHISLAINE\n12 '' '' TED OCB 2.5 234 JEFFREY, GHISLAINE\n19 '' '' OCB VPR 5.0 235 JEFFREY\n19 '' '' CMH FGT 3.5 236 JEFFREY GHISLAINE\n16 '' '' PBYT TED 5.0 237 ED TUTTLE GHISLAINE ROBERT\n11 '' '' TED CMH 1.5 238 EP TUTTLE\n18 '' '' CMH TED 3.0 239 JEFFREY GHISLAINE\n26 '' '' TED PGD 5.5 240 JEFFREY GHISLAINE, EMMIE\n22 '' '' PGT CMH 1.0 241 JEFFREY GHISLAINE, EMMIE\n26 '' '' CMH PDG 4.0 242 JEFFREY GHISLAINE\n30 '' '' PDG TED 3.0 243 JEFFREY GHISLAINE, EMMIE ROBERTS\n1 [DEC] '' TED CMH 2.0 244 JEFFREY GHISLAINE\n5 '' '' CMH SDG 4.0 245 JEFFREY GHISLAINE\n13 '' '' SDG 7.0 246 JEFFREY, GHISLAINE\n3 '' '' SDG BRG 6.3 247 JEFFREY GHISLAINE\n5 '' '' BRG TED 4.0 248 JEFFREY GHISLAINE, ROBERTS\n9 '' '' CMH TED 5.0 249 JEFFREY GHISLAINE\n8 '' '' PDG LGG 3.0 250 JEFFREY GHISLAINE\n\nPAGE TOTAL\nAMT. FORWARD: 73.3 + 80.3 = 153.6\nTOTAL TO DATE: 4058 + 473 = 4531\n\nI certify that the statements made by me on this form are true.\n\nPILOT'S SIGNATURE: David Rodgers",
+    "handwritten": true,
+    "typed": false,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "Complete cell-by-cell transcription provided above",
+      "flight_records": [
+        {
+          "date": "11/3/92",
+          "departure": "ULM",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "0.5 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE"
+        },
+        {
+          "date": "11/12/92",
+          "departure": "TED",
+          "arrival": "OCB",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE"
+        },
+        {
+          "date": "11/19/92",
+          "departure": "OCB",
+          "arrival": "VPR",
+          "aircraft": "N908JE",
+          "flight_time": "5.0 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "11/19/92",
+          "departure": "CMH",
+          "arrival": "FGT",
+          "aircraft": "N908JE",
+          "flight_time": "3.5 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE"
+        },
+        {
+          "date": "11/16/92",
+          "departure": "PBYT",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "5.0 hrs",
+          "passengers": ["Ed Tuttle", "Ghislaine", "Robert"],
+          "pilot": "David Rodgers",
+          "notes": "ED TUTTLE GHISLAINE ROBERT"
+        },
+        {
+          "date": "11/11/92",
+          "departure": "TED",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["EP Tuttle"],
+          "pilot": "David Rodgers",
+          "notes": "EP TUTTLE"
+        },
+        {
+          "date": "11/18/92",
+          "departure": "CMH",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "3.0 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE"
+        },
+        {
+          "date": "11/26/92",
+          "departure": "TED",
+          "arrival": "PGD",
+          "aircraft": "N908JE",
+          "flight_time": "5.5 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Emmie"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE, EMMIE"
+        },
+        {
+          "date": "11/22/92",
+          "departure": "PGT",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "1.0 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Emmie"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE, EMMIE"
+        },
+        {
+          "date": "11/26/92",
+          "departure": "CMH",
+          "arrival": "PDG",
+          "aircraft": "N908JE",
+          "flight_time": "4.0 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE"
+        },
+        {
+          "date": "11/30/92",
+          "departure": "PDG",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "3.0 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Emmie Roberts"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE, EMMIE ROBERTS"
+        },
+        {
+          "date": "12/1/92",
+          "departure": "TED",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "2.0 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE"
+        },
+        {
+          "date": "12/5/92",
+          "departure": "CMH",
+          "arrival": "SDG",
+          "aircraft": "N908JE",
+          "flight_time": "4.0 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE"
+        },
+        {
+          "date": "12/13/92",
+          "departure": "SDG",
+          "arrival": "[unclear]",
+          "aircraft": "N908JE",
+          "flight_time": "7.0 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE"
+        },
+        {
+          "date": "12/3/92",
+          "departure": "SDG",
+          "arrival": "BRG",
+          "aircraft": "N908JE",
+          "flight_time": "6.3 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE"
+        },
+        {
+          "date": "12/5/92",
+          "departure": "BRG",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "4.0 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Roberts"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE, ROBERTS"
+        },
+        {
+          "date": "12/9/92",
+          "departure": "CMH",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "5.0 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE"
+        },
+        {
+          "date": "12/8/92",
+          "departure": "PDG",
+          "arrival": "LGG",
+          "aircraft": "N908JE",
+          "flight_time": "3.0 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE"
+        }
+      ],
+      "date_header": "DATE 1992 NOV",
+      "date_range": "November - December 1992",
+      "starting_month": "November",
+      "starting_year": "1992"
+    },
+    "entities": {
+      "people": [
+        {
+          "name": "Jeffrey",
+          "context": "Frequent passenger",
+          "occurrences": 16
+        },
+        {
+          "name": "Ghislaine",
+          "context": "Frequent passenger",
+          "occurrences": 15
+        },
+        {
+          "name": "David Rodgers",
+          "context": "Pilot signature",
+          "occurrences": 1
+        },
+        {
+          "name": "Ed Tuttle",
+          "context": "Passenger",
+          "occurrences": 1
+        },
+        {
+          "name": "Robert",
+          "context": "Passenger",
+          "occurrences": 1
+        },
+        {
+          "name": "EP Tuttle",
+          "context": "Passenger - possibly same as Ed Tuttle",
+          "occurrences": 1
+        },
+        {
+          "name": "Emmie",
+          "context": "Passenger",
+          "occurrences": 3
+        },
+        {
+          "name": "Emmie Roberts",
+          "context": "Passenger - likely Virginia Roberts",
+          "occurrences": 1
+        },
+        {
+          "name": "Roberts",
+          "context": "Passenger - likely Virginia Roberts",
+          "occurrences": 1
+        }
+      ],
+      "locations": [
+        {
+          "code": "ULM",
+          "context": "Airport code"
+        },
+        {
+          "code": "TED",
+          "context": "Airport code - frequent location"
+        },
+        {
+          "code": "OCB",
+          "context": "Airport code"
+        },
+        {
+          "code": "VPR",
+          "context": "Airport code"
+        },
+        {
+          "code": "CMH",
+          "context": "Airport code - Columbus, OH"
+        },
+        {
+          "code": "FGT",
+          "context": "Airport code"
+        },
+        {
+          "code": "PBYT",
+          "context": "Airport code"
+        },
+        {
+          "code": "PGD",
+          "context": "Airport code"
+        },
+        {
+          "code": "PGT",
+          "context": "Airport code"
+        },
+        {
+          "code": "PDG",
+          "context": "Airport code"
+        },
+        {
+          "code": "SDG",
+          "context": "Airport code"
+        },
+        {
+          "code": "BRG",
+          "context": "Airport code"
+        },
+        {
+          "code": "LGG",
+          "context": "Airport code"
+        }
+      ],
+      "aircraft": [
+        {
+          "registration": "N908JE",
+          "context": "Primary aircraft used for all flights"
+        }
+      ]
+    },
+    "visual_elements": {
+      "signatures": [
+        {
+          "signature": "David Rodgers",
+          "context": "Pilot's signature at bottom of page",
+          "deciphered": true
+        }
+      ],
+      "stamps": [],
+      "handwriting_analysis": "Consistent handwriting throughout, appears to be same person filling out all entries",
+      "page_totals": {
+        "mileage": "73.3 + 80.3 = 153.6",
+        "total_to_date": "4058 + 473 = 4531"
+      }
+    },
+    "insights": [
+      "Page spans November into December 1992",
+      "First appearance of 'Ed Tuttle' and 'EP Tuttle' - possibly same person",
+      "'Emmie' appears multiple times, likely a nickname",
+      "'Emmie Roberts' suggests this may be Virginia Roberts using a nickname",
+      "Jeffrey and Ghislaine continue to travel together frequently",
+      "Multiple flights involving Columbus, OH (CMH)",
+      "Some longer international flights (7.0 hours, 6.3 hours)",
+      "Consistent pattern of round-trip flights to various destinations",
+      "December entries mixed with November on same page",
+      "Flight patterns show regular travel between similar airport codes"
+    ]
+  }
+}

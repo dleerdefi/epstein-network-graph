@@ -1,0 +1,305 @@
+{
+  "page_number": 95,
+  "date_header": "JULY-AUG 2002",
+  "time_period": "July 2002 - August 2002",
+  "aircraft": {
+    "registration": "Multiple (B-727-31W N908JE, G-1159B N909JE, C-172SP N479DAM)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "JUL 13",
+      "date": "07/13/2002",
+      "departure": "B-727-31W",
+      "arrival": "N908JE",
+      "flight_time": "120",
+      "remarks": "LFMN - GMTT - JE, GM, SK, AW, KENO, LOPEZ",
+      "passengers": ["JE", "GM", "SK", "AW", "KENO", "LOPEZ"],
+      "crew": "2/1"
+    },
+    {
+      "entry_number": "13",
+      "date": "07/13/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "121",
+      "remarks": "GMTT - GMME - JE, GM, SK, CL, AY",
+      "passengers": ["JE", "GM", "SK", "CL", "AY"],
+      "crew": "7"
+    },
+    {
+      "entry_number": "13",
+      "date": "07/13/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "122",
+      "remarks": "GMME - LPAZ - DALE, JUAN MARTIN, TERESABY SOLLOZO, ROSANNA PERRINI, LOURIN JOHNSON",
+      "passengers": ["DALE", "JUAN MARTIN", "TERESABY SOLLOZO", "ROSANNA PERRINI", "LOURIN JOHNSON"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "13",
+      "date": "07/13/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "123",
+      "remarks": "LPAZ - JFK - REDACTED, ADRIANA ROSS",
+      "passengers": ["REDACTED", "ADRIANA ROSS"],
+      "crew": "5/9"
+    },
+    {
+      "entry_number": "18",
+      "date": "07/18/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "124",
+      "remarks": "JFK - PBI - JG, SHELLEY LEWIS, A FORMOSA",
+      "passengers": ["JG", "SHELLEY LEWIS", "A FORMOSA"],
+      "crew": "2/2"
+    },
+    {
+      "entry_number": "19",
+      "date": "07/19/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "125",
+      "remarks": "PBI - PBI - CINDY J BILOSKI, J ROSS, DAVE, BART",
+      "passengers": ["CINDY J BILOSKI", "J ROSS", "DAVE", "BART"],
+      "crew": "1/0"
+    },
+    {
+      "entry_number": "AUG 4",
+      "date": "08/04/2002",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1576",
+      "remarks": "PBI - MVY - JG, JIE MALE",
+      "passengers": ["JG", "JIE MALE"],
+      "crew": "2/9"
+    },
+    {
+      "entry_number": "4",
+      "date": "08/04/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1580",
+      "remarks": "MVY - BED - JIE MALE",
+      "passengers": ["JIE MALE"],
+      "crew": "8"
+    },
+    {
+      "entry_number": "4",
+      "date": "08/04/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1581",
+      "remarks": "BED - TEB - JIE MALE",
+      "passengers": ["JIE MALE"],
+      "crew": "9"
+    },
+    {
+      "entry_number": "5",
+      "date": "08/05/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1582",
+      "remarks": "TEB - SAF - JG, SK, S YOUNG",
+      "passengers": ["JG", "SK", "S YOUNG"],
+      "crew": "1/1 3/4"
+    },
+    {
+      "entry_number": "6",
+      "date": "08/06/2002",
+      "departure": "C-172SP",
+      "arrival": "N479DAM",
+      "flight_time": "",
+      "remarks": "SAF - AGG - TAKE OFFS OUT",
+      "passengers": [],
+      "crew": "3/3"
+    },
+    {
+      "entry_number": "6",
+      "date": "08/06/2002",
+      "departure": "200G3",
+      "arrival": "N1474MN",
+      "flight_time": "",
+      "remarks": "ZMRQ - AGG",
+      "passengers": [],
+      "crew": ""
+    },
+    {
+      "entry_number": "14",
+      "date": "08/14/2002",
+      "departure": "B-727-311",
+      "arrival": "N908JE",
+      "flight_time": "126",
+      "remarks": "JFK - PBI - C TUCKER FLIGHT TEST, REDACTED",
+      "passengers": ["C TUCKER FLIGHT TEST", "REDACTED"],
+      "crew": "8"
+    },
+    {
+      "entry_number": "16",
+      "date": "08/16/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "127",
+      "remarks": "JFK - PBI - RETROOK GLENN & NICOLE, REDACTED",
+      "passengers": ["RETROOK GLENN", "& NICOLE", "REDACTED"],
+      "crew": "1/1"
+    },
+    {
+      "entry_number": "17",
+      "date": "08/17/2002",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1583",
+      "remarks": "SAF - TEB - JG, SK, J YOUNG, VERRONIQUE, PEN, LESLIE GROFF, DAVID WARK, A YOUNG PERSON",
+      "passengers": ["JG", "SK", "J YOUNG", "VERRONIQUE", "PEN", "LESLIE GROFF", "DAVID WARK", "A YOUNG PERSON"],
+      "crew": "3/1"
+    },
+    {
+      "entry_number": "18",
+      "date": "08/18/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1584",
+      "remarks": "TEB - PBI - N WEXLER, ALAN, TOMMI",
+      "passengers": ["N WEXLER", "ALAN", "TOMMI"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "21",
+      "date": "08/21/2002",
+      "departure": "B-727-31W",
+      "arrival": "N908JE",
+      "flight_time": "1585",
+      "remarks": "PBI - TIST - JG, S KELLEY LEWIS",
+      "passengers": ["JG", "S KELLEY LEWIS"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "25",
+      "date": "08/25/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1586",
+      "remarks": "TIST - JFK - JG, SK",
+      "passengers": ["JG", "SK"],
+      "crew": "1/1 3/6"
+    },
+    {
+      "entry_number": "28",
+      "date": "08/28/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1587",
+      "remarks": "JFK - LFPB - JG, SK, CINDY LOPEZ, J ROMALE",
+      "passengers": ["JG", "SK", "CINDY LOPEZ", "J ROMALE"],
+      "crew": "6/4"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "GM",
+      "SK",
+      "AW",
+      "KENO",
+      "LOPEZ",
+      "CL",
+      "AY",
+      "DALE",
+      "JUAN MARTIN",
+      "TERESABY SOLLOZO",
+      "ROSANNA PERRINI",
+      "LOURIN JOHNSON",
+      "REDACTED",
+      "ADRIANA ROSS",
+      "JG",
+      "SHELLEY LEWIS",
+      "A FORMOSA",
+      "CINDY J BILOSKI",
+      "J ROSS",
+      "DAVE",
+      "BART",
+      "JIE MALE",
+      "S YOUNG",
+      "C TUCKER FLIGHT TEST",
+      "RETROOK GLENN",
+      "& NICOLE",
+      "J YOUNG",
+      "VERRONIQUE",
+      "PEN",
+      "LESLIE GROFF",
+      "DAVID WARK",
+      "A YOUNG PERSON",
+      "N WEXLER",
+      "ALAN",
+      "TOMMI",
+      "S KELLEY LEWIS",
+      "CINDY LOPEZ",
+      "J ROMALE",
+      "David Rodgers"
+    ],
+    "locations": [
+      "LFMN",
+      "GMTT",
+      "GMME",
+      "LPAZ",
+      "JFK",
+      "PBI",
+      "MVY",
+      "BED",
+      "TEB",
+      "SAF",
+      "AGG",
+      "ZMRQ",
+      "TIST",
+      "LFPB"
+    ],
+    "aircraft": [
+      "B-727-31W",
+      "N908JE",
+      "G-1159B",
+      "N909JE",
+      "C-172SP",
+      "N479DAM",
+      "200G3",
+      "N1474MN",
+      "B-727-311"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "5/44/0",
+    "amount_forward": "8740",
+    "total_to_date": "8783",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page transitions from July to August 2002",
+    "JE (Jeffrey Epstein) appears on July 13 Morocco trip",
+    "SK (Sarah Kellen) appears frequently in August",
+    "Morocco operations (GMTT, GMME) on July 13",
+    "Leslie Groff appears on August 17",
+    "Multiple REDACTED entries preserved",
+    "Cindy Lopez appears multiple times",
+    "C Tucker Flight Test noted on August 14",
+    "Mix of domestic and international operations",
+    "European operations to Paris (LFPB) on August 28",
+    "Caribbean operations continue (TIST)",
+    "Flight numbers reach 1587 for G-1159B",
+    "Training flights noted with C-172SP on August 6"
+  ]
+}

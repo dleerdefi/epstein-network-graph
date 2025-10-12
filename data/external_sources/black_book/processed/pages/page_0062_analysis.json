@@ -1,0 +1,1078 @@
+{
+  "page_number": 62,
+  "alphabetical_section": "Mixed",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "062_unknown_unknown",
+      "name": {
+        "full_name": "America \u2013 Mysters of Westwick",
+        "prefix": null,
+        "first_name": "America",
+        "middle_name": "\u2013 Mysters of",
+        "last_name": "Westwick",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 691-4194",
+          "formatting": "212 691-4194"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "634 Hudson Street"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Pork Pies, Pork Sauages"
+    },
+    {
+      "entry_id": "062_unknown_nicolas",
+      "name": {
+        "full_name": "America \u2013 Nicolas",
+        "prefix": null,
+        "first_name": "Nicolas",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 249 9850",
+          "formatting": "001 212 249 9850 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "062_blech_antoine",
+      "name": {
+        "full_name": "America \u2013 Opia",
+        "prefix": null,
+        "first_name": "Antoine",
+        "middle_name": null,
+        "last_name": "Blech",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "917 751 4551",
+          "formatting": "917 751 4551 (NYC mobile)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 688 3939",
+          "formatting": "212 688 3939"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Opia"
+    },
+    {
+      "entry_id": "062_mathew_unknown",
+      "name": {
+        "full_name": "America \u2013 Peninsula Hotel (Mgr)",
+        "prefix": null,
+        "first_name": "",
+        "middle_name": null,
+        "last_name": "Mathew",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Mgr"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "310 551 2888",
+          "formatting": "310 551 2888"
+        },
+        {
+          "type": "unknown",
+          "number": "310 788 2319 (f)",
+          "formatting": "310 788 2319 (f)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "6882 South Santa Monica Blvd"
+          ],
+          "city": "Beverly Hills",
+          "state": null,
+          "postal_code": "CA 90212",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Bartle"
+    },
+    {
+      "entry_id": "062_unknown_unknown",
+      "name": {
+        "full_name": "America \u2013 Peninsuila Hotel",
+        "prefix": null,
+        "first_name": "America",
+        "middle_name": "\u2013 Peninsuila",
+        "last_name": "Hotel",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212-247-2200",
+          "formatting": "212-247-2200"
+        },
+        {
+          "type": "unknown",
+          "number": "212-903-3949",
+          "formatting": "212-903-3949"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "700 Fifth Avenue"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10019",
+          "country": "US",
+          "notes": "Fifth Avenue luxury"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Peninsulla Hotel"
+    },
+    {
+      "entry_id": "062_unknown_unknown",
+      "name": {
+        "full_name": "America \u2013 Pierre Hotel",
+        "prefix": null,
+        "first_name": "America",
+        "middle_name": "\u2013 Pierre",
+        "last_name": "Hotel",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212-838-8000",
+          "formatting": "212-838-8000"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "2 East 61st Street"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Pierre Hotel"
+    },
+    {
+      "entry_id": "062_unknown_unknown",
+      "name": {
+        "full_name": "America \u2013 Plaza",
+        "prefix": null,
+        "first_name": "America",
+        "middle_name": "\u2013",
+        "last_name": "Plaza",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 759 3000",
+          "formatting": "001 212 759 3000 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Plaza"
+    },
+    {
+      "entry_id": "062_unknown_unknown",
+      "name": {
+        "full_name": "America \u2013 Plaza Athenee Hotel",
+        "prefix": null,
+        "first_name": "America",
+        "middle_name": "\u2013 Plaza Athenee",
+        "last_name": "Hotel",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212-734-9100",
+          "formatting": "212-734-9100"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Trust House 40, 37 East 64th Street"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Athenee Hotel"
+    },
+    {
+      "entry_id": "062_unknown_unknown",
+      "name": {
+        "full_name": "America \u2013 Province Restaurant",
+        "prefix": null,
+        "first_name": "America",
+        "middle_name": "\u2013 Province",
+        "last_name": "Restaurant",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "between Modougal & Prince"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Province Restaurant"
+    },
+    {
+      "entry_id": "062_unknown_unknown",
+      "name": {
+        "full_name": "America \u2013 Ritz Carlton",
+        "prefix": null,
+        "first_name": "America",
+        "middle_name": "\u2013 Ritz",
+        "last_name": "Carlton",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 757 1900",
+          "formatting": "001 212 757 1900 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Ritz Carlton"
+    },
+    {
+      "entry_id": "062_unknown_unknown",
+      "name": {
+        "full_name": "America \u2013 Royalton",
+        "prefix": null,
+        "first_name": "America",
+        "middle_name": "\u2013",
+        "last_name": "Royalton",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212-869-4400",
+          "formatting": "212-869-4400"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "44 West 44th St. (between 5th & 6th)"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Royalton"
+    },
+    {
+      "entry_id": "062_unknown_unknown",
+      "name": {
+        "full_name": "America \u2013 Sette Mezzo",
+        "prefix": null,
+        "first_name": "America",
+        "middle_name": "\u2013 Sette",
+        "last_name": "Mezzo",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0101 212 472 0400",
+          "formatting": "0101 212 472 0400"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "989 Lexington"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": null,
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Sette Mezzo"
+    },
+    {
+      "entry_id": "062_unknown_unknown",
+      "name": {
+        "full_name": "America \u2013 Shoes-Repair",
+        "prefix": null,
+        "first_name": "America",
+        "middle_name": "\u2013",
+        "last_name": "Shoes-Repair",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 262 4823",
+          "formatting": "001 212 262 4823 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "15 West 55th Street"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Shoes \u2013 Repair, Shoe Service Plus"
+    },
+    {
+      "entry_id": "062_unknown_unknown",
+      "name": {
+        "full_name": "America \u2013 Shutters on the Beach",
+        "prefix": null,
+        "first_name": "America",
+        "middle_name": "\u2013 Shutters on the",
+        "last_name": "Beach",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "310 458 0030 (t)",
+          "formatting": "310 458 0030 (t)"
+        },
+        {
+          "type": "unknown",
+          "number": "310 458 4589 (f)",
+          "formatting": "310 458 4589 (f)"
+        },
+        {
+          "type": "unknown",
+          "number": "800-334-9000",
+          "formatting": "800-334-9000"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "1 Pico Blvd."
+          ],
+          "city": "Santa Monica",
+          "state": null,
+          "postal_code": "CA 90405",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Shutters on the Beach"
+    },
+    {
+      "entry_id": "062_unknown_unknown",
+      "name": {
+        "full_name": "America \u2013 Sotheby\u2019s",
+        "prefix": null,
+        "first_name": "America",
+        "middle_name": "\u2013",
+        "last_name": "Sotheby\u2019s",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "3011 4352 (JE Acct#)",
+          "formatting": "3011 4352 (JE Acct#)"
+        },
+        {
+          "type": "unknown",
+          "number": "3062 4014 (GM Acct#)",
+          "formatting": "3062 4014 (GM Acct#)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 212 608 7000",
+          "formatting": "001 212 608 7000 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "0207-493 8080",
+          "formatting": "0207-493 8080 (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 212 606 7423 (Sully)",
+          "formatting": "001 212 606 7423 (Sully) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 212 606 7683 (Realestate-Meredith)",
+          "formatting": "001 212 606 7683 (Realestate-Meredith) (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "1334 York Ave"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Sotheby\u2019s"
+    },
+    {
+      "entry_id": "062_unknown_unknown",
+      "name": {
+        "full_name": "America \u2013 Sotheby\u2019s",
+        "prefix": null,
+        "first_name": "America",
+        "middle_name": "\u2013",
+        "last_name": "Sotheby\u2019s",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207 293 5000",
+          "formatting": "0207 293 5000 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "34-35 New Bond Street"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W1A 2AA",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Sotheby\u2019s"
+    },
+    {
+      "entry_id": "062_mcguire_steve",
+      "name": {
+        "full_name": "America \u2013 Sotheby\u2019s",
+        "prefix": null,
+        "first_name": "Steve",
+        "middle_name": null,
+        "last_name": "Mcguire",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 431 2424 (Real Estate)",
+          "formatting": "212 431 2424 (Real Estate)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Sotheby\u2019s"
+    },
+    {
+      "entry_id": "062_unknown_unknown",
+      "name": {
+        "full_name": "America \u2013 St Regis Hotel",
+        "prefix": null,
+        "first_name": "America",
+        "middle_name": "\u2013 St Regis",
+        "last_name": "Hotel",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 753 4500",
+          "formatting": "001 212 753 4500 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "2 East 55th St., betn 5th/Mad"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10022",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "St Regis Hotel"
+    },
+    {
+      "entry_id": "062_unknown_unknown",
+      "name": {
+        "full_name": "America \u2013 Stanhope Hotel",
+        "prefix": null,
+        "first_name": "America",
+        "middle_name": "\u2013 Stanhope",
+        "last_name": "Hotel",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 774 1234",
+          "formatting": "212 774 1234"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Stanhope Hotel"
+    },
+    {
+      "entry_id": "062_unknown_unknown",
+      "name": {
+        "full_name": "America \u2013 Sunset Marquee",
+        "prefix": null,
+        "first_name": "America",
+        "middle_name": "\u2013 Sunset",
+        "last_name": "Marquee",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0101 213 657 1333",
+          "formatting": "0101 213 657 1333"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Sunset Marquee"
+    },
+    {
+      "entry_id": "062_unknown_unknown",
+      "name": {
+        "full_name": "America \u2013 Tao Restaurant",
+        "prefix": null,
+        "first_name": "America",
+        "middle_name": "\u2013 Tao",
+        "last_name": "Restaurant",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 888 2288",
+          "formatting": "001 212 888 2288 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "42 E. 58th Street, bet. Madison/Park"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Tao Restaurant"
+    },
+    {
+      "entry_id": "062_unknown_unknown",
+      "name": {
+        "full_name": "America \u2013 Taylor, The",
+        "prefix": null,
+        "first_name": "America",
+        "middle_name": "\u2013 Taylor,",
+        "last_name": "The",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 535 8940",
+          "formatting": "001 212 535 8940 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "300 East 82nd Street"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Taylor, The"
+    },
+    {
+      "entry_id": "062_unknown_unknown",
+      "name": {
+        "full_name": "America \u2013 The Great American Health Bar",
+        "prefix": null,
+        "first_name": "America",
+        "middle_name": "\u2013 The Great American Health",
+        "last_name": "Bar",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0101 212 355 5177",
+          "formatting": "0101 212 355 5177"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "35 West 57th Street"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": null,
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "The Great American Health Bar"
+    },
+    {
+      "entry_id": "062_unknown_unknown",
+      "name": {
+        "full_name": "America \u2013 The Lowell",
+        "prefix": null,
+        "first_name": "America",
+        "middle_name": "\u2013 The",
+        "last_name": "Lowell",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0101 212 838 1400",
+          "formatting": "0101 212 838 1400"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "The Lowell"
+    },
+    {
+      "entry_id": "062_unknown_unknown",
+      "name": {
+        "full_name": "America \u2013 The Westbury",
+        "prefix": null,
+        "first_name": "America",
+        "middle_name": "\u2013 The",
+        "last_name": "Westbury",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0101 212 535 2000",
+          "formatting": "0101 212 535 2000"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "The Westbury"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 25,
+    "entries_with_emails": 0,
+    "entries_with_addresses": 16,
+    "entries_with_handwritten_notes": 0,
+    "couples": 0,
+    "average_confidence": "high",
+    "notable_figures_count": 0
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "America \u2013 Mysters of Westwick",
+      "America \u2013 Nicolas",
+      "America \u2013 Opia",
+      "America \u2013 Peninsula Hotel (Mgr)",
+      "America \u2013 Peninsuila Hotel",
+      "America \u2013 Pierre Hotel",
+      "America \u2013 Plaza",
+      "America \u2013 Plaza Athenee Hotel",
+      "America \u2013 Province Restaurant",
+      "America \u2013 Ritz Carlton",
+      "America \u2013 Royalton",
+      "America \u2013 Sette Mezzo",
+      "America \u2013 Shoes-Repair",
+      "America \u2013 Shutters on the Beach",
+      "America \u2013 Sotheby\u2019s",
+      "America \u2013 Sotheby\u2019s",
+      "America \u2013 Sotheby\u2019s",
+      "America \u2013 St Regis Hotel",
+      "America \u2013 Stanhope Hotel",
+      "America \u2013 Sunset Marquee",
+      "America \u2013 Tao Restaurant",
+      "America \u2013 Taylor, The",
+      "America \u2013 The Great American Health Bar",
+      "America \u2013 The Lowell",
+      "America \u2013 The Westbury"
+    ],
+    "organizations": [
+      "Province Restaurant"
+    ],
+    "locations": {
+      "international": [
+        "UK"
+      ],
+      "us_cities": [
+        "Santa Monica",
+        "New York",
+        "London",
+        "Beverly Hills"
+      ],
+      "elite_addresses": [
+        "700 Fifth Avenue"
+      ]
+    }
+  },
+  "insights": [
+    "Geographic cluster: New York (8 entries)"
+  ]
+}

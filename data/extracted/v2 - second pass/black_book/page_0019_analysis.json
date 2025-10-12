@@ -1,0 +1,893 @@
+{
+  "page_number": 19,
+  "alphabetical_section": "F",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "019_feldman_andrew",
+      "name": {
+        "full_name": "Feldman, Andrew",
+        "first_name": "Andrew",
+        "last_name": "Feldman"
+      },
+      "phones": [
+        {
+          "number": "001 212 758 1629 (h)",
+          "type": "home",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "001 212 888 1629 (h2)",
+          "type": "home",
+          "country_code": "+1",
+          "area_code": "212"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "019_felix_helena",
+      "name": {
+        "full_name": "Felix, Helena",
+        "first_name": "Helena",
+        "last_name": "Felix"
+      },
+      "phones": [
+        {
+          "number": "13 Mellitus Way",
+          "type": "unknown",
+          "notes": "Address"
+        },
+        {
+          "number": "Hampstead Garden",
+          "type": "unknown",
+          "notes": "Area"
+        },
+        {
+          "number": "London N2",
+          "type": "unknown",
+          "notes": "Location"
+        },
+        {
+          "number": "0208-458 0022 (h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "208"
+        },
+        {
+          "number": "0208-444 0022 (w)",
+          "type": "work",
+          "country_code": "+44",
+          "area_code": "208"
+        },
+        {
+          "number": "0208-313 1000 (m)",
+          "type": "mobile",
+          "country_code": "+44",
+          "area_code": "208"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "13 Mellitus Way, Hampstead Garden, London N2",
+          "street": "13 Mellitus Way",
+          "area": "Hampstead Garden",
+          "city": "London",
+          "postal_code": "N2",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "019_fell_david_anne",
+      "name": {
+        "full_name": "Fell, David & Anne",
+        "first_name": "David",
+        "last_name": "Fell",
+        "spouse_name": "Anne",
+        "is_couple": true
+      },
+      "phones": [
+        {
+          "number": "001 212 744 5990 (h)",
+          "type": "home",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "001 212 744 1993 (h)",
+          "type": "home",
+          "country_code": "+1",
+          "area_code": "212"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "019_ferragamo_leonardo_beatrice",
+      "name": {
+        "full_name": "Ferragamo, Leonardo & Beatrice",
+        "first_name": "Leonardo",
+        "last_name": "Ferragamo",
+        "spouse_name": "Beatrice",
+        "is_couple": true
+      },
+      "phones": [
+        {
+          "number": "212-753-4000",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "Ferragamo-Fairfax.com USA",
+          "type": "unknown",
+          "notes": "Email or website"
+        },
+        {
+          "number": "001 312 874 3821 (h)",
+          "type": "home",
+          "country_code": "+1",
+          "area_code": "312"
+        },
+        {
+          "number": "00 39 02 76 00 42 11 Milan (h)",
+          "type": "home",
+          "country_code": "+39",
+          "area_code": "02",
+          "notes": "Milan home"
+        },
+        {
+          "number": "00 39 55 68 66 44 Florencei@",
+          "type": "unknown",
+          "country_code": "+39",
+          "area_code": "55",
+          "notes": "Florence"
+        },
+        {
+          "number": "00 39 02 76 39 04 68 Milan Off",
+          "type": "office",
+          "country_code": "+39",
+          "area_code": "02",
+          "notes": "Milan office"
+        },
+        {
+          "number": "00 39 55 336 04 56 Lunedii",
+          "type": "unknown",
+          "country_code": "+39",
+          "area_code": "55"
+        },
+        {
+          "number": "001 416 925 2444 Toronto Gift",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "416",
+          "notes": "Toronto"
+        },
+        {
+          "number": "001 212 758 9087 NY Gift",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "212",
+          "notes": "NY Gift"
+        },
+        {
+          "number": "001 312 666 0111 Office/gift",
+          "type": "office",
+          "country_code": "+1",
+          "area_code": "312",
+          "notes": "Chicago"
+        },
+        {
+          "number": "212 308 6547 NY Gift",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "001 561 8377 100 (p)",
+          "type": "mobile",
+          "country_code": "+1",
+          "area_code": "561"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Ferragamo fashion family"
+    },
+    {
+      "entry_id": "019_ferranti_hugo",
+      "name": {
+        "full_name": "Ferranti, Hugo",
+        "first_name": "Hugo",
+        "last_name": "Ferranti"
+      },
+      "phones": [
+        {
+          "number": "56 Ruscombe Ave",
+          "type": "unknown",
+          "notes": "Address"
+        },
+        {
+          "number": "Notting Hill",
+          "type": "unknown",
+          "notes": "Area"
+        },
+        {
+          "number": "London W2",
+          "type": "unknown",
+          "notes": "Location"
+        },
+        {
+          "number": "0207 371 2447 (w)",
+          "type": "work",
+          "country_code": "+44",
+          "area_code": "207"
+        },
+        {
+          "number": "0207 371 2447 (w)",
+          "type": "work",
+          "country_code": "+44",
+          "area_code": "207"
+        },
+        {
+          "number": "0208 960 5432 (m)",
+          "type": "mobile",
+          "country_code": "+44",
+          "area_code": "208"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "56 Ruscombe Ave, Notting Hill, London W2",
+          "street": "56 Ruscombe Ave",
+          "area": "Notting Hill",
+          "city": "London",
+          "postal_code": "W2",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "019_ferry_brian",
+      "name": {
+        "full_name": "Ferry, Brian",
+        "first_name": "Brian",
+        "last_name": "Ferry"
+      },
+      "phones": [
+        {
+          "number": "Studio One",
+          "type": "unknown",
+          "notes": "Property name"
+        },
+        {
+          "number": "001 917 570 1326",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "917"
+        },
+        {
+          "number": "bferri@ferragamousa.com",
+          "type": "unknown",
+          "notes": "Email in phone field"
+        }
+      ],
+      "emails": [
+        {
+          "address": "bferri@ferragamousa.com",
+          "type": "business"
+        }
+      ],
+      "addresses": [
+        {
+          "full_address": "Studio One Avonmore Place London, W14 8RY"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Musician"
+    },
+    {
+      "entry_id": "019_fiennes_martin",
+      "name": {
+        "full_name": "Feiennes, Martin",
+        "first_name": "Martin",
+        "last_name": "Feiennes"
+      },
+      "phones": [
+        {
+          "number": "Broadway",
+          "type": "unknown",
+          "notes": "Location"
+        },
+        {
+          "number": "Saratoga",
+          "type": "unknown",
+          "notes": "Location"
+        },
+        {
+          "number": "NY 10280",
+          "type": "unknown",
+          "notes": "ZIP code"
+        },
+        {
+          "number": "USA",
+          "type": "unknown",
+          "notes": "Country"
+        },
+        {
+          "number": "0032 NY (w)",
+          "type": "work",
+          "notes": "NY work"
+        },
+        {
+          "number": "0346 717213",
+          "type": "unknown"
+        },
+        {
+          "number": "Email: atr@ferragamouk.uk",
+          "type": "unknown",
+          "notes": "Email in phone field"
+        },
+        {
+          "number": "0207 626 5430",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "207"
+        },
+        {
+          "number": "0039 055 3365",
+          "type": "unknown",
+          "country_code": "+39",
+          "area_code": "55"
+        },
+        {
+          "number": "0039—372 0034(h)",
+          "type": "home",
+          "country_code": "+39"
+        }
+      ],
+      "emails": [
+        {
+          "address": "atr@ferragamouk.uk",
+          "type": "business"
+        }
+      ],
+      "addresses": [
+        {
+          "full_address": "Broadway, Saratoga, NY 10280",
+          "city": "Saratoga",
+          "state": "NY",
+          "zip": "10280"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Ferragamo family"
+    },
+    {
+      "entry_id": "019_figg_christopher_charlotte",
+      "name": {
+        "full_name": "Figg, Christopher & Charlotte",
+        "first_name": "Christopher",
+        "last_name": "Figg",
+        "spouse_name": "Charlotte",
+        "is_couple": true
+      },
+      "phones": [
+        {
+          "number": "01353 892120(h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "1353"
+        },
+        {
+          "number": "01353 892120(h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "1353"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "019_fiennes_martin",
+      "name": {
+        "full_name": "Fiennes, Martin",
+        "first_name": "Martin",
+        "last_name": "Fiennes"
+      },
+      "phones": [
+        {
+          "number": "44 Cadogan Road",
+          "type": "unknown",
+          "notes": "Address"
+        },
+        {
+          "number": "London SW1",
+          "type": "unknown",
+          "notes": "Location"
+        },
+        {
+          "number": "0207-352 7504(h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "207"
+        },
+        {
+          "number": "0208-952 5436(p)",
+          "type": "mobile",
+          "country_code": "+44",
+          "area_code": "208"
+        },
+        {
+          "number": "0207-580 1043(k)",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "207"
+        },
+        {
+          "number": "001 917 207 2100(p)",
+          "type": "mobile",
+          "country_code": "+1",
+          "area_code": "917"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "44 Cadogan Road, London SW1",
+          "street": "44 Cadogan Road",
+          "city": "London",
+          "postal_code": "SW1",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "019_finch_charles",
+      "name": {
+        "full_name": "Finch, Charles",
+        "first_name": "Charles",
+        "last_name": "Finch"
+      },
+      "phones": [
+        {
+          "number": "0207 935 8120",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "207"
+        },
+        {
+          "number": "0207 935 8121 Brendepolden",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "207",
+          "notes": "Brendepolden"
+        },
+        {
+          "number": "0207- 724 5700",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "207"
+        },
+        {
+          "number": "0207 734 0830",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "207"
+        },
+        {
+          "number": "001 212 207 2100",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "212"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "019_fiennes_ralph",
+      "name": {
+        "full_name": "Fiennes, Ralph",
+        "first_name": "Ralph",
+        "last_name": "Fiennes"
+      },
+      "phones": [
+        {
+          "number": "001 917 207 6559(p)",
+          "type": "mobile",
+          "country_code": "+1",
+          "area_code": "917"
+        },
+        {
+          "number": "001 212 206 0223(w)",
+          "type": "work",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "001 212 206 0203 sarah@publictheatre.org",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "212",
+          "notes": "Sarah email"
+        },
+        {
+          "number": "020 8906 0555 Gatt(w)",
+          "type": "work",
+          "country_code": "+44",
+          "area_code": "20",
+          "notes": "Gatt"
+        },
+        {
+          "number": "020 7209 3033 h",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "20"
+        }
+      ],
+      "emails": [
+        {
+          "address": "sarah@publictheatre.org",
+          "type": "business"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Actor"
+    },
+    {
+      "entry_id": "019_finkelstein_howard",
+      "name": {
+        "full_name": "Finkelstein, Howard",
+        "first_name": "Howard",
+        "last_name": "Finkelstein"
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "minimal",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "019_fiennes_suzzana",
+      "name": {
+        "full_name": "Fiennes, Suzzana",
+        "first_name": "Suzzana",
+        "last_name": "Fiennes"
+      },
+      "phones": [
+        {
+          "number": "The Bull House",
+          "type": "unknown",
+          "notes": "Property name"
+        },
+        {
+          "number": "Jubriees Viaup 400 Alfred and",
+          "type": "unknown",
+          "notes": "Address fragment"
+        },
+        {
+          "number": "Heathfield, Sussex",
+          "type": "unknown",
+          "notes": "Location"
+        },
+        {
+          "number": "001 44 162 384 4990",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "162"
+        },
+        {
+          "number": "001 914 764 4134(h)",
+          "type": "home",
+          "country_code": "+1",
+          "area_code": "914"
+        },
+        {
+          "number": "001 914 232 1247 (h/f) (s)",
+          "type": "home_fax",
+          "country_code": "+1",
+          "area_code": "914"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "The Bull House, Heathfield, Sussex",
+          "property_name": "The Bull House",
+          "city": "Heathfield",
+          "county": "Sussex",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "019_fifer_chuck",
+      "name": {
+        "full_name": "Fifer, Chuck",
+        "first_name": "Chuck",
+        "last_name": "Fifer"
+      },
+      "phones": [
+        {
+          "number": "001 212 448 8777 (h)",
+          "type": "home",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "001 212 484 1777 (c)",
+          "type": "mobile",
+          "country_code": "+1",
+          "area_code": "212"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "019_firyal_princess",
+      "name": {
+        "full_name": "Firyal Princess",
+        "title": "Princess",
+        "first_name": "Firyal",
+        "last_name": ""
+      },
+      "phones": [
+        {
+          "number": "1 East 66th St. New York, New York",
+          "type": "unknown",
+          "notes": "Address"
+        },
+        {
+          "number": "N.Y.N.Y. 10",
+          "type": "unknown",
+          "notes": "Location"
+        },
+        {
+          "number": "001 212 878 2076",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "212 678 2079",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "212 878 8084 x3",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": "3"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "1 Park Ave, N.Y.N.Y. 10",
+          "street": "1 Park Ave",
+          "city": "New York",
+          "state": "NY"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Royalty"
+    },
+    {
+      "entry_id": "019_fisher_dan",
+      "name": {
+        "full_name": "Fisher, Dan",
+        "first_name": "Dan",
+        "last_name": "Fisher"
+      },
+      "phones": [
+        {
+          "number": "4 Rue de",
+          "type": "unknown",
+          "notes": "Address fragment"
+        },
+        {
+          "number": "001 212 421 2992 (h)",
+          "type": "home",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "001 212 421 2997 (c)",
+          "type": "mobile",
+          "country_code": "+1",
+          "area_code": "212"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 16,
+    "legibility": "excellent",
+    "notable_features": [
+      "Ferragamo fashion family multiple entries",
+      "Brian Ferry (musician)",
+      "Ralph Fiennes (actor)",
+      "Princess Fryal",
+      "Multiple international contacts",
+      "Mix of fashion, entertainment, and royalty"
+    ],
+    "extraction_timestamp": "2025-01-29T17:30:00",
+    "extractor_version": "2.0"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Andrew Feldman",
+      "Helena Felix",
+      "David Fell",
+      "Anne Fell",
+      "Leonardo Ferragamo",
+      "Beatrice Ferragamo",
+      "Hugo Ferranti",
+      "Brian Ferry",
+      "Martin Feiennes",
+      "Christopher Figg",
+      "Charlotte Figg",
+      "Martin Fiennes",
+      "Charles Finch",
+      "Ralph Fiennes",
+      "Howard Finkelstein",
+      "Suzzana Fiennes",
+      "Chuck Fifer",
+      "Princess Firyal",
+      "Dan Fisher"
+    ],
+    "organizations": [
+      "Ferragamo",
+      "Public Theatre"
+    ],
+    "locations": {
+      "cities": [
+        "London",
+        "New York",
+        "Milan",
+        "Florence",
+        "Chicago",
+        "Toronto",
+        "Saratoga",
+        "Heathfield"
+      ],
+      "states": [
+        "NY"
+      ],
+      "countries": [
+        "UK",
+        "USA",
+        "Italy",
+        "Canada"
+      ]
+    }
+  },
+  "insights": [
+    "Strong presence of the Ferragamo fashion family with multiple entries and locations",
+    "Brian Ferry the musician appears with Ferragamo business email suggesting connection",
+    "Ralph Fiennes the actor with both UK and US contact numbers",
+    "Princess Fryal listed with Park Avenue NYC address",
+    "Multiple entries show fashion industry connections (Ferragamo, Ferry with Ferragamo email)",
+    "Mix of entertainment figures (Brian Ferry, Ralph Fiennes) with fashion and royalty",
+    "Several properties with distinctive names like 'The Bull House' and 'Sten Carr'",
+    "International scope with contacts in Milan, Florence, Chicago, Toronto",
+    "Public Theatre reference in Ralph Fiennes entry suggesting theater connections",
+    "Hampstead Garden and Notting Hill addresses indicating upscale London residences"
+  ]
+}

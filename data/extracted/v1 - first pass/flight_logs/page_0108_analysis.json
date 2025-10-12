@@ -1,0 +1,286 @@
+{
+  "page_number": 108,
+  "date_header": "MAR-APR 2004",
+  "time_period": "March 2004 - April 2004",
+  "aircraft": {
+    "registration": "Multiple (G-1159B N909JE, B-727-200 SEMULJR, B-727-31B N908JE)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "MAR 3",
+      "date": "03/03/2004",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1697",
+      "remarks": "PBI - TEB - JE, [REDACTED], TD",
+      "passengers": ["JE", "REDACTED", "TD"],
+      "crew": "Waldow Galasci / Holly Gray 2/5"
+    },
+    {
+      "entry_number": "8",
+      "date": "03/08/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1698",
+      "remarks": "TEB - BED - JE, TD",
+      "passengers": ["JE", "TD"],
+      "crew": "Ashwell Ray 0"
+    },
+    {
+      "entry_number": "9",
+      "date": "03/09/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1699",
+      "remarks": "TEB - TEB - JE, TD",
+      "passengers": ["JE", "TD"],
+      "crew": "Ashwell 1/1"
+    },
+    {
+      "entry_number": "11",
+      "date": "03/11/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1704",
+      "remarks": "TEB - PBI - JE, JP, SC, [REDACTED]",
+      "passengers": ["JE", "JP", "SC", "REDACTED"],
+      "crew": "GD 2/6"
+    },
+    {
+      "entry_number": "13",
+      "date": "03/13/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "709",
+      "remarks": "PBI - TIST - JE, AD, SC, VG, [REDACTED]",
+      "passengers": ["JE", "AD", "SC", "VG", "REDACTED"],
+      "crew": "Steve 1/1 2/3"
+    },
+    {
+      "entry_number": "17",
+      "date": "03/17/2004",
+      "departure": "B-727-200",
+      "arrival": "SEMULJR",
+      "flight_time": "",
+      "remarks": "MRD - MRD - Larry Sappelli",
+      "passengers": ["Larry Sappelli"],
+      "crew": "George 2/0"
+    },
+    {
+      "entry_number": "17",
+      "date": "03/17/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "MRD - MRD - Hendrik Larry Marcinski",
+      "passengers": ["Hendrik Larry Marcinski"],
+      "crew": "GR 2/2"
+    },
+    {
+      "entry_number": "17",
+      "date": "03/17/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "MRD - MRD - Ray Beitzman",
+      "passengers": ["Ray Beitzman"],
+      "crew": "GR 2/0"
+    },
+    {
+      "entry_number": "18",
+      "date": "03/18/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "MRD - MRD - Ray Beitzman",
+      "passengers": ["Ray Beitzman"],
+      "crew": "GR 2/0"
+    },
+    {
+      "entry_number": "18",
+      "date": "03/18/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "MRD - MRD - JP, Jersey Susie Bins",
+      "passengers": ["JP", "Jersey Susie Bins"],
+      "crew": "GR 5/0"
+    },
+    {
+      "entry_number": "19",
+      "date": "03/19/2004",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1702",
+      "remarks": "TIST - PBI - JE, AD, [REDACTED]",
+      "passengers": ["JE", "AD", "REDACTED"],
+      "crew": "LV 2/6"
+    },
+    {
+      "entry_number": "31",
+      "date": "03/31/2004",
+      "departure": "B-727-31B",
+      "arrival": "N908JE",
+      "flight_time": "256",
+      "remarks": "PBI - JFK - JE, [REDACTED], TD",
+      "passengers": ["JE", "REDACTED", "TD"],
+      "crew": "LV 1/1 2/3"
+    },
+    {
+      "entry_number": "APR 2",
+      "date": "04/02/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "257",
+      "remarks": "JFK - PBI - JE, AL, [REDACTED], TD",
+      "passengers": ["JE", "AL", "REDACTED", "TD"],
+      "crew": "LV 2/5"
+    },
+    {
+      "entry_number": "6",
+      "date": "04/06/2004",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1706",
+      "remarks": "PBI - TIST - JE, BT, [REDACTED], SK, TD",
+      "passengers": ["JE", "BT", "REDACTED", "SK", "TD"],
+      "crew": "LV 2/3"
+    },
+    {
+      "entry_number": "11",
+      "date": "04/11/2004",
+      "departure": "B-727-31B",
+      "arrival": "N908JE",
+      "flight_time": "258",
+      "remarks": "PBI - JFK - JE, BT, Dershowitz, [REDACTED]",
+      "passengers": ["JE", "BT", "Dershowitz", "REDACTED"],
+      "crew": "Larry Visoski Gino Cali 1/1 2/4"
+    },
+    {
+      "entry_number": "15",
+      "date": "04/15/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "259",
+      "remarks": "JFK - BED - JE, Dr. Cindy Summers",
+      "passengers": ["JE", "Dr. Cindy Summers"],
+      "crew": "GK 1"
+    },
+    {
+      "entry_number": "16",
+      "date": "04/16/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "260",
+      "remarks": "BED - PBI - JE, SK",
+      "passengers": ["JE", "SK"],
+      "crew": "LV 1/1 0 2/6"
+    },
+    {
+      "entry_number": "19",
+      "date": "04/19/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "261",
+      "remarks": "PBI - JFK - JE, SK, Jennifer",
+      "passengers": ["JE", "SK", "Jennifer"],
+      "crew": "LV 2/3"
+    },
+    {
+      "entry_number": "22",
+      "date": "04/22/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "262",
+      "remarks": "JFK - PBI - JE, BT, Mary Gerstein, [REDACTED]",
+      "passengers": ["JE", "BT", "Mary Gerstein", "REDACTED"],
+      "crew": "LV Calcia Lam 2/5"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "REDACTED",
+      "TD",
+      "Waldow Galasci",
+      "Holly Gray",
+      "Ashwell Ray",
+      "Ashwell",
+      "JP",
+      "SC",
+      "GD",
+      "AD",
+      "VG",
+      "Steve",
+      "Larry Sappelli",
+      "George",
+      "Hendrik Larry Marcinski",
+      "GR",
+      "Ray Beitzman",
+      "Jersey Susie Bins",
+      "LV",
+      "AL",
+      "BT",
+      "SK",
+      "Dershowitz",
+      "Larry Visoski",
+      "Gino Cali",
+      "Dr. Cindy Summers",
+      "GK",
+      "Jennifer",
+      "Mary Gerstein",
+      "Calcia Lam",
+      "David Rodgers"
+    ],
+    "locations": [
+      "PBI",
+      "TEB",
+      "BED",
+      "TIST",
+      "MRD",
+      "JFK"
+    ],
+    "aircraft": [
+      "G-1159B",
+      "N909JE",
+      "B-727-200",
+      "SEMULJR",
+      "B-727-31B",
+      "N908JE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "Total to Date: 9438.8 - 9471.1",
+    "amount_forward": "9388.8",
+    "total_to_date": "9471.1",
+    "document_quality": "good",
+    "legibility": "mostly clear with some redactions"
+  },
+  "insights": [
+    "Page covers March-April 2004",
+    "March 2004 entries: 3, 8, 9, 11, 13, 17, 17, 17, 18, 18, 19, 31",
+    "April 2004 entries: 2, 6, 11, 15, 16, 19, 22",
+    "JE (Jeffrey Epstein) appears in nearly every flight",
+    "SK (Sarah Kellen) appears in April entries",
+    "Multiple REDACTED entries throughout",
+    "Dershowitz appears on April 11",
+    "Dr. Cindy Summers appears on April 15",
+    "Multiple MRD (Maryland) training flights on March 17-18",
+    "Caribbean operations continue (TIST)",
+    "Larry Visoski (LV) appears frequently as crew",
+    "Mary Gerstein appears on April 22",
+    "Mix of domestic and Caribbean operations"
+  ]
+}

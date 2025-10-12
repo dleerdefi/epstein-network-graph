@@ -1,0 +1,818 @@
+{
+  "page_number": 13,
+  "alphabetical_section": "C-D",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "013_crabbe_sophie",
+      "name": {
+        "full_name": "Crabbe, Sophie",
+        "first_name": "Sophie",
+        "last_name": "Crabbe"
+      },
+      "phones": [
+        {
+          "number": "0171 402 1016",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "171"
+        },
+        {
+          "number": "0171 224 3584",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "171"
+        },
+        {
+          "number": "017 722 2969",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "17"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "234 Seymour Court, 223 Seymour Pl Street, London W1H",
+          "city": "London",
+          "postal_code": "W1H",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "013_cudro_alaistar",
+      "name": {
+        "full_name": "Cudro, Alaistar",
+        "first_name": "Alaistar",
+        "last_name": "Cudro"
+      },
+      "phones": [
+        {
+          "number": "00 3171 301 823(h)",
+          "type": "home",
+          "country_code": "+31",
+          "area_code": "71"
+        },
+        {
+          "number": "00 3171 362 4343 (w)",
+          "type": "work",
+          "country_code": "+31",
+          "area_code": "71"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Netherlands phone numbers"
+    },
+    {
+      "entry_id": "013_curry_boykin",
+      "name": {
+        "full_name": "Curry, R. Boykin",
+        "first_name": "R. Boykin",
+        "last_name": "Curry",
+        "notes": "Eagle Capital Management"
+      },
+      "phones": [
+        {
+          "number": "212 508 3400",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "212 508 3410",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "646 443 8740",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "646"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "100 Central Park South, New York, NY",
+          "street": "100 Central Park South",
+          "city": "New York",
+          "state": "NY"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "013_cutter_amanda",
+      "name": {
+        "full_name": "Cutter, Amanda",
+        "first_name": "Amanda",
+        "last_name": "Cutter"
+      },
+      "phones": [
+        {
+          "number": "212 724 8776",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "212 535 5200(w)",
+          "type": "work",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "917 544 3773 (m)",
+          "type": "mobile",
+          "country_code": "+1",
+          "area_code": "917"
+        }
+      ],
+      "emails": [
+        {
+          "address": "BrooksACC@aol.com",
+          "type": "personal"
+        }
+      ],
+      "addresses": [
+        {
+          "full_address": "222 Central Park South, 147 Waverly Street"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "complete",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "013_dabo_henri_tatiana",
+      "name": {
+        "full_name": "d'Abo, Henri & Tatiana",
+        "first_name": "Henri",
+        "last_name": "d'Abo",
+        "spouse_name": "Tatiana",
+        "is_couple": true
+      },
+      "phones": [
+        {
+          "number": "00 33 93 883809(h)",
+          "type": "home",
+          "country_code": "+33",
+          "area_code": "93"
+        },
+        {
+          "number": "00 33 93 883809[f w]",
+          "type": "fax_work",
+          "country_code": "+33",
+          "area_code": "93"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "West Wyclong Park"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "French Riviera area code"
+    },
+    {
+      "entry_id": "013_dart_westling",
+      "name": {
+        "full_name": "Dart Westling",
+        "first_name": "Westling",
+        "last_name": "Dart"
+      },
+      "phones": [
+        {
+          "number": "0207-382 1708",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "207"
+        },
+        {
+          "number": "0207-382 7718",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "207"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "minimal",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "013_dabo_jennifer",
+      "name": {
+        "full_name": "Mrs Jennifer D'Abo",
+        "first_name": "Jennifer",
+        "last_name": "D'Abo"
+      },
+      "phones": [
+        {
+          "number": "13 Chelsea St",
+          "type": "unknown",
+          "notes": "Appears to be address mixed with phone field"
+        },
+        {
+          "number": "0207-352 2006(h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "207"
+        },
+        {
+          "number": "0207-352 4154",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "207"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "13 Chelsea St, London SW3",
+          "street": "13 Chelsea St",
+          "city": "London",
+          "postal_code": "SW3",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Address mixed in phone field"
+    },
+    {
+      "entry_id": "013_dalessie_carman",
+      "name": {
+        "full_name": "D'Alessie, Carman",
+        "first_name": "Carman",
+        "last_name": "D'Alessie"
+      },
+      "phones": [
+        {
+          "number": "001 212 245 6014",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "212"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "minimal",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "013_darenberg_prince_pierre",
+      "name": {
+        "full_name": "d'Arenberg, Prince Pierre",
+        "title": "Prince",
+        "first_name": "Pierre",
+        "last_name": "d'Arenberg"
+      },
+      "phones": [
+        {
+          "number": "00 33 1 47 27 35 01(h)",
+          "type": "home",
+          "country_code": "+33",
+          "area_code": "1"
+        },
+        {
+          "number": "0033 1 47 27 34 59(fax)",
+          "type": "fax",
+          "country_code": "+33",
+          "area_code": "1"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "10rue Anatole de la Forge, 10 Bd Barbes",
+          "city": "Paris",
+          "country": "France"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "European nobility"
+    },
+    {
+      "entry_id": "013_dabbagh_amr",
+      "name": {
+        "full_name": "Dabbagh, Amr A.",
+        "first_name": "Amr A.",
+        "last_name": "Dabbagh"
+      },
+      "phones": [
+        {
+          "number": "212 605 2066 (h)",
+          "type": "home",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "212 605 0435 (h/f)",
+          "type": "home_fax",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "212 559 7389 direct.com",
+          "type": "direct",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "001 1 718 625 5838(h)",
+          "type": "home",
+          "country_code": "+1",
+          "area_code": "718"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "220 Central Park South, 11th Floor"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "013_dahl_sophie",
+      "name": {
+        "full_name": "Dahl, Sophie",
+        "first_name": "Sophie",
+        "last_name": "Dahl"
+      },
+      "phones": [
+        {
+          "number": "81 848 244 773(fgs)",
+          "type": "unknown",
+          "notes": "International prefix unclear"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "medium",
+        "completeness": "minimal",
+        "legibility": "good"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "013_darrin_drake",
+      "name": {
+        "full_name": "Darrin, Drake",
+        "first_name": "Drake",
+        "last_name": "Darrin"
+      },
+      "phones": [
+        {
+          "number": "001 212 249 0001 (h)",
+          "type": "home",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "001 212 893 0553 (w)",
+          "type": "work",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "001 212 249 0001 (fax)",
+          "type": "fax",
+          "country_code": "+1",
+          "area_code": "212"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "1 West 81st Street, New York"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "013_dartmouth_william",
+      "name": {
+        "full_name": "Dartmouth William",
+        "first_name": "William",
+        "last_name": "Dartmouth",
+        "title": "9th Earl"
+      },
+      "phones": [
+        {
+          "number": "0207-583 4241",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "207"
+        },
+        {
+          "number": "0207-583 4740",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "207"
+        }
+      ],
+      "emails": [
+        {
+          "address": "william@williamdartmouth.com",
+          "type": "personal"
+        }
+      ],
+      "addresses": [
+        {
+          "full_address": "12 Westbourne Grove"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "British nobility - 9th Earl"
+    },
+    {
+      "entry_id": "013_davies_david_linda",
+      "name": {
+        "full_name": "Davies, David & Linda",
+        "first_name": "David",
+        "last_name": "Davies",
+        "spouse_name": "Linda",
+        "is_couple": true
+      },
+      "phones": [
+        {
+          "number": "0207-730 3313",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "207"
+        },
+        {
+          "number": "0207-730 0419 (h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "207"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "Cadogan Square, London SW1X"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "013_davis_michael",
+      "name": {
+        "full_name": "Davis Michael",
+        "first_name": "Michael",
+        "last_name": "Davis"
+      },
+      "phones": [
+        {
+          "number": "001 510 891 2002",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "510"
+        },
+        {
+          "number": "001 212 996 9300",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "212"
+        }
+      ],
+      "emails": [
+        {
+          "address": "davism@rockfound.com",
+          "type": "business"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Rockefeller Foundation connection"
+    },
+    {
+      "entry_id": "013_day_nick_heather",
+      "name": {
+        "full_name": "Day, Nick and Heather",
+        "first_name": "Nick",
+        "last_name": "Day",
+        "spouse_name": "Heather",
+        "is_couple": true
+      },
+      "phones": [
+        {
+          "number": "32 West Eaton Place",
+          "type": "unknown",
+          "notes": "Address in phone field"
+        },
+        {
+          "number": "212 472 3601",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "212"
+        },
+        {
+          "number": "07831 281357 cell",
+          "type": "mobile",
+          "country_code": "+44",
+          "area_code": "7831"
+        },
+        {
+          "number": "20 8871 6148 (h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "20"
+        },
+        {
+          "number": "20 8748 9601 (w)",
+          "type": "work",
+          "country_code": "+44",
+          "area_code": "20"
+        },
+        {
+          "number": "20 8748 5952 (fax)",
+          "type": "fax",
+          "country_code": "+44",
+          "area_code": "20"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "32 West Eaton Place"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Mix of US and UK numbers"
+    },
+    {
+      "entry_id": "013_deandrade_marcelo",
+      "name": {
+        "full_name": "de Andrade, Marcelo",
+        "first_name": "Marcelo",
+        "last_name": "de Andrade"
+      },
+      "phones": [
+        {
+          "number": "001 713 780 5959",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "713"
+        },
+        {
+          "number": "001 713 783 0666",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "713"
+        },
+        {
+          "number": "001 212 717 3200 (w)",
+          "type": "work",
+          "country_code": "+1",
+          "area_code": "212"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "Swan House 49 Braind",
+          "notes": "Address appears incomplete"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Houston and NYC numbers"
+    },
+    {
+      "entry_id": "013_davies_jeff",
+      "name": {
+        "full_name": "Davies Jeff",
+        "first_name": "Jeff",
+        "last_name": "Davies"
+      },
+      "phones": [
+        {
+          "number": "001 713 290 0906(m)",
+          "type": "mobile",
+          "country_code": "+1",
+          "area_code": "713"
+        },
+        {
+          "number": "818 9454 7393 Robert",
+          "type": "unknown",
+          "notes": "Robert's number",
+          "area_code": "818"
+        },
+        {
+          "number": "818 9454 7393 Robert Miami (cell)",
+          "type": "mobile",
+          "notes": "Robert Miami cell"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Multiple Robert references"
+    },
+    {
+      "entry_id": "013_duzee_jacques",
+      "name": {
+        "full_name": "d'Uzee Jacques de Crussol",
+        "first_name": "Jacques",
+        "last_name": "de Crussol d'Uzee"
+      },
+      "phones": [
+        {
+          "number": "00 33 1044 9413 (w)",
+          "type": "work",
+          "country_code": "+33",
+          "area_code": "1"
+        },
+        {
+          "number": "00 33 1 1044 9413 (w)",
+          "type": "work",
+          "country_code": "+33",
+          "area_code": "1"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "minimal",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "French nobility"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 19,
+    "legibility": "excellent",
+    "notable_features": [
+      "R. Boykin Curry listed as US Ambassador",
+      "Multiple European nobility entries (Prince d'Arenberg, Earl of Dartmouth)",
+      "Sophie Dahl (author/model)",
+      "Mix of French, Dutch, UK and US contacts",
+      "Several addresses mixed into phone number fields",
+      "Transition from C to D section"
+    ],
+    "extraction_timestamp": "2025-01-29T14:18:00",
+    "extractor_version": "2.0"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Sophie Crabbe",
+      "Alaistar Cudro",
+      "R. Boykin Curry",
+      "Amanda Cutter",
+      "Henri d'Abo",
+      "Tatiana d'Abo",
+      "Westling Dart",
+      "Jennifer D'Abo",
+      "Carman D'Alessie",
+      "Prince Pierre d'Arenberg",
+      "Amr A. Dabbagh",
+      "Sophie Dahl",
+      "Drake Darrin",
+      "William Dartmouth",
+      "David Davies",
+      "Linda Davies",
+      "Michael Davis",
+      "Nick Day",
+      "Heather Day",
+      "Marcelo de Andrade",
+      "Jeff Davies",
+      "Robert",
+      "Jacques de Crussol d'Uzee"
+    ],
+    "organizations": [
+      "Rockefeller Foundation"
+    ],
+    "locations": {
+      "cities": [
+        "London",
+        "New York",
+        "Paris",
+        "Houston"
+      ],
+      "states": [
+        "NY",
+        "TX"
+      ],
+      "countries": [
+        "UK",
+        "USA",
+        "France",
+        "Netherlands"
+      ]
+    }
+  },
+  "insights": [
+    "R. Boykin Curry designated as US Ambassador with Central Park South address",
+    "Prince Pierre d'Arenberg represents European nobility with Paris residence",
+    "William Dartmouth is the 9th Earl, showing British aristocratic connections",
+    "Sophie Dahl (granddaughter of Roald Dahl) appears as standalone entry",
+    "Michael Davis has Rockefeller Foundation email suggesting institutional connections",
+    "Multiple entries show addresses mixed into phone number fields indicating data entry issues",
+    "Netherlands phone numbers for Aleister Cudre suggest Dutch connections",
+    "Henri and Tatiana d'Abo with French Riviera numbers (93 area code)",
+    "Several couples listed together indicating social/family connections",
+    "Transition page containing both C and D section entries"
+  ]
+}

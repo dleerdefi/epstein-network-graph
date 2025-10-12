@@ -1,0 +1,1013 @@
+{
+  "page_number": 22,
+  "alphabetical_section": "G",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "022_gertler_eric",
+      "name": {
+        "full_name": "Gertler, Eric",
+        "prefix": null,
+        "first_name": "Eric",
+        "middle_name": null,
+        "last_name": "Gertler",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 653 8221 (l)",
+          "formatting": "212 653 8221 (l)"
+        },
+        {
+          "type": "work",
+          "number": "212 653 8224",
+          "formatting": "212 653 8224"
+        },
+        {
+          "type": "portable",
+          "number": "917 797 5459",
+          "formatting": "917 797 5459 (NYC mobile)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "egertler@privista.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "11 E. 26th Street, 15th floor"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10010",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Privista"
+    },
+    {
+      "entry_id": "022_getty_mark",
+      "name": {
+        "full_name": "Getty, Mark",
+        "prefix": null,
+        "first_name": "Mark",
+        "middle_name": null,
+        "last_name": "Getty",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-446 0560",
+          "formatting": "0207-446 0560 (UK London)"
+        },
+        {
+          "type": "work",
+          "number": "0207-495 8865",
+          "formatting": "0207-495 8865 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-821-8581",
+          "formatting": "0207-821-8581 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "022_getty_pia_&_chris",
+      "name": {
+        "full_name": "Getty, Pia",
+        "prefix": null,
+        "first_name": "Pia & Chris",
+        "middle_name": null,
+        "last_name": "Getty",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Chris"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 917 921 6788",
+          "formatting": "001 917 921 6788 (International)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 297 1727",
+          "formatting": "001 212 297 1727 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 717 6590",
+          "formatting": "001 212 717 6590 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "piag@aol.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "20 East 78th Street"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "022_gibbs_emma",
+      "name": {
+        "full_name": "Gibbs, Emma",
+        "prefix": null,
+        "first_name": "Emma",
+        "middle_name": null,
+        "last_name": "Gibbs",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-352 3040",
+          "formatting": "0207-352 3040 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-351 3772",
+          "formatting": "0207-351 3772 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "+44 7710 815 355",
+          "formatting": "+44 7710 815 355"
+        }
+      ],
+      "emails": [
+        {
+          "address": "emmagibbsuk@hotmail.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Garden Frat, 61 Ilfield Road"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW10 9AU",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "022_gibson_caroline",
+      "name": {
+        "full_name": "Gibson, Caroline",
+        "prefix": null,
+        "first_name": "Caroline",
+        "middle_name": null,
+        "last_name": "Gibson",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-937 6044",
+          "formatting": "0207-937 6044 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-703 5974",
+          "formatting": "0207-703 5974 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "43 Camberwell"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SE5",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "022_gilifilan_andrew",
+      "name": {
+        "full_name": "Gilifilan, Andrew",
+        "prefix": null,
+        "first_name": "Andrew",
+        "middle_name": null,
+        "last_name": "Gilifilan",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-730 3412",
+          "formatting": "0207-730 3412 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "00 27 11 7832650",
+          "formatting": "00 27 11 7832650 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Box 65014, Beamarie"
+          ],
+          "city": "Sandton",
+          "state": null,
+          "postal_code": "2010",
+          "country": "South Africa",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "022_gillford_lord_&_lady",
+      "name": {
+        "full_name": "Gillford, Lord",
+        "prefix": null,
+        "first_name": "Lord & Lady",
+        "middle_name": null,
+        "last_name": "Gillford",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Lady"
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-245 1245",
+          "formatting": "0207-245 1245 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-384 2129",
+          "formatting": "0207-384 2129 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "12 Ashcombe Street"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW6",
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "022_gillmour_andrew_&_emma",
+      "name": {
+        "full_name": "Gillmour, Andrew",
+        "prefix": null,
+        "first_name": "Andrew & Emma",
+        "middle_name": null,
+        "last_name": "Gillmour",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Emma"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 533 0656",
+          "formatting": "001 212 533 0656 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "022_ginsberg_gary",
+      "name": {
+        "full_name": "Ginsberg Gary",
+        "prefix": null,
+        "first_name": "Gary",
+        "middle_name": null,
+        "last_name": "Ginsberg",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 852 7016",
+          "formatting": "001 212 852 7016 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 679 7445",
+          "formatting": "001 917 679 7445 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "gginsberg@newscorp.com",
+          "type": "work",
+          "notes": ""
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "022_gittis_howard",
+      "name": {
+        "full_name": "Gittis, Howard",
+        "prefix": null,
+        "first_name": "Howard",
+        "middle_name": null,
+        "last_name": "Gittis",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212-572-5090",
+          "formatting": "212-572-5090"
+        },
+        {
+          "type": "unknown",
+          "number": "212-572-8400",
+          "formatting": "212-572-8400"
+        },
+        {
+          "type": "unknown",
+          "number": "407-835-8760 (Palm Beach)",
+          "formatting": "407-835-8760 (Palm Beach)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "35 East 62nd Street"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "MacAndrews"
+    },
+    {
+      "entry_id": "022_giussani_luca",
+      "name": {
+        "full_name": "Giussani Luca",
+        "prefix": null,
+        "first_name": "Luca",
+        "middle_name": null,
+        "last_name": "Giussani",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "011 305 673 9811",
+          "formatting": "011 305 673 9811 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "011 305 467 7737",
+          "formatting": "011 305 467 7737 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "lgiussani@dorial.net",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "022_glanville_mary",
+      "name": {
+        "full_name": "Glanville Mary",
+        "prefix": null,
+        "first_name": "Mary",
+        "middle_name": null,
+        "last_name": "Glanville",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-352 3436",
+          "formatting": "0207-352 3436 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "58a Radnor Walk"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW3",
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "022_glass_charlie",
+      "name": {
+        "full_name": "Glass, Charlie",
+        "prefix": null,
+        "first_name": "Charlie",
+        "middle_name": null,
+        "last_name": "Glass",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "07 727 7638",
+          "formatting": "07 727 7638"
+        },
+        {
+          "type": "portable",
+          "number": "7979857810",
+          "formatting": "7979857810"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "022_glentworth_edmund_&_emily",
+      "name": {
+        "full_name": "Glentworth, Edmund",
+        "prefix": null,
+        "first_name": "Edmund & Emily",
+        "middle_name": null,
+        "last_name": "Glentworth",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Emily"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-735 2832",
+          "formatting": "0207-735 2832 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "022_goess_pilar",
+      "name": {
+        "full_name": "Goess, Pilar",
+        "prefix": null,
+        "first_name": "Pilar",
+        "middle_name": null,
+        "last_name": "Goess",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 43 1 505 1775",
+          "formatting": "00 43 1 505 1775 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 43 1 713 3905",
+          "formatting": "00 43 1 713 3905 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 33 1 4722 4137",
+          "formatting": "00 33 1 4722 4137 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 16 4 453 3098",
+          "formatting": "00 16 4 453 3098 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "022_goldberg_ellen",
+      "name": {
+        "full_name": "Goldberg, Ellen",
+        "prefix": null,
+        "first_name": "Ellen",
+        "middle_name": null,
+        "last_name": "Goldberg",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "505 946 3643",
+          "formatting": "505 946 3643"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Sante Fe Institute"
+    },
+    {
+      "entry_id": "022_goldsmith_isabel",
+      "name": {
+        "full_name": "Goldsmith, Isabel",
+        "prefix": null,
+        "first_name": "Isabel",
+        "middle_name": null,
+        "last_name": "Goldsmith",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "52 5 540 7658/9 (Mexico City \u2013 Office Fax)",
+          "formatting": "52 5 540 7658/9 (Mexico City \u2013 Office Fax)"
+        },
+        {
+          "type": "unknown",
+          "number": "52 3 337 0161 (hf)",
+          "formatting": "52 3 337 0161 (hf)"
+        },
+        {
+          "type": "unknown",
+          "number": "310 271 3273 (LA Fax)",
+          "formatting": "310 271 3273 (LA Fax)"
+        },
+        {
+          "type": "unknown",
+          "number": "52 328 555 00 (Sec.)",
+          "formatting": "52 328 555 00 (Sec.)"
+        },
+        {
+          "type": "home",
+          "number": "818 783 7048",
+          "formatting": "818 783 7048"
+        },
+        {
+          "type": "home",
+          "number": "310 271 7150 (LA)",
+          "formatting": "310 271 7150 (LA)"
+        },
+        {
+          "type": "home",
+          "number": "52 5 540 7657 (Mexico City)",
+          "formatting": "52 5 540 7657 (Mexico City)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "1362 Angelo Dr."
+          ],
+          "city": "Beverly Hills",
+          "state": null,
+          "postal_code": "CA 90210",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "022_goldsmith_isabel",
+      "name": {
+        "full_name": "Goldsmith, Isabel",
+        "prefix": null,
+        "first_name": "Isabel",
+        "middle_name": null,
+        "last_name": "Goldsmith",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "44 71 373 7867",
+          "formatting": "44 71 373 7867"
+        },
+        {
+          "type": "unknown",
+          "number": "4471 373 1762",
+          "formatting": "4471 373 1762"
+        },
+        {
+          "type": "unknown",
+          "number": "0836 285 485 (car)",
+          "formatting": "0836 285 485 (car)"
+        },
+        {
+          "type": "portable",
+          "number": "(0468) 90 8514",
+          "formatting": "(0468) 90 8514"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "11 Tregunter Road"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW10 9LS",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "022_golinkin_sandy",
+      "name": {
+        "full_name": "Golinkin, Sandy",
+        "prefix": null,
+        "first_name": "Sandy",
+        "middle_name": null,
+        "last_name": "Golinkin",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 772 6949",
+          "formatting": "001 212 772 6949 (International)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 286 7666",
+          "formatting": "001 212 286 7666 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "917 270 4002",
+          "formatting": "917 270 4002 (NYC mobile)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "Sandy_Golinkin@condenas",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "220 E 72nd Apt. 17C"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "022_gomez_thomas",
+      "name": {
+        "full_name": "Gomez, Thomas",
+        "prefix": null,
+        "first_name": "Thomas",
+        "middle_name": null,
+        "last_name": "Gomez",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 826 2766",
+          "formatting": "001 212 826 2766 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "220 E. 65th Street, Penthouse B"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 20,
+    "entries_with_emails": 6,
+    "entries_with_addresses": 12,
+    "entries_with_handwritten_notes": 0,
+    "couples": 4,
+    "average_confidence": "high",
+    "notable_figures_count": 0
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Gertler, Eric",
+      "Getty, Mark",
+      "Getty, Pia",
+      "Chris",
+      "Gibbs, Emma",
+      "Gibson, Caroline",
+      "Gilifilan, Andrew",
+      "Gillford, Lord",
+      "Lady",
+      "Gillmour, Andrew",
+      "Emma",
+      "Ginsberg Gary",
+      "Gittis, Howard",
+      "Giussani Luca",
+      "Glanville Mary",
+      "Glass, Charlie",
+      "Glentworth, Edmund",
+      "Emily",
+      "Goess, Pilar",
+      "Goldberg, Ellen",
+      "Goldsmith, Isabel",
+      "Goldsmith, Isabel",
+      "Golinkin, Sandy",
+      "Gomez, Thomas"
+    ],
+    "organizations": [],
+    "locations": {
+      "international": [
+        "UK",
+        "South Africa"
+      ],
+      "us_cities": [
+        "New York",
+        "London",
+        "Sandton",
+        "Beverly Hills"
+      ],
+      "elite_addresses": []
+    }
+  },
+  "insights": [
+    "Geographic cluster: New York (4 entries)",
+    "Geographic cluster: London (5 entries)"
+  ]
+}

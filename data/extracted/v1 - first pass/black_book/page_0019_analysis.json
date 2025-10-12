@@ -1,0 +1,601 @@
+{
+  "page_number": 19,
+  "alphabetical_section": "F",
+  "contacts": [
+    {
+      "name": "Feldman, Andrew",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "212-755-8800",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 755 8800",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Email: [illegible]@aol.com",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "Elaine: 9 Robert Walton, NR1",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "212 755 80008",
+          "area_code": "212",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "916 835 8800",
+          "area_code": "916",
+          "geographic_indicator": "Sacramento, California",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 859 8511 DO m",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Multiple contact numbers",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Felix, Helena",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "15 Middle Way / London SW10",
+          "city": "London",
+          "postal_code": "SW10",
+          "country": "UK",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "020 7351 00XX (h)",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0798 966 0001 (m)",
+          "area_code": "0798",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Fell, David & Anne",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "001 212 744 0041[0]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 744 0041[0]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 448 1926 (o)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Ferragamo, Leonardo & Beatrice",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Calle La Rosa / Los Buenos, NEW 00000 / Caracas, Venezuela",
+          "city": "Caracas",
+          "country": "Venezuela",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "58 02 99 5616 15",
+          "country_code": "58",
+          "geographic_indicator": "Venezuela",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "58 02 992 501 17",
+          "country_code": "58",
+          "geographic_indicator": "Venezuela",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "58 02 99 5621 15",
+          "country_code": "58",
+          "geographic_indicator": "Venezuela",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Ferragamo fashion family",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Ferranti, Hugo",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "39 Picardy Gardens / NEW XXXX",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 007 47XX (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 498 45XX",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "00363 made in x",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Ferry Brian",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Avonmore Place / London",
+          "city": "London",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 351 4455",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0171 603 5348",
+          "area_code": "0171",
+          "geographic_indicator": "London (old code)",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "Email@[illegible].co.uk",
+        "brianf@garfieldfinancial.demon"
+      ],
+      "notes": "Bryan Ferry - Roxy Music",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Flannieg, Martin",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Banbury / Oxford",
+          "city": "Oxford",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00XX [illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0208 477XXX",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        "Email: [illegible]@[illegible].co.uk"
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "0207 775XXXX",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0203 - 373 9644[0]",
+          "area_code": "0203",
+          "geographic_indicator": "London",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Finn, Christopher & Charlotte",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "0041 22XXXXX",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0041 22XXXXX",
+          "country_code": "41",
+          "area_code": "22",
+          "geographic_indicator": "Geneva, Switzerland",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Phone number mostly illegible"]
+      }
+    },
+    {
+      "name": "Fiennes, Martin",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "34 Clapham Road / London SW9",
+          "city": "London",
+          "postal_code": "SW9",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "01256 770 2040",
+          "geographic_indicator": "UK (Basingstoke area)",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01256 -770 304400",
+          "geographic_indicator": "UK (Basingstoke area)",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 222 4066[4]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Fiennes family",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Finch Charles",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "0207 351 6155",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 351 6155",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "charles@[illegible]merchant",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 736 42XX",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 747 44 0066",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Fiennes, Ralph",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "001 917 607 9211[h]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 917 607 9211[h]",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "(ICM-agent)",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "Email: [illegible]@aol.com[illegible]world",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "020 7636 6565 (ICM-agent)",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "020 7636 656S(XX) w/o",
+          "area_code": "020",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Actor Ralph Fiennes, ICM agent",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Finklestein, Howard",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001-305-4883",
+          "area_code": "305",
+          "geographic_indicator": "Miami, Florida",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Phone number incomplete"]
+      }
+    },
+    {
+      "name": "Fiennes, Suzzana",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "5d Cadogan Gardens / between West 6th Street and [illegible]",
+          "street": "5d Cadogan Gardens",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 674 00100",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 914 94 XX100",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "01 495 004080 (GM-o)",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Fifer, Chuck",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 742 5197 (o)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 914 636 5177 (h)",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Fliyal Princess",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1 Princess Rd",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "XXXX",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "00 212 879 3900",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "London: Secret m",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "00832 16 0066",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Princess title",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Fisher, Dan",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 305 [illegible]",
+          "area_code": "305",
+          "geographic_indicator": "Miami, Florida",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 421 4525 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 421 4582 (w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 16,
+    "quality": "fair",
+    "legibility": "partially obscured",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "Bryan Ferry - Roxy Music musician",
+      "Ralph Fiennes - Actor (ICM agent)",
+      "Ferragamo family - Fashion dynasty",
+      "Princess entry (Fliyal)"
+    ]
+  },
+  "insights": [
+    "Bryan Ferry (Roxy Music) entry present",
+    "Ralph Fiennes actor with ICM talent agency connection",
+    "Ferragamo fashion family with Venezuela connection",
+    "Strong NYC presence with multiple 212/917 numbers",
+    "International connections: Venezuela, Switzerland, UK",
+    "Princess title entry suggesting royal/aristocratic connections",
+    "Mix of entertainment industry (Ferry, Fiennes) and fashion (Ferragamo)",
+    "Several UK numbers with old (0171) and new (0207/020) codes",
+    "Geneva Switzerland connection (41-22)",
+    "Multiple Westchester County NY numbers (914 area code)"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "medium",
+    "total_contacts": 16,
+    "high_confidence": 7,
+    "medium_confidence": 7,
+    "low_confidence": 2,
+    "extraction_issues": [
+      "Several phone numbers partially illegible",
+      "Some email addresses incomplete",
+      "Princess entry name unclear (Fliyal)"
+    ]
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "page_number": 44,
+  "document_type": "Flight Log",
+  "metadata": {
+    "time_period": "September - November 1996",
+    "header_date": "1996 SEP",
+    "pilot": "David Rodgers",
+    "aircraft_registration": "N908JE",
+    "aircraft_make_model": "G1159B",
+    "total_flight_time_page": "38:01",
+    "amt_forward": "6752:29",
+    "total_to_date": "6790:30"
+  },
+  "flights": [
+    {
+      "date": "09/26/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "CMH",
+      "flight_time": "1:02",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "09/28/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "CMH",
+      "arrival": "PBI",
+      "flight_time": "2:04",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "09/30/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:04",
+      "passengers": "JE, GM, DIDIER",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "10/10/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:05",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "10/14/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:04",
+      "passengers": "JE, 1 FEMALE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "10/15/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "CMH",
+      "flight_time": "1:02",
+      "passengers": "NO CMH ONE PICK UP",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "10/15/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "CMH",
+      "arrival": "TEB",
+      "flight_time": "1:02",
+      "passengers": "JE, PEGGY LIZA STEVENSON, RICHARD J.",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "10/19/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:03",
+      "passengers": "JE, DAVID STEINBERG",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "10/22/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:02",
+      "passengers": "JE, GM, DAVID STEINBERG",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "10/24/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "SAF",
+      "flight_time": "4:01",
+      "passengers": "JE, GM, LARRY",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "10/25/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "SAF",
+      "arrival": "PBI",
+      "flight_time": "3:02",
+      "passengers": "JE, GM, 3 MALES",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "10/27/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:04",
+      "passengers": "JE, GM, JOE PAGANO, STEVEN",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "10/30/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "DCA",
+      "flight_time": ":06",
+      "passengers": "JE, RON STEVENS, 1 FEMALE, HOLLY PAULL, NAOMI CAMPBELL, MICHELLE ROSENE, DONALD TUSK, ROBERT ARKONI",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "10/30/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "DCA",
+      "arrival": "TEB",
+      "flight_time": ":06",
+      "passengers": "NONE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "10/31/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:02",
+      "passengers": "JE, GM, PEGGY CAVENDISH",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "10/31/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:05",
+      "passengers": "JE, GM, PEGGY CAVENDISH, BUCCI",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "11/07/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:02",
+      "passengers": "JE, STEVEN JOHN, JEFFREY BLONKING, BLACK KNIGHT, JULIAN DANIEL",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "11/11/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:02",
+      "passengers": "JE, STEPHEN, ADRIAN, JEFFREY BLONKING, BLACK KNIGHT",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "11/11/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "CMH",
+      "flight_time": "1:02",
+      "passengers": "JE, GM, JOAN SMITH, [unclear text]",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "11/15/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "CMH",
+      "flight_time": "1:03",
+      "passengers": "[unclear text]",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    }
+  ],
+  "entities": {
+    "people": [
+      {"name": "Jeffrey Epstein", "abbreviation": "JE", "role": "Primary passenger"},
+      {"name": "Ghislaine Maxwell", "abbreviation": "GM", "role": "Frequent passenger"},
+      {"name": "Didier", "role": "Passenger"},
+      {"name": "Peggy Liza Stevenson", "role": "Passenger"},
+      {"name": "Richard J.", "role": "Passenger"},
+      {"name": "David Steinberg", "role": "Passenger (multiple flights)"},
+      {"name": "Larry", "role": "Passenger"},
+      {"name": "Steven", "role": "Passenger"},
+      {"name": "Joe Pagano", "role": "Passenger"},
+      {"name": "Ron Stevens", "role": "Passenger"},
+      {"name": "Holly Paull", "role": "Passenger"},
+      {"name": "Naomi Campbell", "role": "Passenger (supermodel)"},
+      {"name": "Michelle Rosene", "role": "Passenger"},
+      {"name": "Donald Tusk", "role": "Passenger"},
+      {"name": "Robert Arkoni", "role": "Passenger"},
+      {"name": "Peggy Cavendish", "role": "Passenger (multiple flights)"},
+      {"name": "Bucci", "role": "Passenger"},
+      {"name": "Steven John", "role": "Passenger"},
+      {"name": "Jeffrey Blonking", "role": "Passenger (multiple flights)"},
+      {"name": "Black Knight", "role": "Passenger (multiple flights)"},
+      {"name": "Julian Daniel", "role": "Passenger"},
+      {"name": "Stephen", "role": "Passenger"},
+      {"name": "Adrian", "role": "Passenger"},
+      {"name": "Joan Smith", "role": "Passenger"},
+      {"name": "David Rodgers", "role": "Pilot"}
+    ],
+    "locations": [
+      {"code": "TEB", "name": "Teterboro Airport", "location": "Teterboro, NJ"},
+      {"code": "CMH", "name": "John Glenn Columbus International Airport", "location": "Columbus, OH"},
+      {"code": "PBI", "name": "Palm Beach International Airport", "location": "West Palm Beach, FL"},
+      {"code": "SAF", "name": "Santa Fe Regional Airport", "location": "Santa Fe, NM"},
+      {"code": "DCA", "name": "Ronald Reagan Washington National Airport", "location": "Washington, DC"}
+    ],
+    "aircraft": [
+      {"registration": "N908JE", "type": "Gulfstream G1159B", "category": "Private Jet"}
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {"location": "bottom_left", "description": "David Rodgers pilot signature", "legibility": "clear"}
+    ],
+    "stamps": [],
+    "markings": [
+      {"type": "page_number", "content": "44", "location": "bottom_center"},
+      {"type": "total_time", "content": "38:01", "location": "bottom_right"}
+    ]
+  },
+  "insights": [
+    "Page transitions from September through November 1996",
+    "Naomi Campbell appears again on October 30",
+    "Holly Paull appears on October 30 with Campbell",
+    "Black Knight notation appears multiple times in November",
+    "Washington DC (DCA) shuttle flights on October 30",
+    "Santa Fe routing appears in late October",
+    "Multiple unnamed passengers (1 FEMALE, 3 MALES)",
+    "Peggy Cavendish appears on same-day round trip October 31",
+    "Complex passenger manifests with 8 people on October 30",
+    "Pattern of TEB-PBI corridor continues",
+    "Columbus, OH (CMH) remains frequent destination",
+    "Jeffrey Blonking appears multiple times"
+  ],
+  "corrections": {
+    "date_inference": "Page 44 covers September 26 through November 15, 1996",
+    "actual_dates_from_png": "Verified from PNG: September 26, 28, 30, October 10, 14, 15 (twice), 19, 22, 24, 25, 27, 30 (twice), 31 (twice), November 7, 11 (twice), 15",
+    "continuity": "Continues from page 43 which ended September 23, 1996",
+    "correction_note": "Corrected to show September-November 1996 based on PNG verification"
+  },
+  "pilot_signature": "David Rodgers",
+  "page_total": "38:01 hours"
+}

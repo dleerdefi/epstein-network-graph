@@ -1,0 +1,154 @@
+{
+  "page_number": 119,
+  "file_path": "data/birthday_book_images/page_0119.png",
+  "file_size_mb": 0.1164560317993164,
+  "type": "handwritten_poem_conclusion",
+  "content": {
+    "text": "Maxwellian delight, a mother's treasure, great joy most surely\nHarvardian patron, brain researcher, for extending wannabe\nOutrageous, iconoclastic, unconventional, spirit free\nBest of all, a Dear Friend, Happy Birthday Jeffrey!\n\nLove and Kisses,\n\nLeon\n\n*Vanity Fair Poster Child",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "description": "Conclusion of birthday poem with signature",
+    "text_sections": {
+      "full_transcription": "Maxwellian delight, a mother's treasure, great joy most surely\nHarvardian patron, brain researcher, for extending wannabe\nOutrageous, iconoclastic, unconventional, spirit free\nBest of all, a Dear Friend, Happy Birthday Jeffrey!\n\nLove and Kisses,\n\nLeon\n\n*Vanity Fair Poster Child",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          119
+        ]
+      },
+      {
+        "name": "Leon (sender)",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          119
+        ]
+      }
+    ],
+    "organizations": [
+      "Harvard",
+      "Vanity Fair"
+    ],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [
+      "Maxwellian delight",
+      "Vanity Fair Poster Child"
+    ],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Leon",
+    "recipient": "Jeffrey Epstein",
+    "date": "50th Birthday (January 20, 2003)",
+    "subject": "Birthday poem conclusion with personal note",
+    "theme": "celebratory_personal_tribute",
+    "significance": "medium",
+    "document_type": "handwritten_poem_conclusion"
+  },
+  "insights": [
+    "'Maxwellian delight' - direct reference possibly to Ghislaine Maxwell",
+    "'Mother's treasure' suggests maternal figure or reference",
+    "'Harvardian patron' confirms Harvard connections and donations",
+    "'Brain researcher' references scientific research interests/funding",
+    "'Vanity Fair Poster Child' - asterisk note suggests media prominence",
+    "Describes Epstein as 'outrageous, iconoclastic, unconventional'",
+    "'Spirit free' characterization",
+    "Sender 'Leon' has close personal relationship ('Dear Friend')",
+    "'For extending wannabe' suggests helping others achieve aspirations",
+    "Poem shows intimate knowledge of Epstein's life and activities",
+    "Reference to Vanity Fair coverage indicates media visibility",
+    "Academic connections emphasized (Harvard patron, brain researcher)",
+    "Combination of personal affection and acknowledgment of controversial nature"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000119",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.178750",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [
+      {
+        "name": "Leon",
+        "style": "cursive",
+        "location": "middle_page",
+        "identified_as": "Leon",
+        "confidence": "medium",
+        "characteristics": [],
+        "matches_pages": []
+      }
+    ],
+    "logos": [],
+    "redactions": [],
+    "handwritten_notes": [
+      {
+        "type": "poem_conclusion_with_signature",
+        "style": "cursive",
+        "ink_color": "black"
+      }
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Continuation/conclusion of birthday poem from page 118",
+    "Final verse of poem with four lines",
+    "'Maxwellian delight' - possible Ghislaine Maxwell reference",
+    "'a mother's treasure, great joy most surely'",
+    "'Harvardian patron, brain researcher' - confirms Harvard donations",
+    "'for extending wannabe' - helping others achieve goals",
+    "'Outrageous, iconoclastic, unconventional, spirit free'",
+    "'Best of all, a Dear Friend, Happy Birthday Jeffrey!'",
+    "Signed 'Love and Kisses, Leon'",
+    "Asterisk note: '*Vanity Fair Poster Child'",
+    "Explains Y.F.P.C. acronym from page 118",
+    "Handwritten in same style as page 118",
+    "Black ink on white paper",
+    "Document stamped HOUSE_OVERSIGHT_000119"
+  ],
+  "investigative_leads": []
+}

@@ -1,0 +1,293 @@
+{
+  "page_number": 107,
+  "date_header": "JAN-MAR 2004",
+  "time_period": "January 2004 - March 2004",
+  "aircraft": {
+    "registration": "Multiple (G-727-31W N908JE, G-1159B N909JE)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "JAN 18",
+      "date": "01/18/2004",
+      "departure": "G-727-31W",
+      "arrival": "N908JE",
+      "flight_time": "243",
+      "remarks": "PBI - JFK - JE, BT, [REDACTED], SK, TD",
+      "passengers": ["JE", "BT", "REDACTED", "SK", "TD"],
+      "crew": "LV Airplane George Helma 2/6"
+    },
+    {
+      "entry_number": "23",
+      "date": "01/23/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "244",
+      "remarks": "JFK - PBI - [REDACTED], Greg Andros, TD",
+      "passengers": ["REDACTED", "Greg Andros", "TD"],
+      "crew": "LV 2/6"
+    },
+    {
+      "entry_number": "26",
+      "date": "01/26/2004",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1684",
+      "remarks": "PBI - TEB - [REDACTED], Robert [unclear]",
+      "passengers": ["REDACTED", "Robert"],
+      "crew": "LV 2/4"
+    },
+    {
+      "entry_number": "29",
+      "date": "01/29/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "TEB - TIST - JE, AT, [REDACTED], SK, TD",
+      "passengers": ["JE", "AT", "REDACTED", "SK", "TD"],
+      "crew": "LV 3/6"
+    },
+    {
+      "entry_number": "FEB 2",
+      "date": "02/02/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1685",
+      "remarks": "TIST - TEB - JE, AT, TW, SK, [REDACTED], TD, SK",
+      "passengers": ["JE", "AT", "TW", "SK", "REDACTED", "TD", "SK"],
+      "crew": "LV 1/1 4/1"
+    },
+    {
+      "entry_number": "5",
+      "date": "02/05/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "TEB - BED - LV",
+      "passengers": ["LV"],
+      "crew": "N"
+    },
+    {
+      "entry_number": "5",
+      "date": "02/05/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1693",
+      "remarks": "BED - TEB - Andrew Demonowitz",
+      "passengers": ["Andrew Demonowitz"],
+      "crew": "LV 1/1"
+    },
+    {
+      "entry_number": "5",
+      "date": "02/05/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1694",
+      "remarks": "TEB - PBI - JE, AM, SK",
+      "passengers": ["JE", "AM", "SK"],
+      "crew": "LV 2/6"
+    },
+    {
+      "entry_number": "9",
+      "date": "02/09/2004",
+      "departure": "G-727-31W",
+      "arrival": "N908JE",
+      "flight_time": "245",
+      "remarks": "PBI - JFK - JE, AT, SK",
+      "passengers": ["JE", "AT", "SK"],
+      "crew": "GR 1/1 2/5"
+    },
+    {
+      "entry_number": "12",
+      "date": "02/12/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "246",
+      "remarks": "JFK - LFPB - JE, GM, Ted, Alison Walker",
+      "passengers": ["JE", "GM", "Ted", "Alison Walker"],
+      "crew": "GK 7/0"
+    },
+    {
+      "entry_number": "17",
+      "date": "02/17/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "LFPB - BUR - JE, AE, AM, JEB, [REDACTED], TD, AW",
+      "passengers": ["JE", "AE", "AM", "JEB", "REDACTED", "TD", "AW"],
+      "crew": "LV 6/1"
+    },
+    {
+      "entry_number": "17",
+      "date": "02/17/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "218",
+      "remarks": "BUR - JFK - JE, GM, JEB, TD, [REDACTED], AW",
+      "passengers": ["JE", "GM", "JEB", "TD", "REDACTED", "AW"],
+      "crew": "LV 1/5"
+    },
+    {
+      "entry_number": "19",
+      "date": "02/19/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "219",
+      "remarks": "JFK - PBI - JE, GM, SK, TD",
+      "passengers": ["JE", "GM", "SK", "TD"],
+      "crew": "GK 2/4"
+    },
+    {
+      "entry_number": "22",
+      "date": "02/22/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "220",
+      "remarks": "PBI - JFK - JE, AT, [REDACTED], TD, AW",
+      "passengers": ["JE", "AT", "REDACTED", "TD", "AW"],
+      "crew": "LV 1/1 3/0"
+    },
+    {
+      "entry_number": "24",
+      "date": "02/24/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "251",
+      "remarks": "JFK - MRY - JE, SK, Jeremy Sawyer",
+      "passengers": ["JE", "SK", "Jeremy Sawyer"],
+      "crew": "GK 5/1"
+    },
+    {
+      "entry_number": "27",
+      "date": "02/27/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "252",
+      "remarks": "MRY - VNY - JE, [REDACTED], SK, TD",
+      "passengers": ["JE", "REDACTED", "SK", "TD"],
+      "crew": "GA 1/1 8"
+    },
+    {
+      "entry_number": "27",
+      "date": "02/27/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "253",
+      "remarks": "VNY - TEB - JE, [REDACTED], SK, TD",
+      "passengers": ["JE", "REDACTED", "SK", "TD"],
+      "crew": "GA 1/6"
+    },
+    {
+      "entry_number": "29",
+      "date": "02/29/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "254",
+      "remarks": "TEB - JFK - JE, GM, SK, TD",
+      "passengers": ["JE", "GM", "SK", "TD"],
+      "crew": "GV 1/1 3/4"
+    },
+    {
+      "entry_number": "MAR 1",
+      "date": "03/01/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "259",
+      "remarks": "JFK - PBI - JE, [REDACTED], TD",
+      "passengers": ["JE", "REDACTED", "TD"],
+      "crew": "LV 2/5"
+    },
+    {
+      "entry_number": "3",
+      "date": "03/03/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "255",
+      "remarks": "JFK - PBI - JE, [REDACTED], TD, Waldow Gallery",
+      "passengers": ["JE", "REDACTED", "TD", "Waldow Gallery"],
+      "crew": "LV 2/5"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "BT",
+      "REDACTED",
+      "SK",
+      "TD",
+      "George Helma",
+      "Greg Andros",
+      "Robert",
+      "AT",
+      "TW",
+      "LV",
+      "Andrew Demonowitz",
+      "AM",
+      "GR",
+      "GM",
+      "Ted",
+      "Alison Walker",
+      "GK",
+      "AE",
+      "JEB",
+      "AW",
+      "Jeremy Sawyer",
+      "GA",
+      "GV",
+      "Waldow Gallery",
+      "David Rodgers"
+    ],
+    "locations": [
+      "PBI",
+      "JFK",
+      "TEB",
+      "TIST",
+      "BED",
+      "LFPB",
+      "BUR",
+      "MRY",
+      "VNY"
+    ],
+    "aircraft": [
+      "G-727-31W",
+      "N908JE",
+      "G-1159B",
+      "N909JE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "Total to Date: 9331.8 - 9388.8",
+    "amount_forward": "9331.8",
+    "total_to_date": "9388.8",
+    "document_quality": "good",
+    "legibility": "mostly clear with heavy redactions"
+  },
+  "insights": [
+    "Page covers January-March 2004",
+    "January 2004 entries: 18, 23, 26, 29",
+    "February 2004 entries: 2, 5, 5, 5, 9, 12, 17, 17, 19, 22, 24, 27, 27, 29",
+    "March 2004 entries: 1, 3",
+    "Notable: February 29, 2004 entry (leap year)",
+    "JE (Jeffrey Epstein) appears in most flights",
+    "SK (Sarah Kellen) appears very frequently",
+    "Heavy redactions throughout page (multiple REDACTED entries)",
+    "LV (Larry Visoski) appears frequently as crew",
+    "International flight to Paris (LFPB) on February 12",
+    "California operations (MRY, VNY) in late February",
+    "Caribbean operations continue (TIST)",
+    "Jeremy Sawyer appears on February 24",
+    "Alison Walker appears multiple times in February",
+    "Flight numbers reach 259 for B-727"
+  ]
+}

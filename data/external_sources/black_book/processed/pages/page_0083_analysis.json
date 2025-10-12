@@ -1,0 +1,1678 @@
+{
+  "page_number": 83,
+  "alphabetical_section": "Mixed",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "083_unknown_unknown",
+      "name": {
+        "full_name": "Kenya (K) \u2013 Muthaiga Club",
+        "prefix": null,
+        "first_name": "Kenya",
+        "middle_name": "(K) \u2013 Muthaiga",
+        "last_name": "Club",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: K"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "010 254 2 767754/5/6",
+          "formatting": "010 254 2 767754/5/6"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Muthaiga Club"
+    },
+    {
+      "entry_id": "083_unknown_unknown",
+      "name": {
+        "full_name": "Kinnerton \u2013 Airport Transfers",
+        "prefix": null,
+        "first_name": "Kinnerton",
+        "middle_name": "\u2013 Airport",
+        "last_name": "Transfers",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-403-2228",
+          "formatting": "0207-403-2228 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Airport Transfers"
+    },
+    {
+      "entry_id": "083_unknown_charlie",
+      "name": {
+        "full_name": "Kinnerton \u2013 Charlie",
+        "prefix": null,
+        "first_name": "Charlie",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0208-994 5458",
+          "formatting": "0208-994 5458 (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "0956 210252",
+          "formatting": "0956 210252"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "083_unknown_unknown",
+      "name": {
+        "full_name": "Kinnerton \u2013 Chelsea Police Station",
+        "prefix": null,
+        "first_name": "Kinnerton",
+        "middle_name": "\u2013 Chelsea Police",
+        "last_name": "Station",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-741 6212",
+          "formatting": "0207-741 6212 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "083_coles_alan",
+      "name": {
+        "full_name": "Kinnerton \u2013 Coles, Alan (Registered Osteopath)",
+        "prefix": null,
+        "first_name": "Alan",
+        "middle_name": null,
+        "last_name": "Coles",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Registered Osteopath"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "7802826109",
+          "formatting": "7802826109"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "221-223 Old Brompton Rd."
+          ],
+          "city": "Earls Court",
+          "state": null,
+          "postal_code": "SW5 0EA",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "The Brompton Health Clinic, Registered Osteopath"
+    },
+    {
+      "entry_id": "083_coles_alan",
+      "name": {
+        "full_name": "Kinnerton \u2013 Coles, Alan (Registered Osteopath)",
+        "prefix": null,
+        "first_name": "Alan",
+        "middle_name": null,
+        "last_name": "Coles",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Registered Osteopath"
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "73 Courtfield Gardens"
+          ],
+          "city": "Earls Court",
+          "state": null,
+          "postal_code": "SW5 0NL",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Courtfield Medical Centre"
+    },
+    {
+      "entry_id": "083_wallace_les",
+      "name": {
+        "full_name": "Kinnerton \u2013 Drivers",
+        "prefix": null,
+        "first_name": "Les",
+        "middle_name": null,
+        "last_name": "Wallace",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "020 8866 6644",
+          "formatting": "020 8866 6644"
+        },
+        {
+          "type": "home",
+          "number": "0208 866 6644",
+          "formatting": "0208 866 6644 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "07806 324400",
+          "formatting": "07806 324400"
+        }
+      ],
+      "emails": [
+        {
+          "address": "welcomeminibus@hotmail.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "083_perkins_ray",
+      "name": {
+        "full_name": "Kinnerton \u2013 Drivers",
+        "prefix": null,
+        "first_name": "Ray",
+        "middle_name": null,
+        "last_name": "Perkins",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "0797 314 2340",
+          "formatting": "0797 314 2340"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "083_unknown_walter",
+      "name": {
+        "full_name": "Kinnerton \u2013 Drivers",
+        "prefix": null,
+        "first_name": "Walter",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "0793 132 5729",
+          "formatting": "0793 132 5729"
+        },
+        {
+          "type": "portable",
+          "number": "0795 632 4328",
+          "formatting": "0795 632 4328"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "083_entwistle_isi",
+      "name": {
+        "full_name": "Kinnerton \u2013 Entwistle, Isi",
+        "prefix": null,
+        "first_name": "Isi",
+        "middle_name": null,
+        "last_name": "Entwistle",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0797 0888989",
+          "formatting": "0797 0888989"
+        },
+        {
+          "type": "unknown",
+          "number": "0208-870 7348",
+          "formatting": "0208-870 7348 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "083_unknown_denise",
+      "name": {
+        "full_name": "Kinnerton \u2013 Hair Assocs",
+        "prefix": null,
+        "first_name": "Denise",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-245 0077",
+          "formatting": "0207-245 0077 (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "0207-235 3231",
+          "formatting": "0207-235 3231 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Hair Assocs"
+    },
+    {
+      "entry_id": "083_unknown_unknown",
+      "name": {
+        "full_name": "Kinnerton \u2013 Harrods Limited",
+        "prefix": null,
+        "first_name": "Kinnerton",
+        "middle_name": "\u2013 Harrods",
+        "last_name": "Limited",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "071-730 1234",
+          "formatting": "071-730 1234"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "#87, 135 Brompton Road, Knightsbridge"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW1X7XL",
+          "country": "UK",
+          "notes": "London Knightsbridge"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "083_nichols_harvey",
+      "name": {
+        "full_name": "Kinnerton \u2013 Harvey Nichols",
+        "prefix": null,
+        "first_name": "Harvey",
+        "middle_name": null,
+        "last_name": "Nichols",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "071-235 7207",
+          "formatting": "071-235 7207"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "083_unknown_unknown",
+      "name": {
+        "full_name": "Kinnerton \u2013 Holland",
+        "prefix": null,
+        "first_name": "Kinnerton",
+        "middle_name": "\u2013",
+        "last_name": "Holland",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Holland"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "071-499 4411",
+          "formatting": "071-499 4411"
+        },
+        {
+          "type": "unknown",
+          "number": "212 752 7755 (NY)",
+          "formatting": "212 752 7755 (NY)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Holland & Holland"
+    },
+    {
+      "entry_id": "083_unknown_unknown",
+      "name": {
+        "full_name": "Kinnerton \u2013 Jackson Stops",
+        "prefix": null,
+        "first_name": "Kinnerton",
+        "middle_name": "\u2013 Jackson",
+        "last_name": "Stops",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-581 5881",
+          "formatting": "0207-581 5881 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Jackson Stops, Jolyn & Benson"
+    },
+    {
+      "entry_id": "083_hobbs_john",
+      "name": {
+        "full_name": "Kinnerton \u2013 John Hobbs Ltd.",
+        "prefix": null,
+        "first_name": "John",
+        "middle_name": null,
+        "last_name": "Hobbs",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-730-8369",
+          "formatting": "0207-730-8369 (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "0207-730 0437 (fax)",
+          "formatting": "0207-730 0437 (fax) (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "105/107A Pimlico Road"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW1W 8PH",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "John Hobbs Ltd."
+    },
+    {
+      "entry_id": "083_unknown_unknown",
+      "name": {
+        "full_name": "Kinnerton \u2013 La Famiglia",
+        "prefix": null,
+        "first_name": "Kinnerton",
+        "middle_name": "\u2013 La",
+        "last_name": "Famiglia",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "351 0761",
+          "formatting": "351 0761"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "La Famiglia"
+    },
+    {
+      "entry_id": "083_tim_martin",
+      "name": {
+        "full_name": "Kinnerton \u2013 Martin Tim/Debbie Steward",
+        "prefix": null,
+        "first_name": "Martin",
+        "middle_name": null,
+        "last_name": "Tim",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-408 0988",
+          "formatting": "0207-408 0988 (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "0207-312 6201 (td)",
+          "formatting": "0207-312 6201 (td) (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Grosvenor Estate"
+    },
+    {
+      "entry_id": "083_stewart_debbie",
+      "name": {
+        "full_name": "Kinnerton \u2013 Martin Tim/Debbie Steward",
+        "prefix": null,
+        "first_name": "Debbie",
+        "middle_name": null,
+        "last_name": "Stewart",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-408 0988",
+          "formatting": "0207-408 0988 (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "0207-312 6201 (td)",
+          "formatting": "0207-312 6201 (td) (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Grosvenor Estate"
+    },
+    {
+      "entry_id": "083_unknown_unknown",
+      "name": {
+        "full_name": "Kinnerton \u2013 Martine",
+        "prefix": null,
+        "first_name": "Kinnerton",
+        "middle_name": "\u2013",
+        "last_name": "Martine",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-235 0998",
+          "formatting": "0207-235 0998 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-244 6836",
+          "formatting": "0207-244 6836 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "083_unknown_unknown",
+      "name": {
+        "full_name": "Kinnerton \u2013 Massage \u2013 UK (a)",
+        "prefix": null,
+        "first_name": "Kinnerton",
+        "middle_name": "\u2013 Massage \u2013 UK",
+        "last_name": "(a)",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: a"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0870 225 5007 (Unlisted London)",
+          "formatting": "0870 225 5007 (Unlisted London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [
+        "Note: Massage \u2013 UK (a)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Massage \u2013 UK (a)"
+    },
+    {
+      "entry_id": "083_unknown_liz",
+      "name": {
+        "full_name": "Kinnerton \u2013 Massage \u2013 UK (a)",
+        "prefix": null,
+        "first_name": "Liz",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: a"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0208 715 6200",
+          "formatting": "0208 715 6200 (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "0976 283 625",
+          "formatting": "0976 283 625"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [
+        "Note: Massage \u2013 UK (a)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Massage \u2013 UK (a)"
+    },
+    {
+      "entry_id": "083_unknown_annabel",
+      "name": {
+        "full_name": "Kinnerton \u2013 Massage \u2013 UK (a)",
+        "prefix": null,
+        "first_name": "Annabel",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: a"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0208 747 1268",
+          "formatting": "0208 747 1268 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [
+        "Note: Massage \u2013 UK (a)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Massage \u2013 UK (a)"
+    },
+    {
+      "entry_id": "083_unknown_barry",
+      "name": {
+        "full_name": "Kinnerton \u2013 Massage \u2013 UK (a)",
+        "prefix": null,
+        "first_name": "Barry",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: a"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "016 2848 8654",
+          "formatting": "016 2848 8654"
+        },
+        {
+          "type": "unknown",
+          "number": "31(0) 616 300982 (Amsterdam)",
+          "formatting": "31(0) 616 300982 (Amsterdam)"
+        },
+        {
+          "type": "unknown",
+          "number": "310 821 2799 (LA)",
+          "formatting": "310 821 2799 (LA)"
+        },
+        {
+          "type": "portable",
+          "number": "079 7753 5377",
+          "formatting": "079 7753 5377"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [
+        "Note: Massage \u2013 UK (a)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Massage \u2013 UK (a)"
+    },
+    {
+      "entry_id": "083_brunt_joanne",
+      "name": {
+        "full_name": "Kinnerton \u2013 Massage \u2013 UK (a)",
+        "prefix": null,
+        "first_name": "Joanne",
+        "middle_name": null,
+        "last_name": "Brunt",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: a"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207 924 1897",
+          "formatting": "0207 924 1897 (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "0402 256 289",
+          "formatting": "0402 256 289"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [
+        "Note: Massage \u2013 UK (a)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Massage \u2013 UK (a)"
+    },
+    {
+      "entry_id": "083_unknown_maxine",
+      "name": {
+        "full_name": "Kinnerton \u2013 Massage \u2013 UK (a)",
+        "prefix": null,
+        "first_name": "Maxine",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: a"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "631 329 3869 (NY)",
+          "formatting": "631 329 3869 (NY)"
+        },
+        {
+          "type": "portable",
+          "number": "0776 765 5220",
+          "formatting": "0776 765 5220"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [
+        "Note: Massage \u2013 UK (a)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Massage \u2013 UK (a)"
+    },
+    {
+      "entry_id": "083_unknown_lisa",
+      "name": {
+        "full_name": "Kinnerton \u2013 Massage \u2013 UK (a)",
+        "prefix": null,
+        "first_name": "Lisa",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: a"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "07000378737 (dstress)",
+          "formatting": "07000378737 (dstress)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [
+        "Note: Massage \u2013 UK (a)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Massage \u2013 UK (a)"
+    },
+    {
+      "entry_id": "083_maxwell_ghislaine",
+      "name": {
+        "full_name": "Kinnerton \u2013 Massage \u2013 UK (a)",
+        "prefix": null,
+        "first_name": "Ghislaine",
+        "middle_name": null,
+        "last_name": "Maxwell",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: a"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "644 (GM dstress membership #)",
+          "formatting": "644 (GM dstress membership #)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [
+        "Note: Massage \u2013 UK (a)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Massage \u2013 UK (a)"
+    },
+    {
+      "entry_id": "083_palazo_bernice",
+      "name": {
+        "full_name": "Kinnerton \u2013 Massage \u2013 UK (a)",
+        "prefix": null,
+        "first_name": "Bernice",
+        "middle_name": null,
+        "last_name": "Palazo",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: a"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "077 4768 5190 (Stroll\u2019s)",
+          "formatting": "077 4768 5190 (Stroll\u2019s)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [
+        "Note: Massage \u2013 UK (a)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Massage \u2013 UK (a)"
+    },
+    {
+      "entry_id": "083_coles_alan",
+      "name": {
+        "full_name": "Kinnerton \u2013 Massage \u2013 UK (a)",
+        "prefix": null,
+        "first_name": "Alan",
+        "middle_name": null,
+        "last_name": "Coles",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: a"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0780 282 6109 (osteopath)",
+          "formatting": "0780 282 6109 (osteopath)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [
+        "Note: Massage \u2013 UK (a)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Massage \u2013 UK (a)"
+    },
+    {
+      "entry_id": "083_unknown_felicity",
+      "name": {
+        "full_name": "Kinnerton \u2013 Massage \u2013 UK (a)",
+        "prefix": null,
+        "first_name": "Felicity",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: a"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207 251 6109 (Thai massage)",
+          "formatting": "0207 251 6109 (Thai massage) (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [
+        "Note: Massage \u2013 UK (a)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Massage \u2013 UK (a)"
+    },
+    {
+      "entry_id": "083_elling_cherie",
+      "name": {
+        "full_name": "Kinnerton \u2013 Massage \u2013 UK (a)",
+        "prefix": null,
+        "first_name": "Cherie",
+        "middle_name": null,
+        "last_name": "Elling",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: a"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0870 225 5007 (good unlisted)",
+          "formatting": "0870 225 5007 (good unlisted)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [
+        "Note: Massage \u2013 UK (a)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Massage \u2013 UK (a)"
+    },
+    {
+      "entry_id": "083_maxwell_ghislaine",
+      "name": {
+        "full_name": "Kinnerton \u2013 Maxwell, Ghislaine",
+        "prefix": null,
+        "first_name": "Ghislaine",
+        "middle_name": null,
+        "last_name": "Maxwell",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-838 9128 (f)",
+          "formatting": "0207-838 9128 (f) (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "2512 21 #21#",
+          "formatting": "2512 21 #21#"
+        },
+        {
+          "type": "home",
+          "number": "0207-838 9129",
+          "formatting": "0207-838 9129 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "44 Kinnerton Street"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW1X 8ES",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": " [NOTABLE: Ghislaine Maxwell]"
+    },
+    {
+      "entry_id": "083_edwards_simon",
+      "name": {
+        "full_name": "Kinnerton \u2013 Maxwell, Ghislaine",
+        "prefix": null,
+        "first_name": "Simon",
+        "middle_name": null,
+        "last_name": "Edwards",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Fedex package to: Simon Edwards"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": " [NOTABLE: Ghislaine Maxwell]"
+    },
+    {
+      "entry_id": "083_mann_alexander",
+      "name": {
+        "full_name": "Kinnerton \u2013 Maxwell, Ghislaine",
+        "prefix": null,
+        "first_name": "Alexander",
+        "middle_name": null,
+        "last_name": "Mann",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-838 9130 (2nd Line)",
+          "formatting": "0207-838 9130 (2nd Line) (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "0771 423 6573 (Range Rover)",
+          "formatting": "0771 423 6573 (Range Rover)"
+        },
+        {
+          "type": "portable",
+          "number": "07785 771552",
+          "formatting": "07785 771552"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "9-11 Fulwood Pl"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "WC1V 6HG",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Global Markets [NOTABLE: Ghislaine Maxwell]"
+    },
+    {
+      "entry_id": "083_unknown_unknown",
+      "name": {
+        "full_name": "Kinnerton \u2013 Minicabs",
+        "prefix": null,
+        "first_name": "Kinnerton",
+        "middle_name": "\u2013",
+        "last_name": "Minicabs",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0800-854321",
+          "formatting": "0800-854321"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Minicabs"
+    },
+    {
+      "entry_id": "083_unknown_kevin_&_valerie",
+      "name": {
+        "full_name": "Kinnerton \u2013 Nags Head",
+        "prefix": null,
+        "first_name": "Kevin & Valerie",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-235 1135",
+          "formatting": "0207-235 1135 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-931 0789",
+          "formatting": "0207-931 0789 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Kevin & Valerie"
+    },
+    {
+      "entry_id": "083_o\u2019neil_nessa",
+      "name": {
+        "full_name": "Kinnerton \u2013 O\u2019Neil Nessa",
+        "prefix": null,
+        "first_name": "Nessa",
+        "middle_name": null,
+        "last_name": "O\u2019Neil",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-235 1209",
+          "formatting": "0207-235 1209 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "0831 458686",
+          "formatting": "0831 458686"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "083_unknown_unknown",
+      "name": {
+        "full_name": "Kinnerton \u2013 Oping",
+        "prefix": null,
+        "first_name": "Kinnerton",
+        "middle_name": "\u2013",
+        "last_name": "Oping",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "01865 726297",
+          "formatting": "01865 726297"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Oping"
+    },
+    {
+      "entry_id": "083_outred_anthony",
+      "name": {
+        "full_name": "Kinnerton \u2013 Outred, Anthony",
+        "prefix": null,
+        "first_name": "Anthony",
+        "middle_name": null,
+        "last_name": "Outred",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-730 4782",
+          "formatting": "0207-730 4782 (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "0207-376 3627",
+          "formatting": "0207-376 3627 (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "0208-965-8733 (Hedly\u2019s Humpers) (Movers)",
+          "formatting": "0208-965-8733 (Hedly\u2019s Humpers) (Movers) (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-736 8756",
+          "formatting": "0207-736 8756 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "533 Kings Road"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW10 0TZ",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "083_unknown_unknown",
+      "name": {
+        "full_name": "Kinnerton \u2013 Police 24 hours",
+        "prefix": null,
+        "first_name": "Kinnerton",
+        "middle_name": "\u2013 Police 24",
+        "last_name": "hours",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-321-8273",
+          "formatting": "0207-321-8273 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Police"
+    },
+    {
+      "entry_id": "083_unknown_unknown",
+      "name": {
+        "full_name": "Kinnerton \u2013 Range Rover",
+        "prefix": null,
+        "first_name": "Kinnerton",
+        "middle_name": "\u2013 Range",
+        "last_name": "Rover",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0771 4236573",
+          "formatting": "0771 4236573"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Range Rover"
+    },
+    {
+      "entry_id": "083_ray_john",
+      "name": {
+        "full_name": "Kinnerton \u2013 Ray John",
+        "prefix": null,
+        "first_name": "John",
+        "middle_name": null,
+        "last_name": "Ray",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 715 7227",
+          "formatting": "001 212 715 7227 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 43,
+    "entries_with_emails": 1,
+    "entries_with_addresses": 8,
+    "entries_with_handwritten_notes": 0,
+    "couples": 1,
+    "average_confidence": "high",
+    "notable_figures_count": 3
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Kenya (K) \u2013 Muthaiga Club",
+      "Kinnerton \u2013 Airport Transfers",
+      "Kinnerton \u2013 Charlie",
+      "Kinnerton \u2013 Chelsea Police Station",
+      "Kinnerton \u2013 Coles, Alan (Registered Osteopath)",
+      "Kinnerton \u2013 Coles, Alan (Registered Osteopath)",
+      "Kinnerton \u2013 Drivers",
+      "Kinnerton \u2013 Drivers",
+      "Kinnerton \u2013 Drivers",
+      "Kinnerton \u2013 Entwistle, Isi",
+      "Kinnerton \u2013 Hair Assocs",
+      "Kinnerton \u2013 Harrods Limited",
+      "Kinnerton \u2013 Harvey Nichols",
+      "Kinnerton \u2013 Holland",
+      "Holland",
+      "Kinnerton \u2013 Jackson Stops",
+      "Kinnerton \u2013 John Hobbs Ltd.",
+      "Kinnerton \u2013 La Famiglia",
+      "Kinnerton \u2013 Martin Tim/Debbie Steward",
+      "Kinnerton \u2013 Martin Tim/Debbie Steward",
+      "Kinnerton \u2013 Martine",
+      "Kinnerton \u2013 Massage \u2013 UK (a)",
+      "Kinnerton \u2013 Massage \u2013 UK (a)",
+      "Kinnerton \u2013 Massage \u2013 UK (a)",
+      "Kinnerton \u2013 Massage \u2013 UK (a)",
+      "Kinnerton \u2013 Massage \u2013 UK (a)",
+      "Kinnerton \u2013 Massage \u2013 UK (a)",
+      "Kinnerton \u2013 Massage \u2013 UK (a)",
+      "Kinnerton \u2013 Massage \u2013 UK (a)",
+      "Kinnerton \u2013 Massage \u2013 UK (a)",
+      "Kinnerton \u2013 Massage \u2013 UK (a)",
+      "Kinnerton \u2013 Massage \u2013 UK (a)",
+      "Kinnerton \u2013 Massage \u2013 UK (a)",
+      "Kinnerton \u2013 Maxwell, Ghislaine",
+      "Kinnerton \u2013 Maxwell, Ghislaine",
+      "Kinnerton \u2013 Maxwell, Ghislaine",
+      "Kinnerton \u2013 Minicabs",
+      "Kinnerton \u2013 Nags Head",
+      "Kinnerton \u2013 O\u2019Neil Nessa",
+      "Kinnerton \u2013 Oping",
+      "Kinnerton \u2013 Outred, Anthony",
+      "Kinnerton \u2013 Police 24 hours",
+      "Kinnerton \u2013 Range Rover",
+      "Kinnerton \u2013 Ray John"
+    ],
+    "organizations": [
+      "John Hobbs Ltd."
+    ],
+    "locations": {
+      "international": [
+        "UK"
+      ],
+      "us_cities": [
+        "London",
+        "Earls Court"
+      ],
+      "elite_addresses": [
+        "#87, 135 Brompton Road, Knightsbridge"
+      ]
+    }
+  },
+  "insights": [
+    "Multiple massage services listed (12 entries)",
+    "Household staff entries (3 entries)",
+    "Geographic cluster: London (5 entries)",
+    "Contains 3 notable figure(s)"
+  ]
+}

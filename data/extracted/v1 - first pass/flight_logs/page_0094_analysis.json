@@ -1,0 +1,285 @@
+{
+  "page_number": 94,
+  "date_header": "JUNE-JUL 2002",
+  "time_period": "June 2002 - July 2002",
+  "aircraft": {
+    "registration": "Multiple (B-727-31W N908JE, G-1159B N909JE)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "JUNE 1",
+      "date": "06/01/2002",
+      "departure": "B-727-31W",
+      "arrival": "N908JE",
+      "flight_time": "111",
+      "remarks": "GTPW - JFK - JG, GM, SK",
+      "passengers": ["JG", "GM", "SK"],
+      "crew": "1/1"
+    },
+    {
+      "entry_number": "8",
+      "date": "06/08/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "112",
+      "remarks": "JFK - PBI - JG, SK",
+      "passengers": ["JG", "SK"],
+      "crew": "6/4"
+    },
+    {
+      "entry_number": "12",
+      "date": "06/12/2002",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1563",
+      "remarks": "PBI - PBI - EDS GOLDSTEIN, GINNY POLLAG & MR, JEFFERY",
+      "passengers": ["EDS GOLDSTEIN", "GINNY POLLAG", "& MR", "JEFFERY"],
+      "crew": "2/3"
+    },
+    {
+      "entry_number": "14",
+      "date": "06/14/2002",
+      "departure": "B-727-31W",
+      "arrival": "N908JE",
+      "flight_time": "113",
+      "remarks": "CY - BOS - REPOSITION",
+      "passengers": [],
+      "crew": "2/0"
+    },
+    {
+      "entry_number": "14",
+      "date": "06/14/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "114",
+      "remarks": "BOS - TIST - JE, SK, CINDY LOPEZ, J. GWENDOLYN",
+      "passengers": ["JE", "SK", "CINDY LOPEZ", "J. GWENDOLYN"],
+      "crew": "2/6"
+    },
+    {
+      "entry_number": "16",
+      "date": "06/16/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "115",
+      "remarks": "TIST - PBI - JE, GM, SK, CINDY LOPEZ, GWENDOLYN",
+      "passengers": ["JE", "GM", "SK", "CINDY LOPEZ", "GWENDOLYN"],
+      "crew": "3/7"
+    },
+    {
+      "entry_number": "19",
+      "date": "06/19/2002",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1564",
+      "remarks": "PBI - TGO - REPOSITION",
+      "passengers": [],
+      "crew": "3/2"
+    },
+    {
+      "entry_number": "19",
+      "date": "06/19/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1565",
+      "remarks": "TGO - PBI - JE, GM, CINDY LOPEZ, STEPHANIE",
+      "passengers": ["JE", "GM", "CINDY LOPEZ", "STEPHANIE"],
+      "crew": "3/5"
+    },
+    {
+      "entry_number": "21",
+      "date": "06/21/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1566",
+      "remarks": "PBI - MYEF - JG, GM, SK, CL, JEAN LUC BRUNEL, NADIA",
+      "passengers": ["JG", "GM", "SK", "CL", "JEAN LUC BRUNEL", "NADIA"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "21",
+      "date": "06/21/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1571",
+      "remarks": "MYEF - PBI - REPOSITION",
+      "passengers": [],
+      "crew": "1/1"
+    },
+    {
+      "entry_number": "23",
+      "date": "06/23/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1572",
+      "remarks": "PBI - MYEF - REPOSITION",
+      "passengers": [],
+      "crew": "1/2"
+    },
+    {
+      "entry_number": "23",
+      "date": "06/23/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1573",
+      "remarks": "MYEF - MYEF - JG, GM, SK, CL, ALEXIA MCMINN, AUDREY RAIMBAULT, JANE ROSE",
+      "passengers": ["JG", "GM", "SK", "CL", "ALEXIA MCMINN", "AUDREY RAIMBAULT", "JANE ROSE"],
+      "crew": "1/1"
+    },
+    {
+      "entry_number": "23",
+      "date": "06/23/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1574",
+      "remarks": "MYEF - TGO - REPOSITION",
+      "passengers": [],
+      "crew": "1/1"
+    },
+    {
+      "entry_number": "23",
+      "date": "06/23/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1575",
+      "remarks": "TGO - PBI - REPOSITION",
+      "passengers": [],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "27",
+      "date": "06/27/2002",
+      "departure": "B-727-31W",
+      "arrival": "N908JE",
+      "flight_time": "116",
+      "remarks": "JFK - LEFD - NUMEROUS DR MENDEL BLOCH, HELEN, JOAN MENDELSOHN, MR WOLF, JACKER, IRA WEISS, ANNICK, LOUIS, FENTON, M MURDOCK, JG, GM, SK, JERRY COHEN, MICHAEL, SANDRA, LYNN, MICHELLE",
+      "passengers": ["DR MENDEL BLOCH", "HELEN", "JOAN MENDELSOHN", "MR WOLF", "JACKER", "IRA WEISS", "ANNICK", "LOUIS", "FENTON", "M MURDOCK", "JG", "GM", "SK", "JERRY COHEN", "MICHAEL", "SANDRA", "LYNN", "MICHELLE"],
+      "crew": "1/1"
+    },
+    {
+      "entry_number": "29",
+      "date": "06/29/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "117",
+      "remarks": "LEPE - LEPA - SAME AS 116",
+      "passengers": ["SAME AS 116"],
+      "crew": "7/1"
+    },
+    {
+      "entry_number": "JUL 12",
+      "date": "07/12/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "118",
+      "remarks": "LEPA - LEFD - JG, JAMES COOPER, BRAD B",
+      "passengers": ["JG", "JAMES COOPER", "BRAD B"],
+      "crew": "1/3"
+    },
+    {
+      "entry_number": "13",
+      "date": "07/13/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "119",
+      "remarks": "LEFD - LFMN - JG",
+      "passengers": ["JG"],
+      "crew": "1/6"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JG",
+      "GM",
+      "SK",
+      "JE",
+      "EDS GOLDSTEIN",
+      "GINNY POLLAG",
+      "& MR",
+      "JEFFERY",
+      "CINDY LOPEZ",
+      "J. GWENDOLYN",
+      "GWENDOLYN",
+      "STEPHANIE",
+      "CL",
+      "JEAN LUC BRUNEL",
+      "NADIA",
+      "ALEXIA MCMINN",
+      "AUDREY RAIMBAULT",
+      "JANE ROSE",
+      "DR MENDEL BLOCH",
+      "HELEN",
+      "JOAN MENDELSOHN",
+      "MR WOLF",
+      "JACKER",
+      "IRA WEISS",
+      "ANNICK",
+      "LOUIS",
+      "FENTON",
+      "M MURDOCK",
+      "JERRY COHEN",
+      "MICHAEL",
+      "SANDRA",
+      "LYNN",
+      "MICHELLE",
+      "SAME AS 116",
+      "JAMES COOPER",
+      "BRAD B",
+      "David Rodgers"
+    ],
+    "locations": [
+      "GTPW",
+      "JFK",
+      "PBI",
+      "CY",
+      "BOS",
+      "TIST",
+      "TGO",
+      "MYEF",
+      "LEFD",
+      "LEPE",
+      "LEPA",
+      "LFMN"
+    ],
+    "aircraft": [
+      "B-727-31W",
+      "N908JE",
+      "G-1159B",
+      "N909JE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "47/16",
+    "amount_forward": "8693",
+    "total_to_date": "8740",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page transitions from June to July 2002",
+    "JE (Jeffrey Epstein) appears on June 14, 16, and 19",
+    "SK (Sarah Kellen) appears frequently throughout June",
+    "Jean Luc Brunel appears on June 21",
+    "Multiple REPOSITION flights (no passengers)",
+    "J. Gwendolyn appears June 14, Gwendolyn on June 16",
+    "Cindy Lopez appears multiple times",
+    "Large group flight on June 27 with numerous passengers including Dr Mendel Bloch and Mendelsohn family",
+    "Caribbean operations continue (TIST)",
+    "European operations to France (LEFD, LEPE, LEPA, LFMN)",
+    "Flight numbers reach 1575 for G-1159B and 119 for B-727",
+    "SAME AS 116 notation on June 29 flight",
+    "Audrey Raimbault appears on June 23"
+  ]
+}

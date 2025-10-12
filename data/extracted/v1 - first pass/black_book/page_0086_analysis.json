@@ -1,0 +1,992 @@
+{
+  "page_number": 86,
+  "section": "Palm Beach Services and Contacts",
+  "entries": [
+    {
+      "name": "212236 0819 arreng",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 236 0819 arreng",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Arrangement service",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Coronel, Bill",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561-833-8615",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Bill Coronel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Massage - Florida (a)",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 534 0010 Down Will (h)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 534 0011 Down Will (h)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 534 0470 Down Lauren",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 514 6170 (Quinn Levenick)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 541 6170 Down Will (r)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 835 9513 Down Will (b)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 833 6520 (Christina)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "additional_contacts": [
+        "Down Will",
+        "Down Lauren",
+        "Quinn Levenick",
+        "Christina"
+      ],
+      "notes": "Florida Massage services - multiple practitioners",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "[Multiple entries - blackened out]",
+      "category": "Redacted",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 835 [blackened]",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "561 434 5862 [partially visible]",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "561 434 5862 Jenny 60",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "561 833 8985 Amanda",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Multiple blackened/redacted entries",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Multiple entries heavily redacted"]
+      }
+    },
+    {
+      "name": "Koelhed Bell [blackened]",
+      "category": "Redacted",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 835 1287 [partially visible]",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Koelhed Bell - partially redacted",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Entry partially blackened"]
+      }
+    },
+    {
+      "name": "Nancy Rogowski",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 835 1234 Nancy Rogowski",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Nancy Rogowski",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Karen Stoney Store B",
+      "category": "Business",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 833 1076 Karen Stoney Store B",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Karen Stoney Store B",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Knoefled Gail [partially blackened]",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [],
+      "notes": "Knoefled Gail - heavily redacted",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Entry heavily blackened"]
+      }
+    },
+    {
+      "name": "Multiple massage entries",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 488 4820 Get Far",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 833 2444 Elizabeth (old beard)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 835 5599 (Montreulle)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 833 4844 Amanda (B)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 514 8892 Angela",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "additional_contacts": [
+        "Elizabeth",
+        "Montreulle",
+        "Amanda",
+        "Angela"
+      ],
+      "notes": "Additional massage service numbers",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Couplings & Kelly",
+      "category": "Business",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 833 1789 Couplings & Kelly",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 833 6696 Matt",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couplings & Kelly business",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Laura Irowell",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "518 912 1156 Laura Irowell",
+          "area_code": "518",
+          "geographic_indicator": "Albany NY",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Laura Irowell",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Colleen Roberts",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 333 2323 Colleen Roberts",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 835 1005 Beeline Carol (B)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 833 8810 Madison (cell)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Colleen Roberts and related contacts",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Connor",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 833 10174 Connor",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 835 10175 Courtney",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 514 1010 Corelle",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 832 3836 Mongella Ball",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Nora Sheiner",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "Monmouthes",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Connor and related contacts",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Some entries without complete phone numbers"]
+      }
+    },
+    {
+      "name": "Various Contacts",
+      "category": "Various",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 691 6127 Jack (w)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 777 2574 Mark (w)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 582 7938 Joe Rockmore",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 252 0005 German",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 252 0006 German Mystery (h)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 735 9888 David",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 735 9889 Chapenel Myers",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 735 9890 Christopher Morris",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Various Palm Beach contacts",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Diana Lake Barat",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 833 1069 Diana Lake barat",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Diana Lake Barat",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Cell/Dance Info",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 333 1688 (Cell/Dance)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 655 0079 Coqui",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 565 0078 Coqui",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 835 0078 Dance (big band)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Cell/Dance services",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Mike Piccilo",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1st party account",
+          "reference": "1st party account",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "305 853 5051",
+          "area_code": "305",
+          "geographic_indicator": "Miami",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "305 876 7644 Hand Holders",
+          "area_code": "305",
+          "geographic_indicator": "Miami",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "305 853 5051 Jenny (h)",
+          "area_code": "305",
+          "geographic_indicator": "Miami",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 833 9358 Jenny (h)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 254 9110 (c)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Mike Piccilo - 1st party account",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Massage - Larry",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 568 4341",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Larry - Massage service",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Sharry & les P'a",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "305 443 3399 Sharry & les P'a",
+          "area_code": "305",
+          "geographic_indicator": "Miami",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Sharry & les P'a",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Jason George's",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 736 3666 Jason George's",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Jason George's",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Additional entries",
+      "category": "Various",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 835 9531 Maria 50mo",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 514 8131 Los Colonna",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 333 3333 Los Bramon & cell",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Additional Palm Beach contacts",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Police PB",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 838 5454 Police PB",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Captain Keep Hospital"
+      ],
+      "notes": "Palm Beach Police",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Howard Stone (h)",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 835 8336 Howard Stone (h)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 833 8808 Marina Beecino (h)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Howard Stone and Marina Beecino",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Marissa George's",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 833 8340 Marissa George's",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Marissa George's",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Pompano Helicopter",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "305 9517 Helicopter",
+          "area_code": "305",
+          "geographic_indicator": "Miami",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Pompano Helicopter service",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone number incomplete"]
+      }
+    },
+    {
+      "name": "Maxwell, Ghislaine",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "694 at Bank Way",
+          "street": "694 at Bank Way",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Palm Beach, Florida 33480",
+          "city": "Palm Beach",
+          "state": "Florida",
+          "postal_code": "33480",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 832 7116",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 832 7117",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 832 7180 Mercedes",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Ghislaine Maxwell - Bank Way Palm Beach",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Michael & Sally Levels",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "1 561 616 5556 (cell)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "mglevels@mindlink.net",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Michael & Sally Levels",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Stonish, Alan",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "207 St Channing Wray",
+          "street": "207 St Channing Wray",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Worth Avenue",
+          "street": "Worth Avenue",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 783 6379 (off)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Alan Stonish - Worth Avenue",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Vel",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 659 2305",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Vel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "RANCH (RH)",
+      "category": "Section Header",
+      "location": "USA",
+      "entries": [],
+      "notes": "Ranch section header",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Beales, John",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Ranch Manager",
+          "title": "Ranch Manager",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "505 536 9472",
+          "area_code": "505",
+          "geographic_indicator": "New Mexico",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 926 4149 (c)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "John Beales - Ranch Manager",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 31,
+    "illegible_entries": 3,
+    "partial_entries": 5,
+    "sections": ["Palm Beach Services", "RANCH (RH)"],
+    "notable_entries": [
+      "Ghislaine Maxwell - Bank Way Palm Beach",
+      "Multiple massage services with extensive contact lists",
+      "Palm Beach Police",
+      "Pompano Helicopter service",
+      "Ranch Manager - John Beales"
+    ],
+    "geographic_distribution": {
+      "usa": 31,
+      "palm_beach": 28,
+      "miami": 3,
+      "new_mexico": 1,
+      "albany_ny": 1
+    },
+    "location_highlights": [
+      "Ghislaine Maxwell - 694 Bank Way Palm Beach",
+      "Multiple massage service providers",
+      "Palm Beach Police contact",
+      "Ranch section with manager",
+      "Extensive Palm Beach service network"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 23,
+      "medium_confidence": 3,
+      "low_confidence": 5,
+      "specific_issues": [
+        "Multiple entries heavily blackened/redacted",
+        "Several massage service entries partially obscured",
+        "Some phone numbers incomplete"
+      ]
+    }
+  }
+}

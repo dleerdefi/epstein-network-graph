@@ -1,0 +1,993 @@
+{
+  "page_number": 53,
+  "alphabetical_section": "B/T",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "053_tate_rupert",
+      "name": {
+        "full_name": "Tate, Rupert",
+        "prefix": null,
+        "first_name": "Rupert",
+        "middle_name": null,
+        "last_name": "Tate",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-228 5035",
+          "formatting": "0207-228 5035 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-280 2923",
+          "formatting": "0207-280 2923 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "5 Inworth Street"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW11",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "053_taubman_alfred",
+      "name": {
+        "full_name": "Taubman, Alfred",
+        "prefix": null,
+        "first_name": "Alfred",
+        "middle_name": null,
+        "last_name": "Taubman",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "810-258-7476",
+          "formatting": "810-258-7476"
+        },
+        {
+          "type": "work",
+          "number": "810-258-7201",
+          "formatting": "810-258-7201"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "200 East Long Lake"
+          ],
+          "city": "Bloomfield Hills",
+          "state": null,
+          "postal_code": "MI 48304",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "053_taubman_alfred",
+      "name": {
+        "full_name": "Taubman, Alfred",
+        "prefix": null,
+        "first_name": "Alfred",
+        "middle_name": null,
+        "last_name": "Taubman",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "561-832-0700",
+          "formatting": "561-832-0700"
+        },
+        {
+          "type": "work",
+          "number": "212-541-6400",
+          "formatting": "212-541-6400"
+        },
+        {
+          "type": "home",
+          "number": "810-855-3700",
+          "formatting": "810-855-3700"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "7-12 5th Avenue"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY",
+          "country": "US",
+          "notes": "Fifth Avenue luxury"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "053_taubman_bobby",
+      "name": {
+        "full_name": "Taubman, Bobby",
+        "prefix": null,
+        "first_name": "Bobby",
+        "middle_name": null,
+        "last_name": "Taubman",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 810 258-7213",
+          "formatting": "001 810 258-7213 (International)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 541 6400",
+          "formatting": "001 212 541 6400 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 810 644 7775",
+          "formatting": "001 810 644 7775 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "053_tavoulareas_billy_&_nicket",
+      "name": {
+        "full_name": "Tavoulareas, Mr Billy",
+        "prefix": null,
+        "first_name": "Billy & Nicket",
+        "middle_name": null,
+        "last_name": "Tavoulareas",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Nicket"
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-439 9721",
+          "formatting": "0207-439 9721 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0208-340 6417",
+          "formatting": "0208-340 6417 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0208-348 0267",
+          "formatting": "0208-348 0267 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Somerlese , Courtney Avenue"
+          ],
+          "city": "Highgate London",
+          "state": null,
+          "postal_code": "N6 4LP",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "053_tavoulareas_peter",
+      "name": {
+        "full_name": "Vaoulareas, Peter",
+        "prefix": null,
+        "first_name": "Peter",
+        "middle_name": null,
+        "last_name": "Tavoulareas",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-439 9721",
+          "formatting": "0207-439 9721 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-284 0425",
+          "formatting": "0207-284 0425 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "7 Prince Albert Road"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "NW1",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "053_tayler_emmy",
+      "name": {
+        "full_name": "Tayler, Emmy",
+        "prefix": null,
+        "first_name": "Emmy",
+        "middle_name": null,
+        "last_name": "Tayler",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "01144 7956 509 659 (Laura sis.)",
+          "formatting": "01144 7956 509 659 (Laura sis.) (International)"
+        },
+        {
+          "type": "home",
+          "number": "011 44 1865-559181",
+          "formatting": "011 44 1865-559181 (International)"
+        },
+        {
+          "type": "home",
+          "number": "323 650 7588",
+          "formatting": "323 650 7588"
+        },
+        {
+          "type": "portable",
+          "number": "7956248584",
+          "formatting": "7956248584"
+        }
+      ],
+      "emails": [
+        {
+          "address": "emtayler@att.net",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "053_tayler_emmy",
+      "name": {
+        "full_name": "Tayler, Emmy",
+        "prefix": null,
+        "first_name": "Emmy",
+        "middle_name": null,
+        "last_name": "Tayler",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 561-373 4880 (Kyle Work No. Only)",
+          "formatting": "001 561-373 4880 (Kyle Work No. Only) (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 323 821 3699",
+          "formatting": "001 323 821 3699 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "1017 N. Laurel Ave, Apt. #1"
+          ],
+          "city": "West Hollywood",
+          "state": null,
+          "postal_code": "CA 90046",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "053_taylor_felicia",
+      "name": {
+        "full_name": "Taylor, Felicia",
+        "prefix": null,
+        "first_name": "Felicia",
+        "middle_name": null,
+        "last_name": "Taylor",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 517 0085",
+          "formatting": "001 212 517 0085 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 917 562-0022 (voice mail)",
+          "formatting": "001 917 562-0022 (voice mail) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "202 483 0817/5437 (John)",
+          "formatting": "202 483 0817/5437 (John)"
+        },
+        {
+          "type": "unknown",
+          "number": "561 833 9856",
+          "formatting": "561 833 9856"
+        },
+        {
+          "type": "unknown",
+          "number": "561 833 4464 (private line)",
+          "formatting": "561 833 4464 (private line)"
+        },
+        {
+          "type": "portable",
+          "number": "917 834 4993 (car)",
+          "formatting": "917 834 4993 (car) (NYC mobile)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 664 2600",
+          "formatting": "001 212 664 2600 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "917 975 7735",
+          "formatting": "917 975 7735 (NYC mobile)"
+        },
+        {
+          "type": "portable",
+          "number": "07799 644 851 (UK cell)",
+          "formatting": "07799 644 851 (UK cell)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "784 Park Avenue #10A"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": "Upper East Side elite"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "053_taylor_pamela",
+      "name": {
+        "full_name": "Taylor, Pamela",
+        "prefix": null,
+        "first_name": "Pamela",
+        "middle_name": null,
+        "last_name": "Taylor",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 527-4068 (f)",
+          "formatting": "001 212 527-4068 (f) (International)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 527-4066",
+          "formatting": "001 212 527-4066 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "053_taylor_sebastian",
+      "name": {
+        "full_name": "Taylor, Sebastian",
+        "prefix": null,
+        "first_name": "Sebastian",
+        "middle_name": null,
+        "last_name": "Taylor",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 917 846 4161",
+          "formatting": "001 917 846 4161 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "235 4472",
+          "formatting": "235 4472"
+        },
+        {
+          "type": "unknown",
+          "number": "0207-245-6816 (Fax)",
+          "formatting": "0207-245-6816 (Fax) (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "212-750-3835",
+          "formatting": "212-750-3835"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "15 West Halkin St."
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW1",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "053_taymor_julie_&_eliot",
+      "name": {
+        "full_name": "Taymor, Julie",
+        "prefix": null,
+        "first_name": "Julie & Eliot",
+        "middle_name": null,
+        "last_name": "Taymor",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Eliot"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 475 4829 (private)",
+          "formatting": "212 475 4829 (private)"
+        },
+        {
+          "type": "unknown",
+          "number": "212-505-8507 (pvtfax)",
+          "formatting": "212-505-8507 (pvtfax)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "Lohinc@earthlink.net",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "874 Broadway #1001/1005"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10003",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Loh Inc. & Zarathustra Music"
+    },
+    {
+      "entry_id": "053_taymor_julie_&_eliot",
+      "name": {
+        "full_name": "Taymor, Julie",
+        "prefix": null,
+        "first_name": "Julie & Eliot",
+        "middle_name": null,
+        "last_name": "Taymor",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Eliot"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 505 1452 (Assistant Jules)",
+          "formatting": "212 505 1452 (Assistant Jules)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 505 3572 (Jules fax)",
+          "formatting": "212 505 3572 (Jules fax)"
+        },
+        {
+          "type": "home",
+          "number": "212 505 8032",
+          "formatting": "212 505 8032"
+        },
+        {
+          "type": "home",
+          "number": "212 674 1018",
+          "formatting": "212 674 1018"
+        },
+        {
+          "type": "home",
+          "number": "845 424 4329",
+          "formatting": "845 424 4329"
+        },
+        {
+          "type": "portable",
+          "number": "917 846 0467 (Elliot)",
+          "formatting": "917 846 0467 (Elliot) (NYC mobile)"
+        },
+        {
+          "type": "portable",
+          "number": "917 689 1659 (Julie)",
+          "formatting": "917 689 1659 (Julie) (NYC mobile)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "26 North Redoubt Road"
+          ],
+          "city": "Garnison",
+          "state": null,
+          "postal_code": "NJ 10524",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Loh Inc. & Zarathustra Music"
+    },
+    {
+      "entry_id": "053_tennenbaum_harry",
+      "name": {
+        "full_name": "Tennenbaum, Harry",
+        "prefix": null,
+        "first_name": "Harry",
+        "middle_name": null,
+        "last_name": "Tennenbaum",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "010 212 722 3055",
+          "formatting": "010 212 722 3055"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "053_teodorani-fabbri_eduardo",
+      "name": {
+        "full_name": "Teodorani-Fabbri, Eduardo",
+        "prefix": null,
+        "first_name": "Eduardo",
+        "middle_name": null,
+        "last_name": "Teodorani-Fabbri",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "11447803 956782",
+          "formatting": "11447803 956782"
+        }
+      ],
+      "emails": [
+        {
+          "address": "eduardo.teodorani@cnh.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Opus Landmark Building, 100 Sth. Saunders Road"
+          ],
+          "city": "Lark Forest",
+          "state": null,
+          "postal_code": "UK 60046",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "CNH Global N.V."
+    },
+    {
+      "entry_id": "053_teodorani-fabbri_eduardo",
+      "name": {
+        "full_name": "Teodorani-Fabbri, Eduardo",
+        "prefix": null,
+        "first_name": "Eduardo",
+        "middle_name": null,
+        "last_name": "Teodorani-Fabbri",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0208-479 8851",
+          "formatting": "0208-479 8851 (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "44 1268 292 629 (wf)",
+          "formatting": "44 1268 292 629 (wf)"
+        },
+        {
+          "type": "unknown",
+          "number": "847 955 3380 (fax)",
+          "formatting": "847 955 3380 (fax)"
+        },
+        {
+          "type": "unknown",
+          "number": "+390115090662 (Fl corp)",
+          "formatting": "+390115090662 (Fl corp)"
+        },
+        {
+          "type": "work",
+          "number": "001 847 735 9200",
+          "formatting": "001 847 735 9200 (International)"
+        },
+        {
+          "type": "home",
+          "number": "011 44 207 8234768",
+          "formatting": "011 44 207 8234768 (International)"
+        },
+        {
+          "type": "home",
+          "number": "+44 207 823 4768",
+          "formatting": "+44 207 823 4768"
+        },
+        {
+          "type": "home",
+          "number": "+39 06 678 0783",
+          "formatting": "+39 06 678 0783"
+        },
+        {
+          "type": "portable",
+          "number": "11447803956782",
+          "formatting": "11447803956782"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Flat 51 \u2013 Royal Court House, 162 Sloane Street"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SWIX 9BS",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "CNH Global N.V."
+    },
+    {
+      "entry_id": "053_bird_karen",
+      "name": {
+        "full_name": "Teodorani-Fabbri, Eduardo (London office)",
+        "prefix": null,
+        "first_name": "Karen",
+        "middle_name": null,
+        "last_name": "Bird",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: London office"
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "44 1268 295383",
+          "formatting": "44 1268 295383"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "CNH Global N.V."
+    },
+    {
+      "entry_id": "053_theilmann_francesca",
+      "name": {
+        "full_name": "Theilmann, Baroness Francesca",
+        "prefix": null,
+        "first_name": "Francesca",
+        "middle_name": null,
+        "last_name": "Theilmann",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "011 541 815 2409",
+          "formatting": "011 541 815 2409 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "011 541 815 3193",
+          "formatting": "011 541 815 3193 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 18,
+    "entries_with_emails": 3,
+    "entries_with_addresses": 12,
+    "entries_with_handwritten_notes": 0,
+    "couples": 3,
+    "average_confidence": "high",
+    "notable_figures_count": 0
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Tate, Rupert",
+      "Taubman, Alfred",
+      "Taubman, Alfred",
+      "Taubman, Bobby",
+      "Tavoulareas, Mr Billy",
+      "Nicket",
+      "Vaoulareas, Peter",
+      "Tayler, Emmy",
+      "Tayler, Emmy",
+      "Taylor, Felicia",
+      "Taylor, Pamela",
+      "Taylor, Sebastian",
+      "Taymor, Julie",
+      "Eliot",
+      "Taymor, Julie",
+      "Eliot",
+      "Tennenbaum, Harry",
+      "Teodorani-Fabbri, Eduardo",
+      "Teodorani-Fabbri, Eduardo",
+      "Teodorani-Fabbri, Eduardo (London office)",
+      "Theilmann, Baroness Francesca"
+    ],
+    "organizations": [
+      "Loh Inc. & Zarathustra Music",
+      "Loh Inc. & Zarathustra Music"
+    ],
+    "locations": {
+      "international": [
+        "UK"
+      ],
+      "us_cities": [
+        "London",
+        "Garnison",
+        "Lark Forest",
+        "Highgate London",
+        "Bloomfield Hills",
+        "New York",
+        "West Hollywood"
+      ],
+      "elite_addresses": [
+        "784 Park Avenue #10A",
+        "7-12 5th Avenue"
+      ]
+    }
+  },
+  "insights": [
+    "Geographic cluster: London (4 entries)"
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "page_number": 11,
+  "file_path": "data/flight_logs_images/page-011.png",
+  "type": "aircraft_flight_log",
+  "content": {
+    "text": "DATE | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARKS | POINTS OF DEPARTURE & ARRIVAL | FROM | TO | MILEAGE | FLY TIME | REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS | AIRCRAFT CATEGORY\n\n22 N908JE/100 N908JE CRF TEB 17 163 CHRISTINE, MONIQUE, KIPPI, ROSE ELLEN\n8 '' '' TEB CMH 17 164 JEFFREY, JEAN + CAROLINE\n12 '' '' CMH TEB 19.5 165 JEFFREY GHISLAINE, SARAH KELLY\n12 '' '' TEB AVY 17 166 JEFFREY GHISLAINE, 1 FEMALE\n12 '' '' AVY AVY 3.5 167 JEFFREY GHISLAINE, SARAH KELLY, 1 FEMALE\n17 '' '' AVY TEB 17 168 JEFFREY GHISLAINE, 1 FEMALE\n18 '' '' TEB CMH 13 169 JEFFREY GHISLAINE, ROSE + JIMMY\n21 '' '' CMH TEB 190 170 KELLY, GHISLAINE\n26 '' '' TEB PBI 26 171 JEFFREY GHISLAINE, EMMY TAYLOR\n28 '' '' PBI ABS 215 172 JEFFREY, 1, GHISLAINE, SARAH\n29 '' '' ABS TEB 37 173 JEFFREY GHISLAINE, SARAH, HALEY\n27 '' '' TEB CMH 149 174 JEFFREY GHISLAINE, IRA MAGAZINER\n2 '' '' CMH SFB 175 JEFFREY, KO SISTERS\n28 '' '' SDR CMH 17 176 JEFFREY, KO, SISTERS\n27 '' '' CMH TEB 146 177\n31 '' '' TEB BNC 63 178 JEFFREY GHISLAINE, SARAH, 1 MAN\n26 '' '' BNC TED 175 179 JEFFREY + 3 FAM, 1 MEN VIRGINIA LARRY\n8 '' '' TUC PGD 165 179 GHISLAINE, KEELAN PEGGY\n9 '' '' PGD [?] 65 180 NO PASSENGERS MAY NOT ATA, GHIZLAINE\n\nPAGE TOTAL: 347 + 224 + 134 = 23\nAMT. FORWARD: 347 + 2316 + 2111 + 1948 = 6775\nTOTAL TO DATE: 347 + 2316 + 2160.3 + 1948 = 2209\n\nI certify that the statements made by me on this form are true.\n\nPILOT'S SIGNATURE: David Rodgers",
+    "handwritten": true,
+    "typed": false,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "Complete cell-by-cell transcription provided above",
+      "flight_records": [
+        {
+          "date": "4/22/92",
+          "departure": "CRF",
+          "arrival": "TEB",
+          "aircraft": "N908JE/100 N908JE",
+          "flight_time": "1.7 hrs",
+          "passengers": ["Christine", "Monique", "Kippi", "Rose Ellen"],
+          "pilot": "David Rodgers",
+          "notes": "CHRISTINE, MONIQUE, KIPPI, ROSE ELLEN"
+        },
+        {
+          "date": "5/8/92",
+          "departure": "TEB",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "1.7 hrs",
+          "passengers": ["Jeffrey", "Jean", "Caroline"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, JEAN + CAROLINE"
+        },
+        {
+          "date": "5/12/92",
+          "departure": "CMH",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "1.95 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Sarah", "Kelly"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE, SARAH KELLY"
+        },
+        {
+          "date": "5/17/92",
+          "departure": "TEB",
+          "arrival": "AVY",
+          "aircraft": "N908JE",
+          "flight_time": "1.7 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "1 Female"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE, 1 FEMALE"
+        },
+        {
+          "date": "5/18/92",
+          "departure": "AVY",
+          "arrival": "AVY",
+          "aircraft": "N908JE",
+          "flight_time": "0.35 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Sarah", "Kelly", "1 Female"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE, SARAH KELLY, 1 FEMALE"
+        },
+        {
+          "date": "5/21/92",
+          "departure": "AVY",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "1.7 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "1 Female"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE, 1 FEMALE"
+        },
+        {
+          "date": "5/26/92",
+          "departure": "TEB",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "1.3 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Rose", "Jimmy"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE, ROSE + JIMMY"
+        },
+        {
+          "date": "5/27/92",
+          "departure": "CMH",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "1.90 hrs",
+          "passengers": ["Kelly", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "KELLY, GHISLAINE"
+        },
+        {
+          "date": "5/28/92",
+          "departure": "TEB",
+          "arrival": "PBI",
+          "aircraft": "N908JE",
+          "flight_time": "2.6 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Emmy Taylor"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE, EMMY TAYLOR"
+        },
+        {
+          "date": "5/29/92",
+          "departure": "PBI",
+          "arrival": "ABS",
+          "aircraft": "N908JE",
+          "flight_time": "2.15 hrs",
+          "passengers": ["Jeffrey", "1", "Ghislaine", "Sarah"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, 1, GHISLAINE, SARAH"
+        },
+        {
+          "date": "6/2/92",
+          "departure": "ABS",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "3.7 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Sarah", "Haley"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE, SARAH, HALEY"
+        },
+        {
+          "date": "5/31/92",
+          "departure": "TEB",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "1.49 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Ira Magaziner"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE, IRA MAGAZINER"
+        },
+        {
+          "date": "6/9/92",
+          "departure": "CMH",
+          "arrival": "SFB",
+          "aircraft": "N908JE",
+          "flight_time": "1.75 hrs",
+          "passengers": ["Jeffrey", "KO Sisters"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, KO SISTERS"
+        },
+        {
+          "date": "6/9/92",
+          "departure": "SDR",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "1.7 hrs",
+          "passengers": ["Jeffrey", "KO", "Sisters"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, KO, SISTERS"
+        },
+        {
+          "date": "6/9/92",
+          "departure": "CMH",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "1.46 hrs",
+          "passengers": [],
+          "pilot": "David Rodgers",
+          "notes": ""
+        },
+        {
+          "date": "6/9/92",
+          "departure": "TEB",
+          "arrival": "BNC",
+          "aircraft": "N908JE",
+          "flight_time": "6.3 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Sarah", "1 Man"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE, SARAH, 1 MAN"
+        },
+        {
+          "date": "6/9/92",
+          "departure": "BNC",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "1.75 hrs",
+          "passengers": ["Jeffrey", "3 Fam", "1 Men", "Virginia", "Larry"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY + 3 FAM, 1 MEN VIRGINIA LARRY"
+        },
+        {
+          "date": "6/9/92",
+          "departure": "TUC",
+          "arrival": "PGD",
+          "aircraft": "N908JE",
+          "flight_time": "1.65 hrs",
+          "passengers": ["Ghislaine", "Keelan", "Peggy"],
+          "pilot": "David Rodgers",
+          "notes": "GHISLAINE, KEELAN PEGGY"
+        },
+        {
+          "date": "6/9/92",
+          "departure": "PGD",
+          "arrival": "[unclear]",
+          "aircraft": "N908JE",
+          "flight_time": "6.5 hrs",
+          "passengers": ["Ghizlaine"],
+          "pilot": "David Rodgers",
+          "notes": "NO PASSENGERS MAY NOT ATA, GHIZLAINE"
+        }
+      ],
+      "headers": ["DATE", "AIRCRAFT MAKE AND MODEL", "AIRCRAFT IDENTIFICATION MARKS", "POINTS OF DEPARTURE & ARRIVAL", "FROM", "TO", "MILEAGE", "FLY TIME", "REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS", "AIRCRAFT CATEGORY"],
+      "annotations": ["1 FEMALE", "1 MAN", "1 MEN", "3 FAM", "KO SISTERS", "NO PASSENGERS MAY NOT ATA", "Complex mathematical calculations in totals"]
+    }
+  },
+  "entities": {
+    "people": [
+      "Christine",
+      "Monique",
+      "Kippi",
+      "Rose Ellen",
+      "Jeffrey",
+      "Jean",
+      "Caroline",
+      "Ghislaine",
+      "Sarah",
+      "Kelly",
+      "1 Female",
+      "Rose",
+      "Jimmy",
+      "Emmy Taylor",
+      "Haley",
+      "Ira Magaziner",
+      "KO Sisters",
+      "Sisters",
+      "1 Man",
+      "3 Fam",
+      "1 Men",
+      "Virginia",
+      "Larry",
+      "Keelan",
+      "Peggy",
+      "Ghizlaine",
+      "David Rodgers"
+    ],
+    "organizations": [],
+    "locations": [
+      "CRF",
+      "TEB",
+      "CMH",
+      "AVY",
+      "PBI",
+      "ABS",
+      "SFB",
+      "SDR",
+      "BNC",
+      "TED",
+      "TUC",
+      "PGD"
+    ],
+    "dates": ["4/22/92", "5/8/92", "5/12/92", "5/17/92", "5/18/92", "5/21/92", "5/26/92", "5/27/92", "5/28/92", "5/29/92", "6/2/92", "5/31/92", "6/9/92"],
+    "aircraft": ["N908JE/100", "N908JE"],
+    "phones": [],
+    "emails": []
+  },
+  "visual_elements": {
+    "signatures": ["David Rodgers (pilot signature at bottom)"],
+    "stamps": [],
+    "corrections": ["Mathematical corrections visible in totals", "Unclear text in final destination"],
+    "redactions": []
+  },
+  "metadata": {
+    "log_type": "passenger_and_cargo_manifest",
+    "time_period": "April-June 1992",
+    "total_flights": 19,
+    "page_condition": "good with some unclear text",
+    "aircraft_registration": "N908JE/100, N908JE",
+    "running_total_hours": "2209 (complex calculations)",
+    "handwriting_notes": "Multiple unnamed passengers (1 FEMALE, 1 MAN, etc.), unusual notation 'NO PASSENGERS MAY NOT ATA'"
+  },
+  "insights": [
+    "IRA MAGAZINER appears - Clinton administration advisor and technology policy expert",
+    "VIRGINIA appears again with Larry and Jeffrey's family ('3 FAM')",
+    "Multiple flights with unnamed females ('1 FEMALE') traveling with Jeffrey and Ghislaine",
+    "Emmy Taylor appears as new passenger name",
+    "KO SISTERS notation - possibly code name or actual sisters",
+    "Rose Ellen and later just Rose - possibly same person",
+    "Kippi appears as unusual first name",
+    "AVY to AVY circular flight of only 0.35 hours - very short local flight",
+    "Pattern continues of Jeffrey and Ghislaine traveling with young women",
+    "Sarah appears frequently, likely Sarah Kellen",
+    "Kelly appears both alone and with Sarah - possibly same person as Sarah Kelly/Kellen",
+    "Haley appears as new passenger",
+    "NO PASSENGERS MAY NOT ATA - unusual notation possibly meaning 'no passengers, may not arrive'",
+    "BNC appears as new destination with long 6.3 hour flight time",
+    "ABS appears as new airport code",
+    "SFB (possibly Sanford, Florida) appears",
+    "SDR and CRF appear as new airport codes",
+    "TUC (Tucson) and PGD (Punta Gorda) appear",
+    "Multiple instances of Jeffrey and Ghislaine traveling with unnamed individuals",
+    "Mathematical discrepancies visible in running totals"
+  ]
+}

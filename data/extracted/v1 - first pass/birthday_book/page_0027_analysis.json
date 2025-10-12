@@ -1,0 +1,154 @@
+{
+  "page_number": 27,
+  "type": "handwritten_note_continued",
+  "content": {
+    "text": "Complete transcription of Seymour's school memories",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "I don't recall how many or their\nnames - My grandfather died at\nan early age - I have one Brother\nthat was born MAY 4. 11- 19. -\nI STARTED school when I was 6 Years old -\nwhile in school I was a fairly good\nstudent - until I graduated -\nThe Teachers I liked best was\nMr. Fox - Mr. FRANK, Mr. MILLERS\nalso My biology Teacher - Miss Rosenberg -\nMr Fox used to Yolked the class\nTO IDEAS help to decide College\nDodgers Play - Mr. FRANK was\nthe SHOP TEACHER Mr. Millers was\nthe Science TEACHER -\n\n[Page appears to continue but text is cut off]\n\nHOUSE_OVERSIGHT_000027",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Mr. Fox",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          27
+        ]
+      },
+      {
+        "name": "Mr. Frank",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          27
+        ]
+      },
+      {
+        "name": "Mr. Millers",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          27
+        ]
+      },
+      {
+        "name": "Miss Rosenberg",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          27
+        ]
+      }
+    ],
+    "organizations": [
+      "College Dodgers"
+    ],
+    "locations": [],
+    "dates": [
+      "May 4, 1919 (brother's birth)"
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Seymour (father)",
+    "recipient": "Jeff (Jeffrey Epstein)",
+    "date": "2003",
+    "subject": "Father's school memories",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "handwritten_note_continued"
+  },
+  "relationships": [
+    "Brother born May 4, 1919",
+    "Teachers who influenced him"
+  ],
+  "insights": [
+    "Cannot recall all siblings' names - memory issues",
+    "Grandfather died at 'early age' - family loss",
+    "One brother born May 4, 1919 (likely Mark's namesake)",
+    "Started school at age 6 (1922)",
+    "'fairly good student until I graduated'",
+    "Favorite teachers remembered by name decades later",
+    "Mr. Fox - discussed Brooklyn Dodgers with class",
+    "Mr. Frank - SHOP TEACHER (vocational training)",
+    "Mr. Millers - Science teacher",
+    "Miss Rosenberg - Biology teacher",
+    "'Yolked the class' - possibly meant 'talked'",
+    "'TO IDEAS help to decide College' - confused phrasing",
+    "Brooklyn Dodgers mentioned again - important to identity",
+    "Working class education with shop/vocational focus",
+    "Jewish teachers (Rosenberg) in Brooklyn schools",
+    "Cognitive decline evident in writing structure"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000027",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.132575",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": true,
+    "high_priority": false,
+    "quality_score": 80,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Brother born 1919 - 3 years younger than Seymour",
+    "Memory gaps about siblings despite earlier saying 8 children",
+    "Brooklyn Dodgers recurring theme - cultural touchstone",
+    "Shop class indicates vocational/trade education path",
+    "Writing shows continued cognitive deterioration"
+  ],
+  "investigative_leads": [
+    "Identify Seymour's brother born May 4, 1919",
+    "Research Brooklyn school records 1920s",
+    "Verify teachers: Fox, Frank, Millers, Rosenberg",
+    "Investigate vocational training programs in Brooklyn",
+    "Determine which family members survived"
+  ]
+}

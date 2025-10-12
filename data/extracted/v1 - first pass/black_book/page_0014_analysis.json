@@ -1,0 +1,1294 @@
+{
+  "page_number": 14,
+  "alphabetical_section": "D",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "page14_de_baecque_patrick",
+      "name": {
+        "full_name": "de Baecque, Patrick",
+        "title": null,
+        "first_name": "Patrick",
+        "last_name": "de Baecque",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "56 21 2524 6952 (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": "56",
+          "area_code": "21",
+          "extension": null,
+          "notes": "International",
+          "is_primary": false,
+          "formatting": "56 21 2524 6952 (w)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "33 6 11 87 XXXX\nEmail: [illegible]@betam.com",
+          "street_line1": null,
+          "street_line2": null,
+          "city": null,
+          "state_province": null,
+          "postal_code": null,
+          "country": null,
+          "notes": null
+        }
+      ],
+      "emails": [
+        {
+          "address": "[illegible]@betam.com",
+          "type": "personal",
+          "domain": "betam.com",
+          "notes": null
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "medium",
+        "email_confidence": "medium",
+        "address_confidence": "low",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page14_de_cabrol_milly",
+      "name": {
+        "full_name": "de Cabrol, Milly",
+        "title": null,
+        "first_name": "Milly",
+        "last_name": "de Cabrol",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 516 759 3332",
+          "type": "unknown",
+          "label": null,
+          "country_code": "001",
+          "area_code": "516",
+          "extension": null,
+          "notes": "Long Island area",
+          "is_primary": false,
+          "formatting": "001 516 759 3332"
+        },
+        {
+          "number": "001 516 759 2257",
+          "type": "unknown",
+          "label": null,
+          "country_code": "001",
+          "area_code": "516",
+          "extension": null,
+          "notes": "Long Island area",
+          "is_primary": false,
+          "formatting": "001 516 759 2257"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "1027 Port Washington\nNew York, NY 10024",
+          "street_line1": "1027 Port Washington",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": "10024",
+          "country": "USA",
+          "notes": "Upper West Side"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page14_de_cadenet_alen",
+      "name": {
+        "full_name": "De Cadenet, Alen",
+        "title": null,
+        "first_name": "Alen",
+        "last_name": "De Cadenet",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 213 658 9568 Jud p",
+          "type": "unknown",
+          "label": "Jud p",
+          "country_code": "001",
+          "area_code": "213",
+          "extension": null,
+          "notes": "Los Angeles downtown",
+          "is_primary": false,
+          "formatting": "001 213 658 9568"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Rome (V Vis [illegible])",
+          "street_line1": null,
+          "street_line2": null,
+          "city": "Rome",
+          "state_province": null,
+          "postal_code": null,
+          "country": "Italy",
+          "notes": null
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "low",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page14_de_clermont_tonnerre_hermine",
+      "name": {
+        "full_name": "de Clermont-Tonnerre, Hermine",
+        "title": null,
+        "first_name": "Hermine",
+        "last_name": "de Clermont-Tonnerre",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "01 53 63 5170",
+          "type": "unknown",
+          "label": null,
+          "country_code": "01",
+          "area_code": "53",
+          "extension": null,
+          "notes": "France",
+          "is_primary": false,
+          "formatting": "01 53 63 5170"
+        },
+        {
+          "number": "0771 688 0889 #10",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": "0771",
+          "extension": "10",
+          "notes": "UK mobile",
+          "is_primary": false,
+          "formatting": "0771 688 0889 #10"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "19 Rue de Pontine\nParis 75007",
+          "street_line1": "19 Rue de Pontine",
+          "street_line2": null,
+          "city": "Paris",
+          "state_province": null,
+          "postal_code": "75007",
+          "country": "France",
+          "notes": "7th arrondissement"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["French nobility"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page14_de_georgiou_annuska",
+      "name": {
+        "full_name": "De Georgiou, Annuska",
+        "title": null,
+        "first_name": "Annuska",
+        "last_name": "De Georgiou",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "00 356 21XXXX",
+          "type": "unknown",
+          "label": null,
+          "country_code": "00 356",
+          "area_code": "21",
+          "extension": null,
+          "notes": "Malta country code",
+          "is_primary": false,
+          "formatting": "00 356 21XXXX"
+        },
+        {
+          "number": "1837 464 7419 Home Phone",
+          "type": "home",
+          "label": "Home Phone",
+          "country_code": null,
+          "area_code": "1837",
+          "extension": null,
+          "notes": null,
+          "is_primary": false,
+          "formatting": "1837 464 7419"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Rd Via di Paradiso",
+          "street_line1": "Rd Via di Paradiso",
+          "street_line2": null,
+          "city": null,
+          "state_province": null,
+          "postal_code": null,
+          "country": "Malta",
+          "notes": "Based on phone code"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Malta connection"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page14_de_soto_fernando",
+      "name": {
+        "full_name": "De Soto, Fernando",
+        "title": null,
+        "first_name": "Fernando",
+        "last_name": "De Soto",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "09 341078-8999",
+          "type": "unknown",
+          "label": null,
+          "country_code": "09",
+          "area_code": "341",
+          "extension": null,
+          "notes": "International",
+          "is_primary": false,
+          "formatting": "09 341078-8999"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "10 rue Pol Baudry 83\nParis 75008",
+          "street_line1": "10 rue Pol Baudry 83",
+          "street_line2": null,
+          "city": "Paris",
+          "state_province": null,
+          "postal_code": "75008",
+          "country": "France",
+          "notes": "8th arrondissement"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "medium",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page14_dedjeu_jean_paulette",
+      "name": {
+        "full_name": "Dedjeu, Jean & Paulette",
+        "title": null,
+        "first_name": "Jean",
+        "last_name": "Dedjeu",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "00 33 XX XXXXX3 (A)",
+          "type": "unknown",
+          "label": "A",
+          "country_code": "00 33",
+          "area_code": null,
+          "extension": null,
+          "notes": "France",
+          "is_primary": false,
+          "formatting": "00 33 XX XXXXX3 (A)"
+        },
+        {
+          "number": "00 336 09301433 (J)",
+          "type": "unknown",
+          "label": "J",
+          "country_code": "00 33",
+          "area_code": "6",
+          "extension": null,
+          "notes": "French mobile",
+          "is_primary": false,
+          "formatting": "00 336 09301433 (J)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Cannes Maison Marine Palms\n[illegible]",
+          "street_line1": "Cannes Maison Marine Palms",
+          "street_line2": null,
+          "city": "Cannes",
+          "state_province": null,
+          "postal_code": null,
+          "country": "France",
+          "notes": "French Riviera"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Paulette Dedjeu"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page14_del_bono_luca",
+      "name": {
+        "full_name": "Del Bono, Luca",
+        "title": null,
+        "first_name": "Luca",
+        "last_name": "Del Bono",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0207 408 7108 (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": null,
+          "area_code": "0207",
+          "extension": null,
+          "notes": "Central London",
+          "is_primary": false,
+          "formatting": "0207 408 7108 (w)"
+        },
+        {
+          "number": "0207 408 7109 (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": null,
+          "area_code": "0207",
+          "extension": null,
+          "notes": "Central London",
+          "is_primary": false,
+          "formatting": "0207 408 7109 (w)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "13-19 Broom Terrace3 Street\nLondon SW7",
+          "street_line1": "13-19 Broom Terrace3 Street",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW7",
+          "country": "UK",
+          "notes": "South Kensington"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page14_dell_adam",
+      "name": {
+        "full_name": "Dell, Adam",
+        "title": null,
+        "first_name": "Adam",
+        "last_name": "Dell",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 512 219 8920 (o)",
+          "type": "office",
+          "label": "o",
+          "country_code": "001",
+          "area_code": "512",
+          "extension": null,
+          "notes": "Austin, Texas",
+          "is_primary": false,
+          "formatting": "001 512 219 8920 (o)"
+        },
+        {
+          "number": "001 512 8941980 (o)",
+          "type": "office",
+          "label": "o",
+          "country_code": "001",
+          "area_code": "512",
+          "extension": null,
+          "notes": "Austin, Texas",
+          "is_primary": false,
+          "formatting": "001 512 8941980 (o)"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page14_deluca_dina_fouard_christiane",
+      "name": {
+        "full_name": "Deluca Dina & Fouard Christiane",
+        "title": null,
+        "first_name": "Dina",
+        "last_name": "Deluca",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "New York, NY 10028",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Address mixed with phone",
+          "is_primary": false,
+          "formatting": "[illegible]"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "810 Fifth Avenue\nNew York, NY 10028",
+          "street_line1": "810 Fifth Avenue",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": "10028",
+          "country": "USA",
+          "notes": "Upper East Side"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Fouard Christiane"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page14_dickinson_debbie",
+      "name": {
+        "full_name": "Dickinson, Debbie",
+        "title": null,
+        "first_name": "Debbie",
+        "last_name": "Dickinson",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "011 917 292 4454(tile)",
+          "type": "unknown",
+          "label": "tile",
+          "country_code": "011",
+          "area_code": "917",
+          "extension": null,
+          "notes": "NYC mobile",
+          "is_primary": false,
+          "formatting": "011 917 292 4454"
+        },
+        {
+          "number": "001 212 734 5458",
+          "type": "unknown",
+          "label": null,
+          "country_code": "001",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan",
+          "is_primary": false,
+          "formatting": "001 212 734 5458"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Main Work\nNew York\n521 West 11",
+          "street_line1": "521 West 11",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "West Village"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "medium",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page14_dickinson_janice",
+      "name": {
+        "full_name": "Dickinson, Janice",
+        "title": null,
+        "first_name": "Janice",
+        "last_name": "Dickinson",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 310-2011 home p",
+          "type": "home",
+          "label": "home p",
+          "country_code": "001",
+          "area_code": "310",
+          "extension": null,
+          "notes": "Beverly Hills/LA area",
+          "is_primary": false,
+          "formatting": "001 310-2011"
+        },
+        {
+          "number": "001 323 650 X613 Nona Bayer",
+          "type": "unknown",
+          "label": "Nona Bayer",
+          "country_code": "001",
+          "area_code": "323",
+          "extension": "613",
+          "notes": "LA area, assistant",
+          "is_primary": false,
+          "formatting": "001 323 650 X613"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": ["Nona Bayer (assistant)"],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Model Janice Dickinson"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "medium",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page14_darby_earl_cntess_cass",
+      "name": {
+        "full_name": "Darby Earl /Cntess Cass",
+        "title": "Earl",
+        "first_name": null,
+        "last_name": "Darby",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 516 759 3XXX(h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "001",
+          "area_code": "516",
+          "extension": null,
+          "notes": "Long Island area",
+          "is_primary": false,
+          "formatting": "001 516 759 3XXX(h)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Knowsley\nLondon SW5 [illegible]\n0207 351 XXXX (h)",
+          "street_line1": "Knowsley",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW5",
+          "country": "UK",
+          "notes": "Earl's Court area"
+        }
+      ],
+      "emails": [
+        {
+          "address": "[illegible]@debtcy.com",
+          "type": "personal",
+          "domain": "debtcy.com",
+          "notes": null
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Countess Cass"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["British nobility - Earl of Derby"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "medium",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page14_dietrich_marc_antoine_cath",
+      "name": {
+        "full_name": "Dietrich Marc Antoine and Cath",
+        "title": null,
+        "first_name": "Marc Antoine",
+        "last_name": "Dietrich",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "41 434 Montagne",
+          "type": "unknown",
+          "label": null,
+          "country_code": "41",
+          "area_code": "434",
+          "extension": null,
+          "notes": "Switzerland",
+          "is_primary": false,
+          "formatting": "41 434 Montagne"
+        },
+        {
+          "number": "01 5674 XXXX 9672",
+          "type": "unknown",
+          "label": null,
+          "country_code": "01",
+          "area_code": "5674",
+          "extension": null,
+          "notes": null,
+          "is_primary": false,
+          "formatting": "01 5674 XXXX 9672"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Cath Dietrich"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page14_dietrich_paul_laura",
+      "name": {
+        "full_name": "Dietrich, Paul & Laura",
+        "title": null,
+        "first_name": "Paul",
+        "last_name": "Dietrich",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "01737 884 1980 (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": null,
+          "area_code": "01737",
+          "extension": null,
+          "notes": "UK Surrey area",
+          "is_primary": false,
+          "formatting": "01737 884 1980 (w)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "7 Morvan Investment Services, Ltd\nOT Primary Services, Ld Bahama Gaz\nAlexandria",
+          "street_line1": "7 Morvan Investment Services, Ltd",
+          "street_line2": "OT Primary Services, Ld Bahama Gaz",
+          "city": "Alexandria",
+          "state_province": null,
+          "postal_code": null,
+          "country": null,
+          "notes": "Corporate address"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Laura Dietrich"],
+        "implied_connections": [],
+        "professional_role": "Investment Services"
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "low",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page14_dj_vita_charlotte",
+      "name": {
+        "full_name": "Di Vita, Charlotte",
+        "title": null,
+        "first_name": "Charlotte",
+        "last_name": "Di Vita",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "917 539 0199 (p)",
+          "type": "pager",
+          "label": "p",
+          "country_code": null,
+          "area_code": "917",
+          "extension": null,
+          "notes": "NYC mobile",
+          "is_primary": false,
+          "formatting": "917 539 0199 (p)"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page14_dimbleby_johnathan",
+      "name": {
+        "full_name": "Dimbleby Johnathan",
+        "title": null,
+        "first_name": "Johnathan",
+        "last_name": "Dimbleby",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0207-263 1568",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": "0207",
+          "extension": null,
+          "notes": "Central London",
+          "is_primary": false,
+          "formatting": "0207-263 1568"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["BBC journalist family"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 17,
+    "complete_entries": 0,
+    "partial_entries": 12,
+    "minimal_entries": 5,
+    "redacted_entries": 0,
+    "handwritten_additions": 0,
+    "crossed_out_entries": 0,
+    "quality": "fair",
+    "legibility": "partially obscured",
+    "notable_features": ["Earl of Derby entry", "French nobility connections", "Malta connection", "810 Fifth Avenue address"],
+    "continues_to_page": 15,
+    "continued_from_page": 13,
+    "split_entry_note": "No clear continuation from page 13"
+  },
+  "cross_references": [
+    {
+      "from_name": "Laura Dietrich",
+      "to_name": "Marc Antoine Dietrich",
+      "reference_type": "related_to",
+      "page_reference": null
+    }
+  ],
+  "entities": {
+    "people": ["Patrick de Baecque", "Milly de Cabrol", "Alen De Cadenet", "Hermine de Clermont-Tonnerre", "Annuska De Georgiou", "Fernando De Soto", "Jean Dedjeu", "Paulette Dedjeu", "Luca Del Bono", "Adam Dell", "Dina Deluca", "Fouard Christiane", "Debbie Dickinson", "Janice Dickinson", "Nona Bayer", "Earl of Derby", "Countess Cass", "Marc Antoine Dietrich", "Cath Dietrich", "Paul Dietrich", "Laura Dietrich", "Charlotte Di Vita", "Johnathan Dimbleby"],
+    "organizations": ["Morvan Investment Services"],
+    "locations": {
+      "cities": ["New York", "Rome", "Paris", "Cannes", "London", "Austin", "Los Angeles", "Alexandria"],
+      "states": ["NY", "TX", "CA"],
+      "countries": ["USA", "Italy", "France", "UK", "Malta", "Switzerland"]
+    }
+  },
+  "insights": [
+    "Page 14 continues D section with 17 entries featuring European nobility",
+    "810 Fifth Avenue address for Deluca/Fouard - ultra-prestigious NYC location",
+    "Earl of Derby (Darby) entry - significant British peerage",
+    "Hermine de Clermont-Tonnerre - French aristocracy in Paris 75007",
+    "00 356 country code for Annuska De Georgiou confirms Malta connection",
+    "512 area code for Adam Dell indicates Austin, Texas (Dell family)",
+    "Janice Dickinson (supermodel) with LA connections",
+    "Johnathan Dimbleby - BBC journalist/broadcaster family",
+    "French Riviera connections (Cannes) for Jean & Paulette Dedjeu",
+    "SW7 postcode for Luca Del Bono - South Kensington, London",
+    "Investment services connection through Paul Dietrich",
+    "Mix of French nobility particles 'de' throughout entries",
+    "310 and 323 area codes confirm LA/Beverly Hills connections",
+    "516 area codes continue to appear - Long Island connections",
+    "01737 area code for Paul Dietrich - Surrey, UK location"
+  ]
+}

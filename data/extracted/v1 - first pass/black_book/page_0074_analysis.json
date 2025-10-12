@@ -1,0 +1,636 @@
+{
+  "page_number": 74,
+  "section": "I-K Names",
+  "entries": [
+    {
+      "name": "Insurance Office of Central Oh",
+      "category": "Business",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "38 Jefferson Avenue",
+          "street": "38 Jefferson Avenue",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "614-203-0718",
+          "area_code": "614",
+          "geographic_indicator": "Columbus, Ohio",
+          "confidence": "high"
+        },
+        {
+          "type": "FAX B/S",
+          "number": "614-203-0719 FAX B/S",
+          "area_code": "614",
+          "geographic_indicator": "Columbus, Ohio",
+          "confidence": "high"
+        },
+        {
+          "type": "Bill",
+          "number": "614 384 1910",
+          "area_code": "614",
+          "geographic_indicator": "Columbus, Ohio",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "614 384 8446 (after hours)",
+          "area_code": "614",
+          "geographic_indicator": "Columbus, Ohio",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "614 384 1004",
+          "area_code": "614",
+          "geographic_indicator": "Columbus, Ohio",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Progressive",
+        "Steven Mitchell"
+      ],
+      "notes": "Insurance Office of Central Ohio - Jefferson Avenue",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Isaacson, Walter",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "304 West 88th Street",
+          "street": "304 West 88th Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212-327-1715",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "work",
+          "number": "212-327-1715 work",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Email: walter.isaacson@turner.co",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Walter Isaacson - West 88th Street NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "James, Randy",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [],
+      "emails": [
+        {
+          "email": "Email: randy@uscid.org",
+          "confidence": "high"
+        },
+        {
+          "email": "www.cen",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Randy James - email only",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Second email incomplete"]
+      }
+    },
+    {
+      "name": "Jamparot, Mylene",
+      "category": "Personal",
+      "location": "France",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "120 Rue du Temple",
+          "street": "120 Rue du Temple",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Paris, France 75003",
+          "city": "Paris",
+          "country": "France",
+          "postal_code": "75003",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "011331799901688(H)",
+          "area_code": "33",
+          "geographic_indicator": "France",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "[illegible]@wanadoo@email.co",
+          "confidence": "low"
+        }
+      ],
+      "additional_info": [
+        "251 ocket 11119 com=gently com",
+        "+33 1 45 40 14 75 (wk)"
+      ],
+      "notes": "Mylene Jamparot - Rue du Temple Paris",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Email partially illegible"]
+      }
+    },
+    {
+      "name": "Jarecki, Gloria",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "76 Temple Trail",
+          "street": "76 Temple Trail",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "notes": "Gloria Jarecki - Temple Trail",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Jarecki, Henry Dr.",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Falconwood Properties",
+          "company": "Falconwood Properties",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "450 Park Avenue",
+          "street": "450 Park Avenue",
+          "confidence": "high"
+        },
+        {
+          "type": "tertiary",
+          "address": "New York, NY 10017",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10017",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 880 1449 (W)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "Mitzi",
+          "number": "212 888 1449 (Mitzi)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 861 7700",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "additional_contacts": [
+        "Mitzi"
+      ],
+      "additional_info": [
+        "Falconwood - Apt 37/38A",
+        "Hannah USA Street, Apr 88 (W)",
+        "212 308 2118 (Goytlien)",
+        "212 880 1449 Street",
+        "212 832 3006 Cell Gaylene",
+        "212 832 5060",
+        "212 832 5005",
+        "212 832 5010 Home Phone",
+        "212 861 7706 Other",
+        "212 753 2233 (H) Secretary",
+        "212 861 1055 Other",
+        "212 861 1650 Emergency"
+      ],
+      "notes": "Dr. Henry Jarecki - Falconwood Properties, Park Avenue NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Johananoff, Pamela",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "10 Port Maxahne",
+          "street": "10 Port Maxahne",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Cactus",
+          "location": "Cactus",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "011 8647 8183 (h)",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "011 8647 8183 (O)",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Vern, 917 282 2000 home",
+        "Sam 212 417 8100 cell dont",
+        "917 217 4008 (h) Cynthia",
+        "001 0933 7031 (definitely)",
+        "001 [illegible] Wine (s)"
+      ],
+      "notes": "Pamela Johananoff - Port Maxahne",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One phone number partially illegible"]
+      }
+    },
+    {
+      "name": "Johnson Lily",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "941 360 8745",
+          "area_code": "941",
+          "geographic_indicator": "Florida",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "941 923 8976",
+          "area_code": "941",
+          "geographic_indicator": "Florida",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Lily Johnson - Florida area",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Johnson, Elizabeth (Libbi)",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Trump International Hotel & To",
+          "location": "Trump International Hotel & Tower",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "One Central Park West",
+          "street": "One Central Park West",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York 10025",
+          "postal_code": "10025",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 299 1708 B/FS",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Fam 212 799 Bayley",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 833 0870",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "516 484 1417 Danielle [illegible]",
+          "area_code": "516",
+          "geographic_indicator": "Long Island",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Elizabeth (Libbi) Johnson - Trump International Hotel & Tower",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One contact name partially illegible"]
+      }
+    },
+    {
+      "name": "Kerry, Sen. John",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Senator's Office",
+          "organization": "Senator's Office",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "President",
+          "number": "John Kerry for President",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "617 723 5013",
+          "area_code": "617",
+          "geographic_indicator": "Boston",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "202 224 7363",
+          "area_code": "202",
+          "geographic_indicator": "Washington DC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "202 456 1234",
+          "area_code": "202",
+          "geographic_indicator": "Washington DC",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "5 Lews Lane",
+        "617 723 2351 Direct Line",
+        "617 332 3435 Work",
+        "703 706 9316 Kevin Whitehead",
+        "215 885 14899",
+        "617 354 2000 New Work #",
+        "617 537 Over New Fax #"
+      ],
+      "notes": "Senator John Kerry - Presidential campaign era entry",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Kessler, Jack",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "840 Perkins Boulevard",
+          "street": "840 Perkins Boulevard",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Southampton MA",
+          "city": "Southampton",
+          "state": "MA",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "617 537 2000",
+          "area_code": "617",
+          "geographic_indicator": "Boston",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "9990 North Court Plaza",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "917 209 0000",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "973 495 3000 Bentley",
+          "area_code": "973",
+          "geographic_indicator": "New Jersey",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "W. H. Maxulauders Rd",
+        "Lexington 40507",
+        "511 937 6030",
+        "212 832 5131 Golf",
+        "212 872 8317 Golf David Bentley",
+        "212 872 8325 Golf",
+        "Membership Phone",
+        "773 873 2419 Mildreve Rounds"
+      ],
+      "notes": "Jack Kessler - Perkins Boulevard Southampton MA",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Kincaid, Kristina",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "New York, NY 10045",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10045",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "105 West 16th Street #2584(N)",
+          "street": "105 West 16th Street #2584(N)",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 588 2422",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 202 2422 Cell",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 838 5707 Dancer",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 586 6753 work",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Dancer"
+      ],
+      "notes": "Kristina Kincaid - West 16th Street NYC, Dancer",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Kosslyn, Steve",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "8 Garden Court",
+          "street": "8 Garden Court",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Cambridge, MA 02138",
+          "city": "Cambridge",
+          "state": "MA",
+          "postal_code": "02138",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "notes": "Steve Kosslyn - Garden Court Cambridge MA",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 13,
+    "illegible_entries": 0,
+    "partial_entries": 4,
+    "sections": ["I-K Names"],
+    "notable_entries": [
+      "Senator John Kerry - Presidential campaign entry",
+      "Walter Isaacson - West 88th Street",
+      "Dr. Henry Jarecki - Falconwood Properties",
+      "Elizabeth Johnson - Trump International Hotel",
+      "Insurance Office of Central Ohio"
+    ],
+    "geographic_distribution": {
+      "usa": 13,
+      "nyc": 6,
+      "massachusetts": 2,
+      "ohio": 1,
+      "france": 1,
+      "washington_dc": 1,
+      "florida": 1
+    },
+    "location_highlights": [
+      "Trump International Hotel & Tower - Central Park West",
+      "Senator John Kerry offices",
+      "Falconwood Properties - Park Avenue",
+      "Paris France - Rue du Temple",
+      "Cambridge MA academic connection"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 9,
+      "medium_confidence": 3,
+      "low_confidence": 1,
+      "specific_issues": [
+        "Several email addresses partially illegible",
+        "Some secondary phone numbers unclear",
+        "Various handwritten additions difficult to read"
+      ]
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "page_number": 79,
+  "file_path": "data/birthday_book_images/page_0079.png",
+  "file_size_mb": 0.18756866455078125,
+  "type": "handwritten_poem",
+  "content": {
+    "text": "To: Jeff\nLove. XOXOXOXO\nRoses ARE Red\nViolets ARE Blue\nYour Hair is like\nGold\nI wish mine were too\n(I'd hate to see what I'd\nlook like)\nYours truly\nWoman Admirer",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "To: Jeff\nLove. XOXOXOXO\nRoses ARE Red\nViolets ARE Blue\nYour Hair is like\nGold\nI wish mine were too\n(I'd hate to see what I'd\nlook like)\nYours truly\nWoman Admirer",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Woman Admirer",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          79
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Woman Admirer",
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Handwritten poem",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "handwritten_poem"
+  },
+  "insights": [
+    "Simple handwritten poem in traditional 'Roses are red' format",
+    "References Jeffrey's hair color (gold)",
+    "Signed by 'Woman Admirer' suggesting female correspondent",
+    "Personal and intimate nature of correspondence"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000079",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.158991",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [
+      {
+        "identified_as": "Signed 'Yours truly Woman Admirer'",
+        "confidence": "medium",
+        "style": null,
+        "characteristics": [],
+        "location": null,
+        "matches_pages": []
+      }
+    ],
+    "logos": [],
+    "redactions": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Handwritten note on index card or small paper",
+    "Addressed 'To: Jeff' at top",
+    "'Love. XOXOXOXO' written above poem",
+    "Traditional 'Roses are red' poem format",
+    "Word 'ARE' emphasized in capital letters twice",
+    "References Jeffrey's gold/blonde hair",
+    "Parenthetical comment '(I'd hate to see what I'd look like)'",
+    "Signed 'Yours truly' and 'Woman Admirer'",
+    "Photocopied appearance like page 78",
+    "Document stamped HOUSE_OVERSIGHT_000079",
+    "Part of 'Girlfriends' section of birthday book"
+  ],
+  "investigative_leads": []
+}

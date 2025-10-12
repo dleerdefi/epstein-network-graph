@@ -1,0 +1,170 @@
+{
+  "page_number": 41,
+  "file_path": "data/birthday_book_images/page_0041.png",
+  "file_size_mb": 0.3180675506591797,
+  "type": "newspaper_clipping_page5",
+  "content": {
+    "text": "5\n\nFast '56\nBy Larry John Streitman\nDouble A Fuel Magazine\n\nSea Gate's Sgt. Gene Venezia amazes the community with his nitro methane burning 'Stormin' 56 Plymouth. Custom painted in an aqua blue flamy car color, this eye catcher dazzles all onlookers. With it's four-on-the-floor Hurst T-shifter, twin Holley 4 barrel carbs, a blue printed 454 Hemi, headers and extra leaf springs, Sgt. Gene brags, 'whattayamean?,,, it gets up to 50 on the Belt Pkwy. ....why these Sea Gate snot rags could only dream of owning a supercar like this'.\n\nCap, Gown And What??\nBy Stanley Komito\nLafayette Legend\n\nFour rebellious Sea Gate boys, two of whom barely graduated, were caught wearing dungarees and Beatle Boots under their graduation gowns. The graduation exercises took place at a famous movie theater in downtown Brooklyn. One of the cocky boys remarked 'Hey what are they gonna fail me now??'\n\n2 Barely Graduate\nBy Carl Ashby\nHealth Ed Journal\n\nAfter making a mockery of phys-ed class for the majority of their senior year, Coach Gary Lasker pulled two teens from gym class 6 weeks before graduation and gave them the bad news: they weren't going to graduate!! Although the 2 boys had virtually straight A's in academics, they were total losers when it came to gym. They pleaded with Mr. Lasker and asked what they could do to make it up. After thinking about a just punishment, he required the students to double time in every gym class. They had to do twice the exercise, twice the running, as well as lead the class in exercise until the end of the school year. Lasker also humiliated the boys in front of each and every class, but allowed them to graduate with a grade of one point over the minimum passing grade of 65.\n\nYellow Laundry Mystery Solved\nBy Beatrice K. Cooper\nRead a Book-a-Day Club\n\nAn obese Sea Gate family started to notice that their laundry mysteriously started turning yellow every time they removed it from (cont'd pg. 6, column 1)",
+    "handwritten": false,
+    "typed": true,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "Complete text as transcribed above with all visible content",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Larry John Streitman",
+        "title": "Writer",
+        "context": "Double A Fuel Magazine",
+        "confidence": "high"
+      },
+      {
+        "name": "Sgt. Gene Venezia",
+        "title": "Police Sergeant",
+        "context": "Owner of 1956 Plymouth Stormin",
+        "confidence": "high"
+      },
+      {
+        "name": "Stanley Komito",
+        "title": "Writer",
+        "context": "Lafayette Legend",
+        "confidence": "high"
+      },
+      {
+        "name": "Carl Ashby",
+        "title": "Writer",
+        "context": "Health Ed Journal",
+        "confidence": "high"
+      },
+      {
+        "name": "Coach Gary Lasker",
+        "title": "Gym teacher",
+        "context": "Physical education instructor",
+        "confidence": "high"
+      },
+      {
+        "name": "Beatrice K. Cooper",
+        "title": "Writer",
+        "context": "Read a Book-a-Day Club",
+        "confidence": "high"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Double A Fuel Magazine",
+        "type": "Publication"
+      },
+      {
+        "name": "Lafayette Legend",
+        "type": "Publication"
+      },
+      {
+        "name": "Health Ed Journal",
+        "type": "Publication"
+      },
+      {
+        "name": "Read a Book-a-Day Club",
+        "type": "Publication"
+      }
+    ],
+    "locations": [
+      "Sea Gate",
+      "Belt Pkwy",
+      "Brooklyn",
+      "Downtown Brooklyn"
+    ],
+    "dates": [
+      "1956"
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "50th birthday commemoration - satirical newspaper page 5",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "newspaper_clipping_page5"
+  },
+  "insights": [
+    "Page 5 continues mock newspaper format",
+    "Larry John Streitman appears as writer - recurring name",
+    "Sgt. Gene Venezia reappears from page 40 SWAT story",
+    "1956 Plymouth Stormin - custom hot rod with racing modifications",
+    "Belt Parkway reference - major Brooklyn highway",
+    "Graduation at famous movie theater in downtown Brooklyn",
+    "Beatle Boots reference dates to 1960s fashion",
+    "Coach Gary Lasker as strict gym teacher archetype",
+    "Two students nearly failed for poor gym performance despite straight As",
+    "Minimum passing grade of 65 referenced",
+    "Humiliation as punishment for gym class failures",
+    "Yellow laundry mystery continues on page 6",
+    "Obese Sea Gate family - recurring local color",
+    "Nitro methane burning engine - drag racing reference",
+    "Hurst T-shifter, Holley carbs, 454 Hemi - car culture details"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000041",
+  "processed_at": "2025-09-23 03:08:00",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.138442",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": [],
+    "layout": "Newspaper page 5 with multiple column articles"
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Page 5 of mock newspaper continues satire",
+    "Four separate articles on single page",
+    "Professional typesetting maintained",
+    "Story continues to page 6 (Yellow Laundry)",
+    "Document stamped HOUSE_OVERSIGHT_000041"
+  ],
+  "investigative_leads": [
+    "Larry John Streitman writing articles - same person from earlier pages",
+    "Sgt. Gene Venezia recurring character",
+    "Downtown Brooklyn movie theater for graduation",
+    "Coach Gary Lasker identity",
+    "Connection to Lafayette (likely Lafayette High School)"
+  ]
+}

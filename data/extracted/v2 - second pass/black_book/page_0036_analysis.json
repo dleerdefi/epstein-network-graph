@@ -1,0 +1,685 @@
+{
+  "page_number": 36,
+  "alphabetical_section": "M",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "036_mavroleon_manoli",
+      "name": {
+        "full_name": "Mavroleon, Manoli",
+        "prefix": null,
+        "first_name": "Manoli",
+        "middle_name": null,
+        "last_name": "Mavroleon",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "33 Thurloe Court",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "home",
+          "number": "0207-584 2333",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "mobile",
+          "number": "0207-581 2333 (car)",
+          "formatting": "UK car phone"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "33 Thurloe Court",
+            "London SW7"
+          ],
+          "city": "London",
+          "postal_code": "SW7",
+          "country": "UK",
+          "notes": "South Kensington - near museums"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Mavroleon shipping family - South Kensington residence"
+    },
+    {
+      "entry_id": "036_mavroleon_bluey",
+      "name": {
+        "full_name": "Mavroleon, Mr Bluey",
+        "prefix": "Mr",
+        "first_name": "Bluey",
+        "middle_name": null,
+        "last_name": "Mavroleon",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "1 Car Ave",
+          "formatting": "Address fragment"
+        },
+        {
+          "type": "home",
+          "number": "0207 225 0174 (h)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Mavroleon family member"
+    },
+    {
+      "entry_id": "036_mavroleon_nicholas_barbara",
+      "name": {
+        "full_name": "Mavroleon, Nicholas & Barbara",
+        "prefix": null,
+        "first_name": "Nicholas",
+        "middle_name": null,
+        "last_name": "Mavroleon",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Barbara"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 914 234 6822",
+          "formatting": "International to US - Westchester NY"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "6 East 79th Street",
+            "New York"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Upper East Side - prestigious address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Mavroleon family - NYC Upper East Side"
+    },
+    {
+      "entry_id": "036_maxwell_laurens_ms_anne",
+      "name": {
+        "full_name": "Maxwell & Laurens, Ms Anne",
+        "prefix": "Ms",
+        "first_name": "Laurens",
+        "middle_name": null,
+        "last_name": "Maxwell",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "01 730 0772",
+          "formatting": "UK format"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Holve",
+            "11 Oakeshott Ave",
+            "Highgate"
+          ],
+          "city": "London",
+          "postal_code": "N6 6NT",
+          "country": "UK",
+          "notes": "'Laurens practice and fax notes'"
+        }
+      ],
+      "handwritten_notes": [
+        "0207 201 7000 (w)",
+        "0207 201 7121",
+        "0207 201 7121",
+        "0207 201 1000",
+        "0207 482 1248 Laurens practice and fax"
+      ],
+      "confidence": {
+        "name": "medium",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Belgravia mews address with Mirror Group numbers"
+    },
+    {
+      "entry_id": "036_maxwell_malina_christine",
+      "name": {
+        "full_name": "Maxwell Malina, Christine",
+        "prefix": null,
+        "first_name": "Christine",
+        "middle_name": null,
+        "last_name": "Maxwell",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "15 Las Tiendas de Macurina",
+          "formatting": "Address in phone field"
+        }
+      ],
+      "emails": ["christine@christinesworld"],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "18 Les Jardins du Monlaiguet",
+            "Pont des trois Sautets, France 13590 Meyreuil"
+          ],
+          "city": "Provence",
+          "postal_code": "13100",
+          "country": "France",
+          "notes": "Provence address"
+        }
+      ],
+      "handwritten_notes": [
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'Sister of Ghislaine Maxwell' 'Christine Malina-Maxwell is a British content pioneer and educator born in France.'"
+    },
+    {
+      "entry_id": "036_maxwell_dr_mrs_philip",
+      "name": {
+        "full_name": "Maxwell, Dr & Mrs Philip",
+        "prefix": "Dr",
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Maxwell",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Mrs Maxwell"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "24 Redzone st",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "home",
+          "number": "SW1",
+          "formatting": "Postal code"
+        },
+        {
+          "type": "home",
+          "number": "0207 581 1070(h)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "24 Redzone Street",
+            "London SW1"
+          ],
+          "city": "London",
+          "postal_code": "SW1",
+          "country": "UK",
+          "notes": "Belgravia/Westminster area"
+        }
+      ],
+      "handwritten_notes": [
+        "0208-940 2257(h)",
+        "01932 702615 (St George Hill)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK couple with London and St George Hill (exclusive estate) numbers"
+    },
+    {
+      "entry_id": "036_maxwell_debbie",
+      "name": {
+        "full_name": "Maxwell, Debbie",
+        "prefix": null,
+        "first_name": "Debbie",
+        "middle_name": null,
+        "last_name": "Maxwell",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "07767 881 0240(m)",
+          "formatting": "UK mobile"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK contact"
+    },
+    {
+      "entry_id": "036_maxwell_ian_tara",
+      "name": {
+        "full_name": "Maxwell, Ian & Tara",
+        "prefix": null,
+        "first_name": "Ian",
+        "middle_name": null,
+        "last_name": "Maxwell",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Tara"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 584 0755(h)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "0207 581 2448(w)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "81 Elm Park Gardens",
+            "London SW10"
+          ],
+          "city": "London",
+          "postal_code": "SW10",
+          "country": "UK",
+          "notes": "Chelsea location"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Ian Maxwell - son of Robert Maxwell, brother of Ghislaine"
+    },
+    {
+      "entry_id": "036_maxwell_elisabeth",
+      "name": {
+        "full_name": "Maxwell, Elisabeth",
+        "prefix": null,
+        "first_name": "Elisabeth",
+        "middle_name": null,
+        "last_name": "Maxwell",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "c/o Record House",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "home",
+          "number": "0207 581 4161",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "business",
+          "address_lines": [
+            "c/o Record House",
+            "London"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Business address"
+        }
+      ],
+      "handwritten_notes": [
+        "0171/89 4161"
+      ],
+      "confidence": {
+        "name": "medium",
+        "phones": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Elisabeth Maxwell is Ghislaine Maxwell's mother. Maxwell family member"
+    },
+    {
+      "entry_id": "036_maxwell_isabel",
+      "name": {
+        "full_name": "Maxwell, Isabel",
+        "prefix": null,
+        "first_name": "Isabel",
+        "middle_name": null,
+        "last_name": "Maxwell",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "1775 Green St #804",
+          "formatting": "Address in phone field"
+        }
+      ],
+      "emails": [
+        {
+          "address": "Email: maxwell@commtouch.com.com",
+          "type": "personal",
+          "notes": "second email: magiclan@mentalmagic.zzn.com@"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "1775 Green St #804",
+            "San Francisco, CA 94123"
+          ],
+          "city": "San Francisco",
+          "state": "CA",
+          "postal_code": "94123",
+          "country": "USA",
+          "notes": "San Francisco - Pacific Heights/Marina area"
+        }
+      ],
+      "handwritten_notes": [
+        "Email: dimaxwell@hotpoint.com",
+        "Fax + 1415 351 2899",
+        "001 510 524 4947 or Davis",
+        "001 415 314 9005 (h)",
+        "001 650 917 3306 cell",
+        "001 510 524 4947 Robert Davis"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Isabel Maxwell - sister of Ghislaine, tech entrepreneur"
+    },
+    {
+      "entry_id": "036_maxwell_kevin_pandora",
+      "name": {
+        "full_name": "Maxwell, Kevin and Pandora",
+        "prefix": null,
+        "first_name": "Kevin",
+        "middle_name": null,
+        "last_name": "Maxwell",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Pandora"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "Whissed Manor",
+          "formatting": "Property name in phone field"
+        },
+        {
+          "type": "home",
+          "number": "Old Rottering Dean",
+          "formatting": "Location in phone field"
+        },
+        {
+          "type": "home",
+          "number": "Woodford Halse",
+          "formatting": "Location"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Whissed Manor",
+            "Old Rottering Dean",
+            "Woodford Halse",
+            "Nr. Banbury, Oxon"
+          ],
+          "city": "Banbury",
+          "county": "Oxfordshire",
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Manor house in Oxfordshire"
+        }
+      ],
+      "handwritten_notes": [
+        "01295 811 255 (h)",
+        "01295 811 820 (w) fax",
+        "001 201 433 1011 (US b)",
+        "001 201 433 7751 (US w)",
+        "001 201 433 7750 (US h)",
+        "001 201 327 8720",
+        "001 201 433 8300 (w)",
+        "Isabelle's car"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Kevin Maxwell - son of Robert Maxwell, brother of Ghislaine, Oxfordshire manor with US numbers"
+    },
+    {
+      "entry_id": "036_maxwell_philip",
+      "name": {
+        "full_name": "Maxwell, Philip",
+        "prefix": null,
+        "first_name": "Philip",
+        "middle_name": null,
+        "last_name": "Maxwell",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 288 6608 (h)",
+          "formatting": "International to US - NYC"
+        },
+        {
+          "type": "mobile",
+          "number": "001 917 208 5120",
+          "formatting": "International to US - NYC mobile"
+        },
+        {
+          "type": "work",
+          "number": "001 212 702 0608 (w)",
+          "formatting": "International to US - NYC"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "136 E 76th St",
+            "New York, NY 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side"
+        }
+      ],
+      "handwritten_notes": [
+        "001 860 435 9900 Shem con-",
+        "001 860 435 9900 (H) Conn",
+        "001 860 824 0008 Alexander",
+        "001 860 435 9945 fax"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Philip Maxwell - son of Robert Maxwell, brother of Ghislaine, NYC with Connecticut country home"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 11,
+    "entries_with_emails": 1,
+    "entries_with_addresses": 10,
+    "entries_with_handwritten_notes": 6,
+    "couples": 4,
+    "average_confidence": "high",
+    "notable_figures_count": 6
+  },
+  "cross_references": [
+    {
+      "entry_id": "036_mavroleon_manoli",
+      "reference": "Mavroleon shipping family - see page 35 for other family members (Basil, Carina, Cailin, Carlos)",
+      "related_pages": [35]
+    },
+    {
+      "entry_id": "036_maxwell_ian_tara",
+      "reference": "CRITICAL: Maxwell family siblings - ALL brothers and sisters of Ghislaine Maxwell, daughter of Robert Maxwell",
+      "related_entries": ["036_maxwell_isabel", "036_maxwell_kevin_pandora", "036_maxwell_malina_christine", "036_maxwell_philip"],
+      "notes": "Ian, Isabel, Kevin, Christine, and Philip are all siblings of Ghislaine Maxwell. Elisabeth is Ghislaine's mother (widow of Robert Maxwell). This page contains the core Maxwell family network central to the Epstein case."
+    },
+    {
+      "entry_id": "036_maxwell_elisabeth",
+      "reference": "Elisabeth Maxwell - mother of Ghislaine Maxwell, widow of Robert Maxwell",
+      "related_entries": ["036_maxwell_ian_tara", "036_maxwell_isabel", "036_maxwell_kevin_pandora", "036_maxwell_malina_christine", "036_maxwell_philip"],
+      "notes": "Matriarch of the Maxwell family"
+    },
+    {
+      "entry_id": "036_maxwell_isabel",
+      "reference": "Isabel Maxwell - sister of Ghislaine, tech entrepreneur based in San Francisco",
+      "related_entries": ["036_maxwell_ian_tara", "036_maxwell_kevin_pandora", "036_maxwell_malina_christine", "036_maxwell_philip"],
+      "notes": "Co-founded tech companies including Magellan and CommTouch"
+    },
+    {
+      "entry_id": "036_maxwell_kevin_pandora",
+      "reference": "Kevin Maxwell - brother of Ghislaine, involved in father's business empire",
+      "related_entries": ["036_maxwell_ian_tara", "036_maxwell_isabel", "036_maxwell_malina_christine", "036_maxwell_philip"],
+      "notes": "Faced fraud charges after Robert Maxwell's death and Mirror Group collapse"
+    },
+    {
+      "entry_id": "036_maxwell_malina_christine",
+      "reference": "Christine Maxwell - sister of Ghislaine, internet content pioneer",
+      "related_entries": ["036_maxwell_ian_tara", "036_maxwell_isabel", "036_maxwell_kevin_pandora", "036_maxwell_philip"],
+      "notes": "Co-founded Magellan search engine with sister Isabel"
+    },
+    {
+      "entry_id": "036_maxwell_philip",
+      "reference": "Philip Maxwell - brother of Ghislaine",
+      "related_entries": ["036_maxwell_ian_tara", "036_maxwell_isabel", "036_maxwell_kevin_pandora", "036_maxwell_malina_christine"],
+      "notes": "NYC-based Maxwell family member with Connecticut property"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Manoli Mavroleon",
+      "Bluey Mavroleon",
+      "Nicholas Mavroleon",
+      "Barbara Mavroleon",
+      "Anne Maxwell",
+      "Anne Laurens",
+      "Christine Maxwell",
+      "Dr Philip Maxwell",
+      "Mrs Philip Maxwell",
+      "Debbie Maxwell",
+      "Ian Maxwell",
+      "Tara Maxwell",
+      "Elisabeth Maxwell",
+      "Isabel Maxwell",
+      "Kevin Maxwell",
+      "Pandora Maxwell",
+      "Philip Maxwell"
+    ],
+    "organizations": [
+      "Mirror Group (Robert Maxwell's media empire)",
+      "Magellan (Isabel & Christine Maxwell)",
+      "CommTouch (Isabel Maxwell)"
+    ],
+    "locations": {
+      "international": [
+        "London, UK (multiple contacts)",
+        "Provence, France",
+        "Ireland"
+      ],
+      "us_cities": [
+        "New York City (multiple contacts)",
+        "San Francisco, CA",
+        "Connecticut"
+      ],
+      "elite_addresses": [
+        "Highgate, London (N6)",
+        "South Kensington, London (SW7)",
+        "Chelsea, London (SW10 - Elm Park Gardens)",
+        "Belgravia/Westminster, London (SW1)",
+        "Upper East Side NYC (E 76th, E 79th)",
+        "Pacific Heights/Marina, San Francisco",
+        "Whissendine Manor, Oxfordshire",
+        "St George Hill (exclusive Surrey estate)"
+      ]
+    }
+  },
+  "insights": [
+    "CRITICAL PAGE: Contains entire Maxwell family network - all siblings of Ghislaine Maxwell (Ian, Isabel, Kevin, Christine, Philip) plus mother Elisabeth",
+    "Elisabeth Maxwell - widow of Robert Maxwell, mother of Ghislaine and all siblings on this page",
+    "Ian Maxwell - brother of Ghislaine, Chelsea residence, involved in father's Mirror Group business",
+    "Isabel Maxwell - sister of Ghislaine, San Francisco-based tech entrepreneur, co-founded Magellan search engine and CommTouch",
+    "Kevin Maxwell - brother of Ghislaine, Oxfordshire manor estate, faced fraud charges after Robert Maxwell's death and Mirror Group collapse",
+    "Christine Maxwell - sister of Ghislaine, internet content pioneer, co-founded Magellan with Isabel, based in France",
+    "Philip Maxwell - brother of Ghislaine, NYC Upper East Side with Connecticut country property",
+    "Maxwell family geographic spread: London (Chelsea, Belgravia, South Kensington), NYC, San Francisco, Provence France, Oxfordshire estates",
+    "Mirror Group phone numbers appear in entries - connection to Robert Maxwell's media empire",
+    "Mavroleon Greek shipping dynasty continued from page 35 (Manoli, Bluey, Nicholas)",
+    "This page represents the core family network surrounding Ghislaine Maxwell in the Epstein case - essential for understanding her social connections and support system"
+  ]
+}

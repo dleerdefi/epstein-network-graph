@@ -1,0 +1,271 @@
+{
+  "page_number": 26,
+  "document_type": "Flight Log",
+  "metadata": {
+    "time_period": "December 1993",
+    "pilot": "David Rodgers",
+    "aircraft_registration": "N928GA",
+    "aircraft_make_model": "GULFSTREAM",
+    "total_flight_time_page": "56:55",
+    "amt_forward": "43:15",
+    "total_to_date": "4305:15"
+  },
+  "flights": [
+    {
+      "date": "12/01/93",
+      "aircraft": "N928GA",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:40",
+      "passengers": "JE, GM, LK, Vivian",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/02/93",
+      "aircraft": "N928GA",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:35",
+      "passengers": "",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/03/93",
+      "aircraft": "N928GA",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:40",
+      "passengers": "JE, GM, VRG, Gerald, 3 more pax",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/04/93",
+      "aircraft": "N928GA",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:35",
+      "passengers": "JE, JE, Lm, Dn, Kelly",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/05/93",
+      "aircraft": "N928GA",
+      "departure": "TEB",
+      "arrival": "MDW",
+      "flight_time": "2:15",
+      "passengers": "",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/05/93",
+      "aircraft": "N928GA",
+      "departure": "MDW",
+      "arrival": "DEN",
+      "flight_time": "2:35",
+      "passengers": "GM, Lm, Ln Ln Dn, Kelly",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/06/93",
+      "aircraft": "N928GA",
+      "departure": "DEN",
+      "arrival": "LAX",
+      "flight_time": "2:15",
+      "passengers": "",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/07/93",
+      "aircraft": "N928GA",
+      "departure": "LAX",
+      "arrival": "SNA",
+      "flight_time": "0:35",
+      "passengers": "JE, GM",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/09/93",
+      "aircraft": "N928GA",
+      "departure": "SNA",
+      "arrival": "PBI",
+      "flight_time": "4:40",
+      "passengers": "",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/10/93",
+      "aircraft": "N928GA",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:35",
+      "passengers": "JE, GM, TK, Kerry",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/11/93",
+      "aircraft": "N928GA",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:40",
+      "passengers": "",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/12/93",
+      "aircraft": "N928GA",
+      "departure": "PBI",
+      "arrival": "CMH",
+      "flight_time": "2:30",
+      "passengers": "JE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/13/93",
+      "aircraft": "N928GA",
+      "departure": "CMH",
+      "arrival": "PBI",
+      "flight_time": "2:25",
+      "passengers": "",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/14/93",
+      "aircraft": "N928GA",
+      "departure": "PBI",
+      "arrival": "CMH",
+      "flight_time": "2:30",
+      "passengers": "JE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/15/93",
+      "aircraft": "N928GA",
+      "departure": "CMH",
+      "arrival": "LAX",
+      "flight_time": "4:30",
+      "passengers": "",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/16/93",
+      "aircraft": "N928GA",
+      "departure": "LAX",
+      "arrival": "TEB",
+      "flight_time": "5:05",
+      "passengers": "",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/17/93",
+      "aircraft": "N928GA",
+      "departure": "TEB",
+      "arrival": "CMH",
+      "flight_time": "1:35",
+      "passengers": "",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/18/93",
+      "aircraft": "N928GA",
+      "departure": "CMH",
+      "arrival": "ASE",
+      "flight_time": "2:40",
+      "passengers": "",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/20/93",
+      "aircraft": "N928GA",
+      "departure": "ASE",
+      "arrival": "CMH",
+      "flight_time": "2:35",
+      "passengers": "",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/20/93",
+      "aircraft": "N928GA",
+      "departure": "CMH",
+      "arrival": "PBI",
+      "flight_time": "2:25",
+      "passengers": "",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/21/93",
+      "aircraft": "N928GA",
+      "departure": "PBI",
+      "arrival": "BQK",
+      "flight_time": "3:35",
+      "passengers": "",
+      "endorsements": "",
+      "aircraft_category": "II"
+    }
+  ],
+  "entities": {
+    "people": [
+      {"name": "Jeffrey Epstein", "abbreviation": "JE", "role": "Primary passenger"},
+      {"name": "Ghislaine Maxwell", "abbreviation": "GM", "role": "Frequent passenger"},
+      {"name": "[Unknown LK]", "abbreviation": "LK", "role": "Passenger"},
+      {"name": "[Unknown Vivian]", "abbreviation": "Vivian", "role": "Passenger"},
+      {"name": "[Unknown VRG]", "abbreviation": "VRG", "role": "Passenger"},
+      {"name": "[Unknown Gerald]", "abbreviation": "Gerald", "role": "Passenger"},
+      {"name": "[Unknown Lm]", "abbreviation": "Lm", "role": "Passenger"},
+      {"name": "[Unknown Dn]", "abbreviation": "Dn", "role": "Passenger"},
+      {"name": "[Unknown Kelly]", "abbreviation": "Kelly", "role": "Passenger"},
+      {"name": "[Unknown Ln]", "abbreviation": "Ln", "role": "Passenger"},
+      {"name": "[Unknown TK]", "abbreviation": "TK", "role": "Passenger"},
+      {"name": "[Unknown Kerry]", "abbreviation": "Kerry", "role": "Passenger"},
+      {"name": "David Rodgers", "abbreviation": "", "role": "Pilot"}
+    ],
+    "locations": [
+      {"code": "PBI", "name": "Palm Beach International Airport", "location": "West Palm Beach, FL"},
+      {"code": "TEB", "name": "Teterboro Airport", "location": "Teterboro, NJ"},
+      {"code": "MDW", "name": "Midway International Airport", "location": "Chicago, IL"},
+      {"code": "DEN", "name": "Denver International Airport", "location": "Denver, CO"},
+      {"code": "LAX", "name": "Los Angeles International Airport", "location": "Los Angeles, CA"},
+      {"code": "SNA", "name": "John Wayne Airport", "location": "Orange County, CA"},
+      {"code": "CMH", "name": "John Glenn Columbus International Airport", "location": "Columbus, OH"},
+      {"code": "ASE", "name": "Aspen/Pitkin County Airport", "location": "Aspen, CO"},
+      {"code": "BQK", "name": "Brunswick Golden Isles Airport", "location": "Brunswick, GA"}
+    ],
+    "aircraft": [
+      {"registration": "N928GA", "type": "Gulfstream", "category": "Private Jet"}
+    ]
+  },
+  "insights": [
+    "Transition from November to December 1993 shows continued high activity",
+    "December begins with immediate PBI-TEB round trips",
+    "Multi-leg journey through Chicago (MDW) to Denver (DEN) to LAX",
+    "Introduction of SNA (Orange County) as new destination",
+    "Columbus, OH (CMH) remains a frequent stop with multiple visits",
+    "Pre-Christmas travel to Aspen (ASE) on December 18-20",
+    "Multiple passengers traveling in groups, particularly around December 3-6",
+    "Some flights show repositioning without passengers",
+    "Pattern of returning to PBI as home base continues",
+    "BQK (Brunswick, GA) appears as new destination at month end",
+    "Heavy flight activity with 21 flights in December",
+    "Flight times accumulating rapidly - nearly 57 hours this page",
+    "Jeffrey Epstein and Ghislaine Maxwell remain primary passengers"
+  ]
+}

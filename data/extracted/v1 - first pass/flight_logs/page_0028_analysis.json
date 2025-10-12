@@ -1,0 +1,233 @@
+{
+  "page_number": 28,
+  "document_type": "Flight Log",
+  "metadata": {
+    "time_period": "January 1994",
+    "pilot": "David Rodgers",
+    "aircraft_registration": "N928GA",
+    "aircraft_make_model": "GULFSTREAM",
+    "total_flight_time_page": "69:25",
+    "amt_forward": "29:25",
+    "total_to_date": "4735:15"
+  },
+  "flights": [
+    {
+      "date": "01/05/94",
+      "aircraft": "N928GA",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:45",
+      "passengers": "TWIC BUSTER, PRI PLUM, JM SECURITY",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/06/94",
+      "aircraft": "N928GA",
+      "departure": "PBI",
+      "arrival": "MDW",
+      "flight_time": "2:55",
+      "passengers": "JE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/07/94",
+      "aircraft": "N928GA",
+      "departure": "MDW",
+      "arrival": "TEB",
+      "flight_time": "2:05",
+      "passengers": "JE, GM BROWN RECOUNT",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/08/94",
+      "aircraft": "N928GA",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:40",
+      "passengers": "",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/09/94",
+      "aircraft": "N928GA",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:40",
+      "passengers": "JE, GM, T MILE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/10/94",
+      "aircraft": "N928GA",
+      "departure": "TEB",
+      "arrival": "SDF",
+      "flight_time": "1:40",
+      "passengers": "JE, GM, T MILE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/11/94",
+      "aircraft": "N928GA",
+      "departure": "SDF",
+      "arrival": "PBI",
+      "flight_time": "2:15",
+      "passengers": "JE, GM, T MILE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/12/94",
+      "aircraft": "N928GA",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:35",
+      "passengers": "HE, GM, B DAVID, DOUGLAS, INTERNATIONAL",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/13/94",
+      "aircraft": "N928GA",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:35",
+      "passengers": "",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/14/94",
+      "aircraft": "N928GA",
+      "departure": "PBI",
+      "arrival": "BOS",
+      "flight_time": "3:10",
+      "passengers": "JE, GM",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/15/94",
+      "aircraft": "N928GA",
+      "departure": "BOS",
+      "arrival": "TEB",
+      "flight_time": "1:15",
+      "passengers": "RETURNING CLARA ARTSRADIO",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/16/94",
+      "aircraft": "N928GA",
+      "departure": "TEB",
+      "arrival": "CMH",
+      "flight_time": "1:35",
+      "passengers": "",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/17/94",
+      "aircraft": "N928GA",
+      "departure": "CMH",
+      "arrival": "PBI",
+      "flight_time": "2:25",
+      "passengers": "JE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/18/94",
+      "aircraft": "N928GA",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:35",
+      "passengers": "JE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/19/94",
+      "aircraft": "N928GA",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:35",
+      "passengers": "JE, DAWN DEJONG, JE PRUE, JE DANIEL BERN",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/20/94",
+      "aircraft": "N928GA",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:35",
+      "passengers": "",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/21/94",
+      "aircraft": "N928GA",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:35",
+      "passengers": "JE, SALLY R",
+      "endorsements": "",
+      "aircraft_category": "II"
+    }
+  ],
+  "entities": {
+    "people": [
+      {"name": "Jeffrey Epstein", "abbreviation": "JE", "role": "Primary passenger"},
+      {"name": "Ghislaine Maxwell", "abbreviation": "GM", "role": "Frequent passenger"},
+      {"name": "[Unknown Twic Buster]", "abbreviation": "TWIC BUSTER", "role": "Passenger"},
+      {"name": "[Unknown Pri Plum]", "abbreviation": "PRI PLUM", "role": "Passenger"},
+      {"name": "[Unknown JM Security]", "abbreviation": "JM SECURITY", "role": "Passenger"},
+      {"name": "[Unknown GM Brown Recount]", "abbreviation": "GM BROWN RECOUNT", "role": "Passenger"},
+      {"name": "[Unknown T Mile]", "abbreviation": "T MILE", "role": "Passenger"},
+      {"name": "[Unknown HE]", "abbreviation": "HE", "role": "Passenger"},
+      {"name": "[Unknown B David]", "abbreviation": "B DAVID", "role": "Passenger"},
+      {"name": "[Unknown Douglas]", "abbreviation": "DOUGLAS", "role": "Passenger"},
+      {"name": "[Unknown International]", "abbreviation": "INTERNATIONAL", "role": "Passenger"},
+      {"name": "[Unknown Clara Artsradio]", "abbreviation": "CLARA ARTSRADIO", "role": "Passenger"},
+      {"name": "Dawn DeJong", "abbreviation": "DAWN DEJONG", "role": "Passenger"},
+      {"name": "[Unknown JE Prue]", "abbreviation": "JE PRUE", "role": "Passenger"},
+      {"name": "[Unknown JE Daniel Bern]", "abbreviation": "JE DANIEL BERN", "role": "Passenger"},
+      {"name": "[Unknown Sally R]", "abbreviation": "SALLY R", "role": "Passenger"},
+      {"name": "David Rodgers", "abbreviation": "", "role": "Pilot"}
+    ],
+    "locations": [
+      {"code": "TEB", "name": "Teterboro Airport", "location": "Teterboro, NJ"},
+      {"code": "PBI", "name": "Palm Beach International Airport", "location": "West Palm Beach, FL"},
+      {"code": "MDW", "name": "Midway International Airport", "location": "Chicago, IL"},
+      {"code": "SDF", "name": "Louisville International Airport", "location": "Louisville, KY"},
+      {"code": "BOS", "name": "Logan International Airport", "location": "Boston, MA"},
+      {"code": "CMH", "name": "John Glenn Columbus International Airport", "location": "Columbus, OH"}
+    ],
+    "aircraft": [
+      {"registration": "N928GA", "type": "Gulfstream", "category": "Private Jet"}
+    ]
+  },
+  "insights": [
+    "January 1994 shows return to regular East Coast operations after Caribbean holidays",
+    "Heavy PBI-TEB shuttle operations dominate the flight pattern",
+    "Introduction of new destinations: SDF (Louisville, KY) and BOS (Boston, MA)",
+    "Multiple new passenger names appear, some with unusual notations",
+    "Dawn DeJong appears as a clearly identified passenger name",
+    "Several passengers have cryptic abbreviations or coded names",
+    "Some flights show repositioning without passengers",
+    "Jeffrey Epstein remains primary passenger, often traveling with Ghislaine Maxwell",
+    "Columbus, OH (CMH) continues as a regular destination",
+    "Chicago (MDW) appears as a waypoint destination",
+    "Pattern suggests business/personal travel mixing East Coast and Midwest locations",
+    "High flight activity with 17 flights in partial month (January 5-21)",
+    "Total flight hours for this page significantly higher at 69:25 hours",
+    "Evidence of regular shuttle between Palm Beach and New York area"
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "page_number": 34,
+  "document_type": "Flight Log",
+  "metadata": {
+    "time_period": "March - May 1995",
+    "header_date": "1995 MAR",
+    "pilot": "David Rodgers",
+    "aircraft_registration": "N908JE",
+    "aircraft_make_model": "G1159B",
+    "total_flight_time_page": "46:03",
+    "amt_forward": "6357:36",
+    "total_to_date": "6403:39"
+  },
+  "flights": [
+    {
+      "date": "03/08/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "SAV",
+      "arrival": "TEB",
+      "flight_time": "1:03",
+      "passengers": "REPOSITIONING WITH SOPHIE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "03/09/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:06",
+      "passengers": "JE, GM, ANDY",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "03/12/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:06",
+      "passengers": "JE, GM, ANDY",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "03/16/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:06",
+      "passengers": "JE, GM, ROBERT SHAY, 4 PAX",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "03/19/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:03",
+      "passengers": "JE, ROGER, LARRY, 4 PAX",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "03/21/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "DCA",
+      "flight_time": "1:00",
+      "passengers": "JE, JAMES KEVER",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "03/21/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "DCA",
+      "arrival": "TEB",
+      "flight_time": "1:00",
+      "passengers": "JE, JAMES KEVER",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "03/22/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:06",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "04/10/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:03",
+      "passengers": "JE, GM, ANDY, JORDAN, HUOT",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "04/13/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:03",
+      "passengers": "JE, GM, ANDY, SONJAME, STEVE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "04/16/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TED",
+      "flight_time": "2:04",
+      "passengers": "JE, ANDY, SONJAME, DADDY, 1 FEMALE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "04/20/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:06",
+      "passengers": "JE, GM, ANDY",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "04/24/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:11",
+      "passengers": "JE, ANDY",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "04/27/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "SAV",
+      "flight_time": "4:30",
+      "passengers": "JE, GM, ANDY",
+      "crew": "",
+      "landings": "4",
+      "aircraft_category": ""
+    },
+    {
+      "date": "04/29/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "SAV",
+      "arrival": "NEW",
+      "flight_time": "1:09",
+      "passengers": "JE, GM, PETER",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "04/29/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "NEW",
+      "arrival": "PBI",
+      "flight_time": "1:03",
+      "passengers": "JE, GM, ANDY",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "04/29/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:06",
+      "passengers": "JE, ANDY",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "05/01/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "APF",
+      "flight_time": "2:11",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "05/04/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "APF",
+      "flight_time": "2:06",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "05/07/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:06",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    }
+  ],
+  "entities": {
+    "people": [
+      {"name": "Jeffrey Epstein", "abbreviation": "JE", "role": "Primary passenger"},
+      {"name": "Ghislaine Maxwell", "abbreviation": "GM", "role": "Frequent passenger"},
+      {"name": "Sophie", "role": "Person associated with repositioning flight"},
+      {"name": "Andy", "role": "Regular passenger"},
+      {"name": "Robert Shay", "role": "Passenger"},
+      {"name": "Roger", "role": "Passenger"},
+      {"name": "Larry", "role": "Passenger"},
+      {"name": "James Kever", "role": "Passenger"},
+      {"name": "Jordan", "role": "Passenger"},
+      {"name": "Huot", "role": "Passenger"},
+      {"name": "Sonjame", "role": "Passenger"},
+      {"name": "Steve", "role": "Passenger"},
+      {"name": "Daddy", "role": "Passenger (possibly nickname)"},
+      {"name": "Peter", "role": "Passenger"},
+      {"name": "David Rodgers", "role": "Pilot"}
+    ],
+    "locations": [
+      {"code": "SAV", "name": "Savannah/Hilton Head International Airport", "location": "Savannah, GA"},
+      {"code": "TEB", "name": "Teterboro Airport", "location": "Teterboro, NJ"},
+      {"code": "PBI", "name": "Palm Beach International Airport", "location": "West Palm Beach, FL"},
+      {"code": "DCA", "name": "Ronald Reagan Washington National Airport", "location": "Washington, DC"},
+      {"code": "TED", "name": "Unknown airport", "location": "Unknown"},
+      {"code": "NEW", "name": "Lakefront Airport", "location": "New Orleans, LA"},
+      {"code": "APF", "name": "Naples Municipal Airport", "location": "Naples, FL"}
+    ],
+    "aircraft": [
+      {"registration": "N908JE", "type": "Gulfstream G1159B", "category": "Private Jet"}
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {"location": "bottom_left", "description": "David Rodgers pilot signature", "legibility": "clear"}
+    ],
+    "stamps": [],
+    "markings": [
+      {"type": "page_number", "content": "34", "location": "bottom_center"},
+      {"type": "total_time", "content": "46:03", "location": "bottom_right"}
+    ]
+  },
+  "insights": [
+    "Significant gap between March 22 and April 10, 1995 (19 days with no flights)",
+    "April shows increased flight activity with 9 flights",
+    "Multiple flights on April 29 (3 flights in one day)",
+    "Transition from March to May covers three months on single page",
+    "Sophie appears only for repositioning flight",
+    "Robert Shay appears as new passenger name",
+    "James Kever associated with DC flights",
+    "Sonjame appears multiple times (possible transcription of two names)",
+    "Reference to 'Daddy' and '1 FEMALE' suggests informal passenger notation",
+    "Jordan and Huot appear together as passengers",
+    "Multiple 4 PAX notations indicate group travel",
+    "APF (Naples) appears as new destination in May",
+    "Ghislaine Maxwell absent from late April flights",
+    "Andy maintains consistent presence throughout period",
+    "Pattern of TEB-PBI routes continues as primary corridor",
+    "Aircraft registration shows N908JE (different from previous N909GA)"
+  ],
+  "corrections": {
+    "date_inference": "Page 34 starts with header '1995 MAR', shows March entries (3/8-3/22), then April entries (4/10-4/29), and early May entries (5/1, 5/4, 5/7)",
+    "actual_dates_from_png": "Verified from PNG: March ends on 3/22, April starts on 4/10 and continues through 4/29, then May entries begin with 5/1, 5/4, 5/7",
+    "continuity": "Page continues to page 35 which starts with May 9, 1995"
+  },
+  "pilot_signature": "David Rodgers",
+  "page_total": "46:03 hours"
+}

@@ -1,0 +1,235 @@
+{
+  "page_number": 27,
+  "document_type": "Flight Log",
+  "metadata": {
+    "time_period": "December 1993",
+    "pilot": "David Rodgers",
+    "aircraft_registration": "N928GA",
+    "aircraft_make_model": "GULFSTREAM",
+    "total_flight_time_page": "29:25",
+    "amt_forward": "56:55",
+    "total_to_date": "4562:00"
+  },
+  "flights": [
+    {
+      "date": "12/22/93",
+      "aircraft": "N928GA",
+      "departure": "BQK",
+      "arrival": "TEB",
+      "flight_time": "2:05",
+      "passengers": "NO PASSENGER",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/23/93",
+      "aircraft": "N928GA",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:35",
+      "passengers": "JE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/24/93",
+      "aircraft": "N928GA",
+      "departure": "PBI",
+      "arrival": "STT",
+      "flight_time": "2:35",
+      "passengers": "JE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/25/93",
+      "aircraft": "N928GA",
+      "departure": "STT",
+      "arrival": "SJU",
+      "flight_time": "0:25",
+      "passengers": "JE, BREAKFAST WOMAN",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/26/93",
+      "aircraft": "N928GA",
+      "departure": "SJU",
+      "arrival": "TXKF",
+      "flight_time": "2:11",
+      "passengers": "JE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/27/93",
+      "aircraft": "N928GA",
+      "departure": "TXKF",
+      "arrival": "TEB",
+      "flight_time": "2:35",
+      "passengers": "JE, BREAKFAST WOMAN",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/28/93",
+      "aircraft": "N928GA",
+      "departure": "TEB",
+      "arrival": "SJU",
+      "flight_time": "4:20",
+      "passengers": "",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/29/93",
+      "aircraft": "N928GA",
+      "departure": "SJU",
+      "arrival": "PBI",
+      "flight_time": "2:40",
+      "passengers": "JE, JENNIFER, MARK",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/30/93",
+      "aircraft": "N928GA",
+      "departure": "PBI",
+      "arrival": "MYGF",
+      "flight_time": "2:10",
+      "passengers": "JE, MARK, MIDDLE TON",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/31/93",
+      "aircraft": "N928GA",
+      "departure": "MYGF",
+      "arrival": "MYEF",
+      "flight_time": "0:45",
+      "passengers": "JE, MARK, MIDDLETON",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/31/93",
+      "aircraft": "N928GA",
+      "departure": "MYEF",
+      "arrival": "MYGS",
+      "flight_time": "0:50",
+      "passengers": "GM, JOHN ALESSI",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/31/93",
+      "aircraft": "N928GA",
+      "departure": "MYGS",
+      "arrival": "DCB",
+      "flight_time": "2:10",
+      "passengers": "",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/31/93",
+      "aircraft": "N928GA",
+      "departure": "DCB",
+      "arrival": "TEB",
+      "flight_time": "2:47",
+      "passengers": "GM, DCB BOUND, TRAVEL TESTED, ST, HELEN",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/01/94",
+      "aircraft": "N928GA",
+      "departure": "TEB",
+      "arrival": "SFK",
+      "flight_time": "2:49",
+      "passengers": "JE, GM",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/02/94",
+      "aircraft": "N928GA",
+      "departure": "SFK",
+      "arrival": "PBI",
+      "flight_time": "2:15",
+      "passengers": "",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/03/94",
+      "aircraft": "N928GA",
+      "departure": "PBI",
+      "arrival": "CMH",
+      "flight_time": "2:25",
+      "passengers": "JE, KRISTJAN KJOULD JD",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/04/94",
+      "aircraft": "N928GA",
+      "departure": "CMH",
+      "arrival": "TEB",
+      "flight_time": "1:35",
+      "passengers": "JE, BRB GOLD",
+      "endorsements": "",
+      "aircraft_category": "II"
+    }
+  ],
+  "entities": {
+    "people": [
+      {"name": "Jeffrey Epstein", "abbreviation": "JE", "role": "Primary passenger"},
+      {"name": "Ghislaine Maxwell", "abbreviation": "GM", "role": "Frequent passenger"},
+      {"name": "[Unknown Breakfast Woman]", "abbreviation": "BREAKFAST WOMAN", "role": "Passenger"},
+      {"name": "[Unknown Jennifer]", "abbreviation": "JENNIFER", "role": "Passenger"},
+      {"name": "[Unknown Mark]", "abbreviation": "MARK", "role": "Passenger"},
+      {"name": "[Unknown Middle Ton/Middleton]", "abbreviation": "MIDDLE TON/MIDDLETON", "role": "Passenger"},
+      {"name": "John Alessi", "abbreviation": "JOHN ALESSI", "role": "Passenger"},
+      {"name": "[Unknown DCB Bound]", "abbreviation": "DCB BOUND", "role": "Passenger"},
+      {"name": "[Unknown Travel Tested]", "abbreviation": "TRAVEL TESTED", "role": "Passenger"},
+      {"name": "[Unknown ST]", "abbreviation": "ST", "role": "Passenger"},
+      {"name": "[Unknown Helen]", "abbreviation": "HELEN", "role": "Passenger"},
+      {"name": "[Unknown Kristjan Kjould JD]", "abbreviation": "KRISTJAN KJOULD JD", "role": "Passenger"},
+      {"name": "[Unknown BRB Gold]", "abbreviation": "BRB GOLD", "role": "Passenger"},
+      {"name": "David Rodgers", "abbreviation": "", "role": "Pilot"}
+    ],
+    "locations": [
+      {"code": "BQK", "name": "Brunswick Golden Isles Airport", "location": "Brunswick, GA"},
+      {"code": "TEB", "name": "Teterboro Airport", "location": "Teterboro, NJ"},
+      {"code": "PBI", "name": "Palm Beach International Airport", "location": "West Palm Beach, FL"},
+      {"code": "STT", "name": "Cyril E. King Airport", "location": "St. Thomas, US Virgin Islands"},
+      {"code": "SJU", "name": "Luis Muñoz Marín International Airport", "location": "San Juan, Puerto Rico"},
+      {"code": "TXKF", "name": "Markham Airfield", "location": "Texas (likely private airfield)"},
+      {"code": "MYGF", "name": "Grand Bahama International Airport", "location": "Freeport, Bahamas"},
+      {"code": "MYEF", "name": "Exuma Airport", "location": "Exuma, Bahamas"},
+      {"code": "MYGS", "name": "Stella Maris Airport", "location": "Long Island, Bahamas"},
+      {"code": "DCB", "name": "Codrington Airport", "location": "Barbuda"},
+      {"code": "SFK", "name": "Francis S. Gabreski Airport", "location": "Suffolk County, NY"},
+      {"code": "CMH", "name": "John Glenn Columbus International Airport", "location": "Columbus, OH"}
+    ],
+    "aircraft": [
+      {"registration": "N928GA", "type": "Gulfstream", "category": "Private Jet"}
+    ]
+  },
+  "insights": [
+    "Christmas period shows extensive Caribbean travel - STT, SJU, Bahamas",
+    "Multiple Bahamas destinations: MYGF (Freeport), MYEF (Exuma), MYGS (Long Island)",
+    "New Year's Eve shows complex Caribbean island hopping with multiple same-day flights",
+    "Introduction of new passenger names including 'Breakfast Woman' and 'Middleton'",
+    "John Alessi appears as identifiable passenger (not abbreviated)",
+    "First entries for 1994 begin on January 1st with continuation to Suffolk County, NY",
+    "Return to familiar pattern of PBI-CMH-TEB routing in early January 1994",
+    "Some repositioning flights without passengers (December 22, 28)",
+    "Complex multi-leg journeys through Caribbean during holiday period",
+    "Jeffrey Epstein present on most holiday flights",
+    "Ghislaine Maxwell joins for New Year's flights and early 1994 travel",
+    "Pattern suggests private Caribbean vacation during Christmas/New Year period",
+    "Total flight time reduced this page (29:25) compared to previous pages"
+  ]
+}

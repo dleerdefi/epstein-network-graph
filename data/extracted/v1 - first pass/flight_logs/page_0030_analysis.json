@@ -1,0 +1,320 @@
+{
+  "page_number": 30,
+  "document_type": "Flight Log",
+  "metadata": {
+    "time_period": "February 1994 - October 1994",
+    "pilot": "David Rodgers",
+    "aircraft_registration": "N909GA",
+    "aircraft_make_model": "G1159B N909GA",
+    "total_flight_time_page": "137:35",
+    "amt_forward": "59:05",
+    "total_to_date": "6361:11"
+  },
+  "flights": [
+    {
+      "date": "02/21/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "PBI",
+      "arrival": "PBI",
+      "flight_time": "3:00",
+      "passengers": "WE MOVE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "02/22/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:35",
+      "passengers": "JE, VERONICA 3 HOURS",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "02/23/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "TEB",
+      "arrival": "CMH",
+      "flight_time": "1:30",
+      "passengers": "JE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "02/24/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "CMH",
+      "arrival": "PBI",
+      "flight_time": "2:25",
+      "passengers": "JE: AL PULLEAT",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "02/25/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:35",
+      "passengers": "JE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "03/01/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "TEB",
+      "arrival": "DCA",
+      "flight_time": "1:05",
+      "passengers": "JE, GM, PAMELA, MARSHALL, E WHILE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "03/02/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "DCA",
+      "arrival": "PBI",
+      "flight_time": "2:20",
+      "passengers": "JE, GM, PAMELA MARQUEZ, E WHILE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "03/03/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:35",
+      "passengers": "JE, GM, PAMELA MARQUEZ, E WHILE, JJ ATHENY",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "03/04/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:35",
+      "passengers": "JE, DANIEL DEJONG, 3 OTHERS, JERALD",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "03/05/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "PBI",
+      "arrival": "DFW",
+      "flight_time": "3:15",
+      "passengers": "JE, GM, JE PAMELA, JERALD 3 OTHERS",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "03/06/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "DFW",
+      "arrival": "TEB",
+      "flight_time": "3:30",
+      "passengers": "JE, DANIEL DEJONGG, PAMELA JERALD",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "03/07/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "TEB",
+      "arrival": "BDR",
+      "flight_time": "0:35",
+      "passengers": "JE, GM, ATHENNA JERALD",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "03/08/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "BDR",
+      "arrival": "DEN",
+      "flight_time": "4:30",
+      "passengers": "JE, GM BREAKFAST, PAMELA 3 OTHERS",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "03/09/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "DEN",
+      "arrival": "DCA",
+      "flight_time": "3:15",
+      "passengers": "JE, GM, ATHENA JERALD, 3 OTHERS",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "03/15/94",
+      "aircraft": "H3125-700 N918GA",
+      "departure": "SEMICONDUCTOR",
+      "arrival": "",
+      "flight_time": "",
+      "passengers": "RECONNAISONWORK H3125-700",
+      "endorsements": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "03/15/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "",
+      "arrival": "SEMICONDUCTOR H3125-SAV",
+      "flight_time": "",
+      "passengers": "DISCONNECTION SEMIDETL G1159 SAV",
+      "endorsements": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "10/01/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "SDF",
+      "arrival": "ASC",
+      "flight_time": "2:10",
+      "passengers": "JE, SOPHIA GEDDIS, FUMEES VANDALS",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "10/02/94",
+      "aircraft": "H3125-700 N918GA",
+      "departure": "PBF",
+      "arrival": "NEW",
+      "flight_time": "2:10",
+      "passengers": "SEMI LANDLINE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "10/03/94",
+      "aircraft": "H3125-700 N918GA",
+      "departure": "NEW",
+      "arrival": "DBI",
+      "flight_time": "1:35",
+      "passengers": "JE, LANDLINE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "10/04/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "PBF",
+      "arrival": "TEB",
+      "flight_time": "2:35",
+      "passengers": "JE, GVA AMBASSADOR, FUMEES 3 OTHERS",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "10/05/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "TEB",
+      "arrival": "DEN",
+      "flight_time": "4:15",
+      "passengers": "JE, GVA AMBASSADOR, FUMEES 3 OTHERS",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "10/06/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "DEN",
+      "arrival": "DCA",
+      "flight_time": "3:10",
+      "passengers": "JE, SOPHIA GEDDIS, FUMEES VANDALS",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "10/07/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "DCA",
+      "arrival": "PBI",
+      "flight_time": "2:25",
+      "passengers": "JE, SOPHIA GEDDIS, BREAKFAST 3 OTHERS",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "10/08/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:35",
+      "passengers": "JE, SOPHIA GEDDIS",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "10/09/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "TEB",
+      "arrival": "SAV",
+      "flight_time": "2:15",
+      "passengers": "JE, SAV TRU A 3+\u00be",
+      "endorsements": "",
+      "aircraft_category": "II"
+    }
+  ],
+  "entities": {
+    "people": [
+      {"name": "Jeffrey Epstein", "abbreviation": "JE", "role": "Primary passenger"},
+      {"name": "Ghislaine Maxwell", "abbreviation": "GM", "role": "Frequent passenger"},
+      {"name": "[Unknown We Move]", "abbreviation": "WE MOVE", "role": "Passenger"},
+      {"name": "[Unknown Veronica]", "abbreviation": "VERONICA", "role": "Passenger"},
+      {"name": "[Unknown Al Pulleat]", "abbreviation": "AL PULLEAT", "role": "Passenger"},
+      {"name": "[Unknown Pamela/Pamela Marquez]", "abbreviation": "PAMELA/PAMELA MARQUEZ", "role": "Passenger"},
+      {"name": "[Unknown Marshall]", "abbreviation": "MARSHALL", "role": "Passenger"},
+      {"name": "[Unknown E While]", "abbreviation": "E WHILE", "role": "Passenger"},
+      {"name": "[Unknown JJ Atheny]", "abbreviation": "JJ ATHENY", "role": "Passenger"},
+      {"name": "Daniel DeJong", "abbreviation": "DANIEL DEJONG/DANIEL DEJONGG", "role": "Passenger"},
+      {"name": "[Unknown Jerald]", "abbreviation": "JERALD", "role": "Passenger"},
+      {"name": "[Unknown Athenna/Athena]", "abbreviation": "ATHENNA/ATHENA", "role": "Passenger"},
+      {"name": "Sophia Geddis", "abbreviation": "SOPHIA GEDDIS", "role": "Passenger"},
+      {"name": "[Unknown Fumees Vandals]", "abbreviation": "FUMEES VANDALS", "role": "Passenger"},
+      {"name": "[Unknown GVA Ambassador]", "abbreviation": "GVA AMBASSADOR", "role": "Passenger"},
+      {"name": "David Rodgers", "abbreviation": "", "role": "Pilot"}
+    ],
+    "locations": [
+      {"code": "PBI", "name": "Palm Beach International Airport", "location": "West Palm Beach, FL"},
+      {"code": "TEB", "name": "Teterboro Airport", "location": "Teterboro, NJ"},
+      {"code": "CMH", "name": "John Glenn Columbus International Airport", "location": "Columbus, OH"},
+      {"code": "DCA", "name": "Ronald Reagan Washington National Airport", "location": "Washington, DC"},
+      {"code": "DFW", "name": "Dallas/Fort Worth International Airport", "location": "Dallas, TX"},
+      {"code": "BDR", "name": "Igor I. Sikorsky Memorial Airport", "location": "Bridgeport, CT"},
+      {"code": "DEN", "name": "Denver International Airport", "location": "Denver, CO"},
+      {"code": "SDF", "name": "Louisville International Airport", "location": "Louisville, KY"},
+      {"code": "ASC", "name": "[Unknown Airport ASC]", "location": "Unknown"},
+      {"code": "PBF", "name": "[Unknown Airport PBF]", "location": "Unknown"},
+      {"code": "NEW", "name": "[Unknown Airport NEW]", "location": "Unknown"},
+      {"code": "DBI", "name": "[Unknown Airport DBI]", "location": "Unknown"},
+      {"code": "SAV", "name": "Savannah/Hilton Head International Airport", "location": "Savannah, GA"}
+    ],
+    "aircraft": [
+      {"registration": "N909GA", "type": "Gulfstream G1159B", "category": "Private Jet"},
+      {"registration": "N918GA", "type": "Hawker H3125-700", "category": "Private Jet"}
+    ]
+  },
+  "insights": [
+    "Major time gap between March 9 and October 1, 1994 (nearly 7 months)",
+    "Introduction of third aircraft: N918GA (Hawker H3125-700) in March and October",
+    "Complex routing through multiple major cities: Dallas (DFW), Denver (DEN), Washington (DCA)",
+    "Bridgeport, CT (BDR) appears as new New England destination",
+    "Some entries show aircraft maintenance/reconnection work in March",
+    "Return of Sophia Geddis as regular passenger in October",
+    "Multiple cryptic passenger names and references throughout",
+    "Pattern of group travel continues with '3 others' frequently mentioned",
+    "October shows resumption of regular operations after summer gap",
+    "Unknown airport codes (PBF, NEW, DBI) suggest private or alternate facilities",
+    "Jeffrey Epstein remains primary passenger across all operations",
+    "Ghislaine Maxwell less frequent in later entries",
+    "Savannah, GA continues as southeastern hub",
+    "Total flight time extremely high at 137:35 hours for this page"
+  ]
+}

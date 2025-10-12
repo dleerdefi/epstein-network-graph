@@ -1,0 +1,274 @@
+{
+  "page_number": 70,
+  "date_header": "OCT 1999",
+  "time_period": "October 1999 - November 1999",
+  "aircraft": {
+    "registration": "G-1159B N908JE",
+    "type": "G-1159B"
+  },
+  "flight_records": [
+    {
+      "entry_number": "14",
+      "date": "10/14/1999",
+      "departure": "G-1159B",
+      "arrival": "N908JE",
+      "flight_time": "1293",
+      "remarks": "BED - PBI - JE, GM, ET, AW, ROBERT RIBA BENET",
+      "passengers": ["JE", "GM", "ET", "AW", "ROBERT RIBA BENET"],
+      "crew": "2/9"
+    },
+    {
+      "entry_number": "16",
+      "date": "10/16/1999",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1298",
+      "remarks": "TIST - JG, GM, ROBERT RIBA BENET",
+      "passengers": ["JG", "GM", "ROBERT RIBA BENET"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "18",
+      "date": "10/18/1999",
+      "departure": "",
+      "arrival": "TIST",
+      "flight_time": "1291",
+      "remarks": "PBI - JG, N, AMBER, ALEXANDRA WYTT",
+      "passengers": ["JG", "N", "AMBER", "ALEXANDRA WYTT"],
+      "crew": "3/6"
+    },
+    {
+      "entry_number": "21",
+      "date": "10/21/1999",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1295",
+      "remarks": "PBI - JG, GM, ET",
+      "passengers": ["JG", "GM", "ET"],
+      "crew": "2/7"
+    },
+    {
+      "entry_number": "27",
+      "date": "10/27/1999",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1296",
+      "remarks": "TEB - JG, ET, GWENDOLEN BECK, PJ BEAUMONT, S ANDERSON",
+      "passengers": ["JG", "ET", "GWENDOLEN BECK", "PJ BEAUMONT", "S ANDERSON"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "29",
+      "date": "10/29/1999",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1297",
+      "remarks": "PBI - JG, N, ET, CLAIRE HAZEL",
+      "passengers": ["JG", "N", "ET", "CLAIRE HAZEL"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "31",
+      "date": "10/31/1999",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1299",
+      "remarks": "TEB - JG, GM, ET, CLAIRE HAZEL",
+      "passengers": ["JG", "GM", "ET", "CLAIRE HAZEL"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "NOV 2",
+      "date": "11/02/1999",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1299",
+      "remarks": "BED - JG, SHAWN ANNS, LEWIS",
+      "passengers": ["JG", "SHAWN ANNS", "LEWIS"],
+      "crew": "8"
+    },
+    {
+      "entry_number": "3",
+      "date": "11/03/1999",
+      "departure": "",
+      "arrival": "BED",
+      "flight_time": "1300",
+      "remarks": "PBI - JG, SHELLEY ANNS, LEWIS",
+      "passengers": ["JG", "SHELLEY ANNS", "LEWIS"],
+      "crew": "2/8"
+    },
+    {
+      "entry_number": "4",
+      "date": "11/04/1999",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1301",
+      "remarks": "TEB - JE, ET",
+      "passengers": ["JE", "ET"],
+      "crew": "2/6"
+    },
+    {
+      "entry_number": "11",
+      "date": "11/11/1999",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1302",
+      "remarks": "SAF - JG, AP, ALBERTO PINTO, JEAN ANDREWS, JEAN ANDREWS",
+      "passengers": ["JG", "AP", "ALBERTO PINTO", "JEAN ANDREWS"],
+      "crew": "4/0"
+    },
+    {
+      "entry_number": "11",
+      "date": "11/11/1999",
+      "departure": "",
+      "arrival": "SAF",
+      "flight_time": "1303",
+      "remarks": "VNY - JG",
+      "passengers": ["JG"],
+      "crew": "1/7"
+    },
+    {
+      "entry_number": "13",
+      "date": "11/13/1999",
+      "departure": "",
+      "arrival": "VNY",
+      "flight_time": "1304",
+      "remarks": "SAN - JG",
+      "passengers": ["JG"],
+      "crew": "7"
+    },
+    {
+      "entry_number": "13",
+      "date": "11/13/1999",
+      "departure": "",
+      "arrival": "SAN",
+      "flight_time": "1305",
+      "remarks": "SAF - JG",
+      "passengers": ["JG"],
+      "crew": "1/6"
+    },
+    {
+      "entry_number": "14",
+      "date": "11/14/1999",
+      "departure": "",
+      "arrival": "SAF",
+      "flight_time": "1306",
+      "remarks": "TEB - JG, AP, ALBERTO PINTO, JERRY ANDREWS, JEAN ANDREWS",
+      "passengers": ["JG", "AP", "ALBERTO PINTO", "JERRY ANDREWS", "JEAN ANDREWS"],
+      "crew": "2/6"
+    },
+    {
+      "entry_number": "16",
+      "date": "11/16/1999",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1307",
+      "remarks": "PBI - JG",
+      "passengers": ["JG"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "18",
+      "date": "11/18/1999",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1308",
+      "remarks": "TEB - JG",
+      "passengers": ["JG"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "19",
+      "date": "11/19/1999",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1309",
+      "remarks": "PBI - JG, NANCY GLICOS, JOHN MORRIS",
+      "passengers": ["JG", "NANCY GLICOS", "JOHN MORRIS"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "22",
+      "date": "11/22/1999",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1310",
+      "remarks": "TIST - JG, GM, GT, JEAN MENDEZ, CATHY",
+      "passengers": ["JG", "GM", "GT", "JEAN MENDEZ", "CATHY"],
+      "crew": "2/2"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "JG",
+      "GM",
+      "ET",
+      "GT",
+      "AW",
+      "N",
+      "AP",
+      "ROBERT RIBA BENET",
+      "AMBER",
+      "ALEXANDRA WYTT",
+      "GWENDOLEN BECK",
+      "PJ BEAUMONT",
+      "S ANDERSON",
+      "CLAIRE HAZEL",
+      "SHAWN ANNS",
+      "SHELLEY ANNS",
+      "LEWIS",
+      "ALBERTO PINTO",
+      "JEAN ANDREWS",
+      "JERRY ANDREWS",
+      "NANCY GLICOS",
+      "JOHN MORRIS",
+      "JEAN MENDEZ",
+      "CATHY",
+      "David Rodgers"
+    ],
+    "locations": [
+      "BED",
+      "PBI",
+      "TIST",
+      "TEB",
+      "SAF",
+      "VNY",
+      "SAN"
+    ],
+    "aircraft": [
+      "G-1159B",
+      "N908JE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "16/11",
+    "amount_forward": "16680",
+    "total_to_date": "17012",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page transitions from October 1999 to November 1999",
+    "Robert Riba Benet appears multiple times",
+    "Alberto Pinto appears as recurring passenger",
+    "Jean/Jerry Andrews appear as passengers",
+    "Claire Hazel continues as recurring passenger",
+    "Multiple Caribbean operations to TIST (St. Thomas)",
+    "California operations (VNY - Van Nuys, SAN - San Diego)",
+    "Santa Fe (SAF) operations continue",
+    "Flight numbers reach 1310",
+    "Consistent pattern of East Coast to Caribbean travel"
+  ]
+}

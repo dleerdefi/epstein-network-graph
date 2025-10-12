@@ -1,0 +1,165 @@
+{
+  "page_number": 105,
+  "file_path": "data/birthday_book_images/page_0105.png",
+  "file_size_mb": 2.6947717666625977,
+  "type": "photo_collage_mystery_theme",
+  "content": {
+    "text": "NOT A EUROPEAN MYSTERY",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "description": "Photo collage with mystery theme caption written vertically",
+    "text_sections": {
+      "full_transcription": "NOT A EUROPEAN MYSTERY",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Individuals in interior residential/hotel settings",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          105
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      "Interior residential spaces",
+      "Bedroom",
+      "Dining area",
+      "Balcony"
+    ],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Interior scenes with mystery theme caption",
+    "theme": "domestic_leisure_mystery_reference",
+    "significance": "medium",
+    "document_type": "photo_collage_mystery_theme"
+  },
+  "insights": [
+    "Caption 'NOT A EUROPEAN MYSTERY' suggests playful reference to location or situation",
+    "Photos show upscale residential or hotel accommodations",
+    "Multiple interior spaces documented suggesting extended stay or residence",
+    "Casual, relaxed atmosphere in domestic settings",
+    "Vertical text orientation adds creative/artistic element to page layout",
+    "Mystery theme caption may reference inside joke, book, or shared cultural reference",
+    "Quality of accommodations suggests luxury property or high-end hotel",
+    "Combination of bedroom, dining, and balcony shots indicates comprehensive documentation of living space"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000105",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.171740",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Person lounging on bed/couch in interior room",
+        "theme": "relaxation",
+        "setting": "bedroom",
+        "elements": [
+          "curtains",
+          "casual lounging",
+          "daylight through windows"
+        ],
+        "individual_count": 1,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      },
+      {
+        "description": "Person at table in interior dining or living space",
+        "theme": "domestic_scene",
+        "setting": "dining_area",
+        "elements": [
+          "table setting",
+          "interior furnishings",
+          "casual meal or activity"
+        ],
+        "individual_count": 1,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      },
+      {
+        "description": "View of balcony or terrace with decorative railing",
+        "theme": "architectural",
+        "setting": "balcony",
+        "elements": [
+          "ornamental railing",
+          "outdoor space",
+          "architectural details"
+        ],
+        "individual_count": 1,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": [],
+    "handwritten_notes": [
+      "NOT A EUROPEAN MYSTERY (written vertically on left side)"
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Three photographs showing interior spaces",
+    "Vertical text on left: 'NOT A EUROPEAN MYSTERY'",
+    "Top photo: Person reclining on bed/couch in sunlit room",
+    "Middle photo: Person at table/dining area",
+    "Bottom photo: Balcony with ornate iron railing",
+    "All photos appear to be from same location/property",
+    "High-end residential or hotel setting",
+    "Natural lighting suggests daytime photography",
+    "Caption suggests location is not in Europe despite appearances",
+    "Photos from 1980s-1990s based on quality",
+    "Document stamped HOUSE_OVERSIGHT_000105",
+    "Playful caption format with vertical text orientation"
+  ],
+  "investigative_leads": []
+}

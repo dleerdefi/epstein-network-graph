@@ -1,0 +1,676 @@
+{
+  "page_number": 22,
+  "alphabetical_section": "G",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "022_email_cribon",
+      "name": {
+        "full_name": null,
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": null,
+        "suffix": null
+      },
+      "phones": [],
+      "emails": [
+        {"type": "personal", "email": "cribon@pfd.co.uk"}
+      ],
+      "addresses": [],
+      "handwritten_notes": ["Email: cribon@pfd.co.uk"],
+      "confidence": {
+        "emails": "high"
+      },
+      "formatting_notes": "Orphan email - likely continuation from previous entry"
+    },
+    {
+      "entry_id": "022_gertler_eric",
+      "name": {
+        "full_name": "Gertler, Eric",
+        "prefix": null,
+        "first_name": "Eric",
+        "middle_name": null,
+        "last_name": "Gertler",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "mobile", "number": "917 797 5459(c)", "formatting": "US format"},
+        {"type": "fax", "number": "212 693 8221 (f)", "formatting": "US format"}
+      ],
+      "emails": [
+        {"type": "business", "email": "egertler@privista.com"}
+      ],
+      "addresses": [
+        {
+          "type": "business",
+          "address_lines": ["Privista", "11 E. 26th Street", "21st floor", "New York, NY 10010"],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10010",
+          "country": "USA"
+        },
+        {
+          "type": "home",
+          "address_lines": ["212 696 8224(v)"],
+          "notes": "Voice line"
+        }
+      ],
+      "handwritten_notes": ["Email: egertler@privista.com"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Business executive - Privista"
+    },
+    {
+      "entry_id": "022_getty_mark",
+      "name": {
+        "full_name": "Getty, Mark",
+        "prefix": null,
+        "first_name": "Mark",
+        "middle_name": null,
+        "last_name": "Getty",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "work", "number": "0207-446 0560 (w)", "formatting": "UK format"},
+        {"type": "fax", "number": "0207-446 0666(w)", "formatting": "UK format"},
+        {"type": "home", "number": "0207-821-8581 (h)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Getty family member - Getty Images"
+    },
+    {
+      "entry_id": "022_getty_pia_chris",
+      "name": {
+        "full_name": "Getty, Pia and Chris",
+        "prefix": null,
+        "first_name": "Pia",
+        "middle_name": null,
+        "last_name": "Getty",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Chris"
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 717 6399(h)", "formatting": "International to US"},
+        {"type": "home", "number": "001 212 247 1722(h)", "formatting": "International to US"}
+      ],
+      "emails": [
+        {"type": "personal", "email": "piag@aol.com"}
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["20 East 72nd Street", "New York, NY 10021"],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": ["Email: piag@aol.com", "001 917 921 6768"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Getty family members - Upper East Side NYC"
+    },
+    {
+      "entry_id": "022_gibbs_emma",
+      "name": {
+        "full_name": "Gibbs, Emma",
+        "prefix": null,
+        "first_name": "Emma",
+        "middle_name": null,
+        "last_name": "Gibbs",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207-351-3772(h)", "formatting": "UK format"},
+        {"type": "pager", "number": "+44 7710 816 355 (p)", "formatting": "UK mobile"}
+      ],
+      "emails": [
+        {"type": "business", "email": "emmagibbsuk@hotmail.com"}
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Garden Frat", "61 Ifield Road", "London, SW10 9AU UK"],
+          "city": "London",
+          "postal_code": "SW10 9AU",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": ["Email: emmagibbsuk@hotmail.com", "0207-352 3040 work"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "UK contact"
+    },
+    {
+      "entry_id": "022_gibson_caroline",
+      "name": {
+        "full_name": "Gibson, Caroline",
+        "prefix": null,
+        "first_name": "Caroline",
+        "middle_name": null,
+        "last_name": "Gibson",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207-730 5974 (h)", "formatting": "UK format"},
+        {"type": "work", "number": "0207-937 6044 (w)", "formatting": "UK format"},
+        {"type": "home", "number": "212-572-5090", "formatting": "US format"},
+        {"type": "home", "number": "212-572-8400", "formatting": "US format"},
+        {"type": "palm_beach", "number": "407-835-9780 Palm Beach", "formatting": "US format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["43 Camberwell", "London, SE5"],
+          "city": "London",
+          "postal_code": "SE5",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "UK/US connections with Palm Beach"
+    },
+    {
+      "entry_id": "022_gillifilan_andrew",
+      "name": {
+        "full_name": "Gillifilan, Andrew",
+        "prefix": null,
+        "first_name": "Andrew",
+        "middle_name": null,
+        "last_name": "Gillifilan",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "mobile", "number": "0207-730 3412 (m)", "formatting": "UK format"},
+        {"type": "pager", "number": "0209-730 3680 (p)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Box 68614", "Beamarie", "Sandton 2010, South Africa"],
+          "city": "Sandton",
+          "postal_code": "2010",
+          "country": "South Africa"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "South Africa contact"
+    },
+    {
+      "entry_id": "022_gillford_lord_lady",
+      "name": {
+        "full_name": "Gillford, Lord & Lady",
+        "prefix": "Lord",
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Gillford",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Lady Gillford"
+      },
+      "phones": [
+        {"type": "home", "number": "0207-349 1473 (h)", "formatting": "UK format"},
+        {"type": "work", "number": "0207-245 1245 (w)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["12 Ashcombe Ave", "London SW5"],
+          "city": "London",
+          "postal_code": "SW5",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "British nobility"
+    },
+    {
+      "entry_id": "022_gillmour_andrew_emma",
+      "name": {
+        "full_name": "Gillmour, Andrew & Emma",
+        "prefix": null,
+        "first_name": "Andrew",
+        "middle_name": null,
+        "last_name": "Gillmour",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Emma"
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 533 0656 (h)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "US couple"
+    },
+    {
+      "entry_id": "022_ginsberg_gary",
+      "name": {
+        "full_name": "Ginsberg Gary",
+        "prefix": null,
+        "first_name": "Gary",
+        "middle_name": null,
+        "last_name": "Ginsberg",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 956 7716(w)", "formatting": "International to US"},
+        {"type": "home", "number": "001 917 679 7445(p)", "formatting": "International to US"}
+      ],
+      "emails": [
+        {"type": "business", "email": "gginsberg@newscorp.com"}
+      ],
+      "addresses": [],
+      "handwritten_notes": ["Email: gginsberg@newscorp.com"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high"
+      },
+      "formatting_notes": "News Corp executive"
+    },
+    {
+      "entry_id": "022_gittis_howard",
+      "name": {
+        "full_name": "Gittis, Howard",
+        "prefix": null,
+        "first_name": "Howard",
+        "middle_name": null,
+        "last_name": "Gittis",
+        "suffix": null
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Macdonala Row", "35 East 82nd Street", "New York, NY 10021"],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Upper East Side NYC"
+    },
+    {
+      "entry_id": "022_giussani_luca",
+      "name": {
+        "full_name": "Giussani Luca",
+        "prefix": null,
+        "first_name": "Luca",
+        "middle_name": null,
+        "last_name": "Giussani",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "011 305 673 9811", "formatting": "International"},
+        {"type": "pager", "number": "011 305 467 7737(p)", "formatting": "International"}
+      ],
+      "emails": [
+        {"type": "personal", "email": "lgiussani@dotnet.net"}
+      ],
+      "addresses": [],
+      "handwritten_notes": ["Email: lgiussani@dotnet.net"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high"
+      },
+      "formatting_notes": "Miami area code"
+    },
+    {
+      "entry_id": "022_glanville_mary",
+      "name": {
+        "full_name": "Glanville Mary",
+        "prefix": null,
+        "first_name": "Mary",
+        "middle_name": null,
+        "last_name": "Glanville",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207-352 3436(h)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["9 Radnor Walk", "London SW3"],
+          "city": "London",
+          "postal_code": "SW3",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Chelsea, London"
+    },
+    {
+      "entry_id": "022_glass_charlie",
+      "name": {
+        "full_name": "Glass, Charlie",
+        "prefix": null,
+        "first_name": "Charlie",
+        "middle_name": null,
+        "last_name": "Glass",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "00 727 7636(h)", "formatting": "International"},
+        {"type": "pager", "number": "07 979 857 810(p)", "formatting": "UK mobile"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "UK contact"
+    },
+    {
+      "entry_id": "022_glentworth_edmund_emily",
+      "name": {
+        "full_name": "Glentworth, Edmund & Emily",
+        "prefix": null,
+        "first_name": "Edmund",
+        "middle_name": null,
+        "last_name": "Glentworth",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Emily"
+      },
+      "phones": [
+        {"type": "home", "number": "0207-735 2832 (", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "UK couple"
+    },
+    {
+      "entry_id": "022_goess_pilar",
+      "name": {
+        "full_name": "Goess, Pilar",
+        "prefix": null,
+        "first_name": "Pilar",
+        "middle_name": null,
+        "last_name": "Goess",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "00 43 1 505 1775", "formatting": "International to Austria"},
+        {"type": "home", "number": "00 43 1 713 3905", "formatting": "International to Austria"},
+        {"type": "home", "number": "00 33 1 4722 4137", "formatting": "International to France"},
+        {"type": "home", "number": "00 16 4 453 3098", "formatting": "International"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Austrian/French connections"
+    },
+    {
+      "entry_id": "022_goldberg_ellen",
+      "name": {
+        "full_name": "Goldberg, Ellen",
+        "prefix": null,
+        "first_name": "Ellen",
+        "middle_name": null,
+        "last_name": "Goldberg",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "work", "number": "505 946 3643 (w)", "formatting": "US format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Sante Fe Institute"],
+          "notes": "Research institute"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Santa Fe Institute connection"
+    },
+    {
+      "entry_id": "022_goldsmith_isabel",
+      "name": {
+        "full_name": "Goldsmith, Isabel",
+        "prefix": null,
+        "first_name": "Isabel",
+        "middle_name": null,
+        "last_name": "Goldsmith",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "4471 373 1667", "formatting": "UK format"},
+        {"type": "home", "number": "4471 373 1767", "formatting": "UK format"},
+        {"type": "home", "number": "310 271 7150 LA - Home", "formatting": "US format"},
+        {"type": "home", "number": "52 5 540 7657 Mexico City", "formatting": "International to Mexico"},
+        {"type": "home", "number": "52 5 540 7658/9 Mexico City - Office Fax", "formatting": "International to Mexico"},
+        {"type": "home", "number": "65 3 337 0161 (hf)", "formatting": "International to Singapore"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["1362 Angelo Dr.", "Beverly Hills, CA 90210"],
+          "city": "Beverly Hills",
+          "state": "CA",
+          "postal_code": "90210",
+          "country": "USA"
+        },
+        {
+          "type": "home",
+          "address_lines": ["11 Tresunter Road", "London, England SW10 9LS"],
+          "city": "London",
+          "postal_code": "SW10 9LS",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": ["0836 205 489 London - Car", "LA 368 0011 P 2524", "Sec. 52 328 555 00", "(0468) 90 8514 Mobile"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Goldsmith family - multiple international residences"
+    },
+    {
+      "entry_id": "022_golinkin_sandy",
+      "name": {
+        "full_name": "Golinkin, Sandy",
+        "prefix": null,
+        "first_name": "Sandy",
+        "middle_name": null,
+        "last_name": "Golinkin",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "mobile", "number": "001 212 672 9949", "formatting": "International to US"},
+        {"type": "work", "number": "001 212 286 7668(w)", "formatting": "International to US"}
+      ],
+      "emails": [
+        {"type": "personal", "email": "Sandy_Golinkin@condenas"}
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["200 E. 32nd Apt. 17C", "N.Y., N.Y."],
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": ["Email: Sandy_Golinkin@condenas", "917 270 4002 (p)"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "NYC contact"
+    },
+    {
+      "entry_id": "022_gomez_thomas",
+      "name": {
+        "full_name": "Gomez, Thomas",
+        "prefix": null,
+        "first_name": "Thomas",
+        "middle_name": null,
+        "last_name": "Gomez",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 826 2766", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["220 E. 65th Street", "Penthouse B"],
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Upper East Side penthouse"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 20,
+    "legibility": "excellent",
+    "page_condition": "good",
+    "notes": "Notable entries include Getty family members, News Corp executive Gary Ginsberg, Goldsmith family with multiple international residences, and British nobility (Lord & Lady Gillford)"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Eric Gertler",
+      "Mark Getty",
+      "Pia Getty",
+      "Chris Getty",
+      "Emma Gibbs",
+      "Caroline Gibson",
+      "Andrew Gillifilan",
+      "Lord Gillford",
+      "Lady Gillford",
+      "Andrew Gillmour",
+      "Emma Gillmour",
+      "Gary Ginsberg",
+      "Howard Gittis",
+      "Luca Giussani",
+      "Mary Glanville",
+      "Charlie Glass",
+      "Edmund Glentworth",
+      "Emily Glentworth",
+      "Pilar Goess",
+      "Ellen Goldberg",
+      "Isabel Goldsmith",
+      "Sandy Golinkin",
+      "Thomas Gomez"
+    ],
+    "organizations": [
+      "Privista",
+      "Getty Images",
+      "News Corp",
+      "Santa Fe Institute"
+    ],
+    "locations": [
+      "New York, NY",
+      "London, UK",
+      "Palm Beach, FL",
+      "South Africa",
+      "Beverly Hills, CA",
+      "Mexico City, Mexico",
+      "Singapore",
+      "Austria",
+      "France"
+    ]
+  },
+  "insights": [
+    "Getty family presence - Mark Getty (Getty Images) and other family members",
+    "Gary Ginsberg from News Corp - major media executive connection",
+    "Isabel Goldsmith with extensive international properties (London, LA, Mexico City, Singapore)",
+    "Lord & Lady Gillford - British aristocracy",
+    "Santa Fe Institute connection through Ellen Goldberg",
+    "Multiple Upper East Side NYC addresses indicating wealthy Manhattan connections",
+    "South African business connection through Andrew Gilfillan",
+    "International scope with contacts in US, UK, Mexico, Singapore, Austria, France",
+    "Mix of business executives, nobility, and international socialites",
+    "Several entries with multiple residences indicating jet-set lifestyle"
+  ]
+}

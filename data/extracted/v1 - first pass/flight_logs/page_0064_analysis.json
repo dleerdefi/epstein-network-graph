@@ -1,0 +1,230 @@
+{
+  "page_number": 64,
+  "date_header": "MAR 1999",
+  "time_period": "March 1999 - April 1999",
+  "aircraft": {
+    "registration": "Multiple (206L3, 500JP, G1159B N908JE)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "3/26",
+      "date": "03/26/1999",
+      "departure": "206L3",
+      "arrival": "500JP",
+      "flight_time": "",
+      "remarks": "PMP - NOTAMS + PMP - PIREPS + LDP, DEST",
+      "passengers": ["LDP", "DEST"],
+      "crew": "6E-D"
+    },
+    {
+      "entry_number": "3/27",
+      "date": "03/27/1999",
+      "departure": "206L3",
+      "arrival": "500JP",
+      "flight_time": "",
+      "remarks": "PMP - SUH 225 - PMP - CROSS COUNTRY",
+      "passengers": [],
+      "crew": "2/0"
+    },
+    {
+      "entry_number": "3/29",
+      "date": "03/29/1999",
+      "departure": "206L3",
+      "arrival": "500JP",
+      "flight_time": "",
+      "remarks": "DOE NO1 (1) 5/5/10 - CROSS COUNTRY",
+      "passengers": [],
+      "crew": "1"
+    },
+    {
+      "entry_number": "3/30",
+      "date": "03/30/1999",
+      "departure": "G1159B N908JE",
+      "arrival": "TEB",
+      "flight_time": "1215",
+      "remarks": "PBI - JE, GM, SK + 2 CHILDREN, 2 NANNIES, SARAH",
+      "passengers": ["JE", "GM", "SK", "2 CHILDREN", "2 NANNIES", "SARAH"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "3/31",
+      "date": "03/31/1999",
+      "departure": "206L3",
+      "arrival": "500JP",
+      "flight_time": "",
+      "remarks": "PMP + LVH - PMP - V, O",
+      "passengers": ["V", "O"],
+      "crew": "2"
+    },
+    {
+      "entry_number": "3/31",
+      "date": "03/31/1999",
+      "departure": "206L3",
+      "arrival": "500JP",
+      "flight_time": "",
+      "remarks": "PMP, PHK - PMP - V, O",
+      "passengers": ["V", "O"],
+      "crew": "1"
+    },
+    {
+      "entry_number": "4/2",
+      "date": "04/02/1999",
+      "departure": "G1159B N908JE",
+      "arrival": "PBI",
+      "flight_time": "1216",
+      "remarks": "TJSJ - JE, ET, TK, 3 FEMALES",
+      "passengers": ["JE", "ET", "TK", "3 FEMALES"],
+      "crew": "2/3"
+    },
+    {
+      "entry_number": "4/4",
+      "date": "04/04/1999",
+      "departure": "",
+      "arrival": "TJSJ",
+      "flight_time": "1217",
+      "remarks": "PBI - JE, GM, NAOMI KEAN, CLAIRE HAZEL",
+      "passengers": ["JE", "GM", "NAOMI KEAN", "CLAIRE HAZEL"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "4/5",
+      "date": "04/05/1999",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "1218",
+      "remarks": "TJSJ - REFERENCED TO TEB",
+      "passengers": [],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "4/5",
+      "date": "04/05/1999",
+      "departure": "TEB",
+      "arrival": "TJSJ",
+      "flight_time": "1219",
+      "remarks": "EXECUTIVE AVIATION DELAYS, E NASHELTZ",
+      "passengers": ["E NASHELTZ"],
+      "crew": "3/5"
+    },
+    {
+      "entry_number": "4/6",
+      "date": "04/06/1999",
+      "departure": "TJSJ",
+      "arrival": "PBI",
+      "flight_time": "1220",
+      "remarks": "JE, GM, MORGAN, LESLIE ANN, 3 MALES",
+      "passengers": ["JE", "GM", "MORGAN", "LESLIE ANN", "3 MALES"],
+      "crew": "2/7"
+    },
+    {
+      "entry_number": "4/7",
+      "date": "04/07/1999",
+      "departure": "PBI",
+      "arrival": "AFRC",
+      "flight_time": "1221",
+      "remarks": "JEAN, MORGAN, LEONARD, ANGELA JAE",
+      "passengers": ["JEAN", "MORGAN", "LEONARD", "ANGELA JAE"],
+      "crew": "4/0"
+    },
+    {
+      "entry_number": "4/8",
+      "date": "04/08/1999",
+      "departure": "TJSJ",
+      "arrival": "PBI",
+      "flight_time": "1222",
+      "remarks": "JE, ET, TK, ANGELA JAE",
+      "passengers": ["JE", "ET", "TK", "ANGELA JAE"],
+      "crew": "3/5"
+    },
+    {
+      "entry_number": "4/10",
+      "date": "04/10/1999",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "SOLD LOCK",
+      "passengers": [],
+      "crew": ""
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "JG",
+      "GM",
+      "ET",
+      "SK",
+      "TK",
+      "V",
+      "O",
+      "A",
+      "E",
+      "G",
+      "L",
+      "J",
+      "LDP",
+      "DEST",
+      "SARAH",
+      "2 CHILDREN",
+      "2 NANNIES",
+      "3 FEMALES",
+      "3 MALES",
+      "NAOMI KEAN",
+      "CLAIRE HAZEL",
+      "E NASHELTZ",
+      "MORGAN",
+      "LESLIE ANN",
+      "JEAN",
+      "LEONARD",
+      "ANGELA JAE",
+      "David Rodgers"
+    ],
+    "locations": [
+      "PMP",
+      "PBI",
+      "TEB",
+      "TJSJ",
+      "SUH",
+      "LVH",
+      "PHK",
+      "BCF",
+      "AFRC"
+    ],
+    "aircraft": [
+      "206L3",
+      "500JP",
+      "G1159B",
+      "N908JE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "64",
+    "amount_forward": "14561",
+    "total_to_date": "14830",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page transitions from March 1999 to April 1999",
+    "SK appears with 2 children and 2 nannies on March 30",
+    "Claire Hazel continues as recurring passenger",
+    "Naomi Kean appears as passenger on April 4",
+    "San Juan, Puerto Rico (TJSJ) continues as frequent destination",
+    "Multiple unidentified passengers noted as '3 FEMALES', '3 MALES'",
+    "Angela Jae appears multiple times in April",
+    "Flight numbers reach 1222",
+    "Mix of passenger transport and training operations"
+  ]
+}

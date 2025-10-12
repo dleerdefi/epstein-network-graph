@@ -1,0 +1,791 @@
+{
+  "page_number": 32,
+  "alphabetical_section": "L",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "032_larsen_janet",
+      "name": {
+        "full_name": "Larsen, Janet",
+        "prefix": null,
+        "first_name": "Janet",
+        "middle_name": null,
+        "last_name": "Larsen",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 288 6866",
+          "formatting": "International to US"
+        },
+        {
+          "type": "work",
+          "number": "0207-581 7073",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Contact with both NYC and London phone numbers"
+    },
+    {
+      "entry_id": "032_laurie_jonathan",
+      "name": {
+        "full_name": "Laurie, Jonathan",
+        "prefix": null,
+        "first_name": "Jonathan",
+        "middle_name": "",
+        "last_name": "Laurie",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 704 333 3311",
+          "formatting": "International to US - North Carolina area code"
+        },
+        {
+          "type": "mobile",
+          "number": "001 704 906 7166",
+          "formatting": "International to US"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "North Carolina-based contact (704 area code)"
+    },
+    {
+      "entry_id": "032_laviada_laura_db_de",
+      "name": {
+        "full_name": "Laviada, Laura D.B. de",
+        "prefix": null,
+        "first_name": "Laura",
+        "middle_name": "D.B.",
+        "last_name": "Laviada",
+        "suffix": "de"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "00 52 999 944 5522",
+          "formatting": "International - Mexico (52) Merida area (999)"
+        },
+        {
+          "type": "work",
+          "number": "00 52 999 925 6550",
+          "formatting": "International - Mexico"
+        }
+      ],
+      "emails": [
+        {
+          "address": "llavida@hotmail.com",
+          "type": "personal",
+          "notes": "hotmail email"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [
+        "01 800 506 0000 ext office",
+        "01 999 925 6562 DLV tel office"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Mexico contact with Merida phone numbers and Mexican email domain"
+    },
+    {
+      "entry_id": "032_lawford_christopher_jean",
+      "name": {
+        "full_name": "Lawford, Christopher & Jean",
+        "prefix": null,
+        "first_name": "Christopher",
+        "middle_name": null,
+        "last_name": "Lawford",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Jean"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 310 393 8386",
+          "formatting": "International to US - Los Angeles area"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "2143 Westmont Street",
+            "Los Angeles, CA",
+            "90041"
+          ],
+          "city": "Los Angeles",
+          "state": "CA",
+          "postal_code": "90041",
+          "country": "USA",
+          "notes": "Los Angeles residence"
+        }
+      ],
+      "handwritten_notes": [
+        "310 369 0521 fax",
+        "310 395 6523 Victoria bus"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Kennedy family member - Christopher Lawford, nephew of JFK, actor and author"
+    },
+    {
+      "entry_id": "032_lawton_paul",
+      "name": {
+        "full_name": "Lawton, Paul",
+        "prefix": null,
+        "first_name": "Paul",
+        "middle_name": null,
+        "last_name": "Lawton",
+      "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "212 734 6858(h)",
+          "formatting": "NYC direct dial"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "032_lazar_christophe_marie",
+      "name": {
+        "full_name": "Lazar, Christophe & Marie",
+        "prefix": null,
+        "first_name": "Christophe",
+        "middle_name": null,
+        "last_name": "Lazar",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Marie"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-937 7155 (xx)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [
+        {
+          "address": "christophelazar@aol.com",
+          "type": "personal",
+          "notes": "AOL email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "14 Elvaston Place",
+            "London",
+            "SW7"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW7",
+          "country": "UK",
+          "notes": "South Kensington area"
+        }
+      ],
+      "handwritten_notes": [
+        "00 33 1 45 26 08950",
+        "00 33 1 42 22 43 06",
+        "0033 491 735 335 (xx)",
+        "0033 491 735 332 (yy)",
+        "0033 608 246 103"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Multiple international contacts - UK and France (Paris 33 1 prefix, Provence 33 491 prefix)"
+    },
+    {
+      "entry_id": "032_lea_piers",
+      "name": {
+        "full_name": "Lea, Piers",
+        "prefix": null,
+        "first_name": "Piers",
+        "middle_name": null,
+        "last_name": "Lea",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 584 6421 (h)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "0207 792 8197",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "100 Brompton Road",
+            "London SW3 1AB"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW3 1AB",
+          "country": "UK",
+          "notes": "Knightsbridge - prestigious London area"
+        }
+      ],
+      "handwritten_notes": [
+        "0207 589 6130 (w)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Knightsbridge address - elite London location"
+    },
+    {
+      "entry_id": "032_lebon_simon_jasmine",
+      "name": {
+        "full_name": "Le Bon, Simon & Jasmine",
+        "prefix": null,
+        "first_name": "Simon",
+        "middle_name": null,
+        "last_name": "Le Bon",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Jasmine"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 602 1022 (h)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "99 Holland Park",
+            "Richmond Road",
+            "London SW9 2NZ"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW9 2NZ",
+          "country": "UK",
+          "notes": "Holland Park - affluent West London area"
+        }
+      ],
+      "handwritten_notes": [
+        "0208 743 5472 fax"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Simon Le Bon - lead singer of Duran Duran, married to model Yasmin Le Bon (listed as Jasmine)"
+    },
+    {
+      "entry_id": "032_lefur_jeanyves",
+      "name": {
+        "full_name": "Le Fur, Jean-Yves",
+        "prefix": null,
+        "first_name": "Jean-Yves",
+        "middle_name": null,
+        "last_name": "Le Fur",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "00 33 1 42 66 08 09",
+          "formatting": "International - France, Paris"
+        },
+        {
+          "type": "mobile",
+          "number": "00 33 6 07 48 36 52",
+          "formatting": "International - France mobile (06 prefix)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "45 Quai de l'Horloge",
+            "75001",
+            "Paris, France"
+          ],
+          "city": "Paris",
+          "state": null,
+          "postal_code": "75001",
+          "country": "France",
+          "notes": "1st arrondissement - prestigious central Paris location"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Paris contact with address in 1st arrondissement"
+    },
+    {
+      "entry_id": "032_lemarq_willie",
+      "name": {
+        "full_name": "Le Marq, Willie",
+        "prefix": null,
+        "first_name": "Willie",
+        "middle_name": null,
+        "last_name": "Le Marq",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 352 4893",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "0207 214 403 9907(w)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "032_leeds_jeffrey",
+      "name": {
+        "full_name": "Leeds, Jeffrey",
+        "prefix": null,
+        "first_name": "Jeffrey",
+        "middle_name": null,
+        "last_name": "Leeds",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 310 550 7220(h)",
+          "formatting": "International to US - Los Angeles"
+        },
+        {
+          "type": "work",
+          "number": "001 310 551 5520(w)",
+          "formatting": "International to US - Los Angeles"
+        },
+        {
+          "type": "mobile",
+          "number": "001 917 648 0960 (m)",
+          "formatting": "International to US - NYC mobile"
+        }
+      ],
+      "emails": [
+        {
+          "address": "leeds@leadsgroup.com",
+          "type": "work",
+          "notes": "Leeds group business email"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Leeds Equity Partners - private equity firm founder"
+    },
+    {
+      "entry_id": "032_lefcourt_jerry",
+      "name": {
+        "full_name": "Lefcourt, Jerry",
+        "prefix": null,
+        "first_name": "Jerry",
+        "middle_name": null,
+        "last_name": "Lefcourt",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "212 737 0400",
+          "formatting": "NYC direct dial"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "032_lester_dominick",
+      "name": {
+        "full_name": "Lester, Dominick",
+        "prefix": null,
+        "first_name": "Dominick",
+        "middle_name": null,
+        "last_name": "Lester",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "212 861 7485(h)",
+          "formatting": "NYC direct dial"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "975 Park",
+            "New York"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "975 Park Avenue - prestigious Upper East Side address"
+        }
+      ],
+      "handwritten_notes": [
+        "516 626 0101",
+        "516 626 6033",
+        "001 011 941 366 (w)",
+        "001 941 261 6616",
+        "001 941 261 7400",
+        "001 941 261 7033"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Multiple phone numbers including Long Island (516) and Florida (941 - Naples area)"
+    },
+    {
+      "entry_id": "032_lands_jeffrey",
+      "name": {
+        "full_name": "Lands, Jeffrey",
+        "prefix": null,
+        "first_name": "Jeffrey",
+        "middle_name": null,
+        "last_name": "Lands",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 888 8989(h)",
+          "formatting": "International to US - NYC"
+        },
+        {
+          "type": "work",
+          "number": "001 212 555 1200(w)",
+          "formatting": "International to US - NYC"
+        }
+      ],
+      "emails": [
+        {
+          "address": "jlands@leadslandscape.com",
+          "type": "work",
+          "notes": "Business email"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [
+        "212 826 2600 (xx)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "032_liman_doug",
+      "name": {
+        "full_name": "Liman, Doug",
+        "prefix": null,
+        "first_name": "Doug",
+        "middle_name": null,
+        "last_name": "Liman",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 310 430 3306",
+          "formatting": "International to US - Los Angeles"
+        },
+        {
+          "type": "work",
+          "number": "001 212 555 4545",
+          "formatting": "International to US - NYC"
+        }
+      ],
+      "emails": [
+        {
+          "address": "dliman@hypnotic.com",
+          "type": "work",
+          "notes": "Hypnotic production company email"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [
+        "(w)01 823 6985 9028 (LA)",
+        "01 212 555 4545 (NYC, w) ext",
+        "01 310 777 7777 Hyp-Matic House",
+        "01 310 824 4424 cell",
+        "01 212 675 3344 (NYC,h)",
+        "01 310 455 1060 (LA, h)",
+        "The LotLA Formosa Bldg-Production House"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "emails": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Doug Liman - major Hollywood director (Swingers, The Bourne Identity, Mr. & Mrs. Smith)"
+    },
+    {
+      "entry_id": "032_lindemanbarnet_sloan_roger",
+      "name": {
+        "full_name": "Lindeman-Barnet, Sloan & Roger",
+        "prefix": null,
+        "first_name": "Sloan",
+        "middle_name": null,
+        "last_name": "Lindeman-Barnet",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Roger"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 414 5514(h)",
+          "formatting": "International to US - NYC"
+        },
+        {
+          "type": "work",
+          "number": "001 212 644 6556(w)",
+          "formatting": "International to US - NYC"
+        }
+      ],
+      "emails": [
+        {
+          "address": "sbarnet@sloanlindeman.com",
+          "type": "work",
+          "notes": "Personal business domain"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [
+        "212 644 7555 fax",
+        "001 917 922 1560 cell",
+        "001 516 537 8340 summer",
+        "001 212 751 0551"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC contact with Hamptons summer residence (516 area code)"
+    },
+    {
+      "entry_id": "032_levine_philip",
+      "name": {
+        "full_name": "Levine, Philip",
+        "prefix": null,
+        "first_name": "Philip",
+        "middle_name": null,
+        "last_name": "Levine",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "305 421 6525(h)",
+          "formatting": "Miami area direct dial. 'Baron Corporation'"
+        },
+        {
+          "type": "work",
+          "number": "001 305 374 4400(w)",
+          "formatting": "International to US - Miami"
+        }
+      ],
+      "emails": [
+        {
+          "address": "philip@baron-corp.com",
+          "type": "work",
+          "notes": "Baron Corp Email"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [
+        "001 305 669 2026 (phone direct)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Baron Corporation - Miami business contact"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 17,
+    "entries_with_emails": 9,
+    "entries_with_addresses": 7,
+    "entries_with_handwritten_notes": 11,
+    "couples": 5,
+    "average_confidence": "high",
+    "notable_figures_count": 3
+  },
+  "cross_references": [
+    {
+      "entry_id": "032_lawford_christopher",
+      "reference": "Kennedy family connection - Christopher Lawford is nephew of President John F. Kennedy",
+      "related_pages": [30]
+    }
+  ],
+  "entities": {
+    "people": [
+      "Janet Larsen",
+      "Jonathan Laurie",
+      "Laura D.B. de Laviada",
+      "Christopher Lawford",
+      "Jean Lawford",
+      "Paul Lawton",
+      "Christophe Lazar",
+      "Marie Lazar",
+      "Piers Lea",
+      "Simon Le Bon",
+      "Jasmine Le Bon",
+      "Jean-Yves Le Fur",
+      "Willie Le Marq",
+      "Jeffrey Leeds",
+      "Jerry Lefcourt",
+      "Dominick Lester",
+      "Jeffrey Lands",
+      "Doug Liman",
+      "Sloan Lindeman-Barnet",
+      "Roger Lindeman-Barnet",
+      "Philip Levine"
+    ],
+    "organizations": [
+      "Leeds Equity Partners",
+      "Hypnotic (Doug Liman's production company)",
+      "Duran Duran",
+      "Baron Corporation"
+    ],
+    "locations": {
+      "international": [
+        "London, UK (multiple contacts)",
+        "Paris, France",
+        "Merida, Mexico"
+      ],
+      "us_cities": [
+        "New York City (multiple contacts)",
+        "Los Angeles (multiple contacts)",
+        "Miami, Florida",
+        "Naples, Florida",
+        "Charlotte, North Carolina"
+      ],
+      "elite_addresses": [
+        "975 Park Avenue, NYC",
+        "Knightsbridge, London",
+        "Holland Park, London",
+        "South Kensington, London",
+        "1st arrondissement, Paris"
+      ]
+    }
+  },
+  "insights": [
+    "Kennedy family connection: Christopher Lawford, nephew of JFK, actor and author",
+    "Entertainment industry: Doug Liman (major Hollywood director - The Bourne Identity, Mr. & Mrs. Smith, Swingers)",
+    "Music industry: Simon Le Bon, lead singer of Duran Duran, with wife Yasmin (listed as Jasmine)",
+    "Private equity: Jeffrey Leeds, founder of Leeds Equity Partners",
+    "Business: Philip Levine with Baron Corporation in Miami",
+    "International business connections: Multiple contacts spanning UK, France, Mexico, and US",
+    "Geographic concentration: Strong presence in NYC Upper East Side, Los Angeles, and elite London neighborhoods",
+    "Multiple residences pattern: Several contacts with NYC + Hamptons (516), NYC + Florida (941, 305), London + Paris phone numbers",
+    "High-profile addresses: 975 Park Avenue NYC, Knightsbridge London, Holland Park London, 1st arrondissement Paris",
+    "Professional sectors represented: Entertainment (film/music), private equity, business, international connections"
+  ]
+}

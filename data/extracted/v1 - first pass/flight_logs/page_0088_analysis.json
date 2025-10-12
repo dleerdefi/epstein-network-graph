@@ -1,0 +1,276 @@
+{
+  "page_number": 88,
+  "date_header": "NOV-DEC 2001",
+  "time_period": "November 2001 - December 2001",
+  "aircraft": {
+    "registration": "Multiple (G-1159B N909JE, B-727-31 N908JE)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "9",
+      "date": "11/09/2001",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1556",
+      "remarks": "LCQ - PBI - JG, AY, SK, JULIE",
+      "passengers": ["JG", "AY", "SK", "JULIE"],
+      "crew": "1/0"
+    },
+    {
+      "entry_number": "12",
+      "date": "11/12/2001",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1558",
+      "remarks": "TEB - JG, GM, AY, JOEL PASTERNAK",
+      "passengers": ["JG", "GM", "AY", "JOEL PASTERNAK"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "15",
+      "date": "11/15/2001",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1559",
+      "remarks": "PBI - JG, AY, RICHARD MILLIGRUMMET",
+      "passengers": ["JG", "AY", "RICHARD MILLIGRUMMET"],
+      "crew": "2/3"
+    },
+    {
+      "entry_number": "17",
+      "date": "11/17/2001",
+      "departure": "B-727-31",
+      "arrival": "N908JE",
+      "flight_time": "25",
+      "remarks": "LOG - PBI - REMBRANDT CABIN PRESET LISTING",
+      "passengers": ["REMBRANDT", "CABIN PRESET", "LISTING"],
+      "crew": "1/1 0/9"
+    },
+    {
+      "entry_number": "18",
+      "date": "11/18/2001",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "26",
+      "remarks": "CYQX - JG, GM, SK",
+      "passengers": ["JG", "GM", "SK"],
+      "crew": "4/3"
+    },
+    {
+      "entry_number": "18",
+      "date": "11/18/2001",
+      "departure": "",
+      "arrival": "CYQX",
+      "flight_time": "27",
+      "remarks": "LFPB - JG, GM, SK",
+      "passengers": ["JG", "GM", "SK"],
+      "crew": "4/9"
+    },
+    {
+      "entry_number": "23",
+      "date": "11/23/2001",
+      "departure": "",
+      "arrival": "LFPB",
+      "flight_time": "28",
+      "remarks": "LIML - JG, GM, SK",
+      "passengers": ["JG", "GM", "SK"],
+      "crew": "1/2"
+    },
+    {
+      "entry_number": "23",
+      "date": "11/23/2001",
+      "departure": "",
+      "arrival": "LIML",
+      "flight_time": "29",
+      "remarks": "LFPB - JG, DEAN EDWARDS",
+      "passengers": ["JG", "DEAN EDWARDS"],
+      "crew": "8"
+    },
+    {
+      "entry_number": "29",
+      "date": "11/29/2001",
+      "departure": "",
+      "arrival": "LFPB",
+      "flight_time": "30",
+      "remarks": "LIML - JG, EDWARDS",
+      "passengers": ["JG", "EDWARDS"],
+      "crew": "9"
+    },
+    {
+      "entry_number": "24",
+      "date": "11/24/2001",
+      "departure": "",
+      "arrival": "LIML",
+      "flight_time": "31",
+      "remarks": "EGGW - JG, GM",
+      "passengers": ["JG", "GM"],
+      "crew": "7"
+    },
+    {
+      "entry_number": "26",
+      "date": "11/26/2001",
+      "departure": "",
+      "arrival": "EGGW",
+      "flight_time": "32",
+      "remarks": "MTN - JG, GM, SK",
+      "passengers": ["JG", "GM", "SK"],
+      "crew": "7/4"
+    },
+    {
+      "entry_number": "30",
+      "date": "11/30/2001",
+      "departure": "",
+      "arrival": "MTN",
+      "flight_time": "33",
+      "remarks": "PBI - JG, SK, GWENDOLYN BECK, JOEL PASTERNAK",
+      "passengers": ["JG", "SK", "GWENDOLYN BECK", "JOEL PASTERNAK"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "DEC 3",
+      "date": "12/03/2001",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "34",
+      "remarks": "ASAT - JG, SK, JP",
+      "passengers": ["JG", "SK", "JP"],
+      "crew": "5/5"
+    },
+    {
+      "entry_number": "9",
+      "date": "12/09/2001",
+      "departure": "",
+      "arrival": "TSP",
+      "flight_time": "35",
+      "remarks": "PBI - JG, AY",
+      "passengers": ["JG", "AY"],
+      "crew": "2/7"
+    },
+    {
+      "entry_number": "9",
+      "date": "12/09/2001",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "36",
+      "remarks": "ASAT - JG, GM, AY, TIFFANY",
+      "passengers": ["JG", "GM", "AY", "TIFFANY"],
+      "crew": "2/2"
+    },
+    {
+      "entry_number": "13",
+      "date": "12/13/2001",
+      "departure": "",
+      "arrival": "ASAT",
+      "flight_time": "37",
+      "remarks": "TEB - JG, GM, SK, AY, JOEL, CINDY, TATIANA, MARGARET, DEIDRE, JOHN, DAVE, PHILEMON",
+      "passengers": ["JG", "GM", "SK", "AY", "JOEL", "CINDY", "TATIANA", "MARGARET", "DEIDRE", "JOHN", "DAVE", "PHILEMON"],
+      "crew": "4/0"
+    },
+    {
+      "entry_number": "15",
+      "date": "12/15/2001",
+      "departure": "",
+      "arrival": "MRA",
+      "flight_time": "38",
+      "remarks": "CMH - JG, JILLIAN, GEOF, STEPHEN, CLAIRE",
+      "passengers": ["JG", "JILLIAN", "GEOF", "STEPHEN", "CLAIRE"],
+      "crew": "1/5"
+    },
+    {
+      "entry_number": "16",
+      "date": "12/16/2001",
+      "departure": "",
+      "arrival": "CMH",
+      "flight_time": "39",
+      "remarks": "PBI - JG",
+      "passengers": ["JG"],
+      "crew": "2/1"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JG",
+      "AY",
+      "SK",
+      "JULIE",
+      "GM",
+      "JOEL PASTERNAK",
+      "RICHARD MILLIGRUMMET",
+      "REMBRANDT",
+      "CABIN PRESET",
+      "LISTING",
+      "DEAN EDWARDS",
+      "EDWARDS",
+      "GWENDOLYN BECK",
+      "JP",
+      "TIFFANY",
+      "JOEL",
+      "CINDY",
+      "TATIANA",
+      "MARGARET",
+      "DEIDRE",
+      "JOHN",
+      "DAVE",
+      "PHILEMON",
+      "JILLIAN",
+      "GEOF",
+      "STEPHEN",
+      "CLAIRE",
+      "David Rodgers"
+    ],
+    "locations": [
+      "LCQ",
+      "PBI",
+      "TEB",
+      "LOG",
+      "CYQX",
+      "LFPB",
+      "LIML",
+      "EGGW",
+      "MTN",
+      "ASAT",
+      "TSP",
+      "MRA",
+      "CMH"
+    ],
+    "aircraft": [
+      "G-1159B",
+      "N909JE",
+      "B-727-31",
+      "N908JE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": [
+      "CLIENT FEES REPORTED GOES TO TAKINGCARE MATERIALS FOR ADMIN"
+    ]
+  },
+  "metadata": {
+    "page_total": "7/26",
+    "amount_forward": "8494",
+    "total_to_date": "8450",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page transitions from November to December 2001",
+    "SK (Sarah Kellen) appears frequently throughout",
+    "Joel Pasternak appears multiple times",
+    "International operations to Europe (Paris - LFPB, Milan - LIML, London - EGGW)",
+    "Gwendolyn Beck appears as passenger",
+    "Large group flight on December 13 with 12 passengers",
+    "Flight numbers reach 39",
+    "Mix of domestic and international operations",
+    "Columbus, OH (CMH) operations continue",
+    "Handwritten note about client fees and administrative materials"
+  ]
+}

@@ -1,0 +1,698 @@
+{
+  "page_number": 38,
+  "alphabetical_section": "M",
+  "contacts": [
+    {
+      "name": "Mermagon, Mr Jonathan",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "13 Newbridge Gardens",
+          "street": "13 Newbridge Gardens",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London W2 2BA",
+          "city": "London",
+          "postal_code": "W2 2BA",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 313 1949 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 603 321 [0]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 203 348 XXXX",
+          "area_code": "203",
+          "geographic_indicator": "Connecticut",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Metcalf Justin",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 491 680(fax)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 351 5820(h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Metcalf Melanie & Julian",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "[illegible] Road",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Gaillonville",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "Dorset DT5 1QA",
+          "county": "Dorset",
+          "postal_code": "DT5 1QA",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0929 4765 470(h)",
+          "area_code": "0929",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Metcalfe Julian & Melanie",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Alexander House",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Croydon, Surrey",
+          "city": "Croydon",
+          "county": "Surrey",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "81 Fulham Road",
+          "street": "81 Fulham Road",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "[Stockton House]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "London SW7 2QF",
+          "city": "London",
+          "postal_code": "SW7 2QF",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Croydon CR0 2LX",
+          "city": "Croydon",
+          "postal_code": "CR0 2LX",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01293 688888 (h)",
+          "area_code": "01293",
+          "geographic_indicator": "Crawley/Gatwick, UK",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Metcalfe, Justin & Joana",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "424 Burrow Rd",
+          "street": "424 Burrow Rd",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Fulham",
+          "city": "Fulham",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "[illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 914 694 4444(w)",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Metz Robin",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 516 668 5585",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 666 6444",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Meyer, Tony",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "64 Broadway Avenue",
+          "street": "64 Broadway Avenue",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "NY [illegible]",
+          "state": "NY",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 877 5000 (w)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 877 5000 (o)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Middlethwalt, Fev & John",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "61 Gainsboro",
+          "street": "61 Gainsboro",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "[17/W Old 47][illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 580 5665 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "[illegible]@hrmoney[bank]",
+          "confidence": "low"
+        }
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "001 272 626 8341",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Milani, Gianluca",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Via Crespino 12",
+          "street": "Via Crespino 12",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 39 2 2900XXXX",
+          "country_code": "39",
+          "area_code": "2",
+          "geographic_indicator": "Milan, Italy",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "00 39 2 33XX0567 (s)",
+          "country_code": "39",
+          "area_code": "2",
+          "geographic_indicator": "Milan, Italy",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "00 39 2 33[illegible]067 (office)",
+          "country_code": "39",
+          "area_code": "2",
+          "geographic_indicator": "Milan, Italy",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Milford Haven George and Clare",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Gissing Prionity Farm",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Dorset DT8 3 [illegible] Hanspell",
+          "county": "Dorset",
+          "postal_code": "DT8 3",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "01300 341 988 (h)",
+          "area_code": "01300",
+          "geographic_indicator": "Dorchester, UK",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01258 821507 (h)",
+          "area_code": "01258",
+          "geographic_indicator": "Blandford Forum, UK",
+          "confidence": "high"
+        }
+      ],
+      "addresses_additional": [
+        {
+          "type": "secondary",
+          "address": "Moyns Court, Chiddingstone",
+          "confidence": "medium"
+        },
+        {
+          "type": "secondary",
+          "address": "333 [illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "0207 1295 0950 (m)[phone text]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "secondary",
+          "address": "0207 1295 0700 (m)[phone text]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Couple entry, Marquess of Milford Haven",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Mills, Cheryl",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "97 30th and Columbia",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        "[illegible]@cocmail.com"
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Minot, Carie & Bell, George",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 516 671 0338",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Minot, Susan",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "25 West Street Apt B/D",
+          "street": "25 West Street",
+          "unit": "Apt B/D",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York, New York",
+          "city": "New York",
+          "state": "New York",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 431 1913",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Milford Haven, Sarah",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "33, Cheyne Road",
+          "street": "33 Cheyne Road",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW3",
+          "city": "London",
+          "postal_code": "SW3",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 352 3734(h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 371X072",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Mischer, Kevin",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 310 570 914560",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0044818 440 574 (m)",
+          "country_code": "44",
+          "area_code": "818",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Miller, Nicole & Kim LeTouale",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "134 Prince Street",
+          "street": "134 Prince Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "#10L",
+          "unit": "#10L",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "New York, NY 10012",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10012",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 343 1490 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 941 9550 (w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "addresses_additional": [
+        {
+          "type": "secondary",
+          "address": "[Nicole] Tax PIN: John floor",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "West 14th",
+          "street": "West 14th",
+          "confidence": "medium"
+        }
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "001 516 991 2237 (w)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 838 7505 (m)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 813 7505 (m)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry, Nicole Miller - fashion designer",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Modefferi, Daniele",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Via G Fiama",
+          "street": "Via G Fiama",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 39 2 95[illegible]373 (h)",
+          "country_code": "39",
+          "area_code": "2",
+          "geographic_indicator": "Milan, Italy",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "00 39 6 9834373",
+          "country_code": "39",
+          "area_code": "6",
+          "geographic_indicator": "Rome, Italy",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 33 4 93 76 55 (cell)",
+          "country_code": "33",
+          "area_code": "4",
+          "geographic_indicator": "Southern France",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 41 82 334247 55 (M)",
+          "country_code": "41",
+          "area_code": "82",
+          "geographic_indicator": "Switzerland",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Moncada Cico",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0410 353XXX",
+          "area_code": "0410",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 18,
+    "quality": "fair",
+    "legibility": "moderate degradation",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "Marquess of Milford Haven (George)",
+      "Nicole Miller - Fashion designer"
+    ]
+  },
+  "insights": [
+    "Marquess of Milford Haven - British aristocracy",
+    "Nicole Miller - prominent fashion designer",
+    "Strong Italian presence (Milan and Rome)",
+    "Connecticut presence continuing",
+    "Long Island NY strong presence (516)",
+    "Dorset UK connections",
+    "Crawley/Gatwick area (01293)",
+    "Dorchester UK area (01300)",
+    "Mix of fashion, aristocracy, and business contacts",
+    "Southern France and Switzerland connections"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "medium",
+    "total_contacts": 18,
+    "high_confidence": 8,
+    "medium_confidence": 8,
+    "low_confidence": 2,
+    "extraction_issues": [
+      "Several illegible sections",
+      "Some addresses incomplete",
+      "Phone numbers partially obscured",
+      "Moderate page degradation"
+    ]
+  }
+}

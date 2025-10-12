@@ -1,0 +1,237 @@
+{
+  "page_number": 33,
+  "document_type": "Flight Log",
+  "metadata": {
+    "time_period": "January - April 1995",
+    "pilot": "David Rodgers",
+    "aircraft_registration": "N909GA",
+    "aircraft_make_model": "G1159B N909GA & STOL N918GA",
+    "total_flight_time_page": "37:14",
+    "amt_forward": "6475:13",
+    "total_to_date": "6512:27"
+  },
+  "flights": [
+    {
+      "date": "01/25/95",
+      "aircraft": "G1159B N909GA",
+      "departure": "TEB",
+      "arrival": "CMH",
+      "flight_time": "6:13",
+      "passengers": "JE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/23/95",
+      "aircraft": "G1159B N909GA",
+      "departure": "CMH",
+      "arrival": "TEB",
+      "flight_time": "6:14",
+      "passengers": "JE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/28/95",
+      "aircraft": "G1159B N909GA",
+      "departure": "TEB",
+      "arrival": "DCA",
+      "flight_time": "6:05",
+      "passengers": "JE, LOIS",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/28/95",
+      "aircraft": "G1159B N909GA",
+      "departure": "DCA",
+      "arrival": "LDO",
+      "flight_time": "6:16",
+      "passengers": "REPOSITIONING",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/28/95",
+      "aircraft": "G1159B N909GA",
+      "departure": "LDO",
+      "arrival": "CMH",
+      "flight_time": "6:17",
+      "passengers": "REPOSITIONING",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/28/95",
+      "aircraft": "G1159B N909GA",
+      "departure": "CMH",
+      "arrival": "PBI",
+      "flight_time": "6:18",
+      "passengers": "JE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "02/03/95",
+      "aircraft": "STOL N918GA",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "6:01",
+      "passengers": "G1159 RECONFIGURED TRANSPORT SAV",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "02/05/95",
+      "aircraft": "STOL N918GA",
+      "departure": "TEB",
+      "arrival": "BOS",
+      "flight_time": "6:02",
+      "passengers": "JE, ANDY STEWART",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "02/09/95",
+      "aircraft": "STOL N918GA",
+      "departure": "BOS",
+      "arrival": "BOS",
+      "flight_time": "6:00",
+      "passengers": "GM ANDY HONEY RIDGEWAYS",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "02/09/95",
+      "aircraft": "STOL N918GA",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "6:04",
+      "passengers": "JE, GM, ANDY, HONEY RIDGEWAYS",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "02/11/95",
+      "aircraft": "G1159B N909GA",
+      "departure": "PBI",
+      "arrival": "BOS",
+      "flight_time": "6:54",
+      "passengers": "JE, GM, ANDY, HONEY RIDGEWAYS, J OCONNOR",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "02/12/95",
+      "aircraft": "G1159B N909GA",
+      "departure": "BOS",
+      "arrival": "SAV",
+      "flight_time": "6:56",
+      "passengers": "HONEY RIDGEWAYS",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "02/12/95",
+      "aircraft": "G1159B N909GA",
+      "departure": "SAV",
+      "arrival": "TEB",
+      "flight_time": "6:25",
+      "passengers": "REPOSITIONING",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "04/01/95",
+      "aircraft": "G1159B N909GA",
+      "departure": "TEB",
+      "arrival": "SAT",
+      "flight_time": "6:53",
+      "passengers": "JE, GM, ANDY, SARAH",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "04/02/95",
+      "aircraft": "G1159B N909GA",
+      "departure": "SAT",
+      "arrival": "PBI",
+      "flight_time": "6:02",
+      "passengers": "JE, GM, ANDY",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "04/06/95",
+      "aircraft": "G1159B N909GA",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "6:01",
+      "passengers": "JE, GM, ANDY",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "04/07/95",
+      "aircraft": "G1159B N909GA",
+      "departure": "TEB",
+      "arrival": "SAV",
+      "flight_time": "6:12",
+      "passengers": "REPOSITIONING LAST MAIL CONFIRMED",
+      "endorsements": "",
+      "aircraft_category": "II"
+    }
+  ],
+  "entities": {
+    "people": [
+      {"name": "Jeffrey Epstein", "abbreviation": "JE", "role": "Primary passenger"},
+      {"name": "Ghislaine Maxwell", "abbreviation": "GM", "role": "Frequent passenger"},
+      {"name": "[Unknown Lois]", "abbreviation": "LOIS", "role": "Passenger"},
+      {"name": "Andy Stewart", "abbreviation": "ANDY STEWART/ANDY", "role": "Passenger"},
+      {"name": "Honey Ridgeways", "abbreviation": "HONEY RIDGEWAYS", "role": "Passenger"},
+      {"name": "J O'Connor", "abbreviation": "J OCONNOR", "role": "Passenger"},
+      {"name": "[Unknown Sarah]", "abbreviation": "SARAH", "role": "Passenger"},
+      {"name": "David Rodgers", "abbreviation": "", "role": "Pilot"}
+    ],
+    "locations": [
+      {"code": "TEB", "name": "Teterboro Airport", "location": "Teterboro, NJ"},
+      {"code": "CMH", "name": "John Glenn Columbus International Airport", "location": "Columbus, OH"},
+      {"code": "DCA", "name": "Ronald Reagan Washington National Airport", "location": "Washington, DC"},
+      {"code": "LDO", "name": "[Unknown Airport LDO]", "location": "Unknown"},
+      {"code": "PBI", "name": "Palm Beach International Airport", "location": "West Palm Beach, FL"},
+      {"code": "BOS", "name": "Logan International Airport", "location": "Boston, MA"},
+      {"code": "SAV", "name": "Savannah/Hilton Head International Airport", "location": "Savannah, GA"},
+      {"code": "SAT", "name": "San Antonio International Airport", "location": "San Antonio, TX"}
+    ],
+    "aircraft": [
+      {"registration": "N909GA", "type": "Gulfstream G1159B", "category": "Private Jet"},
+      {"registration": "N918GA", "type": "STOL Aircraft", "category": "Short Takeoff and Landing"}
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {"location": "bottom_left", "description": "David Rodgers pilot signature", "legibility": "clear"}
+    ],
+    "stamps": [],
+    "markings": [
+      {"type": "page_number", "content": "33", "location": "bottom_center"}
+    ]
+  },
+  "insights": [
+    "Large time gap between February 12 and April 1, 1995 (nearly 2 months)",
+    "First appearance of Boston (BOS) as regular destination",
+    "San Antonio, TX (SAT) appears as new southwestern destination",
+    "Aircraft reconfiguration work noted on February 3, 1995",
+    "Multiple repositioning flights suggest maintenance and logistics operations",
+    "Andy Stewart becomes regular passenger throughout this period",
+    "Honey Ridgeways appears as significant passenger name",
+    "N918GA aircraft shows STOL (Short Takeoff and Landing) designation",
+    "Complex routing patterns with multiple stops per day",
+    "Return to regular Ghislaine Maxwell presence in February and April",
+    "Apparent operational break in March 1995 (no recorded flights)",
+    "Continued use of mystery LDO destination",
+    "Aircraft transport and reconfiguration activities at SAV",
+    "Note about 'last mail confirmed' suggests correspondence logistics",
+    "Total flight time of 37:14 hours lower than previous pages due to operational gap"
+  ]
+}

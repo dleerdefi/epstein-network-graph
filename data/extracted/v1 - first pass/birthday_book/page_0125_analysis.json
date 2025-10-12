@@ -1,0 +1,160 @@
+{
+  "page_number": 125,
+  "file_path": "data/birthday_book_images/page_0125.png",
+  "file_size_mb": 0.5595722198486328,
+  "type": "mathematical_tribute_continuation",
+  "content": {
+    "text": "Mathematical formulas (highlighted):\ny = a*c = (3/ay + 5*x*12/2) = a - 1\nx + y = 2/1+81 + 2*x*10 + y/2 = 1 = a\na = g + 15\na < g + 16\na > g + 12\n\nBoxed formula:\nln e(((1/64*x^3*x*8*\u03c0)*(b-5/19*A)) - 15)\ng = ln e\ng + g + ln e = 2 + 2/3 + ln e = a = g + 15\n\nWhere: g = g ln\u03c0, M = 8, 59 = 40\nb = [crossed out] How? = ? w h.\n\nI wish you every new day happier\nthan every old happy days\n\nYour friend\nJean Luc",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "description": "Mathematical equations with personal birthday message",
+    "text_sections": {
+      "full_transcription": "Mathematical formulas (highlighted):\ny = a*c = (3/ay + 5*x*12/2) = a - 1\nx + y = 2/1+81 + 2*x*10 + y/2 = 1 = a\na = g + 15\na < g + 16\na > g + 12\n\nBoxed formula:\nln e(((1/64*x^3*x*8*\u03c0)*(b-5/19*A)) - 15)\ng = ln e\ng + g + ln e = 2 + 2/3 + ln e = a = g + 15\n\nWhere: g = g ln\u03c0, M = 8, 59 = 40\nb = [crossed out] How? = ? w h.\n\nI wish you every new day happier\nthan every old happy days\n\nYour friend\nJean Luc",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jean Luc (sender)",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          125
+        ]
+      },
+      {
+        "name": "Jeffrey Epstein",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          125
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "mathematical_elements": [
+      "logarithms",
+      "natural log",
+      "pi",
+      "algebraic equations"
+    ],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Jean Luc",
+    "recipient": "Jeffrey Epstein",
+    "date": "50th Birthday",
+    "subject": "Mathematical birthday wishes",
+    "theme": "intellectual_friendship",
+    "significance": "medium",
+    "document_type": "mathematical_tribute_continuation"
+  },
+  "insights": [
+    "Continuation of mathematical theme from page 124",
+    "Sender 'Jean Luc' demonstrates mathematical sophistication",
+    "'g + 15' appears repeatedly - possibly age reference (g=35, g+15=50)",
+    "Complex mathematical formulas include natural logarithms and pi",
+    "Personal message: 'every new day happier than every old happy days'",
+    "Signed 'Your friend' indicates personal relationship",
+    "Yellow highlighting emphasizes certain equations",
+    "Boxed formula given special prominence",
+    "Mathematical language used as birthday tribute medium",
+    "French name 'Jean Luc' suggests international connections",
+    "Playful mathematical puzzle or riddle possibly embedded",
+    "Shows Epstein maintained friendships with intellectually-oriented people",
+    "Mathematical tribute aligns with Epstein's teaching background"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000125",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.180959",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [
+      {
+        "name": "Jean Luc",
+        "style": "cursive",
+        "location": "bottom_right",
+        "identified_as": "Jean Luc",
+        "confidence": "medium",
+        "characteristics": [],
+        "matches_pages": []
+      }
+    ],
+    "logos": [],
+    "redactions": [],
+    "handwritten_notes": [
+      {
+        "type": "mathematical_equations_with_message",
+        "style": "mixed_mathematical_personal",
+        "ink_color": "black_with_yellow_highlights",
+        "highlighted_sections": [
+          "top equations",
+          "g + 15 reference"
+        ]
+      }
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Continuation of mathematical tribute (pages 124-125)",
+    "Yellow highlighted equations at top",
+    "y = ac = (3/ay + 5×12/2) = a - 1",
+    "x + y = 2/√81 + 2×10 + y/2 = 1 = a",
+    "a = g + 15 (highlighted)",
+    "a < g + 16",
+    "a > g + 12",
+    "Boxed complex formula with natural log",
+    "ln e(((√64×³×8×π)×(b-5/19·A)) - 15)",
+    "g = ln e",
+    "g + g + ln e = 2 + 2/3 + ln e = a = g + 15",
+    "Where: g = g lnπ, M = 8, 59 = 40",
+    "Personal message: 'I wish you every new day happier than every old happy days'",
+    "Signed 'Your friend Jean Luc'",
+    "Handwritten in black ink with yellow highlighting",
+    "Document stamped HOUSE_OVERSIGHT_000125"
+  ],
+  "investigative_leads": []
+}

@@ -1,0 +1,958 @@
+{
+  "page_number": 2,
+  "alphabetical_section": "A",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "002_alun_jones_carella",
+      "name": {
+        "full_name": "Alun-Jones, Carella",
+        "title": null,
+        "first_name": "Carella",
+        "last_name": "Alun-Jones",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "0207-219 7500",
+          "type": "home",
+          "label": "h",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "London landline - home",
+          "is_primary": false,
+          "formatting": "0207-219 7500"
+        },
+        {
+          "number": "0372 58160",
+          "type": "mobile",
+          "label": "c",
+          "country_code": "+44",
+          "area_code": "0372",
+          "extension": null,
+          "notes": "UK mobile",
+          "is_primary": false,
+          "formatting": "0372 58160"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "34 Eaton Place\nLondon SW1",
+          "street_line1": "34 Eaton Place",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW1",
+          "country": "UK",
+          "notes": "Belgravia, London - elite area"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "002_alun_jones_jeremy_deborah",
+      "name": {
+        "full_name": "Alun-Jones, Jeremy & Deborah",
+        "title": null,
+        "first_name": "Jeremy & Deborah",
+        "last_name": "Alun-Jones",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "01243 374 001",
+          "type": "home",
+          "label": "h",
+          "country_code": "+44",
+          "area_code": "01243",
+          "extension": null,
+          "notes": "Chichester area - home",
+          "is_primary": false,
+          "formatting": "01243 374 001"
+        },
+        {
+          "number": "0124 357 2102",
+          "type": "home",
+          "label": "h",
+          "country_code": "+44",
+          "area_code": "0124",
+          "extension": null,
+          "notes": "UK landline",
+          "is_primary": false,
+          "formatting": "0124 357 2102"
+        },
+        {
+          "number": "0777 412 1212",
+          "type": "mobile",
+          "label": "Dp",
+          "country_code": "+44",
+          "area_code": "0777",
+          "extension": null,
+          "notes": "UK mobile - Deborah",
+          "is_primary": false,
+          "formatting": "0777 412 1212"
+        },
+        {
+          "number": "0207 930 4237",
+          "type": "work",
+          "label": "wj",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "London landline - Jeremy work",
+          "is_primary": false,
+          "formatting": "0207 930 4237"
+        }
+      ],
+      "emails": [
+        {
+          "address": "daj@old-park.co.uk",
+          "type": "personal",
+          "domain": "old-park.co.uk",
+          "notes": "Old Park domain - matches residence"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "Old Park\nFishbourne\nWest Sussex, PO18 8AP",
+          "street_line1": "Old Park",
+          "street_line2": "Fishbourne",
+          "city": "West Sussex",
+          "state_province": null,
+          "postal_code": "PO18 8AP",
+          "country": "UK",
+          "notes": "West Sussex countryside"
+        },
+        {
+          "type": "business",
+          "label": "Jeremy",
+          "full_address": "(Hm)21 St. James Square\nLondon SW1Y 4JP",
+          "street_line1": "21 St. James Square",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW1Y 4JP",
+          "country": "UK",
+          "notes": "St. James's - prestigious business area"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "002_alvarez_senor_vincente",
+      "name": {
+        "full_name": "Alvarez, Senor Vincente",
+        "title": "Senor",
+        "first_name": "Vincente",
+        "last_name": "Alvarez",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "00 34 1 278 8697",
+          "type": "home",
+          "label": "h",
+          "country_code": "+34",
+          "area_code": "1",
+          "extension": null,
+          "notes": "Spain landline - home",
+          "is_primary": false,
+          "formatting": "00 34 1 278 8697"
+        },
+        {
+          "number": "011 34 915 903490",
+          "type": "work",
+          "label": "w",
+          "country_code": "+34",
+          "area_code": "915",
+          "extension": null,
+          "notes": "Madrid area - work",
+          "is_primary": false,
+          "formatting": "011 34 915 903490"
+        },
+        {
+          "number": "00 34 1 553 8466",
+          "type": "fax",
+          "label": "f",
+          "country_code": "+34",
+          "area_code": "1",
+          "extension": null,
+          "notes": "Spain fax",
+          "is_primary": false,
+          "formatting": "00 34 1 553 8466"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "002_amon_mr_philippe",
+      "name": {
+        "full_name": "Amon, Mr Philippe",
+        "title": "Mr",
+        "first_name": "Philippe",
+        "last_name": "Amon",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": "Cour de Boucy",
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "41 21 681 2553",
+          "type": "work",
+          "label": "w",
+          "country_code": "+41",
+          "area_code": "21",
+          "extension": null,
+          "notes": "Switzerland landline - Lausanne area",
+          "is_primary": false,
+          "formatting": "41 21 681 2553"
+        },
+        {
+          "number": "00 41 21 821 2222",
+          "type": "home",
+          "label": "h",
+          "country_code": "+41",
+          "area_code": "21",
+          "extension": null,
+          "notes": "Switzerland landline - home",
+          "is_primary": false,
+          "formatting": "00 41 21 821 2222"
+        },
+        {
+          "number": "41 21 827 5925",
+          "type": "work",
+          "label": "wf",
+          "country_code": "+41",
+          "area_code": "21",
+          "extension": null,
+          "notes": "Switzerland work fax",
+          "is_primary": false,
+          "formatting": "41 21 827 5925"
+        },
+        {
+          "number": "41 21 821 2200",
+          "type": "home",
+          "label": "hf",
+          "country_code": "+41",
+          "area_code": "21",
+          "extension": null,
+          "notes": "Switzerland home fax",
+          "is_primary": false,
+          "formatting": "41 21 821 2200"
+        },
+        {
+          "number": "00 41 31 963175",
+          "type": "other",
+          "label": "",
+          "country_code": "+41",
+          "area_code": "31",
+          "extension": null,
+          "notes": "Switzerland - Bern area",
+          "is_primary": false,
+          "formatting": "00 41 31 963175"
+        },
+        {
+          "number": "00 41 21 827 5920",
+          "type": "work",
+          "label": "lw",
+          "country_code": "+41",
+          "area_code": "21",
+          "extension": null,
+          "notes": "Switzerland landline - work",
+          "is_primary": false,
+          "formatting": "00 41 21 827 5920"
+        },
+        {
+          "number": "0041 21 821 2200",
+          "type": "home",
+          "label": "hf",
+          "country_code": "+41",
+          "area_code": "21",
+          "extension": null,
+          "notes": "Switzerland home fax",
+          "is_primary": false,
+          "formatting": "0041 21 821 2200"
+        }
+      ],
+      "emails": [
+        {
+          "address": "philippe.amon@sicpa.com",
+          "type": "business",
+          "domain": "sicpa.com",
+          "notes": "SICPA - security printing company"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "business",
+          "label": "",
+          "full_address": "1170 Aubonne\nSwitzerland",
+          "street_line1": null,
+          "street_line2": null,
+          "city": "Aubonne",
+          "state_province": null,
+          "postal_code": "1170",
+          "country": "Switzerland",
+          "notes": "Near Lausanne"
+        },
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "Cour de Boucy (2nd home)\n41 Eaton Square\nLondon SW1",
+          "street_line1": "41 Eaton Square",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW1",
+          "country": "UK",
+          "notes": "Belgravia, London - second home"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "002_amon_roberta_maurice",
+      "name": {
+        "full_name": "Amon, Roberta & Maurice",
+        "title": null,
+        "first_name": "Roberta & Maurice",
+        "last_name": "Amon",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "001 212 535 9877",
+          "type": "home",
+          "label": "h",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC - home",
+          "is_primary": false,
+          "formatting": "001 212 535 9877"
+        },
+        {
+          "number": "001 212 315 2020",
+          "type": "work",
+          "label": "w",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC - work",
+          "is_primary": false,
+          "formatting": "001 212 315 2020"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "4 East 72 Street\nNew York 10021",
+          "street_line1": "4 East 72 Street",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side - elite area"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "002_anastos_lisa",
+      "name": {
+        "full_name": "Anastos, Lisa",
+        "title": null,
+        "first_name": "Lisa",
+        "last_name": "Anastos",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "001 212 446 4781",
+          "type": "work",
+          "label": "w",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC - work",
+          "is_primary": false,
+          "formatting": "001 212 446 4781"
+        },
+        {
+          "number": "001 212 737 1722",
+          "type": "home",
+          "label": "h",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC - home",
+          "is_primary": false,
+          "formatting": "001 212 737 1722"
+        },
+        {
+          "number": "001 917 923 4513",
+          "type": "mobile",
+          "label": "c",
+          "country_code": "+1",
+          "area_code": "917",
+          "extension": null,
+          "notes": "NYC mobile",
+          "is_primary": false,
+          "formatting": "001 917 923 4513"
+        },
+        {
+          "number": "001 212 446 4900",
+          "type": "work",
+          "label": "wf",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC - work fax",
+          "is_primary": false,
+          "formatting": "001 212 446 4900"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "200 E 72nd\nNew York\nNY\n10021",
+          "street_line1": "200 E 72nd",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "002_anderson_lulu",
+      "name": {
+        "full_name": "Anderson, Lulu",
+        "title": null,
+        "first_name": "Lulu",
+        "last_name": "Anderson",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "0207-937 7730",
+          "type": "home",
+          "label": "",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "London landline",
+          "is_primary": false,
+          "formatting": "0207-937 7730"
+        },
+        {
+          "number": "0976 287 202",
+          "type": "mobile",
+          "label": "",
+          "country_code": "+44",
+          "area_code": "0976",
+          "extension": null,
+          "notes": "UK mobile",
+          "is_primary": false,
+          "formatting": "0976 287 202"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "002_appleby_robert_alex",
+      "name": {
+        "full_name": "Appleby, Robert & Alex",
+        "title": null,
+        "first_name": "Robert & Alex",
+        "last_name": "Appleby",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "0207-589 3400",
+          "type": "home",
+          "label": "h",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "London landline - home",
+          "is_primary": false,
+          "formatting": "0207-589 3400"
+        },
+        {
+          "number": "00 852 9104 2651",
+          "type": "mobile",
+          "label": "Ap",
+          "country_code": "+852",
+          "area_code": null,
+          "extension": null,
+          "notes": "Hong Kong mobile - Alex",
+          "is_primary": false,
+          "formatting": "00 852 9104 2651"
+        },
+        {
+          "number": "00 852 2817 4181",
+          "type": "home",
+          "label": "h",
+          "country_code": "+852",
+          "area_code": null,
+          "extension": null,
+          "notes": "Hong Kong home",
+          "is_primary": false,
+          "formatting": "00 852 2817 4181"
+        },
+        {
+          "number": "00 852 2817 4281",
+          "type": "home",
+          "label": "hf",
+          "country_code": "+852",
+          "area_code": null,
+          "extension": null,
+          "notes": "Hong Kong home fax",
+          "is_primary": false,
+          "formatting": "00 852 2817 4281"
+        },
+        {
+          "number": "00 852 2536 4567",
+          "type": "work",
+          "label": "Aw",
+          "country_code": "+852",
+          "area_code": null,
+          "extension": null,
+          "notes": "Hong Kong work - Alex",
+          "is_primary": false,
+          "formatting": "00 852 2536 4567"
+        },
+        {
+          "number": "00 852 2147 2613",
+          "type": "work",
+          "label": "wf",
+          "country_code": "+852",
+          "area_code": null,
+          "extension": null,
+          "notes": "Hong Kong work fax",
+          "is_primary": false,
+          "formatting": "00 852 2147 2613"
+        },
+        {
+          "number": "00 852 9104 2513",
+          "type": "mobile",
+          "label": "Rp",
+          "country_code": "+852",
+          "area_code": null,
+          "extension": null,
+          "notes": "Hong Kong mobile - Robert",
+          "is_primary": false,
+          "formatting": "00 852 9104 2513"
+        }
+      ],
+      "emails": [
+        {
+          "address": "RA@Asia.debl.com",
+          "type": "business",
+          "domain": "Asia.debl.com",
+          "notes": "Asia business email"
+        },
+        {
+          "address": "alex@rockgecko.com",
+          "type": "business",
+          "domain": "rockgecko.com",
+          "notes": "Alex's business email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "16 Grafton Square\nLondon SW4",
+          "street_line1": "16 Grafton Square",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW4",
+          "country": "UK",
+          "notes": "Clapham area"
+        },
+        {
+          "type": "business",
+          "label": "HmHouse 7",
+          "full_address": "3 Consort Rise\nFlat 1u Lam\nHK",
+          "street_line1": "3 Consort Rise",
+          "street_line2": "Flat 1u Lam",
+          "city": "Hong Kong",
+          "state_province": null,
+          "postal_code": null,
+          "country": "Hong Kong",
+          "notes": "Hong Kong residence"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "002_arango_maite",
+      "name": {
+        "full_name": "Arango, Maite",
+        "title": null,
+        "first_name": "Maite",
+        "last_name": "Arango",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "Espaller #10",
+          "type": "home",
+          "label": "home",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Address listed as phone - possible error",
+          "is_primary": true,
+          "formatting": "Espaller #10"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "Espaller #10",
+          "street_line1": "Espaller #10",
+          "street_line2": null,
+          "city": null,
+          "state_province": null,
+          "postal_code": null,
+          "country": null,
+          "notes": "Incomplete address"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "002_0207_637_8655",
+      "name": {
+        "full_name": null,
+        "title": null,
+        "first_name": null,
+        "last_name": null,
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "0207-637 8655",
+          "type": "work",
+          "label": "w",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "London landline - orphan number at top",
+          "is_primary": true,
+          "formatting": "0207-637 8655"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "002_0207_235_7769",
+      "name": {
+        "full_name": null,
+        "title": null,
+        "first_name": null,
+        "last_name": null,
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "0207-235-7769/9169",
+          "type": "other",
+          "label": "2nd home phone & fax",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "London landline - second home phone and fax",
+          "is_primary": true,
+          "formatting": "0207-235-7769/9169"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [
+          "2nd home phone & fax"
+        ],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 11,
+    "legibility": "excellent",
+    "notable_features": [
+      "Two orphan phone numbers at top and bottom of page",
+      "Mix of UK, US, Hong Kong, Spain, and Switzerland contacts"
+    ],
+    "extraction_timestamp": "2025-09-29T12:45:17.338697",
+    "extractor_version": "2.0"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Alex Appleby",
+      "Carella Alun-Jones",
+      "Deborah Alun-Jones",
+      "Jeremy Alun-Jones",
+      "Lisa Anastos",
+      "Lulu Anderson",
+      "Maite Arango",
+      "Maurice Amon",
+      "Philippe Amon",
+      "Robert Appleby",
+      "Roberta Amon",
+      "Vincente Alvarez"
+    ],
+    "organizations": [
+      "SICPA",
+      "Cour de Boucy"
+    ],
+    "locations": {
+      "cities": [
+        "London",
+        "Fishbourne",
+        "Madrid",
+        "Aubonne",
+        "New York",
+        "Hong Kong"
+      ],
+      "states": [
+        "West Sussex",
+        "New York"
+      ],
+      "countries": [
+        "UK",
+        "Spain",
+        "Switzerland",
+        "USA",
+        "Hong Kong"
+      ]
+    }
+  },
+  "insights": [
+    "Continuation of 'A' section from page 1",
+    "Strong concentration of London contacts with 0207 area codes (Central London)",
+    "Multiple entries show dual residences - London/Hong Kong, London/Switzerland pattern",
+    "Elite London addresses: Eaton Place, Eaton Square (Belgravia), St. James Square",
+    "Upper East Side NYC addresses (10021 zip code) indicate wealthy contacts",
+    "Philippe Amon has extensive Swiss contact details - SICPA connection (security printing)",
+    "Appleby entry shows strong Hong Kong business connections with multiple 852 numbers",
+    "Several couples listed together continuing pattern from page 1",
+    "Orphan phone numbers suggest possible continuation or reference entries",
+    "International dialing patterns continue with 00 prefix for calls from UK",
+    "Mix of residential areas: Belgravia (SW1), Clapham (SW4), West Sussex countryside",
+    "Email domains show business connections: sicpa.com, Asia.debl.com, rockgecko.com",
+    "Old-park.co.uk domain matches the Alun-Jones' residence name",
+    "Several entries have work fax numbers indicating business/professional status",
+    "Hong Kong contacts concentrated in expatriate business community"
+  ]
+}

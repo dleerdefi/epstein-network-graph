@@ -1,0 +1,299 @@
+{
+  "page_number": 104,
+  "date_header": "SEP-OCT 2003",
+  "time_period": "September 2003 - October 2003",
+  "aircraft": {
+    "registration": "Multiple (B-727-200 SEABROOK, G-1159B N909JE, BHT-407 N847GM, etc.)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "SEP 26",
+      "date": "09/26/2003",
+      "departure": "B-727-200",
+      "arrival": "SEABROOK",
+      "flight_time": "",
+      "remarks": "MRD - MTD - Rick Martinez, Andrew Nelson",
+      "passengers": ["Rick Martinez", "Andrew Nelson"],
+      "crew": "Airplane George Nelson 2/0"
+    },
+    {
+      "entry_number": "27",
+      "date": "09/27/2003",
+      "departure": "CTR",
+      "arrival": "557TR",
+      "flight_time": "170",
+      "remarks": "BED - Barbara Steny Church Springfield",
+      "passengers": ["Barbara Steny Church", "Springfield"],
+      "crew": "3/3"
+    },
+    {
+      "entry_number": "27",
+      "date": "09/27/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "[unclear] ED, Frank, Evans, UEC",
+      "passengers": ["ED", "Frank", "Evans", "UEC"],
+      "crew": "2/2"
+    },
+    {
+      "entry_number": "29",
+      "date": "09/29/2003",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "",
+      "remarks": "PBI - TEB - GM",
+      "passengers": ["GM"],
+      "crew": "0"
+    },
+    {
+      "entry_number": "30",
+      "date": "09/30/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1665",
+      "remarks": "TEB - PBI - AM, Felix, Paula, G, S, SE, M",
+      "passengers": ["AM", "Felix", "Paula", "G", "S", "SE", "M"],
+      "crew": "2/6"
+    },
+    {
+      "entry_number": "OCT 1",
+      "date": "10/01/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1666",
+      "remarks": "PBI - TEB - JE, AM, SK, TD, VG",
+      "passengers": ["JE", "AM", "SK", "TD", "VG"],
+      "crew": "1/1 2/5"
+    },
+    {
+      "entry_number": "2",
+      "date": "10/02/2003",
+      "departure": "BHT-407",
+      "arrival": "N441GM",
+      "flight_time": "",
+      "remarks": "PBI - MYNN - Larry Visoski",
+      "passengers": ["Larry Visoski"],
+      "crew": "1/0"
+    },
+    {
+      "entry_number": "2",
+      "date": "10/02/2003",
+      "departure": "BHT-407",
+      "arrival": "N847GM",
+      "flight_time": "",
+      "remarks": "MYCE - MRPV - LV",
+      "passengers": ["LV"],
+      "crew": "2/1"
+    },
+    {
+      "entry_number": "3",
+      "date": "10/03/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "MRPV - MDRP - LV",
+      "passengers": ["LV"],
+      "crew": "1/0"
+    },
+    {
+      "entry_number": "3",
+      "date": "10/03/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "TEST - TIST - LV",
+      "passengers": ["LV"],
+      "crew": ""
+    },
+    {
+      "entry_number": "3",
+      "date": "10/03/2003",
+      "departure": "B41S1B",
+      "arrival": "N909JE",
+      "flight_time": "1661",
+      "remarks": "TEB - PBI - JE, [REDACTED], SK, TD",
+      "passengers": ["JE", "REDACTED", "SK", "TD"],
+      "crew": "2/6"
+    },
+    {
+      "entry_number": "6",
+      "date": "10/06/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1662",
+      "remarks": "PBI - BED - JE, [REDACTED], TD",
+      "passengers": ["JE", "REDACTED", "TD"],
+      "crew": "1/1 2/8"
+    },
+    {
+      "entry_number": "7",
+      "date": "10/07/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1664",
+      "remarks": "BED - TEB - JE, J, SA",
+      "passengers": ["JE", "J", "SA"],
+      "crew": "1/0"
+    },
+    {
+      "entry_number": "11",
+      "date": "10/11/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1670",
+      "remarks": "TEB - PBI - JE, BT, GM, TD, Chavalla",
+      "passengers": ["JE", "BT", "GM", "TD", "Chavalla"],
+      "crew": "1/1 2/7"
+    },
+    {
+      "entry_number": "14",
+      "date": "10/14/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "POZ - TEB - JE, DT, GM, SK",
+      "passengers": ["JE", "DT", "GM", "SK"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "16",
+      "date": "10/16/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1672",
+      "remarks": "TEB - PBI - JE, BT, AM, SK",
+      "passengers": ["JE", "BT", "AM", "SK"],
+      "crew": "2/6"
+    },
+    {
+      "entry_number": "18",
+      "date": "10/18/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1673",
+      "remarks": "PBI - TEB - JE, AM, DT, SK",
+      "passengers": ["JE", "AM", "DT", "SK"],
+      "crew": "Larry Powers Jr 1/1 2/7"
+    },
+    {
+      "entry_number": "21",
+      "date": "10/21/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1674",
+      "remarks": "TEB - MTV - JE, SK",
+      "passengers": ["JE", "SK"],
+      "crew": "White Bern Botti Jr 1/1 7"
+    },
+    {
+      "entry_number": "21",
+      "date": "10/21/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1675",
+      "remarks": "MTV - TIST - JE, SK, [REDACTED]",
+      "passengers": ["JE", "SK", "REDACTED"],
+      "crew": "White Powers Martin 1/1 2"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Rick Martinez",
+      "Andrew Nelson",
+      "George Nelson",
+      "Barbara Steny Church",
+      "Springfield",
+      "ED",
+      "Frank",
+      "Evans",
+      "UEC",
+      "GM",
+      "AM",
+      "Felix",
+      "Paula",
+      "G",
+      "S",
+      "SE",
+      "M",
+      "JE",
+      "SK",
+      "TD",
+      "VG",
+      "Larry Visoski",
+      "LV",
+      "REDACTED",
+      "J",
+      "SA",
+      "BT",
+      "Chavalla",
+      "DT",
+      "Larry Powers Jr",
+      "White Bern Botti Jr",
+      "White Powers Martin",
+      "David Rodgers"
+    ],
+    "locations": [
+      "MRD",
+      "MTD",
+      "BED",
+      "PBI",
+      "TEB",
+      "MYNN",
+      "MYCE",
+      "MRPV",
+      "MDRP",
+      "TEST",
+      "TIST",
+      "POZ",
+      "MTV"
+    ],
+    "aircraft": [
+      "B-727-200",
+      "SEABROOK",
+      "CTR",
+      "557TR",
+      "G-1159B",
+      "N909JE",
+      "BHT-407",
+      "N441GM",
+      "N847GM",
+      "B41S1B"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "Total to Date: 9220.5 - 9225.0",
+    "amount_forward": "9195.5",
+    "total_to_date": "9220.5",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page covers September-October 2003",
+    "September entries: 26, 27, 27, 29, 30",
+    "October entries: 1, 2, 2, 3, 3, 3, 6, 7, 11, 14, 16, 18, 21, 21",
+    "JE (Jeffrey Epstein) appears frequently throughout October",
+    "SK (Sarah Kellen) appears multiple times in October",
+    "AM appears several times in October",
+    "Larry Visoski appears as pilot/passenger (LV)",
+    "Multiple REDACTED entries preserved",
+    "Caribbean operations continue (TIST, MYNN)",
+    "Martha's Vineyard (MTV) appears on October 21",
+    "Flight numbers reach 1675 for G-1159B",
+    "Several crew members named including Larry Powers Jr, White Bern Botti Jr",
+    "Mix of domestic and Caribbean operations",
+    "TEST location appears again on October 3"
+  ]
+}

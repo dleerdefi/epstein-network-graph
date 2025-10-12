@@ -1,0 +1,1086 @@
+{
+  "page_number": 49,
+  "alphabetical_section": "D/S",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "049_saltzman_elizabeth",
+      "name": {
+        "full_name": "Saltzman, Elizabeth",
+        "prefix": null,
+        "first_name": "Elizabeth",
+        "middle_name": null,
+        "last_name": "Saltzman",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-243 5258",
+          "formatting": "0207-243 5258 (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "0771 4503818",
+          "formatting": "0771 4503818"
+        },
+        {
+          "type": "unknown",
+          "number": "001 212 737 4810",
+          "formatting": "001 212 737 4810 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 917 971 5875 (car)",
+          "formatting": "001 917 971 5875 (car) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 212 286 6150",
+          "formatting": "001 212 286 6150 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "0771 4503818",
+          "formatting": "0771 4503818"
+        },
+        {
+          "type": "work",
+          "number": "001 212 880 8968",
+          "formatting": "001 212 880 8968 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 988 8889",
+          "formatting": "001 212 988 8889 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 207 235 0818",
+          "formatting": "001 207 235 0818 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 914 354 7033",
+          "formatting": "001 914 354 7033 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "elizabeth_saltzman@vf.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "35 Ladbroke Grdns"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W11 2PX",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "049_samuels_mia",
+      "name": {
+        "full_name": "Samuels, Mia",
+        "prefix": null,
+        "first_name": "Mia",
+        "middle_name": null,
+        "last_name": "Samuels",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 580 6194",
+          "formatting": "001 212 580 6194 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "ABC Prime Time"
+    },
+    {
+      "entry_id": "049_sandelmar_jon_&_corrie",
+      "name": {
+        "full_name": "Sandelmar Jon",
+        "prefix": null,
+        "first_name": "Jon & Corrie",
+        "middle_name": null,
+        "last_name": "Sandelmar",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Corrie"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 861 8008",
+          "formatting": "212 861 8008"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "635 Park Ave"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "049_sangster_guy_&_fi",
+      "name": {
+        "full_name": "Sangster, Guy",
+        "prefix": null,
+        "first_name": "Guy & Fi",
+        "middle_name": null,
+        "last_name": "Sangster",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Fi"
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-498 9298",
+          "formatting": "0207-498 9298 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-498 9558",
+          "formatting": "0207-498 9558 (UK London)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "sangster@saqnet.co.uk",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "19 Crescent Grove"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW47AF",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "049_sangster_ben",
+      "name": {
+        "full_name": "Sangster, Mr Ben",
+        "prefix": null,
+        "first_name": "Ben",
+        "middle_name": null,
+        "last_name": "Sangster",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-352 0453",
+          "formatting": "0207-352 0453 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "13 Fernshaw Road"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW10 0TG",
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "049_santo_domingo_julio_mario",
+      "name": {
+        "full_name": "Santo Domingo, Julio Mario",
+        "prefix": null,
+        "first_name": "Julio Mario",
+        "middle_name": null,
+        "last_name": "Santo Domingo",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 917 859 9090",
+          "formatting": "001 917 859 9090 (International)"
+        },
+        {
+          "type": "work",
+          "number": "00 41 21 9030",
+          "formatting": "00 41 21 9030 (International)"
+        },
+        {
+          "type": "home",
+          "number": "00 41 22 781 0870",
+          "formatting": "00 41 22 781 0870 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "jmsd@alphageneva.ch",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "14 Promenade Saint Antoine"
+          ],
+          "city": "Geneva",
+          "state": null,
+          "postal_code": "1204",
+          "country": "Switzerland",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "049_santo_m_espirito",
+      "name": {
+        "full_name": "Santo, Mr",
+        "prefix": null,
+        "first_name": "M Espirito",
+        "middle_name": null,
+        "last_name": "Santo",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Mrs M Espirito"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-373 5233",
+          "formatting": "0207-373 5233 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Rua Inglaterra 31"
+          ],
+          "city": "Estoril",
+          "state": null,
+          "postal_code": "2765",
+          "country": "Portugal",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "049_solman_unknown",
+      "name": {
+        "full_name": "Saud Prince Solman",
+        "prefix": null,
+        "first_name": "",
+        "middle_name": null,
+        "last_name": "Solman",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "703 288 8770",
+          "formatting": "703 288 8770"
+        },
+        {
+          "type": "portable",
+          "number": "202 409 3866",
+          "formatting": "202 409 3866"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Saudi Prince"
+    },
+    {
+      "entry_id": "049_scerbo_randall",
+      "name": {
+        "full_name": "Scerbo, Randall",
+        "prefix": null,
+        "first_name": "Randall",
+        "middle_name": null,
+        "last_name": "Scerbo",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "1 646 336 9823",
+          "formatting": "1 646 336 9823"
+        },
+        {
+          "type": "home",
+          "number": "1 212 260 9749",
+          "formatting": "1 212 260 9749"
+        },
+        {
+          "type": "portable",
+          "number": "1 917 520 1443",
+          "formatting": "1 917 520 1443"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "321 East 22nd Street, Apartment 6B"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "049_schiatti_gianmarco",
+      "name": {
+        "full_name": "Schiatti, Gianmarco",
+        "prefix": null,
+        "first_name": "Gianmarco",
+        "middle_name": null,
+        "last_name": "Schiatti",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "00 39 2 877 781",
+          "formatting": "00 39 2 877 781 (International)"
+        },
+        {
+          "type": "home",
+          "number": "00 39 2 4819 4728",
+          "formatting": "00 39 2 4819 4728 (International)"
+        },
+        {
+          "type": "home",
+          "number": "00 33 1 4221 3201",
+          "formatting": "00 33 1 4221 3201 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "00 39 337 701 472",
+          "formatting": "00 39 337 701 472 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "049_schifter_helen_&_tim",
+      "name": {
+        "full_name": "Schifter, Helen",
+        "prefix": null,
+        "first_name": "Helen & Tim",
+        "middle_name": null,
+        "last_name": "Schifter",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Tim"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 535 8281",
+          "formatting": "212 535 8281"
+        },
+        {
+          "type": "unknown",
+          "number": "516 537 7744 (2nd home)",
+          "formatting": "516 537 7744 (2nd home)"
+        },
+        {
+          "type": "portable",
+          "number": "917 882 5775",
+          "formatting": "917 882 5775 (NYC mobile)"
+        },
+        {
+          "type": "portable",
+          "number": "917 856 9290 (Tim)",
+          "formatting": "917 856 9290 (Tim) (NYC mobile)"
+        },
+        {
+          "type": "portable",
+          "number": "646 226 4696 (Helen)",
+          "formatting": "646 226 4696 (Helen) (NYC mobile)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "784 Park Ave"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021-3553",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "049_sebag_montefiroe_simon_&_santa",
+      "name": {
+        "full_name": "Sebag Montefiroe Simon",
+        "prefix": null,
+        "first_name": "Simon & Santa",
+        "middle_name": null,
+        "last_name": "Sebag Montefiroe",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Santa"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-353-4675",
+          "formatting": "0207-353-4675 (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "0207-498 7292",
+          "formatting": "0207-498 7292 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "049_seilern_christine",
+      "name": {
+        "full_name": "Seilern Christine",
+        "prefix": null,
+        "first_name": "Christine",
+        "middle_name": null,
+        "last_name": "Seilern",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 924 5060",
+          "formatting": "001 212 924 5060 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 633 1609",
+          "formatting": "001 212 633 1609 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "302 W12th St, #5c"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10014",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "049_de_sejournet_isabel",
+      "name": {
+        "full_name": "Sejournet, Isabel de",
+        "prefix": null,
+        "first_name": "Isabel",
+        "middle_name": null,
+        "last_name": "de Sejournet",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-370 7621",
+          "formatting": "0207-370 7621 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "11 Gedhow Gardens"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW7",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "049_shabtai_benny",
+      "name": {
+        "full_name": "Shabtai, Benny",
+        "prefix": null,
+        "first_name": "Benny",
+        "middle_name": null,
+        "last_name": "Shabtai",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 355 3350",
+          "formatting": "001 212 355 3350 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 972 5080",
+          "formatting": "001 917 972 5080 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "049_shad_brenda",
+      "name": {
+        "full_name": "Shad, Brenda",
+        "prefix": null,
+        "first_name": "Brenda",
+        "middle_name": null,
+        "last_name": "Shad",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 777 1122",
+          "formatting": "212 777 1122"
+        }
+      ],
+      "emails": [
+        {
+          "address": "brenda.schad@verizon.net",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "049_shearer_andre_&_angie",
+      "name": {
+        "full_name": "Shearer Andre",
+        "prefix": null,
+        "first_name": "Andre & Angie",
+        "middle_name": null,
+        "last_name": "Shearer",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Angie"
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 906 9100",
+          "formatting": "001 212 906 9100 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 877 5666",
+          "formatting": "001 212 877 5666 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "049_shore_chris_&_maura",
+      "name": {
+        "full_name": "Shore Chris",
+        "prefix": null,
+        "first_name": "Chris & Maura",
+        "middle_name": null,
+        "last_name": "Shore",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Maura"
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "1040 Park Ave, 10F"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10028",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "049_shriver_bobby",
+      "name": {
+        "full_name": "Shriver, Bobby",
+        "prefix": null,
+        "first_name": "Bobby",
+        "middle_name": null,
+        "last_name": "Shriver",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 301 444 9609",
+          "formatting": "001 301 444 9609 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 830 9109",
+          "formatting": "001 212 830 9109 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Suite 1850, 100 East 42nd Street"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10017",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "049_shriver_bobby",
+      "name": {
+        "full_name": "Shriver, Bobby",
+        "prefix": null,
+        "first_name": "Bobby",
+        "middle_name": null,
+        "last_name": "Shriver",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 405 842 4278",
+          "formatting": "001 405 842 4278 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "1095 North Ocean Blv"
+          ],
+          "city": "Florida",
+          "state": null,
+          "postal_code": null,
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "049_shriver_bobby",
+      "name": {
+        "full_name": "Shriver, Bobby",
+        "prefix": null,
+        "first_name": "Bobby",
+        "middle_name": null,
+        "last_name": "Shriver",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 310 478 8886 (fax)",
+          "formatting": "001 310 478 8886 (fax) (International)"
+        },
+        {
+          "type": "work",
+          "number": "001 619 294 7402",
+          "formatting": "001 619 294 7402 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Room 220, 1440 South Sepulve da Blvd"
+          ],
+          "city": "Los Angeles",
+          "state": null,
+          "postal_code": "CA 90025-3492",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Special Olympics Productions"
+    },
+    {
+      "entry_id": "049_shriver_maria",
+      "name": {
+        "full_name": "Shriver, Maria",
+        "prefix": null,
+        "first_name": "Maria",
+        "middle_name": null,
+        "last_name": "Shriver",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 818 840 4813",
+          "formatting": "001 818 840 4813 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 818 840 4275 (f)",
+          "formatting": "001 818 840 4275 (f) (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 22,
+    "entries_with_emails": 4,
+    "entries_with_addresses": 14,
+    "entries_with_handwritten_notes": 0,
+    "couples": 7,
+    "average_confidence": "high",
+    "notable_figures_count": 0
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Saltzman, Elizabeth",
+      "Samuels, Mia",
+      "Sandelmar Jon",
+      "Corrie",
+      "Sangster, Guy",
+      "Fi",
+      "Sangster, Mr Ben",
+      "Santo Domingo, Julio Mario",
+      "Santo, Mr",
+      "Mrs M Espirito",
+      "Saud Prince Solman",
+      "Scerbo, Randall",
+      "Schiatti, Gianmarco",
+      "Schifter, Helen",
+      "Tim",
+      "Sebag Montefiroe Simon",
+      "Santa",
+      "Seilern Christine",
+      "Sejournet, Isabel de",
+      "Shabtai, Benny",
+      "Shad, Brenda",
+      "Shearer Andre",
+      "Angie",
+      "Shore Chris",
+      "Maura",
+      "Shriver, Bobby",
+      "Shriver, Bobby",
+      "Shriver, Bobby",
+      "Shriver, Maria"
+    ],
+    "organizations": [
+      "Saudi Prince"
+    ],
+    "locations": {
+      "international": [
+        "UK",
+        "Switzerland",
+        "Portugal"
+      ],
+      "us_cities": [
+        "Florida",
+        "London",
+        "Estoril",
+        "Geneva",
+        "New York",
+        "Los Angeles"
+      ],
+      "elite_addresses": []
+    }
+  },
+  "insights": [
+    "Geographic cluster: London (4 entries)",
+    "Geographic cluster: New York (5 entries)"
+  ]
+}

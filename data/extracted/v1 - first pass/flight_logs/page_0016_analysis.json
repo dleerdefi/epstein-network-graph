@@ -1,0 +1,340 @@
+{
+  "page_number": 16,
+  "file_path": "data/flight_logs_images/page-016.png",
+  "type": "aircraft_flight_log",
+  "content": {
+    "text": "DATE 1992 DEC | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARKS | POINTS OF DEPARTURE & ARRIVAL | FROM | TO | MILEAGE | FLT TIME | REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS | AIRCRAFT CATEGORY\n\n9 '' N908JE TED MMD 4.1 251 JEFFREY, GHISLAINE\n13 '' '' '' MMD CMH 4.0 252 JEFFREY\n7 '' '' '' CMH TED 3.0 253 JEFFREY, PRINCE ANDREW, GWENDOLYN, VIRGINIA\n15 '' '' '' TED TED 1.5 254 JEFFREY\n16 '' '' '' TED DLG 4.0 255 JEFFREY, GHISLAINE\n19 '' '' '' DLG BKU 5.0 256 JEFFREY, GHISLAINE, JEAN\n19 '' '' '' BKU TLT 2.3 257 JEFFREY, GHISLAINE\n19 '' '' '' TLT BCB 6.3 258 JEFFREY, GHISLAINE\n21 '' '' '' BCB LMH 1.5 259 JEFFREY\n21 '' '' '' LMH FAT 1.0 260 JEFFREY\n21 '' '' '' FAT TED 3.0 261 JEFFREY, VIRGINIA\n11 '' '' '' TED TED 1.5 262 JEFFREY\n11 '' '' '' CMH TED 3.0 263 JEFFREY, SARAH, ANNIE FARMER, GLEN DUBIN, VIRGINIA\n25 '' '' '' TED BAH 1.0 264 JEFFREY, PETER DUBOIS\n14 '' '' '' TED CMH 3.0 265 JEFFREY, GHISLAINE\n17 '' '' '' CMH TED 4.0 266 JEFFREY, PETER AMBLER(?), [unclear]\n15 '' '' '' TED BKS 3.0 267 JEFFREY, GLEN DUBIN(?)\n\nPAGE TOTAL\nAMT. FORWARD: 59.3 + 90.6 = 149.9\nTOTAL TO DATE: 4531 + 673 = 5204\n\nI certify that the statements made by me on this form are true.\n\nPILOT'S SIGNATURE: David Rodgers",
+    "handwritten": true,
+    "typed": false,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "Complete cell-by-cell transcription provided above",
+      "flight_records": [
+        {
+          "date": "12/9/92",
+          "departure": "TED",
+          "arrival": "MMD",
+          "aircraft": "N908JE",
+          "flight_time": "4.1 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE"
+        },
+        {
+          "date": "12/13/92",
+          "departure": "MMD",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "4.0 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "12/7/92",
+          "departure": "CMH",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "3.0 hrs",
+          "passengers": ["Jeffrey", "Prince Andrew", "Gwendolyn", "Virginia"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, PRINCE ANDREW, GWENDOLYN, VIRGINIA"
+        },
+        {
+          "date": "12/15/92",
+          "departure": "TED",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "12/16/92",
+          "departure": "TED",
+          "arrival": "DLG",
+          "aircraft": "N908JE",
+          "flight_time": "4.0 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE"
+        },
+        {
+          "date": "12/19/92",
+          "departure": "DLG",
+          "arrival": "BKU",
+          "aircraft": "N908JE",
+          "flight_time": "5.0 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Jean"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE, JEAN"
+        },
+        {
+          "date": "12/19/92",
+          "departure": "BKU",
+          "arrival": "TLT",
+          "aircraft": "N908JE",
+          "flight_time": "2.3 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE"
+        },
+        {
+          "date": "12/19/92",
+          "departure": "TLT",
+          "arrival": "BCB",
+          "aircraft": "N908JE",
+          "flight_time": "6.3 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE"
+        },
+        {
+          "date": "12/21/92",
+          "departure": "BCB",
+          "arrival": "LMH",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "12/21/92",
+          "departure": "LMH",
+          "arrival": "FAT",
+          "aircraft": "N908JE",
+          "flight_time": "1.0 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "12/21/92",
+          "departure": "FAT",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "3.0 hrs",
+          "passengers": ["Jeffrey", "Virginia"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, VIRGINIA"
+        },
+        {
+          "date": "12/11/92",
+          "departure": "TED",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "12/11/92",
+          "departure": "CMH",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "3.0 hrs",
+          "passengers": ["Jeffrey", "Sarah", "Annie Farmer", "Glen Dubin", "Virginia"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, SARAH, ANNIE FARMER, GLEN DUBIN, VIRGINIA"
+        },
+        {
+          "date": "12/25/92",
+          "departure": "TED",
+          "arrival": "BAH",
+          "aircraft": "N908JE",
+          "flight_time": "1.0 hrs",
+          "passengers": ["Jeffrey", "Peter Dubois"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, PETER DUBOIS"
+        },
+        {
+          "date": "12/14/92",
+          "departure": "TED",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "3.0 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE"
+        },
+        {
+          "date": "12/17/92",
+          "departure": "CMH",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "4.0 hrs",
+          "passengers": ["Jeffrey", "Peter Ambler(?)", "[unclear]"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, PETER AMBLER(?), [unclear]"
+        },
+        {
+          "date": "12/15/92",
+          "departure": "TED",
+          "arrival": "BKS",
+          "aircraft": "N908JE",
+          "flight_time": "3.0 hrs",
+          "passengers": ["Jeffrey", "Glen Dubin(?)"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GLEN DUBIN(?)"
+        }
+      ],
+      "date_header": "DATE 1992 DEC",
+      "date_range": "December 1992",
+      "starting_month": "December",
+      "starting_year": "1992"
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey",
+        "context": "Primary passenger appearing in all flights",
+        "occurrences": 17
+      },
+      {
+        "name": "Ghislaine",
+        "context": "Frequent passenger",
+        "occurrences": 9
+      },
+      {
+        "name": "Prince Andrew",
+        "context": "High-profile passenger - British Royal",
+        "occurrences": 1
+      },
+      {
+        "name": "Gwendolyn",
+        "context": "Passenger",
+        "occurrences": 1
+      },
+      {
+        "name": "Virginia",
+        "context": "Passenger - appears multiple times",
+        "occurrences": 3
+      },
+      {
+        "name": "Jean",
+        "context": "Passenger",
+        "occurrences": 1
+      },
+      {
+        "name": "Sarah",
+        "context": "Passenger",
+        "occurrences": 1
+      },
+      {
+        "name": "Annie Farmer",
+        "context": "Passenger - full name provided",
+        "occurrences": 1
+      },
+      {
+        "name": "Glen Dubin",
+        "context": "Passenger - appears twice",
+        "occurrences": 2
+      },
+      {
+        "name": "Peter Dubois",
+        "context": "Passenger",
+        "occurrences": 1
+      },
+      {
+        "name": "Peter Ambler",
+        "context": "Passenger - name unclear in log",
+        "occurrences": 1
+      },
+      {
+        "name": "David Rodgers",
+        "context": "Pilot signature",
+        "occurrences": 1
+      }
+    ],
+    "locations": [
+      {
+        "code": "TED",
+        "context": "Primary hub - frequent departure/arrival point"
+      },
+      {
+        "code": "MMD",
+        "context": "Airport code"
+      },
+      {
+        "code": "CMH",
+        "context": "Columbus, OH - frequent destination"
+      },
+      {
+        "code": "DLG",
+        "context": "Airport code"
+      },
+      {
+        "code": "BKU",
+        "context": "Airport code"
+      },
+      {
+        "code": "TLT",
+        "context": "Airport code"
+      },
+      {
+        "code": "BCB",
+        "context": "Airport code"
+      },
+      {
+        "code": "LMH",
+        "context": "Airport code"
+      },
+      {
+        "code": "FAT",
+        "context": "Airport code"
+      },
+      {
+        "code": "BAH",
+        "context": "Airport code"
+      },
+      {
+        "code": "BKS",
+        "context": "Airport code"
+      }
+    ],
+    "aircraft": [
+      {
+        "registration": "N908JE",
+        "context": "Primary aircraft used for all flights"
+      }
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "signature": "David Rodgers",
+        "context": "Pilot's signature at bottom of page",
+        "deciphered": true
+      }
+    ],
+    "stamps": [],
+    "handwriting_analysis": "Consistent handwriting throughout, same person filling out all entries",
+    "page_totals": {
+      "mileage": "59.3 + 90.6 = 149.9",
+      "total_to_date": "4531 + 673 = 5204"
+    }
+  },
+  "metadata": {
+    "time_period": "December 1992",
+    "total_flights": 17,
+    "unique_passengers": 11,
+    "primary_aircraft": "N908JE",
+    "pilot": "David Rodgers"
+  },
+  "insights": [
+    "First appearance of Prince Andrew as passenger - significant high-profile individual",
+    "Virginia appears multiple times, consistent with Virginia Roberts",
+    "Annie Farmer appears - notable name in Epstein case",
+    "Glen Dubin appears twice - Wall Street financier with Epstein connections",
+    "Multiple flights on December 19th showing complex travel itinerary",
+    "Christmas Day flight (Dec 25) with Peter Dubois",
+    "Several round-trip patterns between TED and other locations",
+    "Page shows December 1992 exclusively",
+    "Consistent pattern of Jeffrey traveling with various combinations of passengers",
+    "Some passengers' names appear unclear or abbreviated in original log"
+  ]
+}

@@ -1,0 +1,611 @@
+{
+  "page_number": 20,
+  "alphabetical_section": "F",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "020_flick_mook",
+      "name": {
+        "full_name": "Flick Mook",
+        "prefix": null,
+        "first_name": "Flick",
+        "middle_name": null,
+        "last_name": "Mook",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0171-225 3147(h)", "formatting": "UK format"},
+        {"type": "home", "number": "0171-581 1186(h)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Park House", "7-11 Onslow Sq.", "London SW7 3NJ"],
+          "city": "London",
+          "postal_code": "SW7 3NJ",
+          "country": "UK",
+          "notes": "South Kensington area"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Clear contact entry"
+    },
+    {
+      "entry_id": "020_foman_bobby_jeanette",
+      "name": {
+        "full_name": "Foman, Bobby & Jeanette",
+        "prefix": null,
+        "first_name": "Bobby",
+        "middle_name": null,
+        "last_name": "Foman",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Jeanette"
+      },
+      "phones": [
+        {"type": "home", "number": "212-838-1561 (h)", "formatting": "US format"},
+        {"type": "work", "number": "212-863-5100 (w)", "formatting": "US format"},
+        {"type": "home", "number": "0207-235 8872 Home", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Couple entry, US and UK numbers"
+    },
+    {
+      "entry_id": "020_forbes_zandy",
+      "name": {
+        "full_name": "Forbes Zandy",
+        "prefix": null,
+        "first_name": "Zandy",
+        "middle_name": null,
+        "last_name": "Forbes",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 879 5051 (h)", "formatting": "International to US"},
+        {"type": "work", "number": "001 212 829 4051 (w)", "formatting": "International to US"},
+        {"type": "pager", "number": "001 212 826 4617 (p)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "All international US numbers"
+    },
+    {
+      "entry_id": "020_forbes_chris_kip_astrid",
+      "name": {
+        "full_name": "Forbes, Chris (Kip) Astrid",
+        "prefix": null,
+        "first_name": "Chris",
+        "middle_name": null,
+        "last_name": "Forbes",
+        "suffix": null,
+        "nickname": "Kip",
+        "partner_name": "Astrid"
+      },
+      "phones": [
+        {"type": "home", "number": "01931-7350", "formatting": "UK format"},
+        {"type": "mobile", "number": "212 620 0240", "formatting": "US format"},
+        {"type": "home", "number": "(Hm)60 Fifth Avenue", "formatting": "Address note"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["35 Old Dutch Road (h)", "Far Hills", "NJ"],
+          "city": "Far Hills",
+          "state": "NJ",
+          "country": "USA",
+          "notes": "Forbes Magazine family"
+        },
+        {
+          "type": "home",
+          "address_lines": ["60 Fifth Avenue", "New York", "NY 10012"],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10012",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": ["Forbes Magazine"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Forbes Magazine family member"
+    },
+    {
+      "entry_id": "020_forbes_steve_sabine",
+      "name": {
+        "full_name": "Forbes, Steve & Sabine",
+        "prefix": null,
+        "first_name": "Steve",
+        "middle_name": null,
+        "last_name": "Forbes",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Sabine"
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 964 1734 (H)", "formatting": "International to US"},
+        {"type": "pager", "number": "001 917 359 3280 (P)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Southdown", "Burnt Mills Road", "Bedminster, N.J. 07921"],
+          "city": "Bedminster",
+          "state": "NJ",
+          "postal_code": "07921",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Steve Forbes - Forbes Magazine publisher/presidential candidate"
+    },
+    {
+      "entry_id": "020_ford_katie",
+      "name": {
+        "full_name": "Ford, Katie",
+        "prefix": null,
+        "first_name": "Katie",
+        "middle_name": null,
+        "last_name": "Ford",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "212 219 8500(w)", "formatting": "US format - work number"},
+        {"type": "home", "number": "212 226 1556(h)", "formatting": "US format"}
+      ],
+      "emails": [
+        {"type": "business", "email": "kford@fordmanagement.com"}
+      ],
+      "addresses": [
+        {
+          "type": "business",
+          "address_lines": ["142 Greene St. #5 (h)", "New York, NY 10012"],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10012",
+          "country": "USA",
+          "notes": "Ford Models agency"
+        }
+      ],
+      "handwritten_notes": ["Ford Models", "(Hm)33 Nostrand Parkway", "Shelter Island, NY 11965"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Katie Ford - Ford Models agency executive"
+    },
+    {
+      "entry_id": "020_ford_tom_richard_buckley",
+      "name": {
+        "full_name": "Ford, Tom & Richard Buckley",
+        "prefix": null,
+        "first_name": "Tom",
+        "middle_name": null,
+        "last_name": "Ford",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Richard Buckley"
+      },
+      "phones": [
+        {"type": "home", "number": "011 44 207 899 3000", "formatting": "International to UK"}
+      ],
+      "emails": [
+        {"type": "personal", "email": "fxfarrier@aol.com"}
+      ],
+      "addresses": [],
+      "handwritten_notes": ["Email: fxfarrier@aol.com"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high"
+      },
+      "formatting_notes": "Tom Ford - fashion designer (Gucci/YSL)"
+    },
+    {
+      "entry_id": "020_forman_john",
+      "name": {
+        "full_name": "Forman John",
+        "prefix": null,
+        "first_name": "John",
+        "middle_name": null,
+        "last_name": "Forman",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "work", "number": "001 212 930 8545 (W)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Simple entry with work number"
+    },
+    {
+      "entry_id": "020_forman_johnathan",
+      "name": {
+        "full_name": "Forman Johnathan",
+        "prefix": null,
+        "first_name": "Johnathan",
+        "middle_name": null,
+        "last_name": "Forman",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "mobile", "number": "001 212 930 8545", "formatting": "International to US"},
+        {"type": "home", "number": "00 1212 684 1734", "formatting": "International to US"},
+        {"type": "home", "number": "(Hm)001 917 359 3280", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Multiple US numbers"
+    },
+    {
+      "entry_id": "020_formby_nicola",
+      "name": {
+        "full_name": "Formby, Nicola",
+        "prefix": null,
+        "first_name": "Nicola",
+        "middle_name": null,
+        "last_name": "Formby",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "pager", "number": "07831 127575 (P)", "formatting": "UK mobile"},
+        {"type": "home", "number": "0207 352 3600 (N) 0207 352 0504", "formatting": "UK format"}
+      ],
+      "emails": [
+        {"type": "personal", "email": "formby@tueblonde.demon.co"}
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["4353 Fulham Road", "London, SW10 9TX"],
+          "city": "London",
+          "postal_code": "SW10 9TX",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": ["(A)"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "UK contact with pager"
+    },
+    {
+      "entry_id": "020_forte_rocco_aliai",
+      "name": {
+        "full_name": "Forte, Rocco & Aliai",
+        "prefix": null,
+        "first_name": "Rocco",
+        "middle_name": null,
+        "last_name": "Forte",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Aliai"
+      },
+      "phones": [
+        {"type": "home", "number": "0207-235 8585 (h)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["10 Lowndes Place", "London, SW1"],
+          "city": "London",
+          "postal_code": "SW1",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Rocco Forte - hotel chain owner"
+    },
+    {
+      "entry_id": "020_fox_andrew",
+      "name": {
+        "full_name": "Fox Andrew",
+        "prefix": null,
+        "first_name": "Andrew",
+        "middle_name": null,
+        "last_name": "Fox",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "00 61 3 822 0735(h)", "formatting": "International to Australia"},
+        {"type": "mobile", "number": "00 61 3 206075", "formatting": "International to Australia"},
+        {"type": "work", "number": "00 613 206 030 00 613 869", "formatting": "International to Australia"},
+        {"type": "fax", "number": "00 613 869 8398 fax", "formatting": "International to Australia"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["8333(w)"],
+          "notes": "Australia - country code 61"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Australian contact"
+    },
+    {
+      "entry_id": "020_fox_william_lucinda",
+      "name": {
+        "full_name": "Fox, William & Lucinda",
+        "prefix": null,
+        "first_name": "William",
+        "middle_name": null,
+        "last_name": "Fox",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Lucinda"
+      },
+      "phones": [
+        {"type": "home", "number": "0208-675 5625 (h)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["110 Chesnut Grave", "London, SW12"],
+          "city": "London",
+          "postal_code": "SW12",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "UK couple"
+    },
+    {
+      "entry_id": "020_fraiser_violet",
+      "name": {
+        "full_name": "Fraiser, Violet",
+        "prefix": null,
+        "first_name": "Violet",
+        "middle_name": null,
+        "last_name": "Fraiser",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 917 414 0922", "formatting": "International to US"},
+        {"type": "home", "number": "212 242 5607(H)", "formatting": "US format"}
+      ],
+      "emails": [
+        {"type": "personal", "email": "vze2sxgv@verizon.net"}
+      ],
+      "addresses": [],
+      "handwritten_notes": ["Email: vze2sxgv@verizon.net"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high"
+      },
+      "formatting_notes": "US contact with Verizon email"
+    },
+    {
+      "entry_id": "020_francesco_de_la_garda",
+      "name": {
+        "full_name": "Francesco de la Garda, Mr",
+        "prefix": "Mr",
+        "first_name": "Francesco",
+        "middle_name": null,
+        "last_name": "de la Garda",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207-581 1044 (h)", "formatting": "UK format"},
+        {"type": "work", "number": "00 39 10 55081 (w)", "formatting": "International to Italy"},
+        {"type": "work", "number": "00 39 10 550830 (w)", "formatting": "International to Italy"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Cambi & 10 spa", "Via Roma 81A"],
+          "city": "Rome",
+          "country": "Italy",
+          "notes": "Italian business connection"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "medium"
+      },
+      "formatting_notes": "Italian contact with UK residence"
+    },
+    {
+      "entry_id": "020_francey_kathy",
+      "name": {
+        "full_name": "Francey, Kathy",
+        "prefix": null,
+        "first_name": "Kathy",
+        "middle_name": null,
+        "last_name": "Francey",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "pager", "number": "001 917 497 4519 (p)", "formatting": "International to US"},
+        {"type": "home", "number": "001 212 794 0747 (h)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "US contact with pager"
+    },
+    {
+      "entry_id": "020_fraysse_isabel",
+      "name": {
+        "full_name": "Fraysse, Isabel",
+        "prefix": null,
+        "first_name": "Isabel",
+        "middle_name": null,
+        "last_name": "Fraysse",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "60 33 1 4277 9108 (h)", "formatting": "International to France"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["14 rue des Filles", "Calvaire Paris, 75003"],
+          "city": "Paris",
+          "postal_code": "75003",
+          "country": "France"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Paris contact"
+    },
+    {
+      "entry_id": "020_freud_mathew",
+      "name": {
+        "full_name": "Freud Mathew",
+        "prefix": null,
+        "first_name": "Mathew",
+        "middle_name": null,
+        "last_name": "Freud",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "mobile", "number": "0207-291 6400", "formatting": "UK format"},
+        {"type": "mobile", "number": "0410 637383", "formatting": "Mobile number"},
+        {"type": "work", "number": "0207-351 2626 (w)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Freud family member - PR executive"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 19,
+    "legibility": "excellent",
+    "page_condition": "good",
+    "notes": "Notable entries include Steve Forbes (publisher/politician), Tom Ford (fashion designer), Katie Ford (modeling agency), Rocco Forte (hotelier), and Matthew Freud (PR executive)"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Flick Mook",
+      "Bobby Foman",
+      "Jeanette Foman",
+      "Zandy Forbes",
+      "Chris Forbes (Kip)",
+      "Astrid Forbes",
+      "Steve Forbes",
+      "Sabine Forbes",
+      "Katie Ford",
+      "Tom Ford",
+      "Richard Buckley",
+      "John Forman",
+      "Johnathan Forman",
+      "Nicola Formby",
+      "Rocco Forte",
+      "Aliai Forte",
+      "Andrew Fox",
+      "William Fox",
+      "Lucinda Fox",
+      "Violet Fraiser",
+      "Francesco de la Garda",
+      "Kathy Francey",
+      "Isabel Fraysse",
+      "Mathew Freud"
+    ],
+    "organizations": [
+      "Forbes Magazine",
+      "Ford Models",
+      "Gucci",
+      "Yves Saint Laurent",
+      "Forte Hotels"
+    ],
+    "locations": [
+      "London, UK",
+      "New York, NY",
+      "Far Hills, NJ",
+      "Bedminster, NJ",
+      "Paris, France",
+      "Rome, Italy",
+      "Australia"
+    ]
+  },
+  "insights": [
+    "Strong presence of Forbes family members - magazine publishing dynasty",
+    "Steve Forbes entry - notable as presidential candidate and Forbes Magazine chairman",
+    "Tom Ford listed with partner Richard Buckley - prominent fashion designer",
+    "Katie Ford from Ford Models - major modeling agency connection",
+    "Rocco Forte - UK hotel chain owner, hospitality industry connection",
+    "Matthew Freud - part of Freud family, prominent UK PR executive",
+    "Mix of fashion (Ford, Ford Models), media (Forbes), hospitality (Forte) industries",
+    "International contacts spanning UK, US, France, Italy, Australia",
+    "Several couples listed together indicating social/personal relationships",
+    "High concentration of Manhattan/NYC addresses among US contacts"
+  ]
+}

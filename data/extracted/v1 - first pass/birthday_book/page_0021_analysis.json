@@ -1,0 +1,151 @@
+{
+  "page_number": 21,
+  "type": "handwritten_letter_continued",
+  "content": {
+    "text": "Complete page 2 of Paula's letter with all text",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "I recall you refused to go to sleep\nunless I read a story from Grandma's\nGolden Book that she bought for 25¢.\nGrandma visited us every Saturday.\ntoday you are still an Avid reader -\nBooks cost ? dollars.\n\nI knew you were an excellent\nStudent because your report cards were\n\"A plus\" AT PTA meetings I begged your\nTeachers to help improve your\nhandwriting.\n\nAt age 5 you had your first\naccordion lesson. Lessons later, Teacher\nMr. Matos booked you in Carnegie Hall.\nyou won prizes in Prospect Park, Central\nPark & other local competitive prizes.\nToday: Do you know where\nyour accordion is?\n\nYou also played at your Bar Mitzvah\nAnd Uncle Lenny's Bar Mitzvah. (2)\n\nHOUSE_OVERSIGHT_000021",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Grandma",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          21
+        ]
+      },
+      {
+        "name": "Mr. Matos",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          21
+        ]
+      },
+      {
+        "name": "Uncle Lenny",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          21
+        ]
+      }
+    ],
+    "organizations": [
+      "PTA",
+      "Carnegie Hall"
+    ],
+    "locations": [
+      "Carnegie Hall",
+      "Prospect Park",
+      "Central Park"
+    ],
+    "dates": [
+      "Age 5 (accordion lessons)",
+      "Bar Mitzvah (age 13)"
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Mother (Paula)",
+    "recipient": "Jeff (Jeffrey Epstein)",
+    "date": "2003",
+    "subject": "Childhood memories continued",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "handwritten_letter_continued"
+  },
+  "relationships": [
+    "Grandma visited weekly",
+    "Mr. Matos was accordion teacher",
+    "Uncle Lenny - family member"
+  ],
+  "insights": [
+    "Bedtime ritual: refused sleep without Grandma's Golden Book story",
+    "Golden Book cost 25¢ (not $5 as initially transcribed)",
+    "Grandma visited every Saturday - regular family contact",
+    "'still an Avid reader' - lifelong reading habit",
+    "Books cost comparison: 25¢ then vs dollar now",
+    "Straight 'A plus' student - exceptional academic performance",
+    "PTA meetings: mother advocated for handwriting improvement",
+    "Poor handwriting despite academic excellence",
+    "Started accordion at age 5 - early musical training",
+    "Mr. Matos (teacher) booked Carnegie Hall performance",
+    "Won competitions at Prospect Park and Central Park",
+    "'other local competitive prizes' - multiple wins",
+    "Mother asks: 'Do you know where your accordion is?'",
+    "Performed at own Bar Mitzvah (age 13)",
+    "Also played at Uncle Lenny's Bar Mitzvah",
+    "Page 2 of mother's multi-page letter"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000021",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.130161",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": true,
+    "high_priority": false,
+    "quality_score": 95,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Handwriting continues from page 1 - same author (Paula)",
+    "25¢ not $5 - important detail about era/economy",
+    "Carnegie Hall performance significant achievement",
+    "Uncle Lenny - extended family member identified",
+    "Accordion prominently featured - matches page 11 business card"
+  ],
+  "investigative_leads": [
+    "Research Carnegie Hall youth performances records",
+    "Identify Mr. Matos - accordion teacher",
+    "Locate competition records from NYC parks",
+    "Identify Uncle Lenny (Leonard) in family tree",
+    "Track what happened to accordion career"
+  ]
+}

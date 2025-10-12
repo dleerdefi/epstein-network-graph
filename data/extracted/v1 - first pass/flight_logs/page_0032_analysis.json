@@ -1,0 +1,261 @@
+{
+  "page_number": 32,
+  "document_type": "Flight Log",
+  "metadata": {
+    "time_period": "November 1994 - January 1995",
+    "pilot": "David Rodgers",
+    "aircraft_registration": "N909GA",
+    "aircraft_make_model": "G1159B N909GA",
+    "total_flight_time_page": "62:48",
+    "amt_forward": "6412:25",
+    "total_to_date": "6475:13"
+  },
+  "flights": [
+    {
+      "date": "11/28/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "SBEZ",
+      "arrival": "SBRJ",
+      "flight_time": "6:14",
+      "passengers": "JE, GM",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "11/29/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "SBRJ",
+      "arrival": "TJCG",
+      "flight_time": "6:20",
+      "passengers": "JE, GM",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "11/29/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "TJCG",
+      "arrival": "PBI",
+      "flight_time": "6:21",
+      "passengers": "JE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "11/29/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "6:23",
+      "passengers": "JE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/03/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "6:15",
+      "passengers": "JE, CHEZNEY",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/10/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "PBI",
+      "arrival": "PBI",
+      "flight_time": "6:01",
+      "passengers": "REPOSITIONING",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/16/94",
+      "aircraft": "H3125-700 N918GA",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "6:20",
+      "passengers": "JE, SOPHIE BIDMEAD, GEORGINA SANDFORD",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/16/94",
+      "aircraft": "H3125-700 N918GA",
+      "departure": "PBI",
+      "arrival": "STT",
+      "flight_time": "6:11",
+      "passengers": "SENT LANDSPINNER",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/19/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "6:22",
+      "passengers": "JE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/21/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "6:14",
+      "passengers": "JE, SOPHIE BIDMEAD, ROBERT",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "12/30/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "6:15",
+      "passengers": "JE, 2 FEMALES",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/05/95",
+      "aircraft": "G1159B N909GA",
+      "departure": "TEB",
+      "arrival": "CMH",
+      "flight_time": "6:05",
+      "passengers": "JE, 1 FEMALE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/06/95",
+      "aircraft": "G1159B N909GA",
+      "departure": "CMH",
+      "arrival": "PBI",
+      "flight_time": "6:02",
+      "passengers": "JE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/08/95",
+      "aircraft": "G1159B N909GA",
+      "departure": "PBI",
+      "arrival": "LDO",
+      "flight_time": "6:37",
+      "passengers": "JE, SOPHIE BIDMEAD, ANN MELLON AND BOBBY",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/08/95",
+      "aircraft": "G1159B N909GA",
+      "departure": "LDO",
+      "arrival": "TEB",
+      "flight_time": "6:16",
+      "passengers": "JE, [INDISTINCT PASSENGER LIST]",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/13/95",
+      "aircraft": "G1159B N909GA",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "6:01",
+      "passengers": "JE, AVRICK OXFORD, LORI, 1 FEMALE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/17/95",
+      "aircraft": "G1159B N909GA",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "6:41",
+      "passengers": "JE, GM, ANDY STEWART",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/19/95",
+      "aircraft": "G1159B N909GA",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "6:41",
+      "passengers": "JE, GM",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/21/95",
+      "aircraft": "G1159B N909GA",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "6:42",
+      "passengers": "JE, GM",
+      "endorsements": "",
+      "aircraft_category": "II"
+    }
+  ],
+  "entities": {
+    "people": [
+      {"name": "Jeffrey Epstein", "abbreviation": "JE", "role": "Primary passenger"},
+      {"name": "Ghislaine Maxwell", "abbreviation": "GM", "role": "Frequent passenger"},
+      {"name": "[Unknown Chezney]", "abbreviation": "CHEZNEY", "role": "Passenger"},
+      {"name": "Sophie Bidmead", "abbreviation": "SOPHIE BIDMEAD", "role": "Passenger"},
+      {"name": "Georgina Sandford", "abbreviation": "GEORGINA SANDFORD", "role": "Passenger"},
+      {"name": "[Unknown Robert]", "abbreviation": "ROBERT", "role": "Passenger"},
+      {"name": "Ann Mellon", "abbreviation": "ANN MELLON", "role": "Passenger"},
+      {"name": "[Unknown Bobby]", "abbreviation": "BOBBY", "role": "Passenger"},
+      {"name": "Avrick Oxford", "abbreviation": "AVRICK OXFORD", "role": "Passenger"},
+      {"name": "[Unknown Lori]", "abbreviation": "LORI", "role": "Passenger"},
+      {"name": "Andy Stewart", "abbreviation": "ANDY STEWART", "role": "Passenger"},
+      {"name": "David Rodgers", "abbreviation": "", "role": "Pilot"}
+    ],
+    "locations": [
+      {"code": "SBEZ", "name": "[Brazilian Airport SBEZ]", "location": "Brazil"},
+      {"code": "SBRJ", "name": "Santos Dumont Airport", "location": "Rio de Janeiro, Brazil"},
+      {"code": "TJCG", "name": "[Caribbean Airport TJCG]", "location": "Caribbean"},
+      {"code": "PBI", "name": "Palm Beach International Airport", "location": "West Palm Beach, FL"},
+      {"code": "TEB", "name": "Teterboro Airport", "location": "Teterboro, NJ"},
+      {"code": "CMH", "name": "John Glenn Columbus International Airport", "location": "Columbus, OH"},
+      {"code": "STT", "name": "Cyril E. King Airport", "location": "St. Thomas, US Virgin Islands"},
+      {"code": "LDO", "name": "[Unknown Airport LDO]", "location": "Unknown"}
+    ],
+    "aircraft": [
+      {"registration": "N909GA", "type": "Gulfstream G1159B", "category": "Private Jet"},
+      {"registration": "N918GA", "type": "Hawker H3125-700", "category": "Private Jet"}
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {"location": "bottom_left", "description": "David Rodgers pilot signature", "legibility": "clear"}
+    ],
+    "stamps": [],
+    "markings": [
+      {"type": "page_number", "content": "32", "location": "bottom_center"}
+    ]
+  },
+  "insights": [
+    "First flights into 1995 calendar year (January entries)",
+    "Continued Brazilian operations with SBRJ (Santos Dumont Airport, Rio)",
+    "Introduction of Caribbean destination TJCG",
+    "Multiple aircraft usage: both N909GA and N918GA in December",
+    "St. Thomas, US Virgin Islands (STT) appears as new destination",
+    "Complex international routing: Brazil → Caribbean → US",
+    "New passengers include Sophie Bidmead, Georgina Sandford, Ann Mellon",
+    "Andy Stewart appears as passenger in January 1995",
+    "Year transition from 1994 to 1995 maintains regular operations",
+    "LDO continues as mystery destination with longer flight times",
+    "Repositioning flight at PBI suggests maintenance activities",
+    "Female passengers often identified generically as '1 FEMALE' or '2 FEMALES'",
+    "Ghislaine Maxwell less frequent in December-January period",
+    "International operations expand to include multiple South American and Caribbean stops",
+    "Total flight time of 62:48 hours indicates very active period"
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "page_number": 32,
+  "file_path": "data/birthday_book_images/page_0032.png",
+  "file_size_mb": 3.4644575119018555,
+  "type": "childhood_photo",
+  "content": {
+    "text": "TO SIMPLER DAYS. HAPPY 50th MARK",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "TO SIMPLER DAYS. HAPPY 50th MARK",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Mark Epstein",
+        "title": null,
+        "relationship": "Brother of Jeffrey Epstein",
+        "context": "Born 1954, younger brother giving childhood photo for 50th birthday",
+        "confidence": "high",
+        "page_appearances": [
+          32
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "50th"
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Mark Epstein (brother)",
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "50th birthday wishes with childhood photo",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "childhood_photo"
+  },
+  "insights": [
+    "Photo given as nostalgic gift for Jeffrey's 50th birthday (2003)",
+    "Mark Epstein sharing childhood photo of him and Jeffrey",
+    "Photo likely shows Jeffrey (b. 1953) and Mark (b. 1954) as children",
+    "'TO SIMPLER DAYS' expresses nostalgia for childhood/past",
+    "Photo likely shows birthday recipient as child",
+    "Professional portrait indicates middle-class/affluent family",
+    "Age gap suggests siblings approximately 3-5 years apart",
+    "Photo carefully preserved for decades before gifting",
+    "Studio portrait style consistent with 1950s-1960s era",
+    "Jeffrey born Jan 20, 1953, Mark born 1954 - photo from mid-1950s",
+    "Age difference of approximately 1 year between brothers",
+    "MARK has access to recipient's childhood photos",
+    "Intimate nature of gift suggests close personal bond"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000032",
+  "processed_at": "2025-09-23 02:15:32",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.134531",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Black and white/sepia professional portrait of two young children",
+        "individual_count": 2,
+        "position_map": {
+          "person_1": "Left side, older child (4-6 years old)",
+          "person_2": "Right side, baby/toddler (6-12 months old)"
+        },
+        "individuals_identified": [
+          {
+            "position": "left",
+            "age_estimate": "4-6 years",
+            "description": "Older child with dark short hair, broad smile, checkered/gingham shirt, dark shorts",
+            "posture": "Sitting, holding younger child"
+          },
+          {
+            "position": "right",
+            "age_estimate": "6-12 months",
+            "description": "Baby/toddler with light sparse hair, alert expression, light colored outfit",
+            "posture": "Being held/supported by older child"
+          }
+        ],
+        "setting": "Professional portrait studio with plain light background",
+        "era_indicators": [
+          "Photo style suggests 1940s-1960s",
+          "Square format with white border typical of era",
+          "Children's clothing style matches mid-20th century",
+          "Professional studio portrait setup"
+        ],
+        "photo_quality": "Well-preserved, clear details visible",
+        "photo_type": "Professional studio portrait"
+      }
+    ],
+    "signatures": [
+      {
+        "identified_as": "Mark",
+        "confidence": "medium",
+        "style": null,
+        "characteristics": [],
+        "location": null,
+        "matches_pages": []
+      }
+    ],
+    "logos": [],
+    "redactions": []
+  },
+  "relationships": [
+    {
+      "person1": "Mark Epstein",
+      "person2": "Jeffrey Epstein",
+      "type": "brothers",
+      "context": "Younger brother giving childhood photo for 50th birthday"
+    },
+    {
+      "person1": "Child 1 in photo",
+      "person2": "Child 2 in photo",
+      "type": "probable siblings",
+      "context": "Age difference and intimate pose suggest siblings"
+    }
+  ],
+  "cross_references": [
+    {
+      "page": 31,
+      "connection": "Mark Epstein mentioned - father works for Mark",
+      "confidence": "high"
+    }
+  ],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": ["TO SIMPLER DAYS. HAPPY 50th MARK"],
+    "characteristics": [
+      "All capital letters",
+      "Clean, deliberate printing",
+      "Consistent letter sizing",
+      "Black ink",
+      "Located upper right of photograph"
+    ],
+    "matches": [
+      {
+        "page": 31,
+        "name": "MARK",
+        "confidence": "possible match as employer mentioned"
+      }
+    ],
+    "expert_notes": [
+      "Printed rather than cursive signature",
+      "Careful lettering suggests intentional presentation"
+    ]
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Photo mounted/attached to album page",
+    "Original vintage print, not reproduction",
+    "Professional studio portrait from mid-20th century",
+    "Photo border and paper quality indicate era authenticity",
+    "Preservation quality suggests careful storage"
+  ],
+  "investigative_leads": [
+    "MARK identity - possible match to employer from page 31",
+    "Identity of children in photograph",
+    "Original date of photograph (estimate 1950s-1960s)",
+    "Relationship between MARK and birthday recipient",
+    "Significance of sharing childhood photo"
+  ]
+}

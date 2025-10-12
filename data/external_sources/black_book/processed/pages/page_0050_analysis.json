@@ -1,0 +1,1059 @@
+{
+  "page_number": 50,
+  "alphabetical_section": "S",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "050_shuster_susie",
+      "name": {
+        "full_name": "Shuster Susie",
+        "prefix": null,
+        "first_name": "Susie",
+        "middle_name": null,
+        "last_name": "Shuster",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 556 8572",
+          "formatting": "001 212 556 8572 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 877 9371",
+          "formatting": "001 212 877 9371 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "050_siegal_peggy",
+      "name": {
+        "full_name": "Siegal, Peggy",
+        "prefix": null,
+        "first_name": "Peggy",
+        "middle_name": null,
+        "last_name": "Siegal",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212-570-0084 (hF)",
+          "formatting": "212-570-0084 (hF)"
+        },
+        {
+          "type": "unknown",
+          "number": "212-966-4277 (wF)",
+          "formatting": "212-966-4277 (wF)"
+        },
+        {
+          "type": "work",
+          "number": "212-966-5000",
+          "formatting": "212-966-5000"
+        },
+        {
+          "type": "home",
+          "number": "212-570-9804",
+          "formatting": "212-570-9804"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "125 East 74th, #4c"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "050_siegal_peggy",
+      "name": {
+        "full_name": "Siegal, Peggy",
+        "prefix": null,
+        "first_name": "Peggy",
+        "middle_name": null,
+        "last_name": "Siegal",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "201-615-1837 (ca)",
+          "formatting": "201-615-1837 (ca)"
+        },
+        {
+          "type": "portable",
+          "number": "917-783-4113",
+          "formatting": "917-783-4113 (NYC mobile)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "peggyslegal@aol.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "270 Lafayette St., Suite 404"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10012",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "050_siegel_william_/_bill",
+      "name": {
+        "full_name": "Siegel, William / Bill",
+        "prefix": null,
+        "first_name": "William / Bill",
+        "middle_name": null,
+        "last_name": "Siegel",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "212 421 0200",
+          "formatting": "212 421 0200"
+        },
+        {
+          "type": "home",
+          "number": "212 759 4100",
+          "formatting": "212 759 4100"
+        }
+      ],
+      "emails": [
+        {
+          "address": "bsiegel@chriscraft.net",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "767 5th Avenue 46th fl."
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10153",
+          "country": "US",
+          "notes": "Fifth Avenue luxury"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Chris-Craft Industries"
+    },
+    {
+      "entry_id": "050_siegel_william_/_bill",
+      "name": {
+        "full_name": "Siegel, William / Bill",
+        "prefix": null,
+        "first_name": "William / Bill",
+        "middle_name": null,
+        "last_name": "Siegel",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 759 7653 (wf)",
+          "formatting": "212 759 7653 (wf)"
+        },
+        {
+          "type": "portable",
+          "number": "917 741 2189",
+          "formatting": "917 741 2189 (NYC mobile)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "The Regency Hotel, 540 Park Ave."
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Chris-Craft Industries"
+    },
+    {
+      "entry_id": "050_sieghart_william",
+      "name": {
+        "full_name": "Sieghart, William",
+        "prefix": null,
+        "first_name": "William",
+        "middle_name": null,
+        "last_name": "Sieghart",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0208-968 8352",
+          "formatting": "0208-968 8352 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "75 Oxford Gardens"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W10",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "050_silver_ron",
+      "name": {
+        "full_name": "Silver Ron",
+        "prefix": null,
+        "first_name": "Ron",
+        "middle_name": null,
+        "last_name": "Silver",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 914 723 5712",
+          "formatting": "001 914 723 5712 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 212 838 4900",
+          "formatting": "001 212 838 4900 (International)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 869 8545",
+          "formatting": "001 212 869 8545 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 838 4900",
+          "formatting": "001 212 838 4900 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "050_silverman_nancy_&_henry",
+      "name": {
+        "full_name": "Silverman, Nancy",
+        "prefix": null,
+        "first_name": "Nancy & Henry",
+        "middle_name": null,
+        "last_name": "Silverman",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Henry"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212-472-7601 (hF)",
+          "formatting": "212-472-7601 (hF)"
+        },
+        {
+          "type": "home",
+          "number": "001 212-535-3232",
+          "formatting": "001 212-535-3232 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "henry.silverman@cendant.c",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "4 East 72nd Street, 11th Floor"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "050_silverman_nancy_&_henry",
+      "name": {
+        "full_name": "Silverman, Nancy",
+        "prefix": null,
+        "first_name": "Nancy & Henry",
+        "middle_name": null,
+        "last_name": "Silverman",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Henry"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212-421-9813 (wF)",
+          "formatting": "212-421-9813 (wF)"
+        },
+        {
+          "type": "unknown",
+          "number": "212-265-1232 (wF)",
+          "formatting": "212-265-1232 (wF)"
+        },
+        {
+          "type": "portable",
+          "number": "917-991-1383 (car phone)",
+          "formatting": "917-991-1383 (car phone) (NYC mobile)"
+        },
+        {
+          "type": "unknown",
+          "number": "888-993-9545 (boat phone)",
+          "formatting": "888-993-9545 (boat phone)"
+        },
+        {
+          "type": "work",
+          "number": "212-421-6080",
+          "formatting": "212-421-6080"
+        },
+        {
+          "type": "portable",
+          "number": "917-861-2227",
+          "formatting": "917-861-2227 (NYC mobile)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "9 West 57th St."
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10019",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "050_simon_bren",
+      "name": {
+        "full_name": "Simon, Bren",
+        "prefix": null,
+        "first_name": "Bren",
+        "middle_name": null,
+        "last_name": "Simon",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 317 844 9467",
+          "formatting": "001 317 844 9467 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 317 726 0665",
+          "formatting": "001 317 726 0665 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "tesha310@aol.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "10110 Ditch Rd."
+          ],
+          "city": "Carmel",
+          "state": null,
+          "postal_code": "IN 46032",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "MBS Associates, LLC"
+    },
+    {
+      "entry_id": "050_simon_bren",
+      "name": {
+        "full_name": "Simon, Bren",
+        "prefix": null,
+        "first_name": "Bren",
+        "middle_name": null,
+        "last_name": "Simon",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 317 726 0741 (hf)",
+          "formatting": "001 317 726 0741 (hf) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 317 844 9450 (wf)",
+          "formatting": "001 317 844 9450 (wf) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "970 920 2113",
+          "formatting": "970 920 2113"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "8545 Olde Mill Run"
+          ],
+          "city": "Indianapolis",
+          "state": null,
+          "postal_code": "IN 46260",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "MBS Associates, LLC"
+    },
+    {
+      "entry_id": "050_simpson_(caruth)_sophie",
+      "name": {
+        "full_name": "Simpson (Caruth), Sophie",
+        "prefix": null,
+        "first_name": "Sophie",
+        "middle_name": null,
+        "last_name": "Simpson (Caruth)",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Caruth"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-373 0124",
+          "formatting": "0207-373 0124 (UK London)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "simpson@artistsindependen",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "050_sindi_rena_&_sami",
+      "name": {
+        "full_name": "Sindi, Rena",
+        "prefix": null,
+        "first_name": "Rena & Sami",
+        "middle_name": null,
+        "last_name": "Sindi",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Sami"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "01 212 734 3236",
+          "formatting": "01 212 734 3236"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "813 Park Avenue, 10th Floor"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": "Upper East Side elite"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "050_slayton_bobby",
+      "name": {
+        "full_name": "Slayton Bobby",
+        "prefix": null,
+        "first_name": "Bobby",
+        "middle_name": null,
+        "last_name": "Slayton",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 818 995 3913",
+          "formatting": "001 818 995 3913 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 310 995 0493",
+          "formatting": "001 310 995 0493 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "050_smith_osborne",
+      "name": {
+        "full_name": "Smith Osborne",
+        "prefix": null,
+        "first_name": "Osborne",
+        "middle_name": null,
+        "last_name": "Smith",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0208-609 2177",
+          "formatting": "0208-609 2177 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "19 Sitwell Gdns"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W4",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "050_smith_peterson_noona",
+      "name": {
+        "full_name": "Smith Peterson, Noona",
+        "prefix": null,
+        "first_name": "Noona",
+        "middle_name": null,
+        "last_name": "Smith Peterson",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 392 7200 4527",
+          "formatting": "00 392 7200 4527 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "050_smith_james",
+      "name": {
+        "full_name": "Smith, James",
+        "prefix": null,
+        "first_name": "James",
+        "middle_name": null,
+        "last_name": "Smith",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "44 (0) 1623 836978 (o)",
+          "formatting": "44 (0) 1623 836978 (o)"
+        },
+        {
+          "type": "unknown",
+          "number": "44 (0) 1623 862950 (f)",
+          "formatting": "44 (0) 1623 862950 (f)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "office@egistrust.org",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "UK Head Office, P.O. Box 2002, Nottinghamshire"
+          ],
+          "city": "Newark",
+          "state": null,
+          "postal_code": "NG22 9ZG",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Aegis Trust"
+    },
+    {
+      "entry_id": "050_snyder_maria",
+      "name": {
+        "full_name": "Snyder, Maria",
+        "prefix": null,
+        "first_name": "Maria",
+        "middle_name": null,
+        "last_name": "Snyder",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 247 3679",
+          "formatting": "001 212 247 3679 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 274 9577",
+          "formatting": "001 212 274 9577 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "466 Washington Street Suite 4E"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10013",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "050_soames_rupert_&_milly",
+      "name": {
+        "full_name": "Soames, Rupert",
+        "prefix": null,
+        "first_name": "Rupert & Milly",
+        "middle_name": null,
+        "last_name": "Soames",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Milly"
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0208-879 1188",
+          "formatting": "0208-879 1188 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "01296 651225",
+          "formatting": "01296 651225"
+        }
+      ],
+      "emails": [
+        {
+          "address": "rupert.soames@misys.co.uk",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "The Wilderness Upper, Aylesbury Bucks"
+          ],
+          "city": "Winchendon",
+          "state": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Bank Misys Chief Executive"
+    },
+    {
+      "entry_id": "050_soames_rupert_&_milly",
+      "name": {
+        "full_name": "Soames, Rupert",
+        "prefix": null,
+        "first_name": "Rupert & Milly",
+        "middle_name": null,
+        "last_name": "Soames",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Milly"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0208-879 7885 (wf)",
+          "formatting": "0208-879 7885 (wf) (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "01844 299 543 (hf)",
+          "formatting": "01844 299 543 (hf)"
+        },
+        {
+          "type": "work",
+          "number": "00 33 1 4080 5403",
+          "formatting": "00 33 1 4080 5403 (International)"
+        },
+        {
+          "type": "work",
+          "number": "0208-486 1813 (direct)",
+          "formatting": "0208-486 1813 (direct) (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "00 33 1 4887 3326",
+          "formatting": "00 33 1 4887 3326 (International)"
+        },
+        {
+          "type": "home",
+          "number": "01844-299 540",
+          "formatting": "01844-299 540"
+        },
+        {
+          "type": "portable",
+          "number": "07831-487 487",
+          "formatting": "07831-487 487"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Misys Plc, Burleigh House, Worcestershire"
+          ],
+          "city": "Chapel Oak",
+          "state": null,
+          "postal_code": "WR11 5SH",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Bank Misys Chief Executive"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 20,
+    "entries_with_emails": 7,
+    "entries_with_addresses": 15,
+    "entries_with_handwritten_notes": 0,
+    "couples": 5,
+    "average_confidence": "high",
+    "notable_figures_count": 0
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Shuster Susie",
+      "Siegal, Peggy",
+      "Siegal, Peggy",
+      "Siegel, William / Bill",
+      "Siegel, William / Bill",
+      "Sieghart, William",
+      "Silver Ron",
+      "Silverman, Nancy",
+      "Henry",
+      "Silverman, Nancy",
+      "Henry",
+      "Simon, Bren",
+      "Simon, Bren",
+      "Simpson (Caruth), Sophie",
+      "Sindi, Rena",
+      "Sami",
+      "Slayton Bobby",
+      "Smith Osborne",
+      "Smith Peterson, Noona",
+      "Smith, James",
+      "Snyder, Maria",
+      "Soames, Rupert",
+      "Milly",
+      "Soames, Rupert",
+      "Milly"
+    ],
+    "organizations": [
+      "MBS Associates, LLC",
+      "MBS Associates, LLC"
+    ],
+    "locations": {
+      "international": [
+        "UK"
+      ],
+      "us_cities": [
+        "London",
+        "Newark",
+        "Indianapolis",
+        "Carmel",
+        "New York",
+        "Chapel Oak",
+        "Winchendon"
+      ],
+      "elite_addresses": [
+        "767 5th Avenue 46th fl.",
+        "813 Park Avenue, 10th Floor"
+      ]
+    }
+  },
+  "insights": [
+    "Geographic cluster: New York (8 entries)"
+  ]
+}

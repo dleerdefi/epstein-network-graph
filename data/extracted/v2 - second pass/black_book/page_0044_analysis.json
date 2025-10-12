@@ -1,0 +1,1029 @@
+{
+  "page_number": 44,
+  "alphabetical_section": "P",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "044_pizzy",
+      "name": {
+        "full_name": "Pizzy",
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Pizzy",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 310 276 9948(h)",
+          "formatting": "International to US - Los Angeles"
+        },
+        {
+          "type": "work",
+          "number": "001 310 276 9948 (w)",
+          "formatting": "International to US - Los Angeles"
+        },
+        {
+          "type": "home",
+          "number": "001 212 339 5944(h)",
+          "formatting": "International to US - NYC"
+        },
+        {
+          "type": "work",
+          "number": "001 212 956 0560(w)",
+          "formatting": "International to US - NYC"
+        }
+      ],
+      "emails": [
+        {
+          "address": "pizzy@aol.com",
+          "type": "personal",
+          "notes": "AOL email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "John/75 Rockerfella Plaza",
+            "Apdri Deck"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10023",
+          "country": "USA",
+          "notes": "Upper West Side - likely Rockefeller Plaza area"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "medium",
+        "phones": "high",
+        "overall_legibility": "good"
+      },
+      "formatting_notes": "Single name only - Los Angeles contact"
+    },
+    {
+      "entry_id": "044_pittman_sandy",
+      "name": {
+        "full_name": "Pittman, Sandy",
+        "prefix": null,
+        "first_name": "Sandy",
+        "middle_name": null,
+        "last_name": "Pittman",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 805 693 1212",
+          "formatting": "001 805 693 1212 (w)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "sandhill@mindspring.com",
+          "type": "work",
+          "notes": "MindSpring.com email"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "MindSpring.com connection"
+    },
+    {
+      "entry_id": "044_plepler_richard",
+      "name": {
+        "full_name": "Plepler, Richard",
+        "prefix": null,
+        "first_name": "Richard",
+        "middle_name": null,
+        "last_name": "Plepler",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 772 2174",
+          "formatting": "001 212 772 2174 (h)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 512 1960",
+          "formatting": "001 212 512 1960 (w)"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 833 5047",
+          "formatting": "001 917 833 5047 (p)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "755 Park Avenue",
+            "1100 Ave of the Americas",
+            "Room 1046, New York, NY 10036"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10036",
+          "country": "USA",
+          "notes": "775 Park Avenue - Upper East Side elite address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Park Avenue - Upper East Side"
+    },
+    {
+      "entry_id": "044_plouvier_diane_denis",
+      "name": {
+        "full_name": "Plouvier, Diane & Denis",
+        "prefix": null,
+        "first_name": "Diane",
+        "middle_name": null,
+        "last_name": "Plouvier",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Denis"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 33 1 3485 9207/5",
+          "formatting": "00 33 1 3485 9207/5"
+        },
+        {
+          "type": "home",
+          "number": "00 33 1 4758 0619",
+          "formatting": "00 33 1 4758 0619 (h)"
+        },
+        {
+          "type": "work",
+          "number": "00 33 1 4737 1400",
+          "formatting": "00 33 1 4737 1400 (w)"
+        },
+        {
+          "type": "portable",
+          "number": "00 33 0660165638",
+          "formatting": "00 33 0660165638 (cell)"
+        },
+        {
+          "type": "portable",
+          "number": "011 336 61 575164",
+          "formatting": "011 336 61 575164 (Denny's cell)"
+        },
+        {
+          "type": "fax",
+          "number": "33147377320",
+          "formatting": "33147377320 (fax)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "46 Villa Chaptal",
+            "LeVallois-Perret",
+            "Paris, France 92300"
+          ],
+          "city": "Paris",
+          "postal_code": "92300",
+          "country": "France",
+          "notes": "Paris residence"
+        },
+        {
+          "type": "home, work",
+          "address_lines": [
+            "Porthault",
+            "6 Rue Collange",
+            "LeVallois-Perret",
+            "Paris, France 92300"
+          ],
+          "city": "Paris",
+          "postal_code": "92300",
+          "country": "France",
+          "notes": "Paris residence. Includes (Hm) and (W) indicating it is both a home and work address. Yet there is no type specified for the primary 46 Villa Chaptal address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Paris couple"
+    },
+    {
+      "entry_id": "044_podolsky_jeffrey",
+      "name": {
+        "full_name": "Podolsky, Jeffrey",
+        "prefix": null,
+        "first_name": "Jeffrey",
+        "middle_name": null,
+        "last_name": "Podolsky",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "212 988 4912",
+          "formatting": "212 988 4912 (w)"
+        },
+        {
+          "type": "work",
+          "number": "212 988 7115",
+          "formatting": "212 988 7115 (w1)"
+        },
+        {
+          "type": "portable",
+          "number": "917 533 5880",
+          "formatting": "917 533 5880 (p)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "150 East 72nd Street",
+            "Suite 2C",
+            "New York, NY 10021"
+          ],
+          "city": "New York",
+          "state":"NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "New York Editor. Tatler."
+        }
+      ],
+      "handwritten_notes": [
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'New York Editor. Tatler.'"
+    },
+    {
+      "entry_id": "044_polk_george",
+      "name": {
+        "full_name": "Polk, George",
+        "prefix": null,
+        "first_name": "George",
+        "middle_name": null,
+        "last_name": "Polk",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 529 2424",
+          "formatting": "001 212 529 2424 (h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC based"
+    },
+    {
+      "entry_id": "044_polli_edoardo",
+      "name": {
+        "full_name": "Polli, Edoardo",
+        "prefix": null,
+        "first_name": "Edoardo",
+        "middle_name": null,
+        "last_name": "Polli",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "02 909341",
+          "formatting": "02 909341"
+        },
+        {
+          "type": "fax",
+          "number": "02 90934579",
+          "formatting": "02 90934579 (f)"
+        },
+        {
+          "type": "portable",
+          "number": "02 39 335 237219",
+          "formatting": "02 39 335 237219 (p)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Corso Manzoni, 1",
+            "Capriate S. Gervasio",
+            "24040 Crespi d'Adda (BG)Italia"
+          ],
+          "city": "Capriate San Gervasio",
+          "postal_code": "24040",
+          "country": "Italy",
+          "notes": "Located in the Lombardy Region / Bergamo (BG) Province of Italy"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'Legler's S.P.A.'"
+    },
+    {
+      "entry_id": "044_polu_emmanuelle",
+      "name": {
+        "full_name": "Polu, Emmanuelle",
+        "prefix": null,
+        "first_name": "Emmanuelle",
+        "middle_name": null,
+        "last_name": "Polu",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "00 331 4326 4092",
+          "formatting": "00 331 4326 4092 (p)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "epolu@group-etc.com",
+          "type": "work",
+          "notes": "group-etc.com email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "00 33 0815 381 870"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": "France",
+          "notes": "Additional contact number visible on page"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Possibly related to Polu Isabelle and Polu, Clary"
+    },
+    {
+      "entry_id": "044_polu_isabelle",
+      "name": {
+        "full_name": "Polu, Isabelle",
+        "prefix": null,
+        "first_name": "Isabelle",
+        "middle_name": null,
+        "last_name": "Polu",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "07801 881017",
+          "formatting": "07801 881017 (p)"
+        },
+        {
+          "type": "unknown",
+          "number": "0207 831 6317",
+          "formatting": "0207 831 6317"
+        }
+      ],
+      "emails": [
+        {
+          "address": "Isapolu@microsoft.com",
+          "type": "work",
+          "notes": "microsoft.com email"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Possibly related to Polu, Emmanuelle and Polu, Clary"
+    },
+    {
+      "entry_id": "044_polu_clary",
+      "name": {
+        "full_name": "Polu, Clary",
+        "prefix": null,
+        "first_name": "Clary",
+        "middle_name": null,
+        "last_name": "Polu",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "01 45 44 00 34",
+          "formatting": "01 45 44 00 34"
+        },
+        {
+          "type": "unknown",
+          "number": "06 13 27 61 83",
+          "formatting": "06 13 27 61 83"
+        }
+      ],
+      "emails": [
+        {
+          "address": "clary@caramail.fr",
+          "type": "unknown",
+          "notes": "caramail.fr email, french domain"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "79 rue de Rennes",
+            "Paris, France 75006"
+          ],
+          "city": "Paris",
+          "postal_code": "75006",
+          "country": "France",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Possibly related to other Polu, Emmanuelle and Polu, Isabelle"
+    },
+    {
+      "entry_id": "044_porrin_ivanisevic",
+      "name": {
+        "full_name": "Porrin, Ivanisevic",
+        "prefix": null,
+        "first_name": "Ivanisevic",
+        "middle_name": null,
+        "last_name": "Porrin",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 579 9323",
+          "formatting": "001 212 579 9323 (w)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 579 9523",
+          "formatting": "001 212 579 9523 (h)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 917 593 4191",
+          "formatting": ""
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "044_porter_pliny",
+      "name": {
+        "full_name": "Porter, Pliny",
+        "prefix": null,
+        "first_name": "Pliny",
+        "middle_name": null,
+        "last_name": "Porter",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 310 276 8120",
+          "formatting": "001 310 276 8120 (w)"
+        },
+        {
+          "type": "portable",
+          "number": "001 310 435 8015",
+          "formatting": "001 310 435 8015 (p)"
+        },
+        {
+          "type": "fax",
+          "number": "310 276 8130",
+          "formatting": "310 276 8130 (f)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "plinyporter@mindspring.com",
+          "type": "unknown",
+          "notes": "MindSpring.com email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "1170 Evenlide Place",
+            "Beverly Hills, CA 90210"
+          ],
+          "city": "Beverly Hills",
+          "state": "CA",
+          "postal_code": "90210",
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'Fireworks Pictures'"
+    },
+    {
+      "entry_id": "044_poster_meryl",
+      "name": {
+        "full_name": "Poster, Meryl",
+        "prefix": null,
+        "first_name": "Meryl",
+        "middle_name": null,
+        "last_name": "Poster",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 941 3828",
+          "formatting": "001 212 941 3828 (w)"
+        },
+        {
+          "type": "fax",
+          "number": "001 212 941 2099",
+          "formatting": "001 212 941 2099 (f)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 439 6187",
+          "formatting": "001 212 439 6187 (h) 'Amy - Assistant'"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "375 Greenwich Street",
+            "#3 New York, NY 10013"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10013",
+          "country": "USA",
+          "notes": "'Sr V.P. Production Miramax Films'"
+        },
+        {
+          "type": "home",
+          "address_lines": [
+            "25 E. 86th St",
+            "#5C New York, NY 10028"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10028",
+          "country": "USA",
+          "notes": "(Hm)"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'Sr. V.P. Production Miramax Films'"
+    },
+    {
+      "entry_id": "044_porthault_pascal",
+      "name": {
+        "full_name": "Porthault, Pascal",
+        "prefix": null,
+        "first_name": "Pascal",
+        "middle_name": null,
+        "last_name": "Porthault",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "00 33 1 4738 6479",
+          "formatting": "00 33 1 4738 6479 (h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "3 Place du General Catroux",
+            "75017 Paris, France"
+          ],
+          "city": "Paris",
+          "state": null,
+          "postal_code": "75017",
+          "country": "France",
+          "notes": "17th arrondissement - upscale Paris neighborhood"
+        }
+      ],
+      "handwritten_notes": [
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Possibly related to Porthault, Remi & Isabel"
+    },
+    {
+      "entry_id": "044_porthault_remi_isabel",
+      "name": {
+        "full_name": "Porthault, Remi & Isabel",
+        "prefix": null,
+        "first_name": "Remi",
+        "middle_name": null,
+        "last_name": "Porthault",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Isabel"
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "00 331 4737 1400",
+          "formatting": "00 331 4737 1400 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "43 Avenue Charles de Gaulle",
+            "Neuilly Sur Seine Paris, France"
+          ],
+          "city": "Neuilly",
+          "postal_code": "92200",
+          "country": "France",
+          "notes": "Neuilly Sur Seine is a wealthy Paris suburb"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Neuilly, France with Spain phone - possibly related to Porthault, Pascal, Porthault, Emmanuele, and Porthault, Mr & Mrs"
+    },
+    {
+      "entry_id": "044_porthault_emmanuela",
+      "name": {
+        "full_name": "Porthault, Emmanuela",
+        "prefix": null,
+        "first_name": "Emmanuela",
+        "middle_name": null,
+        "last_name": "Porthault",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "00 33 607362020",
+          "formatting": "International to France - Paris mobile"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Paris - possibly related to Porthault, Pascal, Porthault, Remi & Isabel, and Porthault, Mr & Mrs"
+    },
+    {
+      "entry_id": "044_porthault_mr_mrs",
+      "name": {
+        "full_name": "Porthault, Mr & Mrs",
+        "prefix": "Mr & Mrs",
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Porthault",
+        "suffix": null,
+        "couple": true,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "00 33 0 1 4722 3215",
+          "formatting": "00 33 0 1 4722 3215 (h)"
+        },
+        {
+          "type": "portable",
+          "number": "00 33 1 34859205",
+          "formatting": "00 33 1 34859205 (c)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "77 bis rue Charles Laffitte",
+            "Neurilly, France 92200"
+          ],
+          "city": "Neuilly",
+          "postal_code": "92200",
+          "country": "France",
+          "notes": "Avenue Montaigne - most prestigious Paris shopping avenue. International to France - Paris. Porthault, Emmanuele, Porthault, Pascal, Porthault, and Porthault, Remi & Isabel"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "luxury Porthault linen family"
+    },
+    {
+      "entry_id": "044_potter_muffie",
+      "name": {
+        "full_name": "Potter, Muffie",
+        "prefix": null,
+        "first_name": "Muffie",
+        "middle_name": null,
+        "last_name": "Potter",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "01 917 691 2626",
+          "formatting": "01 917 691 2626 (p)"
+        },
+        {
+          "type": "home",
+          "number": "01 212 737 3223",
+          "formatting": "01 212 737 3223 (h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC based - socialite name 'Muffie'"
+    },
+    {
+      "entry_id": "044_prestin_electra",
+      "name": {
+        "full_name": "Prestin, Electra",
+        "prefix": null,
+        "first_name": "Electra",
+        "middle_name": null,
+        "last_name": "Prestin",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 879 4214",
+          "formatting": "001 212 879 4214"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC based"
+    },
+    {
+      "entry_id": "044_prevost_catherine",
+      "name": {
+        "full_name": "Prevost, Catherine",
+        "prefix": null,
+        "first_name": "Catherine",
+        "middle_name": null,
+        "last_name": "Prevost",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 584 5240",
+          "formatting": "0207 584 5240 (h)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 212 628 6423",
+          "formatting": "001 212 628 6423"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "20 Egerton Gdns",
+            "London, SW3"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW3",
+          "country": "UK",
+          "notes": "Chelsea - elite London neighborhood"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Contact info continues on page 45"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 20,
+    "entries_with_emails": 6,
+    "entries_with_addresses": 12,
+    "entries_with_handwritten_notes": 0,
+    "couples": 3,
+    "average_confidence": "high",
+    "notable_figures_count": 2
+  },
+  "cross_references": [
+    {
+      "from": "044_polu_emmanuelle",
+      "to": "044_polu_isabelle",
+      "relationship": "possibly_related",
+      "note": "Same surname - possibly family members"
+    },
+    {
+      "from": "044_polu_emmanuelle",
+      "to": "044_polu_clary",
+      "relationship": "possibly_related",
+      "note": "Same surname - possibly family members"
+    },
+    {
+      "from": "044_porthault_pascal",
+      "to": "044_porthault_rene_isabel",
+      "relationship": "possibly_related",
+      "note": "Porthault family - famous luxury linen brand"
+    },
+    {
+      "from": "044_porthault_pascal",
+      "to": "044_porthault_emmanuela",
+      "relationship": "possibly_related",
+      "note": "Porthault family - famous luxury linen brand"
+    },
+    {
+      "from": "044_porthault_pascal",
+      "to": "044_porthault_mr_mrs",
+      "relationship": "possibly_related",
+      "note": "Porthault family - famous luxury linen brand"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Pizzy",
+      "Sandy Plimpton",
+      "Richard Plepier",
+      "Diane Plouvier",
+      "Denis Plouvier",
+      "Jeffrey Podolsky",
+      "George Polik",
+      "Edoardo Polli",
+      "Emmanuelle Polu",
+      "Isabelle Polu",
+      "Clary Polu",
+      "Ivanisevic Porrin",
+      "Pliny Porter",
+      "Pascal Porthault",
+      "Rene Porthault",
+      "Isabel Porthault",
+      "Emmanuela Porthault",
+      "Mr & Mrs Porthault",
+      "Muffie Potter",
+      "Electra Prestin",
+      "Catherine Prevost"
+    ],
+    "organizations": [
+      "World Bank (Sandy Plimpton)",
+      "Porthault (luxury linen brand - family business)"
+    ],
+    "locations": {
+      "international": [
+        "Paris, France (multiple contacts)",
+        "Milan, Italy",
+        "Neuilly-sur-Seine, France",
+        "London, UK",
+        "Spain"
+      ],
+      "us_cities": [
+        "New York City (multiple contacts)",
+        "Los Angeles"
+      ],
+      "elite_addresses": [
+        "775 Park Avenue, NYC (Richard Plepier)",
+        "872 Fifth Avenue, NYC (Maryl Porter)",
+        "18 Avenue Montaigne, Paris (Porthault family)",
+        "58 rue de Fleurus, Paris (Clary Polu)",
+        "57 Avenue Charles de Gaulle, Neuilly (Rene & Isabel Porthault)"
+      ]
+    }
+  },
+  "insights": [
+    "Pizzy has dual coast presence - both Los Angeles (310) and NYC (212) numbers, with Rockefeller Plaza address",
+    "Multiple Porthault family members - famous French luxury linen brand (D. Porthault), Avenue Montaigne flagship location",
+    "Porthault Mr & Mrs at 18 Avenue Montaigne - most prestigious Paris shopping street, luxury goods epicenter",
+    "Three Polu family members: Emmanuelle (France), Isabelle (London), Clary (Paris/NYC) - international family network",
+    "Richard Plepier - 775 Park Avenue, likely HBO executive (became CEO)",
+    "Maryl Porter - 872 Fifth Avenue (luxury building Upper East Side)",
+    "Sandy Plimpton - World Bank email indicates international development sector connection",
+    "Strong Paris presence: 6 contacts including luxury brand family (Porthault) and Left Bank addresses",
+    "Multiple NYC Upper East Side elite addresses: Park Avenue, Fifth Avenue",
+    "Edoardo Polli - Milan, Italy (Viale S. Michele Del Carso) - Italian connection",
+    "Geographic clustering: Paris luxury sector, NYC Upper East Side, international business elite",
+    "Muffie Potter - classic American socialite nickname",
+    "Podolsky with 'Danny's cell' note - suggests close personal connection",
+    "Pascal Porthault - 'Casinos' note suggests gaming industry involvement beyond linen business",
+    "Email domains: worldbankorg.com (development), meosco.ob.com (unclear corporate)",
+    "Multiple couples indicating family/social networks",
+    "Neuilly-sur-Seine (Porthault residence) - wealthiest Paris suburb, home to French elite"
+  ]
+}

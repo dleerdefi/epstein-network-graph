@@ -1,0 +1,100 @@
+{
+  "page_number": 108,
+  "file_path": "data/birthday_book_images/page_0108.png",
+  "file_size_mb": 0.11224555969238281,
+  "type": "section_divider",
+  "content": {
+    "text": "CHILDREN",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "description": "Section divider page with 'CHILDREN' written in chalk-like text on black background",
+    "text_sections": {
+      "full_transcription": "CHILDREN",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Section divider for children's contributions",
+    "theme": "children_section_marker",
+    "significance": "medium",
+    "document_type": "section_divider"
+  },
+  "insights": [
+    "Black page serves as section divider in birthday book",
+    "'CHILDREN' heading indicates following pages contain contributions from children",
+    "Chalk-like text on black background creates chalkboard aesthetic",
+    "Deliberate section organization shows structured compilation of birthday messages",
+    "Children's section suggests family friends or relatives contributed",
+    "Simple, bold presentation emphasizes transition to new content category",
+    "Placement after adult photos/messages creates clear delineation"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000108",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.173431",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": [],
+    "handwritten_notes": [
+      "CHILDREN (in large chalk-like letters)"
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Section divider with text 'CHILDREN'",
+    "Black background with white/gray chalk-style text",
+    "Mixed letter styles - some gray, some white",
+    "Letters appear hand-drawn or chalk-written",
+    "Indicates start of children's section in birthday book",
+    "Document stamped HOUSE_OVERSIGHT_000108",
+    "Stark contrast design for clear section separation"
+  ],
+  "investigative_leads": []
+}

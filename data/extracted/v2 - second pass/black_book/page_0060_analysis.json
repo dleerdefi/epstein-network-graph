@@ -1,0 +1,1028 @@
+{
+  "page_number": 60,
+  "alphabetical_section": "CONTACT LISTINGS",
+  "page_header": "Mixed contact entries and business/location listings",
+  "contacts": [
+    {
+      "entry_id": "060_po_box_4495",
+      "name": {
+        "full_name": "PO Box 4495",
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": null,
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "917 843 7840",
+          "formatting": "917 843 7840 (h)"
+        },
+        {
+          "type": "portable",
+          "number": "917 802 5754",
+          "formatting": "917 802 5754 Howie cell"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "PO Box 4495",
+            "Rock NY Central Station",
+            "NYC NY",
+            "10 163 5466"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10163",
+          "country": "USA",
+          "notes": "Central Station PO Box"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "low",
+        "phones": "high",
+        "addresses": "medium",
+        "overall_legibility": "good"
+      },
+      "formatting_notes": "PO Box entry - possibly incomplete contact"
+    },
+    {
+      "entry_id": "060_rueda_joseph_florina",
+      "name": {
+        "full_name": "Joseph & Florina Rueda",
+        "prefix": null,
+        "first_name": "Joseph",
+        "middle_name": null,
+        "last_name": "Rueda",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Florina"
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "917 690 8794",
+          "formatting": "917 690 8794 (Jp) [Joseph portable]"
+        },
+        {
+          "type": "portable",
+          "number": "917 499 7936",
+          "formatting": "917 499 7936 (Fp) [Florina portable]"
+        },
+        {
+          "type": "portable",
+          "number": "301 793 1695",
+          "formatting": "301 793 1695 (Fp) [Florina portable]"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "116 East 66th Street",
+            "New York, NY 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": ["Contact information for Joseph & Florina Rueda is circled in pen"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Couple with separate portable numbers noted"
+    },
+    {
+      "entry_id": "060_kellen_sarah",
+      "name": {
+        "full_name": "Kellen, Sarah",
+        "prefix": null,
+        "first_name": "Sarah",
+        "middle_name": null,
+        "last_name": "Kellen",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "917 855 3363",
+          "formatting": "917 855 3363 (p)"
+        },
+        {
+          "type": "home",
+          "number": "212 517 7580",
+          "formatting": "212 517 7580 (h)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "sarahlynnelle@hotmail.com",
+          "type": "personal",
+          "notes": "Hotmail email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "301 East 66th Street",
+            "Apt 10N",
+            "New York, NY 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side - same street as Rueda couple (116 E 66th)"
+        }
+      ],
+      "handwritten_notes": ["Contact information for Sarah Kellen is circled in pen"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Sarah Kellen - key Epstein associate"
+    },
+    {
+      "entry_id": "060_kelly_brian",
+      "name": {
+        "full_name": "Kelly, Brian",
+        "prefix": null,
+        "first_name": "Brian",
+        "middle_name": null,
+        "last_name": "Kelly",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "845 526 3716",
+          "formatting": "845 526 3716 (h,f) [assumed to mean both home and fax]"
+        },
+        {
+          "type": "portable",
+          "number": "914 804 6719",
+          "formatting": "914 804 6719 (p)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "67 Kayuga Rd.",
+            "Putnam Valley",
+            "NY 10579"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10579",
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "060_maxwell_ghislaine",
+      "name": {
+        "full_name": "Maxwell, Ghislaine",
+        "prefix": null,
+        "first_name": "Ghislaine",
+        "middle_name": null,
+        "last_name": "Maxwell",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "voicemail",
+          "number": "212 737 0335",
+          "formatting": "212 737 0335 Voicemail (Password 5356831)"
+        },
+        {
+          "type": "fax",
+          "number": "212 879 8204",
+          "formatting": "212 879 8204 (wf)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 879 2870",
+          "formatting": "212 879 2870 JE Line 3"
+        },
+        {
+          "type": "modem",
+          "number": "212 879 8013",
+          "formatting": "212 879 8013 Guest Modem"
+        },
+        {
+          "type": "unknown",
+          "number": "371432863",
+          "formatting": "371432863 Resale Number"
+        },
+        {
+          "type": "fax",
+          "number": "212 202 4941",
+          "formatting": "212 202 4941 New E-fax"
+        },
+        {
+          "type": "world connect",
+          "number": "1 800 335 4685",
+          "formatting": "1 800 335 4685 AT&T World Connect"
+        },
+        {
+          "type": "portable",
+          "number": "917 690 8794",
+          "formatting": "917 690 8794 Joseph (p)"
+        },
+        {
+          "type": "portable",
+          "number": "917 499 7936",
+          "formatting": "917 499 7936 Florina (p)"
+        },
+        {
+          "type": "world connect",
+          "number": "800 335 4685",
+          "formatting": "800 335 4685 World connect chip SIM"
+        },
+        {
+          "type": "portable",
+          "number": "917 842 5755",
+          "formatting": "917 842 5755 Scott cell"
+        },
+        {
+          "type": "home",
+          "number": "201 493 7847",
+          "formatting": "201 493 7847 Scott (h)"
+        },
+        {
+          "type": "unknown",
+          "number": "866 782 3274",
+          "formatting": "866 782 3274 Scott (w/ Howie)"
+        },
+        {
+          "type": "world connect",
+          "number": "916 843 4685",
+          "formatting": "916 843 4685 AT&T World Connect (outside US)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 879 9366",
+          "formatting": "212 879 9366 GM Line 1"
+        },
+        {
+          "type": "unknown",
+          "number": "212 879 2058",
+          "formatting": "212 879 2058 GM Line 2"
+        },
+        {
+          "type": "fax",
+          "number": "212 879 9459",
+          "formatting": "212 879 9459 (hf)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 535 7871",
+          "formatting": "212 535 7871 JE Line 2"
+        },
+        {
+          "type": "unknown",
+          "number": "212 535 5612",
+          "formatting": "212 535 5612 JE Line 1"
+        },
+        {
+          "type": "guest",
+          "number": "212 535 6831",
+          "formatting": "212 535 6831 Guest"
+        },
+        {
+          "type": "staff",
+          "number": "212 472 6991",
+          "formatting": "212 472 6991 Staff"
+        },
+        {
+          "type": "work",
+          "number": "212 535 3030",
+          "formatting": "212 535 3030 (w) Line 1"
+        },
+        {
+          "type": "work",
+          "number": "212 535 6833",
+          "formatting": "2212 535 6833 (w) Line 2"
+        },
+        {
+          "type": "work",
+          "number": "212 535 4384",
+          "formatting": "212 535 4384 (w) Line 3"
+        },
+        {
+          "type": "work",
+          "number": "212 535 5611",
+          "formatting": "212 535 5611 (w) Line 4"
+        },
+        {
+          "type": "office",
+          "number": "212 535 6837",
+          "formatting": "212 535 6837 Spare office"
+        },
+        {
+          "type": "office",
+          "number": "212 249 8510",
+          "formatting": "212 249 8510 71st St"
+        },
+        {
+          "type": "fax",
+          "number": "212 717 4672",
+          "formatting": "212 717 4672 71st St (f)"
+        },
+        {
+          "type": "portable",
+          "number": "917 520 3106",
+          "formatting": "917 520 3106 (p) try first"
+        },
+        {
+          "type": "portable",
+          "number": "917 497 4880",
+          "formatting": "917 497 4880 (p)"
+        },
+        {
+          "type": "GSM",
+          "number": "01144 7785 771552",
+          "formatting": "01144 7785 771552 GSM#"
+        },
+        {
+          "type": "tahoe",
+          "number": "917 494 9690",
+          "formatting": "917 494 9690 Tahoe-Line 1 (621)"
+        },
+        {
+          "type": "tahoe",
+          "number": "917 855 6931",
+          "formatting": "917 855 6931 Tahoe-Line 2"
+        },
+        {
+          "type": "unknown",
+          "number": "561 346 7141",
+          "formatting": "561 346 7141 PB Merc."
+        },
+        {
+          "type": "flight options",
+          "number": "1 877 358 9350",
+          "formatting": "1 877 358 9350 Flight Options"
+        },
+        {
+          "type": "garage",
+          "number": "212 744 5511",
+          "formatting": "212 744 5511 Tahoe Garage"
+        },
+        {
+          "type": "mailbox",
+          "number": "959084",
+          "formatting": "959084 Etrieve Mailbox#"
+        },
+        {
+          "type": "security code",
+          "number": "9366",
+          "formatting": "9366 Etrieve security code"
+        },
+        {
+          "type": "secuirty",
+          "number": "212 535 8817",
+          "formatting": "212 535 8817 Rich's Security"
+        }
+      ],
+      "emails": [
+        {
+          "address": "gmax1@mindspring.com",
+          "type": "personal",
+          "notes": "MindSpring email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "116 East 65th St.",
+            "New York, NY 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side - adjacent to Rueda residence (116 E 66th)"
+        }
+      ],
+      "handwritten_notes": ["Contact information for Ghislaine Maxwell is circled in pen"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Ghislaine Maxwell - central Epstein associate, convicted sex trafficker"
+    },
+    {
+      "entry_id": "060_mitrovich_andrea",
+      "name": {
+        "full_name": "Mitrovich, Andrea",
+        "prefix": null,
+        "first_name": "Andrea",
+        "middle_name": null,
+        "last_name": "Mitrovich",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "917 957 5341",
+          "formatting": "917 957 5341 (p)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "andrea_mitrovich@yahoo.co",
+          "type": "personal",
+          "notes": "Yahoo email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "153 West 75th St #4B",
+            "New York, NY 10023"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10023",
+          "country": "USA",
+          "notes": "'Ballerina' notated - professional dancer"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "good"
+      },
+      "formatting_notes": "'Ballerina' notated - professional dancer"
+    },
+    {
+      "entry_id": "060_police",
+      "name": {
+        "full_name": "Sergeant Robert Goldberg (Police)",
+        "prefix": "Sergeant",
+        "first_name": "Robert",
+        "middle_name": null,
+        "last_name": "Goldberg",
+        "suffix": "Police"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "917 363 3679",
+          "formatting": "917 363 3679"
+        },
+        {
+          "type": "emergency",
+          "number": "212 452 0600",
+          "formatting": "212 452 0600"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Police contact with 'Sarg. Robert Goldberg 19th Precinct' notation"
+    },
+    {
+      "entry_id": "060_rueda_joseph_florina_2",
+      "name": {
+        "full_name": "Rueda, Joseph & Florina",
+        "prefix": null,
+        "first_name": "Joseph",
+        "middle_name": null,
+        "last_name": "Rueda",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Florina"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "917 690 8794",
+          "formatting": "917 690 8794 Joseph"
+        },
+        {
+          "type": "unknown",
+          "number": "917 499 7936 Florina",
+          "formatting": "212 744 5511 (George)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "116 East 65th St.",
+            "New York, NY 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": ["Contact information for Joseph & Florina Rueda is circled in pen. Both contact entries for Joseph & Florina Rueda are circled on page-60."],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Duplicate contact for Rueda, Joseph & Florina. This entry misspells Florina's name as 'Florena'."
+    },
+    {
+      "entry_id": "060_tahoe_kinney_garage",
+      "name": {
+        "full_name": "Tahoe, Kinney Garage",
+        "prefix": null,
+        "first_name": "Kinney Garage",
+        "middle_name": null,
+        "last_name": "Tahoe",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 744 5511",
+          "formatting": "212 744 5511 (George)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "301 East 66th Street",
+            "New York, NY 10065"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10065",
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "060_america_section",
+      "name": {
+        "full_name": "AMERICA(A)",
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "AMERICA(A)",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Section header/divider for business listings"
+    },
+    {
+      "entry_id": "060_antiques_resale_number",
+      "name": {
+        "full_name": "Antiques - Resale Number",
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Antiques",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Tax/Resale ID: 13-3647756"
+    },
+    {
+      "entry_id": "060_arizona",
+      "name": {
+        "full_name": "Arizona",
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Arizona",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 838 0440",
+          "formatting": "001 212 838 0440"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "business",
+          "address_lines": [
+            "206 East 60th Street"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Restaurant/establishment"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Restaurant listing"
+    },
+    {
+      "entry_id": "060_aspen_club",
+      "name": {
+        "full_name": "Aspen Club",
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Aspen Club",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "303-925-8900",
+          "formatting": "303-925-8900"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Aspen, Colorado club"
+    },
+    {
+      "entry_id": "060_au_bar",
+      "name": {
+        "full_name": "Au Bar",
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Au Bar",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "business",
+          "address_lines": [
+            "58th Street",
+            "Between Madison & Park"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Bar/nightclub"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC nightclub/bar"
+    },
+    {
+      "entry_id": "060_avis_international",
+      "name": {
+        "full_name": "Avis International",
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Avis International",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "800-331-2112",
+          "formatting": "800-331-2112"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Car rental service"
+    },
+    {
+      "entry_id": "060_bel_air_hotel",
+      "name": {
+        "full_name": "Bel Air Hotel",
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Bel Air Hotel",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "310-472-1211",
+          "formatting": "310-472-1211"
+        },
+        {
+          "type": "unknown",
+          "number": "310-476-5890",
+          "formatting": "310-476-5890"
+        },
+        {
+          "type": "reservations",
+          "number": "310 472 1211",
+          "formatting": "310 472 1211 Reservations Manager Mark"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "business",
+          "address_lines": [
+            "701 Stone Canyon Road",
+            "Los Angeles, CA 90077"
+          ],
+          "city": "Los Angeles",
+          "state": "CA",
+          "postal_code": "90077",
+          "country": "USA",
+          "notes": "'General Manager: Frank Bowling' notated"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'General Manager: Frank Bowling' notated. Elite Los Angeles hotel - Manager Marc"
+    },
+    {
+      "entry_id": "060_beverly_hills_hotel",
+      "name": {
+        "full_name": "Beverly Hills Hotel",
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Beverly Hills Hotel",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "310-276-2251",
+          "formatting": "310-276-2251"
+        },
+        {
+          "type": "unknown",
+          "number": "310-271-0319",
+          "formatting": "310-271-0319"
+        },
+        {
+          "type": "fax",
+          "number": "310 887 2887",
+          "formatting": "310 887 2887 fax"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "business",
+          "address_lines": [
+            "9641 Sunset Blvd.",
+            "Beverly Hills, CA 90210"
+          ],
+          "city": "Beverly Hills",
+          "state": "CA",
+          "postal_code": "90210",
+          "country": "USA",
+          "notes": "Iconic luxury hotel"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "The Beverly Hills Hotel - elite establishment"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 17,
+    "entries_with_emails": 4,
+    "entries_with_addresses": 12,
+    "entries_with_handwritten_notes": 1,
+    "couples": 1,
+    "average_confidence": "high",
+    "notable_figures_count": 2,
+    "special_notes": "Page contains extensive phone list (37 numbers) for Epstein household/operations including GM (Ghislaine Maxwell) and JE (Jeffrey Epstein) lines, staff, services. Also includes business directory section with elite hotels and establishments."
+  },
+  "cross_references": [
+    {
+      "from": "060_rueda_joseph_florina",
+      "to": "060_maxwell_ghislaine",
+      "relationship": "adjacent_address",
+      "note": "Rueda at 116 E 66th Street, Maxwell at 116 E 65th Street - adjacent Upper East Side addresses"
+    },
+    {
+      "from": "060_kellen_sarah",
+      "to": "060_rueda_joseph_florina",
+      "relationship": "same_street",
+      "note": "Both on East 66th Street - Kellen at 301, Rueda at 116"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Joseph Rueda",
+      "Florina Rueda",
+      "Sarah Kellen",
+      "Brian Kelly",
+      "Ghislaine Maxwell",
+      "Andrea Mitrovich",
+      "Scott (multiple references in phone list)",
+      "Howie (referenced in phone list)",
+      "Targ",
+      "Robert Goldberg"
+    ],
+    "organizations": [
+      "NetJets (private aviation)",
+      "Flight Options (private aviation)",
+      "Elevare/Marquis Jet (private aviation)",
+      "AT&T (telecommunications)",
+      "Sprint (telecommunications)",
+      "MindSpring (internet provider)"
+    ],
+    "locations": {
+      "international": [],
+      "us_cities": [
+        "New York City - Upper East Side (dominant)",
+        "Palm Beach (PB Mon. reference - 561 area code)",
+        "Tahoe (multiple phone references)"
+      ],
+      "elite_addresses": [
+        "116 East 65th Street, NYC (Ghislaine Maxwell)",
+        "116 East 66th Street, NYC (Joseph & Florina Rueda)",
+        "301 East 66th Street, Apt 10N, NYC (Sarah Kellen)",
+        "57 West End Avenue, NYC (Brian Kelly)",
+        "14 Jane 75th St #4B, NYC (Andrea Mitrovich)"
+      ]
+    },
+    "business_listings": [
+      {
+        "name": "Arizona",
+        "address": "208 East 60th Street",
+        "phone": "001 212 838 0440"
+      },
+      {
+        "name": "Aspen Club",
+        "phone": "303-925-8900"
+      },
+      {
+        "name": "Au Bar",
+        "address": "Fifth Street Between Madison & Park"
+      },
+      {
+        "name": "Avis International",
+        "phone": "800-331-2112"
+      },
+      {
+        "name": "Bel Air Hotel",
+        "address": "701 Stone Canyon Road, Los Angeles, CA 90077",
+        "phone": "310 472 1211",
+        "additional": "Manager Marc, Reservations 310 472 1211"
+      },
+      {
+        "name": "Beverly Hills Hotel",
+        "address": "9641 Sunset Blvd, Beverly Hills, CA 90210",
+        "phone": "310 276 2251",
+        "fax": "310 887 2887"
+      },
+      {
+        "name": "Tahoe, Kinney Garage",
+        "address": "301 East 68th",
+        "phone": "212 744 5511 (George)"
+      },
+      {
+        "name": "AMERICA(A)",
+        "note": "Section header"
+      },
+      {
+        "name": "Antiques - Resale Num-",
+        "phone": "13-3647758"
+      }
+    ]
+  },
+  "insights": [
+    "CRITICAL PAGE: Contains detailed internal phone directory for Epstein operations including Ghislaine Maxwell (GM) lines, Jeffrey Epstein (JE) lines, and staff",
+    "Ghislaine Maxwell at 116 East 65th Street - central NYC residence, multiple phone lines (GM Line 1, 2, 3)",
+    "Sarah Kellen at 301 East 66th Street - key Epstein associate and scheduler, convicted co-conspirator",
+    "Joseph & Florina Rueda at 116 East 66th Street - household staff, adjacent to Maxwell residence",
+    "Extensive private aviation contacts: NetJets, Flight Options, Marquis Jet - indicating frequent private jet travel",
+    "Phone list reveals operational structure: Guest modems, security lines (Rich4 Security), multiple W/Office lines, staff cells",
+    "Geographic clustering: Upper East Side concentration (65th-68th Streets), with Tahoe and Palm Beach (PB) secondary locations",
+    "Andrea Mitrovich marked as 'Ballerina' - professional dancer connection",
+    "Police contact with 'Targ + Robert Goldberg' notation - possibly private security or legal contacts",
+    "Multiple GM (Ghislaine Maxwell) lines: 212 879 9066 (Line 1), 212 879 9468 (Line 1), 212 879 9459 (Line 2) - extensive phone infrastructure",
+    "JE (Jeffrey Epstein) lines: 212 535 7872 (Line 2), 212 535 6877 (Line ?) - separate line system",
+    "GSM4 international number (01144 7708 774552) - UK/international mobile connectivity",
+    "Business listings section begins: Arizona restaurant, Aspen Club, Au Bar, Bel Air Hotel, Beverly Hills Hotel - elite establishments",
+    "Staff members identified: Scott (multiple numbers - cell, home, work), Howie (work number), Joseph, Florina",
+    "Tahoe references with multiple phone numbers (Tahoe 1, Tahoe 2) - likely Lake Tahoe property",
+    "Palm Beach Monday reference (561 346 7144 PB Mon.) - indicating regular Palm Beach schedule",
+    "AMERICA(A) section begins alphabetical business directory - luxury hotels, restaurants, and services",
+    "Elite hotel listings: Bel Air Hotel (LA), Beverly Hills Hotel - indicates frequent luxury travel patterns",
+    "Business listings include both NYC establishments (Arizona restaurant, Au Bar) and West Coast venues",
+    "Antiques Resale Number (13-3647756) suggests art/antiques dealing or collection management",
+    "Aspen Club listing (303-925-8900) aligns with Wexner's known Aspen properties referenced elsewhere"
+  ]
+}

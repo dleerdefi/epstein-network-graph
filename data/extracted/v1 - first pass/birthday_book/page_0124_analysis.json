@@ -1,0 +1,194 @@
+{
+  "page_number": 124,
+  "file_path": "data/birthday_book_images/page_0124.png",
+  "file_size_mb": 0.6924314498901367,
+  "type": "mathematical_tribute",
+  "content": {
+    "text": "10 is the most beautiful number.\nDo not rush to be 100 years old.\nIt contains the first four integers\n\nMathematical formulas and equations including:\n- Various algebraic expressions\n- Geometric formulas\n- References to: EUCLID, ARCHIMEDE, EPSTEIN, BRUNEL, PYTHAGORAS\n- ln \u03b1((1/b0.5*x^2*\u03c0)(b-3/19-4)) = -1\u03b1\n- Additional mathematical notations and formulas\n\nd. should never be greater than get % la JE Anytime",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "description": "Mathematical equations with highlighted mathematician names",
+    "text_sections": {
+      "full_transcription": "10 is the most beautiful number.\nDo not rush to be 100 years old.\nIt contains the first four integers\n\nMathematical formulas and equations including:\n- Various algebraic expressions\n- Geometric formulas\n- References to: EUCLID, ARCHIMEDE, EPSTEIN, BRUNEL, PYTHAGORAS\n- ln \u03b1((1/b0.5*x^2*\u03c0)(b-3/19-4)) = -1\u03b1\n- Additional mathematical notations and formulas\n\nd. should never be greater than get % la JE Anytime",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          124
+        ]
+      },
+      {
+        "name": "Euclid",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          124
+        ]
+      },
+      {
+        "name": "Archimedes",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          124
+        ]
+      },
+      {
+        "name": "Brunel",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          124
+        ]
+      },
+      {
+        "name": "Pythagoras",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          124
+        ]
+      },
+      {
+        "name": "JE (initials)",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          124
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "mathematical_references": [
+      "perfect numbers",
+      "logarithms",
+      "geometry",
+      "algebra"
+    ],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Mathematically-inclined friend or colleague",
+    "recipient": "Jeffrey Epstein",
+    "date": "50th Birthday",
+    "subject": "Mathematical birthday tribute",
+    "theme": "intellectual_mathematical_homage",
+    "significance": "medium",
+    "document_type": "mathematical_tribute"
+  },
+  "insights": [
+    "'10 is the most beautiful number' - philosophical mathematical statement",
+    "'Do not rush to be 100 years old' - longevity wish with mathematical context",
+    "EPSTEIN's name highlighted among famous mathematicians/engineers",
+    "Places Epstein among Euclid, Archimedes, Brunel, and Pythagoras",
+    "References to Epstein's mathematics teaching background at Dalton",
+    "Complex mathematical formulas suggest highly educated sender",
+    "Yellow highlighting creates visual emphasis on key names",
+    "'JE' initials referenced in final line",
+    "Mix of pure mathematics and engineering (Brunel) references",
+    "Playful intellectual tribute using mathematical language",
+    "Sender demonstrates deep mathematical knowledge",
+    "Birthday message crafted for someone who appreciates mathematics",
+    "Positioning among historical mathematical figures suggests grandiosity",
+    "Mathematical formulas include calculus, algebra, and geometry"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000124",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.180575",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": [],
+    "handwritten_notes": [
+      {
+        "type": "mathematical_equations",
+        "style": "mixed_notation",
+        "ink_color": "black_with_yellow_highlights",
+        "highlighted_text": [
+          "EUCLID",
+          "ARCHIMEDE",
+          "EPSTEIN",
+          "BRUNEL",
+          "PYTHAGORAS"
+        ]
+      }
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Mathematical tribute with complex equations",
+    "Opening: '10 is the most beautiful number'",
+    "'Do not rush to be 100 years old'",
+    "'It contains the first four integers'",
+    "Multiple mathematical formulas and equations",
+    "Yellow highlighting on mathematician names:",
+    "- EUCLID (highlighted)",
+    "- ARCHIMEDE (highlighted)",
+    "- EPSTEIN (highlighted among great mathematicians)",
+    "- BRUNEL (highlighted)",
+    "- PYTHAGORAS (highlighted)",
+    "Complex formula: ln α((1/b0.5*x²*π)(b-3/19-4)) = -1α",
+    "Bottom note: 'd. should never be greater than get % la JE Anytime'",
+    "JE initials reference Jeffrey Epstein",
+    "Handwritten in black ink with yellow highlighting",
+    "Document stamped HOUSE_OVERSIGHT_000124"
+  ],
+  "investigative_leads": []
+}

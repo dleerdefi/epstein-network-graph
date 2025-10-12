@@ -1,0 +1,323 @@
+{
+  "page_number": 96,
+  "date_header": "AUG-SEP 2002",
+  "time_period": "August 2002 - September 2002",
+  "aircraft": {
+    "registration": "Multiple (B-727-31W N908JE, G-1159B N909JE)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "AUG 31",
+      "date": "08/31/2002",
+      "departure": "B-727-31W",
+      "arrival": "N908JE",
+      "flight_time": "131",
+      "remarks": "LFPB - EGBB - JG, NICOLE JUNKOMANN",
+      "passengers": ["JG", "NICOLE JUNKOMANN"],
+      "crew": "1/1"
+    },
+    {
+      "entry_number": "SEP 1",
+      "date": "09/01/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "132",
+      "remarks": "EGBB - LFPB - JG, NICOLE JUNKOMANN",
+      "passengers": ["JG", "NICOLE JUNKOMANN"],
+      "crew": "1/0"
+    },
+    {
+      "entry_number": "1",
+      "date": "09/01/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "133",
+      "remarks": "LFPB - JFK - JG, CINDY LOPEZ",
+      "passengers": ["JG", "CINDY LOPEZ"],
+      "crew": "1/1"
+    },
+    {
+      "entry_number": "1",
+      "date": "09/01/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "134",
+      "remarks": "JFK - PBI - JG, REDACTED",
+      "passengers": ["JG", "REDACTED"],
+      "crew": "7/5"
+    },
+    {
+      "entry_number": "SEP 2",
+      "date": "09/02/2002",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1588",
+      "remarks": "PBI - TEB - JG, ANOTHER, JEAN HAIG",
+      "passengers": ["JG", "ANOTHER", "JEAN HAIG"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "9",
+      "date": "09/09/2002",
+      "departure": "G-1159B",
+      "arrival": "",
+      "flight_time": "1589",
+      "remarks": "TEB - BED - JG, SHELLEY LEWIS",
+      "passengers": ["JG", "SHELLEY LEWIS"],
+      "crew": "2/1"
+    },
+    {
+      "entry_number": "9",
+      "date": "09/09/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1590",
+      "remarks": "BED - TEB - JG, SHELLEY LEWIS",
+      "passengers": ["JG", "SHELLEY LEWIS"],
+      "crew": "9"
+    },
+    {
+      "entry_number": "9",
+      "date": "09/09/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1591",
+      "remarks": "TEB - HPN - JG, ANOTHER, ANDREA, D COLLINS",
+      "passengers": ["JG", "ANOTHER", "ANDREA", "D COLLINS"],
+      "crew": "9"
+    },
+    {
+      "entry_number": "15",
+      "date": "09/15/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1592",
+      "remarks": "HPN - PBI - JG, SK, DENNIS PETERSON",
+      "passengers": ["JG", "SK", "DENNIS PETERSON"],
+      "crew": "3/3"
+    },
+    {
+      "entry_number": "21",
+      "date": "09/21/2002",
+      "departure": "B-727-31W",
+      "arrival": "N908JE",
+      "flight_time": "135",
+      "remarks": "JFK - LPAZ - JE, GM, PRESIDENT WILLIAM J CLINTON, KEVIN SPACEY, CHRIS TUCKER, SEAN KAY, DOUG BAND, MIKE SMITH, CHRIS FUQUA, SUZANNE BERUBE, B REDACTED",
+      "passengers": ["JE", "GM", "PRESIDENT WILLIAM J CLINTON", "KEVIN SPACEY", "CHRIS TUCKER", "SEAN KAY", "DOUG BAND", "MIKE SMITH", "CHRIS FUQUA", "SUZANNE BERUBE", "B REDACTED"],
+      "crew": "1/1 2/6"
+    },
+    {
+      "entry_number": "22",
+      "date": "09/22/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "137",
+      "remarks": "LPAZ - BGBW - CITE: KENTON, ANDREA, REDACTED, ALLISON, TIM PASSMORE, JANE ADA, BRY M, NICOLE JONES, SANDY O",
+      "passengers": ["CITE KENTON", "ANDREA", "REDACTED", "ALLISON", "TIM PASSMORE", "JANE ADA", "BRY M", "NICOLE JONES", "SANDY O"],
+      "crew": "3/2"
+    },
+    {
+      "entry_number": "23",
+      "date": "09/23/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "138",
+      "remarks": "BGBW - OMDB - REDACTED",
+      "passengers": ["REDACTED"],
+      "crew": "6/2"
+    },
+    {
+      "entry_number": "23",
+      "date": "09/23/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "139",
+      "remarks": "OMDB - HKRN - REDACTED",
+      "passengers": ["REDACTED"],
+      "crew": "1/1"
+    },
+    {
+      "entry_number": "24",
+      "date": "09/24/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "140",
+      "remarks": "HKRN - ENRB - SAME AS ABOVE PLUS JOE ALEXANDER",
+      "passengers": ["SAME AS ABOVE PLUS JOE ALEXANDER"],
+      "crew": "4/9"
+    },
+    {
+      "entry_number": "25",
+      "date": "09/25/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "141",
+      "remarks": "HETR - FAMO - SAME AS ABOVE",
+      "passengers": ["SAME AS ABOVE"],
+      "crew": "3/5"
+    },
+    {
+      "entry_number": "26",
+      "date": "09/26/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "142",
+      "remarks": "FAMO - FMCH - SAME AS ABOVE",
+      "passengers": ["SAME AS ABOVE"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "27",
+      "date": "09/27/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "143",
+      "remarks": "FMCH - FAOR - SAME AS ABOVE LESS DAVID & LEO, JOSEPH, ANDREA, GELA, MARIN, MATTHEW KESSLER, SAMANTHA SHEPARD",
+      "passengers": ["SAME AS ABOVE LESS DAVID & LEO", "JOSEPH", "ANDREA", "GELA", "MARIN", "MATTHEW KESSLER", "SAMANTHA SHEPARD"],
+      "crew": "2/1"
+    },
+    {
+      "entry_number": "28",
+      "date": "09/28/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "144",
+      "remarks": "EAST - FPST - JON F, MARCO, FRANCISCO, MARLA, COLIN, JIMMY O",
+      "passengers": ["JON F", "MARCO", "FRANCISCO", "MARLA", "COLIN", "JIMMY O"],
+      "crew": "2/0"
+    },
+    {
+      "entry_number": "29",
+      "date": "09/29/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "145",
+      "remarks": "FPST - OERK - JG, SK, AY, ADAM, PAUL, DAVID, RACHEL",
+      "passengers": ["JG", "SK", "AY", "ADAM", "PAUL", "DAVID", "RACHEL"],
+      "crew": "6/2"
+    },
+    {
+      "entry_number": "29",
+      "date": "09/29/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1451",
+      "remarks": "OERK - LFPB - SAME AS ABOVE",
+      "passengers": ["SAME AS ABOVE"],
+      "crew": "6/5"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JG",
+      "NICOLE JUNKOMANN",
+      "CINDY LOPEZ",
+      "REDACTED",
+      "ANOTHER",
+      "JEAN HAIG",
+      "SHELLEY LEWIS",
+      "ANDREA",
+      "D COLLINS",
+      "SK",
+      "DENNIS PETERSON",
+      "JE",
+      "GM",
+      "PRESIDENT WILLIAM J CLINTON",
+      "KEVIN SPACEY",
+      "CHRIS TUCKER",
+      "SEAN KAY",
+      "DOUG BAND",
+      "MIKE SMITH",
+      "CHRIS FUQUA",
+      "SUZANNE BERUBE",
+      "B REDACTED",
+      "CITE KENTON",
+      "ALLISON",
+      "TIM PASSMORE",
+      "JANE ADA",
+      "BRY M",
+      "NICOLE JONES",
+      "SANDY O",
+      "SAME AS ABOVE PLUS JOE ALEXANDER",
+      "JOE ALEXANDER",
+      "SAME AS ABOVE",
+      "SAME AS ABOVE LESS DAVID & LEO",
+      "JOSEPH",
+      "GELA",
+      "MARIN",
+      "MATTHEW KESSLER",
+      "SAMANTHA SHEPARD",
+      "JON F",
+      "MARCO",
+      "FRANCISCO",
+      "MARLA",
+      "COLIN",
+      "JIMMY O",
+      "AY",
+      "ADAM",
+      "PAUL",
+      "DAVID",
+      "RACHEL",
+      "David Rodgers"
+    ],
+    "locations": [
+      "LFPB",
+      "EGBB",
+      "JFK",
+      "PBI",
+      "TEB",
+      "BED",
+      "HPN",
+      "LPAZ",
+      "BGBW",
+      "OMDB",
+      "HKRN",
+      "ENRB",
+      "HETR",
+      "FAMO",
+      "FMCH",
+      "FAOR",
+      "EAST",
+      "FPST",
+      "OERK"
+    ],
+    "aircraft": [
+      "B-727-31W",
+      "N908JE",
+      "G-1159B",
+      "N909JE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "3/6 62/5",
+    "amount_forward": "8783",
+    "total_to_date": "8846",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page starts with August 31, 2002 then transitions to September 2002",
+    "CRITICAL: September 21 - JE, GM, President William J Clinton, Kevin Spacey, Chris Tucker on Africa trip",
+    "Doug Band and Sean Kay also on September 21 Clinton flight",
+    "SK (Sarah Kellen) appears frequently throughout September",
+    "Extensive Africa tour in late September (Kenya, Tanzania, South Africa)",
+    "Nicole Junkomann appears on August 31 and September 1",
+    "Multiple SAME AS ABOVE entries for Africa tour",
+    "International operations to Dubai (OMDB), Africa (LPAZ, BGBW, HKRN, ENRB, FAMO, FMCH, FAOR), and Europe",
+    "Flight numbers reach 1592 for G-1159B and 145/1451 for B-727",
+    "Mix of domestic and extensive international operations",
+    "Multiple REDACTED entries throughout Africa tour"
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "page_number": 29,
+  "document_type": "Flight Log",
+  "metadata": {
+    "time_period": "January 1994 - March 1994",
+    "pilot": "David Rodgers",
+    "aircraft_registration": "N928GA",
+    "aircraft_make_model": "GULFSTREAM",
+    "total_flight_time_page": "59:05",
+    "amt_forward": "69:25",
+    "total_to_date": "6131:11"
+  },
+  "flights": [
+    {
+      "date": "01/22/94",
+      "aircraft": "N928GA",
+      "departure": "TEB",
+      "arrival": "DCA",
+      "flight_time": "1:15",
+      "passengers": "JE, GM CONCEPT, SAHUWA",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/23/94",
+      "aircraft": "N928GA",
+      "departure": "DCA",
+      "arrival": "PBI",
+      "flight_time": "2:20",
+      "passengers": "REFUQURBAN",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/24/94",
+      "aircraft": "N928GA",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:30",
+      "passengers": "JE, 3 PEOPLE, 1 PERSON",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/25/94",
+      "aircraft": "N928GA",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:30",
+      "passengers": "JE, DIANA DOUGLAS, HAROLD 3 OTHERS",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/26/94",
+      "aircraft": "N928GA",
+      "departure": "PBI",
+      "arrival": "CMH",
+      "flight_time": "2:35",
+      "passengers": "JE, DIANA, WALKEN",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "01/27/94",
+      "aircraft": "N928GA",
+      "departure": "CMH",
+      "arrival": "SJU",
+      "flight_time": "5:20",
+      "passengers": "JE",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "02/05/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "SJU",
+      "arrival": "SAV",
+      "flight_time": "2:30",
+      "passengers": "C VERGIL WALKER TOM PRKU",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "02/06/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "SAV",
+      "arrival": "SAV",
+      "flight_time": "0:10",
+      "passengers": "D VERGIL WALKER TOM PRKU",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "02/07/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "SAV",
+      "arrival": "D",
+      "flight_time": "2:20",
+      "passengers": "E VERGIL WALKER TOM PRKU",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "02/08/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "D",
+      "arrival": "E",
+      "flight_time": "2:20",
+      "passengers": "F SEXY LINGCHING",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "02/09/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "E",
+      "arrival": "SAV",
+      "flight_time": "2:10",
+      "passengers": "G",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "02/10/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "SAV",
+      "arrival": "PBI",
+      "flight_time": "1:35",
+      "passengers": "JE, GM",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "02/11/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "PBI",
+      "arrival": "MDW",
+      "flight_time": "2:55",
+      "passengers": "JE, GM",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "02/12/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "MDW",
+      "arrival": "CMH",
+      "flight_time": "1:05",
+      "passengers": "JE, SOPHIA GEDDIS",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "02/13/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "CMH",
+      "arrival": "MDW",
+      "flight_time": "1:05",
+      "passengers": "JE, SOPHIA GEDDIS",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "02/14/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "MDW",
+      "arrival": "PBI",
+      "flight_time": "2:55",
+      "passengers": "JE, GM, SOPHIA GEDDIS, GM, JJ STOUGHLAND",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "02/15/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "PBI",
+      "arrival": "ASC",
+      "flight_time": "2:25",
+      "passengers": "JE, GM, JJ STOUGHLAND",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "02/16/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "ASC",
+      "arrival": "TVC",
+      "flight_time": "5:35",
+      "passengers": "JE, GM, JJ STOUGHLAND, GM DEMPINS",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "02/17/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "TVC",
+      "arrival": "TEB",
+      "flight_time": "2:10",
+      "passengers": "JE, GM, JJ STOUGHLAND",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "02/18/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "TEB",
+      "arrival": "SDF",
+      "flight_time": "1:50",
+      "passengers": "JE, GM, JJ RODRIGUEZ",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "02/19/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "SDF",
+      "arrival": "ASC",
+      "flight_time": "2:20",
+      "passengers": "JE, GM",
+      "endorsements": "",
+      "aircraft_category": "II"
+    },
+    {
+      "date": "02/20/94",
+      "aircraft": "G1159B N909GA",
+      "departure": "ASC",
+      "arrival": "PBI",
+      "flight_time": "3:15",
+      "passengers": "",
+      "endorsements": "",
+      "aircraft_category": "II"
+    }
+  ],
+  "entities": {
+    "people": [
+      {"name": "Jeffrey Epstein", "abbreviation": "JE", "role": "Primary passenger"},
+      {"name": "Ghislaine Maxwell", "abbreviation": "GM", "role": "Frequent passenger"},
+      {"name": "[Unknown GM Concept]", "abbreviation": "GM CONCEPT", "role": "Passenger"},
+      {"name": "[Unknown Sahuwa]", "abbreviation": "SAHUWA", "role": "Passenger"},
+      {"name": "[Unknown Refuqurban]", "abbreviation": "REFUQURBAN", "role": "Passenger"},
+      {"name": "Diana Douglas", "abbreviation": "DIANA DOUGLAS/DIANA", "role": "Passenger"},
+      {"name": "[Unknown Harold]", "abbreviation": "HAROLD", "role": "Passenger"},
+      {"name": "[Unknown Walken]", "abbreviation": "WALKEN", "role": "Passenger"},
+      {"name": "[Unknown Vergil Walker]", "abbreviation": "VERGIL WALKER", "role": "Passenger"},
+      {"name": "[Unknown Tom Prku]", "abbreviation": "TOM PRKU", "role": "Passenger"},
+      {"name": "[Unknown Sexy Lingching]", "abbreviation": "SEXY LINGCHING", "role": "Passenger"},
+      {"name": "Sophia Geddis", "abbreviation": "SOPHIA GEDDIS", "role": "Passenger"},
+      {"name": "[Unknown JJ Stoughland]", "abbreviation": "JJ STOUGHLAND", "role": "Passenger"},
+      {"name": "[Unknown GM Dempins]", "abbreviation": "GM DEMPINS", "role": "Passenger"},
+      {"name": "[Unknown JJ Rodriguez]", "abbreviation": "JJ RODRIGUEZ", "role": "Passenger"},
+      {"name": "David Rodgers", "abbreviation": "", "role": "Pilot"}
+    ],
+    "locations": [
+      {"code": "TEB", "name": "Teterboro Airport", "location": "Teterboro, NJ"},
+      {"code": "DCA", "name": "Ronald Reagan Washington National Airport", "location": "Washington, DC"},
+      {"code": "PBI", "name": "Palm Beach International Airport", "location": "West Palm Beach, FL"},
+      {"code": "CMH", "name": "John Glenn Columbus International Airport", "location": "Columbus, OH"},
+      {"code": "SJU", "name": "Luis Muñoz Marín International Airport", "location": "San Juan, Puerto Rico"},
+      {"code": "SAV", "name": "Savannah/Hilton Head International Airport", "location": "Savannah, GA"},
+      {"code": "D", "name": "[Unknown Airport Code D]", "location": "Unknown"},
+      {"code": "E", "name": "[Unknown Airport Code E]", "location": "Unknown"},
+      {"code": "MDW", "name": "Midway International Airport", "location": "Chicago, IL"},
+      {"code": "ASC", "name": "[Unknown Airport ASC]", "location": "Unknown"},
+      {"code": "TVC", "name": "Cherry Capital Airport", "location": "Traverse City, MI"},
+      {"code": "SDF", "name": "Louisville International Airport", "location": "Louisville, KY"}
+    ],
+    "aircraft": [
+      {"registration": "N928GA", "type": "Gulfstream", "category": "Private Jet"},
+      {"registration": "N909GA", "type": "Gulfstream G1159B", "category": "Private Jet"}
+    ]
+  },
+  "insights": [
+    "Aircraft change occurs on February 5, 1994 from N928GA to N909GA (G1159B model)",
+    "Introduction of Washington DC (DCA) as new destination in January",
+    "Gap in flights from January 27 to February 5, 1994 (9 days)",
+    "February flights show complex routing through multiple unknown airports (D, E)",
+    "Savannah, GA (SAV) becomes a hub for February operations",
+    "New passenger names include Diana Douglas and Sophia Geddis",
+    "Traverse City, MI (TVC) appears as a new northern destination",
+    "Some cryptic passenger names like 'Sexy Lingching' appear",
+    "ASC airport code appears multiple times but location unclear",
+    "Pattern of group travel continues with multiple passengers per flight",
+    "Jeffrey Epstein and Ghislaine Maxwell remain primary passengers",
+    "Columbus, OH and Chicago continue as regular Midwest destinations",
+    "Louisville, KY (SDF) remains in rotation from previous page",
+    "Total flight hours significantly high at 59:05 for partial months"
+  ]
+}

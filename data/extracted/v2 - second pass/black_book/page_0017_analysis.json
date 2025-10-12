@@ -1,0 +1,899 @@
+{
+  "page_number": 17,
+  "alphabetical_section": "E",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "017_edwards_andrew_tracy",
+      "name": {
+        "full_name": "Edwards, Andrew & Tracy",
+        "first_name": "Andrew",
+        "last_name": "Edwards",
+        "spouse_name": "Tracy",
+        "is_couple": true
+      },
+      "phones": [
+        {
+          "number": "11 Prince Monty Place",
+          "type": "unknown",
+          "notes": "Address in phone field"
+        },
+        {
+          "number": "London SW5 (h)",
+          "type": "home",
+          "notes": "Location"
+        },
+        {
+          "number": "0207 229 4134 (h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "207"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "11 Prince Monty Place, London SW5",
+          "street": "11 Prince Monty Place",
+          "city": "London",
+          "postal_code": "SW5",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "017_elian_johnathan",
+      "name": {
+        "full_name": "Elian, Johnathan",
+        "first_name": "Johnathan",
+        "last_name": "Elian"
+      },
+      "phones": [
+        {
+          "number": "7 red Reed",
+          "type": "unknown",
+          "notes": "Property name"
+        },
+        {
+          "number": "Westerham CT 06838",
+          "type": "unknown",
+          "notes": "Location with postal code"
+        },
+        {
+          "number": "203 866 2235(h)",
+          "type": "home",
+          "country_code": "+1",
+          "area_code": "203"
+        },
+        {
+          "number": "203 762 7441(w)",
+          "type": "work",
+          "country_code": "+1",
+          "area_code": "203"
+        }
+      ],
+      "emails": [
+        {
+          "address": "j.elian.atrnswestcapital.com",
+          "type": "business",
+          "notes": "Possibly j.elian@trnswestcapital.com"
+        }
+      ],
+      "addresses": [
+        {
+          "full_address": "7 red Reed, Westerham CT 06838",
+          "street": "7 red Reed",
+          "city": "Westerham",
+          "state": "CT",
+          "zip": "06838"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Connecticut address"
+    },
+    {
+      "entry_id": "017_elias_brian",
+      "name": {
+        "full_name": "Elias, Brian",
+        "first_name": "Brian",
+        "last_name": "Elias"
+      },
+      "phones": [
+        {
+          "number": "001 305 798 3831 (p)",
+          "type": "personal",
+          "country_code": "+1",
+          "area_code": "305"
+        },
+        {
+          "number": "001 305 789 9242 (w)",
+          "type": "work",
+          "notes": []
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Miami area code"
+    },
+    {
+      "entry_id": "017_eliasch_johan_amanda",
+      "name": {
+        "full_name": "Eliasch, Johan & Amanda",
+        "first_name": "Johan",
+        "last_name": "Eliasch",
+        "spouse_name": "Amanda",
+        "is_couple": true
+      },
+      "phones": [
+        {
+          "number": "11 Chester Square",
+          "type": "unknown",
+          "notes": "Address"
+        },
+        {
+          "number": "London SW1 W9TH UK",
+          "type": "unknown",
+          "notes": "Location"
+        },
+        {
+          "number": "44 171 235 8436 (h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "171"
+        },
+        {
+          "number": "Broad, awishesburyhilton.com",
+          "type": "unknown",
+          "notes": "Email or contact reference"
+        },
+        {
+          "number": "171 493 8400 house 515net",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "171"
+        },
+        {
+          "number": "44 171 730 1260 Amanda (p)",
+          "type": "mobile",
+          "country_code": "+44",
+          "area_code": "171",
+          "notes": "Amanda's mobile"
+        },
+        {
+          "number": "001 614 554 7299",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "614"
+        },
+        {
+          "number": "001 614 554 7300 (Karen 6)",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "614",
+          "notes": "Karen extension 6"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "11 Chester Square, London SW1 W9TH",
+          "street": "11 Chester Square",
+          "city": "London",
+          "postal_code": "SW1 W9TH",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Mix of UK and Columbus, OH numbers"
+    },
+    {
+      "entry_id": "017_elingworth_charlie_amanda",
+      "name": {
+        "full_name": "Elingworth, Charlie & Amanda",
+        "first_name": "Charlie",
+        "last_name": "Elingworth",
+        "spouse_name": "Amanda",
+        "is_couple": true
+      },
+      "phones": [
+        {
+          "number": "The Pheasant",
+          "type": "unknown",
+          "notes": "Property name"
+        },
+        {
+          "number": "1 Abingdon Villas",
+          "type": "unknown",
+          "notes": "Address"
+        },
+        {
+          "number": "London W8",
+          "type": "unknown",
+          "notes": "Location"
+        },
+        {
+          "number": "0207 937 6156(h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "207"
+        },
+        {
+          "number": "0044 373 812(h)",
+          "type": "home",
+          "country_code": "+44"
+        },
+        {
+          "number": "0589 233 8372 (m)",
+          "type": "mobile",
+          "country_code": "+44",
+          "area_code": "589"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "The Pheasant, 1 Abingdon Villas, London W8",
+          "street": "1 Abingdon Villas",
+          "property_name": "The Pheasant",
+          "city": "London",
+          "postal_code": "W8",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "017_elizabeth",
+      "name": {
+        "full_name": "Elizabeth",
+        "first_name": "Elizabeth",
+        "last_name": ""
+      },
+      "phones": [
+        {
+          "number": "0033 660 596 267",
+          "type": "unknown",
+          "country_code": "+33",
+          "area_code": "660"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "minimal",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "017_ellenbogen_eric",
+      "name": {
+        "full_name": "Ellenbogen Eric",
+        "first_name": "Eric",
+        "last_name": "Ellenbogen"
+      },
+      "phones": [
+        {
+          "number": "33 Gresham St",
+          "type": "unknown",
+          "notes": "Address"
+        },
+        {
+          "number": "00 917 355(h)",
+          "type": "home",
+          "notes": "Incomplete number"
+        },
+        {
+          "number": "001 203 661 4932(w)",
+          "type": "work",
+          "country_code": "+1",
+          "area_code": "203"
+        },
+        {
+          "number": "001 203 552 0970(v)",
+          "type": "voice",
+          "country_code": "+1",
+          "area_code": "203"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "33 Gresham St"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "017_ellingworth_mr_mrs",
+      "name": {
+        "full_name": "Ellingworth, Mr & Mrs",
+        "title": "Mr & Mrs",
+        "first_name": "",
+        "last_name": "Ellingworth"
+      },
+      "phones": [
+        {
+          "number": "001 203 00000",
+          "type": "unknown",
+          "notes": "Incomplete number"
+        },
+        {
+          "number": "0044 7944 1111 (h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "7944"
+        },
+        {
+          "number": "0208 348 4195 (h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "208"
+        },
+        {
+          "number": "0203 349 5100 Fax",
+          "type": "fax",
+          "country_code": "+44",
+          "area_code": "203"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "The Old House, Mill Lane, Chapel-en-le Frith"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "017_elliot_ben",
+      "name": {
+        "full_name": "Elliot, Ben",
+        "first_name": "Ben",
+        "last_name": "Elliot"
+      },
+      "phones": [
+        {
+          "number": "Silverdale8887",
+          "type": "unknown",
+          "notes": "Property or code name"
+        },
+        {
+          "number": "3 Albert Place",
+          "type": "unknown",
+          "notes": "Address"
+        },
+        {
+          "number": "London",
+          "type": "unknown",
+          "notes": "City"
+        },
+        {
+          "number": "New York, NY 10024",
+          "type": "unknown",
+          "notes": "US address"
+        },
+        {
+          "number": "001 917 593 5140(w)",
+          "type": "work",
+          "country_code": "+1",
+          "area_code": "917"
+        },
+        {
+          "number": "001 888 860 (office@elliotyoung.com)",
+          "type": "office",
+          "notes": "Email in phone field"
+        }
+      ],
+      "emails": [
+        {
+          "address": "office@elliotyoung.com",
+          "type": "business"
+        }
+      ],
+      "addresses": [
+        {
+          "full_address": "3 Albert Place, London"
+        },
+        {
+          "full_address": "New York, NY 10024",
+          "city": "New York",
+          "state": "NY",
+          "zip": "10024"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "017_erbe_noona",
+      "name": {
+        "full_name": "Erbe Noona",
+        "first_name": "Noona",
+        "last_name": "Erbe"
+      },
+      "phones": [
+        {
+          "number": "001 516 626 1200 1",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "516"
+        },
+        {
+          "number": "00 20 02 461 7945(w)",
+          "type": "work",
+          "country_code": "+20",
+          "area_code": "02"
+        },
+        {
+          "number": "00 00 02 461 7945 Alonso",
+          "type": "unknown",
+          "notes": "Alonso reference"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Egypt country code (+20)"
+    },
+    {
+      "entry_id": "017_espirito_santo_manuel_ros",
+      "name": {
+        "full_name": "Espirito Santo, Manuel Ros",
+        "first_name": "Manuel Ros",
+        "last_name": "Espirito Santo"
+      },
+      "phones": [
+        {
+          "number": "211 20300",
+          "type": "unknown",
+          "area_code": "211"
+        },
+        {
+          "number": "0207-233 7789(h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "207"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Portuguese banking family"
+    },
+    {
+      "entry_id": "017_elliot_gail_joe_coffey",
+      "name": {
+        "full_name": "Elliot, Gail & Joe Coffey",
+        "first_name": "Gail",
+        "last_name": "Elliot",
+        "spouse_name": "Joe Coffey",
+        "is_couple": true
+      },
+      "phones": [
+        {
+          "number": "72 Aurelia Street IL",
+          "type": "unknown",
+          "notes": "Address"
+        },
+        {
+          "number": "London SE2",
+          "type": "unknown",
+          "notes": "Location"
+        },
+        {
+          "number": "001 847 9418(w)",
+          "type": "work",
+          "country_code": "+1",
+          "area_code": "847"
+        },
+        {
+          "number": "001 847 943 4165(h)",
+          "type": "home",
+          "country_code": "+1",
+          "area_code": "847"
+        },
+        {
+          "number": "001 773 348 1840 (c)",
+          "type": "mobile",
+          "country_code": "+1",
+          "area_code": "773"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "72 Aurelia Street IL, London SE2",
+          "notes": "Mixed US/UK address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Illinois area codes"
+    },
+    {
+      "entry_id": "017_ellison_mandy_ralph",
+      "name": {
+        "full_name": "Ellison, Mandy & Ralph",
+        "first_name": "Mandy",
+        "last_name": "Ellison",
+        "spouse_name": "Ralph",
+        "is_couple": true
+      },
+      "phones": [
+        {
+          "number": "119 Northbourne Road",
+          "type": "unknown",
+          "notes": "Address"
+        },
+        {
+          "number": "London SW9 1",
+          "type": "unknown",
+          "notes": "Location"
+        },
+        {
+          "number": "44 20 8 674 5738",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "20"
+        },
+        {
+          "number": "44 773 3426(w)",
+          "type": "work",
+          "country_code": "+44",
+          "area_code": "773"
+        },
+        {
+          "number": "00 33 1 43 3428(h)",
+          "type": "home",
+          "country_code": "+33",
+          "area_code": "1"
+        },
+        {
+          "number": "00 33 1 60 7458 5510 Monar(h)",
+          "type": "home",
+          "country_code": "+33",
+          "area_code": "1",
+          "notes": "Monar reference"
+        },
+        {
+          "number": "00 44 7802 845 4340 cell)",
+          "type": "mobile",
+          "country_code": "+44",
+          "area_code": "7802"
+        },
+        {
+          "number": "001 201 47 85 (h)",
+          "type": "home",
+          "country_code": "+1",
+          "area_code": "201"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "119 Northbourne Road, London SW9 1"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Mix of UK, France, and US numbers"
+    },
+    {
+      "entry_id": "017_elwes_anabel",
+      "name": {
+        "full_name": "Elwes, Anabel",
+        "first_name": "Anabel",
+        "last_name": "Elwes"
+      },
+      "phones": [
+        {
+          "number": "114 Lavendish Street",
+          "type": "unknown",
+          "notes": "Address"
+        },
+        {
+          "number": "London SW3",
+          "type": "unknown",
+          "notes": "Location"
+        },
+        {
+          "number": "0207 385 7945",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "207"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "114 Lavendish Street, London SW3",
+          "street": "114 Lavendish Street",
+          "city": "London",
+          "postal_code": "SW3",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "017_epstein_ed",
+      "name": {
+        "full_name": "Epstein, Ed",
+        "first_name": "Ed",
+        "last_name": "Epstein"
+      },
+      "phones": [
+        {
+          "number": "430 East 86th St. New York, NY 10028",
+          "type": "unknown",
+          "notes": []
+        },
+        {
+          "number": "Bklyn BG 100010",
+          "type": "unknown",
+          "notes": "Brooklyn location"
+        },
+        {
+          "number": "001 212 268 4033",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "212"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "001 East Way St., Brooklyn BG 100010",
+          "city": "Brooklyn",
+          "state": "NY"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "017_estrada_juffali_christina",
+      "name": {
+        "full_name": "Estrada Juffali, Christina",
+        "first_name": "Christina",
+        "last_name": "Estrada Juffali"
+      },
+      "phones": [
+        {
+          "number": "23 Hyde Park Gate",
+          "type": "unknown",
+          "notes": "Address"
+        },
+        {
+          "number": "SW7 SDU",
+          "type": "unknown",
+          "notes": "Postal code"
+        },
+        {
+          "number": "0171 581 8222 (h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "171"
+        },
+        {
+          "number": "0787 430 6177 (cell)",
+          "type": "mobile",
+          "country_code": "+44",
+          "area_code": "787"
+        }
+      ],
+      "emails": [
+        {
+          "address": "christinaestrajuffali@hotmail.com",
+          "type": "personal"
+        }
+      ],
+      "addresses": [
+        {
+          "full_address": "23 Hyde Park Gate, SW7 SDU",
+          "street": "23 Hyde Park Gate",
+          "postal_code": "SW7 SDU",
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "complete",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Hyde Park address"
+    },
+    {
+      "entry_id": "017_orphan_entries",
+      "name": {
+        "full_name": "Orphan entries",
+        "notes": "Various incomplete entries"
+      },
+      "phones": [
+        {
+          "number": "King's Palace",
+          "type": "unknown",
+          "notes": "Property name"
+        },
+        {
+          "number": "9 Jockey Square Home and",
+          "type": "unknown",
+          "notes": "Address fragment"
+        },
+        {
+          "number": "0207 379 8 159",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "207"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "medium",
+        "completeness": "minimal",
+        "legibility": "good"
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 17,
+    "legibility": "excellent",
+    "notable_features": [
+      "Multiple couples listed together",
+      "Mix of UK, US, French, and Egyptian contacts",
+      "Espirito Santo banking family",
+      "Christina Estrada Juffali with Hyde Park Gate address",
+      "Several property names like 'The Pheasant'",
+      "Connecticut, Illinois, Ohio, and New York US contacts"
+    ],
+    "extraction_timestamp": "2025-01-29T17:00:00",
+    "extractor_version": "2.0"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Andrew Edwards",
+      "Tracy Edwards",
+      "Johnathan Elian",
+      "Brian Elias",
+      "Johan Eliasch",
+      "Amanda Eliasch",
+      "Charlie Elingworth",
+      "Amanda Elingworth",
+      "Elizabeth",
+      "Eric Ellenbogen",
+      "Mr Ellingworth",
+      "Mrs Ellingworth",
+      "Ben Elliot",
+      "Noona Erbe",
+      "Manuel Ros Espirito Santo",
+      "Gail Elliot",
+      "Joe Coffey",
+      "Mandy Ellison",
+      "Ralph Ellison",
+      "Anabel Elwes",
+      "Ed Epstein",
+      "Christina Estrada Juffali"
+    ],
+    "organizations": [
+      "trnswestcapital"
+    ],
+    "locations": {
+      "cities": [
+        "London",
+        "Westerham",
+        "Miami",
+        "Columbus",
+        "Brooklyn",
+        "New York"
+      ],
+      "states": [
+        "CT",
+        "OH",
+        "NY",
+        "IL"
+      ],
+      "countries": [
+        "UK",
+        "USA",
+        "France",
+        "Egypt"
+      ]
+    }
+  },
+  "insights": [
+    "Page contains 17 entries all in the E section",
+    "Christina Estrada Juffali at prestigious Hyde Park Gate address",
+    "Manuel Ricardo Espirito Santo represents Portuguese banking dynasty",
+    "Mix of Connecticut (203), Illinois (847), and Ohio (614) US numbers",
+    "Egypt country code (+20) appears for Norma Erbe entry",
+    "Several entries with property names like 'The Pheasant' and 'King's Palace'",
+    "Multiple couples listed together throughout the page",
+    "Ben Elliot with offices in both London and New York",
+    "Several incomplete or orphan entries at bottom of page",
+    "Mix of old UK area codes (0171) and newer ones (0207)"
+  ]
+}

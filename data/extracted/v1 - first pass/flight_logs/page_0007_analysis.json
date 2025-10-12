@@ -1,0 +1,276 @@
+{
+  "page_number": 7,
+  "file_path": "data/flight_logs_images/page-007.png",
+  "type": "aircraft_flight_log",
+  "content": {
+    "text": "DATE | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARKS | POINTS OF DEPARTURE & ARRIVAL | FROM | TO | MILEAGE | SINGLE PILOT | FLT TIME | REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS | AIRCRAFT CATEGORY\n\n16 N908JE N908JE ASC TUS 16 94 PARENTS, GHISLAINE MAXWELL\n21 '' '' TUS CYEM 65 95\n31 '' '' CYEM PBI 14 96 JEFFREY\n100.5 '' '' PBI CYEM 15 97 JEFFREY\n102.5 '' '' CYEM PBI 14 98 PARENTS, GHISLAINE MAXWELL\n3 '' '' PBI TEB 26 99 VICKY\n8 '' '' TEB CMH 16 100 2 FRIENDS, GHISLAINE\n12 '' '' CMH BIS 11 101 CINDY LOPEZ + 1, APA\n2 '' '' BIS TEB 16 102 JEFFREY MORGAN\n6 '' '' TEB CMH 11 103\n17 '' '' CMH BIS 24 104 JEFFREY, ANNE MCBRIDE\n17 '' '' BIS HNK 14 105 JEFFREY, ANN MCBRIDE\n22 '' '' HNK CMH 26 106 ANNE\n104.16-16.5 '' '' JFK INX 107 GHISLAINE, 3, JEANNE ASK\n27 108.16-10 10/16/2000 TEB TEB 43 108 JEFFREY GM\n21 '' '' JFK LAS 53 109 GHISLAINE, 2 PILOTS + JEFFREY\n31 '' '' TEB PBI 16 110 JEFFREY, LYNN FORESTER, GHISLAINE, TEALA DAVIS\n20 '' '' CYEM/CMH CMH CYEM 111 VIRGINIA ROBERTS, JUAN ALESSI, GHISLAINE MAXWELL\n\nPAGE TOTAL: 295 + 22 = 317\nAMT. FORWARD: 543 + 1435.10 + 1517.3 = 3347\nTOTAL TO DATE: 295 + 1517.3 = 1812.3\n\nI certify that the statements made by me on this form are true.\n\nPILOT'S SIGNATURE: David Rodgers",
+    "handwritten": true,
+    "typed": false,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "Complete cell-by-cell transcription provided above",
+      "flight_records": [
+        {
+          "date": "12/16/91",
+          "departure": "ASC",
+          "arrival": "TUS",
+          "aircraft": "N908JE",
+          "flight_time": "1.6 hrs",
+          "passengers": ["Parents", "Ghislaine Maxwell"],
+          "pilot": "David Rodgers",
+          "notes": "PARENTS, GHISLAINE MAXWELL"
+        },
+        {
+          "date": "12/21/91",
+          "departure": "TUS",
+          "arrival": "CYEM",
+          "aircraft": "N908JE",
+          "flight_time": "6.5 hrs",
+          "passengers": [],
+          "pilot": "David Rodgers",
+          "notes": ""
+        },
+        {
+          "date": "12/31/91",
+          "departure": "CYEM",
+          "arrival": "PBI",
+          "aircraft": "N908JE",
+          "flight_time": "1.4 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "1/1/92",
+          "departure": "PBI",
+          "arrival": "CYEM",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "1/2/92",
+          "departure": "CYEM",
+          "arrival": "PBI",
+          "aircraft": "N908JE",
+          "flight_time": "1.4 hrs",
+          "passengers": ["Parents", "Ghislaine Maxwell"],
+          "pilot": "David Rodgers",
+          "notes": "PARENTS, GHISLAINE MAXWELL"
+        },
+        {
+          "date": "1/3/92",
+          "departure": "PBI",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "2.6 hrs",
+          "passengers": ["Vicky"],
+          "pilot": "David Rodgers",
+          "notes": "VICKY"
+        },
+        {
+          "date": "1/8/92",
+          "departure": "TEB",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "1.6 hrs",
+          "passengers": ["2 Friends", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "2 FRIENDS, GHISLAINE"
+        },
+        {
+          "date": "1/12/92",
+          "departure": "CMH",
+          "arrival": "BIS",
+          "aircraft": "N908JE",
+          "flight_time": "1.1 hrs",
+          "passengers": ["Cindy Lopez", "1", "APA"],
+          "pilot": "David Rodgers",
+          "notes": "CINDY LOPEZ + 1, APA"
+        },
+        {
+          "date": "2/2/92",
+          "departure": "BIS",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "1.6 hrs",
+          "passengers": ["Jeffrey Morgan"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY MORGAN"
+        },
+        {
+          "date": "2/6/92",
+          "departure": "TEB",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "1.1 hrs",
+          "passengers": [],
+          "pilot": "David Rodgers",
+          "notes": ""
+        },
+        {
+          "date": "2/17/92",
+          "departure": "CMH",
+          "arrival": "BIS",
+          "aircraft": "N908JE",
+          "flight_time": "2.4 hrs",
+          "passengers": ["Jeffrey", "Anne McBride"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, ANNE MCBRIDE"
+        },
+        {
+          "date": "2/17/92",
+          "departure": "BIS",
+          "arrival": "HNK",
+          "aircraft": "N908JE",
+          "flight_time": "1.4 hrs",
+          "passengers": ["Jeffrey", "Ann McBride"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, ANN MCBRIDE"
+        },
+        {
+          "date": "2/22/92",
+          "departure": "HNK",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "2.6 hrs",
+          "passengers": ["Anne"],
+          "pilot": "David Rodgers",
+          "notes": "ANNE"
+        },
+        {
+          "date": "2/27/92",
+          "departure": "JFK",
+          "arrival": "INX",
+          "aircraft": "N908JE",
+          "flight_time": "",
+          "passengers": ["Ghislaine", "3", "Jeanne Ask"],
+          "pilot": "David Rodgers",
+          "notes": "GHISLAINE, 3, JEANNE ASK"
+        },
+        {
+          "date": "2/27/92",
+          "departure": "TEB",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "4.3 hrs",
+          "passengers": ["Jeffrey", "GM"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GM"
+        },
+        {
+          "date": "12/21/91",
+          "departure": "JFK",
+          "arrival": "LAS",
+          "aircraft": "N908JE",
+          "flight_time": "5.3 hrs",
+          "passengers": ["Ghislaine", "2 Pilots", "Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "GHISLAINE, 2 PILOTS + JEFFREY"
+        },
+        {
+          "date": "12/31/91",
+          "departure": "TEB",
+          "arrival": "PBI",
+          "aircraft": "N908JE",
+          "flight_time": "1.6 hrs",
+          "passengers": ["Jeffrey", "Lynn Forester", "Ghislaine", "Teala Davis"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, LYNN FORESTER, GHISLAINE, TEALA DAVIS"
+        },
+        {
+          "date": "2/20/92",
+          "departure": "CYEM/CMH",
+          "arrival": "CMH CYEM",
+          "aircraft": "N908JE",
+          "flight_time": "",
+          "passengers": ["Virginia Roberts", "Juan Alessi", "Ghislaine Maxwell"],
+          "pilot": "David Rodgers",
+          "notes": "VIRGINIA ROBERTS, JUAN ALESSI, GHISLAINE MAXWELL"
+        }
+      ],
+      "headers": ["DATE", "AIRCRAFT MAKE AND MODEL", "AIRCRAFT IDENTIFICATION MARKS", "POINTS OF DEPARTURE & ARRIVAL", "FROM", "TO", "MILEAGE", "SINGLE PILOT", "FLT TIME", "REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS", "AIRCRAFT CATEGORY"],
+      "annotations": ["PARENTS", "2 FRIENDS", "+ 1", "2 PILOTS", "10/16/2000", "Complex date entries: 100.5, 102.5, 104.16-16.5, 108.16-10"]
+    }
+  },
+  "entities": {
+    "people": [
+      "Parents",
+      "Ghislaine Maxwell",
+      "Ghislaine",
+      "Jeffrey",
+      "Vicky",
+      "2 Friends",
+      "Cindy Lopez",
+      "APA",
+      "Jeffrey Morgan",
+      "Anne McBride",
+      "Ann McBride",
+      "Anne",
+      "Jeanne Ask",
+      "GM",
+      "2 Pilots",
+      "Lynn Forester",
+      "Teala Davis",
+      "Virginia Roberts",
+      "Juan Alessi",
+      "David Rodgers"
+    ],
+    "organizations": [],
+    "locations": [
+      "ASC",
+      "TUS",
+      "CYEM",
+      "PBI",
+      "TEB",
+      "CMH",
+      "BIS",
+      "HNK",
+      "JFK",
+      "INX",
+      "LAS"
+    ],
+    "dates": ["12/16/91", "12/21/91", "12/31/91", "1/1/92", "1/2/92", "1/3/92", "1/8/92", "1/12/92", "2/2/92", "2/6/92", "2/17/92", "2/20/92", "2/21/92", "2/22/92", "2/27/92"],
+    "aircraft": ["N908JE"],
+    "phones": [],
+    "emails": []
+  },
+  "visual_elements": {
+    "signatures": ["David Rodgers (pilot signature at bottom)"],
+    "stamps": [],
+    "corrections": ["Unusual date formats", "Mathematical corrections in totals"],
+    "redactions": []
+  },
+  "metadata": {
+    "log_type": "passenger_and_cargo_manifest",
+    "time_period": "December 1991-February 1992",
+    "total_flights": 18,
+    "page_condition": "good",
+    "aircraft_registration": "N908JE",
+    "running_total_hours": "1812.3",
+    "handwriting_notes": "Unusual date numbering system (100.5, 102.5, etc.), first specific full date appears: 10/16/2000"
+  },
+  "insights": [
+    "VIRGINIA ROBERTS explicitly named - significant given later allegations",
+    "LYNN FORESTER appears - later Lynn Forester de Rothschild, British-American businesswoman",
+    "JUAN ALESSI appears again - Epstein's house manager",
+    "First appearance of 'PARENTS' as passengers with Ghislaine Maxwell",
+    "Unusual date numbering: 100.5, 102.5, 104.16-16.5, 108.16-10 - possibly day counting system",
+    "First specific calendar date appears: 10/16/2000",
+    "CYEM appears frequently - likely Caribbean airport",
+    "TUS - Tucson, Arizona",
+    "LAS - Las Vegas appears as destination",
+    "Jeffrey Morgan - different Jeffrey from Jeffrey Epstein",
+    "Anne/Ann McBride - name spelled both ways",
+    "Cindy Lopez noted with '+1' unnamed companion",
+    "Jeanne Ask appears with Ghislaine and 3 others",
+    "Teala Davis travels with Jeffrey, Lynn Forester, and Ghislaine",
+    "2 PILOTS notation unusual - typically only one pilot logs",
+    "Complex routing CYEM/CMH to CMH CYEM - circular or multi-stop flight",
+    "Virginia Roberts, Juan Alessi, and Ghislaine Maxwell travel together",
+    "HNK and BIS as new airport codes",
+    "INX as destination - possibly international"
+  ]
+}

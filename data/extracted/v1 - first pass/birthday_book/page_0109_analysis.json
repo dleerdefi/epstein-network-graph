@@ -1,0 +1,140 @@
+{
+  "page_number": 109,
+  "file_path": "data/birthday_book_images/page_0109.png",
+  "file_size_mb": 0.28258705139160156,
+  "type": "children_story_contribution",
+  "content": {
+    "text": "Uncelf Mike's poppy\n\none day uncel\nF desided to go poppy\nHe had never seen\npoppy in his life\neventhou he is\n50 he has never\nseen it. 'naraiter\nWhy are you here?'\nSaid\n'get on uncel F\nwith the story OK.'\nSo as I was saying\nhe was going for the toilet",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "description": "Child's handwritten story about 'Uncle F' turning 50, page 1",
+    "text_sections": {
+      "full_transcription": "Uncelf Mike's poppy (title at top)\n\none day uncel\nF desided to go poppy\nHe had never seen\npoppy in his life\neventhou he is\n50 he has never\nseen it. 'naraiter\nWhy are you here?'\nSaid\n'get on uncel F\nwith the story OK.'\nSo as I was saying\nhe was going for the toilet",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Uncle F",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          109
+        ]
+      },
+      {
+        "name": "Mike",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          109
+        ]
+      },
+      {
+        "name": "Narrator (mentioned)",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          109
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "50 (age reference)"
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Child (identity unknown)",
+    "recipient": "Jeffrey Epstein (Uncle F)",
+    "date": null,
+    "subject": "Children's creative story for 50th birthday",
+    "theme": "child_birthday_story",
+    "significance": "medium",
+    "document_type": "children_story_contribution"
+  },
+  "insights": [
+    "Child refers to Epstein as 'Uncle F' suggesting familial or close family friend relationship",
+    "Story written in child's handwriting with spelling errors typical of young age",
+    "Bathroom humor ('poppy' for potty) indicates young child author",
+    "Reference to age 50 confirms birthday book purpose",
+    "Meta-narrative element with narrator interruption shows creative storytelling",
+    "Child comfortable enough to write humorous/silly story for Epstein",
+    "'Mike' mentioned at top may be another family member or the child's name",
+    "Playful tone suggests positive relationship between child and recipient",
+    "Story format chosen over traditional birthday message shows creativity"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000109",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.173732",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": [],
+    "handwritten_notes": [
+      "Entire page is child's handwritten story"
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Child's handwritten story on lined paper",
+    "Title: 'Uncelf Mike's poppy'",
+    "Story about 'uncel F' (Uncle F/Jeffrey) turning 50",
+    "Child's spelling: 'uncel' for uncle, 'desided' for decided",
+    "'poppy' appears to be child's term for potty/toilet",
+    "Narrative device with 'naraiter' interrupting story",
+    "Dialog: 'Why are you here?' and 'get on uncel F with the story'",
+    "Bathroom humor typical of young child",
+    "Written in pencil on white paper",
+    "Uneven handwriting suggests young age (6-10 years old)",
+    "Document stamped HOUSE_OVERSIGHT_000109",
+    "First page of children's section after divider"
+  ],
+  "investigative_leads": []
+}

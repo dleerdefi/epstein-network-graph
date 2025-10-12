@@ -1,0 +1,283 @@
+{
+  "page_number": 117,
+  "date_header": "SEP-NOV 2005",
+  "time_period": "September 2005 - November 2005",
+  "aircraft": {
+    "registration": "Multiple (G-1159B N909JE, B-727-200 N908JE, B-727-31M N905JE)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "SEP 9",
+      "date": "09/09/2005",
+      "departure": "B-727-200",
+      "arrival": "SEABOURNE",
+      "flight_time": "MED",
+      "remarks": "MED - MED - [REDACTED], [REDACTED]",
+      "passengers": ["REDACTED", "REDACTED"],
+      "crew": "3/0"
+    },
+    {
+      "entry_number": "11",
+      "date": "09/11/2005",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1816",
+      "remarks": "PBI - TIST - JE, AM",
+      "passengers": ["JE", "AM"],
+      "crew": "LV 2/6"
+    },
+    {
+      "entry_number": "13",
+      "date": "09/13/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1817",
+      "remarks": "TIST - TEB - JE, AM",
+      "passengers": ["JE", "AM"],
+      "crew": "BM LV 2/8"
+    },
+    {
+      "entry_number": "14",
+      "date": "09/14/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1818",
+      "remarks": "TEB - BED - JE, AM, SK",
+      "passengers": ["JE", "AM", "SK"],
+      "crew": "BM 8"
+    },
+    {
+      "entry_number": "14",
+      "date": "09/14/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1819",
+      "remarks": "BED - APF - JE, AM, SK, Larry Summers",
+      "passengers": ["JE", "AM", "SK", "Larry Summers"],
+      "crew": "BM 8"
+    },
+    {
+      "entry_number": "20",
+      "date": "09/20/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1820",
+      "remarks": "PBI - TIST - JE, DB, SK, JEM",
+      "passengers": ["JE", "DB", "SK", "JEM"],
+      "crew": "LV 2/5"
+    },
+    {
+      "entry_number": "24",
+      "date": "09/24/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1822",
+      "remarks": "TIST - TEB - JE, DB, SK, Hitomi Nakamura",
+      "passengers": ["JE", "DB", "SK", "Hitomi Nakamura"],
+      "crew": "LV 3/7"
+    },
+    {
+      "entry_number": "25",
+      "date": "09/25/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1821",
+      "remarks": "TEB - CMH - JE, [REDACTED], Paul Hala",
+      "passengers": ["JE", "REDACTED", "Paul Hala"],
+      "crew": "LV LV 1/4"
+    },
+    {
+      "entry_number": "25",
+      "date": "09/25/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1824",
+      "remarks": "CMH - TEB - JE, [REDACTED], SK",
+      "passengers": ["JE", "REDACTED", "SK"],
+      "crew": "LV 1/4"
+    },
+    {
+      "entry_number": "27",
+      "date": "09/27/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1825",
+      "remarks": "TEB - BED - JE, AM, [REDACTED]",
+      "passengers": ["JE", "AM", "REDACTED"],
+      "crew": "LV 8"
+    },
+    {
+      "entry_number": "27",
+      "date": "09/27/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1826",
+      "remarks": "BED - TEB - JE, AM, [REDACTED]",
+      "passengers": ["JE", "AM", "REDACTED"],
+      "crew": "LV 1/8"
+    },
+    {
+      "entry_number": "OCT 8",
+      "date": "10/08/2005",
+      "departure": "B-727-31M",
+      "arrival": "N905JE",
+      "flight_time": "343",
+      "remarks": "LCG - LCG - JE, AM, [REDACTED], George Sweeting",
+      "passengers": ["JE", "AM", "REDACTED", "George Sweeting"],
+      "crew": "GA 1/7"
+    },
+    {
+      "entry_number": "22",
+      "date": "10/22/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "344",
+      "remarks": "TIST - JFK - JE, AM, [REDACTED]",
+      "passengers": ["JE", "AM", "REDACTED"],
+      "crew": "GA 10/0 3/7"
+    },
+    {
+      "entry_number": "NOV 2",
+      "date": "11/02/2005",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1874",
+      "remarks": "TEB - BED - JE, GM, SK, TATIANNA, DB",
+      "passengers": ["JE", "GM", "SK", "TATIANNA", "DB"],
+      "crew": "LV 8"
+    },
+    {
+      "entry_number": "2",
+      "date": "11/02/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1875",
+      "remarks": "BED - PBI - GM",
+      "passengers": ["GM"],
+      "crew": "LV 5"
+    },
+    {
+      "entry_number": "2",
+      "date": "11/02/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1876",
+      "remarks": "PBI - BED - GM",
+      "passengers": ["GM"],
+      "crew": "LV 5"
+    },
+    {
+      "entry_number": "2",
+      "date": "11/02/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1877",
+      "remarks": "BED - TEB - JE, DB, GM, SK, TATIANNA",
+      "passengers": ["JE", "DB", "GM", "SK", "TATIANNA"],
+      "crew": "LV 4"
+    },
+    {
+      "entry_number": "3",
+      "date": "11/03/2005",
+      "departure": "B-727-31M",
+      "arrival": "N908JE",
+      "flight_time": "351",
+      "remarks": "JFK - TIST - JE, [REDACTED], SK",
+      "passengers": ["JE", "REDACTED", "SK"],
+      "crew": "BM 4/4"
+    },
+    {
+      "entry_number": "8",
+      "date": "11/08/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "352",
+      "remarks": "TIST - JFK - [REDACTED], Lyssa Jeffris, [REDACTED], SK, Bryanna Strine, Anna Wagner, Brice",
+      "passengers": ["REDACTED", "Lyssa Jeffris", "REDACTED", "SK", "Bryanna Strine", "Anna Wagner", "Brice"],
+      "crew": "BM 3/9"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "AM",
+      "REDACTED",
+      "SK",
+      "Larry Summers",
+      "DB",
+      "JEM",
+      "Hitomi Nakamura",
+      "Paul Hala",
+      "George Sweeting",
+      "GM",
+      "TATIANNA",
+      "Lyssa Jeffris",
+      "Bryanna Strine",
+      "Anna Wagner",
+      "Brice",
+      "LV",
+      "BM",
+      "GA",
+      "David Rodgers"
+    ],
+    "locations": [
+      "MED",
+      "PBI",
+      "TIST",
+      "TEB",
+      "BED",
+      "APF",
+      "CMH",
+      "LCG",
+      "JFK"
+    ],
+    "aircraft": [
+      "B-727-200",
+      "SEABOURNE",
+      "G-1159B",
+      "N909JE",
+      "B-727-31M",
+      "N905JE",
+      "N908JE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "Amount Forward: 9814.8, Total to Date: 9882.0",
+    "amount_forward": "9814.8",
+    "total_to_date": "9882.0",
+    "document_quality": "good",
+    "legibility": "mostly clear with some redactions"
+  },
+  "insights": [
+    "Page covers September-November 2005",
+    "September 2005 entries: 9, 11, 13, 14, 14, 20, 24, 25, 25, 27, 27",
+    "October 2005 entries: 8, 22",
+    "November 2005 entries: 2, 2, 2, 2, 3, 8",
+    "Larry Summers appears on September 14, 2005 flight",
+    "JE (Jeffrey Epstein) appears in nearly every flight",
+    "SK (Sarah Kellen) appears very frequently",
+    "AM appears multiple times in September",
+    "DB appears several times",
+    "Hitomi Nakamura appears on September 24",
+    "TATIANNA appears on October 2",
+    "Paul Hala appears on September 25",
+    "George Sweeting appears on October 1",
+    "Large group on October 8 with multiple female names",
+    "Mix of Caribbean (TIST), domestic, and northeast operations",
+    "Columbus, Ohio (CMH) operations on September 25",
+    "Bedford, MA (BED) appears multiple times",
+    "Naples, FL (APF) appears on September 14"
+  ]
+}

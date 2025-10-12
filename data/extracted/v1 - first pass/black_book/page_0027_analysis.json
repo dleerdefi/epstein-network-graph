@@ -1,0 +1,694 @@
+{
+  "page_number": 27,
+  "alphabetical_section": "H",
+  "contacts": [
+    {
+      "name": "Hoffman, Jessica",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "850 Piedmans Hill Road",
+          "street": "850 Piedmans Hill Road",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 777 914[0XX] 21937",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 222 7788",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Holland-Martin, Ben",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Radford Road / London SW10",
+          "city": "London",
+          "postal_code": "SW10",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 351 3041 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Holland, Mr & Mrs James",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "36a and 36b Egerton Gardens / 33 Kingsbridge Street / London SW3 2AT",
+          "street": "36a and 36b Egerton Gardens",
+          "city": "London",
+          "postal_code": "SW3 2AT",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "01 362 767 6000 (o)",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "Email:@[illegible]@mila.com",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "66c Draycottplace",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "NW Charlotte Street",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "071 240 48[XX]",
+          "area_code": "071",
+          "geographic_indicator": "London (very old code)",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "071 240 [illegible]",
+          "area_code": "071",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 591 8804 [cell]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 591 0805 [home]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Horne Adam & Tierney",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "18 Eaton Mansions / London SW1 Office",
+          "street": "18 Eaton Mansions",
+          "city": "London",
+          "postal_code": "SW1",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "R Rogers, Eliza [or]",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "N-30 Downshire Hill NW",
+          "street": "30 Downshire Hill",
+          "postal_code": "NW",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 20 7722 9765",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Name unclear",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Name unclear"]
+      }
+    },
+    {
+      "name": "[Entry with office@homemedia.com]",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 736 4269 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 266 1266 (o)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "office@homemedia.com",
+        "home@martinhouse FarmNouse G"
+      ],
+      "notes": "Name not visible",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Name missing"]
+      }
+    },
+    {
+      "name": "[Entry with Dowden on the Water]",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Box lee, Dowden on the Water",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 827 2594 / 0207 244 5506",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 351 0411 home",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0161 750 3461 Marl",
+          "area_code": "0161",
+          "geographic_indicator": "Manchester",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0161 761 2151 (o)",
+          "area_code": "0161",
+          "geographic_indicator": "Manchester",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Name not visible",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Name missing"]
+      }
+    },
+    {
+      "name": "Hovenian, Nina",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 496 1640 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Hovnanian, Shauni",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Box Main Street / Red Bank, NJ 07701 (h)",
+          "city": "Red Bank",
+          "state": "NJ",
+          "postal_code": "07701",
+          "country": "USA",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Fax 732 747 7644 1828 Blvd / New York",
+          "city": "New York",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 8777 (o)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 8119 work",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "201 530 2110 SH banks - clur",
+          "area_code": "201",
+          "geographic_indicator": "Northern New Jersey",
+          "confidence": "high"
+        },
+        {
+          "type": "fax",
+          "number": "732 747 7644 (fax)",
+          "area_code": "732",
+          "geographic_indicator": "Central New Jersey",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 334 4444 MN",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 334 1041 clur.",
+          "area_code": "212",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Hovnanian family - real estate development",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Howard J. Kaplan",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1717 N. Bayshore Drive / Miami, FL",
+          "street": "1717 N. Bayshore Drive",
+          "city": "Miami",
+          "state": "FL",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "(305) 00 0000",
+          "area_code": "305",
+          "geographic_indicator": "Miami, Florida",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0033 XXX 11136",
+          "country_code": "33",
+          "geographic_indicator": "France",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "306 406 0677 (h)",
+      "phones": [
+        {
+          "type": "home",
+          "number": "306 406 0677 (h)",
+          "area_code": "306",
+          "geographic_indicator": "Saskatchewan, Canada",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "Bunny@[illegible]group.com"
+      ],
+      "notes": "Name not visible",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Name missing"]
+      }
+    },
+    {
+      "name": "0207-229 7456 (h)",
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-229 7456 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Name not visible",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Name missing"]
+      }
+    },
+    {
+      "name": "Hunter, Carlyn & Laurie",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "[illegible]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London: [illegible] SW3 801",
+          "postal_code": "SW3",
+          "geographic_indicator": "London",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 351 9306",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 913 [illegible]",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Hunteman, Jon & Mary Kate",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "3 red Milliary Way / Egft London PB 130 (o)",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "office",
+          "number": "0181 401 5462 (o)",
+          "area_code": "0181",
+          "geographic_indicator": "Outer London (old code)",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Hovanissian",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "(Johnstion) / 0019 [illegible]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0019 9[illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0019 9111197",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Johnston connection",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Most information illegible"]
+      }
+    },
+    {
+      "name": "Hsu, Peter",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 734 600T(h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Hunt, Laura",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "4 St. Stephen' / New York, NY 10021",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 737 8414 (o)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "110 World Credit Bank (h)",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "1[illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 406 6000 XX (o)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 295 5333 XX (h)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 916 510 cell",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 916 5100 XX",
+          "area_code": "917",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "World Credit Bank connection",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Hunt, Nick & Kim",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Brenda Court / [illegible] Berkshire",
+          "region": "Berkshire",
+          "country": "UK",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 733 [illegible]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "01 628 623811",
+          "geographic_indicator": "UK",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0831 [illegible]4 Cell",
+          "area_code": "0831",
+          "geographic_indicator": "UK mobile (old)",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "[illegible] Chaselme Place",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0203 524[illegible]",
+          "area_code": "0203",
+          "geographic_indicator": "London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0203 241[208] (o)",
+          "area_code": "0203",
+          "geographic_indicator": "London",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Hurley, Liz",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Studio Prod / 1 Faversham Place / London W2",
+          "street": "1 Faversham Place",
+          "city": "London",
+          "postal_code": "W2",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "020 7495 XXXX",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Elizabeth Hurley - actress/model",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Hunter Gordon, Kit & Georgiha",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "3 [illegible] / 13 Belgrave Place / London SW1",
+          "street": "13 Belgrave Place",
+          "city": "London",
+          "postal_code": "SW1",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 20,
+    "quality": "poor",
+    "legibility": "heavily obscured",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "Elizabeth Hurley - Actress/Model",
+      "Hovnanian family - Real estate developers"
+    ]
+  },
+  "insights": [
+    "Elizabeth Hurley (Liz Hurley) - famous actress/model",
+    "Hovnanian family - major real estate development family",
+    "Several entries missing names (phone numbers only)",
+    "New Jersey connections (Red Bank, area codes 201, 732)",
+    "Manchester UK connection (0161 area code)",
+    "Saskatchewan Canada connection (306 area code) - unusual",
+    "Mix of very old UK codes (071) and newer ones",
+    "Miami, Florida presence",
+    "World Credit Bank reference",
+    "Page quality notably poor with many illegible entries"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "medium",
+    "total_contacts": 20,
+    "high_confidence": 8,
+    "medium_confidence": 8,
+    "low_confidence": 4,
+    "extraction_issues": [
+      "Four entries missing names entirely",
+      "Many phone numbers partially illegible",
+      "Page quality significantly degraded"
+    ]
+  }
+}

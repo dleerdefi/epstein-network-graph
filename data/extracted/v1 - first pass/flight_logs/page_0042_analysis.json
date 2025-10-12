@@ -1,0 +1,290 @@
+{
+  "page_number": 42,
+  "document_type": "Flight Log",
+  "metadata": {
+    "time_period": "May - August 1996",
+    "header_date": "1996 MAY",
+    "pilot": "David Rodgers",
+    "aircraft_registration": "N908JE",
+    "aircraft_make_model": "G1159B",
+    "total_flight_time_page": "37:05",
+    "amt_forward": "6687:18",
+    "total_to_date": "6724:23"
+  },
+  "flights": [
+    {
+      "date": "05/30/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:02",
+      "passengers": "JE, POLA SEYBOLD, MELISSA, ANTHONY EVELYN",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "06/02/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:01",
+      "passengers": "JE, SEYBOLD, POLA, MELANIE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "06/03/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:00",
+      "passengers": "JE, GM, ALEXIA, POLA",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "06/08/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:02",
+      "passengers": "NO PAX NOTES, JEAN",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "06/09/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:01",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "07/20/1996",
+      "aircraft": "SENANDRA N908JE",
+      "departure": "SAV",
+      "arrival": "SAV",
+      "flight_time": "6:00",
+      "passengers": "RICHARD PATRICK",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "07/30/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "SOC",
+      "arrival": "CMH",
+      "flight_time": "2:05",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "07/10/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "CMH",
+      "arrival": "TEB",
+      "flight_time": "1:02",
+      "passengers": "JE, GM, TED TUCKERMAN",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "07/12/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "MVY",
+      "flight_time": ":04",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "07/12/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "MVY",
+      "arrival": "TEB",
+      "flight_time": ":04",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "07/12/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:04",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "07/15/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:03",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "07/16/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:01",
+      "passengers": "JE, GIORGIA",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "07/17/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "SAV",
+      "flight_time": ":04",
+      "passengers": "CPS 1 INSPECTION",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "08/13/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "SAV",
+      "arrival": "EWR",
+      "flight_time": "1:07",
+      "passengers": "CPS 1 INSPECTION",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "08/14/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:02",
+      "passengers": "JE, GM, NAOMI ANNIE PAULL",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "08/16/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "TVC",
+      "flight_time": "1:05",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "08/16/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TVC",
+      "arrival": "TEB",
+      "flight_time": "1:04",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "08/18/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "MVY",
+      "flight_time": ":05",
+      "passengers": "JE, JOSE BOMBADIL, ELLIOTT TAYLOR",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    }
+  ],
+  "entities": {
+    "people": [
+      {"name": "Jeffrey Epstein", "abbreviation": "JE", "role": "Primary passenger"},
+      {"name": "Ghislaine Maxwell", "abbreviation": "GM", "role": "Frequent passenger"},
+      {"name": "Pola Seybold", "role": "Passenger"},
+      {"name": "Melissa", "role": "Passenger"},
+      {"name": "Anthony Evelyn", "role": "Passenger"},
+      {"name": "Seybold", "role": "Passenger"},
+      {"name": "Pola", "role": "Passenger"},
+      {"name": "Melanie", "role": "Passenger"},
+      {"name": "Alexia", "role": "Passenger"},
+      {"name": "Jean", "role": "Passenger"},
+      {"name": "Richard Patrick", "role": "Passenger"},
+      {"name": "Ted Tuckerman", "role": "Passenger"},
+      {"name": "Giorgia", "role": "Passenger"},
+      {"name": "Naomi Annie Paull", "role": "Passenger"},
+      {"name": "Jose Bombadil", "role": "Passenger"},
+      {"name": "Elliott Taylor", "role": "Passenger"},
+      {"name": "David Rodgers", "role": "Pilot"}
+    ],
+    "locations": [
+      {"code": "TEB", "name": "Teterboro Airport", "location": "Teterboro, NJ"},
+      {"code": "PBI", "name": "Palm Beach International Airport", "location": "West Palm Beach, FL"},
+      {"code": "SAV", "name": "Savannah/Hilton Head International Airport", "location": "Savannah, GA"},
+      {"code": "SOC", "name": "Unknown airport", "location": "Unknown"},
+      {"code": "CMH", "name": "John Glenn Columbus International Airport", "location": "Columbus, OH"},
+      {"code": "MVY", "name": "Martha's Vineyard Airport", "location": "Martha's Vineyard, MA"},
+      {"code": "EWR", "name": "Newark Liberty International Airport", "location": "Newark, NJ"},
+      {"code": "TVC", "name": "Cherry Capital Airport", "location": "Traverse City, MI"}
+    ],
+    "aircraft": [
+      {"registration": "N908JE", "type": "Gulfstream G1159B", "category": "Private Jet"},
+      {"registration": "SENANDRA", "type": "Unknown", "category": "Special notation"}
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {"location": "bottom_left", "description": "David Rodgers pilot signature", "legibility": "clear"}
+    ],
+    "stamps": [],
+    "markings": [
+      {"type": "page_number", "content": "42", "location": "bottom_center"},
+      {"type": "total_time", "content": "37:05", "location": "bottom_right"}
+    ]
+  },
+  "insights": [
+    "Page transitions from May through August 1996",
+    "Date sequence appears non-linear (July dates mixed)",
+    "Multiple inspection flights noted (CPS 1 INSPECTION)",
+    "SENANDRA aircraft notation appears on July 20",
+    "Short MVY (Martha's Vineyard) trips on July 12",
+    "Pattern of TEB-PBI corridor continues",
+    "Traverse City, MI (TVC) appears as destination in August",
+    "Aircraft maintenance or inspection period in July-August",
+    "Mix of business and personal travel",
+    "Multiple same-day flights on July 12 and August 16"
+  ],
+  "corrections": {
+    "date_inference": "Page 42 covers May 30 through August 18, 1996",
+    "actual_dates_from_png": "Verified from PNG: May 30, June 2, 3, 8, 9, July 20, 30, 10, 12 (three times), 15, 16, 17, August 13, 14, 16 (twice), 18",
+    "continuity": "Continues from page 41 which ended May 27, 1996",
+    "correction_note": "Corrected to show May-August 1996 based on PNG verification. Note unusual date sequencing in July entries."
+  },
+  "pilot_signature": "David Rodgers",
+  "page_total": "37:05 hours"
+}

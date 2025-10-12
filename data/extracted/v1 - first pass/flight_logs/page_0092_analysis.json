@@ -1,0 +1,274 @@
+{
+  "page_number": 92,
+  "date_header": "APR-MAY 2002",
+  "time_period": "April 2002 - May 2002",
+  "aircraft": {
+    "registration": "Multiple (G-727-31 N908JE, G-1159B N909JE)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "APR 1",
+      "date": "04/01/2002",
+      "departure": "G-727-31",
+      "arrival": "N908JE",
+      "flight_time": "78",
+      "remarks": "PBI - TIST - JG, GM, SK, AY, S. BLUMAY, S. GUTTMAN",
+      "passengers": ["JG", "GM", "SK", "AY", "S. BLUMAY", "S. GUTTMAN"],
+      "crew": "2/3"
+    },
+    {
+      "entry_number": "5",
+      "date": "04/05/2002",
+      "departure": "",
+      "arrival": "TIST",
+      "flight_time": "79",
+      "remarks": "PBI - CINDY LOPEZ",
+      "passengers": ["CINDY LOPEZ"],
+      "crew": "2/7"
+    },
+    {
+      "entry_number": "5",
+      "date": "04/05/2002",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "80",
+      "remarks": "FRD - CINDY LOPEZ, BOB MEISTER",
+      "passengers": ["CINDY LOPEZ", "BOB MEISTER"],
+      "crew": "2/1"
+    },
+    {
+      "entry_number": "6",
+      "date": "04/06/2002",
+      "departure": "",
+      "arrival": "FRD",
+      "flight_time": "81",
+      "remarks": "PBI - CINDY LOPEZ",
+      "passengers": ["CINDY LOPEZ"],
+      "crew": "2/3"
+    },
+    {
+      "entry_number": "8",
+      "date": "04/08/2002",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "82",
+      "remarks": "PBI - JG, SK, D. MULLEN LEWIS",
+      "passengers": ["JG", "SK", "D. MULLEN LEWIS"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "20",
+      "date": "04/20/2002",
+      "departure": "G-727-200",
+      "arrival": "5NVNHRQE",
+      "flight_time": "",
+      "remarks": "MED - MED - PRESIDENT B. CLINTON, KEVIN SPACEY, CHRIS TUCKER",
+      "passengers": ["PRESIDENT B. CLINTON", "KEVIN SPACEY", "CHRIS TUCKER"],
+      "crew": "2/0"
+    },
+    {
+      "entry_number": "22",
+      "date": "04/22/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "ANDREA PASSANELLA, ANDREI M MITROVICH",
+      "passengers": ["ANDREA PASSANELLA", "ANDREI M MITROVICH"],
+      "crew": "2/0"
+    },
+    {
+      "entry_number": "23",
+      "date": "04/23/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "ALAN DERSHOWITZ, REDACTED, LEE KORZAK, 5 REDACTED",
+      "passengers": ["ALAN DERSHOWITZ", "REDACTED", "LEE KORZAK", "5 REDACTED"],
+      "crew": "2/0"
+    },
+    {
+      "entry_number": "24",
+      "date": "04/24/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "CHAUNTAE DAVIES, STEVE SIMPSON, DAVID MULLEN",
+      "passengers": ["CHAUNTAE DAVIES", "STEVE SIMPSON", "DAVID MULLEN"],
+      "crew": "2/0"
+    },
+    {
+      "entry_number": "25",
+      "date": "04/25/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "JAMES R. MICHAEL, MIKE MARNELL, CLAIRE HAZEL, PATRICIA, SISTER DIVINA",
+      "passengers": ["JAMES R. MICHAEL", "MIKE MARNELL", "CLAIRE HAZEL", "PATRICIA", "SISTER DIVINA"],
+      "crew": "2/0"
+    },
+    {
+      "entry_number": "25",
+      "date": "04/25/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "WILLIAM F. KASEY, MATT JOHNSON, RITA R",
+      "passengers": ["WILLIAM F. KASEY", "MATT JOHNSON", "RITA R"],
+      "crew": "2/0"
+    },
+    {
+      "entry_number": "26",
+      "date": "04/26/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "ED NORRIS, JAMES DONAHUE, CELINE CHAPLIN",
+      "passengers": ["ED NORRIS", "JAMES DONAHUE", "CELINE CHAPLIN"],
+      "crew": "< 0"
+    },
+    {
+      "entry_number": "27",
+      "date": "04/27/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "ANN MARIE B MELLON, ANTONIO CODRON, LEO REDACTED",
+      "passengers": ["ANN MARIE B MELLON", "ANTONIO CODRON", "LEO REDACTED"],
+      "crew": "2/0"
+    },
+    {
+      "entry_number": "27",
+      "date": "04/27/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "COLLIER PALLON WESTPHALL, PEGGY E SIEGAL",
+      "passengers": ["COLLIER PALLON WESTPHALL", "PEGGY E SIEGAL"],
+      "crew": "3/0"
+    },
+    {
+      "entry_number": "29",
+      "date": "04/29/2002",
+      "departure": "G-1159-91",
+      "arrival": "N909JE",
+      "flight_time": "91",
+      "remarks": "PBI - ABG - JG, GM, SK",
+      "passengers": ["JG", "GM", "SK"],
+      "crew": "4/1"
+    },
+    {
+      "entry_number": "MAY 2",
+      "date": "05/02/2002",
+      "departure": "",
+      "arrival": "ABG",
+      "flight_time": "92",
+      "remarks": "JCK - JG, GM, SK",
+      "passengers": ["JG", "GM", "SK"],
+      "crew": "3/2"
+    },
+    {
+      "entry_number": "4",
+      "date": "05/04/2002",
+      "departure": "",
+      "arrival": "JCK",
+      "flight_time": "93",
+      "remarks": "PBI - JG, SHELLEY LEWIS",
+      "passengers": ["JG", "SHELLEY LEWIS"],
+      "crew": "2/4"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JG",
+      "GM",
+      "SK",
+      "AY",
+      "S. BLUMAY",
+      "S. GUTTMAN",
+      "CINDY LOPEZ",
+      "BOB MEISTER",
+      "D. MULLEN LEWIS",
+      "PRESIDENT B. CLINTON",
+      "KEVIN SPACEY",
+      "CHRIS TUCKER",
+      "ANDREA PASSANELLA",
+      "ANDREI M MITROVICH",
+      "ALAN DERSHOWITZ",
+      "REDACTED",
+      "LEE KORZAK",
+      "5 REDACTED",
+      "CHAUNTAE DAVIES",
+      "STEVE SIMPSON",
+      "DAVID MULLEN",
+      "JAMES R. MICHAEL",
+      "MIKE MARNELL",
+      "CLAIRE HAZEL",
+      "PATRICIA",
+      "SISTER DIVINA",
+      "WILLIAM F. KASEY",
+      "MATT JOHNSON",
+      "RITA R",
+      "ED NORRIS",
+      "JAMES DONAHUE",
+      "CELINE CHAPLIN",
+      "ANN MARIE B MELLON",
+      "ANTONIO CODRON",
+      "LEO REDACTED",
+      "COLLIER PALLON WESTPHALL",
+      "PEGGY E SIEGAL",
+      "SHELLEY LEWIS",
+      "David Rodgers"
+    ],
+    "locations": [
+      "PBI",
+      "TIST",
+      "FRD",
+      "MED",
+      "ABG",
+      "JCK"
+    ],
+    "aircraft": [
+      "G-727-31",
+      "N908JE",
+      "G-727-200",
+      "5NVNHRQE",
+      "G-1159-91",
+      "N909JE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": [
+      "STAFF REPORTED"
+    ]
+  },
+  "metadata": {
+    "page_total": "36/6",
+    "amount_forward": "8594",
+    "total_to_date": "8635",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page transitions from April to May 2002",
+    "CRITICAL: President Clinton appears on April 20 with Kevin Spacey and Chris Tucker",
+    "Alan Dershowitz appears on April 23",
+    "Multiple REDACTED entries including '5 REDACTED' on April 23",
+    "SK (Sarah Kellen) continues to appear frequently",
+    "Chauntae Davies appears on April 24",
+    "Peggy E Siegal appears on April 27",
+    "Chris Tucker appears with President Clinton and Kevin Spacey",
+    "Multiple passenger manifests without flight details (crew notation only)",
+    "Flight numbers reach 93",
+    "Caribbean operations continue (TIST, JCK)",
+    "Handwritten note: 'STAFF REPORTED'"
+  ]
+}

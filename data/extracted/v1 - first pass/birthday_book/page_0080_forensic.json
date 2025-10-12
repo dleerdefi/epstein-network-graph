@@ -1,0 +1,110 @@
+{
+  "page_number": 80,
+  "document_id": "HOUSE_OVERSIGHT_000080",
+  "extraction_type": "forensic_complete",
+  "extraction_timestamp": "2025-01-23",
+
+  "complete_text_transcription": "class officers\nMark Lipton\nMuriel Singer\nDebra Nagel\nBarbara Schwartz\n\nBryant Fuel Orchestra\n\nmy Favorite\nbook: Cheaper By The Dozen\nsong: Apple Bottled Jeans (Louis Vuitton Bag)\nteam: Miami Playa\nhero: Melody Engel\nauthor: New York University\nhigh school: L'aborn\nprofession: Cooking\nmotto: [blank]\n\nBryant Fuel Glee Club\n\nmy classmates\nBrad Wolman Felix Wood & Ski\nNathan Murray Collin Cooper/NY\nMelody Singer Alex (M.T. Seltzer)\nClara Murphy/Phy Judy B. Geller\nAmy Vogal Michelle A. Roach\nDavid Saltzman Geo. W.B.\nMarion Vogel\nGerald W. Shingles\nAmy R. Chapman\nJasmine Singer\nMelissa Wood\n\nBryant Fuel Orchestra\n\nclass leaders\n* YOUNGEST: Bruce Reynold-Ellen Statz\n* WITTIEST: Jeffrey Epstein\n* MOST POPULAR: (Girls) Debra Nessel\n* MOST CHEERFUL: Sharon Shapiro, Mel Sloan\n* BEST ATHLETE: Michale Rachel, Joe\n* BEST LOOKING: (Boys) Bill Jeff\n* BEST DRESSED: (Boys) Mike Jeff\n\nBryant Fuel Orchestra\n\nHOUSE_OVERSIGHT_000080",
+
+  "entities": {
+    "people": [
+      {"name": "Mark Lipton", "role": "Class Officer", "confidence": "high"},
+      {"name": "Muriel Singer", "role": "Class Officer", "confidence": "high"},
+      {"name": "Debra Nagel", "role": "Class Officer", "confidence": "high"},
+      {"name": "Barbara Schwartz", "role": "Class Officer", "confidence": "high"},
+      {"name": "Brad Wolman", "context": "Classmate", "confidence": "high"},
+      {"name": "Felix Wood", "context": "Classmate", "confidence": "high"},
+      {"name": "Nathan Murray", "context": "Classmate", "confidence": "high"},
+      {"name": "Collin Cooper", "context": "Classmate", "confidence": "high"},
+      {"name": "Melody Singer", "context": "Classmate", "confidence": "high"},
+      {"name": "Alex M.T. Seltzer", "context": "Classmate", "confidence": "high"},
+      {"name": "Clara Murphy", "context": "Classmate", "confidence": "high"},
+      {"name": "Judy B. Geller", "context": "Classmate", "confidence": "high"},
+      {"name": "Amy Vogal", "context": "Classmate", "confidence": "high"},
+      {"name": "Michelle A. Roach", "context": "Classmate", "confidence": "high"},
+      {"name": "David Saltzman", "context": "Classmate", "confidence": "high"},
+      {"name": "Geo. W.B.", "context": "Classmate", "confidence": "high"},
+      {"name": "Marion Vogel", "context": "Classmate", "confidence": "high"},
+      {"name": "Gerald W. Shingles", "context": "Classmate", "confidence": "high"},
+      {"name": "Amy R. Chapman", "context": "Classmate", "confidence": "high"},
+      {"name": "Jasmine Singer", "context": "Classmate", "confidence": "high"},
+      {"name": "Melissa Wood", "context": "Classmate", "confidence": "high"},
+      {"name": "Bruce Reynold", "superlative": "Youngest", "confidence": "high"},
+      {"name": "Ellen Statz", "superlative": "Youngest", "confidence": "high"},
+      {"name": "Jeffrey Epstein", "superlative": "Wittiest", "confidence": "high"},
+      {"name": "Debra Nessel", "superlative": "Most Popular (Girls)", "confidence": "high"},
+      {"name": "Sharon Shapiro", "superlative": "Most Cheerful", "confidence": "high"},
+      {"name": "Mel Sloan", "superlative": "Most Cheerful", "confidence": "high"},
+      {"name": "Michale Rachel", "superlative": "Best Athlete", "confidence": "high"},
+      {"name": "Joe", "superlative": "Best Athlete", "confidence": "high"},
+      {"name": "Bill", "superlative": "Best Looking (Boys)", "confidence": "high"},
+      {"name": "Jeff", "superlative": "Best Looking (Boys) / Best Dressed (Boys)", "confidence": "high"},
+      {"name": "Mike", "superlative": "Best Dressed (Boys)", "confidence": "high"},
+      {"name": "Melody Engel", "context": "Listed as hero", "confidence": "high"}
+    ],
+
+    "organizations": [
+      {"name": "Bryant Fuel Orchestra", "type": "School organization", "confidence": "high"},
+      {"name": "Bryant Fuel Glee Club", "type": "School organization", "confidence": "high"},
+      {"name": "New York University", "context": "Listed under author (error)", "confidence": "high"}
+    ],
+
+    "locations": [
+      {"place": "Miami", "context": "Miami Playa team", "confidence": "medium"},
+      {"place": "New York", "context": "NY reference", "confidence": "high"}
+    ]
+  },
+
+  "visual_analysis": {
+    "layout": "Yearbook page with multiple decorated sections",
+    "sections": [
+      {
+        "title": "class officers",
+        "decoration": "Ornate border with cherub/angel figure",
+        "content": "Four officer names listed"
+      },
+      {
+        "title": "my Favorite",
+        "decoration": "Decorative border with quill pen illustration",
+        "content": "Personal favorites list including book, song, team, etc."
+      },
+      {
+        "title": "my classmates",
+        "decoration": "Rounded rectangle border",
+        "content": "List of classmate names"
+      },
+      {
+        "title": "class leaders",
+        "decoration": "Asterisk bullet points",
+        "content": "Superlatives with student names"
+      }
+    ]
+  },
+
+  "key_insights": [
+    "Jeffrey Epstein listed as 'WITTIEST' in class superlatives",
+    "Jeff also appears under 'BEST LOOKING (Boys)' and 'BEST DRESSED (Boys)'",
+    "Bryant Fuel appears to be school name or class designation",
+    "Page is from yearbook with traditional superlatives format",
+    "Mix of handwritten and printed text styles",
+    "Some entries appear incomplete or abbreviated",
+    "Multiple Singer surname appearances (Muriel, Melody, Jasmine)",
+    "Traditional yearbook layout with decorative borders",
+    "Class officers section shows leadership structure"
+  ],
+
+  "forensic_notes": [
+    "Yearbook page with multiple sections",
+    "Mix of printed and possibly handwritten entries",
+    "Decorative borders typical of yearbook design",
+    "Document stamped HOUSE_OVERSIGHT_000080",
+    "Some text appears faded or unclear",
+    "Jeffrey Epstein prominently featured in superlatives"
+  ],
+
+  "quality_metrics": {
+    "text_completeness": 0.95,
+    "entity_extraction": 1.0,
+    "cross_referencing": 0.90
+  }
+}

@@ -1,0 +1,1035 @@
+{
+  "page_number": 10,
+  "alphabetical_section": "C",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "010_caprice_unknown",
+      "name": {
+        "full_name": "Caprice",
+        "prefix": null,
+        "first_name": "",
+        "middle_name": null,
+        "last_name": "Caprice",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-834 3840",
+          "formatting": "0207-834 3840 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "0797 476 7885",
+          "formatting": "0797 476 7885"
+        },
+        {
+          "type": "portable",
+          "number": "001 310 344 8904",
+          "formatting": "001 310 344 8904 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_carello_sara_massimo",
+      "name": {
+        "full_name": "Carello Sara Massimo",
+        "prefix": null,
+        "first_name": "Sara Massimo",
+        "middle_name": null,
+        "last_name": "Carello",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-584 6919",
+          "formatting": "0207-584 6919 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_carey_william_&_carina",
+      "name": {
+        "full_name": "Carey, William",
+        "prefix": null,
+        "first_name": "William & Carina",
+        "middle_name": null,
+        "last_name": "Carey",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Carina"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-731 1826",
+          "formatting": "0207-731 1826 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "57 Basuto Road"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW6 4BZ",
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_carlbom_camila",
+      "name": {
+        "full_name": "Carlbom Camila",
+        "prefix": null,
+        "first_name": "Camila",
+        "middle_name": null,
+        "last_name": "Carlbom",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 2422 8445",
+          "formatting": "001 212 2422 8445 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 917 539 1033",
+          "formatting": "001 917 539 1033 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "157 W 4th St."
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10014",
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_carmine_unknown",
+      "name": {
+        "full_name": "Carmine",
+        "prefix": null,
+        "first_name": "",
+        "middle_name": null,
+        "last_name": "Carmine",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 39 0823906750",
+          "formatting": "00 39 0823906750 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 39 3933323678",
+          "formatting": "00 39 3933323678 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_carrera_barbara",
+      "name": {
+        "full_name": "Carrera, Barbara",
+        "prefix": null,
+        "first_name": "Barbara",
+        "middle_name": null,
+        "last_name": "Carrera",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 213 476 9867 (fax)",
+          "formatting": "001 213 476 9867 (fax) (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 213 476 6885",
+          "formatting": "001 213 476 6885 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_caruth_sophie",
+      "name": {
+        "full_name": "Caruth, Sophie",
+        "prefix": null,
+        "first_name": "Sophie",
+        "middle_name": null,
+        "last_name": "Caruth",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0208-672 8276",
+          "formatting": "0208-672 8276 (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "0705 0096823",
+          "formatting": "0705 0096823"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "14B Belle Vue Road"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": "SW17 7EG",
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_carvalho_michel_&_charlene",
+      "name": {
+        "full_name": "Carvalho, Michel",
+        "prefix": null,
+        "first_name": "Michel & Charlene",
+        "middle_name": null,
+        "last_name": "Carvalho",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Charlene"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-730 1679",
+          "formatting": "0207-730 1679 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "35 Egerton Cresent"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW3",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_casagrande_guido",
+      "name": {
+        "full_name": "Casagrande, Guido",
+        "prefix": null,
+        "first_name": "Guido",
+        "middle_name": null,
+        "last_name": "Casagrande",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 39 3053341 (c)",
+          "formatting": "00 39 3053341 (c) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 39 2 878734 (fax)",
+          "formatting": "00 39 2 878734 (fax) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 516 537 5487",
+          "formatting": "001 516 537 5487 (International)"
+        },
+        {
+          "type": "work",
+          "number": "00 39 2 878451",
+          "formatting": "00 39 2 878451 (International)"
+        },
+        {
+          "type": "home",
+          "number": "00 39 2 86464802",
+          "formatting": "00 39 2 86464802 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "00 39 335284407",
+          "formatting": "00 39 335284407 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "5 Via Borgonuoo"
+          ],
+          "city": "Milan",
+          "state": null,
+          "postal_code": null,
+          "country": "Italy",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_case_simon",
+      "name": {
+        "full_name": "Case, Simon",
+        "prefix": null,
+        "first_name": "Simon",
+        "middle_name": null,
+        "last_name": "Case",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 62 21392 9866",
+          "formatting": "00 62 21392 9866 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 62 811 803090",
+          "formatting": "00 62 811 803090 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_case_george_&_pauline",
+      "name": {
+        "full_name": "Case, George",
+        "prefix": null,
+        "first_name": "George & Pauline",
+        "middle_name": null,
+        "last_name": "Case",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Pauline"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-229 1022",
+          "formatting": "0207-229 1022 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "34 Talbot Rd"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W2 5JG",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_castaneda_debbie",
+      "name": {
+        "full_name": "Castaneda Debbie",
+        "prefix": null,
+        "first_name": "Debbie",
+        "middle_name": null,
+        "last_name": "Castaneda",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "335 634 9863",
+          "formatting": "335 634 9863"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_cator_alby_&_victoria",
+      "name": {
+        "full_name": "Cator, Alby",
+        "prefix": null,
+        "first_name": "Alby & Victoria",
+        "middle_name": null,
+        "last_name": "Cator",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Victoria"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "01603 721050",
+          "formatting": "01603 721050"
+        },
+        {
+          "type": "home",
+          "number": "0207-602-9377",
+          "formatting": "0207-602-9377 (UK London)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "0585 336319",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "55 Melbury Road, Flat 1"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W14 8AD",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_cecil_mark_&_mini",
+      "name": {
+        "full_name": "Cecil Mark",
+        "prefix": null,
+        "first_name": "Mark & Mini",
+        "middle_name": null,
+        "last_name": "Cecil",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Mini"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 501 506/7/8",
+          "formatting": "00 501 506/7/8 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 501 754 (f)",
+          "formatting": "00 501 754 (f) (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "PO Box 49428"
+          ],
+          "city": "Nairobi",
+          "state": null,
+          "postal_code": null,
+          "country": "Kenya",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_cecil_mark_&_mini",
+      "name": {
+        "full_name": "Cecil Mark",
+        "prefix": null,
+        "first_name": "Mark & Mini",
+        "middle_name": null,
+        "last_name": "Cecil",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Mini"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "01707 251395",
+          "formatting": "01707 251395"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "The Lawn Hse, Hatfield Park, Hatfield, Herts"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_cecil_stephenson_aurelia",
+      "name": {
+        "full_name": "Cecil Stephenson, Aurelia",
+        "prefix": null,
+        "first_name": "Aurelia",
+        "middle_name": null,
+        "last_name": "Cecil Stephenson",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0468 992400",
+          "formatting": "0468 992400"
+        },
+        {
+          "type": "unknown",
+          "number": "01672 521 237",
+          "formatting": "01672 521 237"
+        },
+        {
+          "type": "work",
+          "number": "0207-351 2227",
+          "formatting": "0207-351 2227 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-584-2001",
+          "formatting": "0207-584-2001 (UK London)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "cecil@aurelia_london.co.uk",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Hugditch Cottage, Ramsbury"
+          ],
+          "city": "Wilts",
+          "state": null,
+          "postal_code": "SN8 2HL",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_cecil_dr._mark",
+      "name": {
+        "full_name": "Cecil, Dr. Mark",
+        "prefix": null,
+        "first_name": "Dr. Mark",
+        "middle_name": null,
+        "last_name": "Cecil",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "207 225 0081 (hf)",
+          "formatting": "207 225 0081 (hf)"
+        },
+        {
+          "type": "work",
+          "number": "784 488 8890 (Mustique)",
+          "formatting": "784 488 8890 (Mustique)"
+        },
+        {
+          "type": "home",
+          "number": "207 225 0031",
+          "formatting": "207 225 0031"
+        },
+        {
+          "type": "portable",
+          "number": "07456 262626",
+          "formatting": "07456 262626"
+        }
+      ],
+      "emails": [
+        {
+          "address": "mark.cecil@gigpartners.co.uk",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "7 Alexander Square"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW3 2AY",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_cerina_fabrizio",
+      "name": {
+        "full_name": "Cerina, Fabrizio",
+        "prefix": null,
+        "first_name": "Fabrizio",
+        "middle_name": null,
+        "last_name": "Cerina",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 39 02 659 5803 (wf)",
+          "formatting": "00 39 02 659 5803 (wf) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 41 91 923 1436 (wf)",
+          "formatting": "00 41 91 923 1436 (wf) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 41 22 731 8077 (wf)",
+          "formatting": "00 41 22 731 8077 (wf) (International)"
+        },
+        {
+          "type": "work",
+          "number": "00 39 026318",
+          "formatting": "00 39 026318 (International)"
+        },
+        {
+          "type": "work",
+          "number": "00 41 91 923 7185 (Lugano)",
+          "formatting": "00 41 91 923 7185 (Lugano) (International)"
+        },
+        {
+          "type": "work",
+          "number": "00 41 22 731 8001 (Geneva)",
+          "formatting": "00 41 22 731 8001 (Geneva) (International)"
+        },
+        {
+          "type": "home",
+          "number": "0039 29 006 262 (Milan)",
+          "formatting": "0039 29 006 262 (Milan) (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 371 6353",
+          "formatting": "001 212 371 6353 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 496 0606",
+          "formatting": "001 917 496 0606 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "011447900 888683",
+          "formatting": "011447900 888683 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "+44 7900 8888 83",
+          "formatting": "+44 7900 8888 83"
+        },
+        {
+          "type": "portable",
+          "number": "+39 335 4214 14",
+          "formatting": "+39 335 4214 14"
+        },
+        {
+          "type": "portable",
+          "number": "917 496 0606",
+          "formatting": "917 496 0606 (NYC mobile)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "fc@creditdesalphes.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Via Nassa 56"
+          ],
+          "city": "Lugano",
+          "state": null,
+          "postal_code": "6901",
+          "country": "Switzerland",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Credit des Alphes"
+    },
+    {
+      "entry_id": "010_cammarata_giancario",
+      "name": {
+        "full_name": "Cerina, Fabrizio (PA)",
+        "prefix": null,
+        "first_name": "Giancario",
+        "middle_name": null,
+        "last_name": "Cammarata",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: PA"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "+41 91 923 7185",
+          "formatting": "+41 91 923 7185"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Credit des Alphes"
+    },
+    {
+      "entry_id": "010_carutti_gian_carlo",
+      "name": {
+        "full_name": "Carutti Gian Carlo",
+        "prefix": null,
+        "first_name": "Gian Carlo",
+        "middle_name": null,
+        "last_name": "Carutti",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "00 39 142 459443",
+          "formatting": "00 39 142 459443 (International)"
+        },
+        {
+          "type": "work",
+          "number": "00 39 142 459439",
+          "formatting": "00 39 142 459439 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Via Adam 66"
+          ],
+          "city": "Casale Monferrato",
+          "state": null,
+          "postal_code": "15033",
+          "country": "Italy",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 20,
+    "entries_with_emails": 4,
+    "entries_with_addresses": 13,
+    "entries_with_handwritten_notes": 0,
+    "couples": 6,
+    "average_confidence": "high",
+    "notable_figures_count": 0
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Caprice",
+      "Carello Sara Massimo",
+      "Carey, William",
+      "Carina",
+      "Carlbom Camila",
+      "Carmine",
+      "Carrera, Barbara",
+      "Caruth, Sophie",
+      "Carvalho, Michel",
+      "Charlene",
+      "Casagrande, Guido",
+      "Case, Simon",
+      "Case, George",
+      "Pauline",
+      "Castaneda Debbie",
+      "Cator, Alby",
+      "Victoria",
+      "Cecil Mark",
+      "Mini",
+      "Cecil Mark",
+      "Mini",
+      "Cecil Stephenson, Aurelia",
+      "Cecil, Dr. Mark",
+      "Cerina, Fabrizio",
+      "Cerina, Fabrizio (PA)",
+      "Carutti Gian Carlo"
+    ],
+    "organizations": [],
+    "locations": {
+      "international": [
+        "Kenya",
+        "UK",
+        "Switzerland",
+        "Italy"
+      ],
+      "us_cities": [
+        "London",
+        "Wilts",
+        "Lugano",
+        "Casale Monferrato",
+        "New York",
+        "Milan",
+        "Nairobi"
+      ],
+      "elite_addresses": []
+    }
+  },
+  "insights": [
+    "Geographic cluster: London (5 entries)"
+  ]
+}

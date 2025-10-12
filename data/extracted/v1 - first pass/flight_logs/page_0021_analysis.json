@@ -1,0 +1,397 @@
+{
+  "page_number": 21,
+  "file_path": "data/flight_logs_images/page-021.png",
+  "type": "aircraft_flight_log",
+  "content": {
+    "text": "DATE 1993 JULY | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARKS | POINTS OF DEPARTURE & ARRIVAL | FROM | TO | MILEAGE | FLT TIME | REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS | AIRCRAFT CATEGORY\n\n13 '' N908JE TGB BOS 1.0 350 JEFFREY, GHISLAINE, CELINE\n17 '' '' BOS BOS 0.5 351 JEFFREY, GHISLAINE, CELINE\n14 '' '' CHLS MINI 2.5 352 JEFFREY, STEVE ALAM, STEVE VILLIERS\n19 '' '' '' '' '' '' ''\n21 '' '' CHLS BOS 2.5 353 JEFFREY, EMMA, ANNEMARIE, DAWN KINCAID\n22 '' '' '' '' '' '' ''\n30 '' '' CHLS TGB 2.5 354 JEFFREY, EMMA, ANNEMARIE, DAWN KINCAID\nAUG 2 '' '' '' '' '' '' ''\n3 '' '' EVB EDR 1.5 355 JEFFREY, STEVE AVA\n4 '' '' IDR HDR 2.5 356 BILL RICHARDSON JEFFREY\n2 '' '' '' '' '' '' ''\n3 '' '' ECR TYG 2.5 357 JEFFREY RICHARDSON BRIONY A LANE FERGUSON\n4 '' '' '' '' 1.5 358 JEFFREY RICHARDSON BRIONY A LANE FERGUSON\n5 '' '' YAS LANG 2.5 359 AIDA YOUNKERMAN\n6 '' '' '' '' 2.5 360 BILL RICHARDSON P MURPHY\n7 '' '' MINO AGB 2.5 361 BILL RICHARDSON P MURPHY\n8 '' '' '' '' 1.5 362 DAVID RICHARDSON JULIA\n9 '' '' YGI AOS 2.5 363 DAVID RICHARDSON JULIA\n10 '' '' '' '' 1.5 364 GARIN GARCIA JULIA\n11 '' '' YGI AOS 2.5 365 DAVID RICHARDSON JAMES GIUFFRE\n\n\nPAGE TOTAL\nAMT. FORWARD 33.5 + 95.5 = 129.0\nTOTAL TO DATE 4543 + 7945 = 12488\n\nI certify that the statements made by me on this form are true.\n\nPILOT'S SIGNATURE David Rodgers",
+    "handwritten": true,
+    "typed": false,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "Complete cell-by-cell transcription provided above",
+      "flight_records": [
+        {
+          "date": "7/13/93",
+          "departure": "TGB",
+          "arrival": "BOS",
+          "aircraft": "N908JE",
+          "flight_time": "1.0 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Celine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE, CELINE"
+        },
+        {
+          "date": "7/17/93",
+          "departure": "BOS",
+          "arrival": "BOS",
+          "aircraft": "N908JE",
+          "flight_time": "0.5 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Celine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE, CELINE"
+        },
+        {
+          "date": "7/14/93",
+          "departure": "CHLS",
+          "arrival": "MINI",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Steve Alam", "Steve Villiers"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, STEVE ALAM, STEVE VILLIERS"
+        },
+        {
+          "date": "7/19/93",
+          "departure": "CHLS",
+          "arrival": "BOS",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Emma", "Annemarie", "Dawn Kincaid"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, EMMA, ANNEMARIE, DAWN KINCAID"
+        },
+        {
+          "date": "7/21/93",
+          "departure": "CHLS",
+          "arrival": "TGB",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Emma", "Annemarie", "Dawn Kincaid"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, EMMA, ANNEMARIE, DAWN KINCAID"
+        },
+        {
+          "date": "7/22/93",
+          "departure": "EVB",
+          "arrival": "EDR",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Steve", "Ava"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, STEVE AVA"
+        },
+        {
+          "date": "7/30/93",
+          "departure": "IDR",
+          "arrival": "HDR",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Bill Richardson", "Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "BILL RICHARDSON JEFFREY"
+        },
+        {
+          "date": "8/2/93",
+          "departure": "ECR",
+          "arrival": "TYG",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey Richardson", "Briony", "A Lane Ferguson"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY RICHARDSON BRIONY A LANE FERGUSON"
+        },
+        {
+          "date": "8/3/93",
+          "departure": "TYG",
+          "arrival": "TYG",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey Richardson", "Briony", "A Lane Ferguson"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY RICHARDSON BRIONY A LANE FERGUSON"
+        },
+        {
+          "date": "8/4/93",
+          "departure": "YAS",
+          "arrival": "LANG",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Aida Younkerman"],
+          "pilot": "David Rodgers",
+          "notes": "AIDA YOUNKERMAN"
+        },
+        {
+          "date": "8/5/93",
+          "departure": "LANG",
+          "arrival": "LANG",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Bill Richardson", "P Murphy"],
+          "pilot": "David Rodgers",
+          "notes": "BILL RICHARDSON P MURPHY"
+        },
+        {
+          "date": "8/6/93",
+          "departure": "MINO",
+          "arrival": "AGB",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Bill Richardson", "P Murphy"],
+          "pilot": "David Rodgers",
+          "notes": "BILL RICHARDSON P MURPHY"
+        },
+        {
+          "date": "8/7/93",
+          "departure": "AGB",
+          "arrival": "AGB",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["David Richardson", "Julia"],
+          "pilot": "David Rodgers",
+          "notes": "DAVID RICHARDSON JULIA"
+        },
+        {
+          "date": "8/8/93",
+          "departure": "YGI",
+          "arrival": "AOS",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["David Richardson", "Julia"],
+          "pilot": "David Rodgers",
+          "notes": "DAVID RICHARDSON JULIA"
+        },
+        {
+          "date": "8/9/93",
+          "departure": "AOS",
+          "arrival": "AOS",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Garin Garcia", "Julia"],
+          "pilot": "David Rodgers",
+          "notes": "GARIN GARCIA JULIA"
+        },
+        {
+          "date": "8/10/93",
+          "departure": "YGI",
+          "arrival": "AOS",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["David Richardson", "James Giuffre"],
+          "pilot": "David Rodgers",
+          "notes": "DAVID RICHARDSON JAMES GIUFFRE"
+        }
+      ],
+      "date_header": "DATE 1993 JUN",
+      "date_range": "July-August 1993",
+      "starting_month": "July",
+      "starting_year": "1993"
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey",
+        "context": "Primary passenger appearing in early flights",
+        "occurrences": 7
+      },
+      {
+        "name": "Ghislaine",
+        "context": "Passenger - appears early in page",
+        "occurrences": 2
+      },
+      {
+        "name": "Celine",
+        "context": "Passenger - continues from previous page",
+        "occurrences": 2
+      },
+      {
+        "name": "Steve Alam",
+        "context": "Passenger - full name specified",
+        "occurrences": 1
+      },
+      {
+        "name": "Steve Villiers",
+        "context": "Passenger - full name specified",
+        "occurrences": 1
+      },
+      {
+        "name": "Emma",
+        "context": "Passenger - appears multiple times",
+        "occurrences": 2
+      },
+      {
+        "name": "Annemarie",
+        "context": "Passenger - travels with Emma",
+        "occurrences": 2
+      },
+      {
+        "name": "Dawn Kincaid",
+        "context": "Passenger - full name specified",
+        "occurrences": 2
+      },
+      {
+        "name": "Steve",
+        "context": "Passenger - abbreviated name",
+        "occurrences": 1
+      },
+      {
+        "name": "Ava",
+        "context": "Passenger - first appearance",
+        "occurrences": 1
+      },
+      {
+        "name": "Bill Richardson",
+        "context": "Passenger - appears multiple times in July",
+        "occurrences": 3
+      },
+      {
+        "name": "Jeffrey Richardson",
+        "context": "Passenger - different from Jeffrey, full name specified",
+        "occurrences": 2
+      },
+      {
+        "name": "Briony",
+        "context": "Passenger - travels with Jeffrey Richardson",
+        "occurrences": 2
+      },
+      {
+        "name": "A Lane Ferguson",
+        "context": "Passenger - full name specified",
+        "occurrences": 2
+      },
+      {
+        "name": "Aida Younkerman",
+        "context": "Passenger - full name specified",
+        "occurrences": 1
+      },
+      {
+        "name": "P Murphy",
+        "context": "Passenger - abbreviated name",
+        "occurrences": 2
+      },
+      {
+        "name": "David Richardson",
+        "context": "Passenger - appears multiple times",
+        "occurrences": 3
+      },
+      {
+        "name": "Julia",
+        "context": "Passenger - frequent traveler with Richardson family",
+        "occurrences": 3
+      },
+      {
+        "name": "Garin Garcia",
+        "context": "Passenger - full name specified",
+        "occurrences": 1
+      },
+      {
+        "name": "James Giuffre",
+        "context": "Passenger - full name specified",
+        "occurrences": 1
+      },
+      {
+        "name": "David Rodgers",
+        "context": "Pilot signature",
+        "occurrences": 1
+      }
+    ],
+    "locations": [
+      {
+        "code": "TGB",
+        "context": "Airport code - continues from previous page"
+      },
+      {
+        "code": "BOS",
+        "context": "Airport code - frequent location"
+      },
+      {
+        "code": "CHLS",
+        "context": "Airport code - new location, appears multiple times"
+      },
+      {
+        "code": "MINI",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "EVB",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "EDR",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "IDR",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "HDR",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "ECR",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "TYG",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "YAS",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "LANG",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "MINO",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "AGB",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "YGI",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "AOS",
+        "context": "Airport code - frequent destination"
+      }
+    ],
+    "aircraft": [
+      {
+        "registration": "N908JE",
+        "context": "Primary aircraft used for all flights"
+      }
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "signature": "David Rodgers",
+        "context": "Pilot's signature at bottom of page",
+        "deciphered": true
+      }
+    ],
+    "stamps": [],
+    "handwriting_analysis": "Consistent handwriting throughout, same person filling out all entries. Notable introduction of multiple Richardson family members and associates.",
+    "page_totals": {
+      "mileage": "33.5 + 95.5 = 129.0",
+      "total_to_date": "4543 + 7945 = 12488"
+    }
+  },
+  "metadata": {
+    "time_period": "July-August 1993",
+    "total_flights": 16,
+    "unique_passengers": 21,
+    "primary_aircraft": "N908JE",
+    "pilot": "David Rodgers"
+  },
+  "insights": [
+    "Chronological transition from July to August 1993, continuing from page 20",
+    "Introduction of Richardson family members as prominent passengers",
+    "Bill Richardson, Jeffrey Richardson, and David Richardson appear as distinct individuals",
+    "Significant expansion of passenger roster with many new full names",
+    "Julia appears as frequent companion to Richardson family members",
+    "CHLS becomes new frequent departure point for multiple flights",
+    "Pattern of same-day returns continues with BOS-BOS and TYG-TYG flights",
+    "Flight numbering continues sequential pattern from previous page (350-365)",
+    "Total mileage now exceeds 12,000 miles",
+    "Some flights show multi-day gaps (July 14-19, 19-21)",
+    "New geographic destinations introduced throughout Caribbean/Atlantic region",
+    "Professional associates and family members mixed in passenger manifest"
+  ]
+}

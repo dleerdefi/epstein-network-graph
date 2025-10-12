@@ -1,0 +1,684 @@
+{
+  "page_number": 41,
+  "alphabetical_section": "O",
+  "contacts": [
+    {
+      "name": "O'Donnell, Mr Carletto",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "11 West Bruton Place",
+          "street": "11 West Bruton Place",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW1X",
+          "city": "London",
+          "postal_code": "SW1X",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 245 4599 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 235 8580 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0044 7785 248XX",
+          "country_code": "44",
+          "area_code": "7785",
+          "geographic_indicator": "UK mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 609 945 3960 (h)",
+          "area_code": "609",
+          "geographic_indicator": "New Jersey",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "O'Neill, Louia",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "790 Eighth Street",
+          "street": "790 Eighth Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "CA # [X]",
+          "state": "CA",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 818 279 7357(h)",
+          "area_code": "818",
+          "geographic_indicator": "Los Angeles/Valley",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 593 9310(cell)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "[illegible]@[illegible].es"
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "00001241 212 336 2311(w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Oates, Simon",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207-724 1030 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Oates, Tom",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "732 Sidney Street",
+          "street": "732 Sidney Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London E1",
+          "city": "London",
+          "postal_code": "E1",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 252 0195 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Ofora, Yinka",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 778 3782(h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "[illegible]@fotomedsys.com",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "020 7 250 8009 [illegible] net",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 498 0956 [illegible] ber",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 498 0956 [illegible]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Olsen, Camille",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "917 859 0922",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 488 2332",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Omar, Ralph",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "19 Cinnamon Place",
+          "street": "19 Cinnamon Place",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London, 145172 9X",
+          "city": "London",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 914 639 8080 (w)",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 914 639 8485",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 790 3532 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 730 4282 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Ong B S & Christina",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "World Swimming And Rest",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "61 Village Lane",
+          "street": "61 Village Lane",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "[illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "London",
+          "city": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 352 5598(h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Ong Melissa",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 917 202 88889",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Oppenheim, Mr Laurie",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "31 Princess Freemere",
+          "street": "31 Princess Freemere",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Black 20007",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "00 33 714 36 09(h)",
+          "country_code": "33",
+          "geographic_indicator": "France",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "00 33 714 32 88(w)",
+          "country_code": "33",
+          "geographic_indicator": "France",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Oppenheim, Ms Marella",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "12 Palace Gardens",
+          "street": "12 Palace Gardens",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London W8 4PL",
+          "city": "London",
+          "postal_code": "W8 4PL",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207-734 1513 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Orchard (Vaughn-Edwards), Kalle",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Aylesbury Village",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Cheshire",
+          "county": "Cheshire",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01993 672 639[illegible] EP4 3QA",
+          "area_code": "01993",
+          "geographic_indicator": "Witney, UK",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0133 834700 (h)",
+          "area_code": "0133",
+          "confidence": "low"
+        }
+      ],
+      "emails": [
+        "[illegible]@easyone@pgateway.net"
+      ],
+      "addresses_additional": [
+        {
+          "type": "secondary",
+          "address": "Horne Garden",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "[illegible] Village",
+          "confidence": "low"
+        }
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "0133 824 69813",
+          "area_code": "0133",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0133 842 79017 (home)",
+          "area_code": "0133",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0161 873 3871 Suite 16 + B first",
+          "area_code": "0161",
+          "geographic_indicator": "Manchester, UK",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0133 XX 15820 (h)",
+          "area_code": "0133",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0169 682 0020 (h)",
+          "area_code": "0169",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Orlando, Fabrice",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0017206 7308",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 [illegible] 5908",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Osbourne Rachel",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "19 Clifton Hall Gates",
+          "street": "19 Clifton Hall Gates",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London NW8 0JA",
+          "city": "London",
+          "postal_code": "NW8 0JA",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "020 7286 81 (h)",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Oswald, William & Arabella",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "7 Cross Castle",
+          "street": "7 Cross Castle",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Dorlandshire",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "Haverfordwest",
+          "city": "Haverfordwest",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Pembrokeshire 917 0JU",
+          "county": "Pembrokeshire",
+          "postal_code": "917 0JU",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "01584 672 XX (h)",
+          "area_code": "01584",
+          "geographic_indicator": "Ludlow, UK",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        "[illegible]@easyphoebe.co"
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "01XX34 0713XXEngland",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "01584 673900 (Bristol Area)",
+          "area_code": "01584",
+          "geographic_indicator": "Ludlow, UK",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 730XX713 (Dad home)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Otto, Beo & Edvige",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 331 4247 3360 (o)",
+          "country_code": "33",
+          "area_code": "1",
+          "geographic_indicator": "Paris, France",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 331 4247 3360 (h)",
+          "country_code": "33",
+          "area_code": "1",
+          "geographic_indicator": "Paris, France",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Owen Edmunds, Tom & Kate",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "94 Powell Close",
+          "street": "94 Powell Close",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Fulham London SW6",
+          "city": "Fulham London",
+          "postal_code": "SW6",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 381 3323[cell] NP6 4HR",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 381 6XX",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207-371 6742",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 17,
+    "quality": "poor",
+    "legibility": "heavily degraded",
+    "completeness": "complete page",
+    "notable_individuals": []
+  },
+  "insights": [
+    "New Jersey connection (609 area code)",
+    "Los Angeles Valley presence (818)",
+    "Westchester County NY continuing presence",
+    "Paris, France connections",
+    "Pembrokeshire Wales connection",
+    "Ludlow UK connection (01584)",
+    "Manchester UK connection (0161)",
+    "Cheshire county presence",
+    "Witney UK connection (01993)",
+    "Mix of UK regional and international contacts"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "medium",
+    "total_contacts": 17,
+    "high_confidence": 9,
+    "medium_confidence": 4,
+    "low_confidence": 4,
+    "extraction_issues": [
+      "Heavy page degradation",
+      "Multiple illegible sections",
+      "Several incomplete addresses",
+      "Some phone numbers partially obscured"
+    ]
+  }
+}

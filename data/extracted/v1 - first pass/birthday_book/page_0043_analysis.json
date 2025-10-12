@@ -1,0 +1,182 @@
+{
+  "page_number": 43,
+  "file_path": "data/birthday_book_images/page_0043.png",
+  "file_size_mb": 0.3289632797241211,
+  "type": "newspaper_clipping_page7",
+  "content": {
+    "text": "Page 7 of The Sea Gate Chronicle. Three articles: 1) 'Math Teacher Is Hung!!' by Paul Medici (Math Team Newsletter) - satirical story about Joseph 'Mighty Joe' Rothman, a math teacher at Mark Twain JHS for 35 years, describing an incident where students hung him by his sport coat on a coat hook after personality conflicts. Notes he still teaches at age 112. 2) 'Peddle Pusher Throws Party' by Scott Pearl (Mercedes Aficionado) - describes Paula throwing a birthday party for 'Jeffery Edward' at Surf Lanes in Coney, providing bowling, food for 15 friends. Quote: 'I only invited the most talentless bowlers, just to make Jeffery look good'. 3) 'Hot rides in \"the gate\"' by Larry John Streitman (Double A Fuel Magazine) - about car enthusiasts coming to Sea Gate for auto exposition (continues on page 8).",
+    "handwritten": false,
+    "typed": true,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "Page 7 of The Sea Gate Chronicle. Three articles: 1) 'Math Teacher Is Hung!!' by Paul Medici (Math Team Newsletter) - satirical story about Joseph 'Mighty Joe' Rothman, a math teacher at Mark Twain JHS for 35 years, describing an incident where students hung him by his sport coat on a coat hook after personality conflicts. Notes he still teaches at age 112. 2) 'Peddle Pusher Throws Party' by Scott Pearl (Mercedes Aficionado) - describes Paula throwing a birthday party for 'Jeffery Edward' at Surf Lanes in Coney, providing bowling, food for 15 friends. Quote: 'I only invited the most talentless bowlers, just to make Jeffery look good'. 3) 'Hot rides in \"the gate\"' by Larry John Streitman (Double A Fuel Magazine) - about car enthusiasts coming to Sea Gate for auto exposition (continues on page 8).",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Paul Medici",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          43
+        ]
+      },
+      {
+        "name": "Joseph 'Mighty Joe' Rothman",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          43
+        ]
+      },
+      {
+        "name": "Scott Pearl",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          43
+        ]
+      },
+      {
+        "name": "Paula",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          43
+        ]
+      },
+      {
+        "name": "Jeffery Edward",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          43
+        ]
+      },
+      {
+        "name": "Larry John Streitman",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          43
+        ]
+      },
+      {
+        "name": "Ed Goldsmith",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          43
+        ]
+      },
+      {
+        "name": "Mr. Goldsmith",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          43
+        ]
+      }
+    ],
+    "organizations": [
+      "Math Team Newsletter",
+      "Mark Twain JHS",
+      "Mercedes Aficionado",
+      "Surf Lanes",
+      "Double A Fuel Magazine"
+    ],
+    "locations": [
+      "Coney",
+      "Sea Gate",
+      "Mark Twain JHS"
+    ],
+    "dates": [
+      "35 years",
+      "age 112"
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "50th birthday commemoration - satirical newspaper page 7",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "newspaper_clipping_page7"
+  },
+  "insights": [
+    "Direct reference to 'Jeffery Edward' (Jeffrey Epstein) having a birthday party",
+    "Paula identified as party organizer and 'peddle pusher' (likely bicycle reference)",
+    "Birthday party at Surf Lanes bowling alley in Coney Island with 15 friends",
+    "Satirical tone throughout with exaggerated stories",
+    "Connection to Mark Twain JHS school",
+    "Part of larger satirical newspaper created for 50th birthday"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000043",
+  "processed_at": "2025-09-23 03:15:00",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.139507",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": [],
+    "layout": "Newspaper page 7 with three column articles"
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [],
+  "investigative_leads": []
+}

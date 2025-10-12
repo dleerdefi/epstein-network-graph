@@ -1,0 +1,99 @@
+{
+  "page_number": 114,
+  "file_path": "data/birthday_book_images/page_0114.png",
+  "file_size_mb": 2.053765296936035,
+  "type": "section_divider_friends",
+  "content": {
+    "text": "FRIENDS",
+    "handwritten": false,
+    "typed": true,
+    "mixed": false,
+    "description": "Section divider page with 'FRIENDS' text on dark background",
+    "text_sections": {
+      "full_transcription": "FRIENDS",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Section divider for friends' contributions",
+    "theme": "friends_section_marker",
+    "significance": "medium",
+    "document_type": "section_divider_friends"
+  },
+  "insights": [
+    "Dark page serves as section divider in birthday book",
+    "'FRIENDS' heading indicates following pages contain contributions from friends",
+    "Follows children's section, creating clear organization",
+    "Professional typography suggests deliberate design choice",
+    "Section organization: Children \u2192 Friends progression",
+    "Simple, bold presentation emphasizes transition to new content category",
+    "Structured compilation shows careful curation of birthday messages"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000114",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.176570",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": [],
+    "text_elements": [
+      "FRIENDS in large gray/silver letters on dark background"
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Section divider with text 'FRIENDS'",
+    "Gray textured background with embossed-style text",
+    "Professional typography in gray/silver lettering",
+    "Marks transition from Children's section to Friends section",
+    "Document stamped HOUSE_OVERSIGHT_000114",
+    "Consistent design with other section dividers in book"
+  ],
+  "investigative_leads": []
+}

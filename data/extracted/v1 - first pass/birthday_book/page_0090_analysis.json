@@ -1,0 +1,216 @@
+{
+  "page_number": 90,
+  "file_path": "data/birthday_book_images/page_0090.png",
+  "file_size_mb": 4.497250556945801,
+  "type": "photo_collage",
+  "content": {
+    "text": "With a Cloud in the Sky\nCLUB MED",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "description": "Beach/tropical themed photo collage with handwritten text overlay",
+    "text_sections": {
+      "full_transcription": "With a Cloud in the Sky\nCLUB MED\n[Multiple vacation photos showing beach scenes, people in swimwear, tropical settings]\n[Palm trees and ocean views visible]\n[Group photos with multiple individuals]",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "[Person 1 - blonde woman in swimsuit]",
+        "context": "Beach photo, center left",
+        "confidence": "medium"
+      },
+      {
+        "name": "[Person 2 - man in striped shirt]",
+        "context": "Group photo upper right",
+        "confidence": "medium"
+      },
+      {
+        "name": "[Person 3 - woman in white top]",
+        "context": "Beach scene",
+        "confidence": "medium"
+      },
+      {
+        "name": "[Person 4 - man in casual attire]",
+        "context": "Standing photo",
+        "confidence": "medium"
+      },
+      {
+        "name": "[Person 5 - woman in beach wear]",
+        "context": "Pool or beach setting",
+        "confidence": "medium"
+      },
+      {
+        "name": "[Person 6 - individual in group photo]",
+        "context": "Upper portion of collage",
+        "confidence": "medium"
+      },
+      {
+        "name": "[Person 7 - individual in beach scene]",
+        "context": "Lower portion",
+        "confidence": "medium"
+      },
+      {
+        "name": "[Person 8 - individual in tropical setting]",
+        "context": "Club Med context",
+        "confidence": "medium"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Club Med",
+        "type": "Resort chain",
+        "context": "Text visible on photos",
+        "confidence": "high"
+      }
+    ],
+    "locations": [
+      {
+        "place": "Club Med resort",
+        "type": "Vacation resort",
+        "confidence": "high"
+      },
+      {
+        "place": "Beach/tropical location",
+        "type": "Vacation destination",
+        "confidence": "high"
+      },
+      {
+        "place": "Palm tree beach setting",
+        "type": "Tropical beach",
+        "confidence": "high"
+      }
+    ],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Beach/tropical vacation memories",
+    "theme": "leisure_and_travel",
+    "significance": "medium",
+    "document_type": "photo_collage"
+  },
+  "insights": [
+    "Title reads 'With a Cloud in the Sky' not 'Not a Cloud'",
+    "Club Med resort vacation documented",
+    "Multiple photos show tropical/beach vacation scenes",
+    "At least 8 different individuals visible across photos",
+    "Mix of beach, pool, and social gathering photos",
+    "Palm trees and ocean views indicate tropical destination",
+    "Photos appear to be from same trip/time period based on consistent setting",
+    "Casual vacation attire - swimwear, beach clothes",
+    "Group dynamics suggest friends/social vacation rather than family",
+    "Professional resort setting (Club Med) rather than private property",
+    "Collage format suggests memorable trip worth commemorating",
+    "Photos show daytime activities and leisure",
+    "No formal or business contexts visible",
+    "Era appears to be 1980s-1990s based on photo quality and clothing styles",
+    "Part of birthday book collection documenting social life"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000090",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.164705",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Top left - Group photo with multiple people",
+        "individual_count": 3,
+        "setting": "Indoor or covered area",
+        "photo_type": "Color photograph"
+      },
+      {
+        "description": "Top right - Two people in casual setting",
+        "individual_count": 2,
+        "setting": "Resort area",
+        "photo_type": "Color photograph"
+      },
+      {
+        "description": "Center left - Person on beach with palm trees",
+        "individual_count": 1,
+        "setting": "Tropical beach",
+        "photo_type": "Color photograph"
+      },
+      {
+        "description": "Center - Beach scene with person",
+        "individual_count": 1,
+        "setting": "Beach/ocean",
+        "photo_type": "Color photograph"
+      },
+      {
+        "description": "Center right - Small group photo",
+        "individual_count": 2,
+        "setting": "Outdoor casual",
+        "photo_type": "Color photograph"
+      },
+      {
+        "description": "Lower section - Multiple beach/vacation scenes",
+        "individual_count": 3,
+        "setting": "Various beach locations",
+        "photo_type": "Color photographs"
+      },
+      {
+        "description": "Bottom - Ocean/beach landscape views",
+        "individual_count": 0,
+        "setting": "Tropical coastline",
+        "photo_type": "Color photograph"
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": [],
+    "decorative_text": "With a Cloud in the Sky (handwritten script overlay)"
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Photo collage page with 'With a Cloud in the Sky' title",
+    "Club Med resort vacation documentation",
+    "Approximately 7-8 distinct photos arranged in collage",
+    "Total of approximately 8-10 individuals visible across all photos",
+    "Handwritten text overlay in cursive script",
+    "CLUB MED text visible in photos",
+    "All color photographs suggesting 1980s-1990s era",
+    "Beach/tropical theme consistent throughout",
+    "Document stamped HOUSE_OVERSIGHT_000090",
+    "Photos appear to be from single trip/vacation"
+  ],
+  "investigative_leads": []
+}

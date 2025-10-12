@@ -1,0 +1,331 @@
+{
+  "page_number": 46,
+  "document_type": "Flight Log",
+  "metadata": {
+    "time_period": "January - April 1997",
+    "header_date": "1997 JAN",
+    "pilot": "David Rodgers",
+    "aircraft_registration": "N908JE",
+    "aircraft_make_model": "G1159B",
+    "total_flight_time_page": "45:04",
+    "amt_forward": "6821:30",
+    "total_to_date": "6866:34"
+  },
+  "flights": [
+    {
+      "date": "01/11/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:02",
+      "passengers": "JE, GM, ROBERT",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "01/24/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "TNCM",
+      "flight_time": "4:04",
+      "passengers": "JE, GM, CLAUDE HITACHI, MITSUKO",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "01/25/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "TNCM",
+      "arrival": "PBI",
+      "flight_time": "2:05",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "01/29/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:01",
+      "passengers": "JE, GM, EMERSON FITIPALDI",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "02/03/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:04",
+      "passengers": "RODNEY, MARK SCHILDKRAUT",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "02/05/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:02",
+      "passengers": "JE, STEPHEN HAFT, JACOB HENSLEY, NATHAN MYHRVOLD",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "03/07/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "JAV",
+      "flight_time": "1:07",
+      "passengers": "ZED J. NAHED, VIRGINIA GIUFFRE, PAM",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "03/10/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "JAV",
+      "arrival": "TEB",
+      "flight_time": "1:07",
+      "passengers": "JE, 2 FEMALES, C. FLANDERS ROBERTS",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "03/12/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:05",
+      "passengers": "JE, GM, KEEZER FITZGERALD, ADRIAN KHASHOGGI, SERENA",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "03/12/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:02",
+      "passengers": "JE, GM, BILL RICHARDSON, DEBBIE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "03/17/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:02",
+      "passengers": "JE, SANDRA ANNABELLE MCEVOY",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "03/21/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:02",
+      "passengers": "JE, ANNE JOH. W. & MARIA SMITH, ALFRED + SONS + 2 KIDS, JOHNNY & LISA, ANNE MARIE, JOHN RAMSLAND, EVA ANDERSSON",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "03/23/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:02",
+      "passengers": "JE, GM, BILL MACK + BARBARA KING, 2 KIDS",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "03/25/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:05",
+      "passengers": "JE, MICHELLE LARABA",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "04/01/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "MVY",
+      "flight_time": "1:00",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "04/02/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "MVY",
+      "arrival": "SAF",
+      "flight_time": "4:01",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "04/03/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "SAF",
+      "arrival": "SYE",
+      "flight_time": "2:02",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "04/03/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "SYE",
+      "arrival": "TEB",
+      "flight_time": "4:03",
+      "passengers": "JE, GM, CURTIS NATHAN",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "04/08/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:02",
+      "passengers": "JE, BORRO HAZEL",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "04/10/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "CMH",
+      "flight_time": "2:03",
+      "passengers": "JE, PAMELA STEVENS",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "04/10/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "CMH",
+      "arrival": "MVY",
+      "flight_time": "2:02",
+      "passengers": "JE, PAMELA STEVENS",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    }
+  ],
+  "entities": {
+    "people": [
+      {"name": "Jeffrey Epstein", "abbreviation": "JE", "role": "Primary passenger"},
+      {"name": "Ghislaine Maxwell", "abbreviation": "GM", "role": "Frequent passenger"},
+      {"name": "Robert", "role": "Passenger"},
+      {"name": "Claude Hitachi", "role": "Passenger"},
+      {"name": "Mitsuko", "role": "Passenger"},
+      {"name": "Emerson Fitipaldi", "role": "Passenger (race car driver)"},
+      {"name": "Rodney", "role": "Passenger"},
+      {"name": "Mark Schildkraut", "role": "Passenger"},
+      {"name": "Stephen Haft", "role": "Passenger"},
+      {"name": "Jacob Hensley", "role": "Passenger"},
+      {"name": "Nathan Myhrvold", "role": "Passenger (Microsoft executive)"},
+      {"name": "Zed J. Nahed", "role": "Passenger"},
+      {"name": "Virginia Giuffre", "role": "Passenger (key figure)"},
+      {"name": "Pam", "role": "Passenger"},
+      {"name": "C. Flanders Roberts", "role": "Passenger"},
+      {"name": "Keezer Fitzgerald", "role": "Passenger"},
+      {"name": "Adrian Khashoggi", "role": "Passenger (arms dealer)"},
+      {"name": "Serena", "role": "Passenger"},
+      {"name": "Bill Richardson", "role": "Passenger (politician)"},
+      {"name": "Debbie", "role": "Passenger"},
+      {"name": "Sandra Annabelle McEvoy", "role": "Passenger"},
+      {"name": "Anne Joh. W.", "role": "Passenger"},
+      {"name": "Maria Smith", "role": "Passenger"},
+      {"name": "Alfred", "role": "Passenger"},
+      {"name": "Johnny", "role": "Passenger"},
+      {"name": "Lisa", "role": "Passenger"},
+      {"name": "Anne Marie", "role": "Passenger"},
+      {"name": "John Ramsland", "role": "Passenger"},
+      {"name": "Eva Andersson", "role": "Passenger (Eva Andersson-Dubin)"},
+      {"name": "Bill Mack", "role": "Passenger"},
+      {"name": "Barbara King", "role": "Passenger"},
+      {"name": "Michelle Laraba", "role": "Passenger"},
+      {"name": "Curtis Nathan", "role": "Passenger"},
+      {"name": "Borro Hazel", "role": "Passenger"},
+      {"name": "Pamela Stevens", "role": "Passenger"},
+      {"name": "David Rodgers", "role": "Pilot"}
+    ],
+    "locations": [
+      {"code": "PBI", "name": "Palm Beach International Airport", "location": "West Palm Beach, FL"},
+      {"code": "TEB", "name": "Teterboro Airport", "location": "Teterboro, NJ"},
+      {"code": "TNCM", "name": "Princess Juliana International Airport", "location": "St. Maarten"},
+      {"code": "JAV", "name": "Unknown airport", "location": "Unknown"},
+      {"code": "MVY", "name": "Martha's Vineyard Airport", "location": "Martha's Vineyard, MA"},
+      {"code": "SAF", "name": "Santa Fe Regional Airport", "location": "Santa Fe, NM"},
+      {"code": "SYE", "name": "Unknown airport", "location": "Unknown"},
+      {"code": "CMH", "name": "John Glenn Columbus International Airport", "location": "Columbus, OH"}
+    ],
+    "aircraft": [
+      {"registration": "N908JE", "type": "Gulfstream G1159B", "category": "Private Jet"}
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {"location": "bottom_left", "description": "David Rodgers pilot signature", "legibility": "clear"}
+    ],
+    "stamps": [],
+    "markings": [
+      {"type": "page_number", "content": "46", "location": "bottom_center"},
+      {"type": "total_time", "content": "45:04", "location": "bottom_right"}
+    ]
+  },
+  "insights": [
+    "Page shows 1997 flights from January through April (NOT May as previously extracted)",
+    "Virginia Giuffre appears on March 7, 1997",
+    "Nathan Myhrvold (Microsoft executive) appears on February 5",
+    "Eva Andersson(-Dubin) appears on March 21",
+    "Bill Richardson (politician) appears on March 12",
+    "Emerson Fitipaldi (race car driver) appears on January 29",
+    "Adrian Khashoggi (arms dealer) appears on March 12",
+    "St. Maarten (TNCM) destination on January 24",
+    "Large passenger group on March 21 with 8+ individuals",
+    "Pattern of TEB-PBI corridor continues throughout",
+    "Multiple high-profile passengers in Q1 1997",
+    "Santa Fe routing appears in early April"
+  ],
+  "corrections": {
+    "date_inference": "Corrected: Page covers January 11 through April 10, 1997 (NOT May)",
+    "method": "Used DATE header '1997 JAN' and tracked explicit month changes: FEB 3, MAR 7, APR 1",
+    "error_fixed": "Previous extraction incorrectly extended into May; page actually ends in April"
+  },
+  "pilot_signature": "David Rodgers",
+  "page_total": "45:04 hours"
+}

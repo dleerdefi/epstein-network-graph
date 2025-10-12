@@ -1,0 +1,965 @@
+{
+  "page_number": 3,
+  "alphabetical_section": "A/B/H",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "003_arellano_victor",
+      "name": {
+        "full_name": "Arellano, Victor",
+        "prefix": null,
+        "first_name": "Victor",
+        "middle_name": null,
+        "last_name": "Arellano",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-245 6064",
+          "formatting": "0207-245 6064 (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "0207-245 6065 (f)",
+          "formatting": "0207-245 6065 (f) (UK London)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 606 7795",
+          "formatting": "001 212 606 7795 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 772 3880",
+          "formatting": "001 212 772 3880 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "15 Cadogan Square"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW1X OHT",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "003_arion_joaquin_fernandez_de",
+      "name": {
+        "full_name": "Arion, Joaquin Fernandez de",
+        "prefix": null,
+        "first_name": "Joaquin Fernandez de",
+        "middle_name": null,
+        "last_name": "Arion",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "00 34 1 262 4531",
+          "formatting": "00 34 1 262 4531 (International)"
+        },
+        {
+          "type": "home",
+          "number": "00 34 25 877113",
+          "formatting": "00 34 25 877113 (International)"
+        },
+        {
+          "type": "home",
+          "number": "00 34 1 411 7575",
+          "formatting": "00 34 1 411 7575 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Cordoba, Castillo de Maipicas, Malpicas de Tago, Provincia di Toledo"
+          ],
+          "city": "Madrid",
+          "state": null,
+          "postal_code": "28002",
+          "country": "Spain",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "003_arion_fernando",
+      "name": {
+        "full_name": "Arion, Fernando",
+        "prefix": null,
+        "first_name": "Fernando",
+        "middle_name": null,
+        "last_name": "Arion",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 826 7426",
+          "formatting": "001 212 826 7426 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 772 1029",
+          "formatting": "001 212 772 1029 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "120 & \u00bd E 65th Street"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "003_armstrong_arthur_&_cathy",
+      "name": {
+        "full_name": "Armstrong, Arthur",
+        "prefix": null,
+        "first_name": "Arthur & Cathy",
+        "middle_name": null,
+        "last_name": "Armstrong",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Cathy"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 737 7290",
+          "formatting": "001 212 737 7290 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "003_aron_herve_&_marine",
+      "name": {
+        "full_name": "Aron, Herve",
+        "prefix": null,
+        "first_name": "Herve & Marine",
+        "middle_name": null,
+        "last_name": "Aron",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Marine"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 535 8623",
+          "formatting": "001 212 535 8623 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 212 988 5248",
+          "formatting": "001 212 988 5248 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "32 East 67th Street"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "003_ash_lorinda",
+      "name": {
+        "full_name": "Ash, Lorinda",
+        "prefix": null,
+        "first_name": "Lorinda",
+        "middle_name": null,
+        "last_name": "Ash",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 734 0100",
+          "formatting": "001 212 734 0100 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 535 8835",
+          "formatting": "001 212 535 8835 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "765 Park Ave, #8B"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "003_hicks_ashley_&_allegra",
+      "name": {
+        "full_name": "Hicks, Ashley",
+        "prefix": null,
+        "first_name": "Ashley & Allegra",
+        "middle_name": null,
+        "last_name": "Hicks",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Allegra"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 7303130",
+          "formatting": "0207 7303130 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "07973 134277",
+          "formatting": "07973 134277"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "32 Walpole St."
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW3 4QS",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "003_ashley_nick_&_ari",
+      "name": {
+        "full_name": "Ashley, Nick",
+        "prefix": null,
+        "first_name": "Nick & Ari",
+        "middle_name": null,
+        "last_name": "Ashley",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Ari"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0159 12461",
+          "formatting": "0159 12461"
+        },
+        {
+          "type": "work",
+          "number": "0207-2211221",
+          "formatting": "0207-2211221 (UK London)"
+        },
+        {
+          "type": "work",
+          "number": "0207-736 6700",
+          "formatting": "0207-736 6700 (UK London)"
+        },
+        {
+          "type": "work",
+          "number": "0207-221-1221",
+          "formatting": "0207-221-1221 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-937 1068",
+          "formatting": "0207-937 1068 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-937 1086",
+          "formatting": "0207-937 1086 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "57 Ledbury Rd"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W11 2AA",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "003_assal_charlotte_&_vittorio",
+      "name": {
+        "full_name": "Assaf, Charlotte",
+        "prefix": null,
+        "first_name": "Charlotte & Vittorio",
+        "middle_name": null,
+        "last_name": "Assal",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Vittorio"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 593 9040",
+          "formatting": "001 212 593 9040 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "646 431 3052 (emergency contact)",
+          "formatting": "646 431 3052 (emergency contact) (NYC mobile)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 688 3820",
+          "formatting": "001 212 688 3820 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 3314656",
+          "formatting": "001 917 3314656 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "bellacharlotte@aol.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "21 East 66th St"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "003_astaire_mr_simon",
+      "name": {
+        "full_name": "Astaire, Mr Simon",
+        "prefix": null,
+        "first_name": "Mr Simon",
+        "middle_name": null,
+        "last_name": "Astaire",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 235 5757",
+          "formatting": "001 212 235 5757 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 353 1285",
+          "formatting": "001 212 353 1285 (International)"
+        },
+        {
+          "type": "home",
+          "number": "0207-351 7973",
+          "formatting": "0207-351 7973 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "60 Cathcart Road"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW 10",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "003_astor_viscount_william",
+      "name": {
+        "full_name": "Astor Viscount William",
+        "prefix": null,
+        "first_name": "William",
+        "middle_name": null,
+        "last_name": "Astor Viscount",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-412 0703",
+          "formatting": "0207-412 0703 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "003_atkin_helene",
+      "name": {
+        "full_name": "Atkin Helene",
+        "prefix": null,
+        "first_name": "Helene",
+        "middle_name": null,
+        "last_name": "Atkin",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 650 851 2669",
+          "formatting": "001 650 851 2669 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 650 851 2689",
+          "formatting": "001 650 851 2689 (International)"
+        },
+        {
+          "type": "work",
+          "number": "001 650 9878",
+          "formatting": "001 650 9878 (International)"
+        },
+        {
+          "type": "home",
+          "number": "650 851 2689",
+          "formatting": "650 851 2689"
+        },
+        {
+          "type": "portable",
+          "number": "001 650 224 2198",
+          "formatting": "001 650 224 2198 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "508 and a half conneticut St"
+          ],
+          "city": "San Francisco",
+          "state": null,
+          "postal_code": "SF 94107",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "003_atkin_mike_&_aml",
+      "name": {
+        "full_name": "Atkin, Mike",
+        "prefix": null,
+        "first_name": "Mike & Aml",
+        "middle_name": null,
+        "last_name": "Atkin",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Aml"
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 201 831 2152",
+          "formatting": "001 201 831 2152 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 201 659 3299",
+          "formatting": "001 201 659 3299 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "825 Washington Street, #5A"
+          ],
+          "city": "Hoboken",
+          "state": null,
+          "postal_code": "NJ 07030",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "003_aznar_jose",
+      "name": {
+        "full_name": "Aznar Jose",
+        "prefix": null,
+        "first_name": "Jose",
+        "middle_name": null,
+        "last_name": "Aznar",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 646 831 1929",
+          "formatting": "001 646 831 1929 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "jose@alscapital.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "140 West 57th Street, 7th Floor"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "S&S Capital"
+    },
+    {
+      "entry_id": "003_baddeley_jean",
+      "name": {
+        "full_name": "Baddeley, Jean",
+        "prefix": null,
+        "first_name": "Jean",
+        "middle_name": null,
+        "last_name": "Baddeley",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 34 52 783865",
+          "formatting": "00 34 52 783865 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "0295 768 285",
+          "formatting": "0295 768 285"
+        },
+        {
+          "type": "work",
+          "number": "385770977",
+          "formatting": "385770977"
+        },
+        {
+          "type": "home",
+          "number": "34 952 11 28 14",
+          "formatting": "34 952 11 28 14"
+        },
+        {
+          "type": "portable",
+          "number": "385770977",
+          "formatting": "385770977"
+        }
+      ],
+      "emails": [
+        {
+          "address": "queenbee@mercuryin.es",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Finca Las Colines, Lista de Correos, 29100 COIN"
+          ],
+          "city": "Malaga",
+          "state": null,
+          "postal_code": "29100",
+          "country": "Spain",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "003_bahrke_peter",
+      "name": {
+        "full_name": "Bahrke Peter",
+        "prefix": null,
+        "first_name": "Peter",
+        "middle_name": null,
+        "last_name": "Bahrke",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-973 8250",
+          "formatting": "0207-973 8250 (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 46 707766655",
+          "formatting": "00 46 707766655 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "pb@arkwright.co.uk",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "003_baker_danny",
+      "name": {
+        "full_name": "Baker Danny",
+        "prefix": null,
+        "first_name": "Danny",
+        "middle_name": null,
+        "last_name": "Baker",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 917 647 9649",
+          "formatting": "001 917 647 9649 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "003_bakhtiar_shariar",
+      "name": {
+        "full_name": "Bakhtiar, Shariar",
+        "prefix": null,
+        "first_name": "Shariar",
+        "middle_name": null,
+        "last_name": "Bakhtiar",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0285 770067 (f)",
+          "formatting": "0285 770067 (f)"
+        },
+        {
+          "type": "home",
+          "number": "0285 770146",
+          "formatting": "0285 770146"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Coats Cirencester Gloss"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Church Palm Collage"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 18,
+    "entries_with_emails": 4,
+    "entries_with_addresses": 14,
+    "entries_with_handwritten_notes": 0,
+    "couples": 6,
+    "average_confidence": "high",
+    "notable_figures_count": 0
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Arellano, Victor",
+      "Arion, Joaquin Fernandez de",
+      "Arion, Fernando",
+      "Armstrong, Arthur",
+      "Cathy",
+      "Aron, Herve",
+      "Marine",
+      "Ash, Lorinda",
+      "Hicks, Ashley",
+      "Allegra",
+      "Ashley, Nick",
+      "Ari",
+      "Assaf, Charlotte",
+      "Vittorio",
+      "Astaire, Mr Simon",
+      "Astor Viscount William",
+      "Atkin Helene",
+      "Atkin, Mike",
+      "Aml",
+      "Aznar Jose",
+      "Baddeley, Jean",
+      "Bahrke Peter",
+      "Baker Danny",
+      "Bakhtiar, Shariar"
+    ],
+    "organizations": [],
+    "locations": {
+      "international": [
+        "UK",
+        "Spain"
+      ],
+      "us_cities": [
+        "London",
+        "Malaga",
+        "New York",
+        "San Francisco",
+        "Hoboken",
+        "Madrid"
+      ],
+      "elite_addresses": []
+    }
+  },
+  "insights": [
+    "Geographic cluster: London (4 entries)",
+    "Geographic cluster: New York (4 entries)"
+  ]
+}

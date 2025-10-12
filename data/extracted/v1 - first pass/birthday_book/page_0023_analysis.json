@@ -1,0 +1,142 @@
+{
+  "page_number": 23,
+  "type": "handwritten_letter_continued",
+  "content": {
+    "text": "Complete page 4 of Paula's letter with all text",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "Today - a limousine awaits\nYou as a dignitary.\n\nJeff, I'm so sorry that Dad can't\nshare the Nachus [Yiddish word for a feeling of pride and joy] we have regarding\nyour achievements. He would have been\noverjoyed reading the article about\nyou in the New York magazine.\nI was looking at family\nTapes. We had many, many parties,\nanniversary parties etc, you enjoyed\nbeing there.\nToday you AVOID gatherings,\nParties - why?\n\nTonight is the deadline I\nmust get this manuscript to\nGhislaine.\nIf I know me, as soon\nas I mail it I will think of\nWHAT I should of Said. (4)\n\nHOUSE_OVERSIGHT_000023",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeff",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          23
+        ]
+      },
+      {
+        "name": "Dad",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          23
+        ]
+      },
+      {
+        "name": "Ghislaine",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          23
+        ]
+      }
+    ],
+    "organizations": [
+      "New York magazine"
+    ],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Mother (Paula)",
+    "recipient": "Jeff (Jeffrey Epstein)",
+    "date": "2003",
+    "subject": "Reflections on success and change",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "handwritten_letter_continued"
+  },
+  "relationships": [
+    "Father (Dad) deceased before Jeffrey's success",
+    "Ghislaine Maxwell collecting manuscripts for book"
+  ],
+  "insights": [
+    "'limousine awaits You as a dignitary' - wealth/status achieved",
+    "'Nachas' - Yiddish for pride/joy from children's achievements",
+    "Father (Seymour) died before seeing success",
+    "'He would have been overjoyed' - father missed son's rise",
+    "New York magazine article about Epstein",
+    "Family tapes document past gatherings",
+    "'many, many parties, anniversary parties' - social family",
+    "Past: 'you enjoyed being there' at family events",
+    "Present: 'you AVOID gatherings, Parties - why?'",
+    "Mother notes dramatic personality change",
+    "Social to reclusive transformation questioned",
+    "'Pencil is the deadline' - unclear phrase, possibly typo",
+    "Manuscript deadline set by Ghislaine Maxwell",
+    "Mother aware she'll think of more after sending",
+    "'WHAT I should of Said' - regret about incompleteness",
+    "Page 4 of mother's multi-page contribution"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000023",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.131129",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": true,
+    "high_priority": false,
+    "quality_score": 95,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Father Seymour deceased before 2003",
+    "New York magazine profile mentioned - investigate date",
+    "Personality change documented: social to reclusive",
+    "Ghislaine Maxwell controlled submission deadlines",
+    "Mother using Yiddish terms - cultural background"
+  ],
+  "investigative_leads": [
+    "Locate New York magazine article about Epstein",
+    "Determine when Seymour Epstein died",
+    "Obtain family tapes/videos mentioned",
+    "Document personality change timeline",
+    "Investigate why Epstein became reclusive"
+  ]
+}

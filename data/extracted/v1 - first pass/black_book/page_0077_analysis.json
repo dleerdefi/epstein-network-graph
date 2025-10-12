@@ -1,0 +1,625 @@
+{
+  "page_number": 77,
+  "section": "N-P Names",
+  "entries": [
+    {
+      "name": "New Albany Country Club",
+      "category": "Venue",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1 Club Lane",
+          "street": "1 Club Lane",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "New Albany Columbus, OH",
+          "city": "New Albany Columbus",
+          "state": "OH",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "614-939-8701",
+          "area_code": "614",
+          "geographic_indicator": "Columbus, Ohio",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "614-936-9350 (f)",
+          "area_code": "614",
+          "geographic_indicator": "Columbus, Ohio",
+          "confidence": "high"
+        }
+      ],
+      "notes": "New Albany Country Club - Columbus OH",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Newcombe, Timothy W.",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "14 S.W.",
+          "street": "14 S.W.",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "2737 NE Alameda Address",
+          "street": "2737 NE Alameda",
+          "confidence": "high"
+        },
+        {
+          "type": "tertiary",
+          "address": "Portland OR 97212",
+          "city": "Portland",
+          "state": "OR",
+          "postal_code": "97212",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "H",
+          "number": "503-288-9515 32231 (h)",
+          "area_code": "503",
+          "geographic_indicator": "Portland",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "503 249 5515",
+          "area_code": "503",
+          "geographic_indicator": "Portland",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "503 712 7813 W (cl)",
+          "area_code": "503",
+          "geographic_indicator": "Portland",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "503 274 8444 H",
+          "area_code": "503",
+          "geographic_indicator": "Portland",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "503 284 2401 H",
+          "area_code": "503",
+          "geographic_indicator": "Portland",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "503 234 1101 Rose Mail",
+          "area_code": "503",
+          "geographic_indicator": "Portland",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "207 212 2831 [B]",
+          "area_code": "207",
+          "geographic_indicator": "Maine",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Timothy W. Newcombe - Portland OR",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Newman, Larry Esq.",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "477 Madison Avenue",
+          "street": "477 Madison Avenue",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "6th Floor",
+          "floor": "6th Floor",
+          "confidence": "high"
+        },
+        {
+          "type": "tertiary",
+          "address": "New York, NY 10061",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10061",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 328 1182 (D)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 838 1914",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Email: freeman22@nrilaw.com",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "NYFire: Wish Cruise Frame Road",
+        "Box Flower 411 02650",
+        "212 753 5500 Office",
+        "212 838 0099 H Please",
+        "212 753 5000 W",
+        "212 853 1000 (cl)"
+      ],
+      "notes": "Larry Newman Esq. - Madison Avenue legal office",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Novak, Martin",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "561 South 7207 home",
+          "street": "561 South 7207",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 207 home",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "medium"
+        }
+      ],
+      "additional_info": [
+        "Miami FL",
+        "West 9 th - Street Basel th",
+        "561 655 2850 Madla",
+        "561 853 8338 pool",
+        "561 833 8337 Secretary"
+      ],
+      "notes": "Martin Novak - South Florida",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone number unclear"]
+      }
+    },
+    {
+      "name": "Oatman, Bob",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "36 Grove St Somerville, MA",
+          "street": "36 Grove Street",
+          "city": "Somerville",
+          "state": "MA",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Suite 100",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "617 764 7228",
+          "area_code": "617",
+          "geographic_indicator": "Boston",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 201 1600",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 201 1604",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Apt Center Blvds 02143 w",
+        "310 656 7951 Cell",
+        "Cambridge, MA 02429",
+        "310 450 6789 Gayland"
+      ],
+      "notes": "Bob Oatman - Somerville MA and LA connections",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Ovitz, Michael",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "9560 Wilshire Blvd",
+          "street": "9560 Wilshire Boulevard",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Suite 516",
+          "floor": "Suite 516",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "310 969 0100",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 969 8949 fax",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 280 1400[W]",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Michael Ovitz - Former CAA head, Wilshire Blvd",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Ouertani, Selma",
+      "category": "Personal",
+      "location": "France",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "19 Villa Di Lorenzo",
+          "street": "19 Villa Di Lorenzo",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "77300 Le Mee [illegible]",
+          "postal_code": "77300",
+          "city": "Le Mee",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [],
+      "emails": [
+        {
+          "email": "Email: selmaovhemi@yahoo.fr",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Selma Ouertani - France location",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["City name partially illegible"]
+      }
+    },
+    {
+      "name": "Packer, Mark",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Samsung Suite",
+          "location": "Samsung Suite",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "33 Newcore Avenue Inc",
+          "street": "33 Newcore Avenue",
+          "confidence": "high"
+        },
+        {
+          "type": "tertiary",
+          "address": "38 E 26 Suite 102",
+          "street": "38 E 26 Suite 102",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "N.Y. 1006",
+          "postal_code": "1006",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "212 408 1900 [cl]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "718 305 1000",
+          "area_code": "718",
+          "geographic_indicator": "NYC outer boroughs",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "1 Rockefeller Plaza apt # 14E",
+        "New York NY 10020",
+        "212 432 5002",
+        "212 432 5007 (G) Shalor's Mixed",
+        "212 432 5010 (cl)"
+      ],
+      "notes": "Mark Packer - Samsung Suite, Rockefeller Plaza",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Pagano, Joe",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "825 East Green (vi)",
+          "street": "825 East Green",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Suite 201",
+          "floor": "Suite 201",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "626 3101",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "310 277 5020 (vi)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "562 438 3370 Maxm-barry sw",
+          "area_code": "562",
+          "geographic_indicator": "Long Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Joe Pagano - East Green location",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["First phone incomplete"]
+      }
+    },
+    {
+      "name": "Pate",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 360 0765",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Pate - Palm Beach area",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Phillips, Lisa",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "51 Beach",
+          "street": "51 Beach",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New Art Now # 470 NYC",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "212 222 44 Ave ()",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "917 650 7777",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "White Museum (Black Island)",
+        "NY 11 420 4444",
+        "212 753 0707",
+        "212 753 7803 Maratello",
+        "212 753 1902 House (Black Island)",
+        "509 997 4296 Lisa in New Mexico"
+      ],
+      "notes": "Lisa Phillips - Beach location, art connection",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Some phone numbers unclear"]
+      }
+    },
+    {
+      "name": "PILOT INFORMATION",
+      "category": "Section Header",
+      "entries": [],
+      "notes": "Pilot Information section header",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Various Pilot Entries",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1614 Executive Road",
+          "street": "1614 Executive Road",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "West, New York",
+          "city": "West",
+          "state": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 744 [illegible]",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "561 744 6200 Washington-Signa",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "USA R: 0033",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Various pilot information entries",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Several numbers illegible"]
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 13,
+    "illegible_entries": 0,
+    "partial_entries": 4,
+    "sections": ["N-P Names", "PILOT INFORMATION"],
+    "notable_entries": [
+      "Michael Ovitz - Former CAA head",
+      "Larry Newman Esq. - Madison Avenue lawyer",
+      "New Albany Country Club - Columbus OH",
+      "Mark Packer - Samsung Suite/Rockefeller Plaza",
+      "Pilot Information section"
+    ],
+    "geographic_distribution": {
+      "usa": 12,
+      "france": 1,
+      "nyc": 4,
+      "ohio": 2,
+      "oregon": 1,
+      "california": 3,
+      "florida": 3
+    },
+    "location_highlights": [
+      "New Albany Country Club Columbus OH",
+      "9560 Wilshire Blvd (Michael Ovitz)",
+      "477 Madison Avenue legal offices",
+      "Rockefeller Plaza Samsung Suite",
+      "Portland OR addresses"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 9,
+      "medium_confidence": 3,
+      "low_confidence": 1,
+      "specific_issues": [
+        "Some phone numbers incomplete",
+        "Pilot information partially illegible",
+        "Various addresses unclear"
+      ]
+    }
+  }
+}

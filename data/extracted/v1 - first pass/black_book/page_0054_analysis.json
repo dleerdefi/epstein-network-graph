@@ -1,0 +1,662 @@
+{
+  "page_number": 54,
+  "section": "T",
+  "entries": [
+    {
+      "name": "Theodoli Catherine",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 305 671 9530(H)",
+          "area_code": "305",
+          "geographic_indicator": "Miami, Florida",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 376 243 7770",
+          "area_code": "376",
+          "geographic_indicator": "Andorra",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Email: theodolicatherine@aol.com",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Catherine Theodoli - Miami and Andorra",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Tholstrup, Moegene",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "6 Primrose Hill",
+          "street": "6 Primrose Hill",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "mobile",
+          "number": "07940 901 5042(M)",
+          "area_code": "07940",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0171 481 0520",
+          "area_code": "0171",
+          "geographic_indicator": "London (old code)",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "moegenetholstrup@aol.com",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Moegene Tholstrup - Primrose Hill",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Thomason, Flossie",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "11 Sherlock [illegible]",
+          "street": "11 Sherlock [illegible]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 224 9916(H)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01327 771 854 (Country)",
+          "area_code": "01327",
+          "geographic_indicator": "Daventry, Northamptonshire",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Flossie Thomason",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Street name partially illegible"]
+      }
+    },
+    {
+      "name": "Thompson, Barnaby",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 269 7621 (W)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Barnaby Thompson",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Tisch, David",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "212 East 48th Street",
+          "street": "212 East 48th Street",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "212 268 5090 (H)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 688 5317",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Email: david.tisch@aol.com",
+          "confidence": "high"
+        }
+      ],
+      "notes": "David Tisch - East 48th Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Tisch, Merryl and Jimmy",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "3 East 75th Street",
+          "street": "3 East 75th Street",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "notes": "Merryl and Jimmy Tisch - East 75th Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Tish, Anne & Andrew",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Regency Hotel",
+          "location": "Regency Hotel",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "540 Park Ave, 10065 Floor",
+          "street": "540 Park Ave",
+          "postal_code": "10065",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York Tel. 212 759 4100",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 421 5800",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Anne & Andrew Tish - Regency Hotel, Park Avenue",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Titopoupolo Sonia",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0891 212 705 240[illegible]",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Sonia Titopoupolo",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Phone number partially illegible"]
+      }
+    },
+    {
+      "name": "Todhunter, Emily Whitbread",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "22 Walmoth [illegible]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 938 3150(H)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0208 866 2247(O)",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Emily@[illegible].com",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Emily Whitbread Todhunter",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Address partially illegible", "Email domain illegible"]
+      }
+    },
+    {
+      "name": "Toledo Ignacio, Alvarez de",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 34 1 4418 0440(H)",
+          "area_code": "34",
+          "geographic_indicator": "Spain",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 34 1 4427 4141",
+          "area_code": "34",
+          "geographic_indicator": "Spain",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "34 638 053 633",
+          "area_code": "34",
+          "geographic_indicator": "Spain mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "944 105 903 5342",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Alvarez de Toledo Ignacio - Spain",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Tollman, Bea",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Hawk Rise Lake",
+          "location": "Hawk Rise Lake",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "mobile",
+          "number": "0802 465 1018 (M H)",
+          "area_code": "0802",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 286 0[illegible]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Bea Tollman",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["NYC phone partially illegible"]
+      }
+    },
+    {
+      "name": "Tollman, Brett",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "486 Park Avenue",
+          "street": "486 Park Avenue",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 980 3430 (H)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "country",
+          "number": "001 516 676 0853 (Country)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 742 2145",
+          "area_code": "516",
+          "geographic_indicator": "Long Island NY",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Brett Tollman - Park Avenue",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Tollman, Mr. & Mrs.",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "220 Park Avenue",
+          "street": "220 Park Avenue",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 948 0908 (H)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 561 8220 1229 (O)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach, Florida",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Mr. & Mrs. Tollman - Park Avenue",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Tollman, Syrle & Gavin",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "14 Hyde Park Street",
+          "street": "14 Hyde Park Street",
+          "city": "London",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 688 8815(H) UK",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 888 0765 (H) or O",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 589 8813[illegible]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Syrle & Gavin Tollman - Hyde Park Street London, NYC phones",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One phone number partially illegible"]
+      }
+    },
+    {
+      "name": "Tollman, Wyne",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "441 70th Ave #402",
+          "street": "441 70th Ave #402",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 917 1989",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "home",
+          "number": "001 212 369 8593 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Wyne Tollman",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Toub, Veronica (Busson)",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "203 Park Avenue",
+          "street": "203 Park Avenue",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York Tel. 10001 USA",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Veronica Toub (Busson) - Park Avenue",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone number format unclear"]
+      }
+    },
+    {
+      "name": "Treacy Phillip",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "69 Elizabeth St.",
+          "street": "69 Elizabeth St.",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 836 9588",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 730 3992",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 259 9838(SW3 Salon)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London Chelsea",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Philip Treacy - Elizabeth St, SW3 Salon",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Trump Blaine & Robert",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "740 Park Ave",
+          "street": "740 Park Ave",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York City 10021",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Blaine & Robert Trump - 740 Park Avenue",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Phone not provided, only zip code"]
+      }
+    },
+    {
+      "name": "Trump, Ivana",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 319 2700",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "office",
+          "number": "001 212 759 4770 (w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Ivana Trump",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Trump, Ivanka",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0017 484 8417",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 484 8417",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Ivanka Trump",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 20,
+    "illegible_entries": 0,
+    "partial_entries": 5,
+    "cross_references": ["Multiple Tisch family members", "Multiple Tollman family members", "Multiple Trump family members"],
+    "notable_individuals": [
+      "David Tisch - Business/tech investor",
+      "Merryl and Jimmy Tisch - Tisch family",
+      "Philip Treacy - Hat designer",
+      "Blaine & Robert Trump - Trump family",
+      "Ivana Trump",
+      "Ivanka Trump"
+    ],
+    "geographic_distribution": {
+      "uk": 6,
+      "usa": 12,
+      "spain": 1,
+      "andorra": 1
+    },
+    "location_highlights": [
+      "Multiple Park Avenue addresses",
+      "Regency Hotel connection",
+      "740 Park Avenue - ultra luxury building",
+      "Hyde Park Street London",
+      "Chelsea SW3 salon",
+      "Primrose Hill"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 15,
+      "medium_confidence": 4,
+      "low_confidence": 1,
+      "specific_issues": [
+        "Several partial phone numbers",
+        "Some addresses incomplete",
+        "Email domains illegible"
+      ]
+    }
+  }
+}

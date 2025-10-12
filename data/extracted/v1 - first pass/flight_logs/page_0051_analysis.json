@@ -1,0 +1,281 @@
+{
+  "page_number": 51,
+  "date_header": "1997 OCT",
+  "time_period": "October 1997 - December 1997",
+  "aircraft": {
+    "registration": "N908JE",
+    "type": "G1159B"
+  },
+  "flight_records": [
+    {
+      "entry_number": "17",
+      "date": "10/17/1997",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "1031",
+      "remarks": "JE, GM, SANDRA, EMMY, BRIDGET",
+      "passengers": ["JE", "GM", "SANDRA", "EMMY", "BRIDGET"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "21",
+      "date": "10/21/1997",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "1032",
+      "remarks": "JE, GM, MANDY, EMMY, BRIDGET",
+      "passengers": ["JE", "GM", "MANDY", "EMMY", "BRIDGET"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "24",
+      "date": "10/24/1997",
+      "departure": "COGSHANLEY-LAGUARDIA",
+      "arrival": "ZORRIQ",
+      "flight_time": "",
+      "remarks": "8 COGSHANLEY - LAGUARDIA",
+      "passengers": ["8 COGSHANLEY", "LAGUARDIA"],
+      "crew": "4/4-"
+    },
+    {
+      "entry_number": "24",
+      "date": "10/24/1997",
+      "departure": "TEB",
+      "arrival": "BGD",
+      "flight_time": "1041",
+      "remarks": "JE, EMMY",
+      "passengers": ["JE", "EMMY"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "24",
+      "date": "10/24/1997",
+      "departure": "BGD",
+      "arrival": "PBI",
+      "flight_time": "1042",
+      "remarks": "",
+      "passengers": [],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "27",
+      "date": "10/27/1997",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "1043",
+      "remarks": "JE, GM, EMMY, TAYLORE",
+      "passengers": ["JE", "GM", "EMMY", "TAYLORE"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "31",
+      "date": "10/31/1997",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "1044",
+      "remarks": "JE, GM, ET (EVAN CARLO), JENNY, RODNEY SLADEY",
+      "passengers": ["JE", "GM", "ET", "EVAN CARLO", "JENNY", "RODNEY SLADEY"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "NOV 2",
+      "date": "11/02/1997",
+      "departure": "PBI",
+      "arrival": "SAF",
+      "flight_time": "1045",
+      "remarks": "JE, GM, ET, [REDACTED]",
+      "passengers": ["JE", "GM", "ET"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "4",
+      "date": "11/04/1997",
+      "departure": "SAF",
+      "arrival": "TEB",
+      "flight_time": "1046",
+      "remarks": "JE, GM, ET, CARLY, MARY RODNEY",
+      "passengers": ["JE", "GM", "ET", "CARLY", "MARY RODNEY"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "7",
+      "date": "11/07/1997",
+      "departure": "TEB",
+      "arrival": "TYS",
+      "flight_time": "1047",
+      "remarks": "JE, LYNN FORRESTER",
+      "passengers": ["JE", "LYNN FORRESTER"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "7",
+      "date": "11/07/1997",
+      "departure": "TYS",
+      "arrival": "JAX",
+      "flight_time": "",
+      "remarks": "",
+      "passengers": [],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "8",
+      "date": "11/08/1997",
+      "departure": "PBI",
+      "arrival": "MIA",
+      "flight_time": "70",
+      "remarks": "LARRY VISOSKI",
+      "passengers": ["LARRY VISOSKI"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "24",
+      "date": "11/24/1997",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "1049",
+      "remarks": "REPOSITION TO TEB",
+      "passengers": [],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "24",
+      "date": "11/24/1997",
+      "departure": "TEB",
+      "arrival": "SAF",
+      "flight_time": "1050",
+      "remarks": "JE, ET",
+      "passengers": ["JE", "ET"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "25",
+      "date": "11/25/1997",
+      "departure": "SAF",
+      "arrival": "PBI",
+      "flight_time": "1051",
+      "remarks": "JE, ET",
+      "passengers": ["JE", "ET"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "29",
+      "date": "11/29/1997",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "1052",
+      "remarks": "JE, DOUGIE, KELSEY MIDDLETON, JE, GM, DOUGIE, GWEN",
+      "passengers": ["JE", "DOUGIE", "KELSEY MIDDLETON", "GM", "GWEN"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "DEC 6",
+      "date": "12/06/1997",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "1053",
+      "remarks": "",
+      "passengers": [],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "9",
+      "date": "12/09/1997",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "1054",
+      "remarks": "JE, GM, ET",
+      "passengers": ["JE", "GM", "ET"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "11",
+      "date": "12/11/1997",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "1055",
+      "remarks": "JE, EVA, HELENA, JENNY DOUGIE + KELLEY",
+      "passengers": ["JE", "EVA", "HELENA", "JENNY", "DOUGIE", "KELLEY"],
+      "crew": "V1"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "GM",
+      "SANDRA",
+      "EMMY",
+      "BRIDGET",
+      "MANDY",
+      "8 COGSHANLEY",
+      "LAGUARDIA",
+      "TAYLORE",
+      "ET",
+      "EVAN CARLO",
+      "JENNY",
+      "RODNEY SLADEY",
+      "CARLY",
+      "MARY RODNEY",
+      "LYNN FORRESTER",
+      "LARRY VISOSKI",
+      "DOUGIE",
+      "KELSEY MIDDLETON",
+      "GWEN",
+      "EVA",
+      "HELENA",
+      "KELLEY",
+      "David Rodgers"
+    ],
+    "locations": [
+      "TEB",
+      "PBI",
+      "COGSHANLEY",
+      "LAGUARDIA",
+      "ZORRIQ",
+      "BGD",
+      "SAF",
+      "TYS",
+      "JAX",
+      "MIA"
+    ],
+    "aircraft": [
+      "N908JE",
+      "G1159B",
+      "G1121",
+      "N1906A",
+      "N199JE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "51",
+    "amount_forward": "10543/11069.9",
+    "total_to_date": "10954.3/11455.3",
+    "document_quality": "good",
+    "legibility": "clear"
+  },
+  "insights": [
+    "Page transitions through three months: October to November to December 1997",
+    "Lynn Forrester (later de Rothschild) appears as passenger",
+    "Larry Visoski identified as pilot/crew",
+    "ET appears frequently as recurring passenger across months",
+    "COGSHANLEY-LaGuardia shuttle operations",
+    "Multiple aircraft including G1121 N1906A and N199JE",
+    "Repositioning flights for aircraft logistics",
+    "Redacted content on November 2nd flight",
+    "Thanksgiving period travel (November 24-25)",
+    "December entries begin with entry on the 6th",
+    "Large passenger groups including up to 6 people",
+    "Santa Fe (SAF) continues as key destination",
+    "Flight numbers exceeding 1055"
+  ]
+}

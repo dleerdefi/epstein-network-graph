@@ -1,0 +1,320 @@
+{
+  "page_number": 100,
+  "date_header": "FEB-APR 2003",
+  "time_period": "February 2003 - April 2003",
+  "aircraft": {
+    "registration": "Multiple (B-727-311 N989JE, B-727-200, G-1159B N909JE)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "FEB 28",
+      "date": "02/28/2003",
+      "departure": "B-727-311",
+      "arrival": "N989JE",
+      "flight_time": "184",
+      "remarks": "MRY - ABQ - JE, SK, REBECCA, CHRIS, BRETT",
+      "passengers": ["JE", "SK", "REBECCA", "CHRIS", "BRETT"],
+      "crew": "TOMMY ALDRIDGE FLIGHT 1/8"
+    },
+    {
+      "entry_number": "MAR 4",
+      "date": "03/04/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "185",
+      "remarks": "ABQ - JFK - KEVIN FEENEY, RICK LEACH",
+      "passengers": ["KEVIN FEENEY", "RICK LEACH"],
+      "crew": "4/4"
+    },
+    {
+      "entry_number": "5",
+      "date": "03/05/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "186",
+      "remarks": "JFK - PBI - K. FEENEY, R. LEACH",
+      "passengers": ["K. FEENEY", "R. LEACH"],
+      "crew": "2/0"
+    },
+    {
+      "entry_number": "12",
+      "date": "03/12/2003",
+      "departure": "B-727-200",
+      "arrival": "200WL BOEING",
+      "flight_time": "",
+      "remarks": "MED - LCE - ANDREW",
+      "passengers": ["ANDREW"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "12",
+      "date": "03/12/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "",
+      "passengers": [],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "12",
+      "date": "03/12/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "",
+      "passengers": [],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "13",
+      "date": "03/13/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "",
+      "passengers": [],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "13",
+      "date": "03/13/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "",
+      "passengers": [],
+      "crew": "2"
+    },
+    {
+      "entry_number": "17",
+      "date": "03/17/2003",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "",
+      "remarks": "PBI - TEB - JE, GM, SK, JENNIFER CLARSON, ANTHONY LYONS, NICOLE",
+      "passengers": ["JE", "GM", "SK", "JENNIFER CLARSON", "ANTHONY LYONS", "NICOLE"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "19",
+      "date": "03/19/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "TEB - BED - JG, JE",
+      "passengers": ["JG", "JE"],
+      "crew": "1/1 1/0"
+    },
+    {
+      "entry_number": "19",
+      "date": "03/19/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "BED - TEB - JG",
+      "passengers": ["JG"],
+      "crew": "1/1"
+    },
+    {
+      "entry_number": "20",
+      "date": "03/20/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "TEB - PBI - JE, GM, SK, JESSICA, AUDREY, HANNAH, NADIA, ALESSANDRO, CARMEL, JOANNA, CINDY",
+      "passengers": ["JE", "GM", "SK", "JESSICA", "AUDREY", "HANNAH", "NADIA", "ALESSANDRO", "CARMEL", "JOANNA", "CINDY"],
+      "crew": "1/1 3/8"
+    },
+    {
+      "entry_number": "21",
+      "date": "03/21/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "PBI - MYNN - JE, SK, RICK J. FRIEDMAN, AUDREY, JERRY ZARO, JILL, NATASHA",
+      "passengers": ["JE", "SK", "RICK J. FRIEDMAN", "AUDREY", "JERRY ZARO", "JILL", "NATASHA"],
+      "crew": "1/8"
+    },
+    {
+      "entry_number": "23",
+      "date": "03/23/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "MYNN - PBI - JERRY ZARO, JILL, NATASHA",
+      "passengers": ["JERRY ZARO", "JILL", "NATASHA"],
+      "crew": "8"
+    },
+    {
+      "entry_number": "25",
+      "date": "03/25/2003",
+      "departure": "B-727-311",
+      "arrival": "N989JE",
+      "flight_time": "189",
+      "remarks": "PBI - JFK - JE, GM, TODD LAO, D. KABBAZ, JERRY ZARO, JEAN HOFFMAN, DOE",
+      "passengers": ["JE", "GM", "TODD LAO", "D. KABBAZ", "JERRY ZARO", "JEAN HOFFMAN", "DOE"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "27",
+      "date": "03/27/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "190",
+      "remarks": "JFK - TIST - FRANCOIS GOLESING, M. WEINBERG",
+      "passengers": ["FRANCOIS GOLESING", "M. WEINBERG"],
+      "crew": "3/5"
+    },
+    {
+      "entry_number": "APRIL 2",
+      "date": "04/02/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "191",
+      "remarks": "TIST - SBGR - JE, GM, SK, RICARDO, MADISON, G WATSON, D COHEN, P MITCHELL",
+      "passengers": ["JE", "GM", "SK", "RICARDO", "MADISON", "G WATSON", "D COHEN", "P MITCHELL"],
+      "crew": "6/4"
+    },
+    {
+      "entry_number": "5",
+      "date": "04/05/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "192",
+      "remarks": "SBGR - GVAC - SAME AS ABOVE, MICHAEL",
+      "passengers": ["SAME AS ABOVE", "MICHAEL"],
+      "crew": "6/2"
+    },
+    {
+      "entry_number": "6",
+      "date": "04/06/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "193",
+      "remarks": "GVAC - LSGG - JE, SK, KELLY REDFORD, MICHAEL",
+      "passengers": ["JE", "SK", "KELLY REDFORD", "MICHAEL"],
+      "crew": "3/2"
+    },
+    {
+      "entry_number": "10",
+      "date": "04/10/2003",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "197",
+      "remarks": "LSGG - CYRX - JE, SK, AY, STEPHANIE, L FERRER, JOHN, STEVE, HOLLY, ANNE",
+      "passengers": ["JE", "SK", "AY", "STEPHANIE", "L FERRER", "JOHN", "STEVE", "HOLLY", "ANNE"],
+      "crew": "1/1 2/7"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "SK",
+      "REBECCA",
+      "CHRIS",
+      "BRETT",
+      "TOMMY ALDRIDGE",
+      "KEVIN FEENEY",
+      "RICK LEACH",
+      "K. FEENEY",
+      "R. LEACH",
+      "ANDREW",
+      "GM",
+      "JENNIFER CLARSON",
+      "ANTHONY LYONS",
+      "NICOLE",
+      "JG",
+      "JESSICA",
+      "AUDREY",
+      "HANNAH",
+      "NADIA",
+      "ALESSANDRO",
+      "CARMEL",
+      "JOANNA",
+      "CINDY",
+      "RICK J. FRIEDMAN",
+      "JERRY ZARO",
+      "JILL",
+      "NATASHA",
+      "TODD LAO",
+      "D. KABBAZ",
+      "JEAN HOFFMAN",
+      "DOE",
+      "FRANCOIS GOLESING",
+      "M. WEINBERG",
+      "RICARDO",
+      "MADISON",
+      "G WATSON",
+      "D COHEN",
+      "P MITCHELL",
+      "SAME AS ABOVE",
+      "MICHAEL",
+      "KELLY REDFORD",
+      "AY",
+      "STEPHANIE",
+      "L FERRER",
+      "JOHN",
+      "STEVE",
+      "HOLLY",
+      "ANNE",
+      "David Rodgers"
+    ],
+    "locations": [
+      "MRY",
+      "ABQ",
+      "JFK",
+      "PBI",
+      "MED",
+      "LCE",
+      "TEB",
+      "BED",
+      "MYNN",
+      "TIST",
+      "SBGR",
+      "GVAC",
+      "LSGG",
+      "CYRX"
+    ],
+    "aircraft": [
+      "B-727-311",
+      "N989JE",
+      "B-727-200",
+      "200WL BOEING",
+      "G-1159B",
+      "N909JE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "NOTE: 10152",
+    "amount_forward": "9010",
+    "total_to_date": "10171",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page starts with February 28, 2003 then transitions to March and April",
+    "JE (Jeffrey Epstein) appears frequently throughout all three months",
+    "SK (Sarah Kellen) continues to appear frequently",
+    "Tommy Aldridge Flight noted on February 28",
+    "Jerry Zaro appears multiple times in March",
+    "International operations to Brazil (SBGR), Cape Verde (GVAC), Switzerland (LSGG)",
+    "Caribbean operations continue (TIST, MYNN)",
+    "Flight numbers reach 197",
+    "Multiple incomplete entries with missing information in March",
+    "Mix of domestic and extensive international operations",
+    "Last four entries are April 2003 (2, 5, 6, 10)"
+  ]
+}

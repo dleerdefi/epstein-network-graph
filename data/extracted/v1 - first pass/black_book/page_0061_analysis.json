@@ -1,0 +1,599 @@
+{
+  "page_number": 61,
+  "section": "Hotels and Services Continued",
+  "entries": [
+    {
+      "name": "Beverly Wilshire",
+      "category": "Hotel",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 310 275 5200",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Beverly Wilshire Hotel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Bice",
+      "category": "Restaurant",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "East 54th/Salerno",
+          "location": "East 54th/Salerno",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 688 1999",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Bice Restaurant - East 54th",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Bilboquet",
+      "category": "Restaurant",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0101 212 751 3036",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Bilboquet Restaurant",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Bond Street",
+      "category": "Location",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "6 Bond St",
+          "street": "6 Bond St",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "777 0202",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Bond Street location",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone number incomplete"]
+      }
+    },
+    {
+      "name": "Carlyle",
+      "category": "Hotel",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 744 1600",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "The Carlyle Hotel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Christie- New York",
+      "category": "Business",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Henri Josef Stockbrand",
+          "contact": "Henri Josef Stockbrand",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 636 2361 fax",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 636 2300",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 636 2080/10",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 636 9000",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Christie's New York - Henri Josef Stockbrand",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Cipriani Downtown",
+      "category": "Restaurant",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "376 West Broadway",
+          "street": "376 West Broadway",
+          "city": "New York",
+          "postal_code": "10013",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York, NY 10013",
+          "postal_code": "10013",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "212 343 8969",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Cipriani Downtown - West Broadway",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Coffee Shop",
+      "category": "Restaurant",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "163 Union West",
+          "street": "163 Union West",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "243 Union Square",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Coffee Shop - Union Square area",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone number appears incomplete"]
+      }
+    },
+    {
+      "name": "Cohan Gibby",
+      "category": "Personal/Business",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "163 E 71st Street",
+          "street": "163 E 71st Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "163 East 71st Street (2nd 1st floor)",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 734 4114 Cream",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Gibby@aol.com",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Gibby Cohan - East 71st Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Coco",
+      "category": "Establishment",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0839 359201",
+          "area_code": "0839",
+          "geographic_indicator": "UK mobile (old)",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 343 2100",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Coco establishment",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Dawat Haute Cuisine of India",
+      "category": "Restaurant",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "210 East 58th Street",
+          "street": "210 East 58th Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0161 212 355 7555",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Dawat Indian Restaurant - East 58th Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Phone number format unclear"]
+      }
+    },
+    {
+      "name": "Essex House",
+      "category": "Hotel",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "160 Central Park South",
+          "street": "160 Central Park South",
+          "postal_code": "10019",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 247 0300",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Essex House - Central Park South",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Estie",
+      "category": "Business",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "305 ft 22nd",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "NY 1",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "626 8100",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Estie",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Phone/address details unclear"]
+      }
+    },
+    {
+      "name": "Exercise-New York",
+      "category": "Service",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "1 516 123 5050 Dr [illegible] Mager",
+          "area_code": "516",
+          "geographic_indicator": "Long Island NY",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "1 212 517 0088 Dr Myron [illegible]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "1 516 626 8888 Dr [illegible]",
+          "area_code": "516",
+          "geographic_indicator": "Long Island NY",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "212 537 4441 Jessica Bennett[illegible]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "916 746 8811 Jessica Bennett[illegible]",
+          "area_code": "916",
+          "geographic_indicator": "Sacramento, California",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Exercise/Medical services New York",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Several names partially illegible"]
+      }
+    },
+    {
+      "name": "Doyle's",
+      "category": "Establishment",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "175 East 87th",
+          "street": "175 East 87th",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 427 2730",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Doyle's - East 87th Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Four Seasons",
+      "category": "Hotel/Restaurant",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 758 5700",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Four Seasons",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Electrolysis",
+      "category": "Service",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "598 1216",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Electrolysis service",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone number incomplete"]
+      }
+    },
+    {
+      "name": "Four Seasons Hotel",
+      "category": "Hotel",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "57 East 57th Street",
+          "street": "57 East 57th Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 758 5700",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Four Seasons Hotel - East 57th Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Elio's Restaurant",
+      "category": "Restaurant",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Between Second Ave, 84th and 85th",
+          "location": "Between Second Ave, 84th and 85th",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 772 2242",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Elio's Restaurant - Upper East Side",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Four Seasons Restaurant",
+      "category": "Restaurant",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Rest: Daniel[illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "60 E. 65th",
+          "street": "60 E. 65th",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "212 288 0033",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 754 1011",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Four Seasons Restaurant",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Some details unclear"]
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 20,
+    "illegible_entries": 0,
+    "partial_entries": 5,
+    "notable_establishments": [
+      "Beverly Wilshire Hotel",
+      "The Carlyle Hotel",
+      "Essex House - Central Park South",
+      "Four Seasons Hotel - East 57th",
+      "Christie's New York",
+      "Cipriani Downtown",
+      "Elio's Restaurant - Upper East Side"
+    ],
+    "geographic_distribution": {
+      "manhattan": 17,
+      "beverly_hills": 1,
+      "other": 2
+    },
+    "establishment_types": {
+      "hotels": 6,
+      "restaurants": 8,
+      "services": 3,
+      "business": 3
+    },
+    "location_highlights": [
+      "Central Park South - Essex House",
+      "Upper East Side dining cluster",
+      "West Broadway - Cipriani",
+      "Christie's auction house NYC",
+      "Medical/exercise services network"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 14,
+      "medium_confidence": 4,
+      "low_confidence": 2,
+      "specific_issues": [
+        "Some phone numbers incomplete",
+        "Medical professional names partially illegible",
+        "Some address details unclear"
+      ]
+    }
+  }
+}

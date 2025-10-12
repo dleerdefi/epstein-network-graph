@@ -1,0 +1,125 @@
+{
+  "page_number": 78,
+  "file_path": "data/birthday_book_images/page_0078.png",
+  "file_size_mb": 0.24672317504882812,
+  "type": "handwritten_note",
+  "content": {
+    "text": "[Black redaction box]\nAs she goes through\nthe hall, people stop and stare\nTo see such a pretty girl with\nlong golden hair\nLove\n[Signature: Jeff Garland or similar]",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "As she goes through\nthe hall, people stop and stare\nTo see such a pretty girl with\nlong golden hair\nLove\n[Signature appears to read: Jeff Garland or similar]",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeff Garland (possible signature)",
+        "context": "Signature on handwritten note",
+        "confidence": "low"
+      }
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Unknown (handwritten signature redacted)",
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Handwritten note or poem fragment",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "handwritten_note"
+  },
+  "insights": [
+    "Short handwritten note or poem fragment",
+    "References a pretty girl with long golden hair",
+    "Appears to be personal correspondence",
+    "Signature partially visible but context suggests personal nature",
+    "Small redaction suggests sensitive information"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000078",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.158547",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Image appears to be a photocopied handwritten note on what looks like an index card or small paper",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": null,
+        "era_indicators": [],
+        "photo_quality": null,
+        "photo_type": null
+      }
+    ],
+    "signatures": [
+      {
+        "identified_as": "Jeff Garland or similar (cursive signature)",
+        "confidence": "medium",
+        "style": null,
+        "characteristics": [],
+        "location": null,
+        "matches_pages": []
+      }
+    ],
+    "logos": [],
+    "redactions": [
+      "Small black redaction box over what appears to be part of the handwritten text"
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Handwritten poem/note on index card or small paper",
+    "Text reads: 'As she goes through the hall, people stop and stare'",
+    "'To see such a pretty girl with long golden hair'",
+    "Signed 'Love' followed by signature",
+    "Small black redaction box at top of note",
+    "Signature appears to be 'Jeff Garland' or similar",
+    "Romantic or admiring tone in poem",
+    "Photocopied appearance suggests preservation of original",
+    "Document stamped HOUSE_OVERSIGHT_000078",
+    "Placed in 'Girlfriends' section of birthday book"
+  ],
+  "investigative_leads": []
+}

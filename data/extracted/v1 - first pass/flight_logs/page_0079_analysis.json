@@ -1,0 +1,218 @@
+{
+  "page_number": 79,
+  "date_header": "JAN-FEB 2001",
+  "time_period": "January 2001 - February 2001",
+  "aircraft": {
+    "registration": "G-1159B N908JE",
+    "type": "G-1159B"
+  },
+  "flight_records": [
+    {
+      "entry_number": "JAN 14",
+      "date": "01/14/2001",
+      "departure": "G-1159B",
+      "arrival": "N908JE",
+      "flight_time": "1437",
+      "remarks": "PBI - LCQ - JG, GM, GT",
+      "passengers": ["JG", "GM", "GT"],
+      "crew": "4"
+    },
+    {
+      "entry_number": "16",
+      "date": "01/16/2001",
+      "departure": "",
+      "arrival": "LCQ",
+      "flight_time": "1438",
+      "remarks": "TEB - JG, GM, GT",
+      "passengers": ["JG", "GM", "GT"],
+      "crew": "2/1"
+    },
+    {
+      "entry_number": "17",
+      "date": "01/17/2001",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1439",
+      "remarks": "PBI - JG, S KELLEY LEWIS",
+      "passengers": ["JG", "S KELLEY", "LEWIS"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "22",
+      "date": "01/22/2001",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1440",
+      "remarks": "TEB - JG, GM, GT, AY",
+      "passengers": ["JG", "GM", "GT", "AY"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "23",
+      "date": "01/23/2001",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "",
+      "remarks": "LFPB - JG, S KELLEY LEWIS",
+      "passengers": ["JG", "S KELLEY", "LEWIS"],
+      "crew": "6/7"
+    },
+    {
+      "entry_number": "25",
+      "date": "01/25/2001",
+      "departure": "",
+      "arrival": "LFPB",
+      "flight_time": "1442",
+      "remarks": "CYQX - JG, S KELLEY LEWIS",
+      "passengers": ["JG", "S KELLEY", "LEWIS"],
+      "crew": "5/9"
+    },
+    {
+      "entry_number": "25",
+      "date": "01/25/2001",
+      "departure": "",
+      "arrival": "CYQX",
+      "flight_time": "1443",
+      "remarks": "HPN - JG, S KELLEY LEWIS",
+      "passengers": ["JG", "S KELLEY", "LEWIS"],
+      "crew": "2/7"
+    },
+    {
+      "entry_number": "26",
+      "date": "01/26/2001",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1444",
+      "remarks": "PBI - JG, GM, VIRGINIAN ROBERTS",
+      "passengers": ["JG", "GM", "VIRGINIAN ROBERTS"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "FEB",
+      "date": "02/01/2001",
+      "departure": "C172",
+      "arrival": "N140V",
+      "flight_time": "",
+      "remarks": "PBI 2/1/94 SCAN - C172 CONT DOS GARRISON",
+      "passengers": ["DOS GARRISON"],
+      "crew": "2/1/94 14"
+    },
+    {
+      "entry_number": "18",
+      "date": "02/18/2001",
+      "departure": "",
+      "arrival": "LNM",
+      "flight_time": "",
+      "remarks": "LCQ - STEPHANIE MOSS",
+      "passengers": ["STEPHANIE MOSS"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "19",
+      "date": "02/19/2001",
+      "departure": "",
+      "arrival": "LCQ",
+      "flight_time": "",
+      "remarks": "MCO - JENNIFER MARA LEMONICK LAURA AL",
+      "passengers": ["JENNIFER MARA", "LEMONICK", "LAURA", "AL"],
+      "crew": "2/0"
+    },
+    {
+      "entry_number": "19",
+      "date": "02/19/2001",
+      "departure": "",
+      "arrival": "MCO",
+      "flight_time": "",
+      "remarks": "LNM - S",
+      "passengers": ["S"],
+      "crew": "1/9"
+    },
+    {
+      "entry_number": "22",
+      "date": "02/22/2001",
+      "departure": "G1159B",
+      "arrival": "N908JE",
+      "flight_time": "1445",
+      "remarks": "PBI - TIST - JG, GM, GT, VIRGINIA ROBERTS",
+      "passengers": ["JG", "GM", "GT", "VIRGINIA ROBERTS"],
+      "crew": "2/1"
+    },
+    {
+      "entry_number": "30",
+      "date": "02/28/2001",
+      "departure": "",
+      "arrival": "TIST",
+      "flight_time": "1446",
+      "remarks": "PBI - JG, GM, GT, VIRGINIA ROBERTS",
+      "passengers": ["JG", "GM", "GT", "VIRGINIA ROBERTS"],
+      "crew": "2/6"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JG",
+      "GM",
+      "GT",
+      "AY",
+      "S",
+      "S KELLEY",
+      "LEWIS",
+      "VIRGINIAN ROBERTS",
+      "VIRGINIA ROBERTS",
+      "DOS GARRISON",
+      "STEPHANIE MOSS",
+      "JENNIFER MARA",
+      "LEMONICK",
+      "LAURA",
+      "AL",
+      "David Rodgers"
+    ],
+    "locations": [
+      "PBI",
+      "LCQ",
+      "TEB",
+      "LFPB",
+      "CYQX",
+      "HPN",
+      "LNM",
+      "MCO",
+      "TIST",
+      "SAC"
+    ],
+    "aircraft": [
+      "G-1159B",
+      "N908JE",
+      "C172",
+      "N140V",
+      "N140GM"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "5/2/14",
+    "amount_forward": "20374",
+    "total_to_date": "20499",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page covers January 2001 and February 2001",
+    "Virginia/Virginian Roberts appears multiple times as passenger",
+    "S KELLEY LEWIS continues as frequent passenger combination",
+    "International operations continue (LFPB - Paris, CYQX - Gander)",
+    "Multiple aircraft types used (G-1159B, C172, C141D, G-172)",
+    "Flight numbers reach 1446",
+    "Mix of regular transport and training operations",
+    "Caribbean operations continue to TIST"
+  ]
+}

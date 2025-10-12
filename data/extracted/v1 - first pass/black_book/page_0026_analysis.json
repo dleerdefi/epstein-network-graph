@@ -1,0 +1,712 @@
+{
+  "page_number": 26,
+  "alphabetical_section": "H",
+  "contacts": [
+    {
+      "name": "Hefner III, Bob",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "001 608 872 6700",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 608 872 6700",
+          "area_code": "608",
+          "geographic_indicator": "Madison, Wisconsin",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 777 8716 (c)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 608 846 8800 [OSOW]",
+          "area_code": "608",
+          "geographic_indicator": "Madison, Wisconsin",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Hefner family connection",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Heiden Lisa",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "20 East 61st, #11B",
+          "street": "20 East 61st St",
+          "unit": "#11B",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 917 690 3434",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Husband: Joel Schwartz",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 805 21[41]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 201 261 6765 h",
+          "area_code": "201",
+          "geographic_indicator": "Northern New Jersey",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 518 891 1303 camp Lake [illegible]",
+          "area_code": "518",
+          "geographic_indicator": "Upstate NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 518 20 [illegible]",
+          "area_code": "212",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Husband: Joel Schwartz",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Heineken, Mr Fredie",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Heineken de Passage / Crystal Hicks",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 33 93 41[0101] h",
+          "country_code": "33",
+          "area_code": "93",
+          "geographic_indicator": "French Riviera",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Heineken beer dynasty",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Helen and Tim Shifter",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "724 Park Avenue",
+          "street": "724 Park Avenue",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "917 447 10021",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Helvin, Marie",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 824 8321 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Model",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Herbert Jason",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "0207 229 6400",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 229 6400",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 606230",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "001 646 872 6600",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 646 872 6600",
+          "area_code": "646",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 646 813 8100",
+          "area_code": "646",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Name not visible",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Name missing"]
+      }
+    },
+    {
+      "name": "Hermes, Olga & Olaf",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "163 West 10th Street / New York 10014",
+          "street": "163 West 10th Street",
+          "city": "New York",
+          "postal_code": "10014",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 674 3497 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Hermès family connection",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Herrero, Juan & Helen",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Havelock Avenue / 97 SP 3 7RW[o]",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "07 SP 3 7RW[o]",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Most information illegible"]
+      }
+    },
+    {
+      "name": "Hersey, Robert & Kim",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "40 Thomas Place",
+          "street": "40 Thomas Place",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "1207 303 5777",
+          "geographic_indicator": "Maine",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 591 974[0]m",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0171 581 1300",
+          "area_code": "0171",
+          "geographic_indicator": "London (old code)",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0171 591 7700 Robert w",
+          "area_code": "0171",
+          "geographic_indicator": "London (old code)",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Heseltine, Mr & Annabel",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "a Palace Gardens Mansgate / London / 107 RFV CEN206XX / 107 RFV 7070[0]",
+          "city": "London",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "01069 7156[807]",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Michael Heseltine - British politician",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Address partially unclear"]
+      }
+    },
+    {
+      "name": "Heseltine, Ms Alexia",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Plumbing House",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 77[74] phone",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0208 7771[4]728",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Related to Michael Heseltine",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Heseltine, Mr & Mrs",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "26 Chapel Street / London SW1",
+          "street": "26 Chapel Street",
+          "city": "London",
+          "postal_code": "SW1",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 710 517[X]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0208 714 514",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Heseltine family",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Heseltine, Rupert",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 213 3020(w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 753 610[0]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 576 [illegible]",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "071 221 3776",
+          "area_code": "071",
+          "geographic_indicator": "London (very old code)",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Heseltine family - likely son of Michael",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Hicks India",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "David Plastered / Beverly Hills",
+          "city": "Beverly Hills",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "310 658 4000",
+          "area_code": "310",
+          "geographic_indicator": "West LA/Beverly Hills",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 343 216[0]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 343 216[0]",
+          "area_code": "212",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 310 552 0040",
+          "area_code": "310",
+          "geographic_indicator": "West LA/Beverly Hills",
+          "confidence": "high"
+        }
+      ],
+      "notes": "David Flastered connection",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Hill, Anthony",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "3 Victoria Street / London SW1",
+          "street": "3 Victoria Street",
+          "city": "London",
+          "postal_code": "SW1",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "020 7829 1709 (h)",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "020 798 0144 (m)",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Himmelstein, Howard",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212-840-0949",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Hirsch, Jeff",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Hirsh & / 44 Regent Street",
+          "street": "44 Regent Street",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "914 XXX XX",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "561 655 1037 m-cell (o)",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach, Florida",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "561 655 1037 Scott (o)",
+          "area_code": "561",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Hissom, Robert & Andrea",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "36 Hatton Gardens / London EC1",
+          "street": "36 Hatton Gardens",
+          "city": "London",
+          "postal_code": "EC1",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "214c 696 0600(0)",
+          "area_code": "214",
+          "geographic_indicator": "Dallas, Texas",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0171 404 4000",
+          "area_code": "0171",
+          "geographic_indicator": "London (old code)",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "betrob@[illegible].com",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0214 523 700[0]w",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0171 404 120[0]m",
+          "area_code": "0171",
+          "geographic_indicator": "London (old code)",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "561 418 765 100[0] h",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach, Florida",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0171 242 206 100[0]",
+          "area_code": "0171",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Hoffman, Dustin",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 707 814[700]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Actor Dustin Hoffman",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Hoffman, Hetty",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "9 Bromley Place SW / 10 [illegible] Road SW7",
+          "city": "London",
+          "postal_code": "SW7",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "02 0370 2326 (h)",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "00 91 627 4000 NYC[o]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0788 099336 (h)",
+          "area_code": "0788",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 21,
+    "quality": "fair",
+    "legibility": "partially obscured",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "Bob Hefner III - Hefner family",
+      "Freddie Heineken - Beer dynasty",
+      "Michael Heseltine & family - British politician",
+      "Olga & Olaf Hermes - Hermès fashion family",
+      "Marie Helvin - Model",
+      "Dustin Hoffman - Actor"
+    ]
+  },
+  "insights": [
+    "Strong Heseltine family presence (Michael, Annabel, Alexia, Rupert)",
+    "Michael Heseltine - former UK Deputy Prime Minister",
+    "Hermès fashion family (Olga & Olaf)",
+    "Heineken beer dynasty (Freddie)",
+    "Entertainment industry (Dustin Hoffman, Marie Helvin)",
+    "Madison, Wisconsin connection unusual (608 area code)",
+    "Palm Beach, Florida recurring (561 area code)",
+    "Dallas, Texas connection (214 area code)",
+    "Mix of old UK codes (071, 0171) and newer (0207, 020)",
+    "French Riviera connection (Heineken)"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "medium",
+    "total_contacts": 21,
+    "high_confidence": 11,
+    "medium_confidence": 9,
+    "low_confidence": 1,
+    "extraction_issues": [
+      "One entry missing name (646 area code)",
+      "Several phone numbers partially illegible",
+      "Some addresses unclear"
+    ]
+  }
+}

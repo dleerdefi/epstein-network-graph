@@ -1,0 +1,119 @@
+{
+  "page_number": 96,
+  "file_path": "data/birthday_book_images/page_0096.png",
+  "file_size_mb": 2.2132959365844727,
+  "type": "mixed_content_with_redactions",
+  "content": {
+    "text": "[Multiple pages of sheet music with heavy black redactions]\n[Musical notation visible between redaction blocks]\n[Small photo visible in lower portion]\n[Orange/peach colored element visible on right side]",
+    "handwritten": false,
+    "typed": true,
+    "mixed": true,
+    "description": "Page with sheet music elements and extensive black redaction blocks",
+    "text_sections": {
+      "full_transcription": "[Sheet music pages scattered/overlapping]\n[Multiple large black redaction boxes covering portions of content]\n[Musical notation visible in unredacted portions]\n[Small photograph visible among papers]\n[Some text/documents partially visible but mostly redacted]",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "[Individuals in small photo - partially visible]",
+        "context": "Small photo among documents",
+        "confidence": "low"
+      }
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Redacted content with musical elements",
+    "redaction_level": "heavy",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "mixed_content_with_redactions"
+  },
+  "insights": [
+    "Extensive redactions suggest sensitive content was present",
+    "Musical elements partially visible indicate continued musical theme",
+    "Heavy redaction pattern suggests this page contained significant information",
+    "Combination of music and redacted content indicates mixed content types",
+    "Redaction blocks suggest content deemed sensitive for public release"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000096",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.167618",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": [
+      {
+        "description": "Multiple large black redaction blocks covering significant portions of page",
+        "coverage": "extensive",
+        "pattern": "rectangular_blocks"
+      }
+    ],
+    "sheet_music": [
+      {
+        "description": "Partial sheet music visible between redactions",
+        "visibility": "fragments_only",
+        "condition": "partially_obscured"
+      }
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Collage of overlapping documents with extensive redactions",
+    "Multiple pages of sheet music visible",
+    "At least 6-8 large black redaction blocks",
+    "Small photograph visible in lower portion",
+    "Orange/peach colored element on right side",
+    "Documents appear to be layered/scattered arrangement",
+    "Musical notation clearly visible in unredacted portions",
+    "Heavy redaction pattern suggests sensitive content removed",
+    "Mix of printed documents and photographs",
+    "Document stamped HOUSE_OVERSIGHT_000096",
+    "Redactions appear strategic rather than random"
+  ],
+  "investigative_leads": []
+}

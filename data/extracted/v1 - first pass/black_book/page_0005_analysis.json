@@ -1,0 +1,1148 @@
+{
+  "page_number": 5,
+  "alphabetical_section": "B",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "page5_batstone_tim_natasha",
+      "name": {
+        "full_name": "Batstone, Tim Natasha",
+        "title": null,
+        "first_name": "Tim",
+        "last_name": "Batstone",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "01452 760037 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": null,
+          "area_code": "01452",
+          "extension": null,
+          "notes": "Gloucestershire UK area code",
+          "is_primary": false,
+          "formatting": "01452 760037 (h)"
+        },
+        {
+          "number": "0489 700XXX (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": null,
+          "area_code": "0489",
+          "extension": null,
+          "notes": "UK area code",
+          "is_primary": false,
+          "formatting": "0489 700XXX (w)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "[illegible address]",
+          "street_line1": "[illegible]",
+          "street_line2": null,
+          "city": null,
+          "state_province": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Based on phone codes"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Natasha"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "medium",
+        "email_confidence": "high",
+        "address_confidence": "low",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page5_baumer_lorenzo",
+      "name": {
+        "full_name": "Baumer, Lorenzo",
+        "title": null,
+        "first_name": "Lorenzo",
+        "last_name": "Baumer",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "00 33 1 4266 XXXX",
+          "type": "unknown",
+          "label": null,
+          "country_code": "00 33",
+          "area_code": "1",
+          "extension": null,
+          "notes": "Paris, France",
+          "is_primary": false,
+          "formatting": "00 33 1 4266 XXXX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "label": null,
+          "full_address": "[illegible]@wanadoo.com",
+          "street_line1": null,
+          "street_line2": null,
+          "city": null,
+          "state_province": null,
+          "postal_code": null,
+          "country": "France",
+          "notes": "Based on phone code"
+        }
+      ],
+      "emails": [
+        {
+          "address": "[illegible]@wanadoo.com",
+          "type": "personal",
+          "domain": "wanadoo.com",
+          "notes": "French ISP"
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "medium",
+        "address_confidence": "low",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page5_beaumont_lord_lady",
+      "name": {
+        "full_name": "Beaumont, Lord & Lady",
+        "title": "Lord",
+        "first_name": null,
+        "last_name": "Beaumont",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "[illegible]",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Not legible",
+          "is_primary": false,
+          "formatting": "[illegible]"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "64 Sloan Street\nLondon SW1\nEngland",
+          "street_line1": "64 Sloan Street",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW1",
+          "country": "England",
+          "notes": "Knightsbridge area"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Lady Beaumont"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["British nobility"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page5_beckwith_tamara",
+      "name": {
+        "full_name": "Beckwith, Tamara",
+        "title": null,
+        "first_name": "Tamara",
+        "last_name": "Beckwith",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 323 848 XXXX",
+          "type": "unknown",
+          "label": null,
+          "country_code": "001",
+          "area_code": "323",
+          "extension": null,
+          "notes": "Los Angeles area code",
+          "is_primary": false,
+          "formatting": "001 323 848 XXXX"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page5_belzberg_lisa",
+      "name": {
+        "full_name": "Belzberg, Lisa",
+        "title": null,
+        "first_name": "Lisa",
+        "last_name": "Belzberg",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 212 877 777X (home)",
+          "type": "home",
+          "label": "home",
+          "country_code": "001",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan area code",
+          "is_primary": false,
+          "formatting": "001 212 877 777X (home)"
+        },
+        {
+          "number": "001 212 353 0071",
+          "type": "unknown",
+          "label": null,
+          "country_code": "001",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan area code",
+          "is_primary": false,
+          "formatting": "001 212 353 0071"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "2 E 67th Street\nNew York, NY 10021",
+          "street_line1": "2 E 67th Street",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "medium",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page5_benson_steven",
+      "name": {
+        "full_name": "Benson, Steven",
+        "title": null,
+        "first_name": "Steven",
+        "last_name": "Benson",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 212 628 XXXX (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "001",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan area code",
+          "is_primary": false,
+          "formatting": "001 212 628 XXXX (h)"
+        },
+        {
+          "number": "001 212 XXX 2691 (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": "001",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan area code",
+          "is_primary": false,
+          "formatting": "001 212 XXX 2691 (w)"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page5_bentinck_lord",
+      "name": {
+        "full_name": "Bentinck, Lord",
+        "title": "Lord",
+        "first_name": null,
+        "last_name": "Bentinck",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": "Bentinck Farm",
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "[illegible]",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Not legible",
+          "is_primary": false,
+          "formatting": "[illegible]"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "Bentinck Farm",
+          "full_address": "Bentinck Farm\n[illegible] Fakenham\nNorfolk NR21 [illegible]\nEngland",
+          "street_line1": "Bentinck Farm",
+          "street_line2": null,
+          "city": "Fakenham",
+          "state_province": "Norfolk",
+          "postal_code": "NR21 [illegible]",
+          "country": "England",
+          "notes": "Rural estate"
+        }
+      ],
+      "emails": [
+        {
+          "address": "[illegible]@msn.com",
+          "type": "personal",
+          "domain": "msn.com",
+          "notes": null
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["British nobility", "Farm estate"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "medium",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page5_berggruen_nicolas",
+      "name": {
+        "full_name": "Berggruen, Nicolas",
+        "title": null,
+        "first_name": "Nicolas",
+        "last_name": "Berggruen",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "310 470 Saint Gerard (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": null,
+          "area_code": "310",
+          "extension": null,
+          "notes": "Beverly Hills/LA area",
+          "is_primary": false,
+          "formatting": "310 470 Saint Gerard (h)"
+        },
+        {
+          "number": "001 XXX 393 XXXX",
+          "type": "unknown",
+          "label": null,
+          "country_code": "001",
+          "area_code": "XXX",
+          "extension": null,
+          "notes": null,
+          "is_primary": false,
+          "formatting": "001 XXX 393 XXXX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "Saint Gerard",
+          "full_address": "Saint Gerard\n[Address partially visible]",
+          "street_line1": "Saint Gerard",
+          "street_line2": null,
+          "city": null,
+          "state_province": "CA",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Based on 310 area code"
+        }
+      ],
+      "emails": [
+        {
+          "address": "nicolas@berggruen.com",
+          "type": "personal",
+          "domain": "berggruen.com",
+          "notes": "Personal domain"
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "low",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page5_berkman_bill",
+      "name": {
+        "full_name": "Berkman, Bill",
+        "title": null,
+        "first_name": "Bill",
+        "last_name": "Berkman",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "212 249 6601 (Asst Erin Eagan)",
+          "type": "work",
+          "label": "Asst Erin Eagan",
+          "country_code": null,
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan, assistant's line",
+          "is_primary": false,
+          "formatting": "212 249 6601 (Asst Erin Eagan)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "785 Fifth Avenue\nNew York, NY",
+          "street_line1": "785 Fifth Avenue",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Upper East Side, Fifth Avenue"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": ["Erin Eagan (assistant)"],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Assistant listed"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page5_bernard_tara",
+      "name": {
+        "full_name": "Bernard, Tara",
+        "title": null,
+        "first_name": "Tara",
+        "last_name": "Bernard",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "07 770 923 148(p)",
+          "type": "pager",
+          "label": "p",
+          "country_code": null,
+          "area_code": "07770",
+          "extension": null,
+          "notes": "UK mobile/pager",
+          "is_primary": false,
+          "formatting": "07 770 923 148(p)"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page5_birchall_robin",
+      "name": {
+        "full_name": "Birchall, Robin",
+        "title": null,
+        "first_name": "Robin",
+        "last_name": "Birchall",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "212 355 XXXX Office Fax",
+          "type": "fax",
+          "label": "Office Fax",
+          "country_code": null,
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan fax",
+          "is_primary": false,
+          "formatting": "212 355 XXXX Office Fax"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "business",
+          "label": null,
+          "full_address": "44 E. 12th Street\nNew York, NY 10003",
+          "street_line1": "44 E. 12th Street",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": "10003",
+          "country": "USA",
+          "notes": "Greenwich Village"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page5_bismarck_debbie_mona_von",
+      "name": {
+        "full_name": "Bismarck, Debbie & Mona Von",
+        "title": null,
+        "first_name": "Debbie",
+        "last_name": "Bismarck",
+        "suffix": "Von",
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "[illegible]",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Not legible",
+          "is_primary": false,
+          "formatting": "[illegible]"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Denzell Road\nLondon SW19 XXX",
+          "street_line1": "Denzell Road",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW19 XXX",
+          "country": "UK",
+          "notes": "Wimbledon area"
+        }
+      ],
+      "emails": [
+        {
+          "address": "[illegible]@btinternet.co.uk",
+          "type": "personal",
+          "domain": "btinternet.co.uk",
+          "notes": "UK ISP"
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Mona Von Bismarck"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["German nobility name"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "medium",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page5_bismark_vanessa_von",
+      "name": {
+        "full_name": "Bismark Vanessa Von",
+        "title": null,
+        "first_name": "Vanessa",
+        "last_name": "Bismark",
+        "suffix": "Von",
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "917 XXX XXXX",
+          "type": "mobile",
+          "label": null,
+          "country_code": null,
+          "area_code": "917",
+          "extension": null,
+          "notes": "NYC mobile",
+          "is_primary": false,
+          "formatting": "917 XXX XXXX"
+        },
+        {
+          "number": "011 44 78 XXX XXXX",
+          "type": "mobile",
+          "label": null,
+          "country_code": "011 44",
+          "area_code": "78",
+          "extension": null,
+          "notes": "UK mobile",
+          "is_primary": false,
+          "formatting": "011 44 78 XXX XXXX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "42 West 69th St.\nNew York\nNY 10023",
+          "street_line1": "42 West 69th St.",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": "10023",
+          "country": "USA",
+          "notes": "Upper West Side"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": ["Related to Debbie & Mona Von Bismarck"],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["German nobility name"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page5_bisson_jean_marc",
+      "name": {
+        "full_name": "Bisson, Jean Marc",
+        "title": null,
+        "first_name": "Jean Marc",
+        "last_name": "Bisson",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 212 582 XXXX (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "001",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan area code",
+          "is_primary": false,
+          "formatting": "001 212 582 XXXX (h)"
+        },
+        {
+          "number": "001 917 859 XXXX (Mobile)",
+          "type": "mobile",
+          "label": "Mobile",
+          "country_code": "001",
+          "area_code": "917",
+          "extension": null,
+          "notes": "NYC mobile",
+          "is_primary": false,
+          "formatting": "001 917 859 XXXX (Mobile)"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page5_bjorlin_jean_paul",
+      "name": {
+        "full_name": "Bjorlin, Jean Paul",
+        "title": null,
+        "first_name": "Jean Paul",
+        "last_name": "Bjorlin",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "[illegible]",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Not legible",
+          "is_primary": false,
+          "formatting": "[illegible]"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "18 Easton Square Plaza\n68 Easton Square\nNW1 [illegible]",
+          "street_line1": "18 Easton Square Plaza",
+          "street_line2": "68 Easton Square",
+          "city": "London",
+          "state_province": null,
+          "postal_code": "NW1 [illegible]",
+          "country": "UK",
+          "notes": "North London"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 15,
+    "complete_entries": 0,
+    "partial_entries": 12,
+    "minimal_entries": 3,
+    "redacted_entries": 0,
+    "handwritten_additions": 0,
+    "crossed_out_entries": 0,
+    "quality": "poor",
+    "legibility": "partially obscured",
+    "notable_features": ["Very poor image quality", "Multiple British nobility entries", "Mix of UK and US contacts"],
+    "continues_to_page": 6,
+    "continued_from_page": 4,
+    "split_entry_note": "No clear continuation from page 4"
+  },
+  "cross_references": [
+    {
+      "from_name": "Bismark Vanessa Von",
+      "to_name": "Bismarck, Debbie & Mona Von",
+      "reference_type": "related_to",
+      "page_reference": null
+    }
+  ],
+  "entities": {
+    "people": ["Tim Batstone", "Natasha Batstone", "Lorenzo Baumer", "Lord Beaumont", "Lady Beaumont", "Tamara Beckwith", "Lisa Belzberg", "Steven Benson", "Lord Bentinck", "Nicolas Berggruen", "Bill Berkman", "Erin Eagan", "Tara Bernard", "Robin Birchall", "Debbie Bismarck", "Mona Von Bismarck", "Vanessa Von Bismark", "Jean Marc Bisson", "Jean Paul Bjorlin"],
+    "organizations": ["Bentinck Farm"],
+    "locations": {
+      "cities": ["London", "New York", "Paris", "Los Angeles", "Fakenham", "Beverly Hills"],
+      "states": ["NY", "CA", "Norfolk", "Gloucestershire"],
+      "countries": ["UK", "USA", "France", "England"]
+    }
+  },
+  "insights": [
+    "Page 5 continues B section with 15 entries from Batstone to Bjorlin",
+    "Multiple British nobility entries (Lord Beaumont, Lord Bentinck)",
+    "Von Bismarck family appears multiple times suggesting German nobility connections",
+    "Mix of UK phone codes (01452, 0207, 07770) and US (212, 310, 323, 917)",
+    "785 Fifth Avenue address for Bill Berkman - prestigious Upper East Side location",
+    "Nicolas Berggruen has personal domain email - suggests business prominence",
+    "French connection through Lorenzo Baumer (Paris phone code 00 33 1)",
+    "0171 area code appears - this is pre-2000 London code (changed to 0207)",
+    "Multiple entries with both UK and US phone numbers suggesting transatlantic lifestyle",
+    "wanadoo.com email domain indicates French ISP connection",
+    "btinternet.co.uk domain shows UK internet service provider",
+    "Erin Eagan listed as assistant to Bill Berkman",
+    "Image quality severely degraded making many numbers illegible",
+    "917 area code appears frequently - NYC mobile numbers",
+    "Upper East Side and Upper West Side NYC addresses predominate"
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "page_number": 94,
+  "file_path": "data/birthday_book_images/page_0094.png",
+  "file_size_mb": 3.784648895263672,
+  "type": "photo_collage",
+  "content": {
+    "text": "More often...\nPlay!\nMore play...\n[Multiple photos with black redaction boxes]\n[Various indoor and outdoor scenes]\n[Beach/water scenes visible]",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "description": "Scattered photo collage with handwritten annotations and personal photographs",
+    "text_sections": {
+      "full_transcription": "More often... (top left corner)\nPlay! (left side)\nMore play... (bottom right)\n[Approximately 12-15 photographs scattered across page]\n[Multiple black redaction boxes covering faces]",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Multiple individuals in various personal photographs",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          94
+        ]
+      },
+      {
+        "name": "Jeff (referenced in handwriting)",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          94
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Personal moments and playful interactions",
+    "theme": "casual_social_life",
+    "significance": "medium",
+    "document_type": "photo_collage"
+  },
+  "insights": [
+    "Handwritten 'Love Jeff' suggests personal affection or friendship",
+    "References to 'Play' indicate recreational or leisure activities",
+    "Scattered photo layout suggests informal, personal curation",
+    "Black redaction bars on some photos indicate sensitive content",
+    "Mix of photographs suggests various social contexts and relationships",
+    "Personal nature indicates close relationships documented in birthday book"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000094",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.166654",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Collection of personal photographs scattered across page",
+        "theme": "casual_social_moments",
+        "arrangement": "random_scattered_layout",
+        "individual_count": 15,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      },
+      {
+        "description": "Mix of indoor and outdoor social scenes",
+        "theme": "personal_relationships",
+        "setting": "various_informal_locations",
+        "individual_count": 15,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": [
+      "At least 6 photographs have black redaction boxes over faces"
+    ],
+    "handwritten_notes": [
+      "More often...",
+      "Play!",
+      "More play..."
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Photo collage with approximately 12-15 personal photographs",
+    "Handwritten annotations: 'More often...', 'Play!', 'More play...'",
+    "At least 6 photos have black redaction boxes over faces",
+    "Photos show various settings: beach, indoor, outdoor",
+    "Mix of casual and social situations",
+    "Some photos appear to show vacation or leisure activities",
+    "Photos scattered in informal arrangement",
+    "Various photo sizes and orientations",
+    "Color photographs suggesting 1980s-1990s era",
+    "Document stamped HOUSE_OVERSIGHT_000094",
+    "Playful tone in handwritten annotations"
+  ],
+  "investigative_leads": []
+}

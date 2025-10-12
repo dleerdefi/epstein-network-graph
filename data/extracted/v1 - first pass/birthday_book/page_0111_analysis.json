@@ -1,0 +1,132 @@
+{
+  "page_number": 111,
+  "file_path": "data/birthday_book_images/page_0111.png",
+  "file_size_mb": 2.320734977722168,
+  "type": "children_drawing_musical",
+  "content": {
+    "text": "[Musical notes drawn across top]\nhere comes the bride all dressed in\nWhite I Welcome the groom\nhes All the teenager from\nlove is his temper\nwhen she walks down the Aisle showeD\nshowed walk showed his showed\n[Three drawn figures below - red dress, pink dress, man in black suit]",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "description": "Children's drawing with musical notes and wedding theme",
+    "text_sections": {
+      "full_transcription": "[Musical notes: ♪♫♪♫♪♫♪]\nhere comes the bride all dressed in\nWhite I Welcome the groom\nhes All the teenager from\nlove is his temper\nwhen she walks down the Aisle showeD\nshowed walk showed his showed\n[Five small figures drawn at top of page]\n[Three main figures below text: woman in red dress, woman in pink dress, man in black suit]",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Drawn figures of bride and groom",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          111
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Child (identity unknown)",
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Children's wedding-themed drawing with song",
+    "theme": "children_wedding_drawing",
+    "significance": "medium",
+    "document_type": "children_drawing_musical"
+  },
+  "insights": [
+    "Child's drawing depicts wedding scene with 'Here Comes the Bride' theme",
+    "Musical notes drawn throughout indicate song/musical element",
+    "Child's phonetic spelling shows young age of contributor",
+    "Drawing includes multiple figures in formal attire",
+    "Colorful, playful presentation typical of children's artwork",
+    "Part of children's section of birthday book",
+    "Wedding theme may relate to adult relationships or child's imagination",
+    "Creative expression through both drawing and text"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000111",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.174801",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": [],
+    "drawings": [
+      {
+        "description": "Child's drawing of wedding scene with bride and groom figures",
+        "elements": [
+          "red dress figure",
+          "pink dress figure",
+          "dark suit figure",
+          "musical notes",
+          "colorful decorative figures at top"
+        ],
+        "style": "children's_artwork"
+      }
+    ],
+    "handwritten_notes": [
+      "Wedding-themed text with child's spelling"
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Child's colorful drawing with wedding theme",
+    "Musical notes drawn across top of page",
+    "Text: Modified 'Here Comes the Bride' lyrics",
+    "'White I Welcome the groom' - child's version",
+    "Five small colorful figures drawn at top",
+    "Three main figures at bottom:",
+    "- Woman in red dress (left)",
+    "- Woman in pink/magenta dress (center)",
+    "- Man in black suit (right)",
+    "Child's handwriting with inconsistent capitalization",
+    "Some words unclear: 'showed' repeated multiple times",
+    "Crayon or marker coloring",
+    "Document stamped HOUSE_OVERSIGHT_000111",
+    "Part of children's contribution section"
+  ],
+  "investigative_leads": []
+}

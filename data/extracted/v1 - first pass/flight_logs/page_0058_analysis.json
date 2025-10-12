@@ -1,0 +1,282 @@
+{
+  "page_number": 58,
+  "date_header": "AUG 1998",
+  "time_period": "August 1998 - September 1998",
+  "aircraft": {
+    "registration": "Multiple (G1159B N908JE, G1195D)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "3",
+      "date": "08/03/1998",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "1129",
+      "remarks": "JE, GM, MARINA GRAN",
+      "passengers": ["JE", "GM", "MARINA GRAN"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "4",
+      "date": "08/04/1998",
+      "departure": "TEB",
+      "arrival": "HTO",
+      "flight_time": "1137",
+      "remarks": "JE, MICHAEL STENGOS",
+      "passengers": ["JE", "MICHAEL STENGOS"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "4",
+      "date": "08/04/1998",
+      "departure": "HTO",
+      "arrival": "OQU",
+      "flight_time": "1138",
+      "remarks": "NO PASSENGERS",
+      "passengers": [],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "4",
+      "date": "08/04/1998",
+      "departure": "OQU",
+      "arrival": "TEB",
+      "flight_time": "1139",
+      "remarks": "JE",
+      "passengers": ["JE"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "5",
+      "date": "08/05/1998",
+      "departure": "TEB",
+      "arrival": "BGD",
+      "flight_time": "1140",
+      "remarks": "JE",
+      "passengers": ["JE"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "5",
+      "date": "08/05/1998",
+      "departure": "BGD",
+      "arrival": "MVY",
+      "flight_time": "1141",
+      "remarks": "JE",
+      "passengers": ["JE"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "5",
+      "date": "08/05/1998",
+      "departure": "MVY",
+      "arrival": "TEB",
+      "flight_time": "",
+      "remarks": "JE",
+      "passengers": ["JE"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "6",
+      "date": "08/06/1998",
+      "departure": "TEB",
+      "arrival": "CMH",
+      "flight_time": "1143",
+      "remarks": "JE",
+      "passengers": ["JE"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "6",
+      "date": "08/06/1998",
+      "departure": "CMH",
+      "arrival": "TEB",
+      "flight_time": "1144",
+      "remarks": "JE",
+      "passengers": ["JE"],
+      "crew": ""
+    },
+    {
+      "entry_number": "7",
+      "date": "08/07/1998",
+      "departure": "TEB",
+      "arrival": "TVC",
+      "flight_time": "1145",
+      "remarks": "JE, GM, ET, MELINDA LUNTZ",
+      "passengers": ["JE", "GM", "ET", "MELINDA LUNTZ"],
+      "crew": ""
+    },
+    {
+      "entry_number": "11",
+      "date": "08/11/1998",
+      "departure": "TVC",
+      "arrival": "TEB",
+      "flight_time": "1146",
+      "remarks": "JE, GM, ET",
+      "passengers": ["JE", "GM", "ET"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "13",
+      "date": "08/13/1998",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "1147",
+      "remarks": "JE, GM, ET, MAUD EPSTEIN",
+      "passengers": ["JE", "GM", "ET", "MAUD EPSTEIN"],
+      "crew": ""
+    },
+    {
+      "entry_number": "17",
+      "date": "08/17/1998",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "1148",
+      "remarks": "JE, GM, ET",
+      "passengers": ["JE", "GM", "ET"],
+      "crew": "V"
+    },
+    {
+      "entry_number": "21",
+      "date": "08/21/1998",
+      "departure": "TEB",
+      "arrival": "SAF",
+      "flight_time": "1149",
+      "remarks": "JE, GM, ET, ANNA ROBERTSON",
+      "passengers": ["JE", "GM", "ET", "ANNA ROBERTSON"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "24",
+      "date": "08/24/1998",
+      "departure": "SAF",
+      "arrival": "ASE",
+      "flight_time": "1150",
+      "remarks": "JE",
+      "passengers": ["JE"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "22",
+      "date": "08/22/1998",
+      "departure": "ASE",
+      "arrival": "OGD",
+      "flight_time": "",
+      "remarks": "ALAN ATNOZZO, SHARON + AARON DALZ, FREDERICK, 3 UNNAMED FEMALES",
+      "passengers": ["ALAN ATNOZZO", "SHARON", "AARON DALZ", "FREDERICK", "3 UNNAMED FEMALES"],
+      "crew": ""
+    },
+    {
+      "entry_number": "25",
+      "date": "08/25/1998",
+      "departure": "ASE",
+      "arrival": "VNY",
+      "flight_time": "1151",
+      "remarks": "JE, TEA RAZEN, GWENDOLYN BECK",
+      "passengers": ["JE", "TEA RAZEN", "GWENDOLYN BECK"],
+      "crew": "V"
+    },
+    {
+      "entry_number": "27",
+      "date": "08/27/1998",
+      "departure": "VNY",
+      "arrival": "PBI",
+      "flight_time": "1152",
+      "remarks": "JE",
+      "passengers": ["JE"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "31",
+      "date": "08/31/1998",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "1153",
+      "remarks": "JE, GM",
+      "passengers": ["JE", "GM"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "9-1",
+      "date": "09/01/1998",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "",
+      "passengers": [],
+      "crew": ""
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "GM",
+      "ET",
+      "MARINA GRAN",
+      "MICHAEL STENGOS",
+      "MELINDA LUNTZ",
+      "MAUD EPSTEIN",
+      "ANNA ROBERTSON",
+      "ALAN ATNOZZO",
+      "SHARON",
+      "AARON DALZ",
+      "FREDERICK",
+      "3 UNNAMED FEMALES",
+      "TEA RAZEN",
+      "GWENDOLYN BECK",
+      "David Rodgers"
+    ],
+    "locations": [
+      "PBI",
+      "TEB",
+      "HTO",
+      "OQU",
+      "BGD",
+      "MVY",
+      "CMH",
+      "TVC",
+      "SAF",
+      "ASE",
+      "OGD",
+      "VNY"
+    ],
+    "aircraft": [
+      "G1159B",
+      "N908JE",
+      "G1195D"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "58",
+    "amount_forward": "12738",
+    "total_to_date": "13066",
+    "document_quality": "good",
+    "legibility": "clear"
+  },
+  "insights": [
+    "Page transitions from August 1998 to September 1998",
+    "Maud Epstein (family member) appears as passenger",
+    "East Hampton Airport (HTO) operations",
+    "Martha's Vineyard (MVY) continues as destination",
+    "Aspen (ASE) operations indicating Colorado travel",
+    "Melinda Luntz continues as recurring passenger",
+    "Gwendolyn Beck continues as recurring passenger",
+    "Multiple positioning flights without passengers",
+    "Van Nuys (VNY) California operations",
+    "Traverse City (TVC) Michigan operations",
+    "Santa Fe (SAF) continues as key destination",
+    "Flight numbers exceeding 1153"
+  ]
+}

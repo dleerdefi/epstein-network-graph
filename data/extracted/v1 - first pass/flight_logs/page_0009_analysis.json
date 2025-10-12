@@ -1,0 +1,280 @@
+{
+  "page_number": 9,
+  "file_path": "data/flight_logs_images/page-009.png",
+  "type": "aircraft_flight_log",
+  "content": {
+    "text": "DATE | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARKS | POINTS OF DEPARTURE & ARRIVAL | FROM | TO | MILEAGE | FLT TIME | REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS | AIRCRAFT CATEGORY\n\n31 N908JE/100 N908JE BAC CMH 140 120 JEFFREY, GHISLAINE\n1 '' '' CMH BOS 32 127 JEFFREY, CHRISTINA\n2 '' '' TEB BOS '' 128 JEFFREY, 1 PAX\n5 '' '' TEB TEB 17 129 JEFFREY, ALEX\n7 '' '' TEB PBI 30 130 JEFFRIE, KRISTEN\n12 '' '' PBI TEB 25 131 JEFFREY GHISLAINE, KRISTEN\n12 '' '' TEB CMH 18 132 JEFFREY\n20 '' '' CMH TEB 20 133 KRISTEN\n23 '' '' TEB CMH 142 134 JEFFREY + KRISTEN, MONIQUE\n24 '' '' CMH PBI 25 135 JEFFREY, GHISLAINE, YOUNG, 1 MORE\n27 '' '' PBI BOS 30 146 JEFFREY, GHHISLAINE, VIRGINIA, 2 MORE, LYDIA, MANDY\n29 '' '' BOS BOS 140 136 JEFFREY GHISLAINE, ANDERSEN, YOUNG, 1 MORE\n29 '' '' TEB BIS 55 136 JEFFREY, VIRGINIA, TIA, KENNY, GHISLAINE\n29 '' '' BOS TEB 16 139 JEFFREY, VIRGINIA, GM, LES WEXNER, LAURIE, [unclear], PH ZELNEY, JIM CAUFFEL, NINA\n10.5 '' '' TEB PBI 26 140 JEFFREY, VIRGINIA, KRISTEN\n10 '' '' PBI CYYS 30 141 JE, GM, SK, MANDY, KRISTEN\n13 '' '' CYYS PBI 35 142 JEFFREY, GHISLAINE, KRISTEN, SK, VIRGINIA\n13 '' '' PBI CMH 25 143 JEF SK, VIRGINIA, NICK, JEAN LUC\n\nPAGE TOTAL: 356 + 26 = 382\nAMT. FORWARD: 382 + 2167 + 2160.3 = 1916\nTOTAL TO DATE: 382 + 5386 + 2160.3 = 7918\n\nI certify that the statements made by me on this form are true.\n\nPILOT'S SIGNATURE: David Rodgers",
+    "handwritten": true,
+    "typed": false,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "Complete cell-by-cell transcription provided above",
+      "flight_records": [
+        {
+          "date": "3/31/92",
+          "departure": "BAC",
+          "arrival": "CMH",
+          "aircraft": "N908JE/100 N908JE",
+          "flight_time": "1.4 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE"
+        },
+        {
+          "date": "3/1/92",
+          "departure": "CMH",
+          "arrival": "BOS",
+          "aircraft": "N908JE",
+          "flight_time": "3.2 hrs",
+          "passengers": ["Jeffrey", "Christina"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, CHRISTINA"
+        },
+        {
+          "date": "3/2/92",
+          "departure": "TEB",
+          "arrival": "BOS",
+          "aircraft": "N908JE",
+          "flight_time": "",
+          "passengers": ["Jeffrey", "1 Pax"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, 1 PAX"
+        },
+        {
+          "date": "3/5/92",
+          "departure": "TEB",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "1.7 hrs",
+          "passengers": ["Jeffrey", "Alex"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, ALEX"
+        },
+        {
+          "date": "3/7/92",
+          "departure": "TEB",
+          "arrival": "PBI",
+          "aircraft": "N908JE",
+          "flight_time": "3.0 hrs",
+          "passengers": ["Jeffrie", "Kristen"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFRIE, KRISTEN"
+        },
+        {
+          "date": "3/12/92",
+          "departure": "PBI",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Kristen"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE, KRISTEN"
+        },
+        {
+          "date": "3/12/92",
+          "departure": "TEB",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "1.8 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "3/20/92",
+          "departure": "CMH",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "2.0 hrs",
+          "passengers": ["Kristen"],
+          "pilot": "David Rodgers",
+          "notes": "KRISTEN"
+        },
+        {
+          "date": "3/23/92",
+          "departure": "TEB",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "1.42 hrs",
+          "passengers": ["Jeffrey", "Kristen", "Monique"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY + KRISTEN, MONIQUE"
+        },
+        {
+          "date": "3/24/92",
+          "departure": "CMH",
+          "arrival": "PBI",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Young", "1 More"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE, YOUNG, 1 MORE"
+        },
+        {
+          "date": "3/27/92",
+          "departure": "PBI",
+          "arrival": "BOS",
+          "aircraft": "N908JE",
+          "flight_time": "3.0 hrs",
+          "passengers": ["Jeffrey", "Ghhislaine", "Virginia", "2 More", "Lydia", "Mandy"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHHISLAINE, VIRGINIA, 2 MORE, LYDIA, MANDY"
+        },
+        {
+          "date": "3/29/92",
+          "departure": "BOS",
+          "arrival": "BOS",
+          "aircraft": "N908JE",
+          "flight_time": "1.4 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Andersen", "Young", "1 More"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE, ANDERSEN, YOUNG, 1 MORE"
+        },
+        {
+          "date": "3/29/92",
+          "departure": "TEB",
+          "arrival": "BIS",
+          "aircraft": "N908JE",
+          "flight_time": "5.5 hrs",
+          "passengers": ["Jeffrey", "Virginia", "Tia", "Kenny", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, VIRGINIA, TIA, KENNY, GHISLAINE"
+        },
+        {
+          "date": "3/29/92",
+          "departure": "BOS",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "1.6 hrs",
+          "passengers": ["Jeffrey", "Virginia", "GM", "Les Wexner", "Laurie", "PH Zelney", "Jim Cauffel", "Nina"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, VIRGINIA, GM, LES WEXNER, LAURIE, [unclear], PH ZELNEY, JIM CAUFFEL, NINA"
+        },
+        {
+          "date": "4/10/92",
+          "departure": "TEB",
+          "arrival": "PBI",
+          "aircraft": "N908JE",
+          "flight_time": "2.6 hrs",
+          "passengers": ["Jeffrey", "Virginia", "Kristen"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, VIRGINIA, KRISTEN"
+        },
+        {
+          "date": "4/10/92",
+          "departure": "PBI",
+          "arrival": "CYYS",
+          "aircraft": "N908JE",
+          "flight_time": "3.0 hrs",
+          "passengers": ["JE", "GM", "SK", "Mandy", "Kristen"],
+          "pilot": "David Rodgers",
+          "notes": "JE, GM, SK, MANDY, KRISTEN"
+        },
+        {
+          "date": "4/13/92",
+          "departure": "CYYS",
+          "arrival": "PBI",
+          "aircraft": "N908JE",
+          "flight_time": "3.5 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Kristen", "SK", "Virginia"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE, KRISTEN, SK, VIRGINIA"
+        },
+        {
+          "date": "4/13/92",
+          "departure": "PBI",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jef", "SK", "Virginia", "Nick", "Jean Luc"],
+          "pilot": "David Rodgers",
+          "notes": "JEF SK, VIRGINIA, NICK, JEAN LUC"
+        }
+      ],
+      "headers": ["DATE", "AIRCRAFT MAKE AND MODEL", "AIRCRAFT IDENTIFICATION MARKS", "POINTS OF DEPARTURE & ARRIVAL", "FROM", "TO", "MILEAGE", "FLT TIME", "REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS", "AIRCRAFT CATEGORY"],
+      "annotations": ["N908JE/100", "1 PAX", "1 MORE", "2 MORE", "JEFFRIE (misspelling)", "GHHISLAINE (misspelling)", "[unclear]", "10.5 (fractional date)"]
+    }
+  },
+  "entities": {
+    "people": [
+      "Jeffrey",
+      "Ghislaine",
+      "Ghhislaine",
+      "Christina",
+      "Alex",
+      "Kristen",
+      "Jeffrie",
+      "Monique",
+      "Young",
+      "Virginia",
+      "Lydia",
+      "Mandy",
+      "Andersen",
+      "Tia",
+      "Kenny",
+      "GM",
+      "Les Wexner",
+      "Laurie",
+      "PH Zelney",
+      "Jim Cauffel",
+      "Nina",
+      "JE",
+      "SK",
+      "Jef",
+      "Nick",
+      "Jean Luc",
+      "David Rodgers"
+    ],
+    "organizations": [],
+    "locations": [
+      "BAC",
+      "CMH",
+      "BOS",
+      "TEB",
+      "PBI",
+      "BIS",
+      "CYYS"
+    ],
+    "dates": ["3/31/92", "3/1/92", "3/2/92", "3/5/92", "3/7/92", "3/12/92", "3/20/92", "3/23/92", "3/24/92", "3/27/92", "3/29/92", "4/10/92", "4/13/92"],
+    "aircraft": ["N908JE/100", "N908JE"],
+    "phones": [],
+    "emails": []
+  },
+  "visual_elements": {
+    "signatures": ["David Rodgers (pilot signature at bottom)"],
+    "stamps": [],
+    "corrections": ["Mathematical corrections in totals", "Misspellings: JEFFRIE, GHHISLAINE"],
+    "redactions": []
+  },
+  "metadata": {
+    "log_type": "passenger_and_cargo_manifest",
+    "time_period": "March-April 1992",
+    "total_flights": 18,
+    "page_condition": "good with some unclear text",
+    "aircraft_registration": "N908JE, N908JE/100",
+    "running_total_hours": "7918 (large jump in calculation)",
+    "handwriting_notes": "Some misspellings, fractional date (10.5), multiple unnamed passengers"
+  },
+  "insights": [
+    "LES WEXNER appears - billionaire Victoria's Secret founder and major Epstein patron",
+    "Virginia (Roberts) appears on 5 flights on this page alone",
+    "Virginia travels with Les Wexner, Jeffrey, and GM on same flight",
+    "KRISTEN appears frequently - possibly another young woman in Epstein's circle",
+    "SK continues to appear - confirmed as Sarah Kellen abbreviation",
+    "JEAN LUC appears again - Jean Luc Brunel",
+    "Multiple entries of '1 MORE' and '2 MORE' - unnamed passengers",
+    "MANDY and LYDIA appear as new passengers",
+    "TIA appears as passenger with Virginia",
+    "CHRISTINA appears with Jeffrey",
+    "MONIQUE appears as passenger",
+    "PH ZELNEY and JIM CAUFFEL appear - possibly business associates",
+    "NINA appears with large group including Wexner",
+    "CYYS appears as new destination - possibly Canadian airport",
+    "Misspellings: JEFFRIE instead of Jeffrey, GHHISLAINE instead of Ghislaine",
+    "Fractional date 10.5 appears - unusual notation",
+    "BOS to BOS circular flight on date 29",
+    "Large group of 8+ people on flight with Les Wexner",
+    "Pattern of Virginia traveling with Jeffrey and Ghislaine continues",
+    "Total hours showing massive calculation: 7918 - possible error or cumulative total"
+  ]
+}

@@ -1,0 +1,781 @@
+{
+  "page_number": 51,
+  "alphabetical_section": "S",
+  "contacts": [
+    {
+      "name": "Sobrino, Esperanza",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Ste 3 69th St 70",
+          "street": "69th St",
+          "unit": "Ste 3",
+          "confidence": "medium"
+        },
+        {
+          "type": "secondary",
+          "address": "65 E 96th",
+          "street": "65 E 96th",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "NY, NY 10128",
+          "city": "NY",
+          "state": "NY",
+          "postal_code": "10128",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 831 37500(h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 869 3726 (w)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Solomon, Andrew",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "13 West 10th Street",
+          "street": "13 West 10th Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York, NY 10011",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10011",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 982 2248 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 777 3663 (w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "[illegible]@andrewsolomon.com"
+      ],
+      "addresses_additional": [
+        {
+          "type": "secondary",
+          "address": "38 Halsey, London, Kensington W11",
+          "street": "38 Halsey",
+          "city": "London, Kensington",
+          "postal_code": "W11",
+          "confidence": "high"
+        }
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "0207 381 8909",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 727 9002 (m)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Andrew Solomon - author",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Soros Peter",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "2 Sutherland Square",
+          "street": "2 Sutherland Square",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London W2 [?]",
+          "city": "London",
+          "postal_code": "W2",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 658 5285",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 724 0041[h]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 718 657 5285[h]",
+          "area_code": "718",
+          "geographic_indicator": "Brooklyn/Queens, NYC",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "[illegible]@[illegible] Sharpe"
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "0207 724 2921[w]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 328 237 5246",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Peter Soros - Soros family",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Soros, Peter",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "888 Seventh Avenue",
+          "street": "888 Seventh Avenue",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York, NY 10022",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10022",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 718 658[2] XXXXX",
+          "area_code": "718",
+          "geographic_indicator": "Brooklyn/Queens, NYC",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Peter Soros - duplicate entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Sofo, Fernando de",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Francisco de Panama",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Watson XX",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "00 34 1 918 XXX6 (h)",
+          "country_code": "34",
+          "area_code": "1",
+          "geographic_indicator": "Spain",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "00 34 1 918 509X8[h]",
+          "country_code": "34",
+          "area_code": "1",
+          "geographic_indicator": "Spain",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Soto, Jaime & Marina de",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "49 Cadogan Sq",
+          "street": "49 Cadogan Sq",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW1",
+          "city": "London",
+          "postal_code": "SW1",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 584 7540 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "South, Hamilton",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 799 8821 (w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 689 7524 (h)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 765 1534 (office)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Souza, Carlos",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Park Ave",
+          "street": "Park Ave",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0208 756 4",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 917 X 0919968",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "211 68 9 436 5542 (h)",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Spacey, Kevin",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "58 14 Alexander Sethows",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 229 7900 office hours",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 675 2900 Los Angeles",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 201 1414 (w)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Kevin Spacey - actor",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Squire, Hugo",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "28 Buxton Gardens",
+          "street": "28 Buxton Gardens",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW14",
+          "city": "London",
+          "postal_code": "SW14",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 263 1646",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "St. Bris, Edward",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "26 Rosemary St Haxera",
+          "street": "26 Rosemary St",
+          "city": "Haxera",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Florida 44XX",
+          "state": "Florida",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "France",
+          "country": "France",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 33 1 2066 0118 (h)",
+          "country_code": "33",
+          "area_code": "1",
+          "geographic_indicator": "Paris, France",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 33 1 426X 6126",
+          "country_code": "33",
+          "area_code": "1",
+          "geographic_indicator": "Paris, France",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Stanburry Caroline",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Ebury Street/Onshaught[house]",
+          "street": "Ebury Street",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Chelsea SW1",
+          "city": "Chelsea",
+          "postal_code": "SW1",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "02077303197201(h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 730 2333 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00179 868 8072 Rachael",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "081 330 860 60 5",
+          "area_code": "081",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Stark, Koo",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 287 0[823]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 203 966 4823",
+          "area_code": "203",
+          "geographic_indicator": "Connecticut",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Koo Stark - photographer/actress",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Starczewski Thomas",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "74 [illegible] Street",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW3",
+          "city": "London",
+          "postal_code": "SW3",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 349 8162(h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 384 0044(w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Tomasz Starzewski - fashion designer",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Steenkamp, Chris",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 202 4031",
+          "area_code": "202",
+          "geographic_indicator": "Washington DC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "011 291 8711",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 261 8201 Office Fax",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Steiner Jeffrey",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 904 8700(w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Steinkampf, Chris & Nina",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Box 963",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Grosetto Azuaranta",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "[illegible] Beach Rd",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "00 87 32 411 6836 or",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "00 87 98 611 1813(w)",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "00 87 32 532 8862",
+          "confidence": "low"
+        }
+      ],
+      "addresses_additional": [
+        {
+          "type": "secondary",
+          "address": "Douch Beach house",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Stengel, Andrew",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 203 622 23XX (m)(100)",
+          "area_code": "203",
+          "geographic_indicator": "Connecticut",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 914 234 8562(w)",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "high"
+        }
+      ],
+      "addresses_additional": [
+        {
+          "type": "secondary",
+          "address": "2 Great Smith Street",
+          "street": "2 Great Smith Street",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Email: [illegible]@stanwexx.co",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "0044 917 XXXX(h)",
+          "country_code": "44",
+          "area_code": "917",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Stengel, Rick & Mary",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "200 West End[floor] Apt. 61",
+          "street": "200 West End",
+          "unit": "Apt. 61",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York, NY 10024",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10024",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 724 8909",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 721 5500 (w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 676 XXXX XX",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 18,
+    "quality": "fair",
+    "legibility": "moderate degradation",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "Peter Soros - Soros family member",
+      "Andrew Solomon - Author",
+      "Kevin Spacey - Actor",
+      "Koo Stark - Photographer/actress",
+      "Tomasz Starzewski - Fashion designer"
+    ]
+  },
+  "insights": [
+    "Peter Soros - member of billionaire Soros family",
+    "Andrew Solomon - prominent author",
+    "Kevin Spacey - major Hollywood actor",
+    "Koo Stark - photographer and former actress",
+    "Tomasz Starzewski - fashion designer",
+    "Cadogan Square address - ultra-prime London",
+    "Washington DC presence (202)",
+    "Spain connections",
+    "Paris France connections",
+    "Mix of entertainment, finance, and fashion elite"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "medium",
+    "total_contacts": 18,
+    "high_confidence": 10,
+    "medium_confidence": 5,
+    "low_confidence": 3,
+    "extraction_issues": [
+      "Some addresses illegible",
+      "Several incomplete phone numbers",
+      "Moderate page degradation",
+      "Some entries with minimal clarity"
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "page_number": 10,
+  "file_path": "data/flight_logs_images/page-010.png",
+  "type": "aircraft_flight_log",
+  "content": {
+    "text": "DATE | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARKS | POINTS OF DEPARTURE & ARRIVAL | FROM | TO | MILEAGE | FLY TIME | REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS | AIRCRAFT CATEGORY\n\n30 N908JE/100 N908JE CMH TEB 16 144 BERSHAD JO BOB\n20 '' '' TEB ISP 17 145 KEVIN, CHRISTINE\n21 '' '' ISP PBI 26 146 KEVIN + CHRISTINE\n25 '' '' PBI TEB 26 147 GM\n29 '' '' CMH CYDF 39 148 JEFFREY, 6 SKIPPER\n31 '' '' PBI [?] 35 149 KENNEY, JEANELISE, 1\n31 '' '' TED CMH 30 150\n14 '' '' CMH TEB 26 151 DHAPICE, PHELLEY\n18 '' '' TEB PBI 27 152 GM\n21 '' '' PBI TEB 145 154 JEFFREY + 'LARGE TOM'\n21 '' '' TEB CMH 165 155 JEFFREY, 1 MORE\n21 '' '' CMH CHH 435 156 JEFFREY, KELLLEY\n21 '' '' BOY AVK 25 157 GM, SHIRISE\n27 '' '' AVK AVA 2 158 JEFFREY + LEE\n21 '' '' TED CMH 25 159 [?], B KELLEY\n8 '' '' CMH TBN 16 160 MAXWELL, G, SARAH\n18 '' '' TBN [?] 161 JEFFREY, [?], KL\n21 '' '' ASC ASC 162 JOE + RENAUD, MONA\n\nPAGE TOTAL\nAMT. FORWARD: 411 + 2554 + 7918 = 1948\nTOTAL TO DATE: [calculations]\n\nI certify that the statements made by me on this form are true.\n\nPILOT'S SIGNATURE: David Rodgers",
+    "handwritten": true,
+    "typed": false,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "Complete cell-by-cell transcription provided above",
+      "flight_records": [
+        {
+          "date": "3/30/92",
+          "departure": "CMH",
+          "arrival": "TEB",
+          "aircraft": "N908JE/100 N908JE",
+          "flight_time": "1.6 hrs",
+          "passengers": ["Bershad", "Jo", "Bob"],
+          "pilot": "David Rodgers",
+          "notes": "BERSHAD JO BOB"
+        },
+        {
+          "date": "4/20/92",
+          "departure": "TEB",
+          "arrival": "ISP",
+          "aircraft": "N908JE",
+          "flight_time": "1.7 hrs",
+          "passengers": ["Kevin", "Christine"],
+          "pilot": "David Rodgers",
+          "notes": "KEVIN, CHRISTINE"
+        },
+        {
+          "date": "4/21/92",
+          "departure": "ISP",
+          "arrival": "PBI",
+          "aircraft": "N908JE",
+          "flight_time": "2.6 hrs",
+          "passengers": ["Kevin", "Christine"],
+          "pilot": "David Rodgers",
+          "notes": "KEVIN + CHRISTINE"
+        },
+        {
+          "date": "4/25/92",
+          "departure": "PBI",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "2.6 hrs",
+          "passengers": ["GM"],
+          "pilot": "David Rodgers",
+          "notes": "GM"
+        },
+        {
+          "date": "4/29/92",
+          "departure": "CMH",
+          "arrival": "CYDF",
+          "aircraft": "N908JE",
+          "flight_time": "3.9 hrs",
+          "passengers": ["Jeffrey", "6", "Skipper"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, 6 SKIPPER"
+        },
+        {
+          "date": "4/31/92",
+          "departure": "PBI",
+          "arrival": "[unclear]",
+          "aircraft": "N908JE",
+          "flight_time": "3.5 hrs",
+          "passengers": ["Kenney", "Jeanelise", "1"],
+          "pilot": "David Rodgers",
+          "notes": "KENNEY, JEANELISE, 1"
+        },
+        {
+          "date": "4/31/92",
+          "departure": "TED",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "3.0 hrs",
+          "passengers": [],
+          "pilot": "David Rodgers",
+          "notes": ""
+        },
+        {
+          "date": "5/14/92",
+          "departure": "CMH",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "2.6 hrs",
+          "passengers": ["Dhapice", "Phelley"],
+          "pilot": "David Rodgers",
+          "notes": "DHAPICE, PHELLEY"
+        },
+        {
+          "date": "5/18/92",
+          "departure": "TEB",
+          "arrival": "PBI",
+          "aircraft": "N908JE",
+          "flight_time": "2.7 hrs",
+          "passengers": ["GM"],
+          "pilot": "David Rodgers",
+          "notes": "GM"
+        },
+        {
+          "date": "5/27/92",
+          "departure": "PBI",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "1.45 hrs",
+          "passengers": ["Jeffrey", "Large Tom"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY + 'LARGE TOM'"
+        },
+        {
+          "date": "5/27/92",
+          "departure": "TEB",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "1.65 hrs",
+          "passengers": ["Jeffrey", "1 More"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, 1 MORE"
+        },
+        {
+          "date": "5/27/92",
+          "departure": "CMH",
+          "arrival": "CHH",
+          "aircraft": "N908JE",
+          "flight_time": "4.35 hrs",
+          "passengers": ["Jeffrey", "Kellley"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, KELLLEY"
+        },
+        {
+          "date": "5/27/92",
+          "departure": "BOY",
+          "arrival": "AVK",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["GM", "Shirise"],
+          "pilot": "David Rodgers",
+          "notes": "GM, SHIRISE"
+        },
+        {
+          "date": "5/27/92",
+          "departure": "AVK",
+          "arrival": "AVA",
+          "aircraft": "N908JE",
+          "flight_time": "0.2 hrs",
+          "passengers": ["Jeffrey", "Lee"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY + LEE"
+        },
+        {
+          "date": "5/27/92",
+          "departure": "TED",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["B Kelley"],
+          "pilot": "David Rodgers",
+          "notes": "[?], B KELLEY"
+        },
+        {
+          "date": "6/8/92",
+          "departure": "CMH",
+          "arrival": "TBN",
+          "aircraft": "N908JE",
+          "flight_time": "1.6 hrs",
+          "passengers": ["Maxwell", "G", "Sarah"],
+          "pilot": "David Rodgers",
+          "notes": "MAXWELL, G, SARAH"
+        },
+        {
+          "date": "6/8/92",
+          "departure": "TBN",
+          "arrival": "[unclear]",
+          "aircraft": "N908JE",
+          "flight_time": "",
+          "passengers": ["Jeffrey", "KL"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, [?], KL"
+        },
+        {
+          "date": "6/8/92",
+          "departure": "ASC",
+          "arrival": "ASC",
+          "aircraft": "N908JE",
+          "flight_time": "",
+          "passengers": ["Joe", "Renaud", "Mona"],
+          "pilot": "David Rodgers",
+          "notes": "JOE + RENAUD, MONA"
+        }
+      ],
+      "headers": ["DATE", "AIRCRAFT MAKE AND MODEL", "AIRCRAFT IDENTIFICATION MARKS", "POINTS OF DEPARTURE & ARRIVAL", "FROM", "TO", "MILEAGE", "FLY TIME", "REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS", "AIRCRAFT CATEGORY"],
+      "annotations": ["'LARGE TOM' in quotes", "6 SKIPPER", "1 MORE", "[unclear] destinations", "Multiple date 21 entries"]
+    }
+  },
+  "entities": {
+    "people": [
+      "Bershad",
+      "Jo",
+      "Bob",
+      "Kevin",
+      "Christine",
+      "GM",
+      "Jeffrey",
+      "Skipper",
+      "Kenney",
+      "Jeanelise",
+      "Dhapice",
+      "Phelley",
+      "Large Tom",
+      "Kellley",
+      "Shirise",
+      "Lee",
+      "B Kelley",
+      "Maxwell",
+      "G",
+      "Sarah",
+      "KL",
+      "Joe",
+      "Renaud",
+      "Mona",
+      "David Rodgers"
+    ],
+    "organizations": [],
+    "locations": [
+      "CMH",
+      "TEB",
+      "ISP",
+      "PBI",
+      "CYDF",
+      "TED",
+      "CHH",
+      "BOY",
+      "AVK",
+      "AVA",
+      "TBN",
+      "ASC"
+    ],
+    "dates": ["3/30/92", "4/20/92", "4/21/92", "4/25/92", "4/29/92", "4/31/92", "5/14/92", "5/18/92", "5/27/92", "6/8/92"],
+    "aircraft": ["N908JE/100", "N908JE"],
+    "phones": [],
+    "emails": []
+  },
+  "visual_elements": {
+    "signatures": ["David Rodgers (pilot signature at bottom)"],
+    "stamps": [],
+    "corrections": ["Some unclear text marked with [?]", "Mathematical calculations in totals"],
+    "redactions": []
+  },
+  "metadata": {
+    "log_type": "passenger_and_cargo_manifest",
+    "time_period": "March-June 1992",
+    "total_flights": 18,
+    "page_condition": "good with some unclear text",
+    "aircraft_registration": "N908JE/100, N908JE",
+    "running_total_hours": "Complex calculations visible",
+    "handwriting_notes": "Multiple entries for date 21, nickname 'LARGE TOM' in quotes"
+  },
+  "insights": [
+    "'LARGE TOM' appears in quotes - unusual nickname notation",
+    "6 SKIPPER notation - possibly 6 passengers plus skipper or someone named Skipper",
+    "MAXWELL, G explicitly written - confirming Ghislaine Maxwell",
+    "SARAH appears with Maxwell, G - likely Sarah Kellen",
+    "Multiple flights on date 21 - busy travel day",
+    "CYDF appears - possibly Canadian airport (DF designation)",
+    "Kevin and Christine travel together on consecutive flights",
+    "Jeanelise appears as new passenger name",
+    "Dhapice and Phelley - unusual names, possibly misspellings",
+    "Shirise appears as new passenger",
+    "B Kelley distinguished from other Kelley/Kelly entries",
+    "BOY and AVK appear as new airport codes",
+    "AVK to AVA very short flight - 0.2 hours",
+    "TBN appears as new destination",
+    "ASC to ASC circular flight",
+    "Joe and Renaud appear together with Mona",
+    "GM travels alone on two occasions",
+    "Pattern of Jeffrey with small groups continues",
+    "CHH appears as new destination code",
+    "Some destinations remain unclear in handwriting"
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "page_number": 61,
+  "alphabetical_section": "BUSINESS LISTINGS",
+  "page_header": "Restaurant and business directory",
+  "contacts": [],
+  "page_metadata": {
+    "total_entries": 0,
+    "entries_with_emails": 0,
+    "entries_with_addresses": 0,
+    "entries_with_handwritten_notes": 0,
+    "couples": 0,
+    "average_confidence": "N/A",
+    "notable_figures_count": 0,
+    "special_notes": "Page contains only business/restaurant listings, no personal contacts"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Franka Marcat (0370 917 323)",
+      "Franka (0207-589 118)",
+      "David Mayer (212 546 1175)",
+      "Philip Chen (212 888 4808)",
+      "Kim Solow (212 226 2627)",
+      "Sarah Shannon (212 632 2388)",
+      "Gibby-Cohen (Polly Gym contact)",
+      "Mark Mcer (Cook restaurant)",
+      "Michael (Christies)",
+      "Sharon Kim (Christies)",
+      "Patrick Cooney (Christies)",
+      "S. Ken (Christies)",
+      "James (Christies)",
+      "Kristin Mcgee (Exercise-New York)",
+      "Megan (Exercise-New York)",
+      "Jessica Benton (Exercise-New York)",
+      "Marissa Benson (Exercise-New York)",
+      "Jennifer (ballerina - Exercise-New York)"
+    ],
+    "organizations": [],
+    "locations": {
+      "international": [
+        "London, UK (multiple restaurant references)"
+      ],
+      "us_cities": [
+        "New York City (dominant - restaurants, gyms, services)",
+        "Madison, NJ (Bice restaurant location)"
+      ],
+      "elite_addresses": []
+    },
+    "business_listings": [
+      {
+        "name": "Beverly Wilshire",
+        "phone": "001 310 275 5200",
+        "type": "hotel",
+        "location": "Beverly Hills"
+      },
+      {
+        "name": "Bice",
+        "phone": "212 688 1999",
+        "address": "54th (Madison/Fifth)",
+        "type": "restaurant",
+        "location": "NYC"
+      },
+      {
+        "name": "Bilboquet",
+        "phone": "0101 212 751 3038",
+        "type": "restaurant",
+        "location": "NYC"
+      },
+      {
+        "name": "Bond Street",
+        "phone": "777 2500",
+        "address": "6 Bond St",
+        "type": "restaurant",
+        "location": "NYC"
+      },
+      {
+        "name": "Carlyle",
+        "phone": "0612 12 744 1600",
+        "address": "35 E. 76th Street",
+        "type": "hotel",
+        "location": "NYC"
+      },
+      {
+        "name": "Christies - New York",
+        "phone": "001 212 636 2000 (f)",
+        "additional_phones": [
+          "212 836 7111",
+          "212 546 1175 David Mayer",
+          "212 636 2513 Sharon Kim",
+          "212 246 7005 Isabelle",
+          "0207-389 2654 Patrick Cooney",
+          "??? 646 1727 Patrick Cooney",
+          "0207-638 8088 S. Ken",
+          "001 212 331 6141 James"
+        ],
+        "address": "GBH 502 Park 20742, 20 Rockefeller Plaza, 49 E 52nd St.",
+        "type": "auction_house",
+        "location": "NYC"
+      },
+      {
+        "name": "Cipriani Downtown",
+        "phone": "212 343 0999",
+        "address": "376 West Broadway, New York, NY 10012",
+        "type": "restaurant",
+        "location": "NYC - SoHo"
+      },
+      {
+        "name": "Coffee Shop",
+        "address": "162 Union West",
+        "type": "restaurant",
+        "location": "NYC"
+      },
+      {
+        "name": "Cohen Gibby",
+        "phone": "0101 212 677 4100",
+        "address": "Polly Gym, 428 East 75th Street (bet 1st York), 127 E. 56th Penthouse",
+        "additional_contact": "Gibby-Cohen@nyc-rr.com, GibbyRCohen@aol.com, 0101 212 628 6600 Gym(h)",
+        "type": "gym",
+        "location": "NYC"
+      },
+      {
+        "name": "Cook",
+        "phone": "0101 212 677 4100",
+        "contact": "Mark Mcer, Gary 12 9241 6160(h)",
+        "type": "restaurant",
+        "location": "NYC"
+      },
+      {
+        "name": "Dawat Haute Cuisine of India",
+        "phone": "0101 212 355 7555",
+        "address": "210 East 58th Street, New York",
+        "type": "restaurant",
+        "location": "NYC"
+      },
+      {
+        "name": "Delmonico's",
+        "phone": "212-317-8976",
+        "address": "56 Beaver Street, New York, NY 10022",
+        "note": "Re-account under NYSE",
+        "type": "restaurant",
+        "location": "NYC"
+      },
+      {
+        "name": "Doyle's",
+        "phone": "001 212 427 2730",
+        "address": "175 East 87th",
+        "type": "auction_house",
+        "location": "NYC"
+      },
+      {
+        "name": "Elaine",
+        "phone": "001 212 779 9645",
+        "address": "577 Second Avenue #61, NY NY",
+        "type": "restaurant",
+        "location": "NYC"
+      },
+      {
+        "name": "Electrolysis",
+        "phone": "988 1215",
+        "type": "service",
+        "location": "NYC"
+      },
+      {
+        "name": "Elio's Restaurent",
+        "phone": "212 772 2242",
+        "address": "2nd avenue between 84th and 85",
+        "type": "restaurant",
+        "location": "NYC"
+      },
+      {
+        "name": "Essex House",
+        "phone": "212-247-0300",
+        "address": "160 Central Park South, New York, NY 10019",
+        "type": "hotel",
+        "location": "NYC"
+      },
+      {
+        "name": "Estia",
+        "phone": "828 9100",
+        "address": "308 E 86th, NY NY",
+        "type": "restaurant",
+        "location": "NYC"
+      },
+      {
+        "name": "Exercise-New York",
+        "phones": [
+          "1 212 226 6655 (h) Kristin Mcgee",
+          "1 212 486 8122 (h) Kristin Mcgee",
+          "1 917 699 9055 (p) Megan",
+          "1 917 653 0136 (p) Megan",
+          "212 333 3491 Jessica Benton(p)",
+          "645 235 4337 Marissa Benson(p)",
+          "781 820 6694 Jennifer(ballerina)"
+        ],
+        "type": "fitness",
+        "location": "NYC"
+      },
+      {
+        "name": "Four Seasons",
+        "phone": "212-758-5700",
+        "type": "restaurant",
+        "location": "NYC"
+      },
+      {
+        "name": "Four Seasons Hotel",
+        "phone": "212-758-5700",
+        "address": "57 East 57th Street",
+        "type": "hotel",
+        "location": "NYC"
+      },
+      {
+        "name": "Four Seasons Restaurant",
+        "phone": "212-754-1077",
+        "address": "99 E. 52nd (Park/Lex.), New York, NY 10022",
+        "type": "restaurant",
+        "location": "NYC"
+      },
+      {
+        "name": "Phone List - Additional Numbers",
+        "phones": [
+          "0370 917 323 (p)/Franka Marcat",
+          "0207-589 118 (h)/Franka",
+          "212 546 1175 David Mayer",
+          "212 888 4808 Philip Chen",
+          "Service",
+          "212 226 2627 Kim Solow",
+          "212 632 2388 Sarah Shannon"
+        ],
+        "type": "contact_list"
+      }
+    ]
+  },
+  "insights": [
+    "Business listings page - primarily NYC restaurants, hotels, and services",
+    "Christies auction house extensive contact list with multiple staff members: David Mayer, Sharon Kim, Isabelle, Patrick Cooney, S. Ken, James",
+    "Elite NYC restaurant cluster: Bilboquet, Cipriani Downtown, Elaine's (legendary), Elio's, Four Seasons",
+    "Exercise-New York with 7 trainers listed: Kristin Mcgee (2 numbers), Megan (2 numbers), Jessica Benton, Marissa Benson, Jennifer (ballerina)",
+    "Cohen Gibby - Polly Gym at 428 East 75th Street, personal training/fitness",
+    "Auction houses: Christies (extensive listing), Doyle's (175 East 87th)",
+    "NYC hotel cluster: Beverly Wilshire, Carlyle (legendary Upper East Side), Essex House (Central Park South), Four Seasons Hotel",
+    "Dawat Haute Cuisine of India - 210 East 58th Street, upscale Indian dining",
+    "Delmonico's with 'Re-account under NYSE' note - historic Wall Street area restaurant",
+    "Elaine's at 577 Second Avenue - legendary NYC literary/celebrity hangout (closed 2011)",
+    "Bond Street restaurant - 6 Bond St, trendy NoHo/East Village location",
+    "Bice on 54th between Madison/Fifth - upscale Italian dining",
+    "Geographic concentration: Upper East Side restaurants (Elaine's, Elio's, Estia), Midtown (Four Seasons, Bice), Downtown (Cipriani, Bond Street)",
+    "Service providers: Electrolysis (988 1215), Exercise trainers (multiple), Personal gym contacts",
+    "International connections: London phone numbers for Franka Marcat, Patrick Cooney (Christies London)"
+  ]
+}

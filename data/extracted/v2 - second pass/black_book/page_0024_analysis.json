@@ -1,0 +1,668 @@
+{
+  "page_number": 24,
+  "alphabetical_section": "G-H",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "024_grossman_lloyd",
+      "name": {
+        "full_name": "Grossman Lloyd",
+        "prefix": null,
+        "first_name": "Lloyd",
+        "middle_name": null,
+        "last_name": "Grossman",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207-720 7379", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "UK TV personality/food critic"
+    },
+    {
+      "entry_id": "024_grubelmann_marjorie",
+      "name": {
+        "full_name": "Grubelmann, Marjorie",
+        "prefix": null,
+        "first_name": "Marjorie",
+        "middle_name": null,
+        "last_name": "Grubelmann",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "516 759 2709", "formatting": "US format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["52 Piping Rock Rd", "Oyster Bay"],
+          "city": "Oyster Bay",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Long Island estate area"
+    },
+    {
+      "entry_id": "024_guccioni_tony",
+      "name": {
+        "full_name": "Guccioni, Tony",
+        "prefix": null,
+        "first_name": "Tony",
+        "middle_name": null,
+        "last_name": "Guccioni",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 813 9494(h)", "formatting": "International to US"},
+        {"type": "home", "number": "001 212 620 9126 (k)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Related to Penthouse publisher"
+    },
+    {
+      "entry_id": "024_gudefin_christian",
+      "name": {
+        "full_name": "Gudefin, Christian",
+        "prefix": null,
+        "first_name": "Christian",
+        "middle_name": null,
+        "last_name": "Gudefin",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "71 212 439 42 88", "formatting": "International"},
+        {"type": "home", "number": "71 212 439 62 88(hm)", "formatting": "International"}
+      ],
+      "emails": [
+        {"type": "personal", "email": "christianguidolin@fastfiglio.co"}
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["24 E. 64th Street", "N.Y. 10021"],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": ["Email: christianguidolin@fastfiglio.co", "0207-549 1919 (h)", "0607-549 1918 (p)"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Upper East Side NYC"
+    },
+    {
+      "entry_id": "024_ny_11863",
+      "name": {
+        "full_name": null,
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": null,
+        "suffix": null
+      },
+      "phones": [
+        {"type": "fax", "number": "516 364 0091 fax", "formatting": "US format"},
+        {"type": "mobile", "number": "917 586 3211 (c)", "formatting": "US format"},
+        {"type": "mobile", "number": "917 586 3231 (c)", "formatting": "US format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["N.Y. 11863"],
+          "state": "NY",
+          "postal_code": "11863",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": ["Tommy jr", "Personal 516 364 1100", "Mobile: 917 586 3201", "Amanda c. 917 859 8091", "C# 917 859 8042"],
+      "confidence": {
+        "phones": "high",
+        "addresses": "medium"
+      },
+      "formatting_notes": "Orphan contact info - likely continuation"
+    },
+    {
+      "entry_id": "024_guerrand_hermes_valesca",
+      "name": {
+        "full_name": "Guerrand-Hermes, Valesca",
+        "prefix": null,
+        "first_name": "Valesca",
+        "middle_name": null,
+        "last_name": "Guerrand-Hermes",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207 373 7416 (h)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["94 Elm Park Rd", "London SW3"],
+          "city": "London",
+          "postal_code": "SW3",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Hermès family member"
+    },
+    {
+      "entry_id": "024_guedroitz_solina_nicolas",
+      "name": {
+        "full_name": "Guedroitz, Solina & Nicolas",
+        "prefix": null,
+        "first_name": "Solina",
+        "middle_name": null,
+        "last_name": "Guedroitz",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Nicolas"
+      },
+      "phones": [
+        {"type": "home", "number": "011 44 207 736 1841(", "formatting": "International to UK"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["174 A Northbourne", "Parsons Green, Fulham", "London SW6 3LJ"],
+          "city": "London",
+          "postal_code": "SW6 3LJ",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "UK couple. 'Sally & Rufus' bestfriends'"
+    },
+    {
+      "entry_id": "024_guerini_maraldi_alessandro",
+      "name": {
+        "full_name": "Guerini Maraldi, Alessandro",
+        "prefix": null,
+        "first_name": "Alessandro",
+        "middle_name": null,
+        "last_name": "Guerini Maraldi",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "00 39 06 855 7620 (h)", "formatting": "International to Italy"},
+        {"type": "work", "number": "0791 469 1899 (w)", "formatting": "UK mobile"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["4 Glen Park Villa", "Eastnor Villas", "Hereford HR8 1EP"],
+          "city": "Hereford",
+          "postal_code": "HR8 1EP",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Italian/UK connections"
+    },
+    {
+      "entry_id": "024_guest_cornelia",
+      "name": {
+        "full_name": "Guest, Cornelia",
+        "prefix": null,
+        "first_name": "Cornelia",
+        "middle_name": null,
+        "last_name": "Guest",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 917 691 5526(p)", "formatting": "International to US"},
+        {"type": "home", "number": "001 516 691 5526(h)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "American socialite"
+    },
+    {
+      "entry_id": "024_guggenheim_barbara_bert_fie",
+      "name": {
+        "full_name": "Guggenheim, Barbara & Bert Fie",
+        "prefix": null,
+        "first_name": "Barbara",
+        "middle_name": null,
+        "last_name": "Guggenheim",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Bert Fie"
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["1035 Summit Pl", "Beverly Hills"],
+          "city": "Beverly Hills",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": ["Bert Fields"],
+      "confidence": {
+        "name": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Guggenheim family with entertainment lawyer Bert Fields"
+    },
+    {
+      "entry_id": "024_los_angeles_ca_90069",
+      "name": {
+        "full_name": null,
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": null,
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "310 278 1165 (h)", "formatting": "US format"},
+        {"type": "home", "number": "310 271 1165", "formatting": "US format"},
+        {"type": "home", "number": "310 553 0500", "formatting": "US format"},
+        {"type": "home", "number": "310 552 0400 wats Diane", "formatting": "US format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Los Angeles, CA 90069 (h)"],
+          "city": "Los Angeles",
+          "state": "CA",
+          "postal_code": "90069",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": ["659 235 0400 Sec Diane"],
+      "confidence": {
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "LA contact info - continuation"
+    },
+    {
+      "entry_id": "024_guttfreund_susan_john",
+      "name": {
+        "full_name": "Guttfreund Susan &John",
+        "prefix": null,
+        "first_name": "Susan",
+        "middle_name": null,
+        "last_name": "Guttfreund",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "John"
+      },
+      "phones": [
+        {"type": "home", "number": "212 517 1858", "formatting": "US format"},
+        {"type": "home", "number": "914 234 1100", "formatting": "US format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["834 Fifth Avenue", "New York, NY"],
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": ["659 235 0400 Sec Diane"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Former Salomon Brothers CEO and wife"
+    },
+    {
+      "entry_id": "024_hahn_dr_mrs",
+      "name": {
+        "full_name": "Hahn, Dr & Mrs",
+        "prefix": "Dr",
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Hahn",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Mrs Hahn"
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Working Global Shipping", "Via Plaza Grande, Monaco"],
+          "city": "Monaco",
+          "country": "Monaco"
+        }
+      ],
+      "handwritten_notes": ["Working Global Shipping", "Via Plaza Grande, Monaco", "MC 98000"],
+      "confidence": {
+        "name": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Monaco shipping connection"
+    },
+    {
+      "entry_id": "024_guinness_sabrina",
+      "name": {
+        "full_name": "Guinness, Sabrina",
+        "prefix": null,
+        "first_name": "Sabrina",
+        "middle_name": null,
+        "last_name": "Guinness",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 213 656 8418 (h)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Guinness family member"
+    },
+    {
+      "entry_id": "024_guinness_mr_hugo",
+      "name": {
+        "full_name": "Guinness, Mr Hugo",
+        "prefix": "Mr",
+        "first_name": "Hugo",
+        "middle_name": null,
+        "last_name": "Guinness",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 977 8711", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["12 Beachy Place", "Brooklyn N.Y."],
+          "city": "Brooklyn",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Guinness family member"
+    },
+    {
+      "entry_id": "024_guissaini_luca",
+      "name": {
+        "full_name": "Guissaini, Luca",
+        "prefix": null,
+        "first_name": "Luca",
+        "middle_name": null,
+        "last_name": "Guissaini",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 305 467 7737(h)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Miami contact"
+    },
+    {
+      "entry_id": "024_gumberg_ira",
+      "name": {
+        "full_name": "Gumberg, Ira",
+        "prefix": null,
+        "first_name": "Ira",
+        "middle_name": null,
+        "last_name": "Gumberg",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "001 412 244 4007", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Pittsburgh area code"
+    },
+    {
+      "entry_id": "024_hall_pippa",
+      "name": {
+        "full_name": "Hall, Pippa",
+        "prefix": null,
+        "first_name": "Pippa",
+        "middle_name": null,
+        "last_name": "Hall",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "mobile", "number": "0604 28387", "formatting": "UK mobile"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "UK contact"
+    },
+    {
+      "entry_id": "024_halpern_jen",
+      "name": {
+        "full_name": "Halpern Jen",
+        "prefix": null,
+        "first_name": "Jen",
+        "middle_name": null,
+        "last_name": "Halpern",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207-381 5015 (h)", "formatting": "UK format"},
+        {"type": "home", "number": "0207-381 8387 (h)", "formatting": "UK format"},
+        {"type": "work", "number": "0207 486 0129 (w)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["38 Stewardship Street SW6", "North Pallace Mansions"],
+          "city": "London",
+          "postal_code": "SW6",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "London contact"
+    },
+    {
+      "entry_id": "024_hambro_clementine",
+      "name": {
+        "full_name": "Hambro, Clementine",
+        "prefix": null,
+        "first_name": "Clementine",
+        "middle_name": null,
+        "last_name": "Hambro",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207-823 4116", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["001 917 270 6350"],
+          "notes": "US number in address field"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Hambro banking family"
+    },
+    {
+      "entry_id": "024_hamilton_george",
+      "name": {
+        "full_name": "Hamilton, George",
+        "prefix": null,
+        "first_name": "George",
+        "middle_name": null,
+        "last_name": "Hamilton",
+        "suffix": null
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["21 Eaton Mews South SW1"],
+          "city": "London",
+          "postal_code": "SW1",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Belgravia, London"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 21,
+    "legibility": "excellent",
+    "page_condition": "good",
+    "notes": "Notable entries include Guggenheim family, Guinness family members, Hermès family, Susan & John Gutfreund (former Salomon Brothers CEO), and Hambro banking family"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Lloyd Grossman",
+      "Marjorie Grubelmann",
+      "Tony Guccioni",
+      "Christian Gudefin",
+      "Valesca Guerrand-Hermes",
+      "Solina Guedroitz",
+      "Nicolas Guedroitz",
+      "Alessandro Guerini Maraldi",
+      "Cornelia Guest",
+      "Barbara Guggenheim",
+      "Bert Fields",
+      "Susan Guttfreund",
+      "John Guttfreund",
+      "Dr Hahn",
+      "Mrs Hahn",
+      "Sabrina Guinness",
+      "Hugo Guinness",
+      "Luca Guissaini",
+      "Ira Gumberg",
+      "Pippa Hall",
+      "Jen Halpern",
+      "Clementine Hambro",
+      "George Hamilton"
+    ],
+    "organizations": [
+      "Hermès",
+      "Salomon Brothers",
+      "Working Global Shipping",
+      "Hambro Bank"
+    ],
+    "locations": [
+      "London, UK",
+      "New York, NY",
+      "Oyster Bay, NY",
+      "Beverly Hills, CA",
+      "Los Angeles, CA",
+      "Monaco",
+      "Miami, FL",
+      "Pittsburgh, PA",
+      "Italy"
+    ]
+  },
+  "insights": [
+    "Hermès luxury family represented by Valesca Guerrand-Hermes",
+    "Guggenheim family with Barbara Guggenheim and lawyer Bert Fields",
+    "Multiple Guinness family members (Sabrina, Hugo) - brewing dynasty",
+    "Susan & John Guifreund - former Salomon Brothers CEO couple",
+    "Hambro banking family through Clementine Hambro",
+    "Lloyd Grossman - UK TV personality and food critic",
+    "Cornelia Guest - American socialite",
+    "Monaco shipping connection through Dr & Mrs Hahn",
+    "Mix of old money families and business elite",
+    "Strong presence in NYC, London, and Beverly Hills"
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "page_number": 113,
+  "date_header": "NOV-DEC 2004",
+  "time_period": "November 2004 - December 2004",
+  "aircraft": {
+    "registration": "Multiple (G-1159B N909JE, B-727-31B N908JE, B-727-200 SEABOURNE, BHT-407 N441GM)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "NOV 18",
+      "date": "11/18/2004",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1740",
+      "remarks": "TEB - PBI - [REDACTED], JE, Dmitri",
+      "passengers": ["REDACTED", "JE", "Dmitri"],
+      "crew": "LV Airplane Gabriel Moscow 2/3"
+    },
+    {
+      "entry_number": "20",
+      "date": "11/20/2004",
+      "departure": "B-727-31B",
+      "arrival": "N908JE",
+      "flight_time": "305",
+      "remarks": "JAX - JAX - [unclear]",
+      "passengers": [],
+      "crew": "GA 1/1 2/6"
+    },
+    {
+      "entry_number": "20",
+      "date": "11/20/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "306",
+      "remarks": "JAX - PBI - [unclear]",
+      "passengers": [],
+      "crew": "GA 1/1 1/8"
+    },
+    {
+      "entry_number": "23",
+      "date": "11/23/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "307",
+      "remarks": "[unclear] - JFK - JE, [REDACTED], SK, Emma",
+      "passengers": ["JE", "REDACTED", "SK", "Emma"],
+      "crew": "GA 2/3"
+    },
+    {
+      "entry_number": "26",
+      "date": "11/26/2004",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1744",
+      "remarks": "PBI - TIST - GM, JK",
+      "passengers": ["GM", "JK"],
+      "crew": "LV 1/1 2/4"
+    },
+    {
+      "entry_number": "28",
+      "date": "11/28/2004",
+      "departure": "B-727-200",
+      "arrival": "N908JE",
+      "flight_time": "308",
+      "remarks": "TIST - JFK - JE, AD, SK, [REDACTED], JE, Dmitri",
+      "passengers": ["JE", "AD", "SK", "REDACTED", "JE", "Dmitri"],
+      "crew": "Cali 4/0"
+    },
+    {
+      "entry_number": "DEC 3",
+      "date": "12/03/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "309",
+      "remarks": "JFK - PBI - JE, [REDACTED], SK, SM",
+      "passengers": ["JE", "REDACTED", "SK", "SM"],
+      "crew": "GA 2/8"
+    },
+    {
+      "entry_number": "14",
+      "date": "12/14/2004",
+      "departure": "B-727-200",
+      "arrival": "SEABOURNE",
+      "flight_time": "",
+      "remarks": "MFD - MFD - Marc Geller, Lush Michel, Mark Geller, Josh Michel",
+      "passengers": ["Marc Geller", "Lush Michel", "Mark Geller", "Josh Michel"],
+      "crew": "Wheaton Ray 1/0"
+    },
+    {
+      "entry_number": "15",
+      "date": "12/15/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "[unclear] - Trey, [unclear], Lawrence",
+      "passengers": ["Trey", "Lawrence"],
+      "crew": "1/7"
+    },
+    {
+      "entry_number": "15",
+      "date": "12/15/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "[unclear] - AS, RG, J, Lawrence",
+      "passengers": ["AS", "RG", "J", "Lawrence"],
+      "crew": "George Cox Ray 1/7"
+    },
+    {
+      "entry_number": "21",
+      "date": "12/21/2004",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1746",
+      "remarks": "PBI - TIST - GM",
+      "passengers": ["GM"],
+      "crew": "1/1 2/3"
+    },
+    {
+      "entry_number": "29",
+      "date": "12/29/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1748",
+      "remarks": "TIST - TNCM - JE, [REDACTED], SK",
+      "passengers": ["JE", "REDACTED", "SK"],
+      "crew": "LV 7"
+    },
+    {
+      "entry_number": "29",
+      "date": "12/29/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1747",
+      "remarks": "TNCM - TIST - JE, [REDACTED], SK",
+      "passengers": ["JE", "REDACTED", "SK"],
+      "crew": "LV 1"
+    },
+    {
+      "entry_number": "30",
+      "date": "12/30/2004",
+      "departure": "BHT-407",
+      "arrival": "N441GM",
+      "flight_time": "",
+      "remarks": "TEST - LSST - TEST - [unclear]",
+      "passengers": [],
+      "crew": "LV"
+    },
+    {
+      "entry_number": "30",
+      "date": "12/30/2004",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "LSST - TIST - [unclear]",
+      "passengers": [],
+      "crew": "LV 0"
+    },
+    {
+      "entry_number": "JAN 3 2005",
+      "date": "01/03/2005",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1749",
+      "remarks": "TIST - TJSJ - Nigel, SK, [REDACTED], Branson",
+      "passengers": ["Nigel", "SK", "REDACTED", "Branson"],
+      "crew": "1/1 6"
+    },
+    {
+      "entry_number": "3",
+      "date": "01/03/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1749",
+      "remarks": "TJSJ - PBI - JE, AD, JEB, [REDACTED], SK, JEB",
+      "passengers": ["JE", "AD", "JEB", "REDACTED", "SK", "JEB"],
+      "crew": "LV 1/1 3/2"
+    },
+    {
+      "entry_number": "5",
+      "date": "01/05/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1752",
+      "remarks": "PBI - TEB - JE, AD, GM, [REDACTED], SK",
+      "passengers": ["JE", "AD", "GM", "REDACTED", "SK"],
+      "crew": "LV 2/7"
+    },
+    {
+      "entry_number": "6",
+      "date": "01/06/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1751",
+      "remarks": "TEB - PBI - JE, Dmitri",
+      "passengers": ["JE", "Dmitri"],
+      "crew": "LV 2/7"
+    }
+  ],
+  "entities": {
+    "people": [
+      "REDACTED",
+      "JE",
+      "Dmitri",
+      "LV",
+      "Gabriel Moscow",
+      "GA",
+      "SK",
+      "Emma",
+      "GM",
+      "JK",
+      "AD",
+      "Cali",
+      "SM",
+      "Marc Geller",
+      "Lush Michel",
+      "Mark Geller",
+      "Josh Michel",
+      "Wheaton Ray",
+      "Trey",
+      "Lawrence",
+      "AS",
+      "RG",
+      "J",
+      "George Cox Ray",
+      "Nigel",
+      "Branson",
+      "JEB",
+      "David Rodgers"
+    ],
+    "locations": [
+      "TEB",
+      "PBI",
+      "JAX",
+      "JFK",
+      "TIST",
+      "MFD",
+      "TNCM",
+      "TEST",
+      "LSST",
+      "TJSJ"
+    ],
+    "aircraft": [
+      "G-1159B",
+      "N909JE",
+      "B-727-31B",
+      "N908JE",
+      "B-727-200",
+      "SEABOURNE",
+      "BHT-407",
+      "N441GM"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "Total to Date: 9613.9 - 9629.4",
+    "amount_forward": "9616.4",
+    "total_to_date": "9613.9",
+    "document_quality": "good",
+    "legibility": "mostly clear with some redactions"
+  },
+  "insights": [
+    "Page covers November 2004 through January 2005",
+    "November 2004 entries: 18, 20, 20, 23, 26, 28",
+    "December 2004 entries: 3, 14, 15, 15, 21, 29, 29, 30, 30",
+    "January 2005 entries: 3, 3, 5, 6",
+    "Transition into 2005 documented",
+    "JE (Jeffrey Epstein) appears frequently throughout",
+    "SK (Sarah Kellen) appears multiple times",
+    "Dmitri appears multiple times (November 18, November 28, January 6)",
+    "Caribbean operations continue (TIST, TNCM, TJSJ)",
+    "Branson mentioned on January 3, 2005",
+    "Multiple REDACTED entries throughout",
+    "SEABOURNE aircraft continues to appear",
+    "Test flights noted on December 30",
+    "Mix of domestic and Caribbean operations"
+  ]
+}

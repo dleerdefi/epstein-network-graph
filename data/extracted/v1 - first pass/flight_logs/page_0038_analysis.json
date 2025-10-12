@@ -1,0 +1,295 @@
+{
+  "page_number": 38,
+  "document_type": "Flight Log",
+  "metadata": {
+    "time_period": "September - October 1995",
+    "header_date": "1995 SEP",
+    "pilot": "David Rodgers",
+    "aircraft_registration": "N908JE",
+    "aircraft_make_model": "G1159B",
+    "total_flight_time_page": "39:05",
+    "amt_forward": "6502:53",
+    "total_to_date": "6541:58"
+  },
+  "flights": [
+    {
+      "date": "09/21/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "CMH",
+      "arrival": "TEB",
+      "flight_time": "1:01",
+      "passengers": "JE, GM, 5 PAX",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "09/21/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:02",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "09/25/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:02",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "09/26/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:02",
+      "passengers": "JE, GM, GEOFFREY PECKHAM",
+      "crew": "JEAN",
+      "remarks": "COURTESY MISSION BLACKBURN",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "09/30/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:02",
+      "passengers": "JE, GAYLE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "10/06/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:02",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "10/09/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:03",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "10/09/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:02",
+      "passengers": "[unclear text] STEPHANIE JULIE JACKIE PBI",
+      "crew": "CHRIS FLISLET AID DOUGLAS",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "10/22/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:02",
+      "passengers": "",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "10/24/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:02",
+      "passengers": "JE, PAULA GRIECO, PATRICIA LAFINARA",
+      "crew": "DARIAN GRITLIN",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "10/29/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:03",
+      "passengers": "[unclear text] STEVE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "10/31/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "SAV",
+      "flight_time": "4:06",
+      "passengers": "JE, GM, AS, PASCALE, TAMMI",
+      "crew": "",
+      "landings": "3",
+      "aircraft_category": ""
+    },
+    {
+      "date": "11/01/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "SAV",
+      "arrival": "PBI",
+      "flight_time": "3:03",
+      "passengers": "JE, GM, AS, LOU, PASCALE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "11/03/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:05",
+      "passengers": "JE, GM, ELLA, AS",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "11/09/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:02",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "2",
+      "aircraft_category": ""
+    },
+    {
+      "date": "11/13/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "DCA",
+      "flight_time": "1:09",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "11/13/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "DCA",
+      "arrival": "TEB",
+      "flight_time": "1:07",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "11/16/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "BQN",
+      "flight_time": "1:03",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "11/17/1995",
+      "aircraft": "G1159B N908JE",
+      "departure": "BQN",
+      "arrival": "CMH",
+      "flight_time": "1:09",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    }
+  ],
+  "entities": {
+    "people": [
+      {"name": "Jeffrey Epstein", "abbreviation": "JE", "role": "Primary passenger"},
+      {"name": "Ghislaine Maxwell", "abbreviation": "GM", "role": "Frequent passenger"},
+      {"name": "Andy Stewart", "abbreviation": "AS", "role": "Regular passenger"},
+      {"name": "Geoffrey Peckham", "role": "Passenger"},
+      {"name": "Jean", "role": "Crew member"},
+      {"name": "Gayle", "role": "Passenger"},
+      {"name": "Stephanie", "role": "Passenger"},
+      {"name": "Julie", "role": "Passenger"},
+      {"name": "Jackie", "role": "Passenger"},
+      {"name": "Chris Flislet", "role": "Crew member"},
+      {"name": "Douglas", "role": "Aid/Crew"},
+      {"name": "Paula Grieco", "role": "Passenger"},
+      {"name": "Patricia Lafinara", "role": "Passenger"},
+      {"name": "Darian Gritlin", "role": "Crew member"},
+      {"name": "Steve", "role": "Passenger"},
+      {"name": "Pascale", "role": "Passenger"},
+      {"name": "Tammi", "role": "Passenger"},
+      {"name": "Lou", "role": "Passenger"},
+      {"name": "Ella", "role": "Passenger"},
+      {"name": "David Rodgers", "role": "Pilot"}
+    ],
+    "locations": [
+      {"code": "CMH", "name": "John Glenn Columbus International Airport", "location": "Columbus, OH"},
+      {"code": "TEB", "name": "Teterboro Airport", "location": "Teterboro, NJ"},
+      {"code": "PBI", "name": "Palm Beach International Airport", "location": "West Palm Beach, FL"},
+      {"code": "SAV", "name": "Savannah/Hilton Head International Airport", "location": "Savannah, GA"},
+      {"code": "DCA", "name": "Ronald Reagan Washington National Airport", "location": "Washington, DC"},
+      {"code": "BQN", "name": "Rafael Hernández Airport", "location": "Aguadilla, Puerto Rico"}
+    ],
+    "aircraft": [
+      {"registration": "N908JE", "type": "Gulfstream G1159B", "category": "Private Jet"}
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {"location": "bottom_left", "description": "David Rodgers pilot signature", "legibility": "clear"}
+    ],
+    "stamps": [],
+    "markings": [
+      {"type": "page_number", "content": "38", "location": "bottom_center"},
+      {"type": "total_time", "content": "39:05", "location": "bottom_right"}
+    ]
+  },
+  "insights": [
+    "Page continues from page 37's September dates",
+    "Two flights on same day (9/21, 10/9, 11/13)",
+    "Puerto Rico (BQN) appears as new destination",
+    "Geoffrey Peckham appears as passenger",
+    "Courtesy mission notation for Blackburn",
+    "Paula Grieco and Patricia Lafinara travel together",
+    "Pascale appears multiple times",
+    "Washington DC routing on 11/13",
+    "Ella appears as new passenger name",
+    "Lou appears as passenger",
+    "Tammi appears as passenger",
+    "Multiple crew members noted (Jean, Chris Flislet, Darian Gritlin)",
+    "5 PAX notation on 9/21",
+    "Gap in flights between 10/9 and 10/22",
+    "November entries transition to next page"
+  ],
+  "corrections": {
+    "date_inference": "Page 38 continues from page 37, covering September 21 through November 17, 1995",
+    "actual_dates_from_png": "Verified from PNG: September 21, 25, 26, 30, October 6, 9, 9, 22, 24, 29, 31, November 1, 3, 9, 13, 13, 16, 17",
+    "continuity": "Properly continues from page 37 which ended September 21, 1995"
+  },
+  "pilot_signature": "David Rodgers",
+  "page_total": "39:05 hours"
+}

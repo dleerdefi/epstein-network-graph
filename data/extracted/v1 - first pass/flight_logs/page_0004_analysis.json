@@ -1,0 +1,261 @@
+{
+  "page_number": 4,
+  "file_path": "data/flight_logs_images/page-004.png",
+  "type": "aircraft_flight_log",
+  "content": {
+    "text": "DATE | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARKS | POINTS OF DEPARTURE & ARRIVAL | FROM | TO | ENGINE | MILEAGE | SINGLE PILOT | FLT TIME | REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS | AIRCRAFT CATEGORY\n\n22 N727JE N908JE CMH TEB 20 70 JEFFREY EPSTEIN\n23 CMH N9FY CAM CMH CMH See recording day shift\n3 CMH-GL N908JE TEB PSB 22 84 See attached separate checklist\n5 '' '' RGG BKL 13 73 Alex\n9 '' '' BKL CMH 14 45 Jeffrey\n19 '' '' CMH TEB 20 68 Casey numbers\n30 '' '' TEB TEB 40 40 Lex Klein L06 1997 Army 29 Dec-17 Les Allen 300 miles Kelly\n1 '' '' TEB BAT 13 77 JUAN\n11 '' '' BAT CMH 17 80 JUAN\n13 '' '' CMH SKL 16 68 JUAN\n17 '' '' SKL CMH 17 70 JUAN\n14 '' '' CMH BKL 15 61 Jessica Martinez Land\n14 '' '' BKL TEB 14 83\n10 '' '' TEB CMH 20 63 Andrew Huskle\n20 '' '' CMH BKL 155 64 Jeffrey Ghizlaine\n20 '' '' BKL MEM\n20 '' '' MEM TEB 17 JEFFREY\n20 '' '' TEB TEB JEFFREY\n\nPAGE TOTAL\nAMT. FORWARD: 216.0 + 274.8 = 490.8\nTOTAL TO DATE: 345.7 + 490.8 = 836.5\n\nI certify that the statements made by me on this form are true.\n\nPILOT'S SIGNATURE: David Rodgers",
+    "handwritten": true,
+    "typed": false,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "Complete cell-by-cell transcription provided above",
+      "flight_records": [
+        {
+          "date": "9/22/91",
+          "departure": "CMH",
+          "arrival": "TEB",
+          "aircraft": "N727JE N908JE",
+          "flight_time": "2.0 hrs",
+          "passengers": ["Jeffrey Epstein"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY EPSTEIN"
+        },
+        {
+          "date": "9/23/91",
+          "departure": "CMH",
+          "arrival": "CMH",
+          "aircraft": "N9FY CAM",
+          "flight_time": "",
+          "passengers": [],
+          "pilot": "David Rodgers",
+          "notes": "See recording day shift"
+        },
+        {
+          "date": "10/3/91",
+          "departure": "CMH-GL",
+          "arrival": "TEB PSB",
+          "aircraft": "N908JE",
+          "flight_time": "2.2 hrs",
+          "passengers": [],
+          "pilot": "David Rodgers",
+          "notes": "See attached separate checklist"
+        },
+        {
+          "date": "10/5/91",
+          "departure": "RGG",
+          "arrival": "BKL",
+          "aircraft": "N908JE",
+          "flight_time": "1.3 hrs",
+          "passengers": ["Alex"],
+          "pilot": "David Rodgers",
+          "notes": "Alex"
+        },
+        {
+          "date": "10/9/91",
+          "departure": "BKL",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "1.4 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "Jeffrey"
+        },
+        {
+          "date": "10/19/91",
+          "departure": "CMH",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "2.0 hrs",
+          "passengers": ["Casey"],
+          "pilot": "David Rodgers",
+          "notes": "Casey numbers"
+        },
+        {
+          "date": "10/30/91",
+          "departure": "TEB",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "4.0 hrs",
+          "passengers": ["Lex Klein", "Les Allen", "Kelly"],
+          "pilot": "David Rodgers",
+          "notes": "Lex Klein L06 1997 Army 29 Dec-17 Les Allen 300 miles Kelly"
+        },
+        {
+          "date": "10/1/91",
+          "departure": "TEB",
+          "arrival": "BAT",
+          "aircraft": "N908JE",
+          "flight_time": "1.3 hrs",
+          "passengers": ["Juan"],
+          "pilot": "David Rodgers",
+          "notes": "JUAN"
+        },
+        {
+          "date": "10/11/91",
+          "departure": "BAT",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "1.7 hrs",
+          "passengers": ["Juan"],
+          "pilot": "David Rodgers",
+          "notes": "JUAN"
+        },
+        {
+          "date": "10/13/91",
+          "departure": "CMH",
+          "arrival": "SKL",
+          "aircraft": "N908JE",
+          "flight_time": "1.6 hrs",
+          "passengers": ["Juan"],
+          "pilot": "David Rodgers",
+          "notes": "JUAN"
+        },
+        {
+          "date": "10/17/91",
+          "departure": "SKL",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "1.7 hrs",
+          "passengers": ["Juan"],
+          "pilot": "David Rodgers",
+          "notes": "JUAN"
+        },
+        {
+          "date": "10/14/91",
+          "departure": "CMH",
+          "arrival": "BKL",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jessica Martinez"],
+          "pilot": "David Rodgers",
+          "notes": "Jessica Martinez Land"
+        },
+        {
+          "date": "10/14/91",
+          "departure": "BKL",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "1.4 hrs",
+          "passengers": [],
+          "pilot": "David Rodgers",
+          "notes": ""
+        },
+        {
+          "date": "10/10/91",
+          "departure": "TEB",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "2.0 hrs",
+          "passengers": ["Andrew Huskle"],
+          "pilot": "David Rodgers",
+          "notes": "Andrew Huskle"
+        },
+        {
+          "date": "10/20/91",
+          "departure": "CMH",
+          "arrival": "BKL",
+          "aircraft": "N908JE",
+          "flight_time": "1.55 hrs",
+          "passengers": ["Jeffrey", "Ghizlaine"],
+          "pilot": "David Rodgers",
+          "notes": "Jeffrey Ghizlaine"
+        },
+        {
+          "date": "10/20/91",
+          "departure": "BKL",
+          "arrival": "MEM",
+          "aircraft": "N908JE",
+          "flight_time": "",
+          "passengers": [],
+          "pilot": "David Rodgers",
+          "notes": ""
+        },
+        {
+          "date": "10/20/91",
+          "departure": "MEM",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "1.7 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "10/20/91",
+          "departure": "TEB",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        }
+      ],
+      "headers": ["DATE", "AIRCRAFT MAKE AND MODEL", "AIRCRAFT IDENTIFICATION MARKS", "POINTS OF DEPARTURE & ARRIVAL", "FROM", "TO", "ENGINE", "MILEAGE", "SINGLE PILOT", "FLT TIME", "REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS", "AIRCRAFT CATEGORY"],
+      "annotations": ["See recording day shift", "See attached separate checklist", "L06 1997 Army 29 Dec-17", "300 miles", "PAGE TOTAL", "AMT. FORWARD: 216.0 + 274.8 = 490.8", "TOTAL TO DATE: 345.7 + 490.8 = 836.5"]
+    }
+  },
+  "entities": {
+    "people": [
+      "Jeffrey Epstein",
+      "Jeffrey",
+      "Alex",
+      "Casey",
+      "Lex Klein",
+      "Les Allen",
+      "Kelly",
+      "Juan",
+      "Jessica Martinez",
+      "Andrew Huskle",
+      "Ghizlaine",
+      "David Rodgers"
+    ],
+    "organizations": ["Army"],
+    "locations": [
+      "CMH",
+      "TEB",
+      "GL",
+      "PSB",
+      "RGG",
+      "BKL",
+      "BAT",
+      "SKL",
+      "MEM"
+    ],
+    "dates": ["9/22/91", "9/23/91", "10/1/91", "10/3/91", "10/5/91", "10/9/91", "10/10/91", "10/11/91", "10/13/91", "10/14/91", "10/17/91", "10/19/91", "10/20/91", "10/30/91", "1997", "Dec-17"],
+    "aircraft": ["N727JE", "N908JE", "N9FY CAM"],
+    "phones": [],
+    "emails": []
+  },
+  "visual_elements": {
+    "signatures": ["David Rodgers (pilot signature at bottom)"],
+    "stamps": [],
+    "corrections": ["Ditto marks ('') used extensively for repeated aircraft numbers"],
+    "redactions": []
+  },
+  "metadata": {
+    "log_type": "passenger_and_cargo_manifest",
+    "time_period": "September-October 1991",
+    "total_flights": 18,
+    "page_condition": "good",
+    "aircraft_registration": "N908JE (primary), N727JE, N9FY CAM",
+    "running_total_hours": "836.5",
+    "handwriting_notes": "Consistent handwriting throughout, ditto marks used for repeated aircraft entries"
+  },
+  "insights": [
+    "Multiple aircraft registrations appear: N727JE, N908JE, N9FY CAM - suggesting fleet operations",
+    "Jeffrey and Ghizlaine (Ghislaine Maxwell) travel together on the 20th",
+    "Juan appears on four consecutive flights (dates 1, 11, 13, 17) - possibly Juan Alessi",
+    "TEB to TEB circular flights on dates 30 and 20 - local area flights or repositioning",
+    "Complex annotation on date 30: 'L06 1997 Army 29 Dec-17' and '300 miles' - military reference?",
+    "Jessica Martinez is specifically noted with 'Land' - possible landing permission or special instruction",
+    "Andrew Huskle appears as single passenger",
+    "Running total reaches 836.5 hours - substantial flight time accumulation",
+    "Ditto marks ('') used extensively to avoid rewriting N908JE - showing this is primary aircraft",
+    "MEM (Memphis) appears as new destination",
+    "Alex appears alone - possibly staff member",
+    "Casey listed with 'numbers' - possibly referring to flight calculations or contact info",
+    "References to external documents: 'See recording day shift' and 'See attached separate checklist'",
+    "Pattern emerging of Jeffrey traveling with single companions or small groups"
+  ]
+}

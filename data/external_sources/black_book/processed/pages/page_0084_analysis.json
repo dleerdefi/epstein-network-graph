@@ -1,0 +1,1276 @@
+{
+  "page_number": 84,
+  "alphabetical_section": "Mixed",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "084_unknown_unknown",
+      "name": {
+        "full_name": "Kinnerton \u2013 Stichcraft",
+        "prefix": null,
+        "first_name": "Kinnerton",
+        "middle_name": "\u2013",
+        "last_name": "Stichcraft",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "071-629 7919",
+          "formatting": "071-629 7919"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Stichcraft"
+    },
+    {
+      "entry_id": "084_tobias_maxine",
+      "name": {
+        "full_name": "Kinnerton \u2013 Tobias, Maxine",
+        "prefix": null,
+        "first_name": "Maxine",
+        "middle_name": null,
+        "last_name": "Tobias",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-351 7690",
+          "formatting": "0207-351 7690 (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 631 329 3869",
+          "formatting": "00 631 329 3869 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "516 329 3869",
+          "formatting": "516 329 3869"
+        },
+        {
+          "type": "portable",
+          "number": "07767 655220",
+          "formatting": "07767 655220"
+        }
+      ],
+      "emails": [
+        {
+          "address": "maxinelena@aol.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Yoga \u2013 UK"
+    },
+    {
+      "entry_id": "084_nichols_debbie",
+      "name": {
+        "full_name": "Kinnerton \u2013 Unlisted London",
+        "prefix": null,
+        "first_name": "Debbie",
+        "middle_name": null,
+        "last_name": "Nichols",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0870 225 5007",
+          "formatting": "0870 225 5007"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Unlisted London"
+    },
+    {
+      "entry_id": "084_unknown_unknown",
+      "name": {
+        "full_name": "Kinnerton \u2013 Yara",
+        "prefix": null,
+        "first_name": "Kinnerton",
+        "middle_name": "\u2013",
+        "last_name": "Yara",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-349 0652",
+          "formatting": "0207-349 0652 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Yara"
+    },
+    {
+      "entry_id": "084_birnbaum_unknown",
+      "name": {
+        "full_name": "Medical \u2013 Burnbaum, Dr.",
+        "prefix": null,
+        "first_name": "",
+        "middle_name": null,
+        "last_name": "Birnbaum",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 628 1500",
+          "formatting": "212 628 1500"
+        },
+        {
+          "type": "unknown",
+          "number": "212 288 5760 (f)",
+          "formatting": "212 288 5760 (f)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "449 East 68th Street at York, Suite 8, Second Floor"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "084_john_unknown",
+      "name": {
+        "full_name": "Medical \u2013 Burnbaum, Dr.",
+        "prefix": null,
+        "first_name": "",
+        "middle_name": null,
+        "last_name": "John",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "449 East 68th Street at York, Suite 8, Second Floor"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Scobell"
+    },
+    {
+      "entry_id": "084_burman_unknown",
+      "name": {
+        "full_name": "Medical \u2013 Burman, Dr.",
+        "prefix": null,
+        "first_name": "",
+        "middle_name": null,
+        "last_name": "Burman",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212-832-8417",
+          "formatting": "212-832-8417"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "52 East 64th Street"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Vet for Max"
+    },
+    {
+      "entry_id": "084_dean_unknown",
+      "name": {
+        "full_name": "Medical \u2013 Chiropractor (Dr. Dean)",
+        "prefix": null,
+        "first_name": "",
+        "middle_name": null,
+        "last_name": "Dean",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Dr. Dean"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 712-2195",
+          "formatting": "212 712-2195"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "2067 Broadway between 71st & 72nd"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Chiropractor"
+    },
+    {
+      "entry_id": "084_calakos_dean",
+      "name": {
+        "full_name": "Medical \u2013 Chiropractor (Calakos, Dr. Dean)",
+        "prefix": null,
+        "first_name": "Dean",
+        "middle_name": null,
+        "last_name": "Calakos",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Calakos, Dr. Dean"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 712 2195",
+          "formatting": "212 712 2195"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "370 Columbus Ave., (between 77th & 78th streets), 1F"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10023",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Chiropractor"
+    },
+    {
+      "entry_id": "084_cope_bruce",
+      "name": {
+        "full_name": "Medical \u2013 Cope, Bruce",
+        "prefix": null,
+        "first_name": "Bruce",
+        "middle_name": null,
+        "last_name": "Cope",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-580 0646",
+          "formatting": "0207-580 0646 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "2 Harcourt House, 19A Cavendish Square"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W1M 9AD",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "GM Dentist"
+    },
+    {
+      "entry_id": "084_bruno_unknown",
+      "name": {
+        "full_name": "Medical \u2013 Dr. Bruno",
+        "prefix": null,
+        "first_name": "",
+        "middle_name": null,
+        "last_name": "Bruno",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 838 3155",
+          "formatting": "212 838 3155"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "535 Park Avenue"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": "Upper East Side elite"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "084_calakos_dean",
+      "name": {
+        "full_name": "Medical \u2013 Dr. Dean Calakos",
+        "prefix": null,
+        "first_name": "Dean",
+        "middle_name": null,
+        "last_name": "Calakos",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 712 2195",
+          "formatting": "212 712 2195"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "370 Columbus Avenue, #1F"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10024",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "084_farkus_unknown",
+      "name": {
+        "full_name": "Medical \u2013 Dr. Farkus",
+        "prefix": null,
+        "first_name": "",
+        "middle_name": null,
+        "last_name": "Farkus",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 355 5145",
+          "formatting": "212 355 5145"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "30 East 60th Street, 201 Floor"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "084_ray_unknown",
+      "name": {
+        "full_name": "Medical \u2013 Dr. Ray, Dr. Kashel",
+        "prefix": null,
+        "first_name": "",
+        "middle_name": null,
+        "last_name": "Ray",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "561-478-1104",
+          "formatting": "561-478-1104"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Paula\u2019s Dr.\u2019s"
+    },
+    {
+      "entry_id": "084_kashel_unknown",
+      "name": {
+        "full_name": "Medical \u2013 Dr. Ray, Dr. Kashel",
+        "prefix": null,
+        "first_name": "",
+        "middle_name": null,
+        "last_name": "Kashel",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "561-478-1104",
+          "formatting": "561-478-1104"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Paula\u2019s Dr.\u2019s"
+    },
+    {
+      "entry_id": "084_schimoni_unknown",
+      "name": {
+        "full_name": "Medical \u2013 Dr. Schimoni",
+        "prefix": null,
+        "first_name": "",
+        "middle_name": null,
+        "last_name": "Schimoni",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "212 751 5066",
+          "formatting": "212 751 5066"
+        },
+        {
+          "type": "portable",
+          "number": "917 922 7391",
+          "formatting": "917 922 7391 (NYC mobile)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "084_unknown_unknown",
+      "name": {
+        "full_name": "Medical \u2013 Ear Conning",
+        "prefix": null,
+        "first_name": "Medical",
+        "middle_name": "\u2013 Ear",
+        "last_name": "Conning",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 580 3333",
+          "formatting": "001 212 580 3333 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "310 West 72nd Street"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Ear Conning"
+    },
+    {
+      "entry_id": "084_gaynor_j_r",
+      "name": {
+        "full_name": "Medical \u2013 Gaynor, Dr. J R",
+        "prefix": null,
+        "first_name": "J R",
+        "middle_name": null,
+        "last_name": "Gaynor",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0836 236965",
+          "formatting": "0836 236965"
+        },
+        {
+          "type": "work",
+          "number": "0207-730 3700",
+          "formatting": "0207-730 3700 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-351 3454",
+          "formatting": "0207-351 3454 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-351 6801",
+          "formatting": "0207-351 6801 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "79 Cadogan Place"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW1X 9RP",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "084_hirshfield_unknown",
+      "name": {
+        "full_name": "Medical \u2013 Hirshfield, Dr.",
+        "prefix": null,
+        "first_name": "",
+        "middle_name": null,
+        "last_name": "Hirshfield",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "614-864-6016 (f)",
+          "formatting": "614-864-6016 (f)"
+        },
+        {
+          "type": "home",
+          "number": "614-252-2034",
+          "formatting": "614-252-2034"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "084_ishmail_unknown",
+      "name": {
+        "full_name": "Medical \u2013 Ishmail",
+        "prefix": null,
+        "first_name": "",
+        "middle_name": null,
+        "last_name": "Ishmail",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 353 2038",
+          "formatting": "212 353 2038"
+        },
+        {
+          "type": "portable",
+          "number": "917 865 0394",
+          "formatting": "917 865 0394 (NYC mobile)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "177 Prince Street, (between Prince & Thompson)"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "084_kent_susan",
+      "name": {
+        "full_name": "Medical \u2013 Kent, Susan DVM",
+        "prefix": null,
+        "first_name": "Susan",
+        "middle_name": null,
+        "last_name": "Kent",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212-832-8417",
+          "formatting": "212-832-8417"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "52 East 64th Street"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Park East Animal Hospital"
+    },
+    {
+      "entry_id": "084_krumholtz_michael",
+      "name": {
+        "full_name": "Medical \u2013 Krumholtz, Dr. Michael",
+        "prefix": null,
+        "first_name": "Michael",
+        "middle_name": null,
+        "last_name": "Krumholtz",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 734 5533",
+          "formatting": "212 734 5533"
+        },
+        {
+          "type": "unknown",
+          "number": "212 717 1688 (fax)",
+          "formatting": "212 717 1688 (fax)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "111 East 80th Street"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "084_lee_unknown",
+      "name": {
+        "full_name": "Medical \u2013 Lee, Dr.",
+        "prefix": null,
+        "first_name": "",
+        "middle_name": null,
+        "last_name": "Lee",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "614-868-5966",
+          "formatting": "614-868-5966"
+        },
+        {
+          "type": "home",
+          "number": "614-457-9585",
+          "formatting": "614-457-9585"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "084_unknown_unknown",
+      "name": {
+        "full_name": "Medical \u2013 Lister Hospital",
+        "prefix": null,
+        "first_name": "Medical",
+        "middle_name": "\u2013 Lister",
+        "last_name": "Hospital",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-730 3417",
+          "formatting": "0207-730 3417 (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "0207-235 2672",
+          "formatting": "0207-235 2672 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Lister Hospital"
+    },
+    {
+      "entry_id": "084_magnani_unknown",
+      "name": {
+        "full_name": "Medical \u2013 Magnani, Dr.",
+        "prefix": null,
+        "first_name": "",
+        "middle_name": null,
+        "last_name": "Magnani",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 688 1090",
+          "formatting": "212 688 1090"
+        },
+        {
+          "type": "unknown",
+          "number": "212 755 3156 (fax)",
+          "formatting": "212 755 3156 (fax)"
+        },
+        {
+          "type": "home",
+          "number": "203 629 5608",
+          "formatting": "203 629 5608"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "501 Madison Ave, Suite 2101, (btwn 52nd and 53rd St)"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10022",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "084_unknown_unknown",
+      "name": {
+        "full_name": "Medical \u2013 Medical",
+        "prefix": null,
+        "first_name": "Medical",
+        "middle_name": "\u2013",
+        "last_name": "Medical",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "4311440*01 (Oxford ID number) (GM)",
+          "formatting": "4311440*01 (Oxford ID number) (GM)"
+        },
+        {
+          "type": "unknown",
+          "number": "133 78 4883 (Prudential ID number) (GM) (dental)",
+          "formatting": "133 78 4883 (Prudential ID number) (GM) (dental)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Medical"
+    },
+    {
+      "entry_id": "084_unknown_unknown",
+      "name": {
+        "full_name": "Medical \u2013 MedLink Emergency",
+        "prefix": null,
+        "first_name": "Medical",
+        "middle_name": "\u2013 MedLink",
+        "last_name": "Emergency",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001602 239 3627",
+          "formatting": "001602 239 3627 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "MedLink Emergency"
+    },
+    {
+      "entry_id": "084_meltzer_unknown",
+      "name": {
+        "full_name": "Medical \u2013 Meltzer, J. Dr.",
+        "prefix": null,
+        "first_name": "",
+        "middle_name": null,
+        "last_name": "Meltzer",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212-988-4488",
+          "formatting": "212-988-4488"
+        },
+        {
+          "type": "unknown",
+          "number": "212 535 4796 (fax)",
+          "formatting": "212 535 4796 (fax)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "903 Park Avenue"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY",
+          "country": "US",
+          "notes": "Upper East Side elite"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "084_moskowitz_bruce",
+      "name": {
+        "full_name": "Medical \u2013 Moskowitz, Dr. Bruce",
+        "prefix": null,
+        "first_name": "Bruce",
+        "middle_name": null,
+        "last_name": "Moskowitz",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "561 833 6351 (wf)",
+          "formatting": "561 833 6351 (wf)"
+        },
+        {
+          "type": "unknown",
+          "number": "x21 Melanie",
+          "formatting": "x21 Melanie"
+        },
+        {
+          "type": "unknown",
+          "number": "561 833 1628 (direct to Moskowitz desk)",
+          "formatting": "561 833 1628 (direct to Moskowitz desk)"
+        },
+        {
+          "type": "work",
+          "number": "561 833 6116",
+          "formatting": "561 833 6116"
+        },
+        {
+          "type": "home",
+          "number": "561 848 7884",
+          "formatting": "561 848 7884"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "1411 North Flagler Drive, Suite 9300"
+          ],
+          "city": "WPB",
+          "state": null,
+          "postal_code": "FL 33401",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 29,
+    "entries_with_emails": 1,
+    "entries_with_addresses": 17,
+    "entries_with_handwritten_notes": 0,
+    "couples": 0,
+    "average_confidence": "high",
+    "notable_figures_count": 0
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Kinnerton \u2013 Stichcraft",
+      "Kinnerton \u2013 Tobias, Maxine",
+      "Kinnerton \u2013 Unlisted London",
+      "Kinnerton \u2013 Yara",
+      "Medical \u2013 Burnbaum, Dr.",
+      "Medical \u2013 Burnbaum, Dr.",
+      "Medical \u2013 Burman, Dr.",
+      "Medical \u2013 Chiropractor (Dr. Dean)",
+      "Medical \u2013 Chiropractor (Calakos, Dr. Dean)",
+      "Medical \u2013 Cope, Bruce",
+      "Medical \u2013 Dr. Bruno",
+      "Medical \u2013 Dr. Dean Calakos",
+      "Medical \u2013 Dr. Farkus",
+      "Medical \u2013 Dr. Ray, Dr. Kashel",
+      "Medical \u2013 Dr. Ray, Dr. Kashel",
+      "Medical \u2013 Dr. Schimoni",
+      "Medical \u2013 Ear Conning",
+      "Medical \u2013 Gaynor, Dr. J R",
+      "Medical \u2013 Hirshfield, Dr.",
+      "Medical \u2013 Ishmail",
+      "Medical \u2013 Kent, Susan DVM",
+      "Medical \u2013 Krumholtz, Dr. Michael",
+      "Medical \u2013 Lee, Dr.",
+      "Medical \u2013 Lister Hospital",
+      "Medical \u2013 Magnani, Dr.",
+      "Medical \u2013 Medical",
+      "Medical \u2013 MedLink Emergency",
+      "Medical \u2013 Meltzer, J. Dr.",
+      "Medical \u2013 Moskowitz, Dr. Bruce"
+    ],
+    "organizations": [],
+    "locations": {
+      "international": [],
+      "us_cities": [
+        "WPB",
+        "New York",
+        "London"
+      ],
+      "elite_addresses": [
+        "903 Park Avenue",
+        "535 Park Avenue"
+      ]
+    }
+  },
+  "insights": [
+    "Geographic cluster: New York (11 entries)"
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "page_number": 20,
+  "file_path": "data/flight_logs_images/page-020.png",
+  "type": "aircraft_flight_log",
+  "content": {
+    "text": "DATE 1993 MAR | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARKS | POINTS OF DEPARTURE & ARRIVAL | FROM | TO | MILEAGE | FLT TIME | REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS | AIRCRAFT CATEGORY\n\n2 '' N908JE TCB TED 1.5 331 JEFFREY, GHISLAINE\n3 '' '' CSH GAF 2.0 332 JEFFREY, GHISLAINE, VIRGINIA, SALLY\n3 '' '' GAF GSH 1.5 333 JEFFREY, GHISLAINE\n4 '' '' GSH SGD 1.5 334 JEFFREY, GHISLAINE\n5 '' '' SGD GAF 1.5 335 JEFFREY, GHISLAINE, JENNA\n6 '' '' GAF PBJ 2.5 336 JEFFREY, STEVE, SARAH\n7 '' '' PBJ GAF 1.5 337 JEFFREY, STEVE, SARAH, 1 Female\n8 '' '' GAF GSH 1.5 338 JEFFREY, SARAH, 1 Female\n9 '' '' GSH GAF 1.5 339 JEFFREY, SARAH, 1 Female\n10 '' '' GAF PBJ 2.5 340 JEFFREY, ANGIE, 1 Female, 1 Female\n11 '' '' PBJ SGD 1.5 341 JEFFREY, LISA, SARAH, 1 Female\n12 '' '' SGD PBJ 1.5 342 JEFFREY, LISA, SARAH, 1 Female\n15 '' '' PBJ GAF 2.5 343 JEFFREY, 1 Female\n16 '' '' GAF SGD 1.5 344 JEFFREY, CELINE, JACINTA\n17 '' '' SGD ELU 1.5 345 JEFFREY, CELINE, 1 Female, AMY\n18 '' '' ELU TED 5.0 346 JEFFREY, CELINE, 1 Female, AMY\n19 '' '' TED ECG 6.0 347 JEFFREY, CELINE, 1 Female, AMY\n20 '' '' ECG PBJ 3.0 348 JEFFREY, CELINE, 1 Female, AMY\n21 '' '' PBJ HAF 1.5 349 JEFFREY, CELINE, 1 Female, AMY\n\nPAGE TOTAL\nAMT. FORWARD: 95.5 + 95.0 = 190.5\nTOTAL TO DATE: 7945 + 1911 = 9856\n\nI certify that the statements made by me on this form are true.\n\nPILOT'S SIGNATURE: David Rodgers",
+    "handwritten": true,
+    "typed": false,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "Complete cell-by-cell transcription provided above",
+      "flight_records": [
+        {
+          "date": "6/2/93",
+          "departure": "TCB",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE"
+        },
+        {
+          "date": "6/3/93",
+          "departure": "CSH",
+          "arrival": "GAF",
+          "aircraft": "N908JE",
+          "flight_time": "2.0 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Virginia", "Sally"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE, VIRGINIA, SALLY"
+        },
+        {
+          "date": "6/3/93",
+          "departure": "GAF",
+          "arrival": "GSH",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE"
+        },
+        {
+          "date": "6/4/93",
+          "departure": "GSH",
+          "arrival": "SGD",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE"
+        },
+        {
+          "date": "6/5/93",
+          "departure": "SGD",
+          "arrival": "GAF",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Jenna"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE, JENNA"
+        },
+        {
+          "date": "6/6/93",
+          "departure": "GAF",
+          "arrival": "PBJ",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Steve", "Sarah"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, STEVE, SARAH"
+        },
+        {
+          "date": "6/7/93",
+          "departure": "PBJ",
+          "arrival": "GAF",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Steve", "Sarah", "1 Female"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, STEVE, SARAH, 1 Female"
+        },
+        {
+          "date": "6/8/93",
+          "departure": "GAF",
+          "arrival": "GSH",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Sarah", "1 Female"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, SARAH, 1 Female"
+        },
+        {
+          "date": "6/9/93",
+          "departure": "GSH",
+          "arrival": "GAF",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Sarah", "1 Female"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, SARAH, 1 Female"
+        },
+        {
+          "date": "6/10/93",
+          "departure": "GAF",
+          "arrival": "PBJ",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Angie", "1 Female", "1 Female"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, ANGIE, 1 Female, 1 Female"
+        },
+        {
+          "date": "6/11/93",
+          "departure": "PBJ",
+          "arrival": "SGD",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Lisa", "Sarah", "1 Female"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, LISA, SARAH, 1 Female"
+        },
+        {
+          "date": "6/12/93",
+          "departure": "SGD",
+          "arrival": "PBJ",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Lisa", "Sarah", "1 Female"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, LISA, SARAH, 1 Female"
+        },
+        {
+          "date": "6/15/93",
+          "departure": "PBJ",
+          "arrival": "GAF",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "1 Female"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, 1 Female"
+        },
+        {
+          "date": "6/16/93",
+          "departure": "GAF",
+          "arrival": "SGD",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Celine", "Jacinta"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, CELINE, JACINTA"
+        },
+        {
+          "date": "6/17/93",
+          "departure": "SGD",
+          "arrival": "ELU",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Celine", "1 Female", "Amy"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, CELINE, 1 Female, AMY"
+        },
+        {
+          "date": "6/18/93",
+          "departure": "ELU",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "5.0 hrs",
+          "passengers": ["Jeffrey", "Celine", "1 Female", "Amy"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, CELINE, 1 Female, AMY"
+        },
+        {
+          "date": "6/19/93",
+          "departure": "TED",
+          "arrival": "ECG",
+          "aircraft": "N908JE",
+          "flight_time": "6.0 hrs",
+          "passengers": ["Jeffrey", "Celine", "1 Female", "Amy"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, CELINE, 1 Female, AMY"
+        },
+        {
+          "date": "6/20/93",
+          "departure": "ECG",
+          "arrival": "PBJ",
+          "aircraft": "N908JE",
+          "flight_time": "3.0 hrs",
+          "passengers": ["Jeffrey", "Celine", "1 Female", "Amy"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, CELINE, 1 Female, AMY"
+        },
+        {
+          "date": "6/21/93",
+          "departure": "PBJ",
+          "arrival": "HAF",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Celine", "1 Female", "Amy"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, CELINE, 1 Female, AMY"
+        }
+      ],
+      "date_header": "DATE 1993 JUN",
+      "date_range": "June 1993",
+      "starting_month": "June",
+      "starting_year": "1993"
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey",
+        "context": "Primary passenger appearing in all flights",
+        "occurrences": 19
+      },
+      {
+        "name": "Ghislaine",
+        "context": "Frequent passenger - appears early in month",
+        "occurrences": 5
+      },
+      {
+        "name": "Virginia",
+        "context": "Passenger - continues from previous months",
+        "occurrences": 1
+      },
+      {
+        "name": "Sally",
+        "context": "New passenger - first appearance",
+        "occurrences": 1
+      },
+      {
+        "name": "Jenna",
+        "context": "Passenger - first appearance",
+        "occurrences": 1
+      },
+      {
+        "name": "Steve",
+        "context": "Passenger - continues from previous months",
+        "occurrences": 2
+      },
+      {
+        "name": "Sarah",
+        "context": "Frequent passenger - continues pattern",
+        "occurrences": 5
+      },
+      {
+        "name": "Angie",
+        "context": "Passenger - first appearance",
+        "occurrences": 1
+      },
+      {
+        "name": "Lisa",
+        "context": "Passenger - appears multiple times",
+        "occurrences": 2
+      },
+      {
+        "name": "Celine",
+        "context": "Passenger - travels extensively mid-month",
+        "occurrences": 5
+      },
+      {
+        "name": "Jacinta",
+        "context": "Passenger - travels with Celine",
+        "occurrences": 1
+      },
+      {
+        "name": "Amy",
+        "context": "Passenger - continues from previous months, travels with Celine",
+        "occurrences": 5
+      },
+      {
+        "name": "David Rodgers",
+        "context": "Pilot signature",
+        "occurrences": 1
+      },
+      {
+        "name": "1 Female",
+        "context": "Anonymous female passengers - multiple instances indicating unnamed individuals",
+        "occurrences": 10
+      }
+    ],
+    "locations": [
+      {
+        "code": "TCB",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "TED",
+        "context": "Primary hub - continues as frequent destination"
+      },
+      {
+        "code": "CSH",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "GAF",
+        "context": "Airport code - very frequent location in March"
+      },
+      {
+        "code": "GSH",
+        "context": "Airport code - frequent location"
+      },
+      {
+        "code": "SGD",
+        "context": "Airport code - continues from previous months"
+      },
+      {
+        "code": "PBJ",
+        "context": "Airport code - frequent destination continues"
+      },
+      {
+        "code": "ELU",
+        "context": "Airport code - new location"
+      },
+      {
+        "code": "ECG",
+        "context": "Airport code - continues from previous months"
+      },
+      {
+        "code": "HAF",
+        "context": "Airport code - new location"
+      }
+    ],
+    "aircraft": [
+      {
+        "registration": "N908JE",
+        "context": "Primary aircraft used for all flights"
+      }
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "signature": "David Rodgers",
+        "context": "Pilot's signature at bottom of page",
+        "deciphered": true
+      }
+    ],
+    "stamps": [],
+    "handwriting_analysis": "Consistent handwriting throughout, same person filling out all entries. Notable pattern of using '1 Female' to denote unnamed female passengers.",
+    "page_totals": {
+      "mileage": "95.5 + 95.0 = 190.5",
+      "total_to_date": "7945 + 1911 = 9856"
+    }
+  },
+  "metadata": {
+    "time_period": "June 1993",
+    "total_flights": 19,
+    "unique_passengers": 14,
+    "primary_aircraft": "N908JE",
+    "pilot": "David Rodgers"
+  },
+  "insights": [
+    "June 1993 flights - logical continuation from May",
+    "Significant increase in anonymous '1 Female' passengers (10 instances)",
+    "GAF becomes most frequent location with 6 appearances",
+    "Celine travels extensively in latter half of March (5 flights)",
+    "Amy continues traveling pattern from previous months",
+    "Multi-day trips with same passenger groups (Celine + 1 Female + Amy)",
+    "Pattern of short-haul flights between Caribbean locations",
+    "Anonymous passenger notation suggests privacy concerns or incomplete records",
+    "Steve continues intermittent appearances",
+    "Virginia appears only once in March after frequent February travel",
+    "Flight totals continue accumulating - approaching 10,000 total miles"
+  ]
+}

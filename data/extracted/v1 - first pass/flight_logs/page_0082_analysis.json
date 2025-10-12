@@ -1,0 +1,292 @@
+{
+  "page_number": 82,
+  "date_header": "APRIL-MAY 2001",
+  "time_period": "April 2001 - May 2001",
+  "aircraft": {
+    "registration": "Multiple (G-1159B N908JE, C141316 N908GM, G-1159B N909JE)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "APR 5",
+      "date": "04/05/2001",
+      "departure": "G-1159B",
+      "arrival": "N908JE",
+      "flight_time": "1486",
+      "remarks": "BWD - TEB - JG",
+      "passengers": ["JG"],
+      "crew": "9"
+    },
+    {
+      "entry_number": "5",
+      "date": "04/05/2001",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1487",
+      "remarks": "PBI - JG, ET, DR",
+      "passengers": ["JG", "ET", "DR"],
+      "crew": "2/3"
+    },
+    {
+      "entry_number": "6",
+      "date": "04/06/2001",
+      "departure": "C141316",
+      "arrival": "N908GM",
+      "flight_time": "",
+      "remarks": "PBI - CLL - CASEY PATTERSON, JENNIFER, LISA, ALEXIS",
+      "passengers": ["CASEY PATTERSON", "JENNIFER", "LISA", "ALEXIS"],
+      "crew": "4"
+    },
+    {
+      "entry_number": "6",
+      "date": "04/06/2001",
+      "departure": "",
+      "arrival": "CLL",
+      "flight_time": "",
+      "remarks": "PBI - LARRY MILLER, TONY DELFITANO, LARRY LARRY SARAH HELEN, TONY, BEC ALFRONSO",
+      "passengers": ["LARRY MILLER", "TONY DELFITANO", "LARRY", "SARAH HELEN", "TONY", "BEC ALFRONSO"],
+      "crew": "6"
+    },
+    {
+      "entry_number": "9",
+      "date": "04/09/2001",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1483",
+      "remarks": "PBI - ACY - JG, GM, VR, DR, GUMMY",
+      "passengers": ["JG", "GM", "VR", "DR", "GUMMY"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "9",
+      "date": "04/09/2001",
+      "departure": "",
+      "arrival": "ACY",
+      "flight_time": "1489",
+      "remarks": "TEB - JG, GM, VR, AK, GUMMY",
+      "passengers": ["JG", "GM", "VR", "AK", "GUMMY"],
+      "crew": "7"
+    },
+    {
+      "entry_number": "11",
+      "date": "04/11/2001",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1486",
+      "remarks": "TIST - JG, GM, AY, AK, VR, JENNY",
+      "passengers": ["JG", "GM", "AY", "AK", "VR", "JENNY"],
+      "crew": "3/5"
+    },
+    {
+      "entry_number": "16",
+      "date": "04/16/2001",
+      "departure": "",
+      "arrival": "TIST",
+      "flight_time": "1491",
+      "remarks": "PBI - JG, GM, AY, VF, BL, CAMERON, ROSE",
+      "passengers": ["JG", "GM", "AY", "VF", "BL", "CAMERON", "ROSE"],
+      "crew": "2/7"
+    },
+    {
+      "entry_number": "17",
+      "date": "04/17/2001",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1492",
+      "remarks": "TEB - JG, GM, ET, AY, BL, CB, NEIL ATKINSON, CAMERON, ROSE, ALEXANDRA",
+      "passengers": ["JG", "GM", "ET", "AY", "BL", "CB", "NEIL ATKINSON", "CAMERON", "ROSE", "ALEXANDRA"],
+      "crew": "2/9"
+    },
+    {
+      "entry_number": "20",
+      "date": "04/20/2001",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1493",
+      "remarks": "PBI - JG, GM, ET, BL",
+      "passengers": ["JG", "GM", "ET", "BL"],
+      "crew": "2/3"
+    },
+    {
+      "entry_number": "23",
+      "date": "04/23/2001",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1494",
+      "remarks": "CRL - JG, GM, GT, AY, VR",
+      "passengers": ["JG", "GM", "GT", "AY", "VR"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "23",
+      "date": "04/23/2001",
+      "departure": "",
+      "arrival": "CRL",
+      "flight_time": "1495",
+      "remarks": "TEB - JG, GM, GT, KYLE, HENRY JANCOURT, STACY",
+      "passengers": ["JG", "GM", "GT", "KYLE", "HENRY JANCOURT", "STACY"],
+      "crew": "2/2"
+    },
+    {
+      "entry_number": "27",
+      "date": "04/27/2001",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1496",
+      "remarks": "SAF - JG",
+      "passengers": ["JG"],
+      "crew": "3/9"
+    },
+    {
+      "entry_number": "29",
+      "date": "04/29/2001",
+      "departure": "",
+      "arrival": "SAF",
+      "flight_time": "",
+      "remarks": "VNY - JG, BK, KELLY BRIANS",
+      "passengers": ["JG", "BK", "KELLY BRIANS"],
+      "crew": "1/7"
+    },
+    {
+      "entry_number": "29",
+      "date": "04/29/2001",
+      "departure": "",
+      "arrival": "VNY",
+      "flight_time": "1497",
+      "remarks": "SAN - JG",
+      "passengers": ["JG"],
+      "crew": "7"
+    },
+    {
+      "entry_number": "MAY 2",
+      "date": "05/02/2001",
+      "departure": "",
+      "arrival": "SAN",
+      "flight_time": "1498",
+      "remarks": "LRT - JG",
+      "passengers": ["JG"],
+      "crew": "3/6"
+    },
+    {
+      "entry_number": "2",
+      "date": "05/02/2001",
+      "departure": "",
+      "arrival": "LRT",
+      "flight_time": "1500",
+      "remarks": "ADS - JG",
+      "passengers": ["JG"],
+      "crew": "9"
+    },
+    {
+      "entry_number": "3",
+      "date": "05/03/2001",
+      "departure": "",
+      "arrival": "ADS",
+      "flight_time": "1501",
+      "remarks": "SAF - JG, YARDEN HAP BEN BARATS",
+      "passengers": ["JG", "YARDEN HAP", "BEN BARATS"],
+      "crew": "9"
+    },
+    {
+      "entry_number": "5",
+      "date": "05/05/2001",
+      "departure": "",
+      "arrival": "SAF",
+      "flight_time": "1502",
+      "remarks": "PBI - JG, VR, SANDY RODRIGUEZ",
+      "passengers": ["JG", "VR", "SANDY RODRIGUEZ"],
+      "crew": "2/4"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JG",
+      "ET",
+      "DR",
+      "GM",
+      "VR",
+      "AK",
+      "AY",
+      "VF",
+      "BL",
+      "CB",
+      "GT",
+      "BK",
+      "CASEY PATTERSON",
+      "JENNIFER",
+      "LISA",
+      "ALEXIS",
+      "LARRY MILLER",
+      "TONY DELFITANO",
+      "LARRY",
+      "SARAH HELEN",
+      "TONY",
+      "BEC ALFRONSO",
+      "GUMMY",
+      "JENNY",
+      "CAMERON",
+      "ROSE",
+      "NEIL ATKINSON",
+      "ALEXANDRA",
+      "KYLE",
+      "HENRY JANCOURT",
+      "STACY",
+      "KELLY BRIANS",
+      "YARDEN HAP",
+      "BEN BARATS",
+      "SANDY RODRIGUEZ",
+      "David Rodgers"
+    ],
+    "locations": [
+      "BWD",
+      "TEB",
+      "PBI",
+      "CLL",
+      "ACY",
+      "TIST",
+      "CRL",
+      "SAF",
+      "VNY",
+      "SAN",
+      "LRT",
+      "ADS"
+    ],
+    "aircraft": [
+      "G-1159B",
+      "N908JE",
+      "C141316",
+      "N908GM",
+      "N909JE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "14/11",
+    "amount_forward": "8165",
+    "total_to_date": "8203",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page transitions from April to May 2001",
+    "VR (Virginia Roberts) appears multiple times throughout April",
+    "West Coast operations continue (VNY, SAN, LRT)",
+    "Caribbean operations to TIST continue",
+    "Multiple aircraft registrations used including N909JE variant",
+    "Flight numbers reach 1502",
+    "Mix of domestic and international operations",
+    "Large group flights with multiple passengers",
+    "Neil Atkinson appears as passenger",
+    "Henry Jancourt appears as passenger"
+  ]
+}

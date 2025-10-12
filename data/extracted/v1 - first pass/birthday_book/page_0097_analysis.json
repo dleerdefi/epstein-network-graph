@@ -1,0 +1,148 @@
+{
+  "page_number": 97,
+  "file_path": "data/birthday_book_images/page_0097.png",
+  "file_size_mb": 2.9058265686035156,
+  "type": "personal_photographs",
+  "content": {
+    "text": "No visible text",
+    "handwritten": false,
+    "typed": false,
+    "mixed": false,
+    "description": "Two personal photographs showing luxury car and casual lifestyle moments",
+    "text_sections": {
+      "full_transcription": "No visible text",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Individual with luxury car",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          97
+        ]
+      },
+      {
+        "name": "Person in casual poolside/outdoor setting",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          97
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      "Outdoor poolside area",
+      "Luxury car setting"
+    ],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Lifestyle and wealth display",
+    "theme": "luxury_casual_lifestyle",
+    "significance": "medium",
+    "document_type": "personal_photographs"
+  },
+  "insights": [
+    "Luxury car photograph suggests wealth and status symbols",
+    "Poolside casual photo indicates leisure lifestyle",
+    "Combination shows both formal wealth display and casual lifestyle",
+    "Personal photographs indicate close relationship with subject",
+    "Photos suggest affluent lifestyle and recreational activities"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000097",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.168055",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Person standing next to luxury Rolls Royce or similar high-end vehicle",
+        "theme": "wealth_status",
+        "setting": "outdoor",
+        "elements": [
+          "luxury_automobile"
+        ],
+        "individual_count": 1,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      },
+      {
+        "description": "Casual photo of person in poolside or outdoor recreational setting",
+        "theme": "leisure_lifestyle",
+        "setting": "poolside_outdoor",
+        "elements": [
+          "casual_attire",
+          "recreational_area"
+        ],
+        "individual_count": 1,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Two personal photographs mounted on page",
+    "Top photo: Young man with luxury car (Rolls Royce or Bentley)",
+    "Car has distinctive vertical grille and hood ornament",
+    "Person wearing casual shirt, standing by driver's door",
+    "Bottom photo: Shirtless man in swimwear at pool/patio area",
+    "Decorative wavy border between photos",
+    "Photos appear to be from 1970s-1980s based on style",
+    "Both photos show leisure/wealth lifestyle themes",
+    "Document stamped HOUSE_OVERSIGHT_000097",
+    "No text or captions visible"
+  ],
+  "investigative_leads": []
+}

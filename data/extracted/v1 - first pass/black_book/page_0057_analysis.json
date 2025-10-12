@@ -1,0 +1,622 @@
+{
+  "page_number": 57,
+  "section": "W",
+  "entries": [
+    {
+      "name": "Wasfingle, Lucy",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "33 Elsive Garden",
+          "street": "33 Elsive Garden",
+          "confidence": "medium"
+        },
+        {
+          "type": "secondary",
+          "address": "6 Gloucester Gate Road",
+          "street": "6 Gloucester Gate Road",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 617 528 6399 Lisa's cell",
+          "area_code": "617",
+          "geographic_indicator": "Boston, Massachusetts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Lucy Wasfingle - Lisa's cell reference",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["First address unclear"]
+      }
+    },
+    {
+      "name": "Waterman, Felicity",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1600 Ft. Stanmore",
+          "street": "1600 Ft. Stanmore",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 213 874 4078 (H)",
+          "area_code": "213",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "office",
+          "number": "001 310 899 4078 (O)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Felicity Waterman",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Watson, Victoria",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "299a King Edgar Road",
+          "street": "299a King Edgar Road",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Londres E10 6LN",
+          "city": "London",
+          "postal_code": "E10 6LN",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 681 1416 (H)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Victoria Watson - East London",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Webb, Veronica",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 917 838 3169 (p)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Veronica Webb",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Weidenfeld, Lord",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Flat 2a, 9 Chelsea Embankment",
+          "street": "Flat 2a, 9 Chelsea Embankment",
+          "city": "London",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "notes": "Lord Weidenfeld - Chelsea Embankment",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Weinberg, Jason",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "60 FSA Avenue",
+          "street": "60 FSA Avenue",
+          "confidence": "medium"
+        },
+        {
+          "type": "secondary",
+          "address": "Lexinton RE",
+          "location": "Lexinton RE",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "NY 10010",
+          "postal_code": "10010",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 310 686 1616 (w)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 916 996 0160 (cell)",
+          "area_code": "916",
+          "geographic_indicator": "Sacramento, California",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Email: helenk2@aol.com",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Jason Weinberg",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Address details unclear"]
+      }
+    },
+    {
+      "name": "Weinstab, Bob",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 841 9060 (o)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Bob Weinstab",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Weintraub, Harriet",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "322 So. Bentley",
+          "street": "322 So. Bentley",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "310 274 1071 (H)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        },
+        {
+          "type": "office",
+          "number": "310 470 4041 (W)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 838 1228 Office Re",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Harriet Weintraub - Beverly Hills and NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Westheimer, Ruth Dr.",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 861 9600",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Dr. Ruth Westheimer",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Weymouth, Mrs Lally",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 516 324 0268 (H)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island NY",
+          "confidence": "high"
+        },
+        {
+          "type": "office",
+          "number": "001 212 389 1088 (O)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Mrs Lally Weymouth",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "White Somers",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "10 Ashwell St.",
+          "street": "10 Ashwell St.",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "NY 413 190 [illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "914 935 5020 (Sarah)",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 737 001Marc 001",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "White Somers - Sarah reference",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Some phone details unclear"]
+      }
+    },
+    {
+      "name": "White, Victoria",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Madane@[illegible]",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Victoria White",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Email illegible"]
+      }
+    },
+    {
+      "name": "White, Michael",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 751 3311",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0035 371 1900",
+          "area_code": "0035",
+          "geographic_indicator": "Ireland",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Michael White",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "White, O'Gara, Victoria",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "St Louis Abbey",
+          "location": "St Louis Abbey",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Ballimie",
+          "location": "Ballimie",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Dublin",
+          "location": "Dublin",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "011 353 1275",
+          "area_code": "353",
+          "geographic_indicator": "Ireland",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Email: victora.ogara4@gmail.com",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Victoria O'Gara White - St Louis Abbey Dublin",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Whitworth, Kate & Wendy",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "30 Grant Ave Rm BNW",
+          "street": "30 Grant Ave Rm BNW",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0277 237 8813",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Email: kate@whitwworth.demon.co.uk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Kate & Wendy Whitworth",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Wiel, Jim",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Western Hills Agency",
+          "location": "Western Hills Agency",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 310 859 4000(o)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Jim Wiel - Western Hills Agency",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Wienberg Annekes and Mark",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0201 632 601100",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Annekes and Mark Wienberg",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone format unclear"]
+      }
+    },
+    {
+      "name": "Wiesel Dr Eli and Marion",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 371 7528",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Dr Eli and Marion Wiesel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Wigram Lionel and Claire",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "51 The Boltons",
+          "street": "51 The Boltons",
+          "city": "London",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "011 813 602 647430",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "011 810 244 2433",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Lionel and Claire Wigram - The Boltons",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Phone formats unclear"]
+      }
+    },
+    {
+      "name": "Wigram, Lionel",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "104 N. Rexford Drive",
+          "street": "104 N. Rexford Drive",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Beverly Hills, CA, 90210",
+          "postal_code": "90210",
+          "city": "Beverly Hills",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 310 271 0011",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Lionel Wigram - Beverly Hills",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Williams Alexandra & Nick",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Mews Place",
+          "location": "Mews Place",
+          "confidence": "medium"
+        },
+        {
+          "type": "secondary",
+          "address": "Viceroy",
+          "location": "Viceroy",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "10 110/low [illegible]",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Alexandra & Nick Williams",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Address details unclear", "Phone illegible"]
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 21,
+    "illegible_entries": 0,
+    "partial_entries": 6,
+    "cross_references": ["Multiple White entries", "Multiple Wigram entries"],
+    "notable_individuals": [
+      "Lord Weidenfeld - Publisher, Chelsea Embankment",
+      "Dr. Ruth Westheimer - Sex therapist",
+      "Lally Weymouth - Journalist/Washington Post",
+      "Eli Wiesel - Nobel laureate"
+    ],
+    "geographic_distribution": {
+      "uk": 7,
+      "usa": 11,
+      "ireland": 2,
+      "other": 1
+    },
+    "location_highlights": [
+      "Chelsea Embankment - Lord Weidenfeld",
+      "The Boltons - prime London",
+      "Beverly Hills/Rexford Drive",
+      "Long Island connections",
+      "Dublin/Ireland presence",
+      "Boston connection"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 14,
+      "medium_confidence": 5,
+      "low_confidence": 2,
+      "specific_issues": [
+        "Several phone numbers unclear",
+        "Some address details incomplete",
+        "Multiple illegible email domains"
+      ]
+    }
+  }
+}

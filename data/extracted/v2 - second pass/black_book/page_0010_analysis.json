@@ -1,0 +1,1410 @@
+{
+  "page_number": 10,
+  "alphabetical_section": "C",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "010_caprice",
+      "name": {
+        "full_name": "Caprice",
+        "title": null,
+        "first_name": "Caprice",
+        "last_name": null,
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "0207 376 5542 (p)",
+          "type": "mobile",
+          "label": "p",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "London number marked as mobile",
+          "is_primary": true,
+          "formatting": "0207 376 5542 (p)"
+        },
+        {
+          "number": "001 310 344 0004 (p)",
+          "type": "mobile",
+          "label": "p",
+          "country_code": "+1",
+          "area_code": "310",
+          "extension": null,
+          "notes": "Los Angeles area mobile",
+          "is_primary": false,
+          "formatting": "001 310 344 0004 (p)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_carello_sara_massimo",
+      "name": {
+        "full_name": "Carello Sarah Massimo",
+        "title": null,
+        "first_name": "Sara",
+        "last_name": "Carello",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "0207-584 6918",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "London landline",
+          "is_primary": true,
+          "formatting": "0207-584 6918"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_carello_paolo_massimo",
+      "name": {
+        "full_name": "Carello Sig.Paolo & Massimo",
+        "title": "Sig.",
+        "first_name": "Paolo & Massimo",
+        "last_name": "Carello",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "Carey, William & Carina",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Text appears to be misplaced name entry",
+          "is_primary": false,
+          "formatting": "Carey, William & Carina"
+        },
+        {
+          "number": "01 Willow Street",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Address fragment",
+          "is_primary": false,
+          "formatting": "01 Willow Street"
+        },
+        {
+          "number": "London SW1",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Address continuation",
+          "is_primary": false,
+          "formatting": "London SW1"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": "good"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_carlbom_camilla",
+      "name": {
+        "full_name": "Carlbom Camilla",
+        "title": null,
+        "first_name": "Camilla",
+        "last_name": "Carlbom",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "00 39 335 6587760 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+39",
+          "area_code": "335",
+          "extension": null,
+          "notes": "Italian mobile - home",
+          "is_primary": true,
+          "formatting": "00 39 335 6587760 (h)"
+        },
+        {
+          "number": "001 212 744 5635",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC",
+          "is_primary": false,
+          "formatting": "001 212 744 5635"
+        },
+        {
+          "number": "001 917 0011",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+1",
+          "area_code": "917",
+          "extension": null,
+          "notes": "NYC mobile - incomplete",
+          "is_primary": false,
+          "formatting": "001 917 0011"
+        },
+        {
+          "number": "The Laura Row",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Location or venue name",
+          "is_primary": false,
+          "formatting": "The Laura Row"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_carmine",
+      "name": {
+        "full_name": "Carmine",
+        "title": null,
+        "first_name": "Carmine",
+        "last_name": null,
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "00 39 335882790",
+          "type": "mobile",
+          "label": "",
+          "country_code": "+39",
+          "area_code": "335",
+          "extension": null,
+          "notes": "Italian mobile",
+          "is_primary": true,
+          "formatting": "00 39 335882790"
+        },
+        {
+          "number": "00 39 02455076",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+39",
+          "area_code": "02",
+          "extension": null,
+          "notes": "Milan landline",
+          "is_primary": false,
+          "formatting": "00 39 02455076"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_carrera_barbara",
+      "name": {
+        "full_name": "Carrera, Barbara",
+        "title": null,
+        "first_name": "Barbara",
+        "last_name": "Carrera",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "001 212 245 9997",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC",
+          "is_primary": true,
+          "formatting": "001 212 245 9997"
+        },
+        {
+          "number": "001 914 318 5887 (fax)",
+          "type": "fax",
+          "label": "fax",
+          "country_code": "+1",
+          "area_code": "914",
+          "extension": null,
+          "notes": "Westchester County, NY fax",
+          "is_primary": false,
+          "formatting": "001 914 318 5887 (fax)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_caruth_sophie",
+      "name": {
+        "full_name": "Caruth, Sophie",
+        "title": null,
+        "first_name": "Sophie",
+        "last_name": "Caruth",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "G-18 Iama",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Possible unit/building identifier",
+          "is_primary": false,
+          "formatting": "G-18 Iama"
+        },
+        {
+          "number": "148 Duke Wid Road",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Street address",
+          "is_primary": false,
+          "formatting": "148 Duke Wid Road"
+        },
+        {
+          "number": "Hammersmith Common",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "London area",
+          "is_primary": false,
+          "formatting": "Hammersmith Common"
+        },
+        {
+          "number": "0207 5675 5005",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "London landline",
+          "is_primary": true,
+          "formatting": "0207 5675 5005"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "G-18 Iama, 148 Duke Wid Road, Hammersmith Common",
+          "street_line1": "148 Duke Wid Road",
+          "street_line2": "G-18 Iama",
+          "city": "London",
+          "state_province": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Hammersmith area"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_carvalho_michel_charlene",
+      "name": {
+        "full_name": "Carvalho, Michel & Charlene",
+        "title": null,
+        "first_name": "Michel & Charlene",
+        "last_name": "Carvalho",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "00 41 78 6071 09",
+          "type": "mobile",
+          "label": "",
+          "country_code": "+41",
+          "area_code": "78",
+          "extension": null,
+          "notes": "Swiss mobile",
+          "is_primary": true,
+          "formatting": "00 41 78 6071 09"
+        },
+        {
+          "number": "Nyon Avenue",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Address fragment",
+          "is_primary": false,
+          "formatting": "Nyon Avenue"
+        },
+        {
+          "number": "00 39 0577 75066",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+39",
+          "area_code": "0577",
+          "extension": null,
+          "notes": "Italian landline",
+          "is_primary": false,
+          "formatting": "00 39 0577 75066"
+        },
+        {
+          "number": "00 39 348 4301",
+          "type": "mobile",
+          "label": "",
+          "country_code": "+39",
+          "area_code": "348",
+          "extension": null,
+          "notes": "Italian mobile - incomplete",
+          "is_primary": false,
+          "formatting": "00 39 348 4301"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_casagrande_guido",
+      "name": {
+        "full_name": "Casagrande, Guido",
+        "title": null,
+        "first_name": "Guido",
+        "last_name": "Casagrande",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "73 Via Borgonuovo",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Milan street address",
+          "is_primary": false,
+          "formatting": "73 Via Borgonuovo"
+        },
+        {
+          "number": "Milan 20121",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Milan postal code",
+          "is_primary": false,
+          "formatting": "Milan 20121"
+        },
+        {
+          "number": "00 39 338 6446107",
+          "type": "mobile",
+          "label": "",
+          "country_code": "+39",
+          "area_code": "338",
+          "extension": null,
+          "notes": "Italian mobile",
+          "is_primary": true,
+          "formatting": "00 39 338 6446107"
+        },
+        {
+          "number": "00 39 02 8764801",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+39",
+          "area_code": "02",
+          "extension": null,
+          "notes": "Milan landline",
+          "is_primary": false,
+          "formatting": "00 39 02 8764801"
+        },
+        {
+          "number": "00 631 1940(h)",
+          "type": "home",
+          "label": "h",
+          "country_code": null,
+          "area_code": "631",
+          "extension": null,
+          "notes": "Unclear country - possibly US Suffolk County",
+          "is_primary": false,
+          "formatting": "00 631 1940(h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "73 Via Borgonuovo, Milan 20121",
+          "street_line1": "73 Via Borgonuovo",
+          "street_line2": null,
+          "city": "Milan",
+          "state_province": null,
+          "postal_code": "20121",
+          "country": "Italy",
+          "notes": "Milan city center"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_case_simon",
+      "name": {
+        "full_name": "Case Simon",
+        "title": null,
+        "first_name": "Simon",
+        "last_name": "Case",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "00 29 81198 0685",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+29",
+          "area_code": null,
+          "extension": null,
+          "notes": "Unusual country code",
+          "is_primary": true,
+          "formatting": "00 29 81198 0685"
+        },
+        {
+          "number": "00 23 82185 0002",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+23",
+          "area_code": null,
+          "extension": null,
+          "notes": "Unusual country code",
+          "is_primary": false,
+          "formatting": "00 23 82185 0002"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": "good"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_case_george_pauline",
+      "name": {
+        "full_name": "Case, George & Pauline",
+        "title": null,
+        "first_name": "George & Pauline",
+        "last_name": "Case",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "London W8",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "London postal area",
+          "is_primary": false,
+          "formatting": "London W8"
+        },
+        {
+          "number": "0207 224 8225",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "London landline",
+          "is_primary": true,
+          "formatting": "0207 224 8225"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "London W8",
+          "street_line1": null,
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "W8",
+          "country": "UK",
+          "notes": "Kensington area"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_castaneda_debbie",
+      "name": {
+        "full_name": "Castaneda Debbie",
+        "title": null,
+        "first_name": "Debbie",
+        "last_name": "Castaneda",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "01672 521 237",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+44",
+          "area_code": "01672",
+          "extension": null,
+          "notes": "UK landline - Marlborough area",
+          "is_primary": true,
+          "formatting": "01672 521 237"
+        },
+        {
+          "number": "335 634 9863",
+          "type": "unknown",
+          "label": "",
+          "country_code": null,
+          "area_code": "335",
+          "extension": null,
+          "notes": "Partial number",
+          "is_primary": false,
+          "formatting": "335 634 9863"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_cecil_mark_dr",
+      "name": {
+        "full_name": "Cecil, Dr. Mark",
+        "title": "Dr.",
+        "first_name": "Mark",
+        "last_name": "Cecil",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "London",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Location indicator",
+          "is_primary": false,
+          "formatting": "London"
+        },
+        {
+          "number": "071 224 6420 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+44",
+          "area_code": "071",
+          "extension": null,
+          "notes": "Old London area code - home",
+          "is_primary": true,
+          "formatting": "071 224 6420 (h)"
+        },
+        {
+          "number": "0171 209 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+44",
+          "area_code": "0171",
+          "extension": null,
+          "notes": "Old London code - incomplete",
+          "is_primary": false,
+          "formatting": "0171 209 (h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "2 Devonshire Close, London",
+          "street_line1": "2 Devonshire Close",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Central London"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_cecil_alby_victoria",
+      "name": {
+        "full_name": "Cecir, Alby and Victoria",
+        "title": null,
+        "first_name": "Alby and Victoria",
+        "last_name": "Cecir",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "14 Avenue Road",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Street address",
+          "is_primary": false,
+          "formatting": "14 Avenue Road"
+        },
+        {
+          "number": "London NW8 6BP",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "London postal code",
+          "is_primary": false,
+          "formatting": "London NW8 6BP"
+        },
+        {
+          "number": "0207 586 4477 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "London home",
+          "is_primary": true,
+          "formatting": "0207 586 4477 (h)"
+        },
+        {
+          "number": "01925 752227 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+44",
+          "area_code": "01925",
+          "extension": null,
+          "notes": "UK landline - Warrington area",
+          "is_primary": false,
+          "formatting": "01925 752227 (h)"
+        },
+        {
+          "number": "07711 052277 (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": "+44",
+          "area_code": "07711",
+          "extension": null,
+          "notes": "UK mobile - work",
+          "is_primary": false,
+          "formatting": "07711 052277 (w)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "alhycecir@btinternet.com",
+          "type": "personal",
+          "domain": "btinternet.com",
+          "notes": "BT Internet service"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "14 Avenue Road, London NW8 6BP",
+          "street_line1": "14 Avenue Road",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "NW8 6BP",
+          "country": "UK",
+          "notes": "St John's Wood area"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "complete",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_cerina_fabrizio",
+      "name": {
+        "full_name": "Cerina, Fabrizio",
+        "title": null,
+        "first_name": "Fabrizio",
+        "last_name": "Cerina",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "Via Denza 1",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Street address in Italy",
+          "is_primary": false,
+          "formatting": "Via Denza 1"
+        },
+        {
+          "number": "Rome",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "City",
+          "is_primary": false,
+          "formatting": "Rome"
+        },
+        {
+          "number": "00 39 06 687605(h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+39",
+          "area_code": "06",
+          "extension": null,
+          "notes": "Rome home",
+          "is_primary": true,
+          "formatting": "00 39 06 687605(h)"
+        },
+        {
+          "number": "00 39 335 6126950",
+          "type": "mobile",
+          "label": "",
+          "country_code": "+39",
+          "area_code": "335",
+          "extension": null,
+          "notes": "Italian mobile",
+          "is_primary": false,
+          "formatting": "00 39 335 6126950"
+        },
+        {
+          "number": "001411 456 7260(h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "+1",
+          "area_code": "411",
+          "extension": null,
+          "notes": "US number - unusual area code",
+          "is_primary": false,
+          "formatting": "001411 456 7260(h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "Via Denza 1, Rome",
+          "street_line1": "Via Denza 1",
+          "street_line2": null,
+          "city": "Rome",
+          "state_province": null,
+          "postal_code": null,
+          "country": "Italy",
+          "notes": "Rome residence"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_cecil_mark_mini",
+      "name": {
+        "full_name": "Cecil Mark & Mini",
+        "title": null,
+        "first_name": "Mark & Mini",
+        "last_name": "Cecil",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "PO Box 67425",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "PO Box address",
+          "is_primary": false,
+          "formatting": "PO Box 67425"
+        },
+        {
+          "number": "Beverly Hills",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Location",
+          "is_primary": false,
+          "formatting": "Beverly Hills"
+        },
+        {
+          "number": "00 39 348 2225304",
+          "type": "mobile",
+          "label": "",
+          "country_code": "+39",
+          "area_code": "348",
+          "extension": null,
+          "notes": "Italian mobile",
+          "is_primary": true,
+          "formatting": "00 39 348 2225304"
+        },
+        {
+          "number": "00 631 19401",
+          "type": "unknown",
+          "label": "",
+          "country_code": null,
+          "area_code": "631",
+          "extension": null,
+          "notes": "Unclear country - possibly US Suffolk County",
+          "is_primary": false,
+          "formatting": "00 631 19401"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "mailing",
+          "label": "",
+          "full_address": "PO Box 67425, Beverly Hills",
+          "street_line1": "PO Box 67425",
+          "street_line2": null,
+          "city": "Beverly Hills",
+          "state_province": "CA",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Mailing address"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_cecil_stephenson_aurelia",
+      "name": {
+        "full_name": "Cecil Stephenson, Aurelia",
+        "title": null,
+        "first_name": "Aurelia",
+        "last_name": "Cecil Stephenson",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "The Green Hall",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Property name",
+          "is_primary": false,
+          "formatting": "The Green Hall"
+        },
+        {
+          "number": "Burnett",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Location",
+          "is_primary": false,
+          "formatting": "Burnett"
+        },
+        {
+          "number": "Banstead",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Town",
+          "is_primary": false,
+          "formatting": "Banstead"
+        },
+        {
+          "number": "01760 254335",
+          "type": "unknown",
+          "label": "",
+          "country_code": "+44",
+          "area_code": "01760",
+          "extension": null,
+          "notes": "UK landline - Norfolk area",
+          "is_primary": true,
+          "formatting": "01760 254335"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "The Green Hall, Burnett, Banstead",
+          "street_line1": "The Green Hall",
+          "street_line2": "Burnett",
+          "city": "Banstead",
+          "state_province": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Country estate"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "010_cerutti_gian_carlo",
+      "name": {
+        "full_name": "Cerutti Gian Carlo",
+        "title": null,
+        "first_name": "Gian Carlo",
+        "last_name": "Cerutti",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "120 Place St",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Street address fragment",
+          "is_primary": false,
+          "formatting": "120 Place St"
+        },
+        {
+          "number": "New York, NY 10028",
+          "type": "other",
+          "label": "",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "NYC address",
+          "is_primary": false,
+          "formatting": "New York, NY 10028"
+        },
+        {
+          "number": "001 212 288255(w)",
+          "type": "work",
+          "label": "w",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC work - incomplete",
+          "is_primary": true,
+          "formatting": "001 212 288255(w)"
+        },
+        {
+          "number": "00 39 142 459439 (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": "+39",
+          "area_code": "142",
+          "extension": null,
+          "notes": "Italian work number",
+          "is_primary": false,
+          "formatting": "00 39 142 459439 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "120 Place St, New York, NY 10028",
+          "street_line1": "120 Place St",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": "10028",
+          "country": "USA",
+          "notes": "Upper East Side"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 17,
+    "legibility": "excellent",
+    "notable_features": [
+      "Mix of Italian, UK, US, and Swiss contacts",
+      "Several couples listed together",
+      "Dr. Mark Cecil appears twice - as individual and with Mini",
+      "Many Italian mobile numbers (335, 338, 348 prefixes)",
+      "Multiple incomplete phone numbers",
+      "Mix of old UK area codes (071, 0171) and current (0207)"
+    ],
+    "extraction_timestamp": "2024-12-29T12:00:00Z",
+    "extractor_version": "2.0"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Caprice",
+      "Rosa Carello",
+      "Sara Carello",
+      "Massimo Carello",
+      "Paolo Carello",
+      "Camilla Carlbom",
+      "Carmine",
+      "Barbara Carrera",
+      "Sophie Caruth",
+      "Michel Carvalho",
+      "Charlene Carvalho",
+      "Guido Casagrande",
+      "Simon Case",
+      "George Case",
+      "Pauline Case",
+      "Debbie Castaneda",
+      "Dr. Mark Cecil",
+      "Alby Cecir",
+      "Victoria Cecir",
+      "Fabrizio Cerina",
+      "Mark Cecil",
+      "Mini Cecil",
+      "Aurelia Cecil Stephenson",
+      "Gian Carlo Cerutti"
+    ],
+    "organizations": [],
+    "locations": [
+      "London",
+      "Milan",
+      "Rome",
+      "Beverly Hills",
+      "New York",
+      "Switzerland",
+      "Hammersmith",
+      "Kensington",
+      "St John's Wood",
+      "Banstead",
+      "Norfolk"
+    ]
+  },
+  "insights": [
+    "Page 10 contains 17 contact entries in the C section",
+    "Strong Italian presence with multiple Milan and Rome contacts",
+    "Several medical/professional titles (Dr. Mark Cecil)",
+    "Mix of complete and partial phone numbers suggests ongoing updates",
+    "Multiple formats for international dialing (00 prefix vs country codes)",
+    "Several couples listed together indicating social/family connections"
+  ]
+}

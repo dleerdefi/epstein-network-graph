@@ -1,0 +1,287 @@
+{
+  "page_number": 43,
+  "document_type": "Flight Log",
+  "metadata": {
+    "time_period": "August - September 1996",
+    "header_date": "1996 JUN",
+    "pilot": "David Rodgers",
+    "aircraft_registration": "N908JE",
+    "aircraft_make_model": "G1159B",
+    "total_flight_time_page": "28:06",
+    "amt_forward": "6724:23",
+    "total_to_date": "6752:29"
+  },
+  "flights": [
+    {
+      "date": "08/18/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "MVY",
+      "arrival": "TEB",
+      "flight_time": ":05",
+      "passengers": "JE, PHILIP ANTHONY, GEORGE HOUSE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "08/18/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:02",
+      "passengers": "JE, CELINA MIDDLEEAST",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "08/21/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "JAN",
+      "flight_time": "1:07",
+      "passengers": "JE, GM, ROBERT PLANK",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "08/21/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "JAN",
+      "arrival": "SAF",
+      "flight_time": "1:09",
+      "passengers": "JE, GM, ROBERT PLANK",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "08/26/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "SAF",
+      "arrival": "PBI",
+      "flight_time": "3:03",
+      "passengers": "JE, GM, ROBERT PLANK",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "08/28/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:03",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "09/07/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "BED",
+      "flight_time": ":06",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "09/07/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "BED",
+      "arrival": "PVD",
+      "flight_time": ":03",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "09/08/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PVD",
+      "arrival": "CMH",
+      "flight_time": "1:05",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "09/08/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "CMH",
+      "arrival": "DCA",
+      "flight_time": ":07",
+      "passengers": "JE, 1 MALE, 1 FEMALE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "09/08/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "DCA",
+      "arrival": "CMH",
+      "flight_time": ":06",
+      "passengers": "JE, KEVIN GULLIONI, REX GLENDINNI",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "09/08/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "CMH",
+      "arrival": "TEB",
+      "flight_time": "1:01",
+      "passengers": "JE, ALAN DERSHOWITZ",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "09/09/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "BOS",
+      "flight_time": ":06",
+      "passengers": "ALAN DERSHOWITZ",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "09/09/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "BOS",
+      "arrival": "TEB",
+      "flight_time": ":08",
+      "passengers": "WENDY TEA",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "09/12/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:03",
+      "passengers": "JE, CELINA MIDDLEEAST",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": ""
+    },
+    {
+      "date": "09/18/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:03",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "09/20/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:01",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "09/23/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "BED",
+      "flight_time": "2:06",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "09/23/1996",
+      "aircraft": "G1159B N908JE",
+      "departure": "BED",
+      "arrival": "TEB",
+      "flight_time": ":04",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    }
+  ],
+  "entities": {
+    "people": [
+      {"name": "Jeffrey Epstein", "abbreviation": "JE", "role": "Primary passenger"},
+      {"name": "Ghislaine Maxwell", "abbreviation": "GM", "role": "Frequent passenger"},
+      {"name": "Philip Anthony", "role": "Passenger"},
+      {"name": "George House", "role": "Passenger"},
+      {"name": "Celina Middleeast", "role": "Passenger (multiple flights)"},
+      {"name": "Robert Plank", "role": "Passenger (multiple flights)"},
+      {"name": "Kevin Gullioni", "role": "Passenger"},
+      {"name": "Rex Glendinni", "role": "Passenger"},
+      {"name": "Alan Dershowitz", "role": "Passenger (prominent attorney)"},
+      {"name": "Wendy Tea", "role": "Passenger"},
+      {"name": "David Rodgers", "role": "Pilot"}
+    ],
+    "locations": [
+      {"code": "MVY", "name": "Martha's Vineyard Airport", "location": "Martha's Vineyard, MA"},
+      {"code": "TEB", "name": "Teterboro Airport", "location": "Teterboro, NJ"},
+      {"code": "PBI", "name": "Palm Beach International Airport", "location": "West Palm Beach, FL"},
+      {"code": "JAN", "name": "Jackson-Medgar Wiley Evers International Airport", "location": "Jackson, MS"},
+      {"code": "SAF", "name": "Santa Fe Regional Airport", "location": "Santa Fe, NM"},
+      {"code": "BED", "name": "Laurence G. Hanscom Field", "location": "Bedford, MA"},
+      {"code": "PVD", "name": "T. F. Green Airport", "location": "Providence, RI"},
+      {"code": "CMH", "name": "John Glenn Columbus International Airport", "location": "Columbus, OH"},
+      {"code": "DCA", "name": "Ronald Reagan Washington National Airport", "location": "Washington, DC"},
+      {"code": "BOS", "name": "Logan International Airport", "location": "Boston, MA"}
+    ],
+    "aircraft": [
+      {"registration": "N908JE", "type": "Gulfstream G1159B", "category": "Private Jet"}
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {"location": "bottom_left", "description": "David Rodgers pilot signature", "legibility": "clear"}
+    ],
+    "stamps": [],
+    "markings": [
+      {"type": "page_number", "content": "43", "location": "bottom_center"},
+      {"type": "total_time", "content": "28:06", "location": "bottom_right"}
+    ]
+  },
+  "insights": [
+    "Page transitions from August to September 1996",
+    "Alan Dershowitz appears as passenger on September 8-9",
+    "Multiple short hops on September 7-8 (BED-PVD-CMH-DCA-CMH-TEB)",
+    "Celina Middleeast appears on multiple flights",
+    "Robert Plank travels on multi-day trip (August 21-26)",
+    "Washington DC (DCA) appears as destination",
+    "Pattern of Northeast corridor flights (BOS, PVD, BED)",
+    "Solo Dershowitz flight from TEB to BOS",
+    "Jackson, MS (JAN) appears as destination",
+    "Complex routing patterns on September 8",
+    "Multiple same-day flights on August 18, 21, September 7, 8, 9, 23",
+    "Mix of business and personal travel continues"
+  ],
+  "corrections": {
+    "date_inference": "Page 43 covers August 18 through September 23, 1996",
+    "actual_dates_from_png": "Verified from PNG: August 18 (twice), 21 (twice), 26, 28, September 7 (twice), 8 (three times), 9 (twice), 12, 18, 20, 23 (twice)",
+    "continuity": "Continues from page 42 which ended August 18, 1996",
+    "correction_note": "Corrected to show August-September 1996 based on PNG verification"
+  },
+  "pilot_signature": "David Rodgers",
+  "page_total": "28:06 hours"
+}

@@ -1,0 +1,101 @@
+{
+  "page_number": 9,
+  "file_path": "data/birthday_book_images/page_0009.png",
+  "file_size_mb": 5.169857025146484,
+  "type": "childhood_photo_with_caption",
+  "content": {
+    "text": "JUL - 57\n\nThe first girlfriend?",
+    "handwritten": true,
+    "typed": true,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "JUL - 57\n\nThe first girlfriend?",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [
+      "JUL - 57",
+      "July 1957"
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Childhood photograph from July 1957 with humorous caption",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "childhood_photo_with_caption"
+  },
+  "insights": [
+    "Childhood photograph dated July 1957",
+    "Shows three children [on the left appears to be Jeffery Epstein as a young boy, in the middle is a younger boy at shoulder's length to the other two children, on the right is a young girl appears to be the same age and height as the boy on the left (believed to be JE)] in casual summer clothing",
+    "Handwritten caption 'The first girlfriend?' suggests humorous family memory",
+    "Black and white photo indicates mid-1950s timeframe",
+    "Brick wall background suggests residential or school setting",
+    "Personal family moment preserved in birthday book"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000009",
+  "processed_at": "2025-09-23 03:40:00",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.125294",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Black and white photograph of three young children standing against brick wall, two boys and one smaller child in middle",
+        "individual_count": 0,
+        "position_map": {},
+        "individuals_identified": [],
+        "setting": null,
+        "era_indicators": [],
+        "photo_quality": null,
+        "photo_type": null
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [],
+  "investigative_leads": []
+}

@@ -1,0 +1,197 @@
+{
+  "page_number": 94,
+  "section": "Personal Contacts - Handwritten",
+  "entries": [
+    {
+      "name": "Renee",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "(561) 738-6103",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Renee",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Kelly",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "(561) 707-1780",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Kelly",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Melissa",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "(561) 641-7698",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Melissa",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Debra",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "(561) 620-0378",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Debra",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Heidi",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "(954) 462-8582",
+          "area_code": "954",
+          "geographic_indicator": "Fort Lauderdale",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Heidi",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Kathy",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "(305) 467-0412",
+          "area_code": "305",
+          "geographic_indicator": "Miami",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Kathy",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Alice",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "(718) 345-3107",
+          "area_code": "718",
+          "geographic_indicator": "NYC outer boroughs",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Alice",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Caroline",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "(305) 321-4020",
+          "area_code": "305",
+          "geographic_indicator": "Miami",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Caroline",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 8,
+    "illegible_entries": 0,
+    "partial_entries": 0,
+    "sections": ["Handwritten Personal Contacts"],
+    "notable_entries": [
+      "All female names",
+      "Mix of South Florida contacts",
+      "One NYC area contact",
+      "Handwritten continuation from page 93"
+    ],
+    "geographic_distribution": {
+      "usa": 8,
+      "palm_beach": 4,
+      "miami": 2,
+      "fort_lauderdale": 1,
+      "nyc": 1
+    },
+    "location_highlights": [
+      "Palm Beach area concentration (561)",
+      "Miami contacts (305)",
+      "Fort Lauderdale contact (954)",
+      "NYC outer borough contact (718)"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 8,
+      "medium_confidence": 0,
+      "low_confidence": 0,
+      "specific_issues": []
+    }
+  }
+}

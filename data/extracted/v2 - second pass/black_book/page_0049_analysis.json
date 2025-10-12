@@ -1,0 +1,1079 @@
+{
+  "page_number": 49,
+  "alphabetical_section": "S",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "049_saltzman_elizabeth",
+      "name": {
+        "full_name": "Saltzman, Elizabeth",
+        "prefix": null,
+        "first_name": "Elizabeth",
+        "middle_name": null,
+        "last_name": "Saltzman",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207 243 5258",
+          "formatting": "0207 243 5258"
+        },
+        {
+          "type": "unknown",
+          "number": "0771 4503818",
+          "formatting": "0771 4503818"
+        },
+        {
+          "type": "unknown",
+          "number": "001 212 737 4810",
+          "formatting": "001 212 737 4810"
+        },
+        {
+          "type": "car",
+          "number": "001 917 917 5975",
+          "formatting": "001 917 371 5975 Car"
+        },
+        {
+          "type": "portable",
+          "number": "001 914 354 7033",
+          "formatting": "001 914 354 7033 (h)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 880 8968",
+          "formatting": "001 212 880 8968 (w)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 988 8889",
+          "formatting": "001 212 988 8889 (h)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 212 286 6150",
+          "formatting": "001 212 286 6150"
+        },
+        {
+          "type": "home",
+          "number": "001 217 235 0818",
+          "formatting": "001 217 235 0818 (h)"
+        },
+        {
+          "type": "unknown",
+          "number": "0771 4503818",
+          "formatting": "0771 4503818"
+        }
+      ],
+      "emails": [
+        {
+          "address": "elizabeth_saltzman@vf.com",
+          "type": "work",
+          "notes": "Vogue/Vanity Fair (Condé Nast) email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "35 Ladbroke Grdns",
+            "W11 2PX"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W11 2PX",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Fashion PR/Vogue publicist - extensive contact info UK/NYC"
+    },
+    {
+      "entry_id": "049_samuels_mia",
+      "name": {
+        "full_name": "Samuels, Mia",
+        "prefix": null,
+        "first_name": "Mia",
+        "middle_name": null,
+        "last_name": "Samuels",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 580 6194",
+          "formatting": "001 212 580 6194 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'ABC Prime Time' - television producer/executive"
+    },
+    {
+      "entry_id": "049_sandelmar_jon_corrie",
+      "name": {
+        "full_name": "Sandelmar, Jon & Corrie",
+        "prefix": null,
+        "first_name": "Jon",
+        "middle_name": null,
+        "last_name": "Sandelmar",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Corrie"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 861 8008",
+          "formatting": "212 861 8008"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "635 Park Ave",
+            "New York, NY"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Park Avenue - Upper East Side elite address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "635 Park Avenue - prestigious address"
+    },
+    {
+      "entry_id": "049_sangster_guy_fi",
+      "name": {
+        "full_name": "Sangster, Guy & Fi",
+        "prefix": null,
+        "first_name": "Guy",
+        "middle_name": null,
+        "last_name": "Sangster",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Fi"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 498 9558",
+          "formatting": "0207 498 9558 (h)"
+        },
+        {
+          "type": "work",
+          "number": "0207 498 9298",
+          "formatting": "0207 498 9298 (w)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "sangster@saqnet.co.uk",
+          "type": "personal",
+          "notes": "saqnet UK email domain"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "19 Crescent Grove",
+            "London, England SW47AF"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW47AF",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Possibly related to Sangster, Mr Ben"
+    },
+    {
+      "entry_id": "049_sangster_ben",
+      "name": {
+        "full_name": "Sangster, Mr Ben",
+        "prefix": "Mr",
+        "first_name": "Ben",
+        "middle_name": null,
+        "last_name": "Sangster",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 352 0453",
+          "formatting": "0207 352 0453 (h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "13 Fernshaw Road",
+            "London, SW10 0TG"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW10 0TG",
+          "country": "UK",
+          "notes": "Chelsea address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Sangster family - possibly related to Guy & Fi Sangster"
+    },
+    {
+      "entry_id": "049_santo_domingo_julio_mario",
+      "name": {
+        "full_name": "Santo Domingo, Julio Mario",
+        "prefix": null,
+        "first_name": "Julio Mario",
+        "middle_name": null,
+        "last_name": "Santo Domingo",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 917 859 9090",
+          "formatting": "001 917 859 9090"
+        },
+        {
+          "type": "home",
+          "number": "00 41 22 781 0870",
+          "formatting": "00 41 22 781 0870 (h)"
+        },
+        {
+          "type": "work",
+          "number": "00 41 21 9030",
+          "formatting": "00 41 21 9030 (w)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "jmsd@alphageneva.ch",
+          "type": "work",
+          "notes": "Geneva, Switzerland business email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "14 Promenade Saint Antoine",
+            "1204 Geneva"
+          ],
+          "city": "Geneva",
+          "state": null,
+          "postal_code": "1204",
+          "country": "Switzerland",
+          "notes": "Geneva residence - Colombian billionaire brewing magnate"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Julio Mario Santo Domingo - Colombian billionaire, brewing/media magnate"
+    },
+    {
+      "entry_id": "049_santo_mr_mrs_m_espirito",
+      "name": {
+        "full_name": "Santo, Mr & Mrs M Espirito",
+        "prefix": "Mr & Mrs",
+        "first_name": "M",
+        "middle_name": null,
+        "last_name": "Espirito Santo",
+        "suffix": null,
+        "couple": true,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 373 5233",
+          "formatting": "0207 373 5233 (h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Rua Inglaterra 31",
+            "2765 Estoril",
+            "Portugal"
+          ],
+          "city": "Estoril",
+          "state": null,
+          "postal_code": "2765",
+          "country": "Portugal",
+          "notes": "Estoril, Portugal - elite coastal resort area, Espirito Santo banking family"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Espirito Santo - Portuguese banking dynasty"
+    },
+    {
+      "entry_id": "049_saudi_prince_salman",
+      "name": {
+        "full_name": "Saudi, Prince Salman",
+        "prefix": "Prince",
+        "first_name": "Salman",
+        "middle_name": null,
+        "last_name": "Saudi",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "703 288 8770",
+          "formatting": "703 288 8770 (h)"
+        },
+        {
+          "type": "portable",
+          "number": "202 409 3866",
+          "formatting": "202 409 3866 (p)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Notated as 'Suad Price Solman' believed to be clerical error and corrected to 'Saudi Price Salman' of the Saudi Royal Family"
+    },
+    {
+      "entry_id": "049_scerbo_randall",
+      "name": {
+        "full_name": "Scerbo, Randall",
+        "prefix": null,
+        "first_name": "Randall",
+        "middle_name": null,
+        "last_name": "Scerbo",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "1 212 260 9749",
+          "formatting": "1 212 260 9749 (h)"
+        },
+        {
+          "type": "portable",
+          "number": "1 917 520 1443",
+          "formatting": "1 917 520 1443 (p)"
+        },
+        {
+          "type": "unknown",
+          "number": "1 646 336 9823",
+          "formatting": "1 646 336 9823"
+        }
+      ],
+      "emails": [
+        {
+          "address": "1 646 336 9823",
+          "type": "unknown",
+          "notes": "Phone number listed as email - data entry error. Added as a phone number"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "321 East 22nd Street",
+            "Apartment 6B",
+            "New York, NY 10010"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10010",
+          "country": "USA",
+          "notes": "Gramercy area"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "low",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Email field contains phone number, likely clerical error"
+    },
+    {
+      "entry_id": "049_schiatti_gianmarco",
+      "name": {
+        "full_name": "Schiatti, Gianmarco",
+        "prefix": null,
+        "first_name": "Gianmarco",
+        "middle_name": null,
+        "last_name": "Schiatti",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "00 39 337 701 472",
+          "formatting": "00 39 337 701 472 (p)"
+        },
+        {
+          "type": "work",
+          "number": "00 39 2 877 781",
+          "formatting": "00 39 2 877 781 (w)"
+        },
+        {
+          "type": "home",
+          "number": "00 39 2 4819 4728",
+          "formatting": "00 39 2 4819 4728 (h)"
+        },
+        {
+          "type": "home",
+          "number": "00 33 1 4221 3201",
+          "formatting": "00 33 1 4221 3201 (h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Italian contact with Milan (02) and Paris numbers"
+    },
+    {
+      "entry_id": "049_schiffer_helen_tim",
+      "name": {
+        "full_name": "Schiffer, Helen & Tim",
+        "prefix": null,
+        "first_name": "Helen",
+        "middle_name": null,
+        "last_name": "Schiffer",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Tim"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 535 8281",
+          "formatting": "212 535 8281"
+        },
+        {
+          "type": "portable",
+          "number": "917 882 5775",
+          "formatting": "917 882 5775 (p)"
+        },
+        {
+          "type": "portable",
+          "number": "917 856 9290",
+          "formatting": "917 856 9290 Tim Schiffer P"
+        },
+        {
+          "type": "portable",
+          "number": "646 226 4696",
+          "formatting": "646 226 4696 Helen P"
+        },
+        {
+          "type": "home",
+          "number": "516 537 7744",
+          "formatting": "516 537 7744 2nd home"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "784 Park Ave",
+            "New York, NY 10021-3553"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021-3553",
+          "country": "USA",
+          "notes": "Park Avenue - Upper East Side elite address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "784 Park Ave + Long Island second home (516)"
+    },
+    {
+      "entry_id": "049_sebag_montefiroe_simon_santa",
+      "name": {
+        "full_name": "Sebag Montefiroe, Simon & Santa",
+        "prefix": null,
+        "first_name": "Simon",
+        "middle_name": null,
+        "last_name": "Sebag Montefiroe",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Santa"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207 353 4675",
+          "formatting": "0207 353 4675"
+        },
+        {
+          "type": "unknown",
+          "number": "0207 498 7292",
+          "formatting": "0207 498 7292"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Simon Sebag Montefiore - British historian/author"
+    },
+    {
+      "entry_id": "049_seilern_christine",
+      "name": {
+        "full_name": "Seilern, Christine",
+        "prefix": null,
+        "first_name": "Christine",
+        "middle_name": null,
+        "last_name": "Seilern",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 633 1609",
+          "formatting": "001 212 633 1609 (h)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 924 5060",
+          "formatting": "001 212 924 5060 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "302 W12th St",
+            "#5c",
+            "New York, NY 10014"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10014",
+          "country": "USA",
+          "notes": "West Village"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "049_sejournet_isabel_de",
+      "name": {
+        "full_name": "Sejournet, Isabel de",
+        "prefix": null,
+        "first_name": "Isabel",
+        "middle_name": null,
+        "last_name": "Sejournet",
+        "suffix": "de"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 370 7621",
+          "formatting": "0207 370 7621 (h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "11 Gedhow Gardens",
+            "London, SW7"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW7",
+          "country": "UK",
+          "notes": "South Kensington area"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "049_shabtai_benny",
+      "name": {
+        "full_name": "Shabtai, Benny",
+        "prefix": null,
+        "first_name": "Benny",
+        "middle_name": null,
+        "last_name": "Shabtai",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 355 3350",
+          "formatting": "001 212 355 3350"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 972 5080",
+          "formatting": "001 917 972 5080 (p)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "049_shad_brenda",
+      "name": {
+        "full_name": "Shad, Brenda",
+        "prefix": null,
+        "first_name": "Brenda",
+        "middle_name": null,
+        "last_name": "Shad",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 777 1122",
+          "formatting": "212 777 1122"
+        }
+      ],
+      "emails": [
+        {
+          "address": "brenda.schad@verizon.net",
+          "type": "personal",
+          "notes": "Verizon email"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Contact name is Shad, Brenda but email is brenda.schad@verizon.net indicates potential clerical error. The correct last name may be Schad."
+    },
+    {
+      "entry_id": "049_shearer_eric_angie",
+      "name": {
+        "full_name": "Shearer, Eric and Angie",
+        "prefix": null,
+        "first_name": "Eric",
+        "middle_name": null,
+        "last_name": "Shearer",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Angie"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 877 5666",
+          "formatting": "001 212 877 5666 (h)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 906 9100",
+          "formatting": "001 212 906 9100 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "049_shore_chris_maura",
+      "name": {
+        "full_name": "Shore, Chris and Maura",
+        "prefix": null,
+        "first_name": "Chris",
+        "middle_name": null,
+        "last_name": "Shore",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Maura"
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "1040 Park Ave 10F",
+            "New York, NY 10028"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10028",
+          "country": "USA",
+          "notes": "Park Avenue - Upper East Side"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Park Avenue address only"
+    },
+    {
+      "entry_id": "049_shriver_bobby",
+      "name": {
+        "full_name": "Shriver, Bobby",
+        "prefix": null,
+        "first_name": "Bobby",
+        "middle_name": null,
+        "last_name": "Shriver",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 830 9109",
+          "formatting": "001 212 830 9109 (h)"
+        },
+        {
+          "type": "work",
+          "number": "001 301 444 9609",
+          "formatting": "001 301 444 9609 (w)"
+        },
+        {
+          "type": "home",
+          "number": "001 405 842 4278",
+          "formatting": "001 405 842 4278 (h)"
+        },
+        {
+          "type": "work",
+          "number": "001 619 294 7402",
+          "formatting": "001 405 842 4278 (w)"
+        },
+        {
+          "type": "fax",
+          "number": "001 310 478 8886",
+          "formatting": "001 310 478 8886 (fax)"
+        },
+        {
+          "type": "work",
+          "number": "001 619 294 7402",
+          "formatting": "001 619 294 7402 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "Suite 1850",
+            "100 East 42nd Street",
+            "New York, NY 10017, USA"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10017",
+          "country": "USA",
+          "notes": "NYC office"
+        },
+        {
+          "type": "work",
+          "address_lines": [
+            "Special Olympics Productions Inc",
+            "Room 220",
+            "1440 South Sepulveda Blvd",
+            "Los Angeles, CA 90025-3492"
+          ],
+          "city": "Los Angeles",
+          "state": "CA",
+          "postal_code": "90025-3492",
+          "country": "USA",
+          "notes": "Special Olympics - Kennedy family connection"
+        },
+        {
+          "type": "home",
+          "address_lines": [
+            "1095 North Ocean Blvd",
+            "Palm Beach, FL 33480 USA"
+          ],
+          "city": "Palm Beach",
+          "state": "FL",
+          "postal_code": "33480",
+          "country": "USA",
+          "notes": "Palm Beach, Florida residence"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Bobby Shriver - Kennedy family (Eunice Kennedy Shriver's son), Special Olympics. Possibly related to Shriver, Maria."
+    },
+    {
+      "entry_id": "049_shriver_maria",
+      "name": {
+        "full_name": "Shriver, Maria",
+        "prefix": null,
+        "first_name": "Maria",
+        "middle_name": null,
+        "last_name": "Shriver",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 818 840 4813",
+          "formatting": "001 818 840 4813"
+        },
+        {
+          "type": "fax",
+          "number": "001 818 840 4275",
+          "formatting": "001 818 840 4275 (f)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Maria Shriver - Kennedy family, journalist, married to Arnold Schwarzenegger. Possibly related to Shriver, Bobby."
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 20,
+    "entries_with_emails": 6,
+    "entries_with_addresses": 13,
+    "entries_with_handwritten_notes": 1,
+    "couples": 8,
+    "average_confidence": "high",
+    "notable_figures_count": 6
+  },
+  "cross_references": [
+    {
+      "from": "049_sangster_guy_fi",
+      "to": "049_sangster_ben",
+      "relationship": "possibly_related",
+      "note": "Sangster family members - likely related"
+    },
+    {
+      "from": "049_shriver_bobby",
+      "to": "049_shriver_maria",
+      "relationship": "siblings",
+      "note": "Kennedy family siblings - Bobby and Maria Shriver"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Elizabeth Saltzman",
+      "Mia Samuels",
+      "Jon Sandelmar",
+      "Corrie Sandelmar",
+      "Guy Sangster",
+      "Fi Sangster",
+      "Ben Sangster",
+      "Julio Mario Santo Domingo",
+      "Mr & Mrs M Espirito Santo",
+      "Prince Solman Saud",
+      "Randall Scerbo",
+      "Gianmarco Schiatti",
+      "Helen Schiffer",
+      "Tim Schiffer",
+      "Simon Sebag Montefiore",
+      "Santa Sebag Montefiore",
+      "Christine Seilern",
+      "Isabel de Sejournet",
+      "Benny Shabtal",
+      "Brenda Shad",
+      "Eric Shearer",
+      "Angie Shearer",
+      "Chris Shore",
+      "Maura Shore",
+      "Bobby Shriver",
+      "Maria Shriver"
+    ],
+    "organizations": [
+      "Vogue/Vanity Fair (Elizabeth Saltzman - Condé Nast)",
+      "ABC Prime Time (Mia Samuels)",
+      "Santo Domingo Group (Julio Mario - Colombian brewing/media empire)",
+      "Banco Espirito Santo (Portuguese banking dynasty)",
+      "Special Olympics Productions Inc (Bobby Shriver)"
+    ],
+    "locations": {
+      "international": [
+        "Geneva, Switzerland (Julio Mario Santo Domingo)",
+        "Estoril, Portugal (Espirito Santo family)",
+        "Milan, Italy (Gianmarco Schiatti)",
+        "Paris, France (contacts)"
+      ],
+      "uk_cities": [
+        "London (multiple contacts)",
+        "Notting Hill (Elizabeth Saltzman)",
+        "Chelsea (Ben Sangster)",
+        "South Kensington (Isabel de Sejournet)"
+      ],
+      "us_cities": [
+        "New York City (multiple contacts)",
+        "Los Angeles (Bobby Shriver - Special Olympics)",
+        "Florida (Bobby Shriver residence)"
+      ],
+      "elite_addresses": [
+        "535 Park Ave, NYC (Jon & Corrie Sandelmar)",
+        "784 Park Ave, NYC (Helen & Tim Schiffer)",
+        "1040 Park Ave 10F, NYC (Chris & Maura Shore)",
+        "14 Promenada Saint Antoine, Geneva (Julio Mario Santo Domingo)",
+        "35 Lennox Gardens, London W11 (Elizabeth Saltzman)",
+        "13 Fernshaw Road, London SW10 (Ben Sangster)"
+      ]
+    }
+  },
+  "insights": [
+    "Julio Mario Santo Domingo - Colombian billionaire brewing magnate (Bavaria Brewery), Geneva residence with alphageneva.ch email",
+    "Espirito Santo family - Portuguese banking dynasty, Estoril residence (elite coastal resort)",
+    "Prince Solman Saud - Saudi Royal Family member with US contact numbers (203 Connecticut, 202 DC)",
+    "Bobby Shriver - Kennedy family (Eunice Kennedy Shriver's son), Special Olympics Productions, multiple US residences",
+    "Maria Shriver - Kennedy family journalist, married Arnold Schwarzenegger (818 LA area code)",
+    "Elizabeth Saltzman - Vogue/Vanity Fair publicist with extensive UK/NYC contact info (10 phone numbers)",
+    "Simon Sebag Montefiore - British historian/author, notable intellectual figure",
+    "Mia Samuels - ABC Prime Time television producer/executive",
+    "Multiple Park Avenue addresses: 535 (Sandelmar), 784 (Schiffer), 1040 (Shore) - Upper East Side elite cluster",
+    "Sangster family: Guy & Fi plus Ben - likely British horse racing dynasty connection",
+    "Multiple couples: Sandelmar (535 Park), Sangster (Guy & Fi), Espirito Santo, Schiffer (784 Park), Sebag Montefiore, Shearer, Shore (1040 Park)",
+    "International elite presence: Geneva billionaire, Portuguese banking, Saudi royalty, Colombian industrialist",
+    "Kennedy family strong representation: Bobby and Maria Shriver (Special Olympics connection)",
+    "Fashion/media industry: Elizabeth Saltzman (Vogue), Mia Samuels (ABC)",
+    "Geographic diversity: NYC Upper East Side, London elite areas, Geneva, Portugal, Colombia connections",
+    "Scerbo entry has phone number in email field (646 336 9823) - data entry error",
+    "Long Island second homes: Schiffer (516 area code) indicates wealthy seasonal migration",
+    "Special Olympics Productions (Bobby Shriver) - Kennedy family charitable legacy"
+  ]
+}

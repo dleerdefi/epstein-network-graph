@@ -1,0 +1,275 @@
+{
+  "page_number": 59,
+  "date_header": "SEPT 1998",
+  "time_period": "September 1998 - October 1998",
+  "aircraft": {
+    "registration": "G1159B N908JE",
+    "type": "G1159B"
+  },
+  "flight_records": [
+    {
+      "entry_number": "1-4",
+      "date": "09/01/1998",
+      "departure": "TEB",
+      "arrival": "TJSJ",
+      "flight_time": "1154",
+      "remarks": "JE, GM, ET",
+      "passengers": ["JE", "GM", "ET"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "4",
+      "date": "09/04/1998",
+      "departure": "TJSJ",
+      "arrival": "PBI",
+      "flight_time": "1155",
+      "remarks": "JE, GM, ET",
+      "passengers": ["JE", "GM", "ET"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "8",
+      "date": "09/08/1998",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "1156",
+      "remarks": "JE, GM, ET, MANDY ELLISON",
+      "passengers": ["JE", "GM", "ET", "MANDY ELLISON"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "13",
+      "date": "09/13/1998",
+      "departure": "TEB",
+      "arrival": "SAF",
+      "flight_time": "1157",
+      "remarks": "JE, GM, ET, H. FORESTER LOUDS PRYOR",
+      "passengers": ["JE", "GM", "ET", "H. FORESTER LOUDS PRYOR"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "9/16",
+      "date": "09/16/1998",
+      "departure": "ORD",
+      "arrival": "CCC",
+      "flight_time": "",
+      "remarks": "THOMAS D. MCAULEY",
+      "passengers": ["THOMAS D. MCAULEY"],
+      "crew": ""
+    },
+    {
+      "entry_number": "9/16",
+      "date": "09/16/1998",
+      "departure": "ORD",
+      "arrival": "CCC",
+      "flight_time": "",
+      "remarks": "UNNAMED 20 FAX - THAMAULAY",
+      "passengers": ["UNNAMED 20 FAX", "THAMAULAY"],
+      "crew": ""
+    },
+    {
+      "entry_number": "9/16",
+      "date": "09/16/1998",
+      "departure": "ORD",
+      "arrival": "CCC",
+      "flight_time": "",
+      "remarks": "UNNAMED 70.11 - THOMAS LAY",
+      "passengers": ["UNNAMED 70.11", "THOMAS LAY"],
+      "crew": ""
+    },
+    {
+      "entry_number": "9/16",
+      "date": "09/16/1998",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "UNBEGUN BL - I4 CLEARING 20 - L&W",
+      "passengers": ["UNBEGUN BL", "I4 CLEARING 20", "L&W"],
+      "crew": ""
+    },
+    {
+      "entry_number": "9/16",
+      "date": "09/16/1998",
+      "departure": "",
+      "arrival": "CCC",
+      "flight_time": "",
+      "remarks": "UNNAMED 20 7D USE CARDINAL - THAMAULAY SPECIAL CARDINAL + BRN",
+      "passengers": ["UNNAMED 20 7D USE", "CARDINAL", "THAMAULAY", "SPECIAL CARDINAL", "BRN"],
+      "crew": ""
+    },
+    {
+      "entry_number": "9/16",
+      "date": "09/16/1998",
+      "departure": "",
+      "arrival": "CCC",
+      "flight_time": "",
+      "remarks": "SPECIAL 20",
+      "passengers": ["SPECIAL 20"],
+      "crew": ""
+    },
+    {
+      "entry_number": "9/16",
+      "date": "09/16/1998",
+      "departure": "",
+      "arrival": "CCC",
+      "flight_time": "",
+      "remarks": "THAMAULAY",
+      "passengers": ["THAMAULAY"],
+      "crew": ""
+    },
+    {
+      "entry_number": "10",
+      "date": "09/10/1998",
+      "departure": "SAF",
+      "arrival": "ASE",
+      "flight_time": "1158",
+      "remarks": "JE, ET",
+      "passengers": ["JE", "ET"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "10",
+      "date": "09/10/1998",
+      "departure": "ASE",
+      "arrival": "TRN",
+      "flight_time": "1159",
+      "remarks": "JE, ET, M. LEE CUNNAN, CUNNINGHAM",
+      "passengers": ["JE", "ET", "M. LEE CUNNAN", "CUNNINGHAM"],
+      "crew": ""
+    },
+    {
+      "entry_number": "18",
+      "date": "09/18/1998",
+      "departure": "TRN",
+      "arrival": "TEB",
+      "flight_time": "1160",
+      "remarks": "JE, ET, GWENDOLYN BECK",
+      "passengers": ["JE", "ET", "GWENDOLYN BECK"],
+      "crew": ""
+    },
+    {
+      "entry_number": "25",
+      "date": "09/25/1998",
+      "departure": "TEB",
+      "arrival": "OCD",
+      "flight_time": "1161",
+      "remarks": "JE, LYNN FORESTER",
+      "passengers": ["JE", "LYNN FORESTER"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "25",
+      "date": "09/25/1998",
+      "departure": "OCD",
+      "arrival": "TRN",
+      "flight_time": "1162",
+      "remarks": "REPOSITION FOR CURRENCY",
+      "passengers": [],
+      "crew": ""
+    },
+    {
+      "entry_number": "25",
+      "date": "09/25/1998",
+      "departure": "TRN",
+      "arrival": "TEB",
+      "flight_time": "1163",
+      "remarks": "JE, LYNN FORESTER",
+      "passengers": ["JE", "LYNN FORESTER"],
+      "crew": ""
+    },
+    {
+      "entry_number": "26",
+      "date": "09/26/1998",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "1164",
+      "remarks": "JE, GM",
+      "passengers": ["JE", "GM"],
+      "crew": "V1"
+    },
+    {
+      "entry_number": "OCT 3",
+      "date": "10/03/1998",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "1165",
+      "remarks": "JE, ET, LYNDA DAVIS",
+      "passengers": ["JE", "ET", "LYNDA DAVIS"],
+      "crew": ""
+    }
+  ],
+  "entities": {
+    "people": [
+      "JE",
+      "GM",
+      "ET",
+      "MANDY ELLISON",
+      "H. FORESTER LOUDS PRYOR",
+      "THOMAS D. MCAULEY",
+      "UNNAMED 20 FAX",
+      "THAMAULAY",
+      "UNNAMED 70.11",
+      "THOMAS LAY",
+      "UNBEGUN BL",
+      "I4 CLEARING 20",
+      "L&W",
+      "UNNAMED 20 7D USE",
+      "CARDINAL",
+      "SPECIAL CARDINAL",
+      "BRN",
+      "SPECIAL 20",
+      "M. LEE CUNNAN",
+      "CUNNINGHAM",
+      "GWENDOLYN BECK",
+      "LYNN FORESTER",
+      "LYNDA DAVIS",
+      "David Rodgers"
+    ],
+    "locations": [
+      "TEB",
+      "TJSJ",
+      "PBI",
+      "SAF",
+      "ORD",
+      "CCC",
+      "ASE",
+      "TRN",
+      "OCD"
+    ],
+    "aircraft": [
+      "G1159B",
+      "N908JE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "59",
+    "amount_forward": "13066",
+    "total_to_date": "13284",
+    "document_quality": "good with some cryptic entries",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page transitions from September 1998 to October 1998",
+    "Lynn Forester (later de Rothschild) appears multiple times",
+    "San Juan, Puerto Rico (TJSJ) continues as destination",
+    "Gwendolyn Beck continues as recurring passenger",
+    "Complex coded entries on September 16th with unusual passenger names",
+    "Aspen (ASE) and Santa Fe (SAF) operations",
+    "Currency repositioning flight for pilot requirements",
+    "Thomas D. McAuley and variations appear multiple times",
+    "Mandy Ellison continues as passenger",
+    "Flight numbers exceeding 1165",
+    "Mix of standard flights and coded/unusual entries"
+  ]
+}

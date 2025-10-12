@@ -1,0 +1,442 @@
+{
+  "page_number": 53,
+  "section": "T",
+  "entries": [
+    {
+      "name": "Tate, Rupert",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "9 Queens House",
+          "street": "9 Queens House",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 723 5999 (H)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "office",
+          "number": "0207 306 5058 (O)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Rupert Tate - Queens House",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Taubman, Alfred",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "200 East Long Lake",
+          "street": "200 East Long Lake",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Bloomfield Hills, Bloomfield Hills 48304",
+          "city": "Bloomfield Hills",
+          "state": "MI",
+          "postal_code": "48304",
+          "confidence": "high"
+        },
+        {
+          "type": "office",
+          "address": "712 5th Avenue",
+          "street": "712 5th Avenue",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "810 258 6400 (H)",
+          "area_code": "810",
+          "geographic_indicator": "Michigan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "810 644 2770",
+          "area_code": "810",
+          "geographic_indicator": "Michigan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 421 8100 (O)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 972 3000",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Alfred Taubman - Bloomfield Hills MI and NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Taubman, Bobby",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 313 965 2232 (H)",
+          "area_code": "313",
+          "geographic_indicator": "Detroit, Michigan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 810 641 2468(O)",
+          "area_code": "810",
+          "geographic_indicator": "Michigan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Bobby Taubman",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Tavoularsas, Mr Billy & Nicolas",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1000 4th Street SW",
+          "street": "1000 4th Street SW",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 [illegible]",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Billy & Nicolas Tavoularsas",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone number illegible"]
+      }
+    },
+    {
+      "name": "Tavoularsas, Peter",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "2 Palace Albert Row",
+          "street": "2 Palace Albert Row",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 589 5111 (H)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "office",
+          "number": "0207 351 0478 (O)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Peter Tavoularsas",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Tayler, Emmy",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "011 44 1908 640 181 (H)",
+          "area_code": "01908",
+          "geographic_indicator": "Milton Keynes UK",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "011 44 1908 [illegible]",
+          "area_code": "01908",
+          "geographic_indicator": "Milton Keynes UK",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Emmy Tayler - Milton Keynes",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Second phone partially illegible"]
+      }
+    },
+    {
+      "name": "Taylor, Felicia",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 486 0066 (H)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "office",
+          "number": "001 212 484 1625 (O)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "mobile",
+          "number": "001 917 439 6686 (pager and cell)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Felicia Taylor - NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Tennenbaum, Harry",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "416 212 122 2323",
+          "area_code": "416",
+          "geographic_indicator": "Toronto, Canada",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Harry Tennenbaum - Toronto",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Teodorani-Fabbri, Eduardo",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Palazzo dell'Olmo, Via Longmonte Budding",
+          "location": "Via Longmonte Budding",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "39 41 [illegible]",
+          "area_code": "39",
+          "geographic_indicator": "Italy",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Eduardo Teodorani-Fabbri - Italian palazzo",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone number partially illegible"]
+      }
+    },
+    {
+      "name": "Taylor, Pamela",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 516 671 6572(H)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 637 4668 (F)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island NY",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Pamela Taylor - Long Island",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Taylor, Sebastian",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "10 West Chester",
+          "street": "10 West Chester",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "020 7121 0244 (H)",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "office",
+          "number": "020 7121 0266 (O)",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "020 7489 8899 (F)",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "cell",
+          "number": "077 111 222 34 cell",
+          "area_code": "077",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Sebastian Taylor",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Taymor, Julie & Eliot",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "31 East 4 [illegible] Street",
+          "street": "31 East 4 [illegible] Street",
+          "city": "New York",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "212 477 020 2042(H)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 807 8014 (O)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 420 0303 eleans",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Julie & Eliot Taymor - NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Street number partially illegible"]
+      }
+    },
+    {
+      "name": "Theilmann, Baroness Francesca",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "011 521 615 9765",
+          "area_code": "521",
+          "geographic_indicator": "Mexico",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Baroness Francesca Theilmann - Mexico",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 13,
+    "illegible_entries": 0,
+    "partial_entries": 4,
+    "cross_references": [],
+    "notable_individuals": [
+      "Alfred Taubman - Sotheby's chairman, Bloomfield Hills",
+      "Julie Taymor - Theater director",
+      "Baroness Francesca Theilmann"
+    ],
+    "geographic_distribution": {
+      "uk": 5,
+      "usa": 6,
+      "canada": 1,
+      "italy": 1,
+      "mexico": 1
+    },
+    "location_highlights": [
+      "Bloomfield Hills, Michigan - wealthy Detroit suburb",
+      "712 5th Avenue NYC office",
+      "Toronto connection",
+      "Italian palazzo",
+      "Mexico City connection"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 9,
+      "medium_confidence": 3,
+      "low_confidence": 1,
+      "specific_issues": [
+        "Several phone numbers partially illegible",
+        "Some address details incomplete"
+      ]
+    }
+  }
+}

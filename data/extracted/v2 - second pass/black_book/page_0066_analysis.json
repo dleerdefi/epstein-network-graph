@@ -1,0 +1,293 @@
+{
+  "page_number": 66,
+  "alphabetical_section": "BUSINESS LISTINGS - FRANCE CONTINUED",
+  "page_header": "France restaurants, hotels, taxis directory",
+  "contacts": [],
+  "page_metadata": {
+    "total_entries": 0,
+    "entries_with_emails": 0,
+    "entries_with_addresses": 0,
+    "entries_with_handwritten_notes": 0,
+    "couples": 0,
+    "average_confidence": "N/A",
+    "notable_figures_count": 0,
+    "special_notes": "Page contains France business listings focused on restaurants, hotels, and taxi services. Multiple contact lists including Miele Mr & Mrs, Ott Cynthia and Claude, and Vieira Cotrin, Valdson"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Karine (Nicole's contact)",
+      "Deborah",
+      "Magdel",
+      "Donna",
+      "Jolene",
+      "Valerie",
+      "Deborah",
+      "Naomi",
+      "Tanya (speaks NO english)",
+      "Madia (USE THIS as 4 8-02)",
+      "Miele, Mr & Mrs",
+      "Ott Cynthia and Claude",
+      "Pinto, Alberto",
+      "Linda (multiple references)",
+      "Serge (multiple references)",
+      "Nassau contact",
+      "Valdson (Vieira Cotrin)",
+      "Maria (girlfriend - Vieira Cotrin)"
+    ],
+    "organizations": [],
+    "locations": {
+      "international": [
+        "Paris, France (dominant)",
+        "Morocco (phone reference)"
+      ],
+      "us_cities": []
+    },
+    "elite_addresses": [
+      "22 Avenue Foch, Apt 20D (Ott Cynthia and Claude)",
+      "21 Rue Voltaire, Paris (Vieira Cotrin, Valdson)",
+      "15, Place Vendome, Cesdex 01 (Ritz Paris)",
+      "25 Avenue Montaigne, Paris 75008 (Plaza Athenee)"
+    ]
+  },
+  "business_listings": [
+    {
+      "name": "Contact List - Nicole's Network",
+      "phones": [
+        "331 4268 3727 Karine (Nicole's",
+        "contact)",
+        "336 1400 6966 Deborah (c)",
+        "0861100 0433 Magdel",
+        "0852940794 Magdel",
+        "331 836 0780 Pools",
+        "011 331 4674 5877 Donna",
+        "011 331 4688 1809 Donna",
+        "011 33E 4019 0604 Jolene",
+        "011 331 4019 4870 Valerie",
+        "06 7607 1850 Deborah",
+        "06 0591 4920 Naomi",
+        "0602934786 Naomi (speak little)",
+        "4935",
+        "0096003635 Tanya (speaks NO english)",
+        "011320408 4441 Madia (USE THIS as 4 8-02)"
+      ],
+      "type": "contact_network",
+      "location": "International"
+    },
+    {
+      "name": "75002 PARIS, FRANCE",
+      "phones": [
+        "011 331 401 30000(w)",
+        "011 331 4418 7674(w)",
+        "011 331 4418 7673 Albertojoint"
+      ],
+      "emails": [
+        "(Fax)Alberto Pinto (h)",
+        "11 Rue D'Orsay"
+      ],
+      "type": "location_code",
+      "location": "Paris 2nd arrondissement"
+    },
+    {
+      "name": "Additional Paris Phones",
+      "phones": [
+        "11 Arret",
+        "Paris, France 75007",
+        "011 331 402 3521 (h) Linda",
+        "011 800 39623 622 Serge",
+        "(01) 809 387 4436 Nassau",
+        "011 33 64 2701 (h)",
+        "011 33 1 3917 2560 (h) Linda",
+        "011 33 64 04 2439 (f)Alberto",
+        "011331 40 41 00 58 h. Serge",
+        "Roxcel",
+        "011338 97 17 07 24 Serge",
+        "011338 97 400 4352 George",
+        "01133 8 600 1362 (h) Linge",
+        "011 33 140 117 536 Linda dir.",
+        "011 331 401 37647 Linda a",
+        "lberto",
+        "alberto.pinto@albertopinto.com",
+        "linda.pinto@albertopinto.com",
+        "011 331 140 10729",
+        "delphinne.zale@albertopinto",
+        "(mail) albertopinto.fr(topline)",
+        "011331 401 37640 Linda a",
+        "01133 609 18 11 26 (w)Jean",
+        "01133 609 18 11 26 (h) Jean",
+        "01133 122 62 03 35 Cristal",
+        "Albertopinto",
+        "339 14 9679 05",
+        "01 12 121 963336 h. Serge",
+        "Roxcel",
+        "011 212 39 83 7171 Morocco",
+        "fax",
+        "+33 140 18 05 07 (w)",
+        "+33 140 18050(w)",
+        "+33 140 1375 08 Direct",
+        "011330402325314 Nassau a cell",
+        "inte@profile.pinto@albertopinto"
+      ],
+      "type": "contact_list"
+    },
+    {
+      "name": "Miele, Mr & Mrs",
+      "phones": [
+        "00 33 8301 3799 (h)",
+        "00 33 8301 1773 (c)",
+        "00 33 6306 1441 (s)",
+        "00 33 6301 2788 (fax)"
+      ],
+      "type": "contact",
+      "location": "France"
+    },
+    {
+      "name": "Ott Cynthia and Claude",
+      "address": "22 Avenue Foch, Apt 20D",
+      "phones": [
+        "011 331 4715 0957",
+        "011 331 4802 7910(h)",
+        "212 832574 10(3880 (w)",
+        "011 331 47 04 29 45 77 (fax)claude",
+        "01133 144 05 70 83 (w)direct",
+        "01133 154 05 70 90 (f)"
+      ],
+      "type": "personal_contact",
+      "location": "Paris - Avenue Foch"
+    },
+    {
+      "name": "Pinto, Alberto",
+      "subtitle": "Hotel de la Victoire (w)",
+      "address": "11 Rue d'Aboukir",
+      "type": "designer_contact",
+      "location": "Paris"
+    },
+    {
+      "name": "Plaza Athenee - Paris",
+      "address": "25 Avenue Montaigne, Paris, France 75008",
+      "phones": [
+        "00 33 1536 786 85",
+        "33 1536 786 68 (f)"
+      ],
+      "type": "hotel",
+      "location": "Paris"
+    },
+    {
+      "name": "Restaurant-takeouts",
+      "phone": "Sushi 01 50 20 00 55",
+      "type": "restaurant_delivery",
+      "location": "Paris"
+    },
+    {
+      "name": "Restaurants",
+      "listings": [
+        "Entrecote",
+        "15 rue Marboeuf",
+        "01/4952017"
+      ],
+      "type": "restaurant_list",
+      "location": "Paris"
+    },
+    {
+      "name": "Ritz - Paris",
+      "address": "15, Place Vendome, Cesdex 01, Paris, France 75",
+      "phones": [
+        "011 331 4316 3070",
+        "33 1 4316 3171 (f)",
+        "33 14316 31 40 Direct Fax Reser"
+      ],
+      "type": "hotel",
+      "location": "Paris"
+    },
+    {
+      "name": "River Cafe",
+      "phone": "00 33 1 4093 5020",
+      "note": "14-6 Quai Statio grad",
+      "type": "restaurant",
+      "location": "Paris"
+    },
+    {
+      "name": "Tante Louise",
+      "address": "41 Rue Boissy d'anglais",
+      "phone": "00 331 4265 0685",
+      "type": "restaurant",
+      "location": "Paris"
+    },
+    {
+      "name": "Taxi Bleus",
+      "phone": "01 49 36 10 10",
+      "type": "taxi_service",
+      "location": "Paris"
+    },
+    {
+      "name": "Taxis",
+      "phones": [
+        "00 331 420 24292",
+        "00 331 49 36 1010",
+        "01 331 47 39 4760",
+        "00 331 420 05689"
+      ],
+      "type": "taxi_services",
+      "location": "Paris"
+    },
+    {
+      "name": "Taxis Bleus",
+      "phone": "0149 36 10 10",
+      "type": "taxi_service",
+      "location": "Paris"
+    },
+    {
+      "name": "Vieira Cotrin, Valdson",
+      "address": "21 Rue Voltaire, Paris",
+      "phones": [
+        "011457 4633",
+        "Paris 93200",
+        "014857 5334 (h)",
+        "06 21 02 8391",
+        "(Hm)1 Rue Chalignt (Ava Foch",
+        "BA)",
+        "06011 4041 Floor 6",
+        "Paris France",
+        "06 11 778 046 Maria (p) girlfriend",
+        "0144 321 546 Maria (w)"
+      ],
+      "type": "personal_contact",
+      "location": "Paris"
+    },
+    {
+      "name": "HOTELS (HT)",
+      "type": "section_header"
+    },
+    {
+      "name": "Berkeley Hotel",
+      "phone": "0207 235 6000",
+      "type": "hotel",
+      "location": "London"
+    }
+  ],
+  "insights": [
+    "Contact network labeled 'Nicole's' with 14+ international phone numbers - likely Nicole's personal/professional network",
+    "Tanya notation 'speaks NO english' (0096003635) - international staff coordination notes",
+    "Madia with note 'USE THIS as 4 8-02' (011320408 4441) - preferred contact instruction",
+    "Alberto Pinto - legendary French interior designer at 11 Rue d'Aboukir/Hotel de la Victoire, extensive contact list with 20+ numbers",
+    "Alberto Pinto emails: alberto.pinto@albertopinto.com, linda.pinto@albertopinto.com, delphinne.zale@albertopinto - design firm infrastructure",
+    "Linda appears 5+ times in Pinto contact list - likely key assistant/associate",
+    "Serge appears 4+ times (Roxcel references) - possibly Serge Roche or associate",
+    "Ott Cynthia and Claude at 22 Avenue Foch, Apt 20D - SAME BUILDING as Epstein's Paris apartment (page 64: Epstein at 22 Avenue Foch, Apt 20-D)",
+    "Vieira Cotrin, Valdson at 21 Rue Voltaire with notation '(Hm)1 Rue Chalignt (Ava Foch BA)' - likely staff member with Avenue Foch building access",
+    "Valdson's girlfriend Maria listed with 2 phone numbers (06 11 778 046 personal, 0144 321 546 work)",
+    "Plaza Athenee - 25 Avenue Montaigne, one of Paris's most prestigious palace hotels",
+    "Ritz Paris - 15 Place Vendome, legendary luxury hotel with direct fax reservation line",
+    "Taxi Bleus (01 49 36 10 10) appears twice - preferred Paris taxi service",
+    "Sushi delivery (01 50 20 00 55) - restaurant takeout service",
+    "L'Entrecote - 15 rue Marboeuf restaurant listing",
+    "Tante Louise - 41 Rue Boissy d'anglais, classic French bistro",
+    "River Cafe - Quai Statio location, riverside dining",
+    "HOTELS (HT) section begins with Berkeley Hotel London (0207 235 6000)",
+    "75002 PARIS notation - 2nd arrondissement postal code",
+    "Morocco fax reference (011 212 39 83 7171) - North African connections",
+    "Nassau cell reference (011330402325314) - Bahamas connections",
+    "Multiple 'Roxcel' references with Serge - possibly business entity or project name",
+    "Avenue Foch building coordination - both Epstein and Ott couple at same address indicates shared luxury building"
+  ]
+}

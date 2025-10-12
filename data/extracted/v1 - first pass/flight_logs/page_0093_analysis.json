@@ -1,0 +1,280 @@
+{
+  "page_number": 93,
+  "date_header": "MAY 2002",
+  "time_period": "May 2002",
+  "aircraft": {
+    "registration": "Multiple (N909JE, G-1159A, C-421B, B-727-31 N908JE)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "MAY 7",
+      "date": "05/07/2002",
+      "departure": "N909JE",
+      "arrival": "G-1159A C-421B",
+      "flight_time": "",
+      "remarks": "PBI - CYC - D. GOLDSTEIN, B. BROCKMAN, D. JARRETT",
+      "passengers": ["D. GOLDSTEIN", "B. BROCKMAN", "D. JARRETT"],
+      "crew": "1/1"
+    },
+    {
+      "entry_number": "11",
+      "date": "05/11/2002",
+      "departure": "N908JE",
+      "arrival": "B-727-31",
+      "flight_time": "94",
+      "remarks": "PBI - JFK - JG, SK",
+      "passengers": ["JG", "SK"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "11",
+      "date": "05/11/2002",
+      "departure": "B-727-31",
+      "arrival": "N908JE",
+      "flight_time": "95",
+      "remarks": "JFK - LEFD - JG, GM, SK",
+      "passengers": ["JG", "GM", "SK"],
+      "crew": "1/2"
+    },
+    {
+      "entry_number": "13",
+      "date": "05/13/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "96",
+      "remarks": "LEFD - LEPE - REDACTED",
+      "passengers": ["REDACTED"],
+      "crew": "2"
+    },
+    {
+      "entry_number": "13",
+      "date": "05/13/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "97",
+      "remarks": "LEPE - EGGW - JG, SK",
+      "passengers": ["JG", "SK"],
+      "crew": "8"
+    },
+    {
+      "entry_number": "16",
+      "date": "05/16/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "98",
+      "remarks": "EGGW - LFMN - JG, GM, SK",
+      "passengers": ["JG", "GM", "SK"],
+      "crew": "1/8"
+    },
+    {
+      "entry_number": "19",
+      "date": "05/19/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "99",
+      "remarks": "LFMN - VNKT - JG, GM, SK",
+      "passengers": ["JG", "GM", "SK"],
+      "crew": "6/7"
+    },
+    {
+      "entry_number": "20",
+      "date": "05/20/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "100",
+      "remarks": "VNKT - EGSS - JG, GM, SK",
+      "passengers": ["JG", "GM", "SK"],
+      "crew": "6/5"
+    },
+    {
+      "entry_number": "22",
+      "date": "05/22/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "100",
+      "remarks": "EGTA - VHHH - JE, GM, SK, PRESIDENT BILL CLINTON, PETE RATHGEB, DOUG BANDS, JANICE, JESSICA",
+      "passengers": ["JE", "GM", "SK", "PRESIDENT BILL CLINTON", "PETE RATHGEB", "DOUG BANDS", "JANICE", "JESSICA"],
+      "crew": "4/0"
+    },
+    {
+      "entry_number": "23",
+      "date": "05/23/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "101",
+      "remarks": "VHHH - ZGSZ - SAME AS ABOVE",
+      "passengers": ["SAME AS ABOVE"],
+      "crew": "4"
+    },
+    {
+      "entry_number": "23",
+      "date": "05/23/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "102",
+      "remarks": "ZGSZ - WBSS - SAME AS ABOVE",
+      "passengers": ["SAME AS ABOVE"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "25",
+      "date": "05/25/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "103",
+      "remarks": "WBSS - VTBD - SAME AS ABOVE",
+      "passengers": ["SAME AS ABOVE"],
+      "crew": "2/2"
+    },
+    {
+      "entry_number": "25",
+      "date": "05/25/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "104",
+      "remarks": "VTBD - WBSB - SAME AS ABOVE",
+      "passengers": ["SAME AS ABOVE"],
+      "crew": "2/6"
+    },
+    {
+      "entry_number": "27",
+      "date": "05/27/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "105",
+      "remarks": "WBSB - WARR - JG, GM, SK, REDACTED",
+      "passengers": ["JG", "GM", "SK", "REDACTED"],
+      "crew": "2/1"
+    },
+    {
+      "entry_number": "29",
+      "date": "05/29/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "106",
+      "remarks": "WARR - VCBI - JG, REDACTED",
+      "passengers": ["JG", "REDACTED"],
+      "crew": "6/2"
+    },
+    {
+      "entry_number": "29",
+      "date": "05/29/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "107",
+      "remarks": "VCBI - OMDB - JG, GM, SK, REDACTED",
+      "passengers": ["JG", "GM", "SK", "REDACTED"],
+      "crew": "4/4"
+    },
+    {
+      "entry_number": "30",
+      "date": "05/30/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "108",
+      "remarks": "OMDB - LFPB - JG, GM, SK, REDACTED",
+      "passengers": ["JG", "GM", "SK", "REDACTED"],
+      "crew": "3/8"
+    },
+    {
+      "entry_number": "31",
+      "date": "05/31/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "109",
+      "remarks": "LFPB - EGGW - JG, GM, SK, REDACTED",
+      "passengers": ["JG", "GM", "SK", "REDACTED"],
+      "crew": "1/8"
+    },
+    {
+      "entry_number": "31",
+      "date": "05/31/2002",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "110",
+      "remarks": "EGGW - GTPW - REDACTED",
+      "passengers": ["REDACTED"],
+      "crew": "1/7"
+    }
+  ],
+  "entities": {
+    "people": [
+      "D. GOLDSTEIN",
+      "B. BROCKMAN",
+      "D. JARRETT",
+      "JG",
+      "JE",
+      "SK",
+      "GM",
+      "PRESIDENT BILL CLINTON",
+      "PETE RATHGEB",
+      "DOUG BANDS",
+      "JANICE",
+      "JESSICA",
+      "REDACTED",
+      "SAME AS ABOVE",
+      "David Rodgers"
+    ],
+    "locations": [
+      "PBI",
+      "CYC",
+      "JFK",
+      "LEFD",
+      "LEPE",
+      "EGGW",
+      "LFMN",
+      "VNKT",
+      "EGSS",
+      "EGTA",
+      "VHHH",
+      "ZGSZ",
+      "WBSS",
+      "VTBD",
+      "WBSB",
+      "WARR",
+      "VCBI",
+      "OMDB",
+      "LFPB",
+      "GTPW"
+    ],
+    "aircraft": [
+      "N909JE",
+      "G-1159A",
+      "C-421B",
+      "B-727-31",
+      "N908JE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "67/84",
+    "amount_forward": "8635",
+    "total_to_date": "8693",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Entire page covers May 2002",
+    "CRITICAL: May 22 entry lists JE (Jeffrey Epstein), President Bill Clinton, Pete Rathgeb, Doug Bands on Asia tour",
+    "SAME AS ABOVE continues from May 22 through flight 105 (May 27)",
+    "Extensive international travel including Asia and Middle East",
+    "SK (Sarah Kellen) appears on nearly every flight",
+    "Asia tour airports: VHHH (Hong Kong), ZGSZ (Shenzhen), WBSS (Singapore), VTBD (Bangkok)",
+    "Middle East stop: OMDB (Dubai)",
+    "European stops: LFPB (Paris), EGGW (London), LFMN (Nice)",
+    "Flight numbers reach 110",
+    "President Clinton's Asia tour spans May 22-27 based on 'SAME AS ABOVE' notations",
+    "International tour appears to be extensive multi-continent journey"
+  ]
+}

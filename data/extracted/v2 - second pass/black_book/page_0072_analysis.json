@@ -1,0 +1,828 @@
+{
+  "page_number": 72,
+  "alphabetical_section": "E-G",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "072_farkas_jonathan",
+      "name": {
+        "full_name": "Farkas, Jonathan D.",
+        "prefix": null,
+        "first_name": "Jonathan",
+        "middle_name": "D",
+        "last_name": "Farkas",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "212 772 7400",
+          "formatting": "212 772 7400 (h)"
+        },
+        {
+          "type": "car",
+          "number": "917 952 3404",
+          "formatting": "917 952 3404 (car)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "jdf@aol.com",
+          "type": "personal",
+          "notes": "AOL email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "52 E. 72nd Street",
+            "New York, NY 10021-4266"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side - E 72nd Street"
+        },
+        {
+          "type": "home",
+          "address_lines": [
+            "Trimwell E. 75th Street",
+            "NY, NY 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side - E 75th Street"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Live Run Realty Corp."
+    },
+    {
+      "entry_id": "072_epstein_jeffrey",
+      "name": {
+        "full_name": "Epstein, Jeffrey",
+        "prefix": null,
+        "first_name": "Jeffrey",
+        "middle_name": null,
+        "last_name": "Epstein",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "616 276 5295",
+          "formatting": "616 276 5295(h)"
+        },
+        {
+          "type": "fax",
+          "number": "616 276 7294",
+          "formatting": "616 276 7294(f)"
+        },
+        {
+          "type": "unknown",
+          "number": "616 276 5296",
+          "formatting": "616 276 5296 2nd line"
+        }
+      ],
+      "emails": [
+        {
+          "address": "jeffreye@mindspring.com",
+          "type": "personal",
+          "notes": "MindSpring email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Michigan Home",
+            "Epstein Lodge, PO Box 199",
+            "M 137 Highway (For Fed Ex)",
+            "Interlaken, MI 49643"
+          ],
+          "city": "Interlaken",
+          "state": "MI",
+          "postal_code": "49643",
+          "country": "USA",
+          "notes": "Michigan vacation property"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Michigan Home listing"
+    },
+    {
+      "entry_id": "072_epstein_mark",
+      "name": {
+        "full_name": "Epstein, Mark",
+        "prefix": null,
+        "first_name": "Mark",
+        "middle_name": null,
+        "last_name": "Epstein",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "212 366 5439",
+          "formatting": "212-366-5439"
+        },
+        {
+          "type": "direct",
+          "number": "212 366 5439",
+          "formatting": "212 366 5439 Mark's direct work"
+        },
+        {
+          "type": "fax",
+          "number": "212-645-6656",
+          "formatting": "212-645-6656FAX"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Isho Family & Companies, Inc. 30 Van Dam Street, New York, NY 10013-1214"
+    },
+    {
+      "entry_id": "072_epstein_mark_2",
+      "name": {
+        "full_name": "Epstein, Mark",
+        "prefix": null,
+        "first_name": "Mark",
+        "middle_name": null,
+        "last_name": "Epstein",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "770 469 7183",
+          "formatting": "770 469 7183"
+        },
+        {
+          "type": "cellular",
+          "number": "770-356-3295",
+          "formatting": "770-356-3295 Cellular"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "55 - 48 Stone Creek",
+            "Stone Mountain, GA 30087"
+          ],
+          "city": "Stone Mountain",
+          "state": "GA",
+          "postal_code": "30087",
+          "country": "USA",
+          "notes": "Georgia residence"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Second Mark Epstein entry - Georgia location"
+    },
+    {
+      "entry_id": "072_epstein_paula",
+      "name": {
+        "full_name": "Epstein, Paula",
+        "prefix": null,
+        "first_name": "Paula",
+        "middle_name": null,
+        "last_name": "Epstein",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "561-586-3707",
+          "formatting": "561-586-3707"
+        },
+        {
+          "type": "unknown",
+          "number": "561 762 2741",
+          "formatting": "561-762 2741 Cer"
+        },
+        {
+          "type": "unknown",
+          "number": "561 689 8966",
+          "formatting": "561 689 8966 Golden Lakes"
+        },
+        {
+          "type": "unknown",
+          "number": "954 782 8447",
+          "formatting": "954 782 8447 Joyce Michayluk (nurse)"
+        },
+        {
+          "type": "portable",
+          "number": "561 758 6375",
+          "formatting": "561 758 6375 Joyce Michayluk (p)"
+        },
+        {
+          "type": "portable",
+          "number": "561-308-8684",
+          "formatting": "561-308-8684 (p)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "ptepstein@aol.com",
+          "type": "personal",
+          "notes": "AOL email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "125 Lake Paula Drive",
+            "West Palm Beach, FL 33411"
+          ],
+          "city": "West Palm Beach",
+          "state": "FL",
+          "postal_code": "33411",
+          "country": "USA",
+          "notes": "Florida residence"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Joyce Michayluk listed as nurse"
+    },
+    {
+      "entry_id": "072_farkas_andrew",
+      "name": {
+        "full_name": "Farkas, Andrew",
+        "prefix": null,
+        "first_name": "Andrew",
+        "middle_name": null,
+        "last_name": "Farkas",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "212 593 5700",
+          "formatting": "212 593 5700 (w)"
+        },
+        {
+          "type": "fax",
+          "number": "212 593 8500",
+          "formatting": "212 593 8500 fax"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "Island Capital",
+            "717 5th Ave, 18th Floor",
+            "NY, NY 10022"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10022",
+          "country": "USA",
+          "notes": "Island Capital offices - Fifth Avenue"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Island Capital"
+    },
+    {
+      "entry_id": "072_federal_express",
+      "name": {
+        "full_name": "Federal Express",
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": "Federal Express",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "800-238-5355",
+          "formatting": "Acct A 2587-8553-1"
+        },
+        {
+          "type": "unknown",
+          "number": "800-654-0820",
+          "formatting": "Acct #E 5017-5081-8 JEC"
+        },
+        {
+          "type": "unknown",
+          "number": "800-247-4747",
+          "formatting": "Acct #1814-9609-3 Z Zorro"
+        },
+        {
+          "type": "unknown",
+          "number": "800-654-0820",
+          "formatting": "Acct #E 0146-4808-9 Z Max Hotel"
+        },
+        {
+          "type": "unknown",
+          "number": "800-239-5355",
+          "formatting": "New York, NY"
+        },
+        {
+          "type": "unknown",
+          "number": "800-654-0820",
+          "formatting": "800-654-0820 Automatic Pick-up"
+        },
+        {
+          "type": "international",
+          "number": "800-247-4747",
+          "formatting": "800-247-4747 International"
+        },
+        {
+          "type": "unknown",
+          "number": "212-714-0022",
+          "formatting": "212-714-0022 Lita's Office"
+        },
+        {
+          "type": "unknown",
+          "number": "800-654-0820",
+          "formatting": "800-654-0820 Problems/package trace"
+        },
+        {
+          "type": "unknown",
+          "number": "011 33 1 40 85 39",
+          "formatting": "011 33 1 40 85 39 Paris local"
+        },
+        {
+          "type": "unknown",
+          "number": "011 27 11 82 35 10",
+          "formatting": "011 27 11 82 35 10 Johannesburg"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Multiple FedEx account numbers including Zorro and Z Max Hotel"
+    },
+    {
+      "entry_id": "072_foster_taylor",
+      "name": {
+        "full_name": "Foster, Taylor",
+        "prefix": null,
+        "first_name": "Taylor",
+        "middle_name": null,
+        "last_name": "Foster",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "212 645 6395",
+          "formatting": "212 645 6395 (h)"
+        },
+        {
+          "type": "unknown",
+          "number": "011 336 10523 815",
+          "formatting": "011 336 10523 815(p)"
+        },
+        {
+          "type": "home",
+          "number": "(Hm)Danielle",
+          "formatting": "(Hm)Danielle (pastry Dept)"
+        },
+        {
+          "type": "cell",
+          "number": "917 538 5512",
+          "formatting": "917 538 5512 cell"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "60 E. 65th Street"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Upper East Side - near Epstein residence"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Danielle noted as pastry department"
+    },
+    {
+      "entry_id": "072_gany_eric",
+      "name": {
+        "full_name": "Gany, Eric",
+        "prefix": null,
+        "first_name": "Eric",
+        "middle_name": null,
+        "last_name": "Gany",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "203 783 2536",
+          "formatting": "203 783 2536(h)"
+        },
+        {
+          "type": "portable",
+          "number": "203 984 6064",
+          "formatting": "203 984 6064 (p)"
+        },
+        {
+          "type": "unknown",
+          "number": "718 893 6700",
+          "formatting": "718 893 6700 Brother - Victor"
+        },
+        {
+          "type": "vacation",
+          "number": "203 783 5226",
+          "formatting": "203 783 5226 Vacation"
+        },
+        {
+          "type": "fax",
+          "number": "203 762 3158",
+          "formatting": "203 762 3158 (f)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "66 Little Brook Road",
+            "Wilton, CT 06897"
+          ],
+          "city": "Wilton",
+          "state": "CT",
+          "postal_code": "06897",
+          "country": "USA",
+          "notes": "Connecticut residence"
+        },
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Wire - Nancy",
+            "AFV6232 Frequent Flyer Number"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": "Additional contact info"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Brother Victor noted with separate number"
+    },
+    {
+      "entry_id": "072_gellman_murray",
+      "name": {
+        "full_name": "Gell-man Murray",
+        "prefix": null,
+        "first_name": "Murray",
+        "middle_name": null,
+        "last_name": "Gell-man",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "505 984 8800",
+          "formatting": "505 984 8800 w-main"
+        },
+        {
+          "type": "home",
+          "number": "(Hm)1001",
+          "formatting": "(Hm)1001 Camino Pinones"
+        },
+        {
+          "type": "direct",
+          "number": "505 946 3650",
+          "formatting": "505 946 3650 (w) direct"
+        },
+        {
+          "type": "work",
+          "number": "505 982 0565",
+          "formatting": "505 982 0565 (w)"
+        },
+        {
+          "type": "home",
+          "number": "505 989 8781",
+          "formatting": "505 989 8781 (h)"
+        },
+        {
+          "type": "portable",
+          "number": "505 699 3648",
+          "formatting": "505 699 3648 (p)"
+        },
+        {
+          "type": "home",
+          "number": "970 925 4135",
+          "formatting": "970 925 4135 (h)"
+        },
+        {
+          "type": "home",
+          "number": "970 920 1187",
+          "formatting": "970 920 1187 (h)"
+        },
+        {
+          "type": "unknown",
+          "number": "505 946 2745",
+          "formatting": "505 946 2745 (w olivia)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 260 2223",
+          "formatting": "212 260 2223 NY apt"
+        }
+      ],
+      "emails": [
+        {
+          "address": "mgm@santafe.edu",
+          "type": "work",
+          "notes": "Santa Fe Institute email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Santa Fe Institute",
+            "1399 Hyde Park Road (w)",
+            "Santa Fe, NM 87501-8943"
+          ],
+          "city": "Santa Fe",
+          "state": "NM",
+          "postal_code": "87501",
+          "country": "USA",
+          "notes": "Santa Fe Institute - likely Nobel laureate physicist Murray Gell-Mann"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Santa Fe Institute - Nobel laureate physicist"
+    },
+    {
+      "entry_id": "072_gilman_kenneth",
+      "name": {
+        "full_name": "Gilman, Kenneth",
+        "prefix": null,
+        "first_name": "Kenneth",
+        "middle_name": null,
+        "last_name": "Gilman",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "614-415-7222",
+          "formatting": "614-415-7222 w"
+        },
+        {
+          "type": "home",
+          "number": "614-415-7185",
+          "formatting": "614-415-7185 h"
+        },
+        {
+          "type": "home",
+          "number": "614-252-0069",
+          "formatting": "614-252-0069 (h)"
+        },
+        {
+          "type": "work",
+          "number": "212-439-4200",
+          "formatting": "212-439-4200 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Vice Chairman/CFO",
+            "The Limited, Inc.",
+            "360 South Columbia Avenue",
+            "Columbus, Ohio 43209"
+          ],
+          "city": "Columbus",
+          "state": "OH",
+          "postal_code": "43209",
+          "country": "USA",
+          "notes": "The Limited corporate headquarters"
+        },
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Three Limited Parkway",
+            "Columbus, OH 43230"
+          ],
+          "city": "Columbus",
+          "state": "OH",
+          "postal_code": "43230",
+          "country": "USA",
+          "notes": "Limited Brands headquarters"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Vice Chairman/CFO of The Limited, Inc."
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 11,
+    "entries_with_emails": 4,
+    "entries_with_addresses": 9,
+    "entries_with_handwritten_notes": 0,
+    "couples": 0,
+    "average_confidence": "high",
+    "notable_figures_count": 3
+  },
+  "cross_references": [
+    {
+      "from": "072_epstein_jeffrey",
+      "to": "Jeffrey Epstein main entries",
+      "relationship": "property_listing",
+      "note": "Michigan vacation home for Jeffrey Epstein"
+    },
+    {
+      "from": "072_epstein_mark",
+      "to": "072_epstein_mark_2",
+      "relationship": "possibly_same_person",
+      "note": "Two Mark Epstein entries - NYC and Georgia"
+    },
+    {
+      "from": "072_epstein_paula",
+      "to": "Jeffrey Epstein",
+      "relationship": "possibly_related",
+      "note": "Paula Epstein in Florida - possible family member"
+    },
+    {
+      "from": "072_farkas_jonathan",
+      "to": "072_farkas_andrew",
+      "relationship": "possibly_related",
+      "note": "Both Farkas entries in NYC real estate"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jonathan D. Farkas",
+      "Jeffrey Epstein",
+      "Mark Epstein (NYC)",
+      "Mark Epstein (Georgia)",
+      "Paula Epstein",
+      "Andrew Farkas",
+      "Taylor Foster",
+      "Danielle (pastry dept)",
+      "Eric Gany",
+      "Victor Gany (brother)",
+      "Nancy (wire contact)",
+      "Murray Gell-Mann",
+      "Olivia (assistant)",
+      "Kenneth Gilman",
+      "Joyce Michayluk (nurse)"
+    ],
+    "organizations": [
+      "Live Run Realty Corp.",
+      "Island Capital",
+      "Isho Family & Companies, Inc.",
+      "Federal Express",
+      "Santa Fe Institute",
+      "The Limited, Inc.",
+      "Limited Brands"
+    ],
+    "locations": {
+      "international": [
+        "Paris, France (FedEx)",
+        "Johannesburg, South Africa (FedEx)"
+      ],
+      "us_cities": [
+        "New York City, NY",
+        "Interlaken, MI",
+        "Stone Mountain, GA",
+        "West Palm Beach, FL",
+        "Santa Fe, NM",
+        "Columbus, OH",
+        "Wilton, CT"
+      ],
+      "elite_addresses": [
+        "52 E. 72nd Street, NYC (Jonathan Farkas)",
+        "717 Fifth Avenue, NYC (Island Capital)",
+        "60 E. 65th Street, NYC (Taylor Foster)",
+        "Michigan vacation property (Jeffrey Epstein)",
+        "125 Lake Paula Drive, West Palm Beach (Paula Epstein)"
+      ]
+    }
+  },
+  "insights": [
+    "CRITICAL: Jeffrey Epstein Michigan property - Epstein Lodge in Interlaken, MI with FedEx delivery address",
+    "Mark Epstein appears twice - NYC location (Isho Family & Companies) and Georgia location, suggesting business/family complexity",
+    "Paula Epstein in West Palm Beach with nurse Joyce Michayluk - suggests medical care needs",
+    "Andrew Farkas - Island Capital on 717 Fifth Avenue, major NYC real estate developer",
+    "Murray Gell-Mann - Nobel Prize physicist at Santa Fe Institute, multiple residences (Santa Fe, Aspen, NYC)",
+    "Kenneth Gilman - Vice Chairman/CFO of The Limited, Inc. (Victoria's Secret parent company)",
+    "Federal Express section shows multiple account numbers including 'Zorro' and 'Z Max Hotel' accounts",
+    "Taylor Foster at 60 E. 65th Street - very close to main Epstein residence at 9 E. 71st",
+    "Jonathan Farkas - Live Run Realty Corp, multiple Upper East Side addresses",
+    "Eric Gany with brother Victor contact - Connecticut based with vacation property",
+    "FedEx international numbers for Paris and Johannesburg suggest global operations",
+    "Multiple Epstein family members listed - Jeffrey (Michigan), Mark (2 entries), Paula (Florida)",
+    "The Limited connection through Kenneth Gilman adds to Victoria's Secret/L Brands network",
+    "Santa Fe Institute connection through Murray Gell-Mann suggests scientific/academic network",
+    "Concentration of Upper East Side Manhattan addresses (E. 65th, E. 72nd, E. 75th Streets)"
+  ]
+}

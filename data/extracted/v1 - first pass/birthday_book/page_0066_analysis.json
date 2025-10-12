@@ -1,0 +1,710 @@
+{
+  "page_number": 66,
+  "file_path": "data/birthday_book_images/page_0066.png",
+  "file_size_mb": 0.42792797088623047,
+  "type": "yearbook_pages",
+  "content": {
+    "text": "Full transcription of yearbook page 66 with Class 9SP3, Class 8-SPE, Class 9-7, and Class 9-12",
+    "handwritten": false,
+    "typed": true,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "Bouquets and Brickbats of\nCLASS 9SP3\n\nSCOTT EHRLICH—Is good in math. Fame will one day cross his path.\nWARREN EISENSTEIN—'I didn't do it' is his alibi. 'It was me that talked, honest'!\nSTEPHEN GARONE—He will be popular in English but never win the speller.\nHOWARD GLANTZMAN—Hear the noise in back of the room, kidding aside sometimes it's fun.\nPAUL KAMINSKY—Paul is a genius but never shows it; we wonder if he really knows it.\nCASEY KOPOWITZ—There are happy people, jealous ones and worrisome, then there are good people, there are nice people than there's Casey.\nMARK LIPTON—Our captain brave and strong, How come he always looks so wrong?\nJOEL MANDLEMAN—If home he says he often strains, Why, then, at loose leaves he his brains?\nELLIOT RAINES—With Eisenstein, he'll answer quickly; Ask about science, he'll answer thickly.\nSTEPHEN SCHWARTZ—Humpty and jolly, a great guy, by golly!\nBETTY BRODSKY—Always a pleasure, always a delight, she'll lose anything she doesn't lose yet.\nSHARON BROYDE—Sharon's motto will be forever 'It's always better late—than never.'\nCHERYL GREENSPAN—If you need someone to brighten your way, Cheryl will do it by smiling all day.\n\nELLEN KATZ—Ellen is long and lanky. She studies with no hanky panky.\nDEBRA NESSEL—Debbie is full of joy. Only when she's with a boy.\nGALE REIF—Gale will be a secretary and you may as well clap, for she'll wind up sitting on her boss's lap.\nENID ROSEMAN—They don't come sweeter. No one can beat-er.\nAUDREY ROTH—There are geese in flocks and cattle in herds. There is Audrey, who is great big words.\nBARBARA SCHWARTZ—Boy and gentle, nice and sweet. The kind of girl we like to meet.\nMERRIL SINGER—There are as many freckles on her face as there are hairs in Dorothy Jane.\nSANDRA STEIGMAN—She will always learn is no exception.\nMELODY STERN—Melody is always the center of attraction, without her around there'd never be action.\nKATHLEEN SUTER—Rumpelstiltskin never spun a gold as lovely as Kathleen's hair.\nJUDITH TLUMAN—Soy and quiet in her seat, doesn't Judy look just sweet!\nMRS. SCHAELSTEIN—A little laugh, a little cheer, a lot of work—Mrs. Schaelstein's here!\n\nAdieu, Adios, Auf Wiedersehen . . .\nTill we meet again—\nFarewell, Mark Twain.\n\nCLASS 8-SPE\n\nSusan Jacobs          Richard Girard\nJanis Simpson         Howard Richman\nHelga Sumuelisch      Jill Neihauski\nElaine E. Siseling    Elizabeth Laufer\nIris Hershenson       Joanne Morano\nAllan Jeffrey Steinumer  Robbie Tislansky\nLeonard Klein         Robin Miller\nLynn Henn            Robert Rosenbaum\nMr. M. Dilliker       Gary Olitit\nSybil Bess          Bernard Markowitz\nLynn Kritz           Juanita Ellen Stokes\nIan Cohen            William Eisenstein\nArnold Hoon          Janice Luby\nEric Barsky          Howard Tobak\nMark Schumer         Brigitte Bulinsky\n\nClass 9-7\n\nCome out of your coma\nAnd get a diploma—\nLike we did . . .\n\nClass 9-12\n\nand MR. PATASHNA",
+      "letterhead": "Bouquets and Brickbats of",
+      "main_body": "Multiple class sections with student names and quotes",
+      "captions": [],
+      "margins": ["56", "HOUSE_OVERSIGHT_000066"],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Scott Ehrlich",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 - Is good in math. Fame will one day cross his path.",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Warren Eisenstein",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 - 'I didn't do it' is his alibi. 'It was me that talked, honest'!",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Stephen Garone",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 - He will be popular in English but never win the speller.",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Howard Glantzman",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 - Hear the noise in back of the room, kidding aside sometimes it's fun.",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Paul Kaminsky",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 - Paul is a genius but never shows it; we wonder if he really knows it.",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Casey Kopowitz",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 - There are happy people, jealous ones and worrisome, then there are good people, there are nice people than there's Casey.",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Mark Lipton",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 - Our captain brave and strong, How come he always looks so wrong?",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Joel Mandleman",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 - If home he says he often strains, Why, then, at loose leaves he his brains?",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Eliot Raines",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 - With Eisenstein, he'll answer quickly; Ask about science, he'll answer thickly.",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Stephen Schwartz",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 - Humpty and jolly, a great guy, by golly!",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Betty Brodsky",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 - Always a pleasure, always a delight, she'll lose anything she doesn't lose yet.",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Sharon Broyde",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 - Sharon's motto will be forever 'It's always better late—than never.'",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Cheryl Greenspan",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 - If you need someone to brighten your way, Cheryl will do it by smiling all day.",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Ellen Katz",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 - Ellen is long and lanky. She studies with no hanky panky.",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Debra Nessel",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 - Debbie is full of joy. Only when she's with a boy.",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Gale Reif",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 - Gale will be a secretary and you may as well clap, for she'll wind up sitting on her boss's lap.",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Enid Roseman",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 - They don't come sweeter. No one can beat-er.",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Audrey Roth",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 - There are geese in flocks and cattle in herds. There is Audrey, who is great big words.",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Barbara Schwartz",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 - Boy and gentle, nice and sweet. The kind of girl we like to meet.",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Merrill Singer",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 - There are as many freckles on her face as there are hairs in Dorothy Jane.",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Sandra Steigman",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 - She will always learn is no exception.",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Melody Stern",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 - Melody is always the center of attraction, without her around there'd never be action.",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Kathleen Suter",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 - Rumpelstiltskin never spun a gold as lovely as Kathleen's hair.",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Judith Tluman",
+        "title": null,
+        "relationship": null,
+        "context": "Class 9SP3 - Soy and quiet in her seat, doesn't Judy look just sweet!",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Mrs. Schaelstein",
+        "title": "Teacher",
+        "relationship": "Class 9SP3 teacher",
+        "context": "Class 9SP3 - A little laugh, a little cheer, a lot of work—Mrs. Schaelstein's here!",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Susan Jacobs",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Janis Simpson",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Helga Sumuelisch",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Elaine E. Siseling",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Iris Hershenson",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Allan Jeffrey Steinumer",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Leonard Klein",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Lynn Henn",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Mr. M. Dilliker",
+        "title": "Teacher",
+        "relationship": "Class 8-SPE teacher",
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Sybil Bess",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Lynn Kritz",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Ian Cohen",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Arnold Hoon",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Eric Barsky",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Mark Schumer",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Richard Girard",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Howard Richman",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Jill Neihauski",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Elizabeth Laufer",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Joanne Morano",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Robbie Tislansky",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Robin Miller",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Robert Rosenbaum",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Gary Olitit",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Bernard Markowitz",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Juanita Ellen Stokes",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "William Eisenstein",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Janice Luby",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Howard Tobak",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Brigitte Bulinsky",
+        "title": null,
+        "relationship": null,
+        "context": "Class 8-SPE",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Mark Twain",
+        "title": null,
+        "relationship": null,
+        "context": "Farewell quote attribution",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      },
+      {
+        "name": "Mr. Patashna",
+        "title": "Teacher",
+        "relationship": "Class 9-12 teacher",
+        "context": "Class 9-12",
+        "confidence": "high",
+        "page_appearances": [
+          66
+        ]
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Class 9SP3",
+        "type": "school_class",
+        "context": "School yearbook class listing",
+        "confidence": "high"
+      },
+      {
+        "name": "Class 8-SPE",
+        "type": "school_class",
+        "context": "School yearbook class listing",
+        "confidence": "high"
+      },
+      {
+        "name": "Class 9-7",
+        "type": "school_class",
+        "context": "School yearbook class listing",
+        "confidence": "high"
+      },
+      {
+        "name": "Class 9-12",
+        "type": "school_class",
+        "context": "School yearbook class listing",
+        "confidence": "high"
+      }
+    ],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "School yearbook class listings",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "yearbook_pages"
+  },
+  "insights": [
+    "Contains multiple class listings from school yearbook with 'Bouquets and Brickbats' theme",
+    "Class 9SP3 has humorous and sometimes pointed descriptions of each student",
+    "Class 8-SPE lists 30 students plus teacher Mr. M. Dilliker",
+    "Class 9-7 has only a brief poetic quote about getting diplomas",
+    "Class 9-12 mentions only Mr. Patashna (teacher)",
+    "Warren Eisenstein in Class 9SP3 may be related to William Eisenstein in Class 8-SPE",
+    "Two Schwartz students: Stephen in 9SP3 and Barbara in 9SP3",
+    "Descriptions include personality traits, academic abilities, and physical characteristics",
+    "Some descriptions contain mild teasing or inside jokes typical of yearbooks",
+    "Page ends with multilingual farewell: 'Adieu, Adios, Auf Wiedersehen'",
+    "Full extraction completed 2025-09-28 with all quotes and class data"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000066",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-28T15:45:00.000Z",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "relationships": [
+    {
+      "person1": "Warren Eisenstein",
+      "person2": "William Eisenstein",
+      "relationship_type": "possible_family",
+      "confidence": "medium",
+      "notes": "Same surname, different classes"
+    },
+    {
+      "person1": "Stephen Schwartz",
+      "person2": "Barbara Schwartz",
+      "relationship_type": "possible_family",
+      "confidence": "medium",
+      "notes": "Same surname, same class"
+    },
+    {
+      "person1": "Eliot Raines",
+      "person2": "Warren Eisenstein",
+      "relationship_type": "classmates",
+      "confidence": "high",
+      "notes": "Referenced together in Raines' description"
+    }
+  ],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": true,
+    "high_priority": false,
+    "quality_score": 95,
+    "review_notes": ["Full extraction completed with all quotes and class listings"]
+  },
+  "forensic_notes": [],
+  "investigative_leads": []
+}

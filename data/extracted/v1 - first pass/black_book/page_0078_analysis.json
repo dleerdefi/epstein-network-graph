@@ -1,0 +1,641 @@
+{
+  "page_number": 78,
+  "section": "P-S Names",
+  "entries": [
+    {
+      "name": "Piver, Stuart",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "10 West 67th Street (h)",
+          "street": "10 West 67th Street",
+          "city": "New York",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "New York, NY 10023",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10023",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 245 5999",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 246 0557",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "H",
+          "number": "212 245 5999 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "W",
+          "number": "212 334 1000 (w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Stuart Piver - West 67th Street NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Preece Darg",
+      "category": "Personal",
+      "location": "UK",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "3133 Pineapple Court",
+          "street": "3133 Pineapple Court",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "West Palm Beach, FL 33409",
+          "city": "West Palm Beach",
+          "state": "FL",
+          "postal_code": "33409",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "notes": "Darg Preece - West Palm Beach FL",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Aviation Entries",
+      "category": "Service",
+      "location": "International",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "201 286 1900 International Avia-",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "901 920 9946 Aspen Base Crew",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "201 286 1900",
+          "area_code": "201",
+          "geographic_indicator": "New Jersey",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "901 920 9946",
+          "area_code": "901",
+          "geographic_indicator": "Tennessee",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 826 8949 Ed Gerald Aviation",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 319 5040 SIA Signature",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 685 4448 Boston Signature",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Other Aviation Signatures",
+        "212 826 8950 Boston Signature",
+        "516 935 8828 Columbus Pilot Cell",
+        "516 287 8141 FAA/Lane Aviation",
+        "212 642 2370 Bunker Intense",
+        "407 208 Atlantic Avia-",
+        "562 981 5333 Romeo air",
+        "424 456 1701 Bellman air",
+        "404 5734 LAE General",
+        "408-244-2455 Van Nuys - Million",
+        "201-336-9375 Jet West (Van)",
+        "917-709-5726 Rick Travis",
+        "183 212 9900 Dollar Plane",
+        "516 678 9100 White Plains",
+        "718 244 4114 JFK General Avia-"
+      ],
+      "notes": "Multiple aviation and pilot services",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Some entries incomplete"]
+      }
+    },
+    {
+      "name": "Quinn, Thomas H.",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Central Real Estate",
+          "company": "Central Real Estate",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Post Office Box 8988",
+          "postal_box": "Post Office Box 8988",
+          "confidence": "high"
+        },
+        {
+          "type": "tertiary",
+          "address": "Long Boat Key",
+          "city": "Long Boat Key",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "202 810 2144",
+          "area_code": "202",
+          "geographic_indicator": "Washington DC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "202 810 2148",
+          "area_code": "202",
+          "geographic_indicator": "Washington DC",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "NYC - 212 [illegible]",
+        "Home: 202 466 5001 Ave NW"
+      ],
+      "notes": "Thomas H. Quinn - Central Real Estate, Long Boat Key",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One phone number illegible"]
+      }
+    },
+    {
+      "name": "Ranieri, Lewis S.",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "720 N. Regent Street",
+          "street": "720 N. Regent Street",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Woodmere, NY 11598",
+          "city": "Woodmere",
+          "state": "NY",
+          "postal_code": "11598",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212-509-0115 Office",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "516 239 5400",
+          "area_code": "516",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "516 295 4424 N",
+          "area_code": "516",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "516 239 0115 House #",
+          "area_code": "516",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "516 295 8333 Cell",
+          "area_code": "516",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Lewis S. Ranieri - Woodmere NY",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Razak, Ed",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "8760 Sherwood Basel (h)",
+          "street": "8760 Sherwood Basel",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Louisville, CT 62310",
+          "city": "Louisville",
+          "state": "CT",
+          "postal_code": "62310",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "notes": "Ed Razak - Louisville CT",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Rodgers, Dave",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Park Hamilton Drive",
+          "street": "Park Hamilton Drive",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "New West NY 10024",
+          "city": "New West",
+          "state": "NY",
+          "postal_code": "10024",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 799 1007",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 799 1008",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "617 744 6649 W",
+          "area_code": "617",
+          "geographic_indicator": "Boston",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "1 514 433 0163 travel ring inner",
+        "alum"
+      ],
+      "notes": "Dave Rodgers - Park Hamilton Drive NY",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Rosovsky, Henry",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "177 West Brookline",
+          "street": "177 West Brookline",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "14 Prince Place, apt 10b",
+          "street": "14 Prince Place apt 10b",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "617-263-8134 home",
+          "area_code": "617",
+          "geographic_indicator": "Boston",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Cambridge 02138",
+        "617-332-3137 (home)"
+      ],
+      "notes": "Henry Rosovsky - West Brookline and Cambridge",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Ross, David",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Redbird Airport",
+          "location": "Redbird Airport",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "214 330 1111",
+          "area_code": "214",
+          "geographic_indicator": "Dallas",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "972 237 4001 CA",
+          "area_code": "972",
+          "geographic_indicator": "Dallas suburbs",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Cell 61333-3159",
+        "Cell Business Jet",
+        "Signature FBO #",
+        "Main Office",
+        "Dallas Airport",
+        "Fort Worth TX 76113",
+        "Keller, Gerald & Assoc # ",
+        "Bonanza 2214"
+      ],
+      "notes": "David Ross - Redbird Airport Dallas",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Rocesteier, David",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1011 Atlantic Drive",
+          "street": "1011 Atlantic Drive",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York, NY 10034",
+          "postal_code": "10034",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "212-874-1474 Home",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "New York City Riverscl Cam",
+        "New York City"
+      ],
+      "notes": "David Rocesteier - Atlantic Drive NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Roxton Sporting",
+      "category": "Business",
+      "location": "UK",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Cherry Hayross",
+          "location": "Cherry Hayross",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0044 1234 881447",
+          "area_code": "44",
+          "geographic_indicator": "UK",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0044 1767 681 Ben",
+          "area_code": "44",
+          "geographic_indicator": "UK",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0044 1530947 Max",
+          "area_code": "44",
+          "geographic_indicator": "UK",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Roxton Sporting - UK sporting venue",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Sacks Oliver Dr.",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "2 Horatio Street #3G",
+          "street": "2 Horatio Street #3G",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "New York 10014",
+          "city": "New York",
+          "postal_code": "10014",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 633 8373",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 633 8926 office",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Dr. Oliver Sacks - Horatio Street NYC, neurologist/author",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Schaeffer, Stan",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "2311 Broadway",
+          "street": "2311 Broadway",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Box",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "Daire Park & 29th w",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "917 374 885 8837 w",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "304 516 337 9770",
+          "area_code": "304",
+          "geographic_indicator": "West Virginia",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Stan Schaeffer - Broadway address",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Some phone numbers unclear"]
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 13,
+    "illegible_entries": 0,
+    "partial_entries": 4,
+    "sections": ["P-S Names", "Aviation Services"],
+    "notable_entries": [
+      "Dr. Oliver Sacks - Neurologist/author",
+      "Lewis S. Ranieri - Mortgage securities pioneer",
+      "Thomas H. Quinn - Central Real Estate",
+      "Henry Rosovsky - Harvard academic",
+      "Multiple aviation and pilot services"
+    ],
+    "geographic_distribution": {
+      "usa": 12,
+      "uk": 1,
+      "nyc": 7,
+      "florida": 2,
+      "dallas": 1,
+      "boston": 2
+    },
+    "location_highlights": [
+      "West 67th Street NYC",
+      "Horatio Street (Dr. Oliver Sacks)",
+      "Redbird Airport Dallas",
+      "Multiple aviation service contacts",
+      "Long Boat Key Florida"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 9,
+      "medium_confidence": 3,
+      "low_confidence": 1,
+      "specific_issues": [
+        "Aviation entries partially incomplete",
+        "Some phone numbers unclear",
+        "Various addresses fragmentary"
+      ]
+    }
+  }
+}

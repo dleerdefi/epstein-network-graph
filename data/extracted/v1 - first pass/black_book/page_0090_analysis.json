@@ -1,0 +1,381 @@
+{
+  "page_number": 90,
+  "section": "Travel and Airlines",
+  "entries": [
+    {
+      "name": "Navigard",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "800 223 5662 Navigard",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "877 877 0867 Amex Centurion",
+          "area_code": "877",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Navigard and Amex Centurion services",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Travel",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "1 800 443 7672 Amex Plat.",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Amex Platinum Travel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Platinum/Heather Travel",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "800 443-7672 Platinum/Heather",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "800 223 7500",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Platinum/Heather Travel services",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Global Travel",
+      "category": "Service",
+      "location": "International",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "800 119 2440123339 Global Travel",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Global Travel services",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Travels and Tours",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "410 646 2741 1st & Bust /Charlie",
+          "area_code": "410",
+          "geographic_indicator": "Maryland",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 983 0775 UN Travels and Tours",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "301 633-8763 Domestic only ml.",
+          "area_code": "301",
+          "geographic_indicator": "Maryland",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Various travel and tour services",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Virgin specialist",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "800 239 8289 Virgin specialist",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Virgin travel specialist",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "TWA",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 800 221 2000",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "#186925144 frequent flier number",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "3285 6350",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "#40833459 frequent flier number (JE)",
+          "confidence": "low"
+        }
+      ],
+      "notes": "TWA airline services",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Frequent flier numbers format only"]
+      }
+    },
+    {
+      "name": "United Airlines",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 800 241 6522",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "#003652506T4 frequent flier #",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0171",
+          "area_code": "0171",
+          "geographic_indicator": "London (old)",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "00016224999 frequent flyer # J.E.",
+          "confidence": "low"
+        }
+      ],
+      "notes": "United Airlines",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Frequent flier numbers and incomplete phone"]
+      }
+    },
+    {
+      "name": "US Air",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Frequent Transfer Center",
+          "department": "Frequent Transfer Center",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "P.O. Box 5",
+          "po_box": "P.O. Box 5",
+          "confidence": "high"
+        },
+        {
+          "type": "tertiary",
+          "address": "Winston Salem, NC 27102-0005",
+          "city": "Winston Salem",
+          "state": "NC",
+          "postal_code": "27102-0005",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 800 872 4738",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 800 428 4322",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 800 428 4322",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "#116633311 frequent flier number (GM)"
+      ],
+      "notes": "US Air - Frequent Transfer Center Winston Salem",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "USA International",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "218 West 47th Street (B'Way)",
+          "street": "218 West 47th Street",
+          "location": "Broadway",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "New York, NY",
+          "city": "New York",
+          "state": "NY",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "notes": "USA International - West 47th Street Broadway",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Virgin Atlantic Airways",
+      "category": "Service",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "628-365-200",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 800 862 8621",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "800 500 043 506 frequent flier",
+          "area_code": "800",
+          "geographic_indicator": "Toll-free",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 779 043 628 frequent flier number (JE)",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Virgin Atlantic Airways",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Some numbers format unclear"]
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 11,
+    "illegible_entries": 0,
+    "partial_entries": 3,
+    "sections": ["Travel Services", "Airlines"],
+    "notable_entries": [
+      "Major airlines (TWA, United, US Air, Virgin Atlantic)",
+      "Amex Centurion and Platinum travel services",
+      "US Air Frequent Transfer Center",
+      "Various travel specialists and consolidators"
+    ],
+    "geographic_distribution": {
+      "usa": 10,
+      "uk": 1,
+      "international": 1
+    },
+    "location_highlights": [
+      "US Air Frequent Transfer Center - Winston Salem NC",
+      "USA International - West 47th Street Broadway",
+      "Multiple airline frequent flyer programs",
+      "Various toll-free travel services"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 8,
+      "medium_confidence": 2,
+      "low_confidence": 1,
+      "specific_issues": [
+        "Multiple frequent flier numbers in account format only",
+        "Some phone numbers incomplete",
+        "Virgin Atlantic numbers format unclear"
+      ]
+    }
+  }
+}

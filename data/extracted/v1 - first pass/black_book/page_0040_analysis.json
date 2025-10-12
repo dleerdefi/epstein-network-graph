@@ -1,0 +1,735 @@
+{
+  "page_number": 40,
+  "alphabetical_section": "N",
+  "contacts": [
+    {
+      "name": "Nadler Emanuel",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 758 8340",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Nagel Adam",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 873 2022",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 203 642 XX",
+          "area_code": "203",
+          "geographic_indicator": "Connecticut",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Nagel William",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 243 8636",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Nardi, Dott M Jacopo",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "52/60 683 1486",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 39 38936749070",
+          "country_code": "39",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "00 39 2 95346379 (m)",
+          "country_code": "39",
+          "area_code": "2",
+          "geographic_indicator": "Milan, Italy",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Nestasse Ille & Alex",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "101 Rue l'oment",
+          "street": "101 Rue l'oment",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Bay NY 10021",
+          "city": "Bay",
+          "state": "NY",
+          "postal_code": "10021",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 732 2338",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 646 334 5541",
+          "area_code": "646",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "352 661 250 4493(a)",
+          "country_code": "352",
+          "geographic_indicator": "Luxembourg",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Negrare, Jalizz",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "303 Park Avenue",
+          "street": "303 Park Avenue",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Suite 3160",
+          "unit": "Suite 3160",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "New York NY[illegible]",
+          "city": "New York",
+          "state": "NY",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 385 1782",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 385 7733",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Neil Andrew",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "10 Connan Place",
+          "street": "10 Connan Place",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW3 11BP",
+          "city": "London",
+          "postal_code": "SW3 11BP",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 244 1788",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "Email: ellen@[illegible].com"
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Neil, Andrew",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "225 E 79th St #11A",
+          "street": "225 E 79th St",
+          "unit": "#11A",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York NY",
+          "city": "New York",
+          "state": "NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 288 9229",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 988 6229 (w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Newman, Hetty",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Chelsea Studios",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London",
+          "city": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 415 9999",
+          "area_code": "415",
+          "geographic_indicator": "San Francisco, CA",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 5844000",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Newman, Mr & Mrs John",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Cleveland Park",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Connecticut[Glebe]layne",
+          "state": "Connecticut",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "[illegible]Connecticut",
+          "state": "Connecticut",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0203 435 0009 (h)",
+          "area_code": "0203",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01724 204 9(b) (o)",
+          "area_code": "01724",
+          "geographic_indicator": "Scunthorpe, UK",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Ng, Clive",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "5-C Broadway",
+          "street": "5-C Broadway",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York",
+          "city": "New York",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 585 01 10013",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "646 283 9665",
+          "area_code": "646",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Niarchos, Constantine",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "53 [illegible] Street",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW3 XXX",
+          "city": "London",
+          "postal_code": "SW3",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 823 6445[h]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 589 [illegible]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "00 41 22639431 928 (St M)",
+          "country_code": "41",
+          "area_code": "22",
+          "geographic_indicator": "Geneva, Switzerland",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Niarchos shipping family",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Nickerson, William & Jayne",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "375 Stegman Road",
+          "street": "375 Stegman Road",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "XXXX",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 243 1806 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Nisbit, Margaret",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "209-11 Woodward Pl.",
+          "street": "209-11 Woodward Pl",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "XX XX O1943",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 613 0788(c)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207—452 (office)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207—452 (486001)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Noel, Vanessa",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "12 East 86th St Apt2",
+          "street": "12 East 86th St",
+          "unit": "Apt2",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York NY",
+          "city": "New York",
+          "state": "NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 935 7078",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 410 8154 (w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Noha, Cecilia",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 663 4498",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Noonan, Tim",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 446 3881",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Nuttall, Harry",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "9 Wellesburna[illegible]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "153 Masongrove[illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "[illegible] XX X X",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "Apt[o]33",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0131 623 XXXX[h]",
+          "area_code": "0131",
+          "geographic_indicator": "Edinburgh, Scotland",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "The Welshstone Crave Place",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "Monday[?]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "00 7 3810",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "NYC",
+          "city": "NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01786 000 326 (o)",
+          "area_code": "01786",
+          "geographic_indicator": "Stirling, Scotland",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Noel, Jean Thomson",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "64 Lansdown Rd[flat]",
+          "street": "64 Lansdown Rd",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London W 11 1 DP",
+          "city": "London",
+          "postal_code": "W11 1DP",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 243 XXX 48",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        "[illegible]@email"
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Pablo Oarkam Lena davidov",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "01743 271[h]",
+          "area_code": "01743",
+          "geographic_indicator": "Shrewsbury, UK",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "01743 85155 (h)",
+          "area_code": "01743",
+          "geographic_indicator": "Shrewsbury, UK",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Noel Alix",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "10 Grove Ave",
+          "street": "10 Grove Ave",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "N6 5JX",
+          "postal_code": "N6 5JX",
+          "geographic_indicator": "North London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 203 661 0556(h)",
+          "area_code": "203",
+          "geographic_indicator": "Connecticut",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 203 661 0558(w)",
+          "area_code": "203",
+          "geographic_indicator": "Connecticut",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 21,
+    "quality": "poor",
+    "legibility": "heavily degraded",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "Constantine Niarchos - Greek shipping family"
+    ]
+  },
+  "insights": [
+    "Constantine Niarchos - prominent Greek shipping family",
+    "Luxembourg connection (352 country code)",
+    "Geneva Switzerland connection",
+    "San Francisco connection (415)",
+    "Edinburgh Scotland presence (0131)",
+    "Stirling Scotland presence (01786)",
+    "Shrewsbury UK presence (01743)",
+    "Scunthorpe UK connection (01724)",
+    "Strong Manhattan NYC presence",
+    "Connecticut continuing presence"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "medium",
+    "total_contacts": 21,
+    "high_confidence": 10,
+    "medium_confidence": 8,
+    "low_confidence": 3,
+    "extraction_issues": [
+      "Heavy page degradation",
+      "Multiple illegible entries",
+      "Several incomplete addresses",
+      "Some phone numbers partially obscured"
+    ]
+  }
+}

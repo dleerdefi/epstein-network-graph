@@ -1,0 +1,961 @@
+{
+  "page_number": 18,
+  "alphabetical_section": "E-F",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "018_evans_chris",
+      "name": {
+        "full_name": "Evans Chris",
+        "first_name": "Chris",
+        "last_name": "Evans"
+      },
+      "phones": [
+        {
+          "number": "0207-653 3601",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "207"
+        },
+        {
+          "number": "0441 077441",
+          "type": "unknown",
+          "country_code": "+44"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "018_evehart_angie",
+      "name": {
+        "full_name": "Evehart Angie",
+        "first_name": "Angie",
+        "last_name": "Evehart"
+      },
+      "phones": [
+        {
+          "number": "001 310 560 5150(h)",
+          "type": "home",
+          "country_code": "+1",
+          "area_code": "310"
+        }
+      ],
+      "emails": [
+        {
+          "address": "eka722@aol.com",
+          "type": "personal"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "018_faber_david",
+      "name": {
+        "full_name": "Faber David",
+        "first_name": "David",
+        "last_name": "Faber"
+      },
+      "phones": [
+        {
+          "number": "0207-598 4300",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "207"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "minimal",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "018_faber_sally_brook_johnson",
+      "name": {
+        "full_name": "Faber Sally & Brook Johnson",
+        "first_name": "Sally",
+        "last_name": "Faber",
+        "spouse_name": "Brook Johnson",
+        "is_couple": true
+      },
+      "phones": [
+        {
+          "number": "Charlton Down Estate",
+          "type": "unknown",
+          "notes": "Property name"
+        },
+        {
+          "number": "Charlton Down, Tetbury",
+          "type": "unknown",
+          "notes": "Location"
+        },
+        {
+          "number": "Gloucestershire, GL8 8TZ",
+          "type": "unknown",
+          "notes": "County and postal code"
+        },
+        {
+          "number": "01666 890231(h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "1666"
+        },
+        {
+          "number": "07770 985 908(p)",
+          "type": "mobile",
+          "country_code": "+44",
+          "area_code": "7770"
+        },
+        {
+          "number": "01666 890022 (hf)",
+          "type": "home_fax",
+          "country_code": "+44",
+          "area_code": "1666"
+        },
+        {
+          "number": "0793 611 4004 (car)",
+          "type": "car",
+          "country_code": "+44",
+          "area_code": "793"
+        }
+      ],
+      "emails": [
+        {
+          "address": "sallyfaber@hotmail.com",
+          "type": "personal"
+        }
+      ],
+      "addresses": [
+        {
+          "full_address": "Charlton Down Estate, Charlton Down, Tetbury, Gloucestershire, GL8 8TZ",
+          "property_name": "Charlton Down Estate",
+          "city": "Tetbury",
+          "county": "Gloucestershire",
+          "postal_code": "GL8 8TZ",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "complete",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "018_faibairn_charlotte",
+      "name": {
+        "full_name": "Faibairn, Charlotte",
+        "first_name": "Charlotte",
+        "last_name": "Faibairn"
+      },
+      "phones": [
+        {
+          "number": "& Hamish Fraser",
+          "type": "unknown",
+          "notes": "Name reference"
+        },
+        {
+          "number": "108 Elsley Road",
+          "type": "unknown",
+          "notes": "Address"
+        },
+        {
+          "number": "London SW11",
+          "type": "unknown",
+          "notes": "Location"
+        },
+        {
+          "number": "0207-223 1601 (h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "207"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "108 Elsley Road, London SW11",
+          "street": "108 Elsley Road",
+          "city": "London",
+          "postal_code": "SW11",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "With Hamish Fraser"
+    },
+    {
+      "entry_id": "018_fairfax_hon_rupert",
+      "name": {
+        "full_name": "Fairfax, The Hon Rupert",
+        "title": "The Hon",
+        "first_name": "Rupert",
+        "last_name": "Fairfax"
+      },
+      "phones": [
+        {
+          "number": "The Coach House",
+          "type": "unknown",
+          "notes": "Property name"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "The Coach House"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "minimal",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "British nobility"
+    },
+    {
+      "entry_id": "018_fairweather_natasha",
+      "name": {
+        "full_name": "Fairweather Natasha",
+        "first_name": "Natasha",
+        "last_name": "Fairweather"
+      },
+      "phones": [
+        {
+          "number": "Moscow",
+          "type": "unknown",
+          "notes": "Location"
+        },
+        {
+          "number": "00 795 2436722(h)",
+          "type": "home",
+          "country_code": "+7",
+          "area_code": "795"
+        },
+        {
+          "number": "00 795 2439762(f)",
+          "type": "fax",
+          "country_code": "+7",
+          "area_code": "795"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "Moscow",
+          "city": "Moscow",
+          "country": "Russia"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Moscow contact"
+    },
+    {
+      "entry_id": "018_fairweather_ms_catherine",
+      "name": {
+        "full_name": "Fairweather, Ms Catherine",
+        "title": "Ms",
+        "first_name": "Catherine",
+        "last_name": "Fairweather"
+      },
+      "phones": [
+        {
+          "number": "162 lancaster rd",
+          "type": "unknown",
+          "notes": "Address"
+        },
+        {
+          "number": "London W11",
+          "type": "unknown",
+          "notes": "Location"
+        },
+        {
+          "number": "0958 729667",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "958"
+        },
+        {
+          "number": "0207-4395000 (w)5560",
+          "type": "work",
+          "country_code": "+44",
+          "area_code": "207",
+          "extension": "5560"
+        },
+        {
+          "number": "0207-792 8247(h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "207"
+        },
+        {
+          "number": "0207—792 8247",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "207"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "162 lancaster rd, London W11",
+          "street": "162 lancaster rd",
+          "city": "London",
+          "postal_code": "W11",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "018_fairweather_ambassador_lady",
+      "name": {
+        "full_name": "Fairweather,Ambassador & Lady",
+        "title": "Ambassador & Lady",
+        "first_name": "Patrick & Maria",
+        "last_name": "Fairweather"
+      },
+      "phones": [
+        {
+          "number": "flat 1",
+          "type": "unknown",
+          "notes": "Flat number"
+        },
+        {
+          "number": "16 Wetherby Gdns",
+          "type": "unknown",
+          "notes": "Address"
+        },
+        {
+          "number": "London SW5 OJP",
+          "type": "unknown",
+          "notes": "Location"
+        },
+        {
+          "number": "0207-244 9602(h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "207"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "flat 1, 16 Wetherby Gdns, London SW5 OJP",
+          "street": "16 Wetherby Gdns",
+          "flat": "1",
+          "city": "London",
+          "postal_code": "SW5 OJP",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Diplomatic title"
+    },
+    {
+      "entry_id": "018_fakhre_armado_jasmine",
+      "name": {
+        "full_name": "Fakhre, Armado & Jasmine",
+        "first_name": "Armado",
+        "last_name": "Fakhre",
+        "spouse_name": "Jasmine",
+        "is_couple": true
+      },
+      "phones": [
+        {
+          "number": "19 The Boltons",
+          "type": "unknown",
+          "notes": "Address"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "19 The Boltons",
+          "street": "19 The Boltons"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Prestigious London address"
+    },
+    {
+      "entry_id": "018_falletans_olivier_de",
+      "name": {
+        "full_name": "Falletans, Olivier de",
+        "first_name": "Olivier",
+        "last_name": "de Falletans"
+      },
+      "phones": [
+        {
+          "number": "London SW10",
+          "type": "unknown",
+          "notes": "Location"
+        },
+        {
+          "number": "0207-352 2707(w)",
+          "type": "work",
+          "country_code": "+44",
+          "area_code": "207"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "18a Alexandra Ave, London SW11",
+          "street": "18a Alexandra Ave",
+          "city": "London",
+          "postal_code": "SW11",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "018_fakhre_danny_christine",
+      "name": {
+        "full_name": "Fakhre, Danny & Christine",
+        "first_name": "Danny",
+        "last_name": "Fakhre",
+        "spouse_name": "Christine",
+        "is_couple": true
+      },
+      "phones": [
+        {
+          "number": "97 Eaton Place",
+          "type": "unknown",
+          "notes": "Address"
+        },
+        {
+          "number": "London SW1",
+          "type": "unknown",
+          "notes": "Location"
+        },
+        {
+          "number": "07 Eaton Place",
+          "type": "unknown",
+          "notes": "Alternate address notation"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "97 Eaton Place, London SW1",
+          "street": "97 Eaton Place",
+          "city": "London",
+          "postal_code": "SW1",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Belgravia address"
+    },
+    {
+      "entry_id": "018_fall_meredith",
+      "name": {
+        "full_name": "Fall, Meredith",
+        "first_name": "Meredith",
+        "last_name": "Fall"
+      },
+      "phones": [
+        {
+          "number": "114 Rue du Bach",
+          "type": "unknown",
+          "notes": "Address"
+        },
+        {
+          "number": "Paris, France",
+          "type": "unknown",
+          "notes": "Location"
+        },
+        {
+          "number": "00 331 4222 0741",
+          "type": "unknown",
+          "country_code": "+33",
+          "area_code": "1"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "114 Rue du Bach, Paris, France",
+          "street": "114 Rue du Bach",
+          "city": "Paris",
+          "country": "France"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "018_fallah_mrs",
+      "name": {
+        "full_name": "Fallah, Mrs",
+        "title": "Mrs",
+        "first_name": "",
+        "last_name": "Fallah"
+      },
+      "phones": [
+        {
+          "number": "4 Bolney Gate",
+          "type": "unknown",
+          "notes": "Address"
+        },
+        {
+          "number": "Ennismore Gardens",
+          "type": "unknown",
+          "notes": "Street"
+        },
+        {
+          "number": "London SW7",
+          "type": "unknown",
+          "notes": "Location"
+        },
+        {
+          "number": "0207-584 7307 (h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "207"
+        },
+        {
+          "number": "0207-584 8238 (w)",
+          "type": "work",
+          "country_code": "+44",
+          "area_code": "207"
+        },
+        {
+          "number": "0207-371 5877",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "207"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "4 Bolney Gate, Ennismore Gardens, London SW7",
+          "street": "4 Bolney Gate, Ennismore Gardens",
+          "city": "London",
+          "postal_code": "SW7",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "018_fallah_ms_christina_jon_robe",
+      "name": {
+        "full_name": "Fallah, Ms Christina & Jon Robe",
+        "title": "Ms",
+        "first_name": "Christina",
+        "last_name": "Fallah",
+        "notes": "With Jon Robe"
+      },
+      "phones": [
+        {
+          "number": "41 Fitzjames Ave",
+          "type": "unknown",
+          "notes": "Address"
+        },
+        {
+          "number": "London",
+          "type": "unknown",
+          "notes": "City"
+        },
+        {
+          "number": "W14 OBR",
+          "type": "unknown",
+          "notes": "Postal code"
+        },
+        {
+          "number": "0207-510 4449(h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "207"
+        },
+        {
+          "number": "0207-371 5877(f)",
+          "type": "fax",
+          "country_code": "+44",
+          "area_code": "207"
+        },
+        {
+          "number": "Email: 0850 398879",
+          "type": "unknown",
+          "notes": "Unclear format"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "41 Fitzjames Ave, London W14 OBR",
+          "street": "41 Fitzjames Ave",
+          "city": "London",
+          "postal_code": "W14 OBR",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "018_fanjul_pepe",
+      "name": {
+        "full_name": "Fanjul, Pepe",
+        "first_name": "Pepe",
+        "last_name": "Fanjul"
+      },
+      "phones": [
+        {
+          "number": "561 655 6303 (w)",
+          "type": "work",
+          "country_code": "+1",
+          "area_code": "561"
+        },
+        {
+          "number": "561 655 1814 (w)",
+          "type": "work",
+          "country_code": "+1",
+          "area_code": "561"
+        },
+        {
+          "number": "212 472 8996(N",
+          "type": "unknown",
+          "country_code": "+1",
+          "area_code": "212"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Palm Beach area codes"
+    },
+    {
+      "entry_id": "018_faulkner_terence_cornelia",
+      "name": {
+        "full_name": "Faulkner, Terence & Cornelia",
+        "first_name": "Terence",
+        "last_name": "Faulkner",
+        "spouse_name": "Cornelia",
+        "is_couple": true
+      },
+      "phones": [
+        {
+          "number": "0207-580 0381 (h)",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "207"
+        },
+        {
+          "number": "0207-937 1992 (w)",
+          "type": "work",
+          "country_code": "+44",
+          "area_code": "207"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "018_feeley_fiona",
+      "name": {
+        "full_name": "Feeley, Fiona",
+        "first_name": "Fiona",
+        "last_name": "Feeley"
+      },
+      "phones": [
+        {
+          "number": "19 Chester Row",
+          "type": "unknown",
+          "notes": "Address"
+        },
+        {
+          "number": "London",
+          "type": "unknown",
+          "notes": "City"
+        },
+        {
+          "number": "SW1X 7JF",
+          "type": "unknown",
+          "notes": "Postal code"
+        },
+        {
+          "number": "U.K.",
+          "type": "unknown",
+          "notes": "Country"
+        },
+        {
+          "number": "0207-352 7033(w)",
+          "type": "work",
+          "country_code": "+44",
+          "area_code": "207"
+        }
+      ],
+      "emails": [
+        {
+          "address": "(NY) HEPICAAU@aol.com",
+          "type": "personal",
+          "notes": "NY email"
+        },
+        {
+          "address": "(Hm)Ashe House",
+          "type": "unknown",
+          "notes": "Home reference"
+        }
+      ],
+      "addresses": [
+        {
+          "full_address": "19 Chester Row, London SW1X 7JF",
+          "street": "19 Chester Row",
+          "city": "London",
+          "postal_code": "SW1X 7JF",
+          "country": "UK"
+        },
+        {
+          "full_address": "Overton, Berkshire",
+          "city": "Overton",
+          "county": "Berkshire",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "018_fekkai_frederic",
+      "name": {
+        "full_name": "Fekkai, Frederic",
+        "first_name": "Frederic",
+        "last_name": "Fekkai"
+      },
+      "phones": [
+        {
+          "number": "Frederic Fekkai Beauty Center",
+          "type": "unknown",
+          "notes": "Business name"
+        },
+        {
+          "number": "15 East 57th Street",
+          "type": "unknown",
+          "notes": "Address"
+        },
+        {
+          "number": "NY, NY 10022",
+          "type": "unknown",
+          "notes": "Location"
+        },
+        {
+          "number": "(btwn 5th & Madison)",
+          "type": "unknown",
+          "notes": "Location detail"
+        },
+        {
+          "number": "01256 771 411",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "1256"
+        },
+        {
+          "number": "07778 000 170 (p)",
+          "type": "mobile",
+          "country_code": "+44",
+          "area_code": "7778"
+        },
+        {
+          "number": "0774 130 526",
+          "type": "unknown",
+          "country_code": "+44",
+          "area_code": "774"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "Frederic Fekkai Beauty Center, 15 East 57th Street, NY, NY 10022",
+          "business_name": "Frederic Fekkai Beauty Center",
+          "street": "15 East 57th Street",
+          "city": "New York",
+          "state": "NY",
+          "zip": "10022"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "high",
+        "completeness": "partial",
+        "legibility": "excellent"
+      },
+      "formatting_notes": "Celebrity hairstylist"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 19,
+    "legibility": "excellent",
+    "notable_features": [
+      "Transition from E to F section",
+      "Ambassador Patrick Fairweather",
+      "The Hon Rupert Fairfax",
+      "Frederic Fekkai (celebrity hairstylist)",
+      "Multiple prestigious London addresses (The Boltons, Eaton Place)",
+      "Moscow contact (Natasha Fairweather)",
+      "Charlton Down Estate"
+    ],
+    "extraction_timestamp": "2025-01-29T17:15:00",
+    "extractor_version": "2.0"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Chris Evans",
+      "Angie Evehart",
+      "David Faber",
+      "Sally Faber",
+      "Brook Johnson",
+      "Charlotte Faibairn",
+      "Hamish Fraser",
+      "The Hon Rupert Fairfax",
+      "Natasha Fairweather",
+      "Catherine Fairweather",
+      "Ambassador Patrick Fairweather",
+      "Lady Maria Fairweather",
+      "Armado Fakhre",
+      "Jasmine Fakhre",
+      "Olivier de Falletans",
+      "Danny Fakhre",
+      "Christine Fakhre",
+      "Meredith Fall",
+      "Mrs Fallah",
+      "Christina Fallah",
+      "Jon Robe",
+      "Pepe Fanjul",
+      "Terence Faulkner",
+      "Cornelia Faulkner",
+      "Fiona Feeley",
+      "Frederic Fekkai"
+    ],
+    "organizations": [
+      "Frederic Fekkai Beauty Center"
+    ],
+    "locations": {
+      "cities": [
+        "London",
+        "Tetbury",
+        "Moscow",
+        "Paris",
+        "New York",
+        "Overton"
+      ],
+      "states": [
+        "NY"
+      ],
+      "countries": [
+        "UK",
+        "Russia",
+        "France",
+        "USA"
+      ]
+    }
+  },
+  "insights": [
+    "Page transitions from E to F section of address book",
+    "Ambassador Patrick Fairweather and Lady Maria listed with diplomatic title",
+    "The Hon Rupert Fairfax indicates British nobility connections",
+    "Frederic Fekkai - celebrity hairstylist with NYC beauty center on 57th Street",
+    "Multiple prestigious London addresses including The Boltons and Eaton Place (Belgravia)",
+    "Natasha Fairweather with Moscow phone numbers showing Russian connections",
+    "Charlton Down Estate in Gloucestershire owned by Sally Faber & Brook Johnson",
+    "Pepe Fanjul with Palm Beach area codes (561) suggesting Florida connections",
+    "Mix of old UK area codes (0171) transitioning to newer (0207)",
+    "Several entries show addresses mixed into phone number fields"
+  ]
+}

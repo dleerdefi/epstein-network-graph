@@ -1,0 +1,101 @@
+{
+  "page_number": 59,
+  "file_path": "data/birthday_book_images/page_0059.png",
+  "file_size_mb": 0.19565677642822266,
+  "type": "handwritten_narrative",
+  "content": {
+    "text": "Concord Hotel - Jewish Singles weekend sit us Down at table with ugly girls & I told them Don't you have any Pretty ones. We get in Room Jack says Don't touch my hair, you Dump water Right on his head then we set Room on fire. throwing food in Dining Room, No one would serve us - so they Put us By Kitchen. Gave us all our Money Back & told us to Leave & Never come Back",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "Concord Hotel - Jewish Singles weekend sit us Down at table with ugly girls & I told them Don't you have any Pretty ones. We get in Room Jack says Don't touch my hair, you Dump water Right on his head then we set Room on fire. throwing food in Dining Room, No one would serve us - so they Put us By Kitchen. Gave us all our Money Back & told us to Leave & Never come Back",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jack",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          59
+        ]
+      }
+    ],
+    "organizations": [
+      "Concord Hotel"
+    ],
+    "locations": [
+      "Concord Hotel"
+    ],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Concord Hotel incident",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "handwritten_narrative"
+  },
+  "insights": [
+    "Narrative about disruptive behavior at Concord Hotel",
+    "Jewish Singles weekend event",
+    "References inappropriate behavior including setting room on fire",
+    "Mentions person named Jack",
+    "Describes being ejected from hotel and banned"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000059",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.147750",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [],
+  "investigative_leads": []
+}

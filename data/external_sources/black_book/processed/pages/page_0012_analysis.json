@@ -1,0 +1,1028 @@
+{
+  "page_number": 12,
+  "alphabetical_section": "C/D",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "012_cohen_peter",
+      "name": {
+        "full_name": "Cohen Peter",
+        "prefix": null,
+        "first_name": "Peter",
+        "middle_name": null,
+        "last_name": "Cohen",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "305 588 9938",
+          "formatting": "305 588 9938"
+        },
+        {
+          "type": "home",
+          "number": "001 305 531 5370",
+          "formatting": "001 305 531 5370 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 305 772 3966",
+          "formatting": "001 305 772 3966 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "peter@thebox.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "400 South Point Drive, Apt. 2402"
+          ],
+          "city": "Miami Beach",
+          "state": null,
+          "postal_code": "FL 33139",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "012_coleman_jo",
+      "name": {
+        "full_name": "Coleman, Jo",
+        "prefix": null,
+        "first_name": "Jo",
+        "middle_name": null,
+        "last_name": "Coleman",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 260 7210",
+          "formatting": "001 212 260 7210 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 751 8654",
+          "formatting": "001 212 751 8654 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "166 E. 63rd St. 12 A"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "012_coleridge_nicholas_&_georgia",
+      "name": {
+        "full_name": "Coleridge, Nicholas",
+        "prefix": null,
+        "first_name": "Nicholas & Georgia",
+        "middle_name": null,
+        "last_name": "Coleridge",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Georgia"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "020 7499 0052 (Nick) (wf)",
+          "formatting": "020 7499 0052 (Nick) (wf)"
+        },
+        {
+          "type": "work",
+          "number": "020 7499 9080 (Nick)",
+          "formatting": "020 7499 9080 (Nick)"
+        },
+        {
+          "type": "home",
+          "number": "01144 207 221 4293",
+          "formatting": "01144 207 221 4293 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "ncoleridge@condenast.co.uk",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "38 Princedale Road"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W11 4NL",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "012_colle_jeffrey",
+      "name": {
+        "full_name": "Colle Jeffrey",
+        "prefix": null,
+        "first_name": "Jeffrey",
+        "middle_name": null,
+        "last_name": "Colle",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 38 8555",
+          "formatting": "001 212 38 8555 (International)"
+        },
+        {
+          "type": "work",
+          "number": "001 516 324 8500",
+          "formatting": "001 516 324 8500 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 988 4410",
+          "formatting": "001 212 988 4410 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 407 798 0808",
+          "formatting": "001 407 798 0808 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 516 537 2203",
+          "formatting": "001 516 537 2203 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 516 443 8500",
+          "formatting": "001 516 443 8500 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "012_collins_phil_&_orlanne",
+      "name": {
+        "full_name": "Collins Phil",
+        "prefix": null,
+        "first_name": "Phil & Orlanne",
+        "middle_name": null,
+        "last_name": "Collins",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Orlanne"
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "41 22 994 40 14",
+          "formatting": "41 22 994 40 14"
+        },
+        {
+          "type": "home",
+          "number": "41 22 994 40 11",
+          "formatting": "41 22 994 40 11"
+        },
+        {
+          "type": "portable",
+          "number": "41 79 414 94 05",
+          "formatting": "41 79 414 94 05"
+        }
+      ],
+      "emails": [
+        {
+          "address": "oriannecollins@littledrea",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "012_conrad_henrietta",
+      "name": {
+        "full_name": "Conrad, Henrietta",
+        "prefix": null,
+        "first_name": "Henrietta",
+        "middle_name": null,
+        "last_name": "Conrad",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-792 3933 (fax)",
+          "formatting": "0207-792 3933 (fax) (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "72435101",
+          "formatting": "72435101"
+        },
+        {
+          "type": "work",
+          "number": "0207-712 9300",
+          "formatting": "0207-712 9300 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-221 6370",
+          "formatting": "0207-221 6370 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "07831 372264 (ph)",
+          "formatting": "07831 372264 (ph)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "4a Pambridge Mews"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W11",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "012_constantine_susannah_sten_ber",
+      "name": {
+        "full_name": "Constantine, Susannah Sten Ber",
+        "prefix": null,
+        "first_name": "Susannah Sten Ber",
+        "middle_name": null,
+        "last_name": "Constantine",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 33 9054 3592 (Fra)",
+          "formatting": "00 33 9054 3592 (Fra) (International)"
+        },
+        {
+          "type": "work",
+          "number": "0207-376 3212",
+          "formatting": "0207-376 3212 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207 720 8882",
+          "formatting": "0207 720 8882 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "0797 181 5695",
+          "formatting": "0797 181 5695"
+        }
+      ],
+      "emails": [
+        {
+          "address": "Scontantine@breathmail.ne|Susannah@ready2.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "40 Brymer Rd"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW11 4EW",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "012_cooke_clive",
+      "name": {
+        "full_name": "Cooke, Clive",
+        "prefix": null,
+        "first_name": "Clive",
+        "middle_name": null,
+        "last_name": "Cooke",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 668 9668",
+          "formatting": "001 212 668 9668 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 421 5085",
+          "formatting": "001 212 421 5085 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "721 Fifth Avenue #63H"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10022",
+          "country": "US",
+          "notes": "Fifth Avenue luxury"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "012_cooke_clive",
+      "name": {
+        "full_name": "Cooke, Clive",
+        "prefix": null,
+        "first_name": "Clive",
+        "middle_name": null,
+        "last_name": "Cooke",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "516 283 1839 (Southhampton)",
+          "formatting": "516 283 1839 (Southhampton)"
+        },
+        {
+          "type": "unknown",
+          "number": "07 715 172 772",
+          "formatting": "07 715 172 772"
+        },
+        {
+          "type": "work",
+          "number": "001 212 668 9668",
+          "formatting": "001 212 668 9668 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "199 Water Street"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10038",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "012_cordle_ms_rachel",
+      "name": {
+        "full_name": "Cordle, Ms Rachel",
+        "prefix": null,
+        "first_name": "Ms Rachel",
+        "middle_name": null,
+        "last_name": "Cordle",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-581 7034",
+          "formatting": "0207-581 7034 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-370 3943",
+          "formatting": "0207-370 3943 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "54A Radcliffe Square"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW15 6BL",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "012_cordle_rupert_&_camilla",
+      "name": {
+        "full_name": "Cordle, Rupert",
+        "prefix": null,
+        "first_name": "Rupert & Camilla",
+        "middle_name": null,
+        "last_name": "Cordle",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Camilla"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0836 323616 (Cp)",
+          "formatting": "0836 323616 (Cp)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "rupert.cordle@ukonline.co.uk",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "33 Albert Bridge rd"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW11 4PX",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "012_cordle_rupert_&_camilla",
+      "name": {
+        "full_name": "Cordle, Rupert",
+        "prefix": null,
+        "first_name": "Rupert & Camilla",
+        "middle_name": null,
+        "last_name": "Cordle",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Camilla"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "07831 584 053 (Rp)",
+          "formatting": "07831 584 053 (Rp)"
+        },
+        {
+          "type": "work",
+          "number": "207 498 5649",
+          "formatting": "207 498 5649"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "34C Albert Bridge Road"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW11 4PY",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "012_unknown_alise",
+      "name": {
+        "full_name": "Cordle, Rupert",
+        "prefix": null,
+        "first_name": "Alise",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Camilla (Asst)",
+        "formatting_notes": "Nickname: Asst"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "207 498 5689",
+          "formatting": "207 498 5689"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "012_cordova_hohenlohe_fernando_de",
+      "name": {
+        "full_name": "Cordova Hohenlohe, Fernando de",
+        "prefix": null,
+        "first_name": "Fernando de",
+        "middle_name": null,
+        "last_name": "Cordova Hohenlohe",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Bidasoa #6"
+          ],
+          "city": "Madrid",
+          "state": null,
+          "postal_code": "28002",
+          "country": "Spain",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "012_cordova_hohenlohe_fernando_de",
+      "name": {
+        "full_name": "Cordova Hohenlohe, Fernando de",
+        "prefix": null,
+        "first_name": "Fernando de",
+        "middle_name": null,
+        "last_name": "Cordova Hohenlohe",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 772 1029",
+          "formatting": "001 212 772 1029 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 34 11 75 75 (Spain)",
+          "formatting": "00 34 11 75 75 (Spain) (International)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 826 7426",
+          "formatting": "001 212 826 7426 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 421 1430",
+          "formatting": "001 212 421 1430 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "120 \u00bd East 65th St."
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "012_cotterell_harry",
+      "name": {
+        "full_name": "Cotterell, Harry",
+        "prefix": null,
+        "first_name": "Harry",
+        "middle_name": null,
+        "last_name": "Cotterell",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0981-22227",
+          "formatting": "0981-22227"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Byford Court, Herefordshire"
+          ],
+          "city": "Byford",
+          "state": null,
+          "postal_code": "HR4 7LD",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Byford Court"
+    },
+    {
+      "entry_id": "012_de_courcel_martine",
+      "name": {
+        "full_name": "Courcel Martine De",
+        "prefix": null,
+        "first_name": "Martine",
+        "middle_name": null,
+        "last_name": "de Courcel",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 33 6 07 55 98 99",
+          "formatting": "00 33 6 07 55 98 99 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "012_cowdray_marina",
+      "name": {
+        "full_name": "Cowdray, Marina",
+        "prefix": null,
+        "first_name": "Marina",
+        "middle_name": null,
+        "last_name": "Cowdray",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "01730 812461",
+          "formatting": "01730 812461"
+        },
+        {
+          "type": "unknown",
+          "number": "01730 812122 (f)",
+          "formatting": "01730 812122 (f)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "house@cowdray.demon.co.uk",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Cowdray House, Cowdray Park, West Sussex"
+          ],
+          "city": "Midhurst",
+          "state": null,
+          "postal_code": "GU29 OAY",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "The Viscounless Cowd"
+    },
+    {
+      "entry_id": "012_cowie_colin",
+      "name": {
+        "full_name": "Cowie, Colin",
+        "prefix": null,
+        "first_name": "Colin",
+        "middle_name": null,
+        "last_name": "Cowie",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 396 9007",
+          "formatting": "001 212 396 9007 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 212 396 9012 (f)",
+          "formatting": "001 212 396 9012 (f) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 917 801 1203 (Stuart)",
+          "formatting": "001 917 801 1203 (Stuart) (International)"
+        },
+        {
+          "type": "portable",
+          "number": "917-667-7870",
+          "formatting": "917-667-7870 (NYC mobile)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "cawcowie@aol.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "11 E 68th Street"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 19,
+    "entries_with_emails": 7,
+    "entries_with_addresses": 15,
+    "entries_with_handwritten_notes": 0,
+    "couples": 5,
+    "average_confidence": "high",
+    "notable_figures_count": 0
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Cohen Peter",
+      "Coleman, Jo",
+      "Coleridge, Nicholas",
+      "Georgia",
+      "Colle Jeffrey",
+      "Collins Phil",
+      "Orlanne",
+      "Conrad, Henrietta",
+      "Constantine, Susannah Sten Ber",
+      "Cooke, Clive",
+      "Cooke, Clive",
+      "Cordle, Ms Rachel",
+      "Cordle, Rupert",
+      "Camilla",
+      "Cordle, Rupert",
+      "Camilla",
+      "Cordle, Rupert",
+      "Camilla (Asst)",
+      "Cordova Hohenlohe, Fernando de",
+      "Cordova Hohenlohe, Fernando de",
+      "Cotterell, Harry",
+      "Courcel Martine De",
+      "Cowdray, Marina",
+      "Cowie, Colin"
+    ],
+    "organizations": [],
+    "locations": {
+      "international": [
+        "UK",
+        "Spain"
+      ],
+      "us_cities": [
+        "London",
+        "Midhurst",
+        "New York",
+        "Byford",
+        "Miami Beach",
+        "Madrid"
+      ],
+      "elite_addresses": [
+        "721 Fifth Avenue #63H"
+      ]
+    }
+  },
+  "insights": [
+    "Geographic cluster: New York (5 entries)",
+    "Geographic cluster: London (6 entries)"
+  ]
+}

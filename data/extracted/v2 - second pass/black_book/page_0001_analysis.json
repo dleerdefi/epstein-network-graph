@@ -1,0 +1,945 @@
+{
+  "page_number": 1,
+  "alphabetical_section": "A",
+  "page_header": "P.B. 2004-2005",
+  "contacts": [
+    {
+      "entry_id": "001_abby",
+      "name": {
+        "full_name": "Abby",
+        "title": null,
+        "first_name": "Abby",
+        "last_name": null,
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "07944 574 202",
+          "type": "mobile",
+          "label": "",
+          "country_code": "+44",
+          "area_code": "07944",
+          "extension": null,
+          "notes": "UK mobile number",
+          "is_primary": true,
+          "formatting": "07944 574 202"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "001_abousteiman_joanna",
+      "name": {
+        "full_name": "Abousteiman, Joanna",
+        "title": null,
+        "first_name": "Joanna",
+        "last_name": "Abousteiman",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "0603 338 787",
+          "type": "mobile",
+          "label": "",
+          "country_code": "+33",
+          "area_code": "06",
+          "extension": null,
+          "notes": "French mobile number",
+          "is_primary": true,
+          "formatting": "0603 338 787"
+        }
+      ],
+      "emails": [
+        {
+          "address": "joannachevalier@hotmail.com",
+          "type": "personal",
+          "domain": "hotmail.com",
+          "notes": "Personal email - hotmail domain"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "001_adam_nick",
+      "name": {
+        "full_name": "Adam, Nick",
+        "title": null,
+        "first_name": "Nick",
+        "last_name": "Adam",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "00 331 539 57260",
+          "type": "work",
+          "label": "w",
+          "country_code": "+33",
+          "area_code": "1",
+          "extension": null,
+          "notes": "Paris, France landline - work",
+          "is_primary": false,
+          "formatting": "00 331 539 57260"
+        },
+        {
+          "number": "00 331 40150061",
+          "type": "home",
+          "label": "h",
+          "country_code": "+33",
+          "area_code": "1",
+          "extension": null,
+          "notes": "Paris, France landline - home",
+          "is_primary": false,
+          "formatting": "00 331 40150061"
+        },
+        {
+          "number": "00 33 607 341 960",
+          "type": "mobile",
+          "label": "p",
+          "country_code": "+33",
+          "area_code": "6",
+          "extension": null,
+          "notes": "French mobile number",
+          "is_primary": false,
+          "formatting": "00 33 607 341 960"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "19 Rue De Lille\n75007, Paris",
+          "street_line1": "19 Rue De Lille",
+          "street_line2": null,
+          "city": "Paris",
+          "state_province": null,
+          "postal_code": "75007",
+          "country": "France",
+          "notes": "7th arrondissement - elite area"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "001_agag_alejandro",
+      "name": {
+        "full_name": "Agag Alejandro",
+        "title": null,
+        "first_name": "Alejandro",
+        "last_name": "Agag",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "00 44 771 730 6038",
+          "type": "mobile",
+          "label": "",
+          "country_code": "+44",
+          "area_code": "771",
+          "extension": null,
+          "notes": "UK mobile number",
+          "is_primary": true,
+          "formatting": "00 44 771 730 6038"
+        }
+      ],
+      "emails": [
+        {
+          "address": "aagag@aslinvestments.com",
+          "type": "business",
+          "domain": "aslinvestments.com",
+          "notes": "Business email - ASL Investments"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "001_agnew_marie_claire_john",
+      "name": {
+        "full_name": "Agnew, Marie Claire & John",
+        "title": null,
+        "first_name": "Marie Claire & John",
+        "last_name": "Agnew",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "0207-235 7599",
+          "type": "home",
+          "label": "h",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "London landline - home",
+          "is_primary": false,
+          "formatting": "0207-235 7599"
+        },
+        {
+          "number": "0207 621 0011",
+          "type": "work",
+          "label": "w",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "London landline - work",
+          "is_primary": false,
+          "formatting": "0207 621 0011"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "51 Eaton Square\nLondon SW1 0QY",
+          "street_line1": "51 Eaton Square",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW1 0QY",
+          "country": "UK",
+          "notes": "Belgravia, London - highly affluent area"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "001_alai_azzedine",
+      "name": {
+        "full_name": "Alai Azzedine",
+        "title": null,
+        "first_name": "Azzedine",
+        "last_name": "Alai",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "00 331 4272 1919",
+          "type": "home",
+          "label": "",
+          "country_code": "+33",
+          "area_code": "1",
+          "extension": null,
+          "notes": "Paris landline",
+          "is_primary": true,
+          "formatting": "00 331 4272 1919"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "001_albermarle_rufus_sally",
+      "name": {
+        "full_name": "Albermarle, Rufus & Sally",
+        "title": null,
+        "first_name": "Rufus & Sally",
+        "last_name": "Albermarle",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "1 212 465 9867",
+          "type": "work",
+          "label": "w",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC number - work",
+          "is_primary": false,
+          "formatting": "1 212 465 9867"
+        },
+        {
+          "number": "1 917 569 2168",
+          "type": "mobile",
+          "label": "p Rufus",
+          "country_code": "+1",
+          "area_code": "917",
+          "extension": null,
+          "notes": "NYC mobile - Rufus",
+          "is_primary": false,
+          "formatting": "1 917 569 2168"
+        },
+        {
+          "number": "1 917 257 9735",
+          "type": "mobile",
+          "label": "p Sally",
+          "country_code": "+1",
+          "area_code": "917",
+          "extension": null,
+          "notes": "NYC mobile - Sally",
+          "is_primary": false,
+          "formatting": "1 917 257 9735"
+        },
+        {
+          "number": "212 271 3481",
+          "type": "other",
+          "label": "try this first",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan number - priority contact",
+          "is_primary": true,
+          "formatting": "212 271 3481"
+        }
+      ],
+      "emails": [
+        {
+          "address": "rufusa@mac.com",
+          "type": "personal",
+          "domain": "mac.com",
+          "notes": "Apple Mac email service"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "511 6th Ave\np.o. box 394\nNew York, NY 10011",
+          "street_line1": "511 6th Ave",
+          "street_line2": "p.o. box 394",
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": "10011",
+          "country": "USA",
+          "notes": "Greenwich Village area"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [
+          "try this first"
+        ],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "001_aldridge_saffron",
+      "name": {
+        "full_name": "Aldridge Saffron",
+        "title": null,
+        "first_name": "Saffron",
+        "last_name": "Aldridge",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "0207-727 1006",
+          "type": "home",
+          "label": "",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "London landline",
+          "is_primary": false,
+          "formatting": "0207-727 1006"
+        },
+        {
+          "number": "001 212-375-7653",
+          "type": "work",
+          "label": "",
+          "country_code": "+1",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan NYC number from UK",
+          "is_primary": false,
+          "formatting": "001 212-375-7653"
+        },
+        {
+          "number": "0207-221-3627",
+          "type": "other",
+          "label": "",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "London landline - secondary",
+          "is_primary": false,
+          "formatting": "0207-221-3627"
+        }
+      ],
+      "emails": [
+        {
+          "address": "saffya@aol.com",
+          "type": "personal",
+          "domain": "aol.com",
+          "notes": "AOL email service"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "47 Ladbroke Rd\nLondon W11 3PD",
+          "street_line1": "47 Ladbroke Rd",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "W11 3PD",
+          "country": "UK",
+          "notes": "Notting Hill area"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "001_alexander_pam",
+      "name": {
+        "full_name": "Alexander Pam",
+        "title": null,
+        "first_name": "Pam",
+        "last_name": "Alexander",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "01 415 644 3055",
+          "type": "work",
+          "label": "w",
+          "country_code": "+1",
+          "area_code": "415",
+          "extension": null,
+          "notes": "San Francisco area - work",
+          "is_primary": false,
+          "formatting": "01 415 644 3055"
+        },
+        {
+          "number": "01 415 515 9708",
+          "type": "mobile",
+          "label": "p",
+          "country_code": "+1",
+          "area_code": "415",
+          "extension": null,
+          "notes": "San Francisco mobile",
+          "is_primary": false,
+          "formatting": "01 415 515 9708"
+        }
+      ],
+      "emails": [
+        {
+          "address": "palexander@alexanderogilvy.com",
+          "type": "business",
+          "domain": "alexanderogilvy.com",
+          "notes": "Alexander Ogilvy business email"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "001_algranti_giacomo",
+      "name": {
+        "full_name": "Algranti Giacomo",
+        "title": null,
+        "first_name": "Giacomo",
+        "last_name": "Algranti",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "0207-493 6171",
+          "type": "work",
+          "label": "h",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "London landline - labeled as home",
+          "is_primary": false,
+          "formatting": "0207-493 6171"
+        },
+        {
+          "number": "0385 261 390",
+          "type": "mobile",
+          "label": "",
+          "country_code": "+39",
+          "area_code": "385",
+          "extension": null,
+          "notes": "Italian mobile",
+          "is_primary": false,
+          "formatting": "0385 261 390"
+        },
+        {
+          "number": "0208-969 0027",
+          "type": "home",
+          "label": "h",
+          "country_code": "+44",
+          "area_code": "0208",
+          "extension": null,
+          "notes": "London landline - outer London",
+          "is_primary": false,
+          "formatting": "0208-969 0027"
+        },
+        {
+          "number": "0208-746 1161",
+          "type": "work",
+          "label": "w",
+          "country_code": "+44",
+          "area_code": "0208",
+          "extension": null,
+          "notes": "London landline - work",
+          "is_primary": false,
+          "formatting": "0208-746 1161"
+        },
+        {
+          "number": "0207-746 1157",
+          "type": "home",
+          "label": "h",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "London landline - home",
+          "is_primary": false,
+          "formatting": "0207-746 1157"
+        },
+        {
+          "number": "0207-930 3703",
+          "type": "work",
+          "label": "gw",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "London landline - GW work",
+          "is_primary": false,
+          "formatting": "0207-930 3703"
+        },
+        {
+          "number": "0386 438 218",
+          "type": "mobile",
+          "label": "p",
+          "country_code": "+39",
+          "area_code": "386",
+          "extension": null,
+          "notes": "Italian mobile",
+          "is_primary": false,
+          "formatting": "0386 438 218"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "business",
+          "label": "",
+          "full_address": "Flat 4 83 Dilke St\n83 Dilke St\nFlat 4\nLondon, W1",
+          "street_line1": "Flat 4 83 Dilke St",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "W1",
+          "country": "UK",
+          "notes": "Central London address"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "001_allan_paul",
+      "name": {
+        "full_name": "Allan Paul",
+        "title": null,
+        "first_name": "Paul",
+        "last_name": "Allan",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "001 206 355 5777",
+          "type": "home",
+          "label": "",
+          "country_code": "+1",
+          "area_code": "206",
+          "extension": null,
+          "notes": "Seattle, Washington number",
+          "is_primary": true,
+          "formatting": "001 206 355 5777"
+        }
+      ],
+      "emails": [
+        {
+          "address": "paul@vulcan.com",
+          "type": "business",
+          "domain": "vulcan.com",
+          "notes": "Vulcan Inc - Paul Allen's company"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "001_allan_nick_sarah",
+      "name": {
+        "full_name": "Allan, Nick & Sarah",
+        "title": null,
+        "first_name": "Nick & Sarah",
+        "last_name": "Allan",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "00-852-813-0792",
+          "type": "home",
+          "label": "",
+          "country_code": "+852",
+          "area_code": null,
+          "extension": null,
+          "notes": "Hong Kong number",
+          "is_primary": true,
+          "formatting": "00-852-813-0792"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "85 Banyan Villas\n9 Stanley Village Road\nHong Kong",
+          "street_line1": "85 Banyan Villas",
+          "street_line2": "9 Stanley Village Road",
+          "city": "Hong Kong",
+          "state_province": null,
+          "postal_code": null,
+          "country": "Hong Kong",
+          "notes": "Stanley area - expatriate enclave"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "001_althorp_charlie",
+      "name": {
+        "full_name": "Althorp, Charlie",
+        "title": "Viscount",
+        "first_name": "Charlie",
+        "last_name": "Althorp",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phones": [
+        {
+          "number": "0207-229 1573",
+          "type": "home",
+          "label": "h",
+          "country_code": "+44",
+          "area_code": "0207",
+          "extension": null,
+          "notes": "London number",
+          "is_primary": true,
+          "formatting": "0207-229 1573"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": "",
+          "full_address": "Althorp",
+          "street_line1": "Althorp",
+          "street_line2": null,
+          "city": null,
+          "state_province": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Spencer family estate, Northamptonshire"
+        }
+      ],
+      "handwritten_notes": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 13,
+    "legibility": "excellent",
+    "notable_features": [
+      "Handwritten header 'P.B. 2004-2005'",
+      "Mix of international contacts",
+      "Multiple couples listed together",
+      "Notable figures including Paul Allen and Viscount Althorp"
+    ],
+    "extraction_timestamp": "2025-09-29T12:45:17.336676",
+    "extractor_version": "2.0"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Abby",
+      "Alejandro Agag",
+      "Azzedine Alai",
+      "Charlie Althorp",
+      "Giacomo Algranti",
+      "Joanna Abousteiman",
+      "John Agnew",
+      "Marie Claire Agnew",
+      "Nick Adam",
+      "Nick Allan",
+      "Pam Alexander",
+      "Paul Allan",
+      "Rufus Albermarle",
+      "Saffron Aldridge",
+      "Sally Albermarle",
+      "Sarah Allan"
+    ],
+    "organizations": [
+      "ASL Investments",
+      "Alexander Ogilvy",
+      "Vulcan Inc",
+      "Spencer family"
+    ],
+    "locations": {
+      "cities": [
+        "Paris",
+        "London",
+        "New York",
+        "San Francisco",
+        "Seattle",
+        "Hong Kong"
+      ],
+      "states": [
+        "New York",
+        "California",
+        "Washington"
+      ],
+      "countries": [
+        "France",
+        "UK",
+        "USA",
+        "Italy",
+        "Hong Kong"
+      ]
+    }
+  },
+  "insights": [
+    "Page starts alphabetical section 'A' with handwritten notation 'P.B. 2004-2005' suggesting Personal Book 2004-2005",
+    "Significantly improved data quality from v1 - most phone numbers and emails now fully visible",
+    "Mix of international contacts spanning Europe (France, Italy, UK), Americas (USA), and Asia (Hong Kong)",
+    "Several couples listed together (Agnew, Allan, Albermarle) indicating social/family connections",
+    "Professional connections include investments (ASL Investments), consulting (Alexander Ogilvy), technology (Vulcan/Paul Allen)",
+    "Area codes reveal geographic clusters: 212/917 (Manhattan), 415 (San Francisco), 206 (Seattle), 852 (Hong Kong)",
+    "French contacts concentrated in Paris with +33 1 (Paris landline) and +33 6 (French mobile)",
+    "UK contacts show various London codes: 0207 (Central London), 0208 (Greater London)",
+    "Notable entry: Paul Allan with vulcan.com email - likely Microsoft co-founder Paul Allen",
+    "Charlie Althorp notable - Viscount Althorp, Earl Spencer, Princess Diana's brother",
+    "Elite addresses: Eaton Square (Belgravia), Ladbroke Road (Notting Hill), 7th arrondissement Paris",
+    "Hong Kong contact in Stanley - popular expatriate residential area",
+    "Giacomo Algranti has 7 phone numbers indicating very close relationship or business importance",
+    "Email domains show mix: hotmail.com, aol.com (personal), vulcan.com, alexanderogilvy.com (business)",
+    "International dialing patterns reveal calls made from UK perspective (00 prefix for international)",
+    "Handwritten note 'try this first' on Albermarle entry shows priority contact preferences"
+  ]
+}

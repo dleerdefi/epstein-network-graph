@@ -1,0 +1,300 @@
+{
+  "page_number": 47,
+  "document_type": "Flight Log",
+  "metadata": {
+    "time_period": "March - May 1997",
+    "header_date": "1997 MAR",
+    "pilot": "David Rodgers",
+    "aircraft_registration": "N908JE",
+    "aircraft_make_model": "G1159B",
+    "total_flight_time_page": "37:08",
+    "amt_forward": "6866:34",
+    "total_to_date": "6903:42"
+  },
+  "flights": [
+    {
+      "date": "03/10/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "MVY",
+      "arrival": "PBI",
+      "flight_time": "2:06",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "03/15/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "DCA",
+      "flight_time": "1:07",
+      "passengers": "JE, CELINA MIDDLEEAST",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "03/15/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "DCA",
+      "arrival": "LDO",
+      "flight_time": ":02",
+      "passengers": "MONSITAY QUE COLUM",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "03/15/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "LDO",
+      "arrival": "PBI",
+      "flight_time": "2:03",
+      "passengers": "JE, CELINA MIDDLEEAST",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "03/24/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:03",
+      "passengers": "1 FEMALE, BERNARD JOEL MASHHANY",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "03/27/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:05",
+      "passengers": "JE, CLAIRE JOEL BEAUREGARD",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "03/30/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "SAF",
+      "flight_time": "3:07",
+      "passengers": "JE, GM, PLEIZIER CARPENTIERE",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "04/02/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "SAF",
+      "arrival": "CMH",
+      "flight_time": "2:04",
+      "passengers": "JE, GM, BC",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "04/02/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "CMH",
+      "arrival": "TEB",
+      "flight_time": "1:01",
+      "passengers": "JE, GM, BC",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "04/10/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:02",
+      "passengers": "JE, BC, ANNA STEVENS, YANIS",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "04/18/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "DCA",
+      "flight_time": "2:05",
+      "passengers": "JE, PAM WILLIAMS, PJIM POLACK, SANDRA, ABRAHAM LITTLE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "04/18/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "DCA",
+      "arrival": "TEB",
+      "flight_time": ":06",
+      "passengers": "JE, PAUL GAMMONS, MARK EPSTEIN",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "04/17/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:04",
+      "passengers": "JE, LESLIE BC, LISA MURPHY, GLENN, BECK JONI ALYSSA, DEBBIE PETERSON, PAUL COLLINS JEAN, MICHELLE ALLAN PALMER",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "04/21/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:02",
+      "passengers": "JE, GLENNA JEAN",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "04/21/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "BED",
+      "flight_time": ":05",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "04/21/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "BED",
+      "arrival": "TEB",
+      "flight_time": ":07",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "04/22/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "PBI",
+      "flight_time": "2:03",
+      "passengers": "JE",
+      "crew": "",
+      "landings": "",
+      "aircraft_category": ""
+    },
+    {
+      "date": "05/27/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "PBI",
+      "arrival": "TEB",
+      "flight_time": "2:05",
+      "passengers": "JE, CELINA MIDDLEEAST",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    },
+    {
+      "date": "05/29/1997",
+      "aircraft": "G1159B N908JE",
+      "departure": "TEB",
+      "arrival": "EGKK",
+      "flight_time": "6:05",
+      "passengers": "JE, GM",
+      "crew": "",
+      "landings": "1",
+      "aircraft_category": "V"
+    }
+  ],
+  "entities": {
+    "people": [
+      {"name": "Jeffrey Epstein", "abbreviation": "JE", "role": "Primary passenger"},
+      {"name": "Ghislaine Maxwell", "abbreviation": "GM", "role": "Frequent passenger"},
+      {"name": "Celina Middleeast", "role": "Passenger (multiple flights)"},
+      {"name": "Monsitay Que Colum", "role": "Passenger"},
+      {"name": "Bernard Joel Mashhany", "role": "Passenger"},
+      {"name": "Claire Joel Beauregard", "role": "Passenger"},
+      {"name": "Pleizier Carpentiere", "role": "Passenger"},
+      {"name": "BC", "role": "Passenger (multiple flights)"},
+      {"name": "Anna Stevens", "role": "Passenger"},
+      {"name": "Yanis", "role": "Passenger"},
+      {"name": "Pam Williams", "role": "Passenger"},
+      {"name": "Pjim Polack", "role": "Passenger"},
+      {"name": "Sandra", "role": "Passenger"},
+      {"name": "Abraham Little", "role": "Passenger"},
+      {"name": "Paul Gammons", "role": "Passenger"},
+      {"name": "Mark Epstein", "role": "Passenger (Jeffrey's brother)"},
+      {"name": "Leslie", "role": "Passenger"},
+      {"name": "Lisa Murphy", "role": "Passenger"},
+      {"name": "Glenn", "role": "Passenger"},
+      {"name": "Beck Joni Alyssa", "role": "Passenger"},
+      {"name": "Debbie Peterson", "role": "Passenger"},
+      {"name": "Paul Collins Jean", "role": "Passenger"},
+      {"name": "Michelle Allan Palmer", "role": "Passenger"},
+      {"name": "Glenna Jean", "role": "Passenger"},
+      {"name": "David Rodgers", "role": "Pilot"}
+    ],
+    "locations": [
+      {"code": "MVY", "name": "Martha's Vineyard Airport", "location": "Martha's Vineyard, MA"},
+      {"code": "PBI", "name": "Palm Beach International Airport", "location": "West Palm Beach, FL"},
+      {"code": "DCA", "name": "Ronald Reagan Washington National Airport", "location": "Washington, DC"},
+      {"code": "LDO", "name": "Unknown airport", "location": "Unknown"},
+      {"code": "TEB", "name": "Teterboro Airport", "location": "Teterboro, NJ"},
+      {"code": "SAF", "name": "Santa Fe Regional Airport", "location": "Santa Fe, NM"},
+      {"code": "CMH", "name": "John Glenn Columbus International Airport", "location": "Columbus, OH"},
+      {"code": "BED", "name": "Laurence G. Hanscom Field", "location": "Bedford, MA"},
+      {"code": "EGKK", "name": "London Gatwick Airport", "location": "London, UK"}
+    ],
+    "aircraft": [
+      {"registration": "N908JE", "type": "Gulfstream G1159B", "category": "Private Jet"}
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {"location": "bottom_left", "description": "David Rodgers pilot signature", "legibility": "clear"}
+    ],
+    "stamps": [],
+    "markings": [
+      {"type": "page_number", "content": "47", "location": "bottom_center"},
+      {"type": "total_time", "content": "37:08", "location": "bottom_right"}
+    ]
+  },
+  "insights": [
+    "Page covers March-May 1997",
+    "Mark Epstein (Jeffrey's brother) appears on April 18",
+    "International flight to London Gatwick (EGKK) on May 29",
+    "Large passenger manifest on April 17 with 8+ people",
+    "Multiple same-day flights on March 15, April 2, 18, 21",
+    "Washington DC (DCA) remains frequent destination",
+    "Santa Fe routing continues from previous patterns",
+    "Celina Middleeast appears multiple times",
+    "BC notation appears as recurring passenger",
+    "Pattern of TEB-PBI corridor continues",
+    "Short hops to BED on April 21",
+    "Gap in flights between April 22 and May 27"
+  ],
+  "corrections": {
+    "date_inference": "Page 47 covers March 10 through May 29, 1997",
+    "actual_dates_from_png": "Verified from PNG: March 10, 15 (three times), 24, 27, 30, April 2 (twice), 10, 18 (twice), 17, 21 (three times), 22, May 27, 29",
+    "continuity": "Continues from page 46 which ended May 10, 1997 - note date overlap issue",
+    "correction_note": "Corrected to show March-May 1997 based on PNG verification. Note: April 17 appears after April 18 in original."
+  },
+  "pilot_signature": "David Rodgers",
+  "page_total": "37:08 hours"
+}

@@ -1,0 +1,272 @@
+{
+  "page_number": 2,
+  "file_path": "data/flight_logs_images/page-002.png",
+  "type": "aircraft_flight_log",
+  "content": {
+    "text": "DATE | AIRCRAFT MAKE | IDENTIFICATION MARKS | POINTS OF DEPARTURE & ARRIVAL | FROM | TO | ENGINE | SINGLE PILOT | FLY TIME | REMARKS, PASSENGERS MANIFESTED, ETC | AIRCRAFT CATEGORY\n\n3/1 N908JE [?] CYNS TEB 15 KASIA ROBERT GRAWN\n1 AGA TEB ROBERT\n2 TEB AGA ROBERT\n4 TEB OLA 15 ROBERT\n5 OLA BWE 10 ALAN THE TIDE IS NO GOOD\n7 BWE CMH 40 SARAH T THOMAS\n11 CMH TEB ALEE MARTEL GHENT DATA\n[?] TEB CMH 25 JEFFREY\n9 CMH DAY 10 15 Jeffrey + 1 Mike at airport\n11 DAY TEB 10 JEFFREY MIKE MIKE\n12 TEB CMH 15 15 JEFFREY T RIS\n13 CMH TNC 35 JERFRRY T RICKY\n15 TNC CPS 7 [?] KELLY MARK FRED ORLANDO MARK\n16 CPS LTB 3 55 LE BILL\n17 [?] CP TEB 40 JEFFREY T + KAY\n20 TEB ABQ [?]\n20 ABQ DEN 15 GHIZLANE + PAX\n21 DEN CMH 25 GHIZLANE + + PAX\n\nPAGE TOTAL\nAMT. FORWARD: 33.0\nTOTAL TO DATE: [?]\n\nI certify that the statements made by me on this form are true.\n\nPILOT'S SIGNATURE: David Rodgers",
+    "handwritten": false,
+    "typed": true,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "See above 'text' field for complete transcription",
+      "flight_records": [
+        {
+          "date": "7/1/91",
+          "departure": "CYNS",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Kasia", "Robert", "Grawn"],
+          "pilot": "Unknown",
+          "notes": "KASIA ROBERT GRAWN"
+        },
+        {
+          "date": "7/1/91",
+          "departure": "AGA",
+          "arrival": "TEB",
+          "aircraft": "",
+          "flight_time": "",
+          "passengers": ["Robert"],
+          "pilot": "Unknown",
+          "notes": "ROBERT"
+        },
+        {
+          "date": "7/2/91",
+          "departure": "TEB",
+          "arrival": "AGA",
+          "aircraft": "",
+          "flight_time": "",
+          "passengers": ["Robert"],
+          "pilot": "Unknown",
+          "notes": "ROBERT"
+        },
+        {
+          "date": "7/4/91",
+          "departure": "TEB",
+          "arrival": "OLA",
+          "aircraft": "",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Robert"],
+          "pilot": "Unknown",
+          "notes": "ROBERT"
+        },
+        {
+          "date": "7/5/91",
+          "departure": "OLA",
+          "arrival": "BWE",
+          "aircraft": "",
+          "flight_time": "1.0 hrs",
+          "passengers": ["Alan"],
+          "pilot": "Unknown",
+          "notes": "ALAN THE TIDE IS NO GOOD"
+        },
+        {
+          "date": "7/7/91",
+          "departure": "BWE",
+          "arrival": "CMH",
+          "aircraft": "",
+          "flight_time": "4.0 hrs",
+          "passengers": ["Sarah", "Thomas"],
+          "pilot": "Unknown",
+          "notes": "SARAH T THOMAS"
+        },
+        {
+          "date": "7/11/91",
+          "departure": "CMH",
+          "arrival": "TEB",
+          "aircraft": "",
+          "flight_time": "",
+          "passengers": ["Alee", "Martel", "Ghent", "Data"],
+          "pilot": "Unknown",
+          "notes": "ALEE MARTEL GHENT DATA"
+        },
+        {
+          "date": "7/8/91",
+          "departure": "TEB",
+          "arrival": "CMH",
+          "aircraft": "",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "Unknown",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "7/9/91",
+          "departure": "CMH",
+          "arrival": "DAY",
+          "aircraft": "",
+          "flight_time": "1.0 hrs",
+          "passengers": ["Jeffrey", "Mike"],
+          "pilot": "Unknown",
+          "notes": "Jeffrey + 1 Mike at airport"
+        },
+        {
+          "date": "7/11/91",
+          "departure": "DAY",
+          "arrival": "TEB",
+          "aircraft": "",
+          "flight_time": "1.0 hrs",
+          "passengers": ["Jeffrey", "Mike"],
+          "pilot": "Unknown",
+          "notes": "JEFFREY MIKE MIKE"
+        },
+        {
+          "date": "7/12/91",
+          "departure": "TEB",
+          "arrival": "CMH",
+          "aircraft": "",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Ris"],
+          "pilot": "Unknown",
+          "notes": "JEFFREY T RIS"
+        },
+        {
+          "date": "7/13/91",
+          "departure": "CMH",
+          "arrival": "TNC",
+          "aircraft": "",
+          "flight_time": "3.5 hrs",
+          "passengers": ["Jeffrey", "Ricky"],
+          "pilot": "Unknown",
+          "notes": "JERFRRY T RICKY"
+        },
+        {
+          "date": "7/15/91",
+          "departure": "TNC",
+          "arrival": "CPS",
+          "aircraft": "",
+          "flight_time": "0.7 hrs",
+          "passengers": ["Kelly", "Mark", "Fred", "Orlando"],
+          "pilot": "Unknown",
+          "notes": "KELLY MARK FRED ORLANDO MARK"
+        },
+        {
+          "date": "7/16/91",
+          "departure": "CPS",
+          "arrival": "LTB",
+          "aircraft": "",
+          "flight_time": "3.55 hrs",
+          "passengers": ["Le", "Bill"],
+          "pilot": "Unknown",
+          "notes": "LE BILL"
+        },
+        {
+          "date": "7/17/91",
+          "departure": "CP",
+          "arrival": "TEB",
+          "aircraft": "",
+          "flight_time": "4.0 hrs",
+          "passengers": ["Jeffrey", "Kay"],
+          "pilot": "Unknown",
+          "notes": "JEFFREY T + KAY"
+        },
+        {
+          "date": "7/20/91",
+          "departure": "TEB",
+          "arrival": "ABQ",
+          "aircraft": "",
+          "flight_time": "",
+          "passengers": [],
+          "pilot": "Unknown",
+          "notes": ""
+        },
+        {
+          "date": "7/20/91",
+          "departure": "ABQ",
+          "arrival": "DEN",
+          "aircraft": "",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Ghizlane"],
+          "pilot": "Unknown",
+          "notes": "GHIZLANE + PAX"
+        },
+        {
+          "date": "7/21/91",
+          "departure": "DEN",
+          "arrival": "CMH",
+          "aircraft": "",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Ghizlane"],
+          "pilot": "Unknown",
+          "notes": "GHIZLANE + + PAX"
+        }
+      ],
+      "headers": ["DATE", "AIRCRAFT MAKE", "IDENTIFICATION MARKS", "POINTS OF DEPARTURE & ARRIVAL", "FROM", "TO", "ENGINE", "SINGLE PILOT", "FLY TIME", "REMARKS, PASSENGERS MANIFESTED, ETC", "AIRCRAFT CATEGORY"],
+      "annotations": ["PAGE TOTAL", "AMT. FORWARD: 33.0", "TOTAL TO DATE", "I certify that the statements made by me on this form are true."]
+    }
+  },
+  "entities": {
+    "people": [
+      "Kasia",
+      "Robert",
+      "Grawn",
+      "Alan",
+      "Sarah",
+      "Thomas",
+      "Alee",
+      "Martel",
+      "Ghent",
+      "Data",
+      "Jeffrey",
+      "Mike",
+      "Ris",
+      "Ricky",
+      "Kelly",
+      "Mark",
+      "Fred",
+      "Orlando",
+      "Le",
+      "Bill",
+      "Kay",
+      "Ghizlane",
+      "David Rodgers"
+    ],
+    "organizations": [],
+    "locations": [
+      "CYNS",
+      "TEB",
+      "AGA",
+      "OLA",
+      "BWE",
+      "CMH",
+      "DAY",
+      "TNC",
+      "CPS",
+      "LTB",
+      "CP",
+      "ABQ",
+      "DEN"
+    ],
+    "dates": ["7/1/91", "7/2/91", "7/4/91", "7/5/91", "7/7/91", "7/8/91", "7/9/91", "7/11/91", "7/12/91", "7/13/91", "7/15/91", "7/16/91", "7/17/91", "7/20/91", "7/21/91"],
+    "aircraft": ["N908JE"],
+    "phones": [],
+    "emails": []
+  },
+  "visual_elements": {
+    "signatures": ["David Rodgers (pilot signature at bottom)"],
+    "stamps": [],
+    "logos": [],
+    "redactions": []
+  },
+  "metadata": {
+    "log_type": "passenger_and_cargo_manifest",
+    "time_period": "July 1991",
+    "total_flights": 18,
+    "page_condition": "good",
+    "aircraft_registration": "N908JE"
+  },
+  "insights": [
+    "Jeffrey (Epstein) appears on multiple flights, confirming this is his aircraft log",
+    "Ghizlane (likely Ghislaine Maxwell) appears on flights from ABQ to DEN to CMH",
+    "TEB (Teterboro) is the most frequent airport, appearing in 9 flights",
+    "CMH (Columbus, OH) continues to be a major hub in the flight patterns",
+    "Multiple passengers are often listed with just first names or initials",
+    "Some entries note '+PAX' suggesting additional unnamed passengers",
+    "Note about 'THE TIDE IS NO GOOD' on flight to BWE suggests weather or ocean conditions were relevant",
+    "Flight times range from 0.7 to 4.0 hours",
+    "Jeffrey often travels with one companion (Mike, Ris, Ricky, Kay)",
+    "The aircraft registration N908JE is explicitly shown",
+    "David Rodgers continues as the pilot signing the log",
+    "Page shows continuation from previous log with 'AMT. FORWARD: 33.0' carried over"
+  ]
+}

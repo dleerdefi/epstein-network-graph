@@ -1,0 +1,364 @@
+{
+  "page_number": 24,
+  "file_path": "data/flight_logs_images/page-024.png",
+  "type": "aircraft_flight_log",
+  "content": {
+    "text": "DATE 1993 OCT | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARKS | POINTS OF DEPARTURE & ARRIVAL | FROM | TO | MILEAGE | FLT TIME | REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS | AIRCRAFT CATEGORY\n\n7 '' N908JE TGB MOU 1.5 399 EX, EVA, EMI, DD, SARAH, ADAM, KATHY, JUAN 1 8 1 1\n9 '' '' '' CVG 1.5 400 JEFFREY & GHISLAINE TO PUERTO RICAN TRIP 1 8 8 1\n11 '' '' CVG TGB 1.5 401 JEFFREY 1 8 2 1\n17 '' '' TGB LEU 1.5 402 JEFFREY, ADRIAN 1 4 1 1\n19 '' '' LEU CUN 1.5 403 JEFFREY, ADRIAN 1 4 1 1\n21 '' '' CUN TNI 1.5 404 JEFFREY, ADRIAN 1 4 1 1\n3 NOV '' '' CNJ TGB 1.5 405 JEFFREY, ERIC, WENDY, EVE, SARAH, DOROTHY 1 4 1 1\n6 '' '' TNI CNJ 1.5 406 JEFFREY, SA EV 1 1 1 1\n7 '' '' CNJ TGB 1.5 407 JEFFREY, SA EV 1 1 1 1\n12 '' '' TGB PGOV 1.5 408 E, EVA, EJH, DD, SARAH, ADAM, KATHY, JUAN 1 4 1 1\n13 '' '' TGB LGP 1.5 409 JEFFREY 1 4 1 1\n15 '' '' TGB MOU 1.5 410 JEFFREY, ERIC 1 4 1 1\n16 '' '' TGB TGB 1.5 411 JEFFREY, RICK 1 4 1 1\n19 '' '' TGB TGB 1.5 412 JEFFREY 1 4 1 1\n20 '' '' TGB TGB 1.5 413 JEFFREY, STEVE VILLIERS 1 4 1 1\n\nPAGE TOTAL\nAMT. FORWARD 22.5 + 26.5 = 49.0\nTOTAL TO DATE 6656 + 5864 = 12520\n\nI certify that the statements made by me on this form are true.\n\nPILOT'S SIGNATURE David Rodgers",
+    "handwritten": true,
+    "typed": false,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "Complete cell-by-cell transcription provided above",
+      "flight_records": [
+        {
+          "date": "10/7/93",
+          "departure": "TGB",
+          "arrival": "MOU",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Ex", "Eva", "Emi", "DD", "Sarah", "Adam", "Kathy", "Juan"],
+          "pilot": "David Rodgers",
+          "notes": "EX, EVA, EMI, DD, SARAH, ADAM, KATHY, JUAN"
+        },
+        {
+          "date": "10/9/93",
+          "departure": "MOU",
+          "arrival": "CVG",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY & GHISLAINE TO PUERTO RICAN TRIP"
+        },
+        {
+          "date": "10/11/93",
+          "departure": "CVG",
+          "arrival": "TGB",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "10/17/93",
+          "departure": "TGB",
+          "arrival": "LEU",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Adrian"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, ADRIAN"
+        },
+        {
+          "date": "10/19/93",
+          "departure": "LEU",
+          "arrival": "CUN",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Adrian"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, ADRIAN"
+        },
+        {
+          "date": "10/21/93",
+          "departure": "CUN",
+          "arrival": "TNI",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Adrian"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, ADRIAN"
+        },
+        {
+          "date": "11/3/93",
+          "departure": "CNJ",
+          "arrival": "TGB",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Eric", "Wendy", "Eve", "Sarah", "Dorothy"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, ERIC, WENDY, EVE, SARAH, DOROTHY"
+        },
+        {
+          "date": "11/6/93",
+          "departure": "TNI",
+          "arrival": "CNJ",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "SA EV"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, SA EV"
+        },
+        {
+          "date": "11/7/93",
+          "departure": "CNJ",
+          "arrival": "TGB",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "SA EV"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, SA EV"
+        },
+        {
+          "date": "11/12/93",
+          "departure": "TGB",
+          "arrival": "PGOV",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["E", "Eva", "EJH", "DD", "Sarah", "Adam", "Kathy", "Juan"],
+          "pilot": "David Rodgers",
+          "notes": "E, EVA, EJH, DD, SARAH, ADAM, KATHY, JUAN"
+        },
+        {
+          "date": "11/13/93",
+          "departure": "TGB",
+          "arrival": "LGP",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "11/15/93",
+          "departure": "TGB",
+          "arrival": "MOU",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Eric"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, ERIC"
+        },
+        {
+          "date": "11/16/93",
+          "departure": "TGB",
+          "arrival": "TGB",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Rick"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, RICK"
+        },
+        {
+          "date": "11/19/93",
+          "departure": "TGB",
+          "arrival": "TGB",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "11/20/93",
+          "departure": "TGB",
+          "arrival": "TGB",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Steve Villiers"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, STEVE VILLIERS"
+        }
+      ],
+      "date_header": "DATE 1993 OCT",
+      "date_range": "October-November 1993",
+      "starting_month": "October",
+      "starting_year": "1993",
+      "month_transition": "November transition starting with entry dated '3 NOV'"
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Ex",
+        "context": "Passenger - abbreviated or nickname",
+        "occurrences": 1
+      },
+      {
+        "name": "Eva",
+        "context": "Frequent passenger - appears multiple times",
+        "occurrences": 2
+      },
+      {
+        "name": "Emi",
+        "context": "Passenger - single appearance",
+        "occurrences": 1
+      },
+      {
+        "name": "DD",
+        "context": "Passenger - abbreviated name, appears multiple times",
+        "occurrences": 2
+      },
+      {
+        "name": "Sarah",
+        "context": "Continues as frequent passenger from previous months",
+        "occurrences": 3
+      },
+      {
+        "name": "Adam",
+        "context": "Passenger - travels with larger groups",
+        "occurrences": 2
+      },
+      {
+        "name": "Kathy",
+        "context": "Passenger - travels with larger groups",
+        "occurrences": 2
+      },
+      {
+        "name": "Juan",
+        "context": "Passenger - travels with larger groups",
+        "occurrences": 2
+      },
+      {
+        "name": "Jeffrey",
+        "context": "Primary passenger - continues pattern from previous months",
+        "occurrences": 11
+      },
+      {
+        "name": "Ghislaine",
+        "context": "Passenger - continues from previous months, Puerto Rican trip noted",
+        "occurrences": 1
+      },
+      {
+        "name": "Adrian",
+        "context": "Frequent passenger - travels extensively with Jeffrey",
+        "occurrences": 3
+      },
+      {
+        "name": "Eric",
+        "context": "Passenger - appears multiple times in November",
+        "occurrences": 2
+      },
+      {
+        "name": "Wendy",
+        "context": "Passenger - single appearance in November",
+        "occurrences": 1
+      },
+      {
+        "name": "Eve",
+        "context": "Passenger - single appearance in November",
+        "occurrences": 1
+      },
+      {
+        "name": "Dorothy",
+        "context": "Continues from previous months as frequent passenger",
+        "occurrences": 1
+      },
+      {
+        "name": "SA EV",
+        "context": "Passenger - abbreviated name, appears twice",
+        "occurrences": 2
+      },
+      {
+        "name": "E",
+        "context": "Passenger - single letter abbreviation",
+        "occurrences": 1
+      },
+      {
+        "name": "EJH",
+        "context": "Passenger - initials only",
+        "occurrences": 1
+      },
+      {
+        "name": "Rick",
+        "context": "Passenger - single appearance",
+        "occurrences": 1
+      },
+      {
+        "name": "Steve Villiers",
+        "context": "Continues pattern from previous months",
+        "occurrences": 1
+      },
+      {
+        "name": "David Rodgers",
+        "context": "Pilot signature",
+        "occurrences": 1
+      }
+    ],
+    "locations": [
+      {
+        "code": "TGB",
+        "context": "Primary hub - most frequent departure/arrival point"
+      },
+      {
+        "code": "MOU",
+        "context": "Airport code - appears multiple times"
+      },
+      {
+        "code": "CVG",
+        "context": "Airport code - likely Cincinnati/Northern Kentucky International (CVG)"
+      },
+      {
+        "code": "LEU",
+        "context": "Airport code - intermediate stop"
+      },
+      {
+        "code": "CUN",
+        "context": "Airport code - likely Cancun International (CUN)"
+      },
+      {
+        "code": "TNI",
+        "context": "Airport code - appears multiple times"
+      },
+      {
+        "code": "CNJ",
+        "context": "Airport code - appears in November entries"
+      },
+      {
+        "code": "PGOV",
+        "context": "Airport code - single appearance"
+      },
+      {
+        "code": "LGP",
+        "context": "Airport code - continues from previous pages"
+      }
+    ],
+    "aircraft": [
+      {
+        "registration": "N908JE",
+        "context": "Primary aircraft used for all flights"
+      }
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "signature": "David Rodgers",
+        "context": "Pilot's signature at bottom of page",
+        "deciphered": true
+      }
+    ],
+    "stamps": [],
+    "handwriting_analysis": "Consistent handwriting throughout, same person filling out all entries. Month transition clearly marked with 'NOV' notation. Numerical columns on right side appear to be aircraft category coding (consistently 1 4 1 1 or 1 8 1 1).",
+    "page_totals": {
+      "flight_time": "22.5 + 26.5 = 49.0",
+      "total_to_date": "6656 + 5864 = 12520"
+    }
+  },
+  "metadata": {
+    "time_period": "October-November 1993",
+    "total_flights": 15,
+    "unique_passengers": 21,
+    "primary_aircraft": "N908JE",
+    "pilot": "David Rodgers",
+    "month_transition": "Transitions from October to November at entry 7 (11/3/93)"
+  },
+  "insights": [
+    "October-November 1993 flights - spans two months within single page",
+    "Clear notation of 'Puerto Rican trip' for Jeffrey & Ghislaine on 10/9/93",
+    "TGB emerges as primary hub with most departures and arrivals",
+    "CVG likely refers to Cincinnati airport - major US mainland connection",
+    "CUN likely Cancun - suggests Caribbean/Mexico travel pattern",
+    "Adrian becomes frequent travel companion with Jeffrey in October",
+    "November shows return of group travel patterns with larger passenger lists",
+    "SA EV appears to be abbreviated passenger name - possibly 'Sarah' and 'Eve'",
+    "Flight numbering continues sequential pattern (399-413)",
+    "All flights maintain consistent 1.5 hour duration - shorter than previous months",
+    "Aircraft category coding appears in right columns (1 4 1 1 and 1 8 1 1 patterns)",
+    "Dorothy reappears in November after absence in October entries",
+    "Steve Villiers returns at end of November maintaining previous pattern",
+    "Large group flights bookend the page (Oct 7 and Nov 12) with 8 passengers each",
+    "Eric appears multiple times in November suggesting regular travel companion"
+  ]
+}

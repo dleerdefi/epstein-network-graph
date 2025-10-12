@@ -1,0 +1,1046 @@
+{
+  "page_number": 20,
+  "alphabetical_section": "B/F/G",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "020_flick_mook",
+      "name": {
+        "full_name": "Flick Mook",
+        "prefix": null,
+        "first_name": "Mook",
+        "middle_name": null,
+        "last_name": "Flick",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0171-225 3147",
+          "formatting": "0171-225 3147"
+        },
+        {
+          "type": "home",
+          "number": "0171-581 1186",
+          "formatting": "0171-581 1186"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Park House, 7-11 Onslow Sg."
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW7 3NJ",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "020_foman_bobby_&_jeanette",
+      "name": {
+        "full_name": "Foman, Bobby",
+        "prefix": null,
+        "first_name": "Bobby & Jeanette",
+        "middle_name": null,
+        "last_name": "Foman",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Jeanette"
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "212-888-6100",
+          "formatting": "212-888-6100"
+        },
+        {
+          "type": "home",
+          "number": "212-628-1561",
+          "formatting": "212-628-1561"
+        },
+        {
+          "type": "home",
+          "number": "0207-235 9972",
+          "formatting": "0207-235 9972 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "020_forbes_zandy",
+      "name": {
+        "full_name": "Forbes Zandy",
+        "prefix": null,
+        "first_name": "Zandy",
+        "middle_name": null,
+        "last_name": "Forbes",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 353 9755",
+          "formatting": "001 212 353 9755 (International)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 829 4051",
+          "formatting": "001 212 829 4051 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 846 7617",
+          "formatting": "001 917 846 7617 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "020_forbes_chris_(kip)_astrid",
+      "name": {
+        "full_name": "Forbes, Chris (Kip) Astrid",
+        "prefix": null,
+        "first_name": "Chris (Kip) Astrid",
+        "middle_name": null,
+        "last_name": "Forbes",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Kip"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "07931-2695",
+          "formatting": "07931-2695"
+        },
+        {
+          "type": "unknown",
+          "number": "212 620 2240",
+          "formatting": "212 620 2240"
+        },
+        {
+          "type": "unknown",
+          "number": "212 243 1509",
+          "formatting": "212 243 1509"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "95 Old Dutch Road"
+          ],
+          "city": "Far Hills",
+          "state": null,
+          "postal_code": "NJ",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Forbes Magazine Vice Chairman"
+    },
+    {
+      "entry_id": "020_forbes_chris_(kip)_astrid",
+      "name": {
+        "full_name": "Forbes, Chris (Kip) Astrid",
+        "prefix": null,
+        "first_name": "Chris (Kip) Astrid",
+        "middle_name": null,
+        "last_name": "Forbes",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Kip"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "719 379 3263",
+          "formatting": "719 379 3263"
+        },
+        {
+          "type": "unknown",
+          "number": "719 379 3608",
+          "formatting": "719 379 3608"
+        },
+        {
+          "type": "home",
+          "number": "908 234 1058",
+          "formatting": "908 234 1058"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "60 Fifth Avenue"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10012",
+          "country": "US",
+          "notes": "Fifth Avenue luxury"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Forbes Magazine Vice Chairman"
+    },
+    {
+      "entry_id": "020_forbes_steve_&_sabine",
+      "name": {
+        "full_name": "Forbes, Steve",
+        "prefix": null,
+        "first_name": "Steve & Sabine",
+        "middle_name": null,
+        "last_name": "Forbes",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Sabine"
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Southdown, Burn Mills Road"
+          ],
+          "city": "Bedminster",
+          "state": null,
+          "postal_code": "NJ 07921",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "020_ford_katie",
+      "name": {
+        "full_name": "Ford, Katie",
+        "prefix": null,
+        "first_name": "Katie",
+        "middle_name": null,
+        "last_name": "Ford",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "212 219 6500",
+          "formatting": "212 219 6500"
+        },
+        {
+          "type": "home",
+          "number": "212 226 1555",
+          "formatting": "212 226 1555"
+        }
+      ],
+      "emails": [
+        {
+          "address": "katieford@fordmanagement.",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "142 Greene St. #5"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10012",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [
+        "Note: Ford Models"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Ford Models"
+    },
+    {
+      "entry_id": "020_ford_katie",
+      "name": {
+        "full_name": "Ford, Katie",
+        "prefix": null,
+        "first_name": "Katie",
+        "middle_name": null,
+        "last_name": "Ford",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "212 752 3709 (Katie Parents)",
+          "formatting": "212 752 3709 (Katie Parents)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 219 6126**** (Katie direct)",
+          "formatting": "212 219 6126**** (Katie direct)"
+        },
+        {
+          "type": "unknown",
+          "number": "631 749 0494 (Sheller island)",
+          "formatting": "631 749 0494 (Sheller island)"
+        },
+        {
+          "type": "unknown",
+          "number": "212-219-6190 (Downtown Office)",
+          "formatting": "212-219-6190 (Downtown Office)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 343 3884 (wf)",
+          "formatting": "212 343 3884 (wf)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 226 8224 (Andre\u2019s private fax)",
+          "formatting": "212 226 8224 (Andre\u2019s private fax)"
+        },
+        {
+          "type": "unknown",
+          "number": "212 226 8224 (Katie\u2019s fax)",
+          "formatting": "212 226 8224 (Katie\u2019s fax)"
+        },
+        {
+          "type": "unknown",
+          "number": "631 749 0512 (hf)",
+          "formatting": "631 749 0512 (hf)"
+        },
+        {
+          "type": "work",
+          "number": "331 4029 9868 (Paris)",
+          "formatting": "331 4029 9868 (Paris)"
+        },
+        {
+          "type": "work",
+          "number": "212 219 6119",
+          "formatting": "212 219 6119"
+        },
+        {
+          "type": "portable",
+          "number": "546 541 2800",
+          "formatting": "546 541 2800"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "33 Nostrand Parkway"
+          ],
+          "city": "Sheller Island",
+          "state": null,
+          "postal_code": "NY 11965",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [
+        "Note: Ford Models"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Ford Models"
+    },
+    {
+      "entry_id": "020_ford_tom",
+      "name": {
+        "full_name": "Ford, Tom",
+        "prefix": null,
+        "first_name": "Tom",
+        "middle_name": null,
+        "last_name": "Ford",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "011 44 207 898 3000",
+          "formatting": "011 44 207 898 3000 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "fxterrier@aol.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Gucci"
+    },
+    {
+      "entry_id": "020_buckley_richard",
+      "name": {
+        "full_name": "Richard Buckley",
+        "prefix": null,
+        "first_name": "Richard",
+        "middle_name": null,
+        "last_name": "Buckley",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "011 44 207 898 3000",
+          "formatting": "011 44 207 898 3000 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Gucci"
+    },
+    {
+      "entry_id": "020_forman_john",
+      "name": {
+        "full_name": "Forman John",
+        "prefix": null,
+        "first_name": "John",
+        "middle_name": null,
+        "last_name": "Forman",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 930 8545",
+          "formatting": "001 212 930 8545 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 664 1734",
+          "formatting": "001 212 664 1734 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 359 3280",
+          "formatting": "001 917 359 3280 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "020_forman_johnathan",
+      "name": {
+        "full_name": "Forman Johnathan",
+        "prefix": null,
+        "first_name": "Johnathan",
+        "middle_name": null,
+        "last_name": "Forman",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 930 8545",
+          "formatting": "001 212 930 8545 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 1212 664 1734",
+          "formatting": "00 1212 664 1734 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 917 359 3280",
+          "formatting": "001 917 359 3280 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "020_formby_nicola",
+      "name": {
+        "full_name": "Formby, Nicola",
+        "prefix": null,
+        "first_name": "Nicola",
+        "middle_name": null,
+        "last_name": "Formby",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207 352 3600 (N)",
+          "formatting": "0207 352 3600 (N) (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "0207 352 0504 (A)",
+          "formatting": "0207 352 0504 (A) (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "07831 127575",
+          "formatting": "07831 127575"
+        }
+      ],
+      "emails": [
+        {
+          "address": "formby@tueblonde.demon.co.uk",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "4353 Fulham Road"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW10 9TX",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "020_forte_rocco_&_aliai",
+      "name": {
+        "full_name": "Forte, Rocco",
+        "prefix": null,
+        "first_name": "Rocco & Aliai",
+        "middle_name": null,
+        "last_name": "Forte",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Aliai"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-235 6565",
+          "formatting": "0207-235 6565 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "10 Lowndes Place"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW1",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "020_fox_andrew",
+      "name": {
+        "full_name": "Fox Andrew",
+        "prefix": null,
+        "first_name": "Andrew",
+        "middle_name": null,
+        "last_name": "Fox",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 61 3 206075",
+          "formatting": "00 61 3 206075 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 613 869 8398 (fax)",
+          "formatting": "00 613 869 8398 (fax) (International)"
+        },
+        {
+          "type": "work",
+          "number": "00 613 206 030 00 613 869 8333",
+          "formatting": "00 613 206 030 00 613 869 8333 (International)"
+        },
+        {
+          "type": "home",
+          "number": "00 61 3 822 0735",
+          "formatting": "00 61 3 822 0735 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "020_fox_william_&_lucinda",
+      "name": {
+        "full_name": "Fox, William",
+        "prefix": null,
+        "first_name": "William & Lucinda",
+        "middle_name": null,
+        "last_name": "Fox",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Lucinda"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0208-675-5625",
+          "formatting": "0208-675-5625 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "110 Chasnut Grave"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW12",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "020_fraiser_violet",
+      "name": {
+        "full_name": "Fraiser, Violet",
+        "prefix": null,
+        "first_name": "Violet",
+        "middle_name": null,
+        "last_name": "Fraiser",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 917 414 0922",
+          "formatting": "001 917 414 0922 (International)"
+        },
+        {
+          "type": "home",
+          "number": "212 242 5607",
+          "formatting": "212 242 5607"
+        }
+      ],
+      "emails": [
+        {
+          "address": "vze2sxvy@verizon.net",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "020_garde_de_la_francesco",
+      "name": {
+        "full_name": "Francesco de la Garda, Mr",
+        "prefix": null,
+        "first_name": "Francesco",
+        "middle_name": null,
+        "last_name": "Garde de la",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "00 39 10 55081",
+          "formatting": "00 39 10 55081 (International)"
+        },
+        {
+          "type": "work",
+          "number": "00 39 10 550830",
+          "formatting": "00 39 10 550830 (International)"
+        },
+        {
+          "type": "home",
+          "number": "0207-581 1044",
+          "formatting": "0207-581 1044 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Cameli & 10 spa, Via Roma 81A"
+          ],
+          "city": "Genoa",
+          "state": null,
+          "postal_code": "16121",
+          "country": "Italy",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "020_francey_kathy",
+      "name": {
+        "full_name": "Francey, Kathy",
+        "prefix": null,
+        "first_name": "Kathy",
+        "middle_name": null,
+        "last_name": "Francey",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 734 0747",
+          "formatting": "001 212 734 0747 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 497 4510",
+          "formatting": "001 917 497 4510 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "020_fraysse_isabel",
+      "name": {
+        "full_name": "Fraysse, Isabel",
+        "prefix": null,
+        "first_name": "Isabel",
+        "middle_name": null,
+        "last_name": "Fraysse",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "14 rue des Filles, Calvaire"
+          ],
+          "city": "Paris",
+          "state": null,
+          "postal_code": "75003",
+          "country": "France",
+          "notes": "Paris residential"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "020_freud_mathew",
+      "name": {
+        "full_name": "Freud Mathew",
+        "prefix": null,
+        "first_name": "Mathew",
+        "middle_name": null,
+        "last_name": "Freud",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-291 6400",
+          "formatting": "0207-291 6400 (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "0410 637383",
+          "formatting": "0410 637383"
+        },
+        {
+          "type": "work",
+          "number": "0207-351 2626",
+          "formatting": "0207-351 2626 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 21,
+    "entries_with_emails": 4,
+    "entries_with_addresses": 11,
+    "entries_with_handwritten_notes": 0,
+    "couples": 4,
+    "average_confidence": "high",
+    "notable_figures_count": 0
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Flick Mook",
+      "Foman, Bobby",
+      "Jeanette",
+      "Forbes Zandy",
+      "Forbes, Chris (Kip) Astrid",
+      "Forbes, Chris (Kip) Astrid",
+      "Forbes, Steve",
+      "Sabine",
+      "Ford, Katie",
+      "Ford, Katie",
+      "Ford, Tom",
+      "Richard Buckley",
+      "Forman John",
+      "Forman Johnathan",
+      "Formby, Nicola",
+      "Forte, Rocco",
+      "Aliai",
+      "Fox Andrew",
+      "Fox, William",
+      "Lucinda",
+      "Fraiser, Violet",
+      "Francesco de la Garda, Mr",
+      "Francey, Kathy",
+      "Fraysse, Isabel",
+      "Freud Mathew"
+    ],
+    "organizations": [],
+    "locations": {
+      "international": [
+        "UK",
+        "France",
+        "Italy"
+      ],
+      "us_cities": [
+        "Bedminster",
+        "Paris",
+        "London",
+        "Genoa",
+        "Sheller Island",
+        "New York",
+        "Far Hills"
+      ],
+      "elite_addresses": [
+        "60 Fifth Avenue",
+        "14 rue des Filles, Calvaire"
+      ]
+    }
+  },
+  "insights": [
+    "Geographic cluster: London (4 entries)"
+  ]
+}

@@ -1,0 +1,1000 @@
+{
+  "page_number": 46,
+  "alphabetical_section": "R",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "046_rachline_nicholas",
+      "name": {
+        "full_name": "Rachline, Nicholas",
+        "prefix": null,
+        "first_name": "Nicholas",
+        "middle_name": null,
+        "last_name": "Rachline",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 516 537 0123",
+          "formatting": ""
+        },
+        {
+          "type": "unknown",
+          "number": "0207 589 4463",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "unknown",
+          "number": "00 33 1 4555 9399",
+          "formatting": "International"
+        },
+        {
+          "type": "portable",
+          "number": "44 0 777 5913913",
+          "formatting": "44 0 777 5913913 uk cell"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK/US connections"
+    },
+    {
+      "entry_id": "046_radziwill_carole",
+      "name": {
+        "full_name": "Radziwill, Carole",
+        "prefix": null,
+        "first_name": "Carole",
+        "middle_name": null,
+        "last_name": "Radziwill",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "0790 327 1805",
+          "formatting": "0790 327 1805 (p)"
+        },
+        {
+          "type": "temp",
+          "number": "0207 229 3368",
+          "formatting": "0207 229 3368 (temp)"
+        },
+        {
+          "type": "home",
+          "number": "001 917 992 6415",
+          "formatting": "001 917 992 6415 (hm)"
+        },
+        {
+          "type": "portable",
+          "number": "001 212 463 8015",
+          "formatting": "001 212 463 8015 (p)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "radziwill@aol.com",
+          "type": "personal",
+          "notes": "AOL email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "29 King St",
+            "Apt 2F",
+            "New York, New York 10014"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10014",
+          "country": "USA",
+          "notes": "King Street - West Village/SoHo area"
+        }
+      ],
+      "handwritten_notes": [
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Carole Radziwill - TV personality, Kennedy family connection"
+    },
+    {
+      "entry_id": "046_rankin_gavin",
+      "name": {
+        "full_name": "Rankin, Mr Gavin",
+        "prefix": "Mr",
+        "first_name": "Gavin",
+        "middle_name": null,
+        "last_name": "Rankin",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0208 968 0266",
+          "formatting": "0208 968 0266 (h)"
+        },
+        {
+          "type": "work",
+          "number": "0207 925 0555",
+          "formatting": "0207 925 0555 (w)"
+        },
+        {
+          "type": "work",
+          "number": "0207 493 5088",
+          "formatting": "0207 493 5088 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "52 Bassett Road",
+            "London W10 6JL"
+          ],
+          "city": "London",
+          "postal_code": "W10 6JL",
+          "country": "UK",
+          "notes": "Notting Hill/North Kensington area"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "London based"
+    },
+    {
+      "entry_id": "046_rappaport_don",
+      "name": {
+        "full_name": "Rappaport Don",
+        "prefix": null,
+        "first_name": "Don",
+        "middle_name": null,
+        "last_name": "Rappaport",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 508 874 4200",
+          "formatting": "001 508 874 4200 (w)"
+        },
+        {
+          "type": "home",
+          "number": "845 373 8586",
+          "formatting": "845 373 8586 (h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Massachusetts/Hudson Valley NY"
+    },
+    {
+      "entry_id": "046_rattazzi_isabel",
+      "name": {
+        "full_name": "Rattazzi Isabel",
+        "prefix": null,
+        "first_name": "Isabel",
+        "middle_name": null,
+        "last_name": "Rattazzi",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 988 0963",
+          "formatting": "001 212 988 0963"
+        },
+        {
+          "type": "unknown",
+          "number": "001 917 854 8380",
+          "formatting": "001 917 854 8380"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC/Boston connections"
+    },
+    {
+      "entry_id": "046_raynes_patty",
+      "name": {
+        "full_name": "Raynes, Patty",
+        "prefix": null,
+        "first_name": "Patty",
+        "middle_name": null,
+        "last_name": "Raynes",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 988 1133",
+          "formatting": "001 212 988 1133"
+        },
+        {
+          "type": "work",
+          "number": "001 212 980 1669",
+          "formatting": "001 212 980 1669 (w)"
+        },
+        {
+          "type": "Florida",
+          "number": "001 561 798 2000",
+          "formatting": "001 561 798 2000 Florida"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC/Palm Beach"
+    },
+    {
+      "entry_id": "046_reardan_kate",
+      "name": {
+        "full_name": "Reardan, Kate",
+        "prefix": null,
+        "first_name": "Kate",
+        "middle_name": null,
+        "last_name": "Reardan",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207 370 5818",
+          "formatting": "0207 370 5818"
+        },
+        {
+          "type": "home",
+          "number": "0207 731 5092",
+          "formatting": "0207 731 5092 (h)"
+        },
+        {
+          "type": "work",
+          "number": "0207 499 9080",
+          "formatting": "0207 499 9080 (w)"
+        },
+        {
+          "type": "work",
+          "number": "0207 499 2138",
+          "formatting": "0207 499 2138 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Albyn House",
+            "239 New King's Road",
+            "London SW6 4XG"
+          ],
+          "city": "London",
+          "postal_code": "SW6 4XG",
+          "country": "UK",
+          "notes": "Fulham - New King's Road"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "London Fulham area"
+    },
+    {
+      "entry_id": "046_reynal_michael",
+      "name": {
+        "full_name": "Reynal, Michael",
+        "prefix": null,
+        "first_name": "Michael",
+        "middle_name": null,
+        "last_name": "Reynal",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "00 54 1 312 6301",
+          "formatting": "00 54 1 312 6301 (w)"
+        },
+        {
+          "type": "mum",
+          "number": "001 561 833 6446",
+          "formatting": "001 561 833 6446 (Mum)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [
+        "Hum"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Possibly related to Reynal, Miquel or is the same person."
+    },
+    {
+      "entry_id": "046_reynal_miquel",
+      "name": {
+        "full_name": "Reynal, Miquel",
+        "prefix": null,
+        "first_name": "Miquel",
+        "middle_name": null,
+        "last_name": "Reynal",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "00 54 1 424918",
+          "formatting": "00 54 1 424918 (h)"
+        },
+        {
+          "type": "work",
+          "number": "00 54 1 4801805",
+          "formatting": "00 54 1 4801805 (work)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Montivideo 1336",
+            "Buenos Aires",
+            "Argentina"
+          ],
+          "city": "Buenos Aires",
+          "postal_code": null,
+          "country": "Argentina",
+          "notes": "Buenos Aires residence"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Possibly related to Reynal, Michael or is the same person."
+    },
+    {
+      "entry_id": "046_reza_ali",
+      "name": {
+        "full_name": "Reza, Ali",
+        "prefix": null,
+        "first_name": "Ali",
+        "middle_name": null,
+        "last_name": "Reza",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 589 5997",
+          "formatting": "0207 589 5997 (h)"
+        },
+        {
+          "type": "work",
+          "number": "0207 584 3800",
+          "formatting": "0207 584 3800 (w)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 750 1260",
+          "formatting": "001 212 750 1260 (h)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 203 790 6800",
+          "formatting": "001 203 790 6800"
+        },
+        {
+          "type": "fax",
+          "number": "0207 584 7757",
+          "formatting": "0207 584 7757 (f)"
+        },
+        {
+          "type": "portable",
+          "number": "07979242424",
+          "formatting": "07979242424 (p) Ali"
+        }
+      ],
+      "emails": [
+        {
+          "address": "alireza@freestream.com",
+          "type": "unknown",
+          "notes": "freestream.com email domain"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "55 Eresby House",
+            "Rutland Gate",
+            "London United Kingdom SW71BG"
+          ],
+          "city": "London",
+          "postal_code": "SW71BG",
+          "country": "UK",
+          "notes": "Rutland Gate - Knightsbridge, extremely prestigious area"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Knightsbridge London/NYC"
+    },
+    {
+      "entry_id": "046_ritblat_nick_rebecca_willis",
+      "name": {
+        "full_name": "Ritblat, Nick & Rebecca Willis",
+        "prefix": null,
+        "first_name": "Nick",
+        "middle_name": null,
+        "last_name": "Ritblat",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Rebecca Willis"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207 586 9707",
+          "formatting": "0207 586 9707"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "37 Queens Grove",
+            "London NW8 6HN"
+          ],
+          "city": "London",
+          "postal_code": "NW8 6HN",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Ritblat family - British property dynasty"
+    },
+    {
+      "entry_id": "046_ritson_thomas_rupert",
+      "name": {
+        "full_name": "Ritson, Thomas Rupert",
+        "prefix": null,
+        "first_name": "Thomas",
+        "middle_name": "Rupert",
+        "last_name": "Ritson",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0770 3593252",
+          "formatting": "0770 3593252"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK mobile only"
+    },
+    {
+      "entry_id": "046_rivers_joan",
+      "name": {
+        "full_name": "Rivers, Joan",
+        "prefix": null,
+        "first_name": "Joan",
+        "middle_name": null,
+        "last_name": "Rivers",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "1 310 454 6179",
+          "formatting": "1 310 454 6179 (h)"
+        },
+        {
+          "type": "work",
+          "number": "1 212 826 4211",
+          "formatting": "1 212 826 4211 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "1 E 62nd St.",
+            "New York, New York 10021"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "'Melissa Rivers' East 62nd Street - Upper East Side"
+        }
+      ],
+      "handwritten_notes": [
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Joan Rivers - famous comedian 'Melissa Rivers'"
+    },
+    {
+      "entry_id": "046_robert_joseph_jill",
+      "name": {
+        "full_name": "Robert, Joseph & Jill",
+        "prefix": null,
+        "first_name": "Joseph",
+        "middle_name": null,
+        "last_name": "Robert",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Jill"
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "703 624 1810",
+          "formatting": "703 624 1810 (p)"
+        },
+        {
+          "type": "work",
+          "number": "00 703 714 8024",
+          "formatting": "00 703 714 8024 (w)"
+        },
+        {
+          "type": "home",
+          "number": "00 703 506 0560",
+          "formatting": "00 703 506 0560 (h)"
+        },
+        {
+          "type": "fax",
+          "number": "703 714 8103",
+          "formatting": "703 714 8103 (w-fax)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "1650 Tysons Blvd,",
+            "Mclaine, VA 22102"
+          ],
+          "city": "Mclaine",
+          "state": "VA",
+          "postal_code": "22102",
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Mclaine Virginia couple"
+    },
+    {
+      "entry_id": "046_roberts_deb",
+      "name": {
+        "full_name": "Roberts, Deb",
+        "prefix": null,
+        "first_name": "Deb",
+        "middle_name": null,
+        "last_name": "Roberts",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 917 693 5794",
+          "formatting": "001 917 693 5794"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "046_robilant_edmondo_di_maya",
+      "name": {
+        "full_name": "Robilant, Mr Edmondo di Maya",
+        "prefix": "Mr",
+        "first_name": "Edmondo",
+        "middle_name": null,
+        "last_name": "Robilant di Maya",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0208 788 7800",
+          "formatting": "0208 788 7800 (h)"
+        },
+        {
+          "type": "work",
+          "number": "0207 409 1540",
+          "formatting": "0207 409 1540 (w)"
+        },
+        {
+          "type": "home",
+          "number": "0410 921 1192",
+          "formatting": "0410 921 1192 (hm)"
+        },
+        {
+          "type": "portable",
+          "number": "0370 471410",
+          "formatting": "0370 471410 (ep)"
+        },
+        {
+          "type": "work",
+          "number": "0207 409 1540",
+          "formatting": "0207 409 1540 (w)"
+        },
+        {
+          "type": "home",
+          "number": "0207 373 1543",
+          "formatting": "0207 373 1543 (h)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "5 Woodborough Road",
+            "London SW15 6PX"
+          ],
+          "city": "London",
+          "postal_code": "SW15 6PX",
+          "country": "UK",
+          "notes": "Putney area - Southwest London"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Italian aristocratic surname - di Maya"
+    },
+    {
+      "entry_id": "046_robin",
+      "name": {
+        "full_name": "Robin",
+        "prefix": null,
+        "first_name": "Robin",
+        "middle_name": null,
+        "last_name": null,
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "917 856 7477",
+          "formatting": "917 856 7477 (p)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "low",
+        "phones": "high",
+        "overall_legibility": "good"
+      },
+      "formatting_notes": "First name only - NYC mobile"
+    },
+    {
+      "entry_id": "046_robinski_kasia_pod",
+      "name": {
+        "full_name": "Robinski, Kasia/Pod",
+        "prefix": null,
+        "first_name": "Kasia/Pod",
+        "middle_name": null,
+        "last_name": "Robinski",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 792 5366",
+          "formatting": "0207 792 5366 (h)"
+        },
+        {
+          "type": "home",
+          "number": "0207 792 5367",
+          "formatting": "0207 792 5367 (h)"
+        },
+        {
+          "type": "portable",
+          "number": "07815 153 857",
+          "formatting": "07815 153 857 (p)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "rodneyhodges/kasiarobinsk",
+          "type": "unknown",
+          "notes": "Appears to be two incomplete emails"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "46 Sutherland Place",
+            "London, W2 5BY UK"
+          ],
+          "city": "London",
+          "postal_code": "W2 5BY",
+          "country": "UK",
+          "notes": "Bayswater/Paddington area"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "low",
+        "addresses": "high",
+        "overall_legibility": "good"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "046_robinson_jo_lisa_shields",
+      "name": {
+        "full_name": "Robinson, Jo & Lisa Shields",
+        "prefix": null,
+        "first_name": "Jo",
+        "middle_name": null,
+        "last_name": "Robinson",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Lisa Shields"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 631 537 3934",
+          "formatting": "001 631 537 3934 (h)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 301 2305 (jw)",
+          "formatting": "001 212 301 2305 (jw) Jo Work"
+        },
+        {
+          "type": "work",
+          "number": "001 212 434 9677",
+          "formatting": "001 212 434 9677 (lw) Lisa Work"
+        },
+        {
+          "type": "parents",
+          "number": "001 561 832 0551",
+          "formatting": "001 561 832 0551 (parents)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 516 324 9503",
+          "formatting": "001 516 324 9503"
+        },
+        {
+          "type": "unknown",
+          "number": "001 917 854 1224",
+          "formatting": "001 917 854 1224 (text cut off)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 720 3200",
+          "formatting": "001 212 720 3200 (Jo w) [on page-47]"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [
+        "parents"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "overall_legibility": "high"
+      },
+      "formatting_notes": "NYC/Long Island/Palm Beach - parents noted"
+    },
+    {
+      "entry_id": "046_rocksavage_david",
+      "name": {
+        "full_name": "Rocksavage, David",
+        "prefix": null,
+        "first_name": "David",
+        "middle_name": null,
+        "last_name": "Rocksavage",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207 408 0418",
+          "formatting": "207 408 0418 (w)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK contact - aristocratic surname (Rocksavage)"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 21,
+    "entries_with_emails": 4,
+    "entries_with_addresses": 11,
+    "entries_with_handwritten_notes": 5,
+    "couples": 4,
+    "average_confidence": "high",
+    "notable_figures_count": 2
+  },
+  "cross_references": [
+    {
+      "from": "046_reynal_michael",
+      "to": "046_reynal_miquel",
+      "relationship": "possibly_related",
+      "note": "Same surname, both with Argentina connections"
+    }
+  ],
+  "entities": {
+    "people": [
+      "Nicholas Rachline",
+      "Carole Radziwill",
+      "Gavin Rankin",
+      "Don Rappaport",
+      "Isabel Rattazzi",
+      "Patty Raynes",
+      "Kate Reardan",
+      "Michael Reynal",
+      "Miquel Reynal",
+      "Ali Reza",
+      "Nick Ritblat",
+      "Rebecca Willis",
+      "Thomas Rupert Ritson",
+      "Joan Rivers",
+      "Marisa Rivers",
+      "Joseph Robert",
+      "Jill Robert",
+      "Deb Roberts",
+      "Edmondo di Maya Robilant",
+      "Robin",
+      "Kasia Robinski",
+      "Jo Robinson",
+      "Lisa Shields",
+      "David Rocksavage"
+    ],
+    "organizations": [
+      "Ritblat family (British property dynasty)"
+    ],
+    "locations": {
+      "international": [
+        "London, UK (multiple contacts)",
+        "Buenos Aires, Argentina"
+      ],
+      "us_cities": [
+        "New York City (multiple contacts)",
+        "Palm Beach, FL",
+        "Long Island, NY",
+        "Boston, MA",
+        "McLean, VA",
+        "Hudson Valley, NY",
+        "Massachusetts"
+      ],
+      "elite_addresses": [
+        "29 King Street, NYC (Carole Radziwill - West Village)",
+        "55 Eresby House Rutland Gate, London (Ali Reza - Knightsbridge)",
+        "1 East 62nd Street, NYC (Joan Rivers)",
+        "1650 Tysons Blvd, McLean VA"
+      ]
+    }
+  },
+  "insights": [
+    "Carole Radziwill - TV personality (Real Housewives), Kennedy family connection through marriage",
+    "Joan Rivers - famous American comedian, 1 East 62nd Street address, Marisa Rivers noted",
+    "Ritblat family - Nick Ritblat, British property dynasty (major UK real estate)",
+    "Ali Reza - Rutland Gate Knightsbridge, one of London's most exclusive addresses",
+    "David Rocksavage - aristocratic British surname (Earl of Rocksavage title)",
+    "Strong Argentina connections: Michael & Miquel Reynal in Buenos Aires",
+    "Multiple NYC/Palm Beach seasonal patterns: Raynes, Robinson families",
+    "Geographic diversity: London elite neighborhoods, NYC, Argentina, Virginia",
+    "Edmondo di Maya Robilant - Italian aristocratic 'di' surname prefix",
+    "Mixed data quality: Robinski entry has phone number in email field",
+    "Multiple couples indicating family/social networks",
+    "Carole Radziwill has personal domain caroleradziwill.com",
+    "Old UK mobile formats (0831, 0370) indicate late 1990s timeframe",
+    "Robinson entry notes parents' Palm Beach number - multi-generational wealth",
+    "McLean Virginia (Robert couple) - wealthy DC suburbs"
+  ]
+}

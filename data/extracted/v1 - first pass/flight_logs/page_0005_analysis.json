@@ -1,0 +1,276 @@
+{
+  "page_number": 5,
+  "file_path": "data/flight_logs_images/page-005.png",
+  "type": "aircraft_flight_log",
+  "content": {
+    "text": "DATE | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARKS | POINTS OF DEPARTURE & ARRIVAL | FROM | TO | MILEAGE ENGINE | FLY TIME | REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS | AIRCRAFT CATEGORY\n\n2-3 N908JE N908JE TEB CMH 20 68 RANDY BOWIE, HEATHER, IRA SILVERHART\n25 '' '' CMH BKL 15 64 JEFFREY\n3 '' '' BKL TEB 14 64 JEFFREY\n6 '' '' TEB PSP 55 41 DMITRI, JACQUES, GHISLAINE\n7 '' '' PSP OCA 95 44 DMITRI, JACQUES, HEATHER, NO FIORE\n1 '' '' OCA JER 16 71 JUAN\n4 '' '' JER CMH 25 84 JUAN\n4 '' '' CMH BKL 15 53 JEFFREY\n9 '' '' BKL CMH 16 66 NO PASSENGERS\n9 '' '' CMH BKL 17 67 JEFFREY, HEATHER, GHISLAINE MAXWELL\n17 '' '' BKL TEB 16 68 JACOB\n19 '' '' TEB ISP 10 69 JEFFREY, PAUL, ETC, ETC\n21 '' '' ISP TEB 50 70 SARAH, NICOLE, NIKKI, RICK, ROBIN, TARRA\n22 '' '' TEB DOS 45 71 JEFFREY DARIO (UNKNOWN)\n22 '' '' DOS TEB 48 72\n23 '' '' TEB TEB 70 73 JEFFREY, JM ANDERSON 2008 1/4 Mark\n24 '' '' CMH TEB 55 74 JUAN 1998 Madline\n5 '' '' TEB TEB 53 75 JEFFREY, WEATHER 2001 2 Madnir\n\nPAGE TOTAL: 5 + 74 + 37.4 = 37\nAMT. FORWARD: 836.5 + 137.4 = 973.9\nTOTAL TO DATE: 836.5 + 137.4 = 973.9\n\nI certify that the statements made by me on this form are true.\n\nPILOT'S SIGNATURE: David Rodgers",
+    "handwritten": true,
+    "typed": false,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "Complete cell-by-cell transcription provided above",
+      "flight_records": [
+        {
+          "date": "10/2-3/91",
+          "departure": "TEB",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "2.0 hrs",
+          "passengers": ["Randy Bowie", "Heather", "Ira Silverhart"],
+          "pilot": "David Rodgers",
+          "notes": "RANDY BOWIE, HEATHER, IRA SILVERHART"
+        },
+        {
+          "date": "10/25/91",
+          "departure": "CMH",
+          "arrival": "BKL",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "11/3/91",
+          "departure": "BKL",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "1.4 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "11/6/91",
+          "departure": "TEB",
+          "arrival": "PSP",
+          "aircraft": "N908JE",
+          "flight_time": "5.5 hrs",
+          "passengers": ["Dmitri", "Jacques", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "DMITRI, JACQUES, GHISLAINE"
+        },
+        {
+          "date": "11/7/91",
+          "departure": "PSP",
+          "arrival": "OCA",
+          "aircraft": "N908JE",
+          "flight_time": "9.5 hrs",
+          "passengers": ["Dmitri", "Jacques", "Heather"],
+          "pilot": "David Rodgers",
+          "notes": "DMITRI, JACQUES, HEATHER, NO FIORE"
+        },
+        {
+          "date": "11/1/91",
+          "departure": "OCA",
+          "arrival": "JER",
+          "aircraft": "N908JE",
+          "flight_time": "1.6 hrs",
+          "passengers": ["Juan"],
+          "pilot": "David Rodgers",
+          "notes": "JUAN"
+        },
+        {
+          "date": "11/4/91",
+          "departure": "JER",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Juan"],
+          "pilot": "David Rodgers",
+          "notes": "JUAN"
+        },
+        {
+          "date": "11/4/91",
+          "departure": "CMH",
+          "arrival": "BKL",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "11/9/91",
+          "departure": "BKL",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "1.6 hrs",
+          "passengers": [],
+          "pilot": "David Rodgers",
+          "notes": "NO PASSENGERS"
+        },
+        {
+          "date": "11/9/91",
+          "departure": "CMH",
+          "arrival": "BKL",
+          "aircraft": "N908JE",
+          "flight_time": "1.7 hrs",
+          "passengers": ["Jeffrey", "Heather", "Ghislaine Maxwell"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, HEATHER, GHISLAINE MAXWELL"
+        },
+        {
+          "date": "11/17/91",
+          "departure": "BKL",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "1.6 hrs",
+          "passengers": ["Jacob"],
+          "pilot": "David Rodgers",
+          "notes": "JACOB"
+        },
+        {
+          "date": "11/19/91",
+          "departure": "TEB",
+          "arrival": "ISP",
+          "aircraft": "N908JE",
+          "flight_time": "1.0 hrs",
+          "passengers": ["Jeffrey", "Paul"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, PAUL, ETC, ETC"
+        },
+        {
+          "date": "11/21/91",
+          "departure": "ISP",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "5.0 hrs",
+          "passengers": ["Sarah", "Nicole", "Nikki", "Rick", "Robin", "Tarra"],
+          "pilot": "David Rodgers",
+          "notes": "SARAH, NICOLE, NIKKI, RICK, ROBIN, TARRA"
+        },
+        {
+          "date": "11/22/91",
+          "departure": "TEB",
+          "arrival": "DOS",
+          "aircraft": "N908JE",
+          "flight_time": "4.5 hrs",
+          "passengers": ["Jeffrey", "Dario"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY DARIO (UNKNOWN)"
+        },
+        {
+          "date": "11/22/91",
+          "departure": "DOS",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "4.8 hrs",
+          "passengers": [],
+          "pilot": "David Rodgers",
+          "notes": ""
+        },
+        {
+          "date": "11/23/91",
+          "departure": "TEB",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "7.0 hrs",
+          "passengers": ["Jeffrey", "JM Anderson", "Mark"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, JM ANDERSON 2008 1/4 Mark"
+        },
+        {
+          "date": "11/24/91",
+          "departure": "CMH",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "5.5 hrs",
+          "passengers": ["Juan"],
+          "pilot": "David Rodgers",
+          "notes": "JUAN 1998 Madline"
+        },
+        {
+          "date": "12/5/91",
+          "departure": "TEB",
+          "arrival": "TEB",
+          "aircraft": "N908JE",
+          "flight_time": "5.3 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, WEATHER 2001 2 Madnir"
+        }
+      ],
+      "headers": ["DATE", "AIRCRAFT MAKE AND MODEL", "AIRCRAFT IDENTIFICATION MARKS", "POINTS OF DEPARTURE & ARRIVAL", "FROM", "TO", "MILEAGE ENGINE", "FLY TIME", "REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS", "AIRCRAFT CATEGORY"],
+      "annotations": ["NO FIORE", "NO PASSENGERS", "(UNKNOWN)", "ETC, ETC", "2008 1/4", "1998 Madline", "2001 2 Madnir", "WEATHER"]
+    }
+  },
+  "entities": {
+    "people": [
+      "Randy Bowie",
+      "Heather",
+      "Ira Silverhart",
+      "Jeffrey",
+      "Dmitri",
+      "Jacques",
+      "Ghislaine",
+      "Ghislaine Maxwell",
+      "Juan",
+      "Jacob",
+      "Paul",
+      "Sarah",
+      "Nicole",
+      "Nikki",
+      "Rick",
+      "Robin",
+      "Tarra",
+      "Dario",
+      "JM Anderson",
+      "Mark",
+      "Madline",
+      "Madnir",
+      "Fiore",
+      "David Rodgers"
+    ],
+    "organizations": [],
+    "locations": [
+      "TEB",
+      "CMH",
+      "BKL",
+      "PSP",
+      "OCA",
+      "JER",
+      "ISP",
+      "DOS"
+    ],
+    "dates": ["10/2-3/91", "10/25/91", "11/1/91", "11/3/91", "11/4/91", "11/6/91", "11/7/91", "11/9/91", "11/17/91", "11/19/91", "11/21/91", "11/22/91", "11/23/91", "11/24/91", "12/5/91", "1998", "2001", "2008"],
+    "aircraft": ["N908JE"],
+    "phones": [],
+    "emails": []
+  },
+  "visual_elements": {
+    "signatures": ["David Rodgers (pilot signature at bottom)"],
+    "stamps": [],
+    "corrections": ["Ditto marks ('') used throughout for aircraft number", "Math corrections visible in totals"],
+    "redactions": []
+  },
+  "metadata": {
+    "log_type": "passenger_and_cargo_manifest",
+    "time_period": "October-December 1991",
+    "total_flights": 18,
+    "page_condition": "good",
+    "aircraft_registration": "N908JE",
+    "running_total_hours": "973.9",
+    "handwriting_notes": "Consistent handwriting, some unclear entries marked as (UNKNOWN), mathematical corrections in totals"
+  },
+  "insights": [
+    "Ghislaine Maxwell's full name explicitly written on date 9, confirming earlier 'Ghislaine' entries",
+    "Large group of 6 women on date 21: Sarah, Nicole, Nikki, Rick, Robin, Tarra",
+    "PSP to OCA flight shows 9.5 hours - extremely long flight time suggesting international travel",
+    "Dario marked as '(UNKNOWN)' - pilot uncertain about passenger identity",
+    "NO PASSENGERS explicitly noted for empty repositioning flight",
+    "NO FIORE notation - someone expected but didn't board",
+    "ETC, ETC notation suggests additional unnamed passengers",
+    "Years appearing in notes: 1998, 2001, 2008 - possibly reference numbers or codes",
+    "WEATHER notation on final entry - flight affected by weather conditions",
+    "Heather appears multiple times with different passenger groups",
+    "Randy Bowie and Ira Silverhart travel together",
+    "Dmitri and Jacques appear as a pair on consecutive flights",
+    "DOS as destination - possibly Dominican Republic (Santo Domingo)",
+    "Multiple TEB to TEB circular flights - pattern of local area operations",
+    "Juan continues to appear frequently - likely staff member",
+    "JER destination - possibly Jersey or Jerusalem",
+    "OCA destination - possibly Ocala or international location",
+    "Mathematical corrections visible in page totals showing careful record keeping"
+  ]
+}

@@ -1,0 +1,1244 @@
+{
+  "page_number": 8,
+  "alphabetical_section": "B",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "page8_broglie_louis_albert",
+      "name": {
+        "full_name": "Broglie, Louis Albert de",
+        "title": null,
+        "first_name": "Louis Albert",
+        "last_name": "Broglie",
+        "suffix": "de",
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0142 86 75 58 Bureau",
+          "type": "work",
+          "label": "Bureau",
+          "country_code": null,
+          "area_code": "0142",
+          "extension": null,
+          "notes": "French number",
+          "is_primary": false,
+          "formatting": "0142 86 75 58"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "14 rue Aiguette Giverny\nParis 75116 France",
+          "street_line1": "14 rue Aiguette Giverny",
+          "street_line2": null,
+          "city": "Paris",
+          "state_province": null,
+          "postal_code": "75116",
+          "country": "France",
+          "notes": "16th arrondissement"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["French nobility particle 'de'"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page8_brown_chris_alison",
+      "name": {
+        "full_name": "Brown, Chris & Alison",
+        "title": null,
+        "first_name": "Chris",
+        "last_name": "Brown",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 212 645 11XXX(chris)",
+          "type": "home",
+          "label": "chris",
+          "country_code": "001",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan, Chris's number",
+          "is_primary": false,
+          "formatting": "001 212 645 11XXX"
+        },
+        {
+          "number": "001 212 645 1156(w)",
+          "type": "work",
+          "label": "w",
+          "country_code": "001",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan",
+          "is_primary": false,
+          "formatting": "001 212 645 1156"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "2 East 63rd Street\n[illegible]\nNew York, NY 10021",
+          "street_line1": "2 East 63rd Street",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Upper East Side"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Alison Brown"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "medium",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page8_bronfman_jr_edgar",
+      "name": {
+        "full_name": "Bronfman Jr., Edgar",
+        "title": null,
+        "first_name": "Edgar",
+        "last_name": "Bronfman",
+        "suffix": "Jr.",
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "212 935 1727 Direct",
+          "type": "work",
+          "label": "Direct",
+          "country_code": null,
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan direct line",
+          "is_primary": false,
+          "formatting": "212 935 1727"
+        },
+        {
+          "number": "212 449 13XX(w)",
+          "type": "work",
+          "label": "w",
+          "country_code": null,
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan",
+          "is_primary": false,
+          "formatting": "212 449 13XX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "1097 Madison Ave\nNew York",
+          "street_line1": "1097 Madison Ave",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Upper East Side"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Bronfman family - Seagram's fortune"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "medium",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page8_bruce_james_lucinda",
+      "name": {
+        "full_name": "Bruce, James & Lucinda",
+        "title": null,
+        "first_name": "James",
+        "last_name": "Bruce",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0500-342 8815 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": null,
+          "area_code": "0500",
+          "extension": null,
+          "notes": "UK number",
+          "is_primary": false,
+          "formatting": "0500-342 8815"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Coombe Cliff Farm\nLindales, Wye Kent",
+          "street_line1": "Coombe Cliff Farm",
+          "street_line2": "Lindales",
+          "city": "Wye",
+          "state_province": "Kent",
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Rural Kent"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Lucinda Bruce"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page8_brooks_christopher_amanda",
+      "name": {
+        "full_name": "Brooks, Christopher & Amanda",
+        "title": null,
+        "first_name": "Christopher",
+        "last_name": "Brooks",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "011 32 89 45XX",
+          "type": "unknown",
+          "label": null,
+          "country_code": "011 32",
+          "area_code": "89",
+          "extension": null,
+          "notes": "Belgium country code",
+          "is_primary": false,
+          "formatting": "011 32 89 45XX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Oaksmead, B3\n315 Granville Street\n[illegible]\nBrook Road, SW3",
+          "street_line1": "315 Granville Street",
+          "street_line2": "Brook Road",
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW3",
+          "country": "UK",
+          "notes": "Chelsea area"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Amanda Brooks"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Belgium phone number"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page8_brooks_miranda",
+      "name": {
+        "full_name": "Brooks, Miranda",
+        "title": null,
+        "first_name": "Miranda",
+        "last_name": "Brooks",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 917 328 1718",
+          "type": "mobile",
+          "label": null,
+          "country_code": "001",
+          "area_code": "917",
+          "extension": null,
+          "notes": "NYC mobile",
+          "is_primary": false,
+          "formatting": "001 917 328 1718"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "16 King Street\nNew York City",
+          "street_line1": "16 King Street",
+          "street_line2": null,
+          "city": "New York City",
+          "state_province": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "SoHo area"
+        }
+      ],
+      "emails": [
+        {
+          "address": "[illegible]@drdconserling.com",
+          "type": "unknown",
+          "domain": "drdconserling.com",
+          "notes": null
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "low",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page8_brunel_jean_luc",
+      "name": {
+        "full_name": "Brunel, Jean-Luc",
+        "title": null,
+        "first_name": "Jean-Luc",
+        "last_name": "Brunel",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "home Miami (h)",
+          "type": "home",
+          "label": "home Miami (h)",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Miami home",
+          "is_primary": false,
+          "formatting": "[illegible]"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Av. Bernardl\n12066 Porto Palace\n5 Avenue Road W16\n[illegible] France",
+          "street_line1": "12066 Porto Palace",
+          "street_line2": "5 Avenue Road W16",
+          "city": null,
+          "state_province": null,
+          "postal_code": null,
+          "country": "France",
+          "notes": "Multiple addresses listed"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Miami and France addresses"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "low",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page8_brunette_pamela",
+      "name": {
+        "full_name": "Brunette in Pamela",
+        "title": null,
+        "first_name": "Pamela",
+        "last_name": "Brunette",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "011 39 1264 Michael",
+          "type": "unknown",
+          "label": "Michael",
+          "country_code": "011 39",
+          "area_code": "1264",
+          "extension": null,
+          "notes": "Italy, Michael's line",
+          "is_primary": false,
+          "formatting": "011 39 1264"
+        },
+        {
+          "number": "011 39 3154 2732 Villa Ederi",
+          "type": "home",
+          "label": "Villa Ederi",
+          "country_code": "011 39",
+          "area_code": "3154",
+          "extension": null,
+          "notes": "Italy, Villa",
+          "is_primary": false,
+          "formatting": "011 39 3154 2732"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": ["Michael"],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Italian villa connection"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "medium",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page8_bryer_tanya",
+      "name": {
+        "full_name": "Bryer, Tanya",
+        "title": null,
+        "first_name": "Tanya",
+        "last_name": "Bryer",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "[illegible]",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Not legible",
+          "is_primary": false,
+          "formatting": "[illegible]"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Southborough Avenue",
+          "street_line1": "Southborough Avenue",
+          "street_line2": null,
+          "city": null,
+          "state_province": null,
+          "postal_code": null,
+          "country": null,
+          "notes": "Incomplete address"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "low",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page8_buckle_ron",
+      "name": {
+        "full_name": "Buckle, Ron",
+        "title": null,
+        "first_name": "Ron",
+        "last_name": "Buckle",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "P.O. 1066[?] West Blvd. (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Address mixed with phone",
+          "is_primary": false,
+          "formatting": "[illegible]"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "label": null,
+          "full_address": "P.O. 1066[?] West Blvd.\nLos Angeles",
+          "street_line1": "P.O. 1066 West Blvd.",
+          "street_line2": null,
+          "city": "Los Angeles",
+          "state_province": "CA",
+          "postal_code": null,
+          "country": "USA",
+          "notes": null
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page8_buck_joan_juliet",
+      "name": {
+        "full_name": "Buck Joan Juliet",
+        "title": null,
+        "first_name": "Joan Juliet",
+        "last_name": "Buck",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 505 983 XXXX",
+          "type": "unknown",
+          "label": null,
+          "country_code": "001",
+          "area_code": "505",
+          "extension": null,
+          "notes": "New Mexico area code",
+          "is_primary": false,
+          "formatting": "001 505 983 XXXX"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page8_burney_mr_jules",
+      "name": {
+        "full_name": "Burney, Mr Jules",
+        "title": "Mr",
+        "first_name": "Jules",
+        "last_name": "Burney",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 212 888 XXXX(h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "001",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan",
+          "is_primary": false,
+          "formatting": "001 212 888 XXXX"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "London SW6 216\nChelsea FL 33480",
+          "street_line1": "London SW6 216",
+          "street_line2": "Chelsea FL 33480",
+          "city": null,
+          "state_province": null,
+          "postal_code": null,
+          "country": null,
+          "notes": "Mixed UK/US addresses"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Mixed UK/FL addresses"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "low",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page8_buffet_jimmy_jane",
+      "name": {
+        "full_name": "Buffet, Jimmy & Jane",
+        "title": null,
+        "first_name": "Jimmy",
+        "last_name": "Buffet",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 561 840 9091",
+          "type": "unknown",
+          "label": null,
+          "country_code": "001",
+          "area_code": "561",
+          "extension": null,
+          "notes": "Palm Beach area",
+          "is_primary": false,
+          "formatting": "001 561 840 9091"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Palm Beach, Florida 33480",
+          "street_line1": null,
+          "street_line2": null,
+          "city": "Palm Beach",
+          "state_province": "Florida",
+          "postal_code": "33480",
+          "country": "USA",
+          "notes": null
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Jane Buffet"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page8_bull_bartle",
+      "name": {
+        "full_name": "Bull, Bartle",
+        "title": null,
+        "first_name": "Bartle",
+        "last_name": "Bull",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "212 627 1908 (h)",
+          "type": "home",
+          "label": "h",
+          "country_code": null,
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan",
+          "is_primary": false,
+          "formatting": "212 627 1908"
+        },
+        {
+          "number": "212 627 1905 (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": null,
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan",
+          "is_primary": false,
+          "formatting": "212 627 1905"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Josie West Village Regency & Bull\nApp. No [illegible]\n60 Gramercy Park",
+          "street_line1": "60 Gramercy Park",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Gramercy Park area"
+        }
+      ],
+      "emails": [
+        {
+          "address": "bjb5@bullandcom.com",
+          "type": "business",
+          "domain": "bullandcom.com",
+          "notes": null
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page8_burfitt_martin",
+      "name": {
+        "full_name": "Burfitt, Martin",
+        "title": null,
+        "first_name": "Martin",
+        "last_name": "Burfitt",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 212 841 1100",
+          "type": "unknown",
+          "label": null,
+          "country_code": "001",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan",
+          "is_primary": false,
+          "formatting": "001 212 841 1100"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page8_bushwell_candice",
+      "name": {
+        "full_name": "Bushwell, Candice",
+        "title": null,
+        "first_name": "Candice",
+        "last_name": "Bushwell",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 212 628 3377",
+          "type": "unknown",
+          "label": null,
+          "country_code": "001",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan",
+          "is_primary": false,
+          "formatting": "001 212 628 3377"
+        },
+        {
+          "number": "001 212 655 7400",
+          "type": "unknown",
+          "label": null,
+          "country_code": "001",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan",
+          "is_primary": false,
+          "formatting": "001 212 655 7400"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page8_bullough_hamish_and",
+      "name": {
+        "full_name": "Bullough, Hamish and",
+        "title": null,
+        "first_name": "Hamish",
+        "last_name": "Bullough",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Ashbocking Hall67 Abingdon Vill\nAshbocking",
+          "street_line1": "Ashbocking Hall",
+          "street_line2": "67 Abingdon Vill",
+          "city": "Ashbocking",
+          "state_province": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Suffolk area"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Entry appears incomplete"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 17,
+    "complete_entries": 0,
+    "partial_entries": 11,
+    "minimal_entries": 6,
+    "redacted_entries": 0,
+    "handwritten_additions": 0,
+    "crossed_out_entries": 0,
+    "quality": "fair",
+    "legibility": "partially obscured",
+    "notable_features": ["Bronfman family entry (Seagram's fortune)", "Jean-Luc Brunel entry", "Mix of international connections"],
+    "continues_to_page": 9,
+    "continued_from_page": 7,
+    "split_entry_note": "Bullough entry appears incomplete at bottom"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": ["Louis Albert de Broglie", "Chris Brown", "Alison Brown", "Edgar Bronfman Jr.", "James Bruce", "Lucinda Bruce", "Christopher Brooks", "Amanda Brooks", "Miranda Brooks", "Jean-Luc Brunel", "Pamela Brunette", "Michael", "Tanya Bryer", "Ron Buckle", "Joan Juliet Buck", "Jules Burney", "Jimmy Buffet", "Jane Buffet", "Bartle Bull", "Martin Burfitt", "Candice Bushwell", "Hamish Bullough"],
+    "organizations": [],
+    "locations": {
+      "cities": ["Paris", "New York", "Wye", "London", "Miami", "Los Angeles", "Palm Beach", "Santa Fe", "Ashbocking"],
+      "states": ["NY", "Kent", "CA", "Florida", "New Mexico", "Suffolk"],
+      "countries": ["France", "USA", "UK", "Belgium", "Italy"]
+    }
+  },
+  "insights": [
+    "Page 8 contains 17 entries continuing the B section",
+    "Edgar Bronfman Jr. entry - Seagram's fortune heir at 1097 Madison Ave",
+    "Jean-Luc Brunel entry with Miami and France addresses - modeling agent",
+    "Jimmy Buffet (likely the musician) with Palm Beach address",
+    "French nobility connection through Louis Albert de Broglie",
+    "505 area code for Joan Juliet Buck indicates Santa Fe/New Mexico",
+    "Belgium connection through Christopher Brooks (011 32 country code)",
+    "Multiple Italian connections (011 39 country codes)",
+    "Gramercy Park address for Bartle Bull - exclusive NYC location",
+    "917 area code for Miranda Brooks confirms NYC mobile",
+    "Paris 75116 postal code - exclusive 16th arrondissement",
+    "Mix of fashion/media connections (possible Vogue editor Joan Juliet Buck)",
+    "Upper East Side concentration (Madison Ave, East 63rd Street)",
+    "International scope spanning France, Italy, Belgium, UK, and US",
+    "Bullough entry appears cut off suggesting continuation to page 9"
+  ]
+}

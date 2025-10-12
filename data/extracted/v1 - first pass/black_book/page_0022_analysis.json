@@ -1,0 +1,611 @@
+{
+  "page_number": 22,
+  "alphabetical_section": "G",
+  "contacts": [
+    {
+      "name": "Gertler, Eric",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "115 Sutton Street / New York",
+          "street": "115 Sutton Street",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York, NY 10016",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "917 767 5230(m)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "Email: egertler@[illegible].com"
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "212 909 4221 (o)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Getty, Mark",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 468 2000 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 221 5500 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Getty family",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Getty, Pia and Chris",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "20 East End Street",
+          "street": "20 East End Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 421 8943 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 787 XXX[0]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 546 1996 (p)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Getty family, couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Gibbs, Emma",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Caroline Flat / 21 Bass Rd / London W10 5SU1 UK",
+          "city": "London",
+          "postal_code": "W10",
+          "country": "UK",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "020 7221 72XX (o)",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "020 73XX XXXX",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "low"
+        }
+      ],
+      "emails": [
+        "Email@[illegible]world.com",
+        "emmag@[illegible]world.com"
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Gibson, Caroline",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Chateau Village / London SW3",
+          "city": "London",
+          "postal_code": "SW3",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 337 5643 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Gilfillan, Andrew",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Box 2019 / [illegible] / 90 JP'es 0010, South Africa",
+          "country": "South Africa",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0027 XX 3XX 3000[0]",
+          "country_code": "27",
+          "geographic_indicator": "South Africa",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Giliford, Lord & Lady",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "17 Amberley Place / London",
+          "street": "17 Amberley Place",
+          "city": "London",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 546 1290 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 546 1136 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "British aristocracy",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Gillmore, Andrew & Emma",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 232 0006 (o)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Ginsberg Gary",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 917 817 XX00",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 478 7720[00]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        "Email: gary@ginsberg[corp].com"
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Gitrlis, Howard",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "27 [illegible] / 88 East 48th Street / New York, NY 10016",
+          "street": "88 East 48th Street",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10016",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 877 3910",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "407 845 8700 Palm Beach",
+          "area_code": "407",
+          "geographic_indicator": "Palm Beach area, Florida",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Giussani Lucia",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "011 306 023 9911",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "011 306 023 99[00] [illegible].net",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Glanville Mary",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "The Chalets Yard / London SW1",
+          "city": "London",
+          "postal_code": "SW1",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 358 9[XXX]",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Glass, Charlie",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 212 870 9600",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 44 [illegible]",
+          "country_code": "44",
+          "geographic_indicator": "UK",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Glenworth, Edmund & Emily",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 430 9853 L",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Goldsmith, Isabel",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1302 Arden Dr / Beverly Hills CA 90210",
+          "street": "1302 Arden Dr",
+          "city": "Beverly Hills",
+          "state": "CA",
+          "postal_code": "90210",
+          "country": "USA",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "31 Tuftsgate Place 5",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0171 371 0555",
+          "area_code": "0171",
+          "geographic_indicator": "London (old code)",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0171 352 1086 h",
+          "area_code": "0171",
+          "geographic_indicator": "London (old code)",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Goldsmith family",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "[Entry with addresses]",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "22 St George / Office Lake Osasco",
+          "confidence": "medium"
+        },
+        {
+          "type": "secondary",
+          "address": "211 140 Central Park Ave / Hertsdale NY 10530",
+          "city": "Hartsdale",
+          "state": "NY",
+          "postal_code": "10530",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "914 723 1880 (h)",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0 9 44 288 3018 1 Car",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0831 705 4713 UK",
+          "area_code": "0831",
+          "geographic_indicator": "UK mobile (old)",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Name unclear",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Name not visible"]
+      }
+    },
+    {
+      "name": "Golimkin, Sandy",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "250 East River Plaza / New York 10023",
+          "city": "New York",
+          "postal_code": "10023",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 917 XXX 0899",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 914 328 66000 xx[legible]",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "917 770 0202 (p)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Goess, Pilar",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 43 1 310 47[8]",
+          "country_code": "43",
+          "area_code": "1",
+          "geographic_indicator": "Vienna, Austria",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "00 43 1 310 4735",
+          "country_code": "43",
+          "area_code": "1",
+          "geographic_indicator": "Vienna, Austria",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 43 664 4243[7]",
+          "country_code": "43",
+          "area_code": "664",
+          "geographic_indicator": "Austria mobile",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Austrian contact",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Gomez, Thomas",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Zacca Town Square / 830 Post St #[xx] / San Francisco",
+          "street": "830 Post St",
+          "city": "San Francisco",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 4XX 5XX [illegible]",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Goldberg, Ellen",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "905 CE 10344",
+          "area_code": "905",
+          "geographic_indicator": "Toronto area, Canada",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "305 945 3643 (w)",
+          "area_code": "305",
+          "geographic_indicator": "Miami, Florida",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 20,
+    "quality": "good",
+    "legibility": "mostly clear",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "Mark Getty - Getty family",
+      "Lord & Lady Giliford - British aristocracy",
+      "Isabel Goldsmith - Goldsmith family"
+    ]
+  },
+  "insights": [
+    "Getty family well represented (Mark, Pia & Chris)",
+    "Goldsmith family presence (Isabel)",
+    "British aristocracy (Lord & Lady Giliford)",
+    "Strong NYC/Manhattan presence with multiple 212/917 numbers",
+    "International span: South Africa, Austria, Canada",
+    "Palm Beach Florida connection continues",
+    "Beverly Hills connection (Goldsmith)",
+    "Mix of old UK codes (0171, 0831) and newer (0207/020)",
+    "Westchester County NY presence (914 area code)",
+    "Business and finance connections evident"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "high",
+    "total_contacts": 20,
+    "high_confidence": 13,
+    "medium_confidence": 6,
+    "low_confidence": 1,
+    "extraction_issues": [
+      "One entry missing name",
+      "Some phone numbers partially illegible",
+      "Email addresses incomplete"
+    ]
+  }
+}

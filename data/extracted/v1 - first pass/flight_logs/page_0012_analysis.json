@@ -1,0 +1,279 @@
+{
+  "page_number": 12,
+  "file_path": "data/flight_logs_images/page-012.png",
+  "type": "aircraft_flight_log",
+  "content": {
+    "text": "DATE | AIRCRAFT MAKE AND MODEL | AIRCRAFT IDENTIFICATION MARKS | POINTS OF DEPARTURE & ARRIVAL | FROM | TO | MILEAGE | FLT TIME | REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS | AIRCRAFT CATEGORY\n\n27 N908JE/100 N908JE PGD PGD 17 181 NO PASSENGERS\n1 '' '' PGD PBI 15 182 JEFFHREY GHISLAINE, 2 NO NAMES\n1 '' '' TEB SOB 30 183 JEFFREY GHISLAINE, VIRGINIA ROGERS\n19 '' '' SAE CMH 146 184 3 PASSENGERS\n6 '' '' SAE SPN 19 185 [?] GHISLAINE, KARA AHOOF\n3 '' '' PBN CYEM 19 186 KELLEN, VIRGINIA, KARA AHOOF\n7 '' '' CMH PGD 1 187 NO PASSENGERS, FERRY FLIGHT\n4 '' '' PGD TED 17 188 JEFFREY GHISLAINE, FERRY LESLIE\n1 '' '' BKA PGD 24 189 J KELLY, 4 FEMALES\n6 '' '' PGD TED 27 190 JEFFREY, 6, 4 FEMALES\n14 '' '' TED DVV 25 191 JEFFREY GHISLAINE\n14 '' '' DVV BCO 17 192 JEFFREY GHISLAINE, LEENAH NELHAHS, RICKY\n13 '' '' BCO CMH 23 193 JEFFREY, GHISLAINE\n9 '' '' CMH HPN 33 194 JEFFREY\n19 '' '' JQE CMH 146 195 JEFFREY GHISLAINE (WASH UK)\n7 '' '' CMH JZG 17 196 JEFFREY, VIRGINIA (MAR FUN, EO)\n24 '' '' HPN BSE 145 197 JEFFREY VIRGINIA\n'' '' '' BSE GPE 143 198 JEFFREY GHISLAINE VIRGINIA\n\nPAGE TOTAL\nAMT. FORWARD: 273 + 2316 + 2209 = 6801\nTOTAL TO DATE: 273 + 264 + 2209 = 3046\n\nI certify that the statements made by me on this form are true.\n\nPILOT'S SIGNATURE: David Rodgers",
+    "handwritten": true,
+    "typed": false,
+    "mixed": true,
+    "text_sections": {
+      "full_transcription": "Complete cell-by-cell transcription provided above",
+      "flight_records": [
+        {
+          "date": "5/27/92",
+          "departure": "PGD",
+          "arrival": "PGD",
+          "aircraft": "N908JE/100 N908JE",
+          "flight_time": "1.7 hrs",
+          "passengers": [],
+          "pilot": "David Rodgers",
+          "notes": "NO PASSENGERS"
+        },
+        {
+          "date": "6/1/92",
+          "departure": "PGD",
+          "arrival": "PBI",
+          "aircraft": "N908JE",
+          "flight_time": "1.5 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "2 No Names"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFHREY GHISLAINE, 2 NO NAMES"
+        },
+        {
+          "date": "6/1/92",
+          "departure": "TEB",
+          "arrival": "SOB",
+          "aircraft": "N908JE",
+          "flight_time": "3.0 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Virginia Rogers"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE, VIRGINIA ROGERS"
+        },
+        {
+          "date": "6/19/92",
+          "departure": "SAE",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "1.46 hrs",
+          "passengers": ["3 Passengers"],
+          "pilot": "David Rodgers",
+          "notes": "3 PASSENGERS"
+        },
+        {
+          "date": "7/6/92",
+          "departure": "SAE",
+          "arrival": "SPN",
+          "aircraft": "N908JE",
+          "flight_time": "1.9 hrs",
+          "passengers": ["Ghislaine", "Kara Ahoof"],
+          "pilot": "David Rodgers",
+          "notes": "[?] GHISLAINE, KARA AHOOF"
+        },
+        {
+          "date": "7/3/92",
+          "departure": "PBN",
+          "arrival": "CYEM",
+          "aircraft": "N908JE",
+          "flight_time": "1.9 hrs",
+          "passengers": ["Kellen", "Virginia", "Kara Ahoof"],
+          "pilot": "David Rodgers",
+          "notes": "KELLEN, VIRGINIA, KARA AHOOF"
+        },
+        {
+          "date": "7/7/92",
+          "departure": "CMH",
+          "arrival": "PGD",
+          "aircraft": "N908JE",
+          "flight_time": "0.1 hrs",
+          "passengers": [],
+          "pilot": "David Rodgers",
+          "notes": "NO PASSENGERS, FERRY FLIGHT"
+        },
+        {
+          "date": "8/4/92",
+          "departure": "PGD",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "1.7 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Ferry", "Leslie"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE, FERRY LESLIE"
+        },
+        {
+          "date": "6/1/92",
+          "departure": "BKA",
+          "arrival": "PGD",
+          "aircraft": "N908JE",
+          "flight_time": "2.4 hrs",
+          "passengers": ["J Kelly", "4 Females"],
+          "pilot": "David Rodgers",
+          "notes": "J KELLY, 4 FEMALES"
+        },
+        {
+          "date": "7/6/92",
+          "departure": "PGD",
+          "arrival": "TED",
+          "aircraft": "N908JE",
+          "flight_time": "2.7 hrs",
+          "passengers": ["Jeffrey", "6", "4 Females"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, 6, 4 FEMALES"
+        },
+        {
+          "date": "8/14/92",
+          "departure": "TED",
+          "arrival": "DVV",
+          "aircraft": "N908JE",
+          "flight_time": "2.5 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE"
+        },
+        {
+          "date": "8/14/92",
+          "departure": "DVV",
+          "arrival": "BCO",
+          "aircraft": "N908JE",
+          "flight_time": "1.7 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Leenah Nelhahs", "Ricky"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE, LEENAH NELHAHS, RICKY"
+        },
+        {
+          "date": "8/13/92",
+          "departure": "BCO",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "2.3 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, GHISLAINE"
+        },
+        {
+          "date": "9/9/92",
+          "departure": "CMH",
+          "arrival": "HPN",
+          "aircraft": "N908JE",
+          "flight_time": "3.3 hrs",
+          "passengers": ["Jeffrey"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY"
+        },
+        {
+          "date": "6/19/92",
+          "departure": "JQE",
+          "arrival": "CMH",
+          "aircraft": "N908JE",
+          "flight_time": "1.46 hrs",
+          "passengers": ["Jeffrey", "Ghislaine"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE (WASH UK)"
+        },
+        {
+          "date": "7/7/92",
+          "departure": "CMH",
+          "arrival": "JZG",
+          "aircraft": "N908JE",
+          "flight_time": "1.7 hrs",
+          "passengers": ["Jeffrey", "Virginia"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY, VIRGINIA (MAR FUN, EO)"
+        },
+        {
+          "date": "24",
+          "departure": "HPN",
+          "arrival": "BSE",
+          "aircraft": "N908JE",
+          "flight_time": "1.45 hrs",
+          "passengers": ["Jeffrey", "Virginia"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY VIRGINIA"
+        },
+        {
+          "date": "",
+          "departure": "BSE",
+          "arrival": "GPE",
+          "aircraft": "N908JE",
+          "flight_time": "1.43 hrs",
+          "passengers": ["Jeffrey", "Ghislaine", "Virginia"],
+          "pilot": "David Rodgers",
+          "notes": "JEFFREY GHISLAINE VIRGINIA"
+        }
+      ],
+      "headers": ["DATE", "AIRCRAFT MAKE AND MODEL", "AIRCRAFT IDENTIFICATION MARKS", "POINTS OF DEPARTURE & ARRIVAL", "FROM", "TO", "MILEAGE", "FLT TIME", "REMARKS, PASSENGERS, MANIFESTED, ENDORSEMENTS", "AIRCRAFT CATEGORY"],
+      "annotations": ["NO PASSENGERS", "2 NO NAMES", "FERRY FLIGHT", "4 FEMALES", "(WASH UK)", "(MAR FUN, EO)", "JEFFHREY (misspelling)"]
+    }
+  },
+  "entities": {
+    "people": [
+      "Jeffrey",
+      "Jeffhrey",
+      "Ghislaine",
+      "2 No Names",
+      "Virginia Rogers",
+      "Virginia",
+      "3 Passengers",
+      "Kara Ahoof",
+      "Kellen",
+      "Ferry",
+      "Leslie",
+      "J Kelly",
+      "4 Females",
+      "6",
+      "Leenah Nelhahs",
+      "Ricky",
+      "David Rodgers"
+    ],
+    "organizations": [],
+    "locations": [
+      "PGD",
+      "PBI",
+      "TEB",
+      "SOB",
+      "SAE",
+      "CMH",
+      "SPN",
+      "PBN",
+      "CYEM",
+      "TED",
+      "BKA",
+      "DVV",
+      "BCO",
+      "HPN",
+      "JQE",
+      "JZG",
+      "BSE",
+      "GPE"
+    ],
+    "dates": ["5/27/92", "6/1/92", "6/19/92", "7/6/92", "7/3/92", "7/7/92", "8/4/92", "8/14/92", "8/13/92", "9/9/92", "9/24/92"],
+    "aircraft": ["N908JE/100", "N908JE"],
+    "phones": [],
+    "emails": []
+  },
+  "visual_elements": {
+    "signatures": ["David Rodgers (pilot signature at bottom)"],
+    "stamps": [],
+    "corrections": ["JEFFHREY misspelling of Jeffrey", "Mathematical calculations in totals"],
+    "redactions": []
+  },
+  "metadata": {
+    "log_type": "passenger_and_cargo_manifest",
+    "time_period": "May-September 1992",
+    "total_flights": 18,
+    "page_condition": "good",
+    "aircraft_registration": "N908JE/100, N908JE",
+    "running_total_hours": "3046",
+    "handwriting_notes": "Ferry flight notation, unnamed passengers noted as '2 NO NAMES' and '4 FEMALES'"
+  },
+  "insights": [
+    "VIRGINIA ROGERS appears - full name notation for Virginia Roberts",
+    "FERRY FLIGHT notation - aircraft repositioning without passengers",
+    "4 FEMALES traveling with Jeffrey - unnamed young women",
+    "2 NO NAMES - explicit notation of unnamed passengers",
+    "KARA AHOOF appears multiple times - unusual surname",
+    "LEENAH NELHAHS appears - unusual spelling, possibly foreign name",
+    "Virginia appears with both Jeffrey and Kellen (Sarah Kellen)",
+    "(WASH UK) notation after Jeffrey Ghislaine - possibly Washington to UK reference",
+    "(MAR FUN, EO) notation - unclear abbreviation",
+    "J KELLY appears - possibly connected to other Kelly/Kellen entries",
+    "Ferry and Leslie appear - unclear if Ferry is a name or reference to ferry flight",
+    "PGD to PGD circular flight with no passengers",
+    "Very short 0.1 hour flight time for CMH to PGD - likely error or repositioning",
+    "Multiple new airport codes: SOB, SAE, SPN, PBN, BKA, DVV, BCO, JQE, JZG, BSE, GPE",
+    "Pattern of Jeffrey traveling with unnamed females continues",
+    "Virginia travels with Jeffrey to multiple destinations",
+    "Misspelling 'JEFFHREY' instead of Jeffrey",
+    "Last entry has no date - continuation from previous flight"
+  ]
+}

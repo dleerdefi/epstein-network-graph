@@ -1,0 +1,302 @@
+{
+  "page_number": 114,
+  "date_header": "JAN-MAR 2005",
+  "time_period": "January 2005 - March 2005",
+  "aircraft": {
+    "registration": "Multiple (G-1159B N909JE, B-727-31M N908JE, B-727-200 SEABOURNE)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "JAN 7",
+      "date": "01/07/2005",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "",
+      "remarks": "PBI - RSW - [unclear]",
+      "passengers": [],
+      "crew": "Airplane George Herbert 6"
+    },
+    {
+      "entry_number": "8",
+      "date": "01/08/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1752",
+      "remarks": "RSW - PBI - [unclear]",
+      "passengers": [],
+      "crew": "LV 1/1 6"
+    },
+    {
+      "entry_number": "11",
+      "date": "01/11/2005",
+      "departure": "B-727-31M",
+      "arrival": "N908JE",
+      "flight_time": "310",
+      "remarks": "PBI - TIST - JE, [REDACTED], SK",
+      "passengers": ["JE", "REDACTED", "SK"],
+      "crew": "GK 3/5"
+    },
+    {
+      "entry_number": "14",
+      "date": "01/14/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "311",
+      "remarks": "TIST - PBI - JE, [REDACTED], SK",
+      "passengers": ["JE", "REDACTED", "SK"],
+      "crew": "GA 2/8"
+    },
+    {
+      "entry_number": "21",
+      "date": "01/21/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "312",
+      "remarks": "PBI - TIST - JE, [REDACTED], Andrew",
+      "passengers": ["JE", "REDACTED", "Andrew"],
+      "crew": "GA 2/3"
+    },
+    {
+      "entry_number": "31",
+      "date": "01/31/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "316",
+      "remarks": "TIST - JFK - JE, SK, Collins",
+      "passengers": ["JE", "SK", "Collins"],
+      "crew": "BM Collins 3/5"
+    },
+    {
+      "entry_number": "FEB 3",
+      "date": "02/03/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "317",
+      "remarks": "JFK - CMH - JE, AM, JEB, [REDACTED], L. Brown Bacon",
+      "passengers": ["JE", "AM", "JEB", "REDACTED", "L. Brown Bacon"],
+      "crew": "GA 1/1 1/4"
+    },
+    {
+      "entry_number": "3",
+      "date": "02/03/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "315",
+      "remarks": "CMH - PBI - JE, AM, [REDACTED], SK",
+      "passengers": ["JE", "AM", "REDACTED", "SK"],
+      "crew": "GA 2/2"
+    },
+    {
+      "entry_number": "7",
+      "date": "02/07/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "319",
+      "remarks": "PBI - JFK - JE, AM, [REDACTED], SK",
+      "passengers": ["JE", "AM", "REDACTED", "SK"],
+      "crew": "LV 2/5"
+    },
+    {
+      "entry_number": "18",
+      "date": "02/18/2005",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1757",
+      "remarks": "PBI - PBI - Asics, Success",
+      "passengers": ["Asics", "Success"],
+      "crew": "Pete Ray 1/1 1/1"
+    },
+    {
+      "entry_number": "19",
+      "date": "02/19/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1755",
+      "remarks": "PBI - TIST - CORKCREW",
+      "passengers": ["CORKCREW"],
+      "crew": "GK 1/1 2/4"
+    },
+    {
+      "entry_number": "19",
+      "date": "02/19/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1756",
+      "remarks": "TIST - PBI - Orders, Harvey Evens, Jorge Berger, John Gieselman",
+      "passengers": ["Orders", "Harvey Evens", "Jorge Berger", "John Gieselman"],
+      "crew": "CA 2/7"
+    },
+    {
+      "entry_number": "24",
+      "date": "02/24/2005",
+      "departure": "B-727-31M",
+      "arrival": "N908JE",
+      "flight_time": "324",
+      "remarks": "PBI - PBI - JE, HA, [REDACTED]",
+      "passengers": ["JE", "HA", "REDACTED"],
+      "crew": "GA 2/5"
+    },
+    {
+      "entry_number": "MAR 6",
+      "date": "03/06/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "325",
+      "remarks": "PBI - JFK - JE, [REDACTED], Langston Mission",
+      "passengers": ["JE", "REDACTED", "Langston Mission"],
+      "crew": "LV 1/1 2/4"
+    },
+    {
+      "entry_number": "6",
+      "date": "03/06/2005",
+      "departure": "B-727-200",
+      "arrival": "SEABOURNE",
+      "flight_time": "",
+      "remarks": "MED - MED - MT 309, Bob, Leah, Rick Marks, Leah, Andrew, Amy, Fred, Dominic, Roy, John, Bruce, Mark, Eric, [unclear]",
+      "passengers": ["MT 309", "Bob", "Leah", "Rick Marks", "Leah", "Andrew", "Amy", "Fred", "Dominic", "Roy", "John", "Bruce", "Mark", "Eric"],
+      "crew": "Larry Falcon Bill Montgomery 2/0 2/5"
+    },
+    {
+      "entry_number": "7",
+      "date": "03/07/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "MED - MED - MT 309, Bob, Leah, Rick Marks, Leah, Dominic, Amy, Fred, Bruce, Larry, John, Bill, Andrew",
+      "passengers": ["MT 309", "Bob", "Leah", "Rick Marks", "Leah", "Dominic", "Amy", "Fred", "Bruce", "Larry", "John", "Bill", "Andrew"],
+      "crew": "5/0"
+    },
+    {
+      "entry_number": "8",
+      "date": "03/08/2005",
+      "departure": "G-1159B",
+      "arrival": "N909JE",
+      "flight_time": "1753",
+      "remarks": "PBI - SAP - GM",
+      "passengers": ["GM"],
+      "crew": "1/1 3/5"
+    },
+    {
+      "entry_number": "14",
+      "date": "03/14/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1754",
+      "remarks": "SAP - MDW - GM",
+      "passengers": ["GM"],
+      "crew": "PM 1/1 4"
+    },
+    {
+      "entry_number": "14",
+      "date": "03/14/2005",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "1761",
+      "remarks": "MDW - TEB - GM",
+      "passengers": ["GM"],
+      "crew": "PM 1/1 1/7"
+    }
+  ],
+  "entities": {
+    "people": [
+      "George Herbert",
+      "LV",
+      "JE",
+      "REDACTED",
+      "SK",
+      "GK",
+      "GA",
+      "Andrew",
+      "Collins",
+      "BM Collins",
+      "AM",
+      "JEB",
+      "L. Brown Bacon",
+      "Asics",
+      "Success",
+      "Pete Ray",
+      "CORKCREW",
+      "Orders",
+      "Harvey Evens",
+      "Jorge Berger",
+      "John Gieselman",
+      "CA",
+      "HA",
+      "Langston Mission",
+      "MT 309",
+      "Bob",
+      "Leah",
+      "Rick Marks",
+      "Amy",
+      "Fred",
+      "Dominic",
+      "Roy",
+      "John",
+      "Bruce",
+      "Mark",
+      "Eric",
+      "Larry Falcon",
+      "Bill Montgomery",
+      "Larry",
+      "Bill",
+      "GM",
+      "PM",
+      "David Rodgers"
+    ],
+    "locations": [
+      "PBI",
+      "RSW",
+      "TIST",
+      "JFK",
+      "CMH",
+      "MED",
+      "SAP",
+      "MDW",
+      "TEB"
+    ],
+    "aircraft": [
+      "G-1159B",
+      "N909JE",
+      "B-727-31M",
+      "N908JE",
+      "B-727-200",
+      "SEABOURNE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "Total to Date: 9717.3 - 9729.4",
+    "amount_forward": "9703.9",
+    "total_to_date": "9717.3",
+    "document_quality": "good",
+    "legibility": "mostly clear with some redactions"
+  },
+  "insights": [
+    "Page covers January-March 2005",
+    "January 2005 entries: 7, 8, 11, 14, 21, 31",
+    "February 2005 entries: 3, 3, 7, 18, 19, 19, 24",
+    "March 2005 entries: 6, 6, 7, 8, 14, 14",
+    "JE (Jeffrey Epstein) appears frequently in January and February",
+    "SK (Sarah Kellen) appears multiple times",
+    "Caribbean operations continue (TIST)",
+    "Columbus, Ohio (CMH) operations in February",
+    "Large group flights on March 6-7 with multiple passengers",
+    "SEABOURNE aircraft continues operations",
+    "Multiple REDACTED entries throughout",
+    "Southwest Florida (RSW) operations in early January",
+    "Honduras (SAP) operations in March",
+    "Chicago Midway (MDW) operations in March",
+    "Mix of domestic and Caribbean operations"
+  ]
+}

@@ -1,0 +1,523 @@
+{
+  "page_number": 76,
+  "section": "M-N Names and Properties",
+  "entries": [
+    {
+      "name": "Meister, Robert",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Woodland Family Hall",
+          "location": "Woodland Family Hall",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "731 Fifth Avenue",
+          "street": "731 Fifth Avenue",
+          "confidence": "high"
+        },
+        {
+          "type": "tertiary",
+          "address": "New York, NY 10022",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10022",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "H",
+          "number": "212-231-1000 Work",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 231 1000 Beach",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "516 671 7683 Fax",
+          "area_code": "516",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 940 0880 Beach",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Suite 510",
+        "212 940 2401 Cell",
+        "212 231 2002 Home",
+        "212 231 1001 Work Fax",
+        "212 940 8402 Max - NY",
+        "631 554 7658 Glan JAZ - Palm",
+        "561 253 1014 Home - Palm",
+        "561 833 2200 (cl)",
+        "561 833 2201 Fax",
+        "561 863 8011 cell"
+      ],
+      "notes": "Robert Meister - Woodland Family Hall, Fifth Avenue NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Merril, Jerry",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 914 249 7279",
+          "area_code": "914",
+          "geographic_indicator": "Westchester",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 914 459 7550 (h)",
+          "area_code": "914",
+          "geographic_indicator": "Westchester",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Jerry Merril - Westchester area",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Middleton, Mark",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Langley",
+          "location": "Langley",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "1475 Veron Court AR",
+          "street": "1475 Veron Court",
+          "state": "AR",
+          "confidence": "high"
+        },
+        {
+          "type": "tertiary",
+          "address": "516 Bay 31st [illegible]",
+          "street": "516 Bay 31st",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "[illegible]@aol.com",
+          "confidence": "low"
+        }
+      ],
+      "emails": [
+        {
+          "email": "[illegible]@aol.com",
+          "confidence": "low"
+        }
+      ],
+      "additional_info": [
+        "516 627 3967",
+        "501 945 7999 Box",
+        "203 316 1500 Other"
+      ],
+      "notes": "Mark Middleton - Langley, Arkansas",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Email illegible", "Some address details unclear"]
+      }
+    },
+    {
+      "name": "Minsky, Marvin",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "75 Fraser Street",
+          "street": "75 Fraser Street",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "NYC NY 10018",
+          "city": "NYC",
+          "state": "NY",
+          "postal_code": "10018",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "617 277 0007",
+          "area_code": "617",
+          "geographic_indicator": "Boston",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "617 253 5864 W",
+          "area_code": "617",
+          "geographic_indicator": "Boston",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "minsky@mit.edu",
+          "confidence": "high"
+        },
+        {
+          "email": "minsky@media.mit.edu",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Brookline, MA 02146",
+        "617 426 2156 Gloria",
+        "wbcsr@a.golemedia.com",
+        "277 253 5864 Marvin-office"
+      ],
+      "notes": "Marvin Minsky - MIT Media Lab, Fraser Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Mitchell, David",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "34 Eglun 22nd Street (h)",
+          "street": "34 Eglun 22nd Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 486 757 00781",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "516 482 0479",
+          "area_code": "516",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Langley $100,000",
+        "Hecht 310 [illegible]",
+        "516 254 8188 (ail)",
+        "516 484 8194 [phone]",
+        "212 244 9343 Home",
+        "917 363 8333 cell"
+      ],
+      "notes": "David Mitchell - Eglun 22nd Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Mitchell, Senator George",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Barney Washington 38505",
+          "location": "Barney Washington",
+          "postal_code": "38505",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 843 3202 Off",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "George.mitchell@cvc.com",
+          "confidence": "high"
+        },
+        {
+          "email": "mitchell@14.16t.128.14",
+          "confidence": "medium"
+        }
+      ],
+      "additional_info": [
+        "Piper Rudnick Gray Cary",
+        "1200 19 Street NW (W)",
+        "305 442 9100",
+        "305 443 6185",
+        "305 374 5151 Cell",
+        "Mfg [unclear]"
+      ],
+      "notes": "Senator George Mitchell - Former Senate Majority Leader",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Morrison, Larry",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "308 E. Cliffwood Ave",
+          "street": "308 E. Cliffwood Avenue",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "312 E 77 St A 14821",
+          "street": "312 E 77 Street A 14821",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 452 7088 Home",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 363 0555",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Hotel St Germain",
+        "Dallas Location",
+        "South Brimfield, FL 33405",
+        "561 831 5348 [New 115620]"
+      ],
+      "notes": "Larry Morrison - Cliffwood Avenue and East 77th Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Myloroid, Nathan",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1422 120th Avenue N.E. (#)",
+          "street": "1422 120th Avenue N.E.",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "notes": "Nathan Myloroid - 120th Avenue NE",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "U.S. Property, Inc.",
+      "category": "Business",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "c/o Donald",
+          "contact": "c/o Donald",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Suite 800 (Visting address)",
+          "floor": "Suite 800",
+          "confidence": "high"
+        },
+        {
+          "type": "tertiary",
+          "address": "5268 West Campu Dr",
+          "street": "5268 West Campus Drive",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 737-5601",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "917 544 8400 cell #0204",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "914 273 3002",
+          "area_code": "914",
+          "geographic_indicator": "Westchester",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "5268 Dullon E-Dave Pad E5 240",
+        "348 29001",
+        "212 744 1334 Fax portable",
+        "917 544 0400 Pad Loka[illegible]"
+      ],
+      "notes": "U.S. Property, Inc. - Real estate company",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Some text partially illegible"]
+      }
+    },
+    {
+      "name": "Additional Properties/Numbers",
+      "category": "Various",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "901 853 8202",
+          "area_code": "901",
+          "geographic_indicator": "Tennessee",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "901 821 7361 (w)",
+          "area_code": "901",
+          "geographic_indicator": "Tennessee",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "901 821 1043",
+          "area_code": "901",
+          "geographic_indicator": "Tennessee",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "901 278 4777 Dist[illegible]",
+          "area_code": "901",
+          "geographic_indicator": "Tennessee",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "920 232 5476 Cut",
+          "area_code": "920",
+          "geographic_indicator": "Wisconsin",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Real Estate Associates (h)",
+        "920 272 7301",
+        "920 221 2121 nights",
+        "920 833 9993",
+        "920 853 0801",
+        "920 853 1311 Miami Barbera",
+        "920 852 0110 [illegible]",
+        "920 872 0313 Call Home",
+        "920 852 1310 Big",
+        "920 852 1339 Natalie"
+      ],
+      "notes": "Various property-related contacts",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Some numbers partially illegible"]
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 10,
+    "illegible_entries": 0,
+    "partial_entries": 3,
+    "sections": ["M-N Names", "Properties"],
+    "notable_entries": [
+      "Senator George Mitchell - Former Senate Majority Leader",
+      "Marvin Minsky - MIT Media Lab pioneer",
+      "Robert Meister - Woodland Family Hall",
+      "Mark Middleton - Arkansas/Langley connection",
+      "U.S. Property, Inc. - Real estate company"
+    ],
+    "geographic_distribution": {
+      "usa": 10,
+      "nyc": 5,
+      "massachusetts": 2,
+      "arkansas": 1,
+      "tennessee": 1,
+      "wisconsin": 1
+    },
+    "location_highlights": [
+      "MIT Media Lab (Marvin Minsky)",
+      "731 Fifth Avenue NYC",
+      "Langley Arkansas connection",
+      "Multiple property management contacts"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 7,
+      "medium_confidence": 2,
+      "low_confidence": 1,
+      "specific_issues": [
+        "Some email addresses illegible",
+        "Various phone numbers partially unclear",
+        "Property details incomplete in places"
+      ]
+    }
+  }
+}

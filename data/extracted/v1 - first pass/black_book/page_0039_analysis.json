@@ -1,0 +1,685 @@
+{
+  "page_number": 39,
+  "alphabetical_section": "M",
+  "contacts": [
+    {
+      "name": "Monckton, Rosa",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Albany Avenue 11",
+          "street": "Albany Avenue 11",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "219 Vicarage Gardens",
+          "street": "219 Vicarage Gardens",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Kensington Gate Sussex 1N21",
+          "city": "Kensington Gate Sussex",
+          "postal_code": "1N21",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "0207 460 6197(w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01424 85141",
+          "area_code": "01424",
+          "geographic_indicator": "Hastings, UK",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "[illegible]@mon.co.uk"
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "01424 454 576 Farm[illegible]",
+          "area_code": "01424",
+          "geographic_indicator": "Hastings, UK",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "+44 1424 831167 0207 Fax",
+          "country_code": "44",
+          "area_code": "1424",
+          "geographic_indicator": "Hastings, UK",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "+44 79 606 50100 0207",
+          "country_code": "44",
+          "area_code": "79",
+          "geographic_indicator": "UK mobile",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "+44 1424 [illegible] office",
+          "country_code": "44",
+          "area_code": "1424",
+          "geographic_indicator": "Hastings, UK",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Money Kyle, Mr Charlie & Mi",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "5 Sandown Pleasure Mansions[eta]",
+          "street": "5 Sandown Pleasure Mansions",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW6",
+          "city": "London",
+          "postal_code": "SW6",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0020 300 30061 3844",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207 384 3807 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Ext(1)400 4844400",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Montemayor, Cesar",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 917 328 5025 (h)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 280 3305 (w Mobile fh)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 916 505 6834(w)",
+          "area_code": "916",
+          "geographic_indicator": "Sacramento, CA",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Monti Riccardo",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 39 335 71 84427",
+          "country_code": "39",
+          "area_code": "335",
+          "geographic_indicator": "Italy mobile",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Moore Deborah",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "43 Glenarm Sq",
+          "street": "43 Glenarm Sq",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London SW1",
+          "city": "London",
+          "postal_code": "SW1",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 828 8040(h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 310 490 47777 Jeffrey",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Moore, Juliet &Chris",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "7156 South 79th Street#710",
+          "street": "7156 South 79th Street",
+          "unit": "#710",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York, NY 10021",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 744 7892",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Moore, Mr Geoffrey",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "72 Estate House",
+          "street": "72 Estate House",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Coventry Garden",
+          "city": "Coventry Garden",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "London WC1H 0HE",
+          "city": "London",
+          "postal_code": "WC1H 0HE",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 547 669 7118 (home?)",
+          "area_code": "547",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 547 667 8110 (o)",
+          "area_code": "547",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Morris Stephen",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "307 East 44th St",
+          "street": "307 East 44th St",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Apt 1614 apt 18",
+          "unit": "Apt 1614 apt 18",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "New York",
+          "city": "New York",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "10017",
+          "postal_code": "10017",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 370 2341(w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 682 3477",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01962 863090",
+          "area_code": "01962",
+          "geographic_indicator": "Winchester, UK",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01962 865890",
+          "area_code": "01962",
+          "geographic_indicator": "Winchester, UK",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Morris, Nick & Lucy",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Pigeon Meadow",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "London NW3",
+          "city": "London",
+          "postal_code": "NW3",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 435 9750 (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Mortimer, John & Averall",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Argentina[illegible] Management Apt",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Radmoor Walk",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "London SW10",
+          "city": "London",
+          "postal_code": "SW10",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "+ 44+ 351 530543(w)",
+          "country_code": "351",
+          "geographic_indicator": "Portugal",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "+ 44+ 351 530540(h)",
+          "country_code": "351",
+          "geographic_indicator": "Portugal",
+          "confidence": "medium"
+        }
+      ],
+      "addresses_additional": [
+        {
+          "type": "secondary",
+          "address": "[illegible] national water",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "24 No City Council [west]",
+          "confidence": "low"
+        }
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "+ 44+ 791 XXXX office",
+          "country_code": "44",
+          "area_code": "791",
+          "geographic_indicator": "UK mobile",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "+ 44+ 791 531",
+          "country_code": "44",
+          "area_code": "791",
+          "geographic_indicator": "UK mobile",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "[illegible] 1002",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Munro, Donald",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "8937Chelsea Street #10",
+          "street": "8937Chelsea Street",
+          "unit": "#10",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "New York 10014",
+          "city": "New York",
+          "postal_code": "10014",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 627 6016 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Murdoch, Rupert",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 852 7155",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Rupert Murdoch - media mogul",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Murray Philipson Kate",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "West Orange",
+          "city": "West Orange",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "01923 210823",
+          "area_code": "01923",
+          "geographic_indicator": "Watford, UK",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Murray Philipson, Mr A",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "New Cottage",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "61[illegible]@linethrough Leics",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0138 85512(work)",
+          "area_code": "0138",
+          "confidence": "low"
+        }
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Morton, Peter",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 310 556 3000(w)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 213 212 1168 (w)",
+          "area_code": "213",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Morton, Robert",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 431 6060(w)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 516 283 0508(h)",
+          "area_code": "516",
+          "geographic_indicator": "Long Island, NY",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Murray Threipland Yorkshire",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "01444 731380",
+          "area_code": "01444",
+          "geographic_indicator": "Haywards Heath, UK",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Mourke Alan",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 310 955 5754(w)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles/Beverly Hills",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "[illegible] 914 XX 5020(w)",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Murray, Jean Pierre",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 514 906 8208[cell]",
+          "area_code": "514",
+          "geographic_indicator": "Montreal, Canada",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 33 4 93 731816",
+          "country_code": "33",
+          "area_code": "4",
+          "geographic_indicator": "Southern France",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 19,
+    "quality": "fair",
+    "legibility": "moderate degradation",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "Rupert Murdoch - Media mogul"
+    ]
+  },
+  "insights": [
+    "Rupert Murdoch entry - major media mogul",
+    "Strong UK regional presence (Hastings, Winchester, Watford)",
+    "Sacramento CA connection (916)",
+    "Montreal Canada connection (514)",
+    "Portugal connection (+351)",
+    "Italy mobile presence",
+    "Southern France continuing presence",
+    "Mix of media, business contacts",
+    "Beverly Hills/Los Angeles strong presence",
+    "Long Island NY continuing presence"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "medium",
+    "total_contacts": 19,
+    "high_confidence": 12,
+    "medium_confidence": 5,
+    "low_confidence": 2,
+    "extraction_issues": [
+      "Some addresses partially illegible",
+      "Several incomplete phone numbers",
+      "Moderate page degradation",
+      "Some entries with minimal information"
+    ]
+  }
+}

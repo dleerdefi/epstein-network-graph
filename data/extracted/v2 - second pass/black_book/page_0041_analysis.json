@@ -1,0 +1,817 @@
+{
+  "page_number": 41,
+  "alphabetical_section": "O",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "041_odonnell_mr_carletto",
+      "name": {
+        "full_name": "O'Donnell, Mr Carletto",
+        "prefix": "Mr",
+        "first_name": "Carletto",
+        "middle_name": null,
+        "last_name": "O'Donnell",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 628 2467",
+          "formatting": "International to US - NYC"
+        },
+        {
+          "type": "work",
+          "number": "001 212 888 6240 (w)",
+          "formatting": "International to US - NYC"
+        },
+        {
+          "type": "mobile",
+          "number": "001 917 575 1319 (p)",
+          "formatting": "International to US - NYC mobile"
+        },
+        {
+          "type": "fax",
+          "number": "001 212 888 0134 (fx)",
+          "formatting": "International to US - NYC fax"
+        },
+        {
+          "type": "work",
+          "number": "001 212 644 8866 (h)",
+          "formatting": "International to US - NYC"
+        }
+      ],
+      "emails": [
+        {
+          "address": "SM 1237@aol.com",
+          "type": "personal",
+          "notes": "AOL email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "12 West 68th Street",
+            "New York, NY 10023"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10023",
+          "country": "USA",
+          "notes": "Upper West Side NYC"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Upper West Side NYC with multiple contact methods"
+    },
+    {
+      "entry_id": "041_oneill_louis",
+      "name": {
+        "full_name": "O'Neill, Louis",
+        "prefix": null,
+        "first_name": "Louis",
+        "middle_name": null,
+        "last_name": "O'Neill",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "00 86 10 6532 3883 (w)",
+          "formatting": "International to China - Beijing"
+        },
+        {
+          "type": "mobile",
+          "number": "00 86 13 901 339 6883 (m)",
+          "formatting": "International to China - mobile"
+        },
+        {
+          "type": "home",
+          "number": "00 1 912 202 7217(h)",
+          "formatting": "International to US"
+        },
+        {
+          "type": "fax",
+          "number": "001 770 641 0889 (fx)",
+          "formatting": "International to US - Atlanta area fax"
+        }
+      ],
+      "emails": [
+        {
+          "address": "loneil@stanfordalumni.org",
+          "type": "stanford college",
+          "notes": "alumni email"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "230 E. 15th Street",
+            "NY 10003"
+          ],
+          "city": "New York",
+          "postal_code": "10003",
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [
+        "00 86 10 6524 6790 (w)temporal",
+        "00 1 770 641 8089 (fx)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Stanford alumni"
+    },
+    {
+      "entry_id": "041_oates_simon",
+      "name": {
+        "full_name": "Oates, Simon",
+        "prefix": null,
+        "first_name": "Simon",
+        "middle_name": null,
+        "last_name": "Oates",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-724 3030",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK contact"
+    },
+    {
+      "entry_id": "041_oates_tom",
+      "name": {
+        "full_name": "Oates, Tom",
+        "prefix": null,
+        "first_name": "Tom",
+        "middle_name": null,
+        "last_name": "Oates",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-244 8985",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "0207-244 1930 (fx)",
+          "formatting": "UK landline fax"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "72a Fawcett Street",
+            "London"
+          ],
+          "city": "London",
+          "postal_code": null,
+          "country": "UK",
+          "notes": "London address"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "London contact with fax"
+    },
+    {
+      "entry_id": "041_ojora_yinka",
+      "name": {
+        "full_name": "Ojora, Yinka",
+        "prefix": null,
+        "first_name": "Yinka",
+        "middle_name": null,
+        "last_name": "Ojora",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 589 7770(h)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "234 1 269 0054 Nigeria (w)",
+          "formatting": "Nigeria work"
+        },
+        {
+          "type": "work",
+          "number": "234 1 269 0055 (w1)",
+          "formatting": "Nigeria work"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [
+        "0207 589 7770 flat"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "041_olsen_camille",
+      "name": {
+        "full_name": "Olsen, Camille",
+        "prefix": null,
+        "first_name": "Camille",
+        "middle_name": null,
+        "last_name": "Olsen",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "011 852 6923",
+          "formatting": "International"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "International contact"
+    },
+    {
+      "entry_id": "041_omar_ralph",
+      "name": {
+        "full_name": "Omar, Ralph",
+        "prefix": null,
+        "first_name": "Ralph",
+        "middle_name": null,
+        "last_name": "Omar",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-798 8118 (fx)",
+          "formatting": "UK landline fax"
+        },
+        {
+          "type": "work",
+          "number": "0207-738 8117(h)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "mobile",
+          "number": "0207-738 4000 (w)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "13 Chelsea Park",
+            "London SW3 6AF"
+          ],
+          "city": "London",
+          "postal_code": "SW3 6AF",
+          "country": "UK",
+          "notes": "Chelsea - SW3"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Chelsea residence"
+    },
+    {
+      "entry_id": "041_ong_bs_chritina",
+      "name": {
+        "full_name": "Ong BS & Chritina",
+        "prefix": null,
+        "first_name": "BS",
+        "middle_name": null,
+        "last_name": "Ong",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Chritina"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-736 3663 (fx)",
+          "formatting": "UK landline fax"
+        },
+        {
+          "type": "work",
+          "number": "0207-736 1667 (w)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Mulberry House, Bell Lane",
+            "Cassington",
+            "Oxford"
+          ],
+          "city": "Oxford",
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Oxfordshire"
+        },
+        {
+          "type": "business",
+          "address_lines": [
+            "c/o Royal Fine Art (dealer)"
+          ],
+          "notes": "Art dealer business"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Art dealer couple - Oxfordshire"
+    },
+    {
+      "entry_id": "041_ong_melissa",
+      "name": {
+        "full_name": "Ong, Melissa",
+        "prefix": null,
+        "first_name": "Melissa",
+        "middle_name": null,
+        "last_name": "Ong",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 617 379 8625(w)",
+          "formatting": "International to US - Boston area"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Boston area contact"
+    },
+    {
+      "entry_id": "041_oppenheim_mr_laurie",
+      "name": {
+        "full_name": "Oppenheim, Mr Laurie",
+        "prefix": "Mr",
+        "first_name": "Laurie",
+        "middle_name": null,
+        "last_name": "Oppenheim",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 352 4405 (h)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "0207 352 2222 (w)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "fax",
+          "number": "0207 352 2230 (fx)",
+          "formatting": "UK landline fax"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK contact"
+    },
+    {
+      "entry_id": "041_oppenheim_ms_marella",
+      "name": {
+        "full_name": "Oppenheim, Ms Marella",
+        "prefix": "Ms",
+        "first_name": "Marella",
+        "middle_name": null,
+        "last_name": "Oppenheim",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "15 Sloane Court (W)",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "home",
+          "number": "0207-730 7111 (h)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [
+            "15 Sloane Court West",
+            "London"
+          ],
+          "city": "London",
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Sloane Court - Chelsea/Knightsbridge area"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Sloane Court West - Chelsea/Knightsbridge"
+    },
+    {
+      "entry_id": "041_orchard_vaughn_edward_katie",
+      "name": {
+        "full_name": "Orchard (Vaughn-Edward), Katie",
+        "prefix": null,
+        "first_name": "Katie",
+        "middle_name": null,
+        "last_name": "Orchard",
+        "suffix": null,
+        "alternative_name": "Vaughn-Edward"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-244 5900",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Phillimore Estate SPG 9QA",
+            "2 Stratford Villas",
+            "London NW3"
+          ],
+          "city": "London",
+          "postal_code": "NW3",
+          "country": "UK",
+          "notes": "Hampstead area"
+        }
+      ],
+      "handwritten_notes": [
+        "Phillimore"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Hampstead - Phillimore Estate"
+    },
+    {
+      "entry_id": "041_orlando_fabrice",
+      "name": {
+        "full_name": "Orlando, Fabrice",
+        "prefix": null,
+        "first_name": "Fabrice",
+        "middle_name": null,
+        "last_name": "Orlando",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 06 081 7253",
+          "formatting": "International"
+        },
+        {
+          "type": "mobile",
+          "number": "001 06 083 6963",
+          "formatting": "International"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "International contact"
+    },
+    {
+      "entry_id": "041_osbourne_rachel",
+      "name": {
+        "full_name": "Osbourne, Rachel",
+        "prefix": null,
+        "first_name": "Rachel",
+        "middle_name": null,
+        "last_name": "Osbourne",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0208 964 5940(h)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "73 Alma Rd Clifton",
+            "Bristol BS8 2DJ"
+          ],
+          "city": "Bristol",
+          "postal_code": "BS8 2DJ",
+          "country": "UK",
+          "notes": "Clifton, Bristol"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Bristol - Clifton area"
+    },
+    {
+      "entry_id": "041_oswald_william_arabella",
+      "name": {
+        "full_name": "Oswald, William & Arabella",
+        "prefix": null,
+        "first_name": "William",
+        "middle_name": null,
+        "last_name": "Oswald",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Arabella"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "01768 865 217",
+          "formatting": "UK format"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Lamberhead Green",
+            "Penrith",
+            "Cumbria CA10 SYY 9UU"
+          ],
+          "city": "Penrith",
+          "county": "Cumbria",
+          "postal_code": "CA10 9UU",
+          "country": "UK",
+          "notes": "Lake District - Cumbria"
+        }
+      ],
+      "handwritten_notes": [
+        "Green Cumbna Lake district",
+        "0207-730 1101 (h direct line)",
+        "0207-730 0173 (Good home number)",
+        "003 7239 0773 (Good home number)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Lake District Cumbria with London numbers"
+    },
+    {
+      "entry_id": "041_otto_beo_edvige",
+      "name": {
+        "full_name": "Otto, Beo & Edvige",
+        "prefix": null,
+        "first_name": "Beo",
+        "middle_name": null,
+        "last_name": "Otto",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Edvige"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-937 1241 (h)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "84 Elgin Crescent",
+            "London W11"
+          ],
+          "city": "London",
+          "postal_code": "W11",
+          "country": "UK",
+          "notes": "Notting Hill"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Notting Hill couple"
+    },
+    {
+      "entry_id": "041_owen_edmunds_tom_kate",
+      "name": {
+        "full_name": "Owen Edmunds, Tom & Kate",
+        "prefix": null,
+        "first_name": "Tom",
+        "middle_name": null,
+        "last_name": "Owen Edmunds",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Kate"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-937 8942",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "14 Rowan Lodge",
+            "Kensington Ct MPS 4RR",
+            "London W8 5RL"
+          ],
+          "city": "London",
+          "postal_code": "W8 5RL",
+          "country": "UK",
+          "notes": "Kensington Court"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Kensington Court couple"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 18,
+    "entries_with_emails": 2,
+    "entries_with_addresses": 11,
+    "entries_with_handwritten_notes": 3,
+    "couples": 5,
+    "average_confidence": "high",
+    "notable_figures_count": 0
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Carletto O'Donnell",
+      "Louis O'Neill",
+      "Simon Oates",
+      "Tom Oates",
+      "Yinka Ojora",
+      "Camille Olsen",
+      "Ralph Omar",
+      "BS Ong",
+      "Chritina Ong",
+      "Melissa Ong",
+      "Laurie Oppenheim",
+      "Marella Oppenheim",
+      "Katie Orchard (Vaughn-Edward)",
+      "Fabrice Orlando",
+      "Rachel Osbourne",
+      "William Oswald",
+      "Arabella Oswald",
+      "Beo Otto",
+      "Edvige Otto",
+      "Tom Owen Edmunds",
+      "Kate Owen Edmunds"
+    ],
+    "organizations": [
+      "Royal Fine Art (BS Ong - art dealer)",
+      "Stanford Alumni (Louis O'Neill)"
+    ],
+    "locations": {
+      "international": [
+        "London, UK (multiple contacts)",
+        "Beijing, China",
+        "Paris, France",
+        "Bristol, UK"
+      ],
+      "us_cities": [
+        "New York City (Upper West Side)",
+        "Boston area"
+      ],
+      "elite_addresses": [
+        "Upper West Side NYC (68th Street)",
+        "Chelsea, London (Chelsea Park, SW3)",
+        "Sloane Court West, London (Knightsbridge/Chelsea)",
+        "Hampstead, London (Phillimore Estate, NW3)",
+        "Kensington Court, London (W8)",
+        "Notting Hill, London (Elgin Crescent, W11)",
+        "Clifton, Bristol",
+        "Lake District, Cumbria",
+        "Oxfordshire (Cassington)"
+      ]
+    }
+  },
+  "insights": [
+    "Louis O'Neill - Beijing-based Stanford alumnus with Chinese mobile and US connections",
+    "BS Ong & Chritina - art dealer couple associated with Royal Fine Art, based in Oxfordshire",
+    "Geographic diversity: London elite neighborhoods (Chelsea, Kensington, Hampstead, Notting Hill), Beijing business presence, Paris contacts",
+    "William & Arabella Oswald - Lake District Cumbria estate with multiple London contact numbers",
+    "Carletto O'Donnell - Upper West Side NYC with comprehensive contact methods (5 phone numbers + email)",
+    "Multiple couples in London elite areas indicating established social networks",
+    "Yinka Ojora - Nigeria-based with London residence, international business connections",
+    "Mix of international business (China, France, Nigeria), UK aristocracy/country estates, and NYC connections",
+    "Rachel Osbourne - Bristol Clifton area, outside London elite circle",
+    "AOL and Stanford alumni emails indicating late 1990s/early 2000s timeframe",
+    "Katie Orchard also known as Vaughn-Edward - Hampstead Phillimore Estate resident"
+  ]
+}

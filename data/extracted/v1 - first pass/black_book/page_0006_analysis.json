@@ -1,0 +1,1294 @@
+{
+  "page_number": 6,
+  "alphabetical_section": "B",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "page6_black_conrad_barbara",
+      "name": {
+        "full_name": "Black, Conrad & Barbara",
+        "title": null,
+        "first_name": "Conrad",
+        "last_name": "Black",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "917 822 9166",
+          "type": "mobile",
+          "label": null,
+          "country_code": null,
+          "area_code": "917",
+          "extension": null,
+          "notes": "NYC mobile",
+          "is_primary": false,
+          "formatting": "917 822 9166"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "[illegible]\nPark Ave. Apartment\n740 Park Avenue\nNew York, NY 10021",
+          "street_line1": "740 Park Avenue",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": "10021",
+          "country": "USA",
+          "notes": "Ultra-prestigious address"
+        },
+        {
+          "type": "vacation",
+          "label": null,
+          "full_address": "[illegible]@hollinger.net (CA)\n[illegible]\nEmail: [illegible]@aol.com",
+          "street_line1": null,
+          "street_line2": null,
+          "city": null,
+          "state_province": "CA",
+          "postal_code": null,
+          "country": "Canada",
+          "notes": "Canadian connection"
+        }
+      ],
+      "emails": [
+        {
+          "address": "[illegible]@hollinger.net",
+          "type": "business",
+          "domain": "hollinger.net",
+          "notes": "Hollinger media empire"
+        },
+        {
+          "address": "[illegible]@aol.com",
+          "type": "personal",
+          "domain": "aol.com",
+          "notes": null
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Barbara Black"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Media mogul", "740 Park Avenue resident"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "medium",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page6_blaine_david",
+      "name": {
+        "full_name": "Blaine David",
+        "title": null,
+        "first_name": "David",
+        "last_name": "Blaine",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "917 971 9977 (from lisa asst.)",
+          "type": "mobile",
+          "label": "from lisa asst.",
+          "country_code": null,
+          "area_code": "917",
+          "extension": null,
+          "notes": "NYC mobile, via assistant",
+          "is_primary": false,
+          "formatting": "917 971 9977"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": ["Lisa (assistant)"],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page6_blair_tony",
+      "name": {
+        "full_name": "Blair Tony",
+        "title": null,
+        "first_name": "Tony",
+        "last_name": "Blair",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0207-321 0666",
+          "type": "work",
+          "label": null,
+          "country_code": null,
+          "area_code": "0207",
+          "extension": null,
+          "notes": "Central London, likely official",
+          "is_primary": false,
+          "formatting": "0207-321 0666"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Political figure"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page6_bloomberg_mike",
+      "name": {
+        "full_name": "Bloomberg Mike",
+        "title": null,
+        "first_name": "Mike",
+        "last_name": "Bloomberg",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 212 772 1081 (c)",
+          "type": "mobile",
+          "label": "c",
+          "country_code": "001",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan",
+          "is_primary": false,
+          "formatting": "001 212 772 1081 (c)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "718 Park Avenue\nNew York",
+          "street_line1": "718 Park Avenue",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Upper East Side"
+        }
+      ],
+      "emails": [
+        {
+          "address": "[illegible]@bloomberg.net",
+          "type": "business",
+          "domain": "bloomberg.net",
+          "notes": "Bloomberg LP domain"
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Business/political figure"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "medium",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page6_boardman_samantha",
+      "name": {
+        "full_name": "Boardman Samantha",
+        "title": null,
+        "first_name": "Samantha",
+        "last_name": "Boardman",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 212 772 XXXX",
+          "type": "home",
+          "label": null,
+          "country_code": "001",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan",
+          "is_primary": false,
+          "formatting": "001 212 772 XXXX"
+        },
+        {
+          "number": "001 631 668 7850",
+          "type": "unknown",
+          "label": null,
+          "country_code": "001",
+          "area_code": "631",
+          "extension": null,
+          "notes": "Long Island area",
+          "is_primary": false,
+          "formatting": "001 631 668 7850"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "medium",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page6_boardman_serena",
+      "name": {
+        "full_name": "Boardman Serena",
+        "title": null,
+        "first_name": "Serena",
+        "last_name": "Boardman",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 212 988 XXXX(h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "001",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan",
+          "is_primary": false,
+          "formatting": "001 212 988 XXXX(h)"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": ["Related to Samantha Boardman"],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page6_blacker_diogs_jill",
+      "name": {
+        "full_name": "Blacker (Diogs & Jill), Mr & S",
+        "title": "Mr",
+        "first_name": "Diogs",
+        "last_name": "Blacker",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": "Diogs",
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Oak Hangar\nBeech Lane\n[illegible]\n07710 XXXX",
+          "street_line1": "Oak Hangar",
+          "street_line2": "Beech Lane",
+          "city": "[illegible]",
+          "state_province": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Based on phone format"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Jill Blacker", "S"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "low",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page6_roden_johnie_sophia",
+      "name": {
+        "full_name": "Roden, Johnie & Sophia",
+        "title": null,
+        "first_name": "Johnie",
+        "last_name": "Roden",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 303 XXXX (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": "001",
+          "area_code": "303",
+          "extension": null,
+          "notes": "Denver/Colorado area",
+          "is_primary": false,
+          "formatting": "001 303 XXXX (w)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "1 Columbia Circle\nWashington, D.C.",
+          "street_line1": "1 Columbia Circle",
+          "street_line2": null,
+          "city": "Washington",
+          "state_province": "D.C.",
+          "postal_code": null,
+          "country": "USA",
+          "notes": null
+        }
+      ],
+      "emails": [
+        {
+          "address": "goldensophie@aol.com",
+          "type": "personal",
+          "domain": "aol.com",
+          "notes": null
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Sophia Roden"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page6_bodini_daniel",
+      "name": {
+        "full_name": "Bodini, Daniel",
+        "title": null,
+        "first_name": "Daniel",
+        "last_name": "Bodini",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0208-964 260(2h)",
+          "type": "home",
+          "label": "h",
+          "country_code": null,
+          "area_code": "0208",
+          "extension": null,
+          "notes": "Outer London area",
+          "is_primary": false,
+          "formatting": "0208-964 260(2h)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "3022 Park Avenue\n[illegible]\n001 212 979 XXXX (h)\n001 212 921 XXXX",
+          "street_line1": "3022 Park Avenue",
+          "street_line2": null,
+          "city": "New York",
+          "state_province": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Park Avenue address"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Mixed UK/US phones"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "medium",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page6_booksnicholasn",
+      "name": {
+        "full_name": "Books Nicholas",
+        "title": null,
+        "first_name": "Nicholas",
+        "last_name": "Books",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 212 265 693X(h)",
+          "type": "home",
+          "label": "h",
+          "country_code": "001",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan",
+          "is_primary": false,
+          "formatting": "001 212 265 693X(h)"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "minimal",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page6_booth_mark_lauren",
+      "name": {
+        "full_name": "Booth Mark & Lauren",
+        "title": null,
+        "first_name": "Mark",
+        "last_name": "Booth",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0207-173 8847(h)",
+          "type": "home",
+          "label": "h",
+          "country_code": null,
+          "area_code": "0207",
+          "extension": null,
+          "notes": "Central London",
+          "is_primary": false,
+          "formatting": "0207-173 8847(h)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "54 Ovington Square\nLondon SW3",
+          "street_line1": "54 Ovington Square",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW3",
+          "country": "UK",
+          "notes": "Knightsbridge area"
+        }
+      ],
+      "emails": [
+        {
+          "address": "[illegible]@talktalk.com",
+          "type": "personal",
+          "domain": "talktalk.com",
+          "notes": "UK ISP"
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Lauren Booth"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "medium",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page6_bolsgelin_edward",
+      "name": {
+        "full_name": "Bolsgelin, Edward de",
+        "title": null,
+        "first_name": "Edward",
+        "last_name": "Bolsgelin",
+        "suffix": "de",
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 [illegible]",
+          "type": "unknown",
+          "label": null,
+          "country_code": "001",
+          "area_code": null,
+          "extension": null,
+          "notes": "US number",
+          "is_primary": false,
+          "formatting": "001 [illegible]"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "66 Sloane Square\nLondon SW1",
+          "street_line1": "66 Sloane Square",
+          "street_line2": null,
+          "city": "London",
+          "state_province": null,
+          "postal_code": "SW1",
+          "country": "UK",
+          "notes": "Chelsea area"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["French nobility particle 'de'"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page6_boisaubert_pierre",
+      "name": {
+        "full_name": "Boisaubert, Pierre de",
+        "title": null,
+        "first_name": "Pierre",
+        "last_name": "Boisaubert",
+        "suffix": "de",
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "00 33 1 71 04 23",
+          "type": "unknown",
+          "label": null,
+          "country_code": "00 33",
+          "area_code": "1",
+          "extension": null,
+          "notes": "Paris, France",
+          "is_primary": false,
+          "formatting": "00 33 1 71 04 23"
+        },
+        {
+          "number": "00 33 1 48 72 04 54",
+          "type": "unknown",
+          "label": null,
+          "country_code": "00 33",
+          "area_code": "1",
+          "extension": null,
+          "notes": "Paris, France",
+          "is_primary": false,
+          "formatting": "00 33 1 48 72 04 54"
+        }
+      ],
+      "addresses": [],
+      "emails": [
+        {
+          "address": "pdboisaubert@orange.com",
+          "type": "personal",
+          "domain": "orange.com",
+          "notes": "French ISP"
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["French nobility particle 'de'"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page6_boothe_christina",
+      "name": {
+        "full_name": "Boothe, Christina A.",
+        "title": null,
+        "first_name": "Christina",
+        "last_name": "Boothe",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "0207-376 9654 (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": null,
+          "area_code": "0207",
+          "extension": null,
+          "notes": "Central London",
+          "is_primary": false,
+          "formatting": "0207-376 9654 (w)"
+        }
+      ],
+      "addresses": [],
+      "emails": [
+        {
+          "address": "christina.boothe@virgin.com",
+          "type": "business",
+          "domain": "virgin.com",
+          "notes": "Virgin Group"
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Virgin Group connection"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    },
+    {
+      "entry_id": "page6_bond_anabelle",
+      "name": {
+        "full_name": "Bond Anabelle",
+        "title": null,
+        "first_name": "Anabelle",
+        "last_name": "Bond",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "2715 XXXX41",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": "2715",
+          "extension": null,
+          "notes": "Possibly international",
+          "is_primary": false,
+          "formatting": "2715 XXXX41"
+        }
+      ],
+      "addresses": [],
+      "emails": [
+        {
+          "address": "anabelle@bondteam.com",
+          "type": "personal",
+          "domain": "bondteam.com",
+          "notes": null
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "partial"
+      }
+    },
+    {
+      "entry_id": "page6_borgess_paulo",
+      "name": {
+        "full_name": "Borgess Paulo",
+        "title": null,
+        "first_name": "Paulo",
+        "last_name": "Borgess",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "00 55 21 25 23XXXX",
+          "type": "unknown",
+          "label": null,
+          "country_code": "00 55",
+          "area_code": "21",
+          "extension": null,
+          "notes": "Rio de Janeiro, Brazil",
+          "is_primary": false,
+          "formatting": "00 55 21 25 23XXXX"
+        },
+        {
+          "number": "00 55 XXXX-40 45 (w)",
+          "type": "work",
+          "label": "w",
+          "country_code": "00 55",
+          "area_code": null,
+          "extension": null,
+          "notes": "Brazil",
+          "is_primary": false,
+          "formatting": "00 55 XXXX-40 45 (w)"
+        }
+      ],
+      "addresses": [],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Brazilian connection"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page6_bonomi_andrea_gioia",
+      "name": {
+        "full_name": "Bonomi, Andrea & Gioia",
+        "title": null,
+        "first_name": "Andrea",
+        "last_name": "Bonomi",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "Via dello Scalo 38",
+          "type": "unknown",
+          "label": null,
+          "country_code": null,
+          "area_code": null,
+          "extension": null,
+          "notes": "Address mixed with phone",
+          "is_primary": false,
+          "formatting": "Via dello Scalo 38"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "Via dello Scalo 38\nGenoa 21013\n00 39 XXXX1XX(cel)",
+          "street_line1": "Via dello Scalo 38",
+          "street_line2": null,
+          "city": "Genoa",
+          "state_province": null,
+          "postal_code": "21013",
+          "country": "Italy",
+          "notes": null
+        }
+      ],
+      "emails": [
+        {
+          "address": "gioia@bonomi.com",
+          "type": "personal",
+          "domain": "bonomi.com",
+          "notes": null
+        }
+      ],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": ["Gioia Bonomi"],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": ["Italian connection"]
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "low",
+        "email_confidence": "high",
+        "address_confidence": "medium",
+        "overall_legibility": "poor"
+      }
+    },
+    {
+      "entry_id": "page6_borrico_michael",
+      "name": {
+        "full_name": "Borrico, Michael",
+        "title": null,
+        "first_name": "Michael",
+        "last_name": "Borrico",
+        "suffix": null,
+        "maiden_name": null,
+        "nickname": null,
+        "company": null,
+        "is_redacted": false,
+        "redaction_type": "none"
+      },
+      "phone_numbers": [
+        {
+          "number": "001 212 980 1947(w)",
+          "type": "work",
+          "label": "w",
+          "country_code": "001",
+          "area_code": "212",
+          "extension": null,
+          "notes": "Manhattan",
+          "is_primary": false,
+          "formatting": "001 212 980 1947(w)"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "label": null,
+          "full_address": "233 Warwick Avenue\nCloster, NJ 07626",
+          "street_line1": "233 Warwick Avenue",
+          "street_line2": null,
+          "city": "Closter",
+          "state_province": "NJ",
+          "postal_code": "07626",
+          "country": "USA",
+          "notes": "New Jersey suburb"
+        }
+      ],
+      "emails": [],
+      "annotations": {
+        "handwritten_notes": [],
+        "corrections": [],
+        "cross_references": [],
+        "special_markings": [],
+        "margin_notes": []
+      },
+      "relationships": {
+        "explicit_relationships": [],
+        "implied_connections": [],
+        "professional_role": null
+      },
+      "metadata": {
+        "entry_completeness": "partial",
+        "has_redactions": false,
+        "is_handwritten": false,
+        "is_typed": true,
+        "has_corrections": false,
+        "unusual_features": []
+      },
+      "data_quality": {
+        "name_confidence": "high",
+        "phone_confidence": "high",
+        "email_confidence": "high",
+        "address_confidence": "high",
+        "overall_legibility": "clear"
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 18,
+    "complete_entries": 0,
+    "partial_entries": 14,
+    "minimal_entries": 4,
+    "redacted_entries": 0,
+    "handwritten_additions": 0,
+    "crossed_out_entries": 0,
+    "quality": "fair",
+    "legibility": "partially obscured",
+    "notable_features": ["Multiple high-profile political/business figures", "International connections (Brazil, France, Italy)", "Ultra-prestigious NYC addresses"],
+    "continues_to_page": 7,
+    "continued_from_page": 5,
+    "split_entry_note": "No clear continuation from page 5's Bjorlin entry"
+  },
+  "cross_references": [
+    {
+      "from_name": "Serena Boardman",
+      "to_name": "Samantha Boardman",
+      "reference_type": "related_to",
+      "page_reference": null
+    }
+  ],
+  "entities": {
+    "people": ["Conrad Black", "Barbara Black", "David Blaine", "Lisa", "Tony Blair", "Mike Bloomberg", "Samantha Boardman", "Serena Boardman", "Diogs Blacker", "Jill Blacker", "Johnie Roden", "Sophia Roden", "Daniel Bodini", "Nicholas Books", "Mark Booth", "Lauren Booth", "Edward de Bolsgelin", "Pierre de Boisaubert", "Christina A. Boothe", "Anabelle Bond", "Paulo Borgess", "Andrea Bonomi", "Gioia Bonomi", "Michael Borrico"],
+    "organizations": ["Hollinger", "Bloomberg LP", "Virgin Group"],
+    "locations": {
+      "cities": ["New York", "London", "Washington", "Denver", "Paris", "Genoa", "Rio de Janeiro", "Closter"],
+      "states": ["NY", "NJ", "D.C.", "CA", "CO"],
+      "countries": ["USA", "UK", "Canada", "France", "Italy", "Brazil"]
+    }
+  },
+  "insights": [
+    "Page 6 contains 18 entries continuing the B section",
+    "Conrad Black at 740 Park Avenue - one of NYC's most exclusive addresses",
+    "Tony Blair entry with London phone - former UK Prime Minister",
+    "Mike Bloomberg at 718 Park Avenue with Bloomberg LP email domain",
+    "David Blaine (magician/performer) contact via assistant Lisa",
+    "Multiple Boardman family members (Samantha and Serena)",
+    "French nobility connections (de Bolsgelin, de Boisaubert)",
+    "Brazilian connection through Paulo Borgess (Rio area code 00 55 21)",
+    "Italian connection through Bonomi family in Genoa",
+    "Christina Boothe with virgin.com email suggests Virgin Group connection",
+    "303 area code for Roden indicates Denver/Colorado connection",
+    "631 area code for Samantha Boardman indicates Long Island/Hamptons",
+    "Multiple entries with prestigious London addresses (Sloane Square, Ovington Square)",
+    "hollinger.net domain for Conrad Black - media empire connection",
+    "Mix of ultra-wealthy individuals, political figures, and business leaders"
+  ]
+}

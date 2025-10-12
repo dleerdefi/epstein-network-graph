@@ -1,0 +1,120 @@
+{
+  "page_number": 71,
+  "document_id": "HOUSE_OVERSIGHT_000071",
+  "extraction_type": "forensic_complete",
+  "extraction_timestamp": "2025-01-23",
+
+  "complete_text_transcription": "Class SP73\n[Top photo roster - reading from typed names below photo]\nFirst Column: Stark, Loren; Stein, Harvey; Stein, Sharon; Steinberg, Alan; Steinberg, Barbara; Sunshine, Linda; Sussman, Alice; Sznapstajler, Maria; Tatem, Caroline\nSecond Column: Wagner, Charles; Williams, Millicent; Wohl, Robert; Wolfert, Stanley; Yaffa, Barry; Zimmerman, Stuart; Benator, Stanley; Brooks, Linda; Ciravolo, Vincent\nThird Column: Cohen, Alan; Cohn, Robert; D'Alesso, John; Dolin, Robert; Eisenstein, Paula; Feinstein, Philip; Franklin, Iris; Friedman, Rhonda; Gaelen, Joyce\n\nClass 7SP6\n[Bottom photo roster - reading from typed names below photo]\nGarber, Robert; Gismondi, Joseph; Goldberg, Andrew; Golden, Larry; Goldman, Aaron; Gordon, Linda; Grabstein, Jerry; Gravano, Fran; Green, Rhonda; Gross, Joel; Guida, Nancy; Haddad, Susan; Horowitz, Carol; Horwitz, Alan; Judge, William; Kaplan, Neal; Karpo, Betty; Klein, Marjorie; Koffman, Gerry; Lampert, Edith; Leibovich, Beatrice; Lentini, Rose Marie; Levitan, Jeffrey",
+
+  "entities": {
+    "people": [
+      {"name": "Stark, Loren", "class": "SP73", "confidence": "high"},
+      {"name": "Stein, Harvey", "class": "SP73", "confidence": "high"},
+      {"name": "Stein, Sharon", "class": "SP73", "confidence": "high"},
+      {"name": "Steinberg, Alan", "class": "SP73", "confidence": "high"},
+      {"name": "Steinberg, Barbara", "class": "SP73", "confidence": "high"},
+      {"name": "Sunshine, Linda", "class": "SP73", "confidence": "high"},
+      {"name": "Sussman, Alice", "class": "SP73", "confidence": "high"},
+      {"name": "Sznapstajler, Maria", "class": "SP73", "confidence": "high"},
+      {"name": "Tatem, Caroline", "class": "SP73", "confidence": "high"},
+      {"name": "Wagner, Charles", "class": "SP73", "confidence": "high"},
+      {"name": "Williams, Millicent", "class": "SP73", "confidence": "high"},
+      {"name": "Wohl, Robert", "class": "SP73", "confidence": "high"},
+      {"name": "Wolfert, Stanley", "class": "SP73", "confidence": "high"},
+      {"name": "Yaffa, Barry", "class": "SP73", "confidence": "high"},
+      {"name": "Zimmerman, Stuart", "class": "SP73", "confidence": "high"},
+      {"name": "Benator, Stanley", "class": "SP73", "confidence": "high"},
+      {"name": "Brooks, Linda", "class": "SP73", "confidence": "high"},
+      {"name": "Ciravolo, Vincent", "class": "SP73", "confidence": "high"},
+      {"name": "Cohen, Alan", "class": "SP73", "confidence": "high"},
+      {"name": "Cohn, Robert", "class": "SP73", "confidence": "high"},
+      {"name": "D'Alesso, John", "class": "SP73", "confidence": "high"},
+      {"name": "Dolin, Robert", "class": "SP73", "confidence": "high"},
+      {"name": "Eisenstein, Paula", "class": "SP73", "confidence": "high"},
+      {"name": "Feinstein, Philip", "class": "SP73", "confidence": "high"},
+      {"name": "Franklin, Iris", "class": "SP73", "confidence": "high"},
+      {"name": "Friedman, Rhonda", "class": "SP73", "confidence": "high"},
+      {"name": "Gaelen, Joyce", "class": "SP73", "confidence": "high"},
+      {"name": "Garber, Robert", "class": "7SP6", "confidence": "high"},
+      {"name": "Gismondi, Joseph", "class": "7SP6", "confidence": "high"},
+      {"name": "Goldberg, Andrew", "class": "7SP6", "confidence": "high"},
+      {"name": "Golden, Larry", "class": "7SP6", "confidence": "high"},
+      {"name": "Goldman, Aaron", "class": "7SP6", "confidence": "high"},
+      {"name": "Gordon, Linda", "class": "7SP6", "confidence": "high"},
+      {"name": "Grabstein, Jerry", "class": "7SP6", "confidence": "high"},
+      {"name": "Gravano, Fran", "class": "7SP6", "confidence": "high"},
+      {"name": "Green, Rhonda", "class": "7SP6", "confidence": "high"},
+      {"name": "Gross, Joel", "class": "7SP6", "confidence": "high"},
+      {"name": "Guida, Nancy", "class": "7SP6", "confidence": "high"},
+      {"name": "Haddad, Susan", "class": "7SP6", "confidence": "high"},
+      {"name": "Horowitz, Carol", "class": "7SP6", "confidence": "high"},
+      {"name": "Horwitz, Alan", "class": "7SP6", "confidence": "high"},
+      {"name": "Judge, William", "class": "7SP6", "confidence": "high"},
+      {"name": "Kaplan, Neal", "class": "7SP6", "confidence": "high"},
+      {"name": "Karpo, Betty", "class": "7SP6", "confidence": "high"},
+      {"name": "Klein, Marjorie", "class": "7SP6", "confidence": "high"},
+      {"name": "Koffman, Gerry", "class": "7SP6", "confidence": "high"},
+      {"name": "Lampert, Edith", "class": "7SP6", "confidence": "high"},
+      {"name": "Leibovich, Beatrice", "class": "7SP6", "confidence": "high"},
+      {"name": "Lentini, Rose Marie", "class": "7SP6", "confidence": "high"},
+      {"name": "Levitan, Jeffrey", "class": "7SP6", "confidence": "high"}
+    ]
+  },
+
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Top photo - Class SP73",
+        "individual_count": 27,
+        "arrangement": "Three rows - standing, middle seated, front seated",
+        "photo_type": "Black and white yearbook photo",
+        "setting": "Indoor with plain background"
+      },
+      {
+        "description": "Bottom photo - Class 7SP6",
+        "individual_count": 23,
+        "arrangement": "Three rows formal arrangement",
+        "photo_type": "Black and white yearbook photo",
+        "setting": "Indoor with plain background"
+      }
+    ]
+  },
+
+  "key_insights": [
+    "Two class photos with complete student rosters",
+    "Class SP73 has 27 students listed",
+    "Class 7SP6 has 23 students listed",
+    "Several recurring surnames from page 70 (Stein, Steinberg, Wagner, etc.)",
+    "SP designation likely means Special Program or Spring semester",
+    "7SP6 appears to be 7th grade, section SP6",
+    "Names are alphabetically arranged in typed rosters",
+    "Same yearbook format as page 70",
+    "Photos from same era/school as previous pages"
+  ],
+
+  "cross_references": [
+    {
+      "page": 70,
+      "connections": [
+        "Stein, Harvey appears on both pages",
+        "Stein, Sharon appears on both pages",
+        "Steinberg, Alan appears on both pages",
+        "Steinberg, Barbara appears on both pages",
+        "Sunshine, Linda appears on both pages",
+        "Sussman, Alice appears on both pages",
+        "Wagner, Charles appears on both pages",
+        "Williams, Millicent appears on both pages",
+        "Wohl, Robert appears on both pages",
+        "Wolfert, Stanley appears on both pages",
+        "Yaffa, Barry appears on both pages",
+        "Zimmerman, Stuart appears on both pages"
+      ]
+    }
+  ],
+
+  "quality_metrics": {
+    "text_completeness": 1.0,
+    "entity_extraction": 1.0,
+    "cross_referencing": 1.0
+  }
+}

@@ -1,0 +1,1094 @@
+{
+  "page_number": 11,
+  "alphabetical_section": "C",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "011_chatwal_vikram",
+      "name": {
+        "full_name": "Chatwal, Vikram",
+        "prefix": null,
+        "first_name": "Vikram",
+        "middle_name": null,
+        "last_name": "Chatwal",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "1 212 320 2900",
+          "formatting": "1 212 320 2900"
+        },
+        {
+          "type": "work",
+          "number": "1 212 474 9880",
+          "formatting": "1 212 474 9880"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "595 Eleventh Ave., bet. 44Th & 45th St"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10036",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Hampshire Hotels & Resorts"
+    },
+    {
+      "entry_id": "011_chatwal_vikram",
+      "name": {
+        "full_name": "Chatwal, Vikram",
+        "prefix": null,
+        "first_name": "Vikram",
+        "middle_name": null,
+        "last_name": "Chatwal",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "1 917 442 7425",
+          "formatting": "1 917 442 7425"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "1 Central Park West #32F"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10023",
+          "country": "US",
+          "notes": "Central Park adjacent"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Hampshire Hotels & Resorts"
+    },
+    {
+      "entry_id": "011_chenevix-trench_john_&_lucy",
+      "name": {
+        "full_name": "Chenevix-Trench, John",
+        "prefix": null,
+        "first_name": "John & Lucy",
+        "middle_name": null,
+        "last_name": "Chenevix-Trench",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Lucy"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-376-1193",
+          "formatting": "0207-376-1193 (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "0385-778862",
+          "formatting": "0385-778862"
+        },
+        {
+          "type": "unknown",
+          "number": "00 33 53 90 3937 (c)",
+          "formatting": "00 33 53 90 3937 (c) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "0208-376 1193 (f)",
+          "formatting": "0208-376 1193 (f) (UK London)"
+        },
+        {
+          "type": "work",
+          "number": "0207-425 7672",
+          "formatting": "0207-425 7672 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "4 Albert Place"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W8 5PD",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_cicogna_gianluca",
+      "name": {
+        "full_name": "Cicogna Gianluca",
+        "prefix": null,
+        "first_name": "Gianluca",
+        "middle_name": null,
+        "last_name": "Cicogna",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 646 521 8510",
+          "formatting": "001 646 521 8510 (International)"
+        },
+        {
+          "type": "home",
+          "number": "0207-225 0350",
+          "formatting": "0207-225 0350 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 388 0224",
+          "formatting": "001 212 388 0224 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 554 8110",
+          "formatting": "001 917 554 8110 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "ec@zanett.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "1020 5th Avenue, 14th floor"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10028",
+          "country": "US",
+          "notes": "Fifth Avenue luxury"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_cicogna_geoconda",
+      "name": {
+        "full_name": "Cicogna, Geoconda",
+        "prefix": null,
+        "first_name": "Geoconda",
+        "middle_name": null,
+        "last_name": "Cicogna",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 34 52 855247 (marb)",
+          "formatting": "00 34 52 855247 (marb) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 34 52 855010 (little house)",
+          "formatting": "00 34 52 855010 (little house) (International)"
+        },
+        {
+          "type": "home",
+          "number": "0207-589 1953/581 451",
+          "formatting": "0207-589 1953/581 451 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "15 Queens Gate Gdns"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_cicogna_gianfranco",
+      "name": {
+        "full_name": "Cicogna, Gianfranco",
+        "prefix": null,
+        "first_name": "Gianfranco",
+        "middle_name": null,
+        "last_name": "Cicogna",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 27 11 8041996 (f)",
+          "formatting": "00 27 11 8041996 (f) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "071 976 1224 (fax)",
+          "formatting": "071 976 1224 (fax)"
+        },
+        {
+          "type": "unknown",
+          "number": "0860 363891",
+          "formatting": "0860 363891"
+        },
+        {
+          "type": "unknown",
+          "number": "010 27 54 33 11191 (S. Africa home)",
+          "formatting": "010 27 54 33 11191 (S. Africa home)"
+        },
+        {
+          "type": "home",
+          "number": "0207-584 5656",
+          "formatting": "0207-584 5656 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-581 3880",
+          "formatting": "0207-581 3880 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "00 27 833 23 0000",
+          "formatting": "00 27 833 23 0000 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "gcicogna@ursustel.net",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "70a Fulham Road"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW3",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_cicogna_marina",
+      "name": {
+        "full_name": "Cicogna, Marina",
+        "prefix": null,
+        "first_name": "Marina",
+        "middle_name": null,
+        "last_name": "Cicogna",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 39 6 6788234 (Rome)",
+          "formatting": "00 39 6 6788234 (Rome) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 39 6 9026023 (Rome)",
+          "formatting": "00 39 6 9026023 (Rome) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 41 82 34584 (S t M)",
+          "formatting": "00 41 82 34584 (S t M) (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_cicognani_pietro_&_alejandra",
+      "name": {
+        "full_name": "Cicognani, Pietro",
+        "prefix": null,
+        "first_name": "Pietro & Alejandra",
+        "middle_name": null,
+        "last_name": "Cicognani",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Alejandra"
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 245 4860",
+          "formatting": "001 212 245 4860 (International)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 308 4811",
+          "formatting": "001 212 308 4811 (International)"
+        },
+        {
+          "type": "work",
+          "number": "001 212 249 7514",
+          "formatting": "001 212 249 7514 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212628 7661",
+          "formatting": "001 212628 7661 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 249 8812",
+          "formatting": "001 212 249 8812 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "125E 74th St"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_cierach_linska",
+      "name": {
+        "full_name": "Cierach, Linska",
+        "prefix": null,
+        "first_name": "Linska",
+        "middle_name": null,
+        "last_name": "Cierach",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207 373 3131",
+          "formatting": "0207 373 3131 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "468275050",
+          "formatting": "468275050"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "The Studio, 1c Clareville Grove"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW7 3AU",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_cipriani_guiseppi",
+      "name": {
+        "full_name": "Cipriani Guiseppi",
+        "prefix": null,
+        "first_name": "Guiseppi",
+        "middle_name": null,
+        "last_name": "Cipriani",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "212 499 0599",
+          "formatting": "212 499 0599"
+        },
+        {
+          "type": "portable",
+          "number": "917 353 3445",
+          "formatting": "917 353 3445 (NYC mobile)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_cisneros_gustavo_&_patty",
+      "name": {
+        "full_name": "Cisneros, Gustavo",
+        "prefix": null,
+        "first_name": "Gustavo & Patty",
+        "middle_name": null,
+        "last_name": "Cisneros",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Patty"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 717-5880",
+          "formatting": "001 212 717-5880 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "950 5th Avenue"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10021",
+          "country": "US",
+          "notes": "Fifth Avenue luxury"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_claverino_amadeo",
+      "name": {
+        "full_name": "Claverino, Amadeo",
+        "prefix": null,
+        "first_name": "Amadeo",
+        "middle_name": null,
+        "last_name": "Claverino",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "00 39 2 583 05 00 7",
+          "formatting": "00 39 2 583 05 00 7 (International)"
+        },
+        {
+          "type": "home",
+          "number": "00 39 2 600 3666",
+          "formatting": "00 39 2 600 3666 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_claverino_isabel",
+      "name": {
+        "full_name": "Claverino, Isabel",
+        "prefix": null,
+        "first_name": "Isabel",
+        "middle_name": null,
+        "last_name": "Claverino",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 3902 7231 8479",
+          "formatting": "00 3902 7231 8479 (International)"
+        },
+        {
+          "type": "work",
+          "number": "011 39 0272 3181",
+          "formatting": "011 39 0272 3181 (International)"
+        },
+        {
+          "type": "home",
+          "number": "00 39 335 820 0541",
+          "formatting": "00 39 335 820 0541 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_cleese_john_alice_fay",
+      "name": {
+        "full_name": "Cleese John Alice Fay (Sec Gary)",
+        "prefix": null,
+        "first_name": "John Alice Fay",
+        "middle_name": null,
+        "last_name": "Cleese",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Sec Gary"
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-221 2472",
+          "formatting": "0207-221 2472 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-229 6344",
+          "formatting": "0207-229 6344 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_clempson_graham_&_emma",
+      "name": {
+        "full_name": "Clempson, Graham",
+        "prefix": null,
+        "first_name": "Graham & Emma",
+        "middle_name": null,
+        "last_name": "Clempson",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Emma"
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-982 2085",
+          "formatting": "0207-982 2085 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-730 2851",
+          "formatting": "0207-730 2851 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "30 Sloane Court West"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW3",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_clive_lucy",
+      "name": {
+        "full_name": "Clive, Lucy",
+        "prefix": null,
+        "first_name": "Lucy",
+        "middle_name": null,
+        "last_name": "Clive",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001-908-234-2554 (New Jersey)",
+          "formatting": "001-908-234-2554 (New Jersey) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "0207-235-1186 (Uncle)",
+          "formatting": "0207-235-1186 (Uncle) (UK London)"
+        },
+        {
+          "type": "work",
+          "number": "0208-53-1345",
+          "formatting": "0208-53-1345 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-221-7677",
+          "formatting": "0207-221-7677 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "07957-544-262",
+          "formatting": "07957-544-262"
+        },
+        {
+          "type": "portable",
+          "number": "001 516 353 1926",
+          "formatting": "001 516 353 1926 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "lclive@boden.co.uk",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "45 Elgin Crescent"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W11 2JU",
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_coben_larry",
+      "name": {
+        "full_name": "Coben, Larry",
+        "prefix": null,
+        "first_name": "Larry",
+        "middle_name": null,
+        "last_name": "Coben",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 212 996 6266",
+          "formatting": "001 212 996 6266 (International)"
+        },
+        {
+          "type": "work",
+          "number": "212 582 3015",
+          "formatting": "212 582 3015"
+        }
+      ],
+      "emails": [
+        {
+          "address": "lcoben@hihz.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "101 W 12th Street Apt 35"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10011",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Sunrise Capital Partners"
+    },
+    {
+      "entry_id": "011_coben_larry",
+      "name": {
+        "full_name": "Coben, Larry",
+        "prefix": null,
+        "first_name": "Larry",
+        "middle_name": null,
+        "last_name": "Coben",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 582 3015",
+          "formatting": "001 212 582 3015 (International)"
+        },
+        {
+          "type": "work",
+          "number": "212 497 4259 (direct dial)",
+          "formatting": "212 497 4259 (direct dial)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 675 3385",
+          "formatting": "001 212 675 3385 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "685 Third Ave, 15th floor"
+          ],
+          "city": "New York",
+          "state": null,
+          "postal_code": "NY 10017-4024",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Sunrise Capital Partners"
+    },
+    {
+      "entry_id": "011_cochrane_ms_mandy",
+      "name": {
+        "full_name": "Cochrane, Ms Mandy",
+        "prefix": null,
+        "first_name": "Ms Mandy",
+        "middle_name": null,
+        "last_name": "Cochrane",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0494 672492",
+          "formatting": "0494 672492"
+        },
+        {
+          "type": "home",
+          "number": "0207-603 6807",
+          "formatting": "0207-603 6807 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "2 Poplar Grove"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W6 7RF",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "011_cohen_dalit",
+      "name": {
+        "full_name": "Cohen Dalit",
+        "prefix": null,
+        "first_name": "Dalit",
+        "middle_name": null,
+        "last_name": "Cohen",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207 573 0055 (wf)",
+          "formatting": "0207 573 0055 (wf) (UK London)"
+        },
+        {
+          "type": "work",
+          "number": "0207-995 8984",
+          "formatting": "0207-995 8984 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-349 0310",
+          "formatting": "0207-349 0310 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "7880736286",
+          "formatting": "7880736286"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "76 Elm Parm Mansions, Park Walk"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW10",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 20,
+    "entries_with_emails": 4,
+    "entries_with_addresses": 15,
+    "entries_with_handwritten_notes": 0,
+    "couples": 4,
+    "average_confidence": "high",
+    "notable_figures_count": 0
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Chatwal, Vikram",
+      "Chatwal, Vikram",
+      "Chenevix-Trench, John",
+      "Lucy",
+      "Cicogna Gianluca",
+      "Cicogna, Geoconda",
+      "Cicogna, Gianfranco",
+      "Cicogna, Marina",
+      "Cicognani, Pietro",
+      "Alejandra",
+      "Cierach, Linska",
+      "Cipriani Guiseppi",
+      "Cisneros, Gustavo",
+      "Patty",
+      "Claverino, Amadeo",
+      "Claverino, Isabel",
+      "Cleese John Alice Fay (Sec Gary)",
+      "Clempson, Graham",
+      "Emma",
+      "Clive, Lucy",
+      "Coben, Larry",
+      "Coben, Larry",
+      "Cochrane, Ms Mandy",
+      "Cohen Dalit"
+    ],
+    "organizations": [],
+    "locations": {
+      "international": [
+        "UK"
+      ],
+      "us_cities": [
+        "New York",
+        "London"
+      ],
+      "elite_addresses": [
+        "950 5th Avenue",
+        "1 Central Park West #32F",
+        "1020 5th Avenue, 14th floor"
+      ]
+    }
+  },
+  "insights": [
+    "Geographic cluster: New York (7 entries)",
+    "Geographic cluster: London (7 entries)"
+  ]
+}

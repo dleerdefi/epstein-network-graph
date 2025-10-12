@@ -1,0 +1,732 @@
+{
+  "page_number": 32,
+  "alphabetical_section": "L",
+  "contacts": [
+    {
+      "name": "Larsen Janet",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "96 Breitner Ave / Ancourt 10",
+          "street": "96 Breitner Ave",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 561 7073",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Laurie Jonathan",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "25 Chardown Ave",
+          "street": "25 Chardown Ave",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 263 1661",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0208 266 5893 (w)",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0208 380 4094 m",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Laviada, Laura D.B. de",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "32 St. Audley Street / 0207 491 XXXX",
+          "street": "32 St. Audley Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 491 XXXX",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "Email: Laviada@[illegible].com",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "00 1-52 998 881 44 XX",
+          "country_code": "52",
+          "geographic_indicator": "Mexico",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "00 1-52 [illegible]",
+          "country_code": "52",
+          "geographic_indicator": "Mexico",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "207 741 FAX",
+          "area_code": "207",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "00 207 [illegible] h",
+          "area_code": "207",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "00 44 0207 Gold cell",
+          "country_code": "44",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Lawford Christopher & [name]",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "41XXX [illegible] / 3105[0] Monument Street / 310-207 8[illegible]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "310-207 8[illegible]",
+          "area_code": "310",
+          "geographic_indicator": "West LA/Beverly Hills",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "212 459 7583 ext",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 990 0945 Off office",
+          "area_code": "310",
+          "geographic_indicator": "West LA/Beverly Hills",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 656 0994 Gabe mobile",
+          "area_code": "310",
+          "geographic_indicator": "West LA/Beverly Hills",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 990 0949 Malou office",
+          "area_code": "310",
+          "geographic_indicator": "West LA/Beverly Hills",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Christopher Lawford - Kennedy family member",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Cell 00 786 999[00]",
+      "phones": [
+        {
+          "type": "cell",
+          "number": "00 786 999[00]",
+          "area_code": "786",
+          "geographic_indicator": "Miami, Florida",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "asst. (s) David 973 8080[0](mobile)",
+          "area_code": "973",
+          "geographic_indicator": "Northern New Jersey",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Continuation of previous entry",
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "Lawton Paul",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "0207 271 1235 (w)",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207 271 1235 (w)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0383 277 1235 (w)",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Lawry, Christopher & Isabelle",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "[illegible]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 44 01XX 00020[0]",
+          "country_code": "44",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "00 337 540094 8809",
+          "country_code": "33",
+          "geographic_indicator": "France",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        "chris.e@[illegible]world.com"
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "00 33 [illegible]",
+          "country_code": "33",
+          "geographic_indicator": "France",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "00 44 2074 2038 (o)",
+          "country_code": "44",
+          "area_code": "207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Le Bon, Simon & Jasmine",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "223 Victoria Hill[s]near Road",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0208 876 0668 (h)",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Simon Le Bon - Duran Duran frontman",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Le Fur, Jean-Yves",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "106 Blvd de l'Hopitale / 75 75 75013",
+          "street": "106 Blvd de l'Hopitale",
+          "postal_code": "75013",
+          "city": "Paris",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 33 1706 XXX",
+          "country_code": "33",
+          "area_code": "1",
+          "geographic_indicator": "Paris, France",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 608 0894",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 201 4742 97XX",
+          "area_code": "201",
+          "geographic_indicator": "Northern New Jersey",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Le Texier, Willie",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "58 St. [illegible] / Dean Street",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "00 31 [illegible]",
+          "country_code": "31",
+          "geographic_indicator": "Netherlands",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 211 330700",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "low"
+      }
+    },
+    {
+      "name": "212 724 6666(h)",
+      "phones": [
+        {
+          "type": "home",
+          "number": "212 724 6666(h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Name not visible",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Name missing"]
+      }
+    },
+    {
+      "name": "Lea, Piers",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "93 Teganter St / London SW10",
+          "street": "93 Teganter St",
+          "city": "London",
+          "postal_code": "SW10",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 344[7] (h)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "020 767 776 (o)",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "medium"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Leeds, Jeffrey",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "001 614 1988 (o)",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "office",
+          "number": "001 614 1988 (o)",
+          "area_code": "614",
+          "geographic_indicator": "Columbus, Ohio",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 614 1688 8800[w]",
+          "area_code": "614",
+          "geographic_indicator": "Columbus, Ohio",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 614 221[9 h]",
+          "area_code": "614",
+          "geographic_indicator": "Columbus, Ohio",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "jeff.leeds@[illegible].com",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Columbus, Ohio location",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Liman, Doug",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 917 573 3133",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 310 859 4250",
+          "area_code": "310",
+          "geographic_indicator": "West LA/Beverly Hills",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        "dliman@hypneticfilms.com"
+      ],
+      "notes": "Doug Liman - Film director",
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Lefcourt, Jerry",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 737 0400",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Legac, Dominick",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "26 East Hills St / NY 10021",
+          "city": "New York",
+          "postal_code": "10021",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "NY 10021",
+          "postal_code": "10021",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 721 1592 (o)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 721 1588 (o)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "data_quality": {
+        "confidence": "high"
+      }
+    },
+    {
+      "name": "Lindeman-Barnet, Sloan & Roger",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "501 112 742 512[XX]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "501 112 742 512[XX]",
+          "area_code": "501",
+          "geographic_indicator": "Arkansas",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0 1 [illegible]",
+          "confidence": "low"
+        }
+      ],
+      "emails": [
+        "Email: Sloan@[illegible].com",
+        "rlinderman[illegible]@aol.com"
+      ],
+      "phones_additional": [
+        {
+          "type": "phone",
+          "number": "001 212 866 0144[0]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 646 299 2454 Roger m cell",
+          "area_code": "646",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 780 2623 (h)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 914 666 322[XX] The Arista",
+          "area_code": "914",
+          "geographic_indicator": "Westchester County, NY",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "917 841 855 2926 [swanix direct]",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Couple entry",
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "Levine, Philip",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Royal London / 468 East 64 Street",
+          "street": "468 East 64 Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 616 0[0]76",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "medium"
+        }
+      ],
+      "emails": [
+        "Email: plevine@[illegible].com"
+      ],
+      "data_quality": {
+        "confidence": "medium"
+      }
+    },
+    {
+      "name": "[Entry with HarrietXX(c) Vicki Shaw (w)]",
+      "phones": [
+        {
+          "type": "phone",
+          "number": "HarrietXX(c) North Vicki Shaw (w)",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "917 952 3947 Bill (c)",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 603 (h)",
+          "area_code": "603",
+          "geographic_indicator": "New Hampshire",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 603 7726 [illegible] cell",
+          "area_code": "603",
+          "geographic_indicator": "New Hampshire",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 [illegible]6 Vicki[illegible] home",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan, NYC",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 917 602[illegible] Hampshire",
+          "area_code": "917",
+          "geographic_indicator": "NYC mobile",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 203 1[888] Jerry [p]",
+          "area_code": "203",
+          "geographic_indicator": "Connecticut",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 203 1188 Jerry Home",
+          "area_code": "203",
+          "geographic_indicator": "Connecticut",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Multiple people referenced - Harriet, Vicki Shaw, Bill, Jerry",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Name unclear", "Multiple people mixed"]
+      }
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 19,
+    "quality": "poor",
+    "legibility": "heavily obscured",
+    "completeness": "complete page",
+    "notable_individuals": [
+      "Christopher Lawford - Kennedy family member",
+      "Simon Le Bon - Duran Duran frontman",
+      "Doug Liman - Film director (Bourne Identity, Mr. & Mrs. Smith)"
+    ]
+  },
+  "insights": [
+    "Christopher Lawford - Kennedy family connection",
+    "Simon Le Bon - Duran Duran lead singer",
+    "Doug Liman - major Hollywood director",
+    "Columbus, Ohio connection (614 area code) - unusual",
+    "Mexico connection in Laviada entry",
+    "Arkansas connection (501 area code) - rare",
+    "New Hampshire connection (603 area code)",
+    "Strong Beverly Hills/LA presence (310 area codes)",
+    "Paris, France addresses",
+    "Page quality very poor with heavy illegibility"
+  ],
+  "data_quality_summary": {
+    "overall_confidence": "medium",
+    "total_contacts": 19,
+    "high_confidence": 7,
+    "medium_confidence": 9,
+    "low_confidence": 3,
+    "extraction_issues": [
+      "One entry missing name (212 number)",
+      "Last entry has multiple people mixed together",
+      "Many phone numbers partially illegible",
+      "Poor page quality throughout"
+    ]
+  }
+}

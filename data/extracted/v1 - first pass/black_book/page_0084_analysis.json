@@ -1,0 +1,948 @@
+{
+  "page_number": 84,
+  "section": "Medical and Professional Services",
+  "entries": [
+    {
+      "name": "Stichcraft",
+      "category": "Service",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "071-602 7319",
+          "area_code": "071",
+          "geographic_indicator": "London (old code)",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Stichcraft service",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Tobias, Maxine",
+      "category": "Personal",
+      "location": "UK",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "6285 JG",
+          "reference": "6285 JG",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 351 7580",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "07767 258306 cell",
+          "area_code": "07767",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "[illegible]@aol.com",
+          "confidence": "low"
+        }
+      ],
+      "additional_info": [
+        "814 South 58290 (5)"
+      ],
+      "notes": "Maxine Tobias",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Email illegible"]
+      }
+    },
+    {
+      "name": "Unlisted London",
+      "category": "Service",
+      "location": "UK",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "General - Private Number",
+          "description": "General - Private Number",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0870 228 5007 (w)",
+          "area_code": "0870",
+          "geographic_indicator": "UK non-geographic",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Unlisted London - Private number service",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Yara",
+      "category": "Personal",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207-349 0842",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Yara",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "MEDICAL",
+      "category": "Section Header",
+      "entries": [],
+      "notes": "Medical section header",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Birnbaum, Dr",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "249 East 68th Street",
+          "street": "249 East 68th Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212-288 3000/H",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "N.Y, N.Y. Second floor",
+          "location": "N.Y, N.Y. Second floor",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "917 576 7808",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 288 4888/H",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212-288-[illegible]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Dr. Birnbaum - East 68th Street NYC medical",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One phone partially illegible"]
+      }
+    },
+    {
+      "name": "Burman, Dr.",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "121 Park Avenue",
+          "street": "121 Park Avenue",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "7th Avenue D.M.D.",
+          "street": "7th Avenue D.M.D.",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212-452-4410",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212-452-4411",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Dr. Burman - Park Avenue dental",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Chiropractor",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Between [something between]",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 717-2536",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "914 479 3149",
+          "area_code": "914",
+          "geographic_indicator": "Westchester",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Chiropractor services",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Address unclear"]
+      }
+    },
+    {
+      "name": "Chiropractor",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Between New",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "511 Open Row & 18th directly",
+          "street": "511 Open Row & 18th",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "NY 10002",
+          "postal_code": "10002",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "212 712 9105",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Chiropractor - Open Row & 18th",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Address partially unclear"]
+      }
+    },
+    {
+      "name": "Cope, Bruce",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Cell Phones",
+          "description": "Cell Phones",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "14 Robinson House",
+          "street": "14 Robinson House",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Roo West 1st St [illegible]",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "0207-589 8844[w]",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Bruce Cope - Robinson House",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone partially illegible"]
+      }
+    },
+    {
+      "name": "Dr. Bruno",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "558 Park Avenue",
+          "street": "558 Park Avenue",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "New York NY 10021",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 838 0788",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Dr. Bruno - Park Avenue NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Dr. Dean Galakos",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "310 Columbus Avenue",
+          "street": "310 Columbus Avenue",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "New York NY 10024",
+          "postal_code": "10024",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "917 742 9977",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Dr. Dean Galakos - Columbus Avenue NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Phone incomplete"]
+      }
+    },
+    {
+      "name": "Dr. Faricus",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "20 East 68th Street",
+          "street": "20 East 68th Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 838 3566",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Dr. Faricus - East 68th Street NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Dr. Rgy, Dr. Kashel",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561-478-1104",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Dr. Rgy, Dr. Kashel - Palm Beach",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Dr. Schimoni",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 231 8080 (o)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "516 333 3333",
+          "area_code": "516",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Dr. Schimoni",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Ear Conning",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "270 West 22nd Street",
+          "street": "270 West 22nd Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "607 212 5053",
+          "area_code": "607",
+          "geographic_indicator": "Upstate New York",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Ear Conning - West 22nd Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Gaynor, Dr J R",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "14 Cortland Road",
+          "street": "14 Cortland Road",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Eastport NY",
+          "location": "Eastport NY",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "11917 631",
+          "area_code": "631",
+          "geographic_indicator": "Long Island",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "325 2333 4444 (H)",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "631 325 1146",
+          "area_code": "631",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Dr. J R Gaynor - Cortland Road Eastport",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Some phone numbers unclear"]
+      }
+    },
+    {
+      "name": "Hirshfield, Dr.",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "516 489 3400",
+          "area_code": "516",
+          "geographic_indicator": "Long Island",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "914 328-2434 (h)",
+          "area_code": "914",
+          "geographic_indicator": "Westchester",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Dr. Hirshfield",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Ishmali",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "127 E West Court",
+          "street": "127 E West Court",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "112 Main Street & Townsmen",
+          "street": "112 Main Street",
+          "location": "& Townsmen",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "917 834 0207",
+          "area_code": "917",
+          "geographic_indicator": "New York mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Ishmali - West Court and Main Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Kent, Susan DVM",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Park Eastern Animal",
+          "company": "Park Eastern Animal",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "52 East 64th Street",
+          "street": "52 East 64th Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212-832-8417",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "FA 343-3041",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Dr. Susan Kent DVM - Park Eastern Animal, East 64th Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Fax number format unclear"]
+      }
+    },
+    {
+      "name": "Krumholz, Dr. Michael",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "311 East 60th Street",
+          "street": "311 East 60th Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 486 8651",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 714 0933",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Dr. Michael Krumholz - East 60th Street NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Las. Dr.",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 686 3546",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "914 450 3855 (h)",
+          "area_code": "914",
+          "geographic_indicator": "Westchester",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Dr. Las",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Lister Hospital",
+      "category": "Medical",
+      "location": "UK",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 730 7733",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 235 4312",
+          "area_code": "0207",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Lister Hospital - London",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Magmani, Dr.",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "750 Mariner Building Suites 3101",
+          "street": "750 Mariner Building Suites 3101",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "999 Park Avenue",
+          "street": "999 Park Avenue",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "212 639 8009 [h]",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "914 855 1700 [W]",
+          "area_code": "914",
+          "geographic_indicator": "Westchester",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "533 834 3737(W)",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Dr. Magmani - Mariner Building",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Some phone numbers unclear"]
+      }
+    },
+    {
+      "name": "Medical",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "231 67[W]54 Oxford ID north-",
+          "confidence": "low"
+        },
+        {
+          "type": "secondary",
+          "address": "132 75 West Prusswood ID north",
+          "street": "132 75 West Prusswood ID",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "notes": "Medical - Oxford ID north",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Address unclear"]
+      }
+    },
+    {
+      "name": "MedLink Emergency",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001(0)3) 239 3535",
+          "confidence": "low"
+        }
+      ],
+      "notes": "MedLink Emergency service",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Phone format unclear"]
+      }
+    },
+    {
+      "name": "Meltzer, J. Dr.",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "622 Park Avenue",
+          "street": "622 Park Avenue",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 288 3141",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 935 4789/fax",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Dr. J. Meltzer - Park Avenue NYC",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Moskowitz, Dr. Bruce",
+      "category": "Medical",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1431 North Flagler Drive",
+          "street": "1431 North Flagler Drive",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "Suite 100",
+          "floor": "Suite 100",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "561 835 7316[w]",
+          "area_code": "561",
+          "geographic_indicator": "Palm Beach",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Dr. Bruce Moskowitz - North Flagler Drive Palm Beach",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "212 717 1888 fax",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "fax",
+          "number": "212 717 1888 fax",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Fax number entry",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 28,
+    "illegible_entries": 0,
+    "partial_entries": 8,
+    "sections": ["Medical Services", "UK Services"],
+    "notable_entries": [
+      "Multiple medical doctors in NYC",
+      "Park Eastern Animal Hospital",
+      "Lister Hospital London",
+      "Various chiropractor services",
+      "Medical specialists on Park Avenue"
+    ],
+    "geographic_distribution": {
+      "usa": 24,
+      "uk": 4,
+      "nyc": 18,
+      "palm_beach": 2,
+      "long_island": 3
+    },
+    "location_highlights": [
+      "Multiple Park Avenue medical offices",
+      "East 60th-68th Street medical corridor",
+      "Columbus Avenue medical",
+      "Lister Hospital London",
+      "Palm Beach medical services"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 20,
+      "medium_confidence": 5,
+      "low_confidence": 3,
+      "specific_issues": [
+        "Several addresses unclear",
+        "Some phone numbers incomplete",
+        "Various medical entries partially illegible"
+      ]
+    }
+  }
+}

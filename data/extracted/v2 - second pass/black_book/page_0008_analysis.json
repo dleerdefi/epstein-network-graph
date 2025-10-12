@@ -1,0 +1,580 @@
+{
+  "page_number": 8,
+  "alphabetical_section": "B",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "008_broglie_louis",
+      "name": {
+        "full_name": "Broglie, Louis Albert de",
+        "title": "Prince",
+        "first_name": "Louis Albert",
+        "last_name": "de Broglie",
+        "notes": "14 Prince Pr\u00e9sident"
+      },
+      "phones": [
+        {
+          "number": "33 1 45 25 77 58",
+          "type": "unknown",
+          "country_code": "+33"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "5 rue de la Banque\nParis 75002"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "008_brown_chris",
+      "name": {
+        "full_name": "Brown, Chris & Aileen",
+        "first_name": "Chris",
+        "last_name": "Brown",
+        "spouse_name": "Aileen",
+        "is_couple": true
+      },
+      "phones": [
+        {
+          "number": "0207-717 2210",
+          "type": "home",
+          "country_code": "+44",
+          "area_code": "207"
+        },
+        {
+          "number": "0044 207 717 2210",
+          "type": "home"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "7 East 72nd Street\nNew York, NY 10021"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "008_bronfman_edgar",
+      "name": {
+        "full_name": "Bronfman, Jr., Edgar",
+        "first_name": "Edgar",
+        "last_name": "Bronfman",
+        "suffix": "Jr."
+      },
+      "phones": [
+        {
+          "number": "001 917 293 6300(h)",
+          "type": "home"
+        },
+        {
+          "number": "001 212 956 8900",
+          "type": "unknown"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "New York, NY 10022"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "008_bruce_james",
+      "name": {
+        "full_name": "Bruce, James &",
+        "first_name": "James",
+        "last_name": "Bruce",
+        "notes": "Entry appears incomplete"
+      },
+      "phones": [
+        {
+          "number": "0207 937 8616(h)",
+          "type": "home"
+        },
+        {
+          "number": "0207 388 8517(h)",
+          "type": "home"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "Lansdown House\n205 Half Moon"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "008_brooks_christopher",
+      "name": {
+        "full_name": "Brooks, Christopher & Amanda",
+        "first_name": "Christopher",
+        "last_name": "Brooks",
+        "spouse_name": "Amanda",
+        "is_couple": true
+      },
+      "phones": [
+        {
+          "number": "01628 777 5747(h)",
+          "type": "home",
+          "country_code": "+44"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "Apartment 55A\n101 West 57th St"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "008_brunel_jeanluc",
+      "name": {
+        "full_name": "Brunel, Jean-Luc",
+        "first_name": "Jean-Luc",
+        "last_name": "Brunel"
+      },
+      "phones": [
+        {
+          "number": "305 764 9450",
+          "type": "unknown",
+          "area_code": "305"
+        },
+        {
+          "number": "33525 1000(h)",
+          "type": "home"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "1000 South Beach\nMiami Beach 33139"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "008_brooks_miranda",
+      "name": {
+        "full_name": "Brooks, Miranda",
+        "first_name": "Miranda",
+        "last_name": "Brooks"
+      },
+      "phones": [
+        {
+          "number": "001 917 1514",
+          "type": "unknown"
+        },
+        {
+          "number": "0044 7879 6712",
+          "type": "mobile"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "22 King Street\nLondon SW1"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "008_brynn_david",
+      "name": {
+        "full_name": "Brynn, David",
+        "first_name": "David",
+        "last_name": "Brynn"
+      },
+      "phones": [
+        {
+          "number": "0207-381 4901",
+          "type": "unknown"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "St\nLondon SW3 3LE"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "008_buck_joan",
+      "name": {
+        "full_name": "Buck Joan Juliet",
+        "first_name": "Joan Juliet",
+        "last_name": "Buck"
+      },
+      "phones": [
+        {
+          "number": "001 505 983 8683",
+          "type": "unknown"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "008_buffet_jimmy",
+      "name": {
+        "full_name": "Buffet, Jimmy & Jane",
+        "first_name": "Jimmy",
+        "last_name": "Buffet",
+        "spouse_name": "Jane",
+        "is_couple": true
+      },
+      "phones": [
+        {
+          "number": "001 877 835 3500",
+          "type": "unknown"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "Palm Beach, Florida 33480"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "008_bull_bartle",
+      "name": {
+        "full_name": "Bull, Bartle",
+        "first_name": "Bartle",
+        "last_name": "Bull"
+      },
+      "phones": [
+        {
+          "number": "212 829 1850(h)",
+          "type": "home",
+          "area_code": "212"
+        },
+        {
+          "number": "212 829 1850(w)",
+          "type": "work"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "50 E 72nd Street\n4 Bull\nNew York, NY 10021"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "008_bullough_hamish",
+      "name": {
+        "full_name": "Bullough, Hamish and Emma",
+        "first_name": "Hamish",
+        "last_name": "Bullough",
+        "spouse_name": "Emma",
+        "is_couple": true
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "Abbotsford Road\nAblington VIII\nAshbourne"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "008_sullivan_ipb",
+      "name": {
+        "full_name": "Sullivan IPB HQ",
+        "last_name": "Sullivan",
+        "company": "IPB HQ"
+      },
+      "phones": [
+        {
+          "number": "01273 891100(h)",
+          "type": "home"
+        },
+        {
+          "number": "353 061 332100",
+          "type": "unknown"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "008_burchke",
+      "name": {
+        "full_name": "Burchke",
+        "last_name": "Burchke"
+      },
+      "phones": [
+        {
+          "number": "001 West Summit Blvd",
+          "type": "unknown",
+          "notes": "Number appears incomplete"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "700 West Summit Blvd"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "008_burney_jules",
+      "name": {
+        "full_name": "Burney, Mr Jules",
+        "title": "Mr",
+        "first_name": "Jules",
+        "last_name": "Burney"
+      },
+      "phones": [
+        {
+          "number": "64 Broughton Pl",
+          "type": "unknown",
+          "notes": "Appears to be part of address"
+        },
+        {
+          "number": "001-212 888 9090",
+          "type": "unknown"
+        },
+        {
+          "number": "0207-485 3020",
+          "type": "unknown"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "full_address": "64 Broughton Pl\nEdinburgh EH1\n3RX Scotland"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "008_burfitt_martin",
+      "name": {
+        "full_name": "Burfitt, Martin",
+        "first_name": "Martin",
+        "last_name": "Burfitt"
+      },
+      "phones": [
+        {
+          "number": "001 212 841 1155",
+          "type": "unknown"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "008_bushnell_candice",
+      "name": {
+        "full_name": "Bushnell, Candice",
+        "first_name": "Candice",
+        "last_name": "Bushnell"
+      },
+      "phones": [
+        {
+          "number": "001 212 831 3313",
+          "type": "unknown"
+        },
+        {
+          "number": "001 212 472 3842(w)",
+          "type": "work"
+        },
+        {
+          "number": "001 516 472 3700",
+          "type": "unknown"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "overall": "medium",
+        "completeness": "partial",
+        "legibility": ""
+      },
+      "formatting_notes": ""
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 17,
+    "legibility": "good",
+    "notable_features": [
+      "Multiple international contacts",
+      "French nobility (de Broglie)",
+      "Mix of US, UK and European numbers"
+    ],
+    "extraction_timestamp": "2025-09-29T12:45:17.354576",
+    "extractor_version": "2.0"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Louis Albert de Broglie",
+      "Chris Brown",
+      "Aileen Brown",
+      "Edgar Bronfman Jr.",
+      "James Bruce",
+      "Christopher Brooks",
+      "Amanda Brooks",
+      "Jean-Luc Brunel",
+      "Miranda Brooks",
+      "David Brynn",
+      "Joan Juliet Buck",
+      "Jimmy Buffet",
+      "Jane Buffet",
+      "Bartle Bull",
+      "Hamish Bullough",
+      "Emma Bullough",
+      "Sullivan",
+      "Jules Burney",
+      "Martin Burfitt",
+      "Candice Bushnell"
+    ],
+    "organizations": [
+      "IPB HQ"
+    ],
+    "locations": {
+      "cities": [
+        "Paris",
+        "New York",
+        "Miami Beach",
+        "London",
+        "Edinburgh",
+        "Palm Beach"
+      ],
+      "states": [
+        "NY",
+        "FL"
+      ],
+      "countries": [
+        "France",
+        "USA",
+        "UK",
+        "Scotland"
+      ]
+    }
+  },
+  "insights": [
+    "Page contains mix of French nobility (de Broglie), media figures (Candice Bushnell - Sex and the City author), and business figures",
+    "Jean-Luc Brunel appears with Miami Beach address - modeling agency connection",
+    "Multiple UK landline numbers with London 0207 prefix indicates strong UK network",
+    "Several couples listed together (Brown, Brooks, Buffet, Bullough) suggesting social connections",
+    "Edgar Bronfman Jr. - heir to Seagram fortune, major business figure",
+    "Jimmy Buffet - famous musician with Palm Beach residence",
+    "Mix of New York addresses (Upper East Side) and European contacts",
+    "IPB HQ notation for Sullivan suggests business/corporate relationship",
+    "Several entries have both home and work numbers indicating professional relationships",
+    "Edinburgh address for Jules Burney shows Scottish connections"
+  ]
+}

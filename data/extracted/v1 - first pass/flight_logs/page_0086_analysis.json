@@ -1,0 +1,299 @@
+{
+  "page_number": 86,
+  "date_header": "AUG-OCT 2001",
+  "time_period": "August 2001 - October 2001",
+  "aircraft": {
+    "registration": "Multiple (B-727-31 N908LS, G-1159B N908JE, C-172 N144LV)",
+    "type": "Various"
+  },
+  "flight_records": [
+    {
+      "entry_number": "AUG 16",
+      "date": "08/16/2001",
+      "departure": "B-727-31",
+      "arrival": "N908LS",
+      "flight_time": "7",
+      "remarks": "PBI - MDN - JG, GM, ET, AY, CLOSE ROBERTSON, PATRICK, TALIA",
+      "passengers": ["JG", "GM", "ET", "AY", "CLOSE ROBERTSON", "PATRICK", "TALIA"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "24",
+      "date": "08/24/2001",
+      "departure": "",
+      "arrival": "MDN",
+      "flight_time": "8",
+      "remarks": "PBI - JG, GT, ANTHONY WRIGLEY",
+      "passengers": ["JG", "GT", "ANTHONY WRIGLEY"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "27",
+      "date": "08/27/2001",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "9",
+      "remarks": "MDN - JG, GM",
+      "passengers": ["JG", "GM"],
+      "crew": "2/6"
+    },
+    {
+      "entry_number": "29",
+      "date": "08/29/2001",
+      "departure": "",
+      "arrival": "MDN",
+      "flight_time": "10",
+      "remarks": "TIST - JG, GM, GT, NY, BK",
+      "passengers": ["JG", "GM", "GT", "NY", "BK"],
+      "crew": "3/7"
+    },
+    {
+      "entry_number": "30",
+      "date": "08/30/2001",
+      "departure": "G-1159B",
+      "arrival": "N908JE",
+      "flight_time": "",
+      "remarks": "PBI - PBI - 3 NON REVENUE, LOADED, RON, DONALD, LUE, VINCENT",
+      "passengers": ["3 NON REVENUE", "LOADED", "RON", "DONALD", "LUE", "VINCENT"],
+      "crew": "3/3 6"
+    },
+    {
+      "entry_number": "SEP 1",
+      "date": "09/01/2001",
+      "departure": "B-727-31",
+      "arrival": "N908LS",
+      "flight_time": "11",
+      "remarks": "TIST - MDN - JG, GM, GT, SEYMORE, AH, ANDREA MITROVICH",
+      "passengers": ["JG", "GM", "GT", "SEYMORE", "AH", "ANDREA MITROVICH"],
+      "crew": "1/1 3/7"
+    },
+    {
+      "entry_number": "6",
+      "date": "09/06/2001",
+      "departure": "",
+      "arrival": "MDN",
+      "flight_time": "12",
+      "remarks": "PBI - JG, GM, GT, BR, BENNIE",
+      "passengers": ["JG", "GM", "GT", "BR", "BENNIE"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "9",
+      "date": "09/09/2001",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "13",
+      "remarks": "MDN - JG, GM, BR",
+      "passengers": ["JG", "GM", "BR"],
+      "crew": "2/7"
+    },
+    {
+      "entry_number": "13",
+      "date": "09/13/2001",
+      "departure": "",
+      "arrival": "MDN",
+      "flight_time": "14",
+      "remarks": "PBI - JG, GM, GT, RANDY CAREY, LEON",
+      "passengers": ["JG", "GM", "GT", "RANDY CAREY", "LEON"],
+      "crew": "2/6"
+    },
+    {
+      "entry_number": "JUN 9",
+      "date": "06/09/2001",
+      "departure": "C-172",
+      "arrival": "N144LV",
+      "flight_time": "",
+      "remarks": "MRN - LNN - AL PERGOLA - TAXI, TAKEOFF, TURNS, CLIMBS, DESCENT, DEBORAH C",
+      "passengers": ["AL PERGOLA", "DEBORAH C"],
+      "crew": "7/4 9"
+    },
+    {
+      "entry_number": "19",
+      "date": "09/19/2001",
+      "departure": "B-727-31",
+      "arrival": "N908LS",
+      "flight_time": "15",
+      "remarks": "PBI - MDN - JG, GM, GT",
+      "passengers": ["JG", "GM", "GT"],
+      "crew": "1/1 2/7"
+    },
+    {
+      "entry_number": "21",
+      "date": "09/21/2001",
+      "departure": "",
+      "arrival": "MDN",
+      "flight_time": "16",
+      "remarks": "CYQX - JG, GM, GT",
+      "passengers": ["JG", "GM", "GT"],
+      "crew": "2/2"
+    },
+    {
+      "entry_number": "22",
+      "date": "09/22/2001",
+      "departure": "",
+      "arrival": "CYQX",
+      "flight_time": "17",
+      "remarks": "LFPB - JG, GM, GT",
+      "passengers": ["JG", "GM", "GT"],
+      "crew": "4/8"
+    },
+    {
+      "entry_number": "23",
+      "date": "09/23/2001",
+      "departure": "",
+      "arrival": "LFPB",
+      "flight_time": "18",
+      "remarks": "CYQX - JG, GT, ED TUTTLE",
+      "passengers": ["JG", "GT", "ED TUTTLE"],
+      "crew": "3/5"
+    },
+    {
+      "entry_number": "23",
+      "date": "09/23/2001",
+      "departure": "",
+      "arrival": "CYQX",
+      "flight_time": "19",
+      "remarks": "MDN - JG, GT, ED TUTTLE",
+      "passengers": ["JG", "GT", "ED TUTTLE"],
+      "crew": "3/0"
+    },
+    {
+      "entry_number": "23",
+      "date": "09/23/2001",
+      "departure": "",
+      "arrival": "MDN",
+      "flight_time": "20",
+      "remarks": "TEB - JG, GT, BALDO SEROGOLF",
+      "passengers": ["JG", "GT", "BALDO SEROGOLF"],
+      "crew": "2/7"
+    },
+    {
+      "entry_number": "25",
+      "date": "09/25/2001",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "21",
+      "remarks": "MRA - JG, GM, SARAH M. KELLEN",
+      "passengers": ["JG", "GM", "SARAH M. KELLEN"],
+      "crew": "4/0"
+    },
+    {
+      "entry_number": "OCT 5",
+      "date": "10/05/2001",
+      "departure": "",
+      "arrival": "MRA",
+      "flight_time": "22",
+      "remarks": "MDN - JG, GM, SK, Z, REDACTED",
+      "passengers": ["JG", "GM", "SK", "Z", "REDACTED"],
+      "crew": "3/5"
+    },
+    {
+      "entry_number": "8",
+      "date": "10/08/2001",
+      "departure": "",
+      "arrival": "MDN",
+      "flight_time": "23",
+      "remarks": "JAX - AND PASSENGERS",
+      "passengers": ["AND PASSENGERS"],
+      "crew": "2/2"
+    },
+    {
+      "entry_number": "8",
+      "date": "10/08/2001",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "",
+      "passengers": [],
+      "crew": ""
+    }
+  ],
+  "entities": {
+    "people": [
+      "JG",
+      "GM",
+      "ET",
+      "GT",
+      "AY",
+      "NY",
+      "BK",
+      "AH",
+      "BR",
+      "SK",
+      "Z",
+      "CLOSE ROBERTSON",
+      "PATRICK",
+      "TALIA",
+      "ANTHONY WRIGLEY",
+      "3 NON REVENUE",
+      "LOADED",
+      "RON",
+      "DONALD",
+      "LUE",
+      "VINCENT",
+      "SEYMORE",
+      "ANDREA MITROVICH",
+      "BENNIE",
+      "RANDY CAREY",
+      "LEON",
+      "AL PERGOLA",
+      "DEBORAH C",
+      "ED TUTTLE",
+      "BALDO SEROGOLF",
+      "SARAH M. KELLEN",
+      "REDACTED",
+      "AND PASSENGERS",
+      "David Rodgers"
+    ],
+    "locations": [
+      "PBI",
+      "MDN",
+      "TIST",
+      "MRN",
+      "LNN",
+      "CYQX",
+      "LFPB",
+      "TEB",
+      "MRA",
+      "JAX"
+    ],
+    "aircraft": [
+      "B-727-31",
+      "N908LS",
+      "G-1159B",
+      "N908JE",
+      "C-172",
+      "N144LV"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "5/12",
+    "amount_forward": "8327",
+    "total_to_date": "8393",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page transitions from August through September to October 2001",
+    "Unusual June 9 entry appears out of sequence - likely training flight notation",
+    "Al Pergola noted with training maneuvers (taxi, takeoff, turns, climbs, descent)",
+    "Sarah M. Kellen explicitly named on September 25",
+    "REDACTED appears in October 5 passenger list",
+    "International operations to Paris (LFPB) and Gander (CYQX)",
+    "Multiple B-727 aircraft operations",
+    "Ed Tuttle appears as passenger in September",
+    "Flight log continues into October 2001",
+    "Mix of domestic and international operations"
+  ]
+}

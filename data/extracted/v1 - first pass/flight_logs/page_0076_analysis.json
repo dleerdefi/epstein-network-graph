@@ -1,0 +1,274 @@
+{
+  "page_number": 76,
+  "date_header": "AUG-SEPT 2000",
+  "time_period": "August 2000 - September 2000",
+  "aircraft": {
+    "registration": "G-1159B N908JE",
+    "type": "G-1159B"
+  },
+  "flight_records": [
+    {
+      "entry_number": "24",
+      "date": "08/24/2000",
+      "departure": "G-1159B",
+      "arrival": "N908JE",
+      "flight_time": "1379",
+      "remarks": "SAC - VNY - JG, S KELLEY STANFORD",
+      "passengers": ["JG", "S KELLEY STANFORD"],
+      "crew": "1/7"
+    },
+    {
+      "entry_number": "26",
+      "date": "08/26/2000",
+      "departure": "",
+      "arrival": "VNY",
+      "flight_time": "1380",
+      "remarks": "TEB - JG, GM, AY",
+      "passengers": ["JG", "GM", "AY"],
+      "crew": "4/8"
+    },
+    {
+      "entry_number": "31",
+      "date": "08/31/2000",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1381",
+      "remarks": "PBI - JG",
+      "passengers": ["JG"],
+      "crew": "2/2"
+    },
+    {
+      "entry_number": "SEP 4",
+      "date": "09/04/2000",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1382",
+      "remarks": "TEB",
+      "passengers": [],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "9",
+      "date": "09/09/2000",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1383",
+      "remarks": "PBI - JG, GM, GT, AY",
+      "passengers": ["JG", "GM", "GT", "AY"],
+      "crew": "2/3"
+    },
+    {
+      "entry_number": "10",
+      "date": "09/10/2000",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1384",
+      "remarks": "TIST - JG, GM, AY, CLAIRE, JEFFREY, ROMS",
+      "passengers": ["JG", "GM", "AY", "CLAIRE", "JEFFREY", "ROMS"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "12",
+      "date": "09/12/2000",
+      "departure": "",
+      "arrival": "TIST",
+      "flight_time": "1385",
+      "remarks": "TEB - JG, GM, ET, AY, CHRIS KROMS",
+      "passengers": ["JG", "GM", "ET", "AY", "CHRIS KROMS"],
+      "crew": "3/8"
+    },
+    {
+      "entry_number": "21",
+      "date": "09/21/2000",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1386",
+      "remarks": "SAF - JG, GM, AY, JOSEPHINE, MAC, TREVOR",
+      "passengers": ["JG", "GM", "AY", "JOSEPHINE", "MAC", "TREVOR"],
+      "crew": "4/2"
+    },
+    {
+      "entry_number": "25",
+      "date": "09/25/2000",
+      "departure": "",
+      "arrival": "SAF",
+      "flight_time": "1387",
+      "remarks": "VNY - JG, J KELLEY SPAMM",
+      "passengers": ["JG", "J KELLEY SPAMM"],
+      "crew": "1/8"
+    },
+    {
+      "entry_number": "26",
+      "date": "09/26/2000",
+      "departure": "",
+      "arrival": "VNY",
+      "flight_time": "1389",
+      "remarks": "TEB - JG, TIFFANY GRAMZA",
+      "passengers": ["JG", "TIFFANY GRAMZA"],
+      "crew": "4/8"
+    },
+    {
+      "entry_number": "29",
+      "date": "09/29/2000",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1391",
+      "remarks": "TIST - JG, KEKE MARIO, TREVOR",
+      "passengers": ["JG", "KEKE MARIO", "TREVOR"],
+      "crew": "3/6"
+    },
+    {
+      "entry_number": "30",
+      "date": "09/30/2000",
+      "departure": "",
+      "arrival": "TIST",
+      "flight_time": "1390",
+      "remarks": "PBI - JG, KEKE MARIO, TREVOR",
+      "passengers": ["JG", "KEKE MARIO", "TREVOR"],
+      "crew": "2/6"
+    },
+    {
+      "entry_number": "OCT 5",
+      "date": "10/05/2000",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1391",
+      "remarks": "TEB - JG, GM, GT, PROACTIVE",
+      "passengers": ["JG", "GM", "GT", "PROACTIVE"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "6",
+      "date": "10/06/2000",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1392",
+      "remarks": "PBI - JG, S KELLEY, LEWIS",
+      "passengers": ["JG", "S KELLEY", "LEWIS"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "10",
+      "date": "10/10/2000",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1393",
+      "remarks": "TEB - JG, GM, GT",
+      "passengers": ["JG", "GM", "GT"],
+      "crew": "2/5"
+    },
+    {
+      "entry_number": "13",
+      "date": "10/13/2000",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1394",
+      "remarks": "LGA - REDSTONE FOR MRD",
+      "passengers": ["REDSTONE", "MRD"],
+      "crew": "5"
+    },
+    {
+      "entry_number": "13",
+      "date": "10/13/2000",
+      "departure": "",
+      "arrival": "LGA",
+      "flight_time": "",
+      "remarks": "LCRA - VAN HOLD HIT",
+      "passengers": ["VAN HOLD HIT"],
+      "crew": "7/1"
+    },
+    {
+      "entry_number": "15",
+      "date": "10/15/2000",
+      "departure": "",
+      "arrival": "SAF",
+      "flight_time": "1396",
+      "remarks": "EGGB - JG, S KELLEY, LEWIS",
+      "passengers": ["JG", "S KELLEY", "LEWIS"],
+      "crew": "1/3"
+    },
+    {
+      "entry_number": "17",
+      "date": "10/17/2000",
+      "departure": "",
+      "arrival": "EGGB",
+      "flight_time": "1397",
+      "remarks": "BGF - JG, S KELLEY, LEWIS",
+      "passengers": ["JG", "S KELLEY", "LEWIS"],
+      "crew": "6/4"
+    }
+  ],
+  "entities": {
+    "people": [
+      "JG",
+      "GM",
+      "GT",
+      "ET",
+      "AY",
+      "S KELLEY STANFORD",
+      "S KELLEY",
+      "CLAIRE",
+      "JEFFREY",
+      "ROMS",
+      "CHRIS KROMS",
+      "JOSEPHINE",
+      "MAC",
+      "TREVOR",
+      "J KELLEY SPAMM",
+      "TIFFANY GRAMZA",
+      "KEKE MARIO",
+      "PROACTIVE",
+      "LEWIS",
+      "REDSTONE",
+      "MRD",
+      "VAN HOLD HIT",
+      "David Rodgers"
+    ],
+    "locations": [
+      "SAC",
+      "VNY",
+      "TEB",
+      "PBI",
+      "TIST",
+      "SAF",
+      "LGA",
+      "LCRA",
+      "EGGB",
+      "BGF"
+    ],
+    "aircraft": [
+      "G-1159B",
+      "N908JE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "5/9/7",
+    "amount_forward": "18055",
+    "total_to_date": "19356",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page transitions from August through September to October 2000",
+    "S Kelley appears with variations (S KELLEY STANFORD, J KELLEY SPAMM)",
+    "Tiffany Gramza appears as passenger",
+    "Trevor appears multiple times as passenger",
+    "KEKE MARIO appears as passenger",
+    "International operations continue (EGGB - Birmingham UK, BGF)",
+    "REDSTONE appears for MRD flight",
+    "Flight numbers reach 1397",
+    "Mix of domestic and international operations",
+    "Caribbean operations continue to TIST"
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "page_number": 115,
+  "file_path": "data/birthday_book_images/page_0115.png",
+  "file_size_mb": 2.328097343444824,
+  "type": "birthday_cake_photo_story",
+  "content": {
+    "text": "Finally, at the home of our friend, let's call him Mr. Brown, Jeffrey unveiled his plan. To some it may have seemed a gas-pipe-guard scheme, but we took it very seriously, because Jeff was a dreamer off to fame. The first option, believe it or not, was very simple. He attacked and brutally dissected I would do light magic tricks from the handbook as Venice Beach. Broad daylight. The internally famous magician plays guitar.\n\nPostscript: I retired from 'the life', but I recently read an article in New York which set me to believe that my old friend Mr. B had continued to need become an industry leader!",
+    "handwritten": false,
+    "typed": true,
+    "mixed": false,
+    "description": "Photo of two people with birthday cake and typed story",
+    "text_sections": {
+      "full_transcription": "Finally, at the home of our friend, let's call him Mr. Brown, Jeffrey unveiled his plan. To some it may have seemed a gas-pipe-guard scheme, but we took it very seriously, because Jeff was a dreamer off to fame. The first option, believe it or not, was very simple. He attacked and brutally dissected I would do light magic tricks from the handbook as Venice Beach. Broad daylight. The internally famous magician plays guitar.\n\nPostscript: I retired from 'the life', but I recently read an article in New York which set me to believe that my old friend Mr. B had continued to need become an industry leader!",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          115
+        ]
+      },
+      {
+        "name": "Mr. Brown",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          115
+        ]
+      },
+      {
+        "name": "Bread Roberts",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          115
+        ]
+      },
+      {
+        "name": "Mr. B",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          115
+        ]
+      },
+      {
+        "name": "Two individuals in photo",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          115
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      "Venice Beach",
+      "New York"
+    ],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Friend (identity unclear)",
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Birthday celebration memory with career anecdote",
+    "theme": "friendship_memories_career",
+    "significance": "medium",
+    "document_type": "birthday_cake_photo_story"
+  },
+  "insights": [
+    "Story describes early career plans/schemes with Epstein",
+    "Reference to 'Venice Beach' magic tricks suggests California connection",
+    "'Mr. B' likely refers to Epstein becoming 'industry leader'",
+    "Writer mentions retiring from 'the life' - ambiguous reference",
+    "Story has nostalgic tone about shared past ambitions",
+    "Reference to New York article about Epstein's success",
+    "Birthday cake photo shows celebration context",
+    "Face redactions maintain privacy of individuals",
+    "Story suggests long friendship dating back to early career days"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000115",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.176977",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Two people with birthday cake, faces obscured",
+        "theme": "birthday_celebration",
+        "setting": "indoor_gathering",
+        "elements": [
+          "birthday cake",
+          "two people posing"
+        ],
+        "redactions": [
+          "faces obscured with black ovals"
+        ],
+        "individual_count": 2,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": [
+      "Two faces obscured with black ovals"
+    ],
+    "handwritten_notes": []
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Photo of two people with birthday cake",
+    "Both faces obscured with black oval redactions",
+    "One person in black sleeveless shirt",
+    "One person in blue satin/metallic jacket",
+    "Birthday cake visible on table",
+    "Typed story below photo about early career plans",
+    "Story mentions Venice Beach magic tricks scheme",
+    "References 'Mr. Brown' as friend's pseudonym",
+    "'Mr. B' appears to reference Jeffrey Epstein",
+    "Writer claims to have 'retired from the life'",
+    "References New York article about Epstein's success",
+    "Document stamped HOUSE_OVERSIGHT_000115",
+    "First page of Friends section after divider"
+  ],
+  "investigative_leads": []
+}

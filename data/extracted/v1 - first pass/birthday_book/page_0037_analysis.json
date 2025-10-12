@@ -1,0 +1,167 @@
+{
+  "page_number": 37,
+  "file_path": "data/birthday_book_images/page_0037.png",
+  "file_size_mb": 0.2645883560180664,
+  "type": "newspaper_clipping",
+  "content": {
+    "text": "QUINQUAGENARY EDITION / 2 CENTS / ABSOLUTELY NO CIRCULATION / NO GUARANTEES\n\nTHE SEA GATE CHRONICLE\n\nAccordion Torture\nBy Robert Wolfe\nSea Gate Gazette\n\nA Sea Gate boy was forced by his mother to play 'Flight of the Bumble bee' and 'Saber Dance' on his squeeze box, 100 times a day for 5 years. By the time the lad became proficient, he was able to play the tunes 100 times in 10 minutes. Firemen from the 318 Hook and Ladder Division were always called in for his daily recital, in order to douse the flames if the boy's fingers caught fire from his dervish-like playing.\n\nMonths later, the musical lad's mom, again forced the boy against his will, to perform the two pieces at Carnegie Hall in front of thousands attending. She threatened to withhold his treasured Nathan's lobster salad, if he refused to perform perfectly. He performed once again, and was treated to a one-pound container of his favorite delicacy.\n\nSeafood Diet??\nBy Bubbles Axelrod\nConey Island Gourmet\n\nConey Island Health officials reported today, that a boy survived the first 13 years of his life eating only Nathan's Lobster Salad and drinking Sunny Boy Orange drinks. His mother (cont'd pg. 2, column 1)",
+    "handwritten": false,
+    "typed": true,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "Complete text as above with all articles fully transcribed",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Robert Wolfe",
+        "title": "Writer",
+        "relationship": null,
+        "context": "Author of 'Accordion Torture' article",
+        "confidence": "high",
+        "page_appearances": [
+          37
+        ]
+      },
+      {
+        "name": "Bubbles Axelrod",
+        "title": "Writer",
+        "relationship": null,
+        "context": "Author of 'Seafood Diet??' article, Coney Island Gourmet",
+        "confidence": "high",
+        "page_appearances": [
+          37
+        ]
+      }
+    ],
+    "organizations": [
+      {
+        "name": "The Sea Gate Chronicle",
+        "type": "Mock newspaper",
+        "context": "Created for birthday"
+      },
+      {
+        "name": "Sea Gate Gazette",
+        "type": "Publication byline",
+        "context": "Accordion Torture article"
+      },
+      {
+        "name": "Coney Island Gourmet",
+        "type": "Publication byline",
+        "context": "Seafood Diet article"
+      },
+      {
+        "name": "Nathan's",
+        "type": "Restaurant",
+        "context": "Famous Coney Island establishment"
+      },
+      {
+        "name": "Carnegie Hall",
+        "type": "Performance venue",
+        "context": "Manhattan concert hall"
+      },
+      {
+        "name": "318 Hook and Ladder Division",
+        "type": "Fire Department",
+        "context": "Brooklyn fire unit"
+      }
+    ],
+    "locations": [
+      "Sea Gate",
+      "Coney Island",
+      "318 Hook and Ladder Division",
+      "Carnegie Hall"
+    ],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "50th birthday commemoration - satirical newspaper",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "newspaper_clipping"
+  },
+  "insights": [
+    "Mock newspaper created specifically for 50th birthday (Quinquagenary Edition)",
+    "Sea Gate is Brooklyn neighborhood - childhood location reference",
+    "Accordion practice story references Flight of the Bumble Bee and Saber Dance",
+    "Nathan's lobster salad mentioned as favorite/treasured food",
+    "Sunny Boy Orange drinks referenced as childhood beverage",
+    "Carnegie Hall performance mentioned - suggests musical achievement",
+    "Mother forcing music practice is central theme in article",
+    "318 Hook and Ladder Division adds authentic Brooklyn detail",
+    "100 times a day for 5 years - humorous exaggeration of practice",
+    "Fire department called for daily recital - satirical element",
+    "Articles written in journalistic style but with humorous content",
+    "Continued on page 2 suggests additional content exists",
+    "2 cents price and NO GUARANTEES adds to satirical tone",
+    "ABSOLUTELY NO CIRCULATION - inside joke about private nature",
+    "Both articles focus on same boy - clearly the birthday recipient"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000037",
+  "processed_at": "2025-09-23 03:00:00",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.136204",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": [],
+    "layout": "Newspaper front page format with masthead and two column articles"
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Professional newspaper layout with masthead and columns",
+    "Typeset text mimicking real newspaper format",
+    "Mock newspaper created for 50th birthday celebration",
+    "High quality printing/reproduction",
+    "Document stamped HOUSE_OVERSIGHT_000037"
+  ],
+  "investigative_leads": [
+    "Sea Gate Brooklyn childhood connection",
+    "Musical training/accordion history",
+    "Nathan's lobster salad as significant food preference",
+    "Relationship with mother regarding music education",
+    "Verify any actual Carnegie Hall performance",
+    "Identity of Robert Wolfe and Bubbles Axelrod"
+  ]
+}

@@ -1,0 +1,870 @@
+{
+  "page_number": 38,
+  "alphabetical_section": "M",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "038_mermagon_jonathan",
+      "name": {
+        "full_name": "Mermagon, Mr Jonathan",
+        "prefix": "Mr",
+        "first_name": "Jonathan",
+        "middle_name": null,
+        "last_name": "Mermagon",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "19 Weatherby Gardens",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "home",
+          "number": "0207 602 3098 (h)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "0207 761 1934 (w)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "mobile",
+          "number": "0207 761 1819 (w)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "19 Weatherby Gardens",
+            "London"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "Kensington area"
+        }
+      ],
+      "handwritten_notes": [
+        "001 917 763 3098 (B-alo p)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK contact - Kensington"
+    },
+    {
+      "entry_id": "038_metcalf_justin",
+      "name": {
+        "full_name": "Metcalf, Justin",
+        "prefix": null,
+        "first_name": "Justin",
+        "middle_name": null,
+        "last_name": "Metcalf",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 297 5888 (w)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "mobile",
+          "number": "07802 208 761",
+          "formatting": "UK mobile"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK contact"
+    },
+    {
+      "entry_id": "038_metcalf_melanie_julian",
+      "name": {
+        "full_name": "Metcalf, Melanie & Julian",
+        "prefix": null,
+        "first_name": "Melanie",
+        "middle_name": null,
+        "last_name": "Metcalf",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Julian"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "Glentower Park",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "home",
+          "number": "001 212 888 0977 (h)",
+          "formatting": "International to US - NYC"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "High Lodge",
+            "Blenheim Park Woodstock",
+            "Oxon OX20 1QA"
+          ],
+          "city": "Oxfordshire",
+          "state": "",
+          "postal_code": null,
+          "country": "England",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "038_metcalfe_julian_melanie",
+      "name": {
+        "full_name": "Metcalfe, Julian & Melanie",
+        "prefix": null,
+        "first_name": "Julian",
+        "middle_name": null,
+        "last_name": "Metcalfe",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Melanie"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "Alexander House",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "home",
+          "number": "0207 580 8088",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Alexander House",
+            "London"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": "London residence"
+        }
+      ],
+      "handwritten_notes": [
+        "07802 208 767",
+        "0208 980 4223 Pret",
+        "0208 980 4226(h)",
+        "001 403 (243) 8803 Pret (w)",
+        "01 603 880 285",
+        "01983 800 285(h)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Julian Metcalfe - Pret A Manger founder"
+    },
+    {
+      "entry_id": "038_metz_robin",
+      "name": {
+        "full_name": "Metz, Robin",
+        "prefix": null,
+        "first_name": "Robin",
+        "middle_name": null,
+        "last_name": "Metz",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 917 553 0911",
+          "formatting": "International to US - NYC mobile"
+        },
+        {
+          "type": "work",
+          "number": "001 818 986 8241",
+          "formatting": "International to US - LA area"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "'Nomi's' US contact with NYC and LA numbers"
+    },
+    {
+      "entry_id": "038_meyer_tony",
+      "name": {
+        "full_name": "Meyer, Tony",
+        "prefix": null,
+        "first_name": "Tony",
+        "middle_name": null,
+        "last_name": "Meyer",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "844 E 20th Street #4W",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "home",
+          "number": "001 212 505 9050 (h)",
+          "formatting": "International to US - NYC"
+        },
+        {
+          "type": "work",
+          "number": "001 212 111 8070 (w)",
+          "formatting": "International to US - NYC"
+        },
+        {
+          "type": "mobile",
+          "number": "001 917 316 0770 (p)",
+          "formatting": "International to US - NYC mobile"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "844 E 20th Street #4W",
+            "New York"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "Gramercy Park area"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC Gramercy Park area"
+    },
+    {
+      "entry_id": "038_micklethwait_fev_john",
+      "name": {
+        "full_name": "Micklethwait, Fev & John",
+        "prefix": null,
+        "first_name": "Fev",
+        "middle_name": null,
+        "last_name": "Micklethwait",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "John"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 514 6784 (w/m)",
+          "formatting": "International to US - NYC"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "work",
+          "address_lines": [ "johnmicklethwait@economist.com"
+          ],
+          "city": "London",
+          "postal_code": "W14",
+          "country": "UK",
+          "notes": "West Kensington area"
+        }
+      ],
+      "handwritten_notes": [
+        "0207 244 6056 (h)",
+        "0802 483 1668 (m)",
+        "001 212 649 3341"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "John Micklethwait - journalist/editor, likely The Economist"
+    },
+    {
+      "entry_id": "038_milani_gianluca",
+      "name": {
+        "full_name": "Milani, Gianluca",
+        "prefix": null,
+        "first_name": "Gianluca",
+        "middle_name": null,
+        "last_name": "Milani",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "59 Leinster St",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "home",
+          "number": "001 212 787 7800 (h)",
+          "formatting": "International to US - NYC"
+        },
+        {
+          "type": "work",
+          "number": "001 212 935 1717 (w)",
+          "formatting": "International to US - NYC"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "59 Leinster Street",
+            "New York"
+          ],
+          "city": "New York",
+          "state": "NY",
+          "postal_code": null,
+          "country": "USA",
+          "notes": "NYC address"
+        }
+      ],
+      "handwritten_notes": [
+        "00 44 27 06900 6100 (Lon)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC with London numbers"
+    },
+    {
+      "entry_id": "038_metcalfe_justin_joanne",
+      "name": {
+        "full_name": "Metcalfe, Justin & Joanne",
+        "prefix": null,
+        "first_name": "Justin",
+        "middle_name": null,
+        "last_name": "Metcalfe",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Joanne"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "Park Street",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "home",
+          "number": "0207 761 3966(w)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "204 Sunset Rd",
+            "Palm Beach"
+          ],
+          "city": "Palm Beach",
+          "state": "FLA",
+          "postal_code": null,
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [
+        "0207 761 3666(w)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "038_milford_haven_george_clare",
+      "name": {
+        "full_name": "Milford Haven, George and Clare",
+        "prefix": null,
+        "first_name": "George",
+        "middle_name": null,
+        "last_name": "Milford Haven",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Clare"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "Moyns Park",
+          "formatting": "Property name"
+        },
+        {
+          "type": "home",
+          "number": "01376 584 2086 (Halstd)",
+          "formatting": "UK format"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Great Trippels Farm",
+            "Milland, Nr. Liphook, Hampshire"
+          ],
+          "city": "Halstead",
+          "county": "Essex",
+          "postal_code": "C09 4BN",
+          "country": "UK",
+          "notes": "Essex estate - Moyns Park"
+        }
+      ],
+      "handwritten_notes": [
+        "01439 774 8181 (h)",
+        "01439 741 3031 Moyns Park",
+        "001 917 208 1885 Cardiphone",
+        "01 584 5031 Estate office"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Marquess of Milford Haven - British nobility"
+    },
+    {
+      "entry_id": "038_milford_haven_sarah",
+      "name": {
+        "full_name": "Milford Haven, Sarah",
+        "prefix": null,
+        "first_name": "Sarah",
+        "middle_name": null,
+        "last_name": "Milford Haven",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "91 Addison Road",
+          "formatting": "Address in phone field"
+        },
+        {
+          "type": "home",
+          "number": "0207 565 1470(h)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "0171 434 4166(w)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "91 Addison Road",
+            "London W14"
+          ],
+          "city": "London",
+          "postal_code": "W14",
+          "country": "UK",
+          "notes": "Holland Park area"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Milford Haven family - British nobility"
+    },
+    {
+      "entry_id": "038_miller_nicole_kim_taipale",
+      "name": {
+        "full_name": "Miller, Nicole & Kim Taipale",
+        "prefix": null,
+        "first_name": "Nicole",
+        "middle_name": null,
+        "last_name": "Miller",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Kim Taipale"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 727 4757 (h)",
+          "formatting": "UK landline"
+        },
+        {
+          "type": "work",
+          "number": "0207 727 9100 (w)",
+          "formatting": "UK landline"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "100 Hudson Street #10E",
+            "New York, NY"
+          ],
+          "city": "New York",
+          "postal_code": "10013",
+          "country": "USA",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [
+        "Flat 2 (or 6) 31 Victoria Rd",
+        "London W8",
+        "0207 792 8997 (w) Nma/Kx-20m floor",
+        "New 01291 680 6100(w)",
+        "0207 727 4757 (h) Nicole",
+        "0802 345 (m)"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "038_mills_cheryl",
+      "name": {
+        "full_name": "Mills, Cheryl",
+        "prefix": null,
+        "first_name": "Cheryl",
+        "middle_name": null,
+        "last_name": "Mills",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "01 202 263 5466(w)",
+          "formatting": "US format"
+        }
+      ],
+      "emails": [
+        {
+          "address": "cdmonline@hotmail.com",
+          "type": "personal",
+          "notes": "Hotmail personal email"
+        }
+      ],
+      "addresses": [],
+      "handwritten_notes": [
+        "Email: cdmonline@hotmail.com"
+      ],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Cheryl Mills - Clinton administration official, Hillary Clinton's chief of staff"
+    },
+    {
+      "entry_id": "038_minot_carie_bell_george",
+      "name": {
+        "full_name": "Minot, Carie & Bell, George",
+        "prefix": null,
+        "first_name": "Carie",
+        "middle_name": null,
+        "last_name": "Minot",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Bell, George"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "01406 0866(h)",
+          "formatting": "UK format"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "UK couple"
+    },
+    {
+      "entry_id": "038_minot_susan",
+      "name": {
+        "full_name": "Minot, Susan",
+        "prefix": null,
+        "first_name": "Susan",
+        "middle_name": null,
+        "last_name": "Minot",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 925 8215 (ED)",
+          "formatting": "International to US - NYC"
+        },
+        {
+          "type": "work",
+          "number": "001 70 240 1072",
+          "formatting": "International - unclear"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "NYC contact - possibly author Susan Minot"
+    },
+    {
+      "entry_id": "038_mischer_kevin",
+      "name": {
+        "full_name": "Mischer, Kevin",
+        "prefix": null,
+        "first_name": "Kevin",
+        "middle_name": null,
+        "last_name": "Mischer",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 310 858 8870",
+          "formatting": "International to US - LA area"
+        },
+        {
+          "type": "work",
+          "number": "001 818 557 7300",
+          "formatting": "International to US - LA area"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "LA contact"
+    },
+    {
+      "entry_id": "038_modafferi_daniela",
+      "name": {
+        "full_name": "Modafferi, Daniela",
+        "prefix": null,
+        "first_name": "Daniela",
+        "middle_name": null,
+        "last_name": "Modafferi",
+          "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "00 39 2 7600 1973 (w)",
+          "formatting": "International - Italy, Milan"
+        },
+        {
+          "type": "mobile",
+          "number": "00 39 33 5616 7373 (m)",
+          "formatting": "International - Italy mobile"
+        },
+        {
+          "type": "work",
+          "number": "00 39 2 7600 3668 (w)",
+          "formatting": "International - Italy, Milan"
+        },
+        {
+          "type": "home",
+          "number": "00 39 2 76002 79 (h)",
+          "formatting": "International - Italy, Milan"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Milan, Italy contact"
+    },
+    {
+      "entry_id": "038_moncada_cico",
+      "name": {
+        "full_name": "Moncada, Cico",
+        "prefix": null,
+        "first_name": "Cico",
+        "middle_name": null,
+        "last_name": "Moncada",
+        "suffix": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0416 260929",
+          "formatting": "International format"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "International contact"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 18,
+    "entries_with_emails": 2,
+    "entries_with_addresses": 12,
+    "entries_with_handwritten_notes": 7,
+    "couples": 8,
+    "average_confidence": "high",
+    "notable_figures_count": 4
+  },
+  "cross_references": [
+    {
+      "entry_id": "038_milford_haven_george_clare",
+      "reference": "Milford Haven family - British nobility, related to Sarah Milford Haven",
+      "related_entries": ["038_milford_haven_sarah"]
+    }
+  ],
+  "entities": {
+    "people": [
+      "Jonathan Mermagon",
+      "Justin Metcalf",
+      "Melanie Metcalf",
+      "Julian Metcalf",
+      "Julian Metcalfe",
+      "Melanie Metcalfe",
+      "Justin Metcalfe",
+      "Joanne Metcalfe",
+      "Robin Metz",
+      "Tony Meyer",
+      "Fev Micklethwait",
+      "John Micklethwait",
+      "Gianluca Milani",
+      "George Milford Haven",
+      "Clare Milford Haven",
+      "Sarah Milford Haven",
+      "Nicole Miller",
+      "Kim Taipale",
+      "Cheryl Mills",
+      "Carie Minot",
+      "George Bell",
+      "Susan Minot",
+      "Kevin Mischer",
+      "Daniela Modafferi",
+      "Cico Moncada"
+    ],
+    "organizations": [
+      "Pret A Manger (Julian Metcalfe)",
+      "The Economist (John Micklethwait)",
+      "Clinton administration"
+    ],
+    "locations": {
+      "international": [
+        "London, UK (multiple contacts)",
+        "Milan, Italy"
+      ],
+      "us_cities": [
+        "New York City (multiple contacts)",
+        "Los Angeles, CA"
+      ],
+      "elite_addresses": [
+        "Kensington, London (multiple addresses)",
+        "Holland Park, London",
+        "Mayfair, London (Park Street)",
+        "Moyns Park, Essex (estate)",
+        "Gramercy Park NYC"
+      ]
+    }
+  },
+  "insights": [
+    "Julian Metcalfe - founder of Pret A Manger restaurant chain",
+    "John Micklethwait - prominent journalist, likely with The Economist (later became editor-in-chief)",
+    "Cheryl Mills - Clinton administration official, Hillary Clinton's chief of staff",
+    "Marquess of Milford Haven (George) - British nobility with Essex estate at Moyns Park",
+    "Sarah Milford Haven - member of British nobility family",
+    "Susan Minot - likely the acclaimed author and screenwriter",
+    "Geographic concentration: London elite neighborhoods (Kensington, Holland Park, Mayfair), NYC, Milan",
+    "Multiple couples indicating social networks",
+    "Mix of business entrepreneurs, journalists, political figures, and British nobility",
+    "International reach: UK aristocracy, US political connections, Italian business contacts"
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "page_number": 121,
+  "file_path": "data/birthday_book_images/page_0121.png",
+  "file_size_mb": 0.787200927734375,
+  "type": "handwritten_sketch_humor",
+  "content": {
+    "text": "NO EXCUSES!\n\nTwo Liner\nAll\nGROWN AFTER\nThis Goes\nPublic\nIn LA\n\nFART\nTOO MUCH!\nPlease\nStop\n\nDec 19 & 18\n# 5764",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "description": "Humorous hand-drawn sketch with text annotations",
+    "text_sections": {
+      "full_transcription": "NO EXCUSES!\n\nTwo Liner\nAll\nGROWN AFTER\nThis Goes\nPublic\nIn LA\n\nFART\nTOO MUCH!\nPlease\nStop\n\nDec 19 & 18\n# 5764",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "LA"
+    ],
+    "dates": [
+      "Dec 19 & 18",
+      "5764"
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": "Unknown friend with humorous tone",
+    "recipient": "Jeffrey Epstein",
+    "date": "December 18-19 (Hebrew year 5764 = 2003)",
+    "subject": "Humorous birthday sketch",
+    "theme": "lighthearted_celebratory_humor",
+    "significance": "medium",
+    "document_type": "handwritten_sketch_humor"
+  },
+  "insights": [
+    "'NO EXCUSES!' highlighted in yellow - emphatic message",
+    "Humorous, casual tone with crude humor ('FART TOO MUCH')",
+    "References going public in LA - possible media or event reference",
+    "Hebrew calendar year 5764 corresponds to 2003-2004",
+    "December dates align with near Epstein's January birthday period",
+    "Informal, playful relationship indicated by crude humor",
+    "Palm tree drawing suggests California/LA connection",
+    "'Two Liner All GROWN AFTER This Goes Public' may reference publicity",
+    "Celebratory figure with raised arms suggests victory or celebration",
+    "Casual, intimate tone suggests close personal relationship",
+    "Simple sketch style indicates spontaneous, informal message"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000121",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.179635",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": [],
+    "handwritten_notes": [
+      {
+        "type": "sketch_with_annotations",
+        "style": "informal_drawing",
+        "ink_color": "black",
+        "elements": [
+          "figure with raised arms",
+          "palm tree",
+          "speech bubbles",
+          "highlighted text"
+        ]
+      }
+    ],
+    "drawings": [
+      {
+        "description": "Simple line drawing of person with raised arms",
+        "type": "celebratory_figure"
+      },
+      {
+        "description": "Palm tree sketch",
+        "type": "decorative_element"
+      }
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Hand-drawn sketch with text annotations",
+    "'NO EXCUSES!' highlighted in yellow at top",
+    "Drawing of figure with raised arms in celebration",
+    "Palm tree drawing on left side",
+    "Speech bubbles with various text",
+    "Left bubble: 'Two liner All GROWN AFTER This Goes Public In LA'",
+    "Right bubble: 'FART TOO MUCH! Please Stop'",
+    "Date notation: 'Dec 19 & 18'",
+    "Hebrew year: '# 5764' (corresponds to 2003-2004)",
+    "Crude humor suggests intimate friendship",
+    "Simple line drawing style",
+    "Black pen/pencil on white paper",
+    "Document stamped HOUSE_OVERSIGHT_000121",
+    "Informal, spontaneous birthday message"
+  ],
+  "investigative_leads": []
+}

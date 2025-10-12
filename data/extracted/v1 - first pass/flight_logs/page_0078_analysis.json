@@ -1,0 +1,299 @@
+{
+  "page_number": 78,
+  "date_header": "NOV-DEC 2000",
+  "time_period": "November 2000 - January 2001",
+  "aircraft": {
+    "registration": "G-1159B N908JE",
+    "type": "G-1159B"
+  },
+  "flight_records": [
+    {
+      "entry_number": "19",
+      "date": "11/19/2000",
+      "departure": "G-1159B",
+      "arrival": "N908JE",
+      "flight_time": "1418",
+      "remarks": "BED - TEB - JG, S KELLEY LEWIS",
+      "passengers": ["JG", "S KELLEY", "LEWIS"],
+      "crew": "1/1"
+    },
+    {
+      "entry_number": "22",
+      "date": "11/22/2000",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1419",
+      "remarks": "OCA - JG, AY, S KELLEY LEWIS",
+      "passengers": ["JG", "AY", "S KELLEY", "LEWIS"],
+      "crew": "1/0"
+    },
+    {
+      "entry_number": "24",
+      "date": "11/24/2000",
+      "departure": "",
+      "arrival": "OCA",
+      "flight_time": "1420",
+      "remarks": "PBI - JG, AY, S KELLEY LEWIS",
+      "passengers": ["JG", "AY", "S KELLEY", "LEWIS"],
+      "crew": "2/2"
+    },
+    {
+      "entry_number": "28",
+      "date": "11/28/2000",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1421",
+      "remarks": "TIST - JG, GM",
+      "passengers": ["JG", "GM"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "30",
+      "date": "11/30/2000",
+      "departure": "",
+      "arrival": "TIST",
+      "flight_time": "1422",
+      "remarks": "PBI - JG, GM",
+      "passengers": ["JG", "GM"],
+      "crew": "2/7"
+    },
+    {
+      "entry_number": "DEC 1",
+      "date": "12/01/2000",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1423",
+      "remarks": "OFW - JG, GM",
+      "passengers": ["JG", "GM"],
+      "crew": "2/7"
+    },
+    {
+      "entry_number": "1",
+      "date": "12/01/2000",
+      "departure": "",
+      "arrival": "OFW",
+      "flight_time": "1424",
+      "remarks": "ABQ - JG, GM, BELINDA LEGIONATTA",
+      "passengers": ["JG", "GM", "BELINDA LEGIONATTA"],
+      "crew": "1/8"
+    },
+    {
+      "entry_number": "2",
+      "date": "12/02/2000",
+      "departure": "",
+      "arrival": "ABQ",
+      "flight_time": "1425",
+      "remarks": "SAF - REDACTED JIM",
+      "passengers": ["REDACTED", "JIM"],
+      "crew": "5"
+    },
+    {
+      "entry_number": "2",
+      "date": "12/02/2000",
+      "departure": "",
+      "arrival": "SAF",
+      "flight_time": "",
+      "remarks": "TEB",
+      "passengers": [],
+      "crew": "3/5"
+    },
+    {
+      "entry_number": "5",
+      "date": "12/05/2000",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "1428",
+      "remarks": "LFPB - JG, GM, ET, KELLY SPAMM",
+      "passengers": ["JG", "GM", "ET", "KELLY SPAMM"],
+      "crew": "6/8"
+    },
+    {
+      "entry_number": "6",
+      "date": "12/06/2000",
+      "departure": "",
+      "arrival": "LFPB",
+      "flight_time": "1429",
+      "remarks": "EGGW - JG, GM, ET, KELLY SPAMM",
+      "passengers": ["JG", "GM", "ET", "KELLY SPAMM"],
+      "crew": "1/0"
+    },
+    {
+      "entry_number": "7",
+      "date": "12/07/2000",
+      "departure": "",
+      "arrival": "EGGW",
+      "flight_time": "1430",
+      "remarks": "EGYM - JG, GM, GT, JEREMY GRANT 2, MITCH, NICK, JANE, LAURA, CINDY, MARTY, MARILLA, PETER",
+      "passengers": ["JG", "GM", "GT", "JEREMY GRANT", "MITCH", "NICK", "JANE", "LAURA", "CINDY", "MARTY", "MARILLA", "PETER"],
+      "crew": "5/2"
+    },
+    {
+      "entry_number": "7",
+      "date": "12/07/2000",
+      "departure": "",
+      "arrival": "EGYM",
+      "flight_time": "1431",
+      "remarks": "EGSH - REDRATTAN LANDING MARLOW VINCE (GRANT JOHN)",
+      "passengers": ["REDRATTAN", "LANDING", "MARLOW", "VINCE", "GRANT", "JOHN"],
+      "crew": "4"
+    },
+    {
+      "entry_number": "9",
+      "date": "12/09/2000",
+      "departure": "",
+      "arrival": "EGSH",
+      "flight_time": "1432",
+      "remarks": "CYQX - JG, GM, AY, MATTHEW GRANT (GRANT JOHN), MICHAEL",
+      "passengers": ["JG", "GM", "AY", "MATTHEW GRANT", "GRANT", "JOHN", "MICHAEL"],
+      "crew": "5/5"
+    },
+    {
+      "entry_number": "9",
+      "date": "12/09/2000",
+      "departure": "",
+      "arrival": "CYQX",
+      "flight_time": "1433",
+      "remarks": "PBI - JG, GM, ET, KELLY SPAMM",
+      "passengers": ["JG", "GM", "ET", "KELLY SPAMM"],
+      "crew": "4/7"
+    },
+    {
+      "entry_number": "11",
+      "date": "12/11/2000",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1437",
+      "remarks": "TEB - JG, GM, GT",
+      "passengers": ["JG", "GM", "GT"],
+      "crew": "2/6"
+    },
+    {
+      "entry_number": "14",
+      "date": "12/14/2000",
+      "departure": "",
+      "arrival": "TEB",
+      "flight_time": "",
+      "remarks": "TIST - JG, GM, AY, VINCENZO",
+      "passengers": ["JG", "GM", "AY", "VINCENZO"],
+      "crew": "3/5"
+    },
+    {
+      "entry_number": "14",
+      "date": "12/14/2000",
+      "departure": "",
+      "arrival": "TIST",
+      "flight_time": "1435",
+      "remarks": "PBI - BURNSIDE FOR APS 2 + TCR",
+      "passengers": ["BURNSIDE", "APS 2", "TCR"],
+      "crew": "2/4"
+    },
+    {
+      "entry_number": "30/31",
+      "date": "12/30/2000",
+      "departure": "",
+      "arrival": "PBI",
+      "flight_time": "1436",
+      "remarks": "PBI - TEB CERTIFICATE W",
+      "passengers": ["CERTIFICATE W"],
+      "crew": "1/10"
+    },
+    {
+      "entry_number": "JAN 13",
+      "date": "01/13/2001",
+      "departure": "",
+      "arrival": "",
+      "flight_time": "",
+      "remarks": "",
+      "passengers": [],
+      "crew": ""
+    }
+  ],
+  "entities": {
+    "people": [
+      "JG",
+      "GM",
+      "GT",
+      "ET",
+      "AY",
+      "S KELLEY",
+      "LEWIS",
+      "BELINDA LEGIONATTA",
+      "REDACTED",
+      "JIM",
+      "KELLY SPAMM",
+      "JEREMY GRANT",
+      "MITCH",
+      "NICK",
+      "JANE",
+      "LAURA",
+      "CINDY",
+      "MARTY",
+      "MARILLA",
+      "PETER",
+      "REDRATTAN",
+      "LANDING",
+      "MARLOW",
+      "VINCE",
+      "GRANT",
+      "JOHN",
+      "MATTHEW GRANT",
+      "MICHAEL",
+      "VINCENZO",
+      "BURNSIDE",
+      "APS 2",
+      "TCR",
+      "CERTIFICATE W",
+      "David Rodgers"
+    ],
+    "locations": [
+      "BED",
+      "TEB",
+      "OCA",
+      "PBI",
+      "TIST",
+      "OFW",
+      "ABQ",
+      "SAF",
+      "LFPB",
+      "EGGW",
+      "EGYM",
+      "EGSH",
+      "CYQX"
+    ],
+    "aircraft": [
+      "G-1159B",
+      "N908JE"
+    ]
+  },
+  "visual_elements": {
+    "signatures": [
+      {
+        "location": "bottom_left",
+        "signature": "David Rodgers",
+        "deciphered_name": "David Rodgers"
+      }
+    ],
+    "stamps": [],
+    "handwriting_notes": []
+  },
+  "metadata": {
+    "page_total": "11/10",
+    "amount_forward": "19616",
+    "total_to_date": "20374",
+    "document_quality": "good",
+    "legibility": "mostly clear"
+  },
+  "insights": [
+    "Page transitions from November 2000 through December 2000 to January 2001",
+    "S KELLEY LEWIS continues as frequent passenger combination",
+    "International operations to Europe (LFPB - Paris, EGGW - London Luton, EGYM, EGSH)",
+    "Canadian operation to CYQX (Gander)",
+    "Kelly Spamm appears multiple times",
+    "Large group flight on December 7 with 12 passengers",
+    "REDACTED appears in passenger list",
+    "Grant family members appear (Jeremy Grant, Matthew Grant)",
+    "Flight numbers reach 1437",
+    "Year 2000 ends with certificate flight notation",
+    "January 2001 entry marks beginning of new year"
+  ]
+}

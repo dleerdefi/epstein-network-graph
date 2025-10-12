@@ -1,0 +1,614 @@
+{
+  "page_number": 52,
+  "section": "S-T",
+  "entries": [
+    {
+      "name": "Stern, Allison & Leonard",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "202 The Glassway, NYC",
+          "city": "New York",
+          "state": "NY",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 644 1431 (G)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "fax",
+          "number": "001 212 754 4949",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        }
+      ],
+      "notes": "The Glassway address",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Strachar Kate",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 971 2971",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Kate Strachar",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Stundliw, Stuart",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "5602 10 Avenue Sunset Life, London",
+          "city": "London",
+          "confidence": "medium"
+        },
+        {
+          "type": "residence",
+          "address": "15 London Gardens Green Ave",
+          "city": "London",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 [illegible]",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Multiple London addresses",
+      "data_quality": {
+        "confidence": "medium",
+        "issues": ["Phone partially illegible", "Address details unclear"]
+      }
+    },
+    {
+      "name": "Stevens Michael",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "200 W 70th Street",
+          "street": "200 W 70th Street",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 935 0541 (H)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "NYC address with London phone",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Stopford-Sackville, Charlie & Jo",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "51 Albert Bridge Road",
+          "street": "51 Albert Bridge Road",
+          "city": "London",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 627 5412 (H)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "mobile",
+          "number": "07968 360612 (M)",
+          "area_code": "07968",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "stopfordsackville@[illegible]",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Charlie & Jo Stopford-Sackville - Albert Bridge Road",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Email domain partially illegible"]
+      }
+    },
+    {
+      "name": "Sunley, Mr James & Amanda",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "23 Bury Walk, London",
+          "street": "23 Bury Walk",
+          "city": "London",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 352 7311",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "James & Amanda Sunley",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Sutherland Harry",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 734 7711",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "01639 366 771",
+          "area_code": "01639",
+          "geographic_indicator": "Wales (Neath Port Talbot)",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Harry Sutherland - London and Wales phones",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Svenlinson, Peter",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "15 Grosvenor Road",
+          "street": "15 Grosvenor Road",
+          "city": "London",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 823 0153 (H)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0208 747 7143",
+          "area_code": "0208",
+          "geographic_indicator": "Outer London",
+          "confidence": "high"
+        },
+        {
+          "type": "mobile",
+          "number": "0789 004701",
+          "area_code": "0789",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Peter Svenlinson - Grosvenor Road",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Swire Sophie",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1 Ladbroke Close, Belair",
+          "street": "1 Ladbroke Close",
+          "location": "Belair",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 243 0077 (H)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 938 0922",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Sophie Swire - Ladbroke Close",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Taaffe, Paul",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "121 E Barnton, Barnton",
+          "street": "121 E Barnton",
+          "location": "Barnton",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0131 339 9570",
+          "area_code": "0131",
+          "geographic_indicator": "Edinburgh",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Email: Taaffe@barvinconsulta[illegible]",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Paul Taaffe - Edinburgh",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Email partially illegible"]
+      }
+    },
+    {
+      "name": "Swire, Hugo",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "1 Ladbroke Close, Belair",
+          "street": "1 Ladbroke Close",
+          "location": "Belair",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 243 0077 (H)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0207 219 6371 (O)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London/Westminster",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Hugo Swire - Same address as Sophie Swire",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Talbot, Karim and Cristina",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "100 Central Square, Richmond",
+          "street": "100 Central Square",
+          "city": "Richmond",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "020 8940 0031 (H)",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "020 7371 7388",
+          "area_code": "020",
+          "geographic_indicator": "London",
+          "confidence": "high"
+        },
+        {
+          "type": "mobile",
+          "number": "0776 748 9211 (M)",
+          "area_code": "0776",
+          "geographic_indicator": "UK mobile",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Karim and Cristina Talbot - Richmond",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Swire, Jenny",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 409 3590(O)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Jenny Swire",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Swire, Mark",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "2 Ladbroke Gardens Mews",
+          "street": "2 Ladbroke Gardens Mews",
+          "city": "London",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 221 0956 (H)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "office",
+          "number": "01788 575 808 (O)",
+          "area_code": "01788",
+          "geographic_indicator": "Rugby/Warwickshire",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "mark.swire@europack.com",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Mark Swire - Ladbroke Gardens Mews, europack.com",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Taki",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "71 Cadogan Square",
+          "street": "71 Cadogan Square",
+          "city": "London",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 589 0455 (H)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Taki - Cadogan Square",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Talbot Williams, Simon",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "13 Ashchurch Square",
+          "street": "13 Ashchurch Square",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207 938 0704 (H)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "office",
+          "number": "0207 383 5291 (O)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "mobile",
+          "number": "0831 460 567",
+          "area_code": "0831",
+          "geographic_indicator": "UK mobile (old)",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Simon Talbot Williams",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Sykes, Lucy Ewen",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "326 W 22 Ave 3 Rear/M",
+          "street": "326 W 22 Ave 3 Rear/M",
+          "city": "New York",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 408 8220(H)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan NYC",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 813 659 0999(M)",
+          "area_code": "813",
+          "geographic_indicator": "Tampa, Florida",
+          "confidence": "high"
+        }
+      ],
+      "emails": [
+        {
+          "email": "Email: lucyewen@aol.com",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Lucy Ewen Sykes - NYC address",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Tang, Mr David, & Lucy Wasthang",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "16 Eaton Place, London SW1",
+          "street": "16 Eaton Place",
+          "city": "London",
+          "postal_code": "SW1",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "1507 Victoria House",
+          "confidence": "medium"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0207 245 0048 (LH)",
+          "area_code": "0207",
+          "geographic_indicator": "Central London",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "00 852 855 9500 (HK)",
+          "area_code": "852",
+          "geographic_indicator": "Hong Kong",
+          "confidence": "high"
+        }
+      ],
+      "notes": "David Tang & Lucy Wasthang - London and Hong Kong",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 18,
+    "illegible_entries": 0,
+    "partial_entries": 2,
+    "cross_references": ["Sophie Swire and Hugo Swire share address"],
+    "notable_individuals": [
+      "David Tang - Hong Kong businessman",
+      "Hugo Swire - MP/Westminster phone",
+      "Taki - Journalist/writer at Cadogan Square"
+    ],
+    "geographic_distribution": {
+      "uk": 14,
+      "usa": 2,
+      "hong_kong": 1,
+      "other": 1
+    },
+    "location_highlights": [
+      "Cadogan Square - ultra-prime London",
+      "Eaton Place SW1 - Belgravia",
+      "Albert Bridge Road - Chelsea",
+      "Ladbroke Gardens - Notting Hill",
+      "Edinburgh connection",
+      "Hong Kong business connection"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 16,
+      "medium_confidence": 1,
+      "low_confidence": 1,
+      "specific_issues": [
+        "Some email domains illegible",
+        "One entry with unclear address formatting"
+      ]
+    }
+  }
+}

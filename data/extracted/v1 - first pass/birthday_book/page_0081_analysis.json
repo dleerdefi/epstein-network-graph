@@ -1,0 +1,88 @@
+{
+  "page_number": 81,
+  "file_path": "data/birthday_book_images/page_0081.png",
+  "file_size_mb": 0.7726430892944336,
+  "type": "heavily_redacted_content",
+  "content": {
+    "text": "[Content heavily redacted with large gray blocks obscuring most information]",
+    "handwritten": false,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "[Content heavily redacted with large gray blocks obscuring most information]",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Heavily redacted page with obscured content",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "heavily_redacted_content"
+  },
+  "insights": [
+    "Page contains extensive redactions with large gray blocks",
+    "Original content appears to have been deemed sensitive",
+    "Systematic approach to redaction suggests legal or privacy concerns",
+    "Very little visible content remains after redaction process"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000081",
+  "processed_at": "2025-09-23 03:50:00",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.160482",
+  "visual_analysis": {
+    "photos": [],
+    "signatures": [],
+    "logos": [],
+    "redactions": [
+      "Large gray blocks covering majority of page content",
+      "Appears to be systematic redaction of sensitive material"
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [],
+  "investigative_leads": []
+}

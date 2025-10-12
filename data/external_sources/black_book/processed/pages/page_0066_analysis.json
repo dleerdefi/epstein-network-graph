@@ -1,0 +1,1251 @@
+{
+  "page_number": 66,
+  "alphabetical_section": "Mixed",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "066_miele_mr_&_mrs",
+      "name": {
+        "full_name": "France \u2013 Miele, Mr",
+        "prefix": null,
+        "first_name": "Mr & Mrs",
+        "middle_name": null,
+        "last_name": "Miele",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Mrs"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 33 9306 1179 (c)",
+          "formatting": "00 33 9306 1179 (c) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 33 9306 1273 (c)",
+          "formatting": "00 33 9306 1273 (c) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 33 9301 2196 (fax)",
+          "formatting": "00 33 9301 2196 (fax) (International)"
+        },
+        {
+          "type": "home",
+          "number": "00 33 9301 3359",
+          "formatting": "00 33 9301 3359 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "066_ott_cynthia_&_claude",
+      "name": {
+        "full_name": "France \u2013 Ott Cynthia",
+        "prefix": null,
+        "first_name": "Cynthia & Claude",
+        "middle_name": null,
+        "last_name": "Ott",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Claude"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "011 33674 003080 (cp)",
+          "formatting": "011 33674 003080 (cp) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "011 33 686 558377 (claude)",
+          "formatting": "011 33 686 558377 (claude) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "01133 153 05 70 98 (f)",
+          "formatting": "01133 153 05 70 98 (f) (International)"
+        },
+        {
+          "type": "work",
+          "number": "01133 153 05 70 83 (direct)",
+          "formatting": "01133 153 05 70 83 (direct) (International)"
+        },
+        {
+          "type": "home",
+          "number": "011 331 4502 7300",
+          "formatting": "011 331 4502 7300 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "22 Avenue Foch, Apt 2DD"
+          ],
+          "city": "Paris",
+          "state": null,
+          "postal_code": "75116",
+          "country": "France",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "066_pinto_alberto",
+      "name": {
+        "full_name": "France \u2013 Pinto, Alberto",
+        "prefix": null,
+        "first_name": "Alberto",
+        "middle_name": null,
+        "last_name": "Pinto",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "011 331 401 30000",
+          "formatting": "011 331 401 30000 (International)"
+        },
+        {
+          "type": "home",
+          "number": "011 331 4418 7575",
+          "formatting": "011 331 4418 7575 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "alberto.pinto@albertopinto.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Hotel de la Victoire, 11 Rue d\u2019Aboukir"
+          ],
+          "city": "Paris",
+          "state": null,
+          "postal_code": "75002",
+          "country": "France",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "066_pinto_alberto",
+      "name": {
+        "full_name": "France \u2013 Pinto, Alberto",
+        "prefix": null,
+        "first_name": "Alberto",
+        "middle_name": null,
+        "last_name": "Pinto",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 809 362 4335 (Nassau)",
+          "formatting": "001 809 362 4335 (Nassau) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 809 362 4336 (Nassau)",
+          "formatting": "001 809 362 4336 (Nassau) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "011 331 4013 7580 (f)",
+          "formatting": "011 331 4013 7580 (f) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "011 33 680010222 (Car)",
+          "formatting": "011 33 680010222 (Car) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "011 331 401 37642 (pvt fax)",
+          "formatting": "011 331 401 37642 (pvt fax) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "01121239933939 (Pinto in Morrocco)",
+          "formatting": "01121239933939 (Pinto in Morrocco) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "011 212 39 93 7171 (Morrocco fax)",
+          "formatting": "011 212 39 93 7171 (Morrocco fax) (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "+33 144 1875 71 (hf)",
+          "formatting": "+33 144 1875 71 (hf)"
+        },
+        {
+          "type": "unknown",
+          "number": "+33 140 1375 98 (Direct)",
+          "formatting": "+33 140 1375 98 (Direct)"
+        },
+        {
+          "type": "work",
+          "number": "+33 140 13 0000",
+          "formatting": "+33 140 13 0000"
+        },
+        {
+          "type": "home",
+          "number": "+33 144 187 575 (Paris)",
+          "formatting": "+33 144 187 575 (Paris)"
+        },
+        {
+          "type": "portable",
+          "number": "011 33 6077 31338",
+          "formatting": "011 33 6077 31338 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "alberto.pinto@albertopinto.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "61 Quai D\u2019Orsay, 1st floor"
+          ],
+          "city": "Paris",
+          "state": null,
+          "postal_code": "75007",
+          "country": "France",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "066_pinto_linda",
+      "name": {
+        "full_name": "France \u2013 Pinto, Alberto",
+        "prefix": null,
+        "first_name": "Linda",
+        "middle_name": null,
+        "last_name": "Pinto",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "011 331 401 37642 (pvt fax)",
+          "formatting": "011 331 401 37642 (pvt fax) (International)"
+        },
+        {
+          "type": "home",
+          "number": "011 331 4753 8421",
+          "formatting": "011 331 4753 8421 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "011 33 60 770 2913",
+          "formatting": "011 33 60 770 2913 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "01133680598876 (Nissan\u2019s cell)",
+          "formatting": "01133680598876 (Nissan\u2019s cell) (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "linda.pinto@albertopinto.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "61 Quai D\u2019Orsay, 1st floor"
+          ],
+          "city": "Paris",
+          "state": null,
+          "postal_code": "75007",
+          "country": "France",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "066_boquet_serge",
+      "name": {
+        "full_name": "France \u2013 Pinto, Alberto",
+        "prefix": null,
+        "first_name": "Serge",
+        "middle_name": null,
+        "last_name": "Boquet",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "011331 45 51 03 33",
+          "formatting": "011331 45 51 03 33 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "011336 07 17 07 24 (3/2000)",
+          "formatting": "011336 07 17 07 24 (3/2000) (International)"
+        },
+        {
+          "type": "portable",
+          "number": "011 33 67 800 4392",
+          "formatting": "011 33 67 800 4392 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "serge.boquet@albertopinto.com|infographie.pinto@albertopinto.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "61 Quai D\u2019Orsay, 1st floor"
+          ],
+          "city": "Paris",
+          "state": null,
+          "postal_code": "75007",
+          "country": "France",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "066_rateau_delphine",
+      "name": {
+        "full_name": "France \u2013 Pinto, Alberto",
+        "prefix": null,
+        "first_name": "Delphine",
+        "middle_name": null,
+        "last_name": "Rateau",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [],
+      "emails": [
+        {
+          "address": "delphine.rateau@albertopinto.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "61 Quai D\u2019Orsay, 1st floor"
+          ],
+          "city": "Paris",
+          "state": null,
+          "postal_code": "75007",
+          "country": "France",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "066_guguen_jean",
+      "name": {
+        "full_name": "France \u2013 Pinto, Alberto",
+        "prefix": null,
+        "first_name": "Jean",
+        "middle_name": null,
+        "last_name": "Guguen",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "portable",
+          "number": "01133 609 18 11 26",
+          "formatting": "01133 609 18 11 26 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "jean.huguen@albertopinto.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "61 Quai D\u2019Orsay, 1st floor"
+          ],
+          "city": "Paris",
+          "state": null,
+          "postal_code": "75007",
+          "country": "France",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "066_unknown_danielle",
+      "name": {
+        "full_name": "France \u2013 Pinto, Alberto",
+        "prefix": null,
+        "first_name": "Danielle",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "011331 45 51 45 58",
+          "formatting": "011331 45 51 45 58 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "61 Quai D\u2019Orsay, 1st floor"
+          ],
+          "city": "Paris",
+          "state": null,
+          "postal_code": "75007",
+          "country": "France",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "066_unknown_yves",
+      "name": {
+        "full_name": "France \u2013 Pinto, Alberto",
+        "prefix": null,
+        "first_name": "Yves",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "01133 609 78 68 26",
+          "formatting": "01133 609 78 68 26 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "61 Quai D\u2019Orsay, 1st floor"
+          ],
+          "city": "Paris",
+          "state": null,
+          "postal_code": "75007",
+          "country": "France",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "066_unknown_chantal",
+      "name": {
+        "full_name": "France \u2013 Pinto, Alberto",
+        "prefix": null,
+        "first_name": "Chantal",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "01133 662 62 71 36",
+          "formatting": "01133 662 62 71 36 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "61 Quai D\u2019Orsay, 1st floor"
+          ],
+          "city": "Paris",
+          "state": null,
+          "postal_code": "75007",
+          "country": "France",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "066_laparra_pascal",
+      "name": {
+        "full_name": "France \u2013 Pinto, Alberto",
+        "prefix": null,
+        "first_name": "Pascal",
+        "middle_name": null,
+        "last_name": "Laparra",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [],
+      "emails": [
+        {
+          "address": "pascal.laparra@albertopinto.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "61 Quai D\u2019Orsay, 1st floor"
+          ],
+          "city": "Paris",
+          "state": null,
+          "postal_code": "75007",
+          "country": "France",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "066_unknown_unknown",
+      "name": {
+        "full_name": "France \u2013 Plaza Athenee",
+        "prefix": null,
+        "first_name": "France",
+        "middle_name": "\u2013 Plaza",
+        "last_name": "Athenee",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "33 1536 766 65",
+          "formatting": "33 1536 766 65"
+        },
+        {
+          "type": "unknown",
+          "number": "33 1536 766 66 (f)",
+          "formatting": "33 1536 766 66 (f)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "25 Avenue Montaigne"
+          ],
+          "city": "Paris",
+          "state": null,
+          "postal_code": "75008",
+          "country": "France",
+          "notes": "Paris luxury"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Plaza Athensee"
+    },
+    {
+      "entry_id": "066_unknown_unknown",
+      "name": {
+        "full_name": "France \u2013 Restaurants takeouts",
+        "prefix": null,
+        "first_name": "France",
+        "middle_name": "\u2013 Restaurants",
+        "last_name": "takeouts",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "01 56 26 00 55",
+          "formatting": "01 56 26 00 55"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Sushi"
+    },
+    {
+      "entry_id": "066_unknown_unknown",
+      "name": {
+        "full_name": "France \u2013 Restaurants Enlrecote",
+        "prefix": null,
+        "first_name": "France",
+        "middle_name": "\u2013 Restaurants",
+        "last_name": "Enlrecote",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "149520717",
+          "formatting": "149520717"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "15 rue Marbeauf"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": "France",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Restaurant Enlecote"
+    },
+    {
+      "entry_id": "066_unknown_unknown",
+      "name": {
+        "full_name": "France \u2013 Ritz \u2013 Paris",
+        "prefix": null,
+        "first_name": "France",
+        "middle_name": "\u2013 Ritz \u2013",
+        "last_name": "Paris",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "331-4316-3030",
+          "formatting": "331-4316-3030"
+        },
+        {
+          "type": "unknown",
+          "number": "331-4316-3178 (f)",
+          "formatting": "331-4316-3178 (f)"
+        },
+        {
+          "type": "unknown",
+          "number": "331-4286-0091 (Direct Fax Reservations)",
+          "formatting": "331-4286-0091 (Direct Fax Reservations)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "15 Place Vendome Cedex 01"
+          ],
+          "city": "Paris",
+          "state": null,
+          "postal_code": "75041",
+          "country": "France",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Ritz"
+    },
+    {
+      "entry_id": "066_unknown_unknown",
+      "name": {
+        "full_name": "France \u2013 River Cafe",
+        "prefix": null,
+        "first_name": "France",
+        "middle_name": "\u2013 River",
+        "last_name": "Cafe",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 33 1 4093 5020",
+          "formatting": "00 33 1 4093 5020 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "146 quai de Stalingrad"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": "France",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "066_unknown_unknown",
+      "name": {
+        "full_name": "France \u2013 Tante Louise",
+        "prefix": null,
+        "first_name": "France",
+        "middle_name": "\u2013 Tante",
+        "last_name": "Louise",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 331 4265 0685",
+          "formatting": "00 331 4265 0685 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "41 Rue Boissy d\u2019anglais"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": null,
+          "country": "France",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Tante Louise"
+    },
+    {
+      "entry_id": "066_unknown_unknown",
+      "name": {
+        "full_name": "France \u2013 Taxi Bleus",
+        "prefix": null,
+        "first_name": "France",
+        "middle_name": "\u2013 Taxi",
+        "last_name": "Bleus",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "01 49 36 10 10",
+          "formatting": "01 49 36 10 10"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Taxi Bleus"
+    },
+    {
+      "entry_id": "066_unknown_unknown",
+      "name": {
+        "full_name": "France \u2013 Taxis",
+        "prefix": null,
+        "first_name": "France",
+        "middle_name": "\u2013",
+        "last_name": "Taxis",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "00 331 420 24202",
+          "formatting": "00 331 420 24202 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 331 49 361010",
+          "formatting": "00 331 49 361010 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 331 420 39999",
+          "formatting": "00 331 420 39999 (International)"
+        },
+        {
+          "type": "unknown",
+          "number": "00 331 420 06789",
+          "formatting": "00 331 420 06789 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "066_unknown_unknown",
+      "name": {
+        "full_name": "France \u2013 Taxis Bleus",
+        "prefix": null,
+        "first_name": "France",
+        "middle_name": "\u2013 Taxis",
+        "last_name": "Bleus",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0149 38 10 10",
+          "formatting": "0149 38 10 10"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "066_vleira_cotrin_valdson",
+      "name": {
+        "full_name": "France \u2013 Vleira Cotrin, Valdson",
+        "prefix": null,
+        "first_name": "Valdson",
+        "middle_name": null,
+        "last_name": "Vleira Cotrin",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "06130 14377",
+          "formatting": "06130 14377"
+        },
+        {
+          "type": "home",
+          "number": "014827 8533",
+          "formatting": "014827 8533"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "21 Rue Voltaire, St. Dennis"
+          ],
+          "city": "Paris",
+          "state": null,
+          "postal_code": "93200",
+          "country": "France",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "066_vleira_cotrin_valdson",
+      "name": {
+        "full_name": "France \u2013 Vleira Cotrin, Valdson",
+        "prefix": null,
+        "first_name": "Valdson",
+        "middle_name": null,
+        "last_name": "Vleira Cotrin",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "1 Rue Chalgrin (Ave. Foch Apt), Room 4041 Floor 6"
+          ],
+          "city": "Paris",
+          "state": null,
+          "postal_code": null,
+          "country": "France",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "medium",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "066_unknown_maria",
+      "name": {
+        "full_name": "France \u2013 Vleira Cotrin, Valdson (Girlfriend)",
+        "prefix": null,
+        "first_name": "Maria",
+        "middle_name": null,
+        "last_name": "",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Girlfriend"
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "144778840",
+          "formatting": "144778840"
+        },
+        {
+          "type": "portable",
+          "number": "613011763",
+          "formatting": "613011763"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "1 Rue Chalgrin (Ave. Foch Apt), Room 4041 Floor 6"
+          ],
+          "city": "Paris",
+          "state": null,
+          "postal_code": null,
+          "country": "France",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "066_unknown_unknown",
+      "name": {
+        "full_name": "Hotels \u2013 Berkeley Hotel",
+        "prefix": null,
+        "first_name": "Hotels",
+        "middle_name": "\u2013 Berkeley",
+        "last_name": "Hotel",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207 235 6000",
+          "formatting": "0207 235 6000 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Berkeley Hotel"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 25,
+    "entries_with_emails": 7,
+    "entries_with_addresses": 19,
+    "entries_with_handwritten_notes": 0,
+    "couples": 2,
+    "average_confidence": "high",
+    "notable_figures_count": 0
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "France \u2013 Miele, Mr",
+      "Mrs",
+      "France \u2013 Ott Cynthia",
+      "Claude",
+      "France \u2013 Pinto, Alberto",
+      "France \u2013 Pinto, Alberto",
+      "France \u2013 Pinto, Alberto",
+      "France \u2013 Pinto, Alberto",
+      "France \u2013 Pinto, Alberto",
+      "France \u2013 Pinto, Alberto",
+      "France \u2013 Pinto, Alberto",
+      "France \u2013 Pinto, Alberto",
+      "France \u2013 Pinto, Alberto",
+      "France \u2013 Pinto, Alberto",
+      "France \u2013 Plaza Athenee",
+      "France \u2013 Restaurants takeouts",
+      "France \u2013 Restaurants Enlrecote",
+      "France \u2013 Ritz \u2013 Paris",
+      "France \u2013 River Cafe",
+      "France \u2013 Tante Louise",
+      "France \u2013 Taxi Bleus",
+      "France \u2013 Taxis",
+      "France \u2013 Taxis Bleus",
+      "France \u2013 Vleira Cotrin, Valdson",
+      "France \u2013 Vleira Cotrin, Valdson",
+      "France \u2013 Vleira Cotrin, Valdson (Girlfriend)",
+      "Hotels \u2013 Berkeley Hotel"
+    ],
+    "organizations": [],
+    "locations": {
+      "international": [
+        "France"
+      ],
+      "us_cities": [
+        "Paris"
+      ],
+      "elite_addresses": [
+        "25 Avenue Montaigne"
+      ]
+    }
+  },
+  "insights": [
+    "Geographic cluster: Paris (16 entries)"
+  ]
+}

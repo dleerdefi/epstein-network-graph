@@ -1,0 +1,138 @@
+{
+  "page_number": 16,
+  "type": "personal_photos_with_redaction",
+  "content": {
+    "text": "Look closely and you can see the line you have been looking for! | On the First date Christmas 1991",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "text_sections": {
+      "full_transcription": "Handwritten captions:\n\nTop left (by redacted photo):\nLook closely\nand you\ncan see the\nline you have\nbeen looking\nfor! [Referring to the bikini line of the woman in the arms of a man in his late teens or early twenties (possibly Jeffrey Epstein) on a sailboat out on the water. The woman is topless covering her breasts with her hands]\n\nBottom right:\nOn the First\ndate\nChristmas 1991 [Photograph of Jeffrey Epstein and Ghislaine Maxwell in a snowy setting. JE is wearing a ski suit and GM is wearking a large black coat]\n\nDocument ID:\nHOUSE_OVERSIGHT_000016",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [
+        "Look closely and you can see the line you have been looking for!",
+        "at the First avenue Christmas 1991"
+      ],
+      "margins": [],
+      "annotations": ["HOUSE_OVERSIGHT_000016"],
+      "handwritten_portions": [
+        "All captions are handwritten"
+      ]
+    }
+  },
+  "entities": {
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "First Avenue"
+    ],
+    "dates": [
+      "Christmas 1991"
+    ],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": null,
+    "date": "Christmas 1991",
+    "subject": "Personal/social photos",
+    "significance": "medium",
+    "theme": null,
+    "document_type": "personal_photos_with_redaction"
+  },
+  "relationships": [],
+  "insights": [
+    "CRITICAL: Face redacted with black box in swimsuit photo",
+    "Person wearing red/pink bikini on what appears to be boat/yacht",
+    "'Look closely...see the line you have been looking for' - suggestive caption",
+    "Tan lines referenced in caption - intimate/sexual innuendo",
+    "Christmas 1991 at 'First avenue' - specific date/location",
+    "Bottom photo shows couple in winter/Christmas setting",
+    "Woman in red coat, man in dark clothing",
+    "Snow visible in background of Christmas photo",
+    "Redaction protects identity but body shown - selective privacy",
+    "First appearance of potentially compromising personal photos",
+    "Transition from wealth display to personal relationships",
+    "1991 date - 12 years before 50th birthday book",
+    "Handwriting different from previous contributor",
+    "Photos suggest intimate relationship documentation",
+    "Yacht/boat setting consistent with wealth narrative"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000016",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.128500",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Person in red/pink bikini on boat deck, face redacted with black rectangle",
+        "individual_count": 1,
+        "position_map": {"center": "unidentified person (face redacted)"},
+        "individuals_identified": [],
+        "setting": "Yacht or boat deck",
+        "era_indicators": ["1990s photo quality", "Bikini style"],
+        "photo_quality": "Color photograph from early 1990s",
+        "photo_type": "Personal/intimate photo"
+      },
+      {
+        "description": "Couple outdoors in winter, woman in red coat, man in dark clothing",
+        "individual_count": 2,
+        "position_map": {"left": "woman in red", "right": "man in dark clothing"},
+        "individuals_identified": [],
+        "setting": "Outdoor winter/Christmas scene with snow",
+        "era_indicators": ["1991 fashion", "Film photography"],
+        "photo_quality": "Color photograph dated 1991",
+        "photo_type": "Holiday/social photo"
+      }
+    ],
+    "signatures": [],
+    "logos": [],
+    "redactions": [
+      "Face blocked out with black rectangle in top photo"
+    ]
+  },
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": true,
+    "contains_sensitive_info": true,
+    "legal_implications": false,
+    "extraction_complete": true,
+    "high_priority": false,
+    "quality_score": 85,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Black redaction box professionally applied - not hand drawn",
+    "Redaction only covers face, body left visible - selective privacy",
+    "Handwriting appears different from previous pages",
+    "'First avenue' likely NYC location reference",
+    "1991 photos predate major wealth accumulation",
+    "Suggestive caption implies intimate relationship"
+  ],
+  "investigative_leads": [
+    "Identify redacted person through body type/clothing/context",
+    "Research 'First avenue' location significance",
+    "Track relationships from 1991 period",
+    "Determine who contributed this page to birthday book",
+    "Investigate why face redacted but not entire photo"
+  ]
+}

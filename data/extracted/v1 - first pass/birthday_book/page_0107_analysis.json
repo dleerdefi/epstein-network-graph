@@ -1,0 +1,145 @@
+{
+  "page_number": 107,
+  "file_path": "data/birthday_book_images/page_0107.png",
+  "file_size_mb": 4.101961135864258,
+  "type": "photo_pool_scene",
+  "content": {
+    "text": "[Handwritten text/signature in bottom left corner]\n[Two people in swimming pool with black redaction boxes]",
+    "handwritten": true,
+    "typed": false,
+    "mixed": false,
+    "description": "Swimming pool photo with two people and handwritten signature",
+    "text_sections": {
+      "full_transcription": "[Handwritten text/signature visible but not clearly legible in bottom left]",
+      "letterhead": "",
+      "main_body": "",
+      "captions": [],
+      "margins": [],
+      "annotations": [],
+      "handwritten_portions": []
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Two individuals in swimming pool",
+        "title": null,
+        "relationship": null,
+        "context": null,
+        "confidence": "high",
+        "page_appearances": [
+          107
+        ]
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      "Swimming pool"
+    ],
+    "dates": [],
+    "emails": [],
+    "phones": [],
+    "coded_references": [],
+    "addresses": [],
+    "fax_numbers": [],
+    "websites": [],
+    "social_media": []
+  },
+  "metadata": {
+    "sender": null,
+    "recipient": "Jeffrey Epstein",
+    "date": null,
+    "subject": "Pool leisure activity",
+    "theme": "aquatic_recreation",
+    "significance": "medium",
+    "document_type": "photo_pool_scene"
+  },
+  "insights": [
+    "Intimate pool scene with two individuals",
+    "Clear pool water suggests well-maintained facility",
+    "Redactions indicate privacy protection for individuals",
+    "Signature on photo suggests personal dedication or autograph",
+    "Casual, leisure setting captured",
+    "Photo appears to be from personal collection",
+    "Swimming pool setting indicates access to recreational facilities"
+  ],
+  "document_id": "HOUSE_OVERSIGHT_000107",
+  "processed_at": "2025-09-23 02:19:27",
+  "extraction_version": "2.0",
+  "last_updated": "2025-09-23T04:11:31.173055",
+  "visual_analysis": {
+    "photos": [
+      {
+        "description": "Two people in swimming pool water",
+        "theme": "aquatic_leisure",
+        "setting": "swimming_pool",
+        "elements": [
+          "clear blue water",
+          "pool setting",
+          "two individuals close together"
+        ],
+        "redactions": [
+          "faces redacted with black boxes"
+        ],
+        "individual_count": 2,
+        "position_map": {},
+        "individuals_identified": [],
+        "era_indicators": []
+      }
+    ],
+    "signatures": [
+      {
+        "identified_as": "Handwritten signature visible on photo",
+        "confidence": "medium",
+        "style": null,
+        "characteristics": [],
+        "location": null,
+        "matches_pages": []
+      }
+    ],
+    "logos": [],
+    "redactions": [
+      "Two faces redacted with black boxes"
+    ],
+    "handwritten_notes": [
+      "Signature on photo"
+    ]
+  },
+  "relationships": [],
+  "cross_references": [],
+  "timeline_markers": {
+    "explicit_dates": [],
+    "implicit_dates": [],
+    "era_indicators": [],
+    "age_references": [],
+    "temporal_context": []
+  },
+  "handwriting_analysis": {
+    "samples": [],
+    "characteristics": [],
+    "matches": [],
+    "expert_notes": []
+  },
+  "flags": {
+    "requires_second_review": false,
+    "contains_sensitive_info": false,
+    "legal_implications": false,
+    "extraction_complete": false,
+    "high_priority": false,
+    "quality_score": 0,
+    "review_notes": []
+  },
+  "forensic_notes": [
+    "Single swimming pool photograph",
+    "Two people in clear blue pool water",
+    "Both faces redacted with black boxes",
+    "Handwritten text/signature in bottom left corner",
+    "Crystal clear pool water visible",
+    "Intimate/close positioning of individuals",
+    "Photo appears to be from 1980s-1990s",
+    "High quality color photograph",
+    "Document stamped HOUSE_OVERSIGHT_000107",
+    "Pool setting suggests luxury/private facility"
+  ],
+  "investigative_leads": []
+}

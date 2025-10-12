@@ -1,0 +1,900 @@
+{
+  "page_number": 92,
+  "section": "Various Hotels and Services",
+  "entries": [
+    {
+      "name": "Hasanuma (Japanese)",
+      "category": "Service",
+      "location": "Japan",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "3 (Tel) 5256-6359",
+          "area_code": "3",
+          "geographic_indicator": "Tokyo",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "3811 212 2567",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Japanese Hasanuma service",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Helmsley Palace",
+      "category": "Hotel",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0191 212 888 7000",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Helmsley Palace Hotel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Il Cantinori",
+      "category": "Restaurant",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "32 East 10th (at Broadway)",
+          "street": "32 East 10th Street",
+          "location": "at Broadway",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "notes": "Il Cantinori restaurant - East 10th at Broadway",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Il Tre Merli",
+      "category": "Restaurant",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "Houston Street",
+          "street": "Houston Street",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "West Broadway",
+          "street": "West Broadway",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "631 1000",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Il Tre Merli - Houston Street and West Broadway",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["Phone area code missing"]
+      }
+    },
+    {
+      "name": "Isabelle's",
+      "category": "Restaurant",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "222 Columbus Avenue",
+          "street": "222 Columbus Avenue",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0101 212 724 2100",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Isabelle's - Columbus Avenue",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Jour et Nuit",
+      "category": "Restaurant",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212-925-9971",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Jour et Nuit restaurant",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Karen Pete",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "315 Longfallow Ave.",
+          "street": "315 Longfellow Avenue",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "NYC 314 St. Pete.",
+          "city": "NYC",
+          "confidence": "high"
+        }
+      ],
+      "phones": [],
+      "notes": "Karen Pete - Longfellow Avenue",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Klinger, Georgette",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "480 Madison Ave.",
+          "street": "480 Madison Avenue",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "New York, NY 10021",
+          "city": "New York",
+          "state": "NY",
+          "postal_code": "10021",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 838-3200",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 980-6043 Private",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "additional_info": [
+        "Susan Ask for Rhonda's own"
+      ],
+      "notes": "Georgette Klinger - Madison Avenue",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "La Club",
+      "category": "Club",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "0901 (2) 21",
+          "confidence": "low"
+        }
+      ],
+      "notes": "La Club",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Phone number incomplete"]
+      }
+    },
+    {
+      "name": "Le Comptoir",
+      "category": "Restaurant",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "227 West 10th Street",
+          "street": "227 West 10th Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212-245-4555 (H/GI)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Le Comptoir - West 10th Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Lowell Hotel",
+      "category": "Hotel",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "28 E 63rd Street/Doorist",
+          "street": "28 E 63rd Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 838 2410",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 449 1400",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 838 3410",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Lowell Hotel - East 63rd Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Madison Gourmet",
+      "category": "Business",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 535 3220680",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "212 744 5510 (H)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Madison Gourmet",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Madison Towers",
+      "category": "Building",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "5# E. 38th St.",
+          "street": "5# E. 38th Street",
+          "confidence": "high"
+        },
+        {
+          "type": "secondary",
+          "address": "(Corner of Madison & 38th)",
+          "location": "Corner of Madison & 38th",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 387 7170",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "607 334 9071 H@",
+          "area_code": "607",
+          "geographic_indicator": "Upstate New York",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Madison Towers - East 38th Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Madre, Le",
+      "category": "Restaurant",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "168 West 18th",
+          "street": "168 West 18th Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212-727-8022",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0FF - 19? #",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Le Madre - West 18th Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One number unclear"]
+      }
+    },
+    {
+      "name": "Mark Hotel",
+      "category": "Hotel",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "Shop Asa 914",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "212 744-4300",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Mark Hotel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One entry unclear"]
+      }
+    },
+    {
+      "name": "Massage - California",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "310 916 0933 Tommy",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 566 0666 Danelle [illegible]",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "310 566 0681 Danielle Schwartzer",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 930 0000 Lisa Vazarro",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 412 5520 Cheesey (a)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 412 9520 Lisa Vazarro",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 399 2400 Penny (a)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 943 6177 Natalie (a)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        }
+      ],
+      "additional_contacts": [
+        "Tommy",
+        "Danielle Schwartzer",
+        "Lisa Vazarro",
+        "Cheesey",
+        "Penny",
+        "Natalie"
+      ],
+      "notes": "California massage services",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One name partially illegible"]
+      }
+    },
+    {
+      "name": "Additional California Massage",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "310 373 2666 SOMA (Grand H)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 373 7078 Angel & Gigi",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 374 7777 Frankie (h)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 362 7777 Stacey (h)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 362 1099 Nora Pacific",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 930 8599 Amy (h)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 464 1177 Kimberly/Anastasia",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 464 5031 Cindy (Lisa)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        }
+      ],
+      "additional_contacts": [
+        "SOMA",
+        "Angel",
+        "Gigi",
+        "Frankie",
+        "Stacey",
+        "Nora Pacific",
+        "Amy",
+        "Kimberly",
+        "Anastasia",
+        "Cindy"
+      ],
+      "notes": "Additional California massage services",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "More California Services",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "310 350 3017 Ellen CAL",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 285 0744 Lisa Santasia (h)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "0234 91 0230 Philomena Davis",
+          "confidence": "medium"
+        },
+        {
+          "type": "phone",
+          "number": "310 763 6804 Adrienne (d)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 763 6816 Palmency (d)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        }
+      ],
+      "notes": "More California services",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One international number format unclear"]
+      }
+    },
+    {
+      "name": "310 160 3405 Tanya (Pernilla's)",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "310 160 3405 Tanya (Pernilla's)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Tanya at Pernilla's",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Additional Services",
+      "category": "Service",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "310 559 6199 Charlotte (h)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 206 8647 Gloria (h)",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 208 5544 Michelle Grasman",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "310 559 8444 Susan Thomas",
+          "area_code": "310",
+          "geographic_indicator": "Los Angeles",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Additional services",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Mayfair Regent",
+      "category": "Hotel",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "610 Park Ave.",
+          "street": "610 Park Avenue",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212 288 0800",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 535 0200",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Mayfair Regent Hotel - Park Avenue",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "McMullen, Patrick",
+      "category": "Personal",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "124 Prince Street (Buff)",
+          "street": "124 Prince Street",
+          "location": "Buff",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 925 0856",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Patrick McMullen - Prince Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Mercer Kitchen",
+      "category": "Restaurant",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "001 212",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "001 212 966 5454 (H)",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Mercer Kitchen restaurant",
+      "data_quality": {
+        "confidence": "high",
+        "issues": ["One phone incomplete"]
+      }
+    },
+    {
+      "name": "Morgan Hotel",
+      "category": "Hotel",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "212 686 0300",
+          "confidence": "low"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 686 0300",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Morgan Hotel",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Mr Chow",
+      "category": "Restaurant",
+      "location": "USA",
+      "addresses": [
+        {
+          "type": "primary",
+          "address": "324 E. 57th",
+          "street": "324 E. 57th Street",
+          "confidence": "high"
+        }
+      ],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "212 751 9030",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Mr Chow restaurant - East 57th Street",
+      "data_quality": {
+        "confidence": "high",
+        "issues": []
+      }
+    },
+    {
+      "name": "Additional Entries",
+      "category": "Various",
+      "location": "USA",
+      "addresses": [],
+      "phones": [
+        {
+          "type": "phone",
+          "number": "370",
+          "confidence": "low"
+        },
+        {
+          "type": "phone",
+          "number": "212 877 6823",
+          "area_code": "212",
+          "geographic_indicator": "Manhattan",
+          "confidence": "high"
+        },
+        {
+          "type": "phone",
+          "number": "Relationships",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Various additional entries",
+      "data_quality": {
+        "confidence": "low",
+        "issues": ["Entries incomplete"]
+      }
+    }
+  ],
+  "metadata": {
+    "total_entries": 26,
+    "illegible_entries": 0,
+    "partial_entries": 4,
+    "sections": ["Hotels", "Restaurants", "Services", "California Massage Services"],
+    "notable_entries": [
+      "Extensive California massage services network",
+      "Multiple NYC hotels (Helmsley Palace, Lowell, Mark, Mayfair Regent)",
+      "Various NYC restaurants",
+      "Georgette Klinger - Madison Avenue",
+      "International services including Japan"
+    ],
+    "geographic_distribution": {
+      "usa": 25,
+      "nyc": 15,
+      "california": 10,
+      "japan": 1
+    },
+    "location_highlights": [
+      "Multiple luxury NYC hotels",
+      "Extensive California massage services network",
+      "Madison Avenue locations",
+      "Columbus Avenue restaurants",
+      "International connections to Japan"
+    ],
+    "data_quality_summary": {
+      "high_confidence": 21,
+      "medium_confidence": 3,
+      "low_confidence": 2,
+      "specific_issues": [
+        "Some phone numbers incomplete",
+        "One massage contact name partially illegible",
+        "Several partial entries"
+      ]
+    }
+  }
+}

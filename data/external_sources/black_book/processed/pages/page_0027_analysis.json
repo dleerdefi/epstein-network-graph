@@ -1,0 +1,1221 @@
+{
+  "page_number": 27,
+  "alphabetical_section": "B/H/K",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "027_hoffman_jessica",
+      "name": {
+        "full_name": "Hoffman, Jessica",
+        "prefix": null,
+        "first_name": "Jessica",
+        "middle_name": null,
+        "last_name": "Hoffman",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 410 798-8590",
+          "formatting": "001 410 798-8590 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "165 Fiddlers Hill Road, Maryland"
+          ],
+          "city": "Edgewater",
+          "state": null,
+          "postal_code": "21037",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "027_holland-martin_ben",
+      "name": {
+        "full_name": "Holland-Martin, Ben",
+        "prefix": null,
+        "first_name": "Ben",
+        "middle_name": null,
+        "last_name": "Holland-Martin",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-351 3631",
+          "formatting": "0207-351 3631 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Radnor Walk"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW3",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "027_hollond_bea_&_james",
+      "name": {
+        "full_name": "Hollond, Bea",
+        "prefix": null,
+        "first_name": "Bea & James",
+        "middle_name": null,
+        "last_name": "Hollond",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "James"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-584 4466",
+          "formatting": "0207-584 4466 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "07802 757520",
+          "formatting": "07802 757520"
+        }
+      ],
+      "emails": [
+        {
+          "address": "b@hollond.com|james|holland.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "45 Rulland Gate"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW7 1PB",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "European Financial Products Ltd"
+    },
+    {
+      "entry_id": "027_hollond_bea_&_james",
+      "name": {
+        "full_name": "Hollond, Bea",
+        "prefix": null,
+        "first_name": "Bea & James",
+        "middle_name": null,
+        "last_name": "Hollond",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "James"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "07802 757 520 (car)",
+          "formatting": "07802 757 520 (car)"
+        },
+        {
+          "type": "unknown",
+          "number": "077860 66671 (other)",
+          "formatting": "077860 66671 (other)"
+        },
+        {
+          "type": "unknown",
+          "number": "0207 201 9258 (wf)",
+          "formatting": "0207 201 9258 (wf) (UK London)"
+        },
+        {
+          "type": "work",
+          "number": "0207 439 9061",
+          "formatting": "0207 439 9061 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Donhead Lodge, DonHead St. Andrew, Shaftesbury"
+          ],
+          "city": "Dorest",
+          "state": null,
+          "postal_code": "SP7 9EB",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "European Financial Products Ltd"
+    },
+    {
+      "entry_id": "027_horne_adam_&_tierney",
+      "name": {
+        "full_name": "Horne Adam",
+        "prefix": null,
+        "first_name": "Adam & Tierney",
+        "middle_name": null,
+        "last_name": "Horne",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Tierney"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-730 4068",
+          "formatting": "0207-730 4068 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "7768258126",
+          "formatting": "7768258126"
+        }
+      ],
+      "emails": [
+        {
+          "address": "adam@caledonpartners.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "14 Eaton Terrace"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW1 W8EZ",
+          "country": "UK",
+          "notes": "Eaton Square/Place elite"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "027_horne_adam_&_tierney",
+      "name": {
+        "full_name": "Horne Adam",
+        "prefix": null,
+        "first_name": "Adam & Tierney",
+        "middle_name": null,
+        "last_name": "Horne",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Tierney"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207 758 2871",
+          "formatting": "0207 758 2871 (UK London)"
+        },
+        {
+          "type": "work",
+          "number": "0207 758 2876",
+          "formatting": "0207 758 2876 (UK London)"
+        },
+        {
+          "type": "work",
+          "number": "0207 758 2871 (wf)",
+          "formatting": "0207 758 2871 (wf) (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Broadmoore Farmhouse, Near Sherbourne and Calpton on the hill"
+          ],
+          "city": "Bourton on the Water",
+          "state": null,
+          "postal_code": "6L54 2LQ",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "027_bastiani_ivana",
+      "name": {
+        "full_name": "Horne Adam",
+        "prefix": null,
+        "first_name": "Ivana",
+        "middle_name": null,
+        "last_name": "Bastiani",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Tierney (assistant)",
+        "formatting_notes": "Nickname: assistant"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "1451820403",
+          "formatting": "1451820403"
+        },
+        {
+          "type": "work",
+          "number": "0207 758 2876",
+          "formatting": "0207 758 2876 (UK London)"
+        },
+        {
+          "type": "work",
+          "number": "0207 758 2871 (wf)",
+          "formatting": "0207 758 2871 (wf) (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Broadmoore Farmhouse, Near Sherbourne and Calpton on the hill"
+          ],
+          "city": "Bourton on the Water",
+          "state": null,
+          "postal_code": "6L54 2LQ",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "027_hovenian_nina",
+      "name": {
+        "full_name": "Hovenian, Nina",
+        "prefix": null,
+        "first_name": "Nina",
+        "middle_name": null,
+        "last_name": "Hovenian",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 996 1687",
+          "formatting": "001 212 996 1687 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "027_hovnanian_shaunt",
+      "name": {
+        "full_name": "Hovnanian, Shaunt",
+        "prefix": null,
+        "first_name": "Shaunt",
+        "middle_name": null,
+        "last_name": "Hovnanian",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "908-462-8200",
+          "formatting": "908-462-8200"
+        },
+        {
+          "type": "unknown",
+          "number": "908-462-2789",
+          "formatting": "908-462-2789"
+        },
+        {
+          "type": "unknown",
+          "number": "908-530-8511 (Sally)",
+          "formatting": "908-530-8511 (Sally)"
+        },
+        {
+          "type": "portable",
+          "number": "917-763-6444 (MB)",
+          "formatting": "917-763-6444 (MB) (NYC mobile)"
+        },
+        {
+          "type": "unknown",
+          "number": "212-996-1687 (Nina)",
+          "formatting": "212-996-1687 (Nina)"
+        },
+        {
+          "type": "home",
+          "number": "908-741-0076 (Vahkn the dad)",
+          "formatting": "908-741-0076 (Vahkn the dad)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "520 Naversink River Road"
+          ],
+          "city": "Red Bank",
+          "state": null,
+          "postal_code": "NJ 07701",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Hovanian Group"
+    },
+    {
+      "entry_id": "027_hovnanian_shaunt",
+      "name": {
+        "full_name": "Hovnanian, Shaunt",
+        "prefix": null,
+        "first_name": "Shaunt",
+        "middle_name": null,
+        "last_name": "Hovnanian",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "908-462-8200",
+          "formatting": "908-462-8200"
+        },
+        {
+          "type": "unknown",
+          "number": "908-462-2789",
+          "formatting": "908-462-2789"
+        },
+        {
+          "type": "unknown",
+          "number": "908-530-8511 (Sally)",
+          "formatting": "908-530-8511 (Sally)"
+        },
+        {
+          "type": "portable",
+          "number": "917-763-6444 (MB)",
+          "formatting": "917-763-6444 (MB) (NYC mobile)"
+        },
+        {
+          "type": "unknown",
+          "number": "212-996-1687 (Nina)",
+          "formatting": "212-996-1687 (Nina)"
+        },
+        {
+          "type": "home",
+          "number": "908-741-0076 (Vahkn the dad)",
+          "formatting": "908-741-0076 (Vahkn the dad)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "Ste 12 Dag Hammarsk,old Blvd"
+          ],
+          "city": "Freehold",
+          "state": null,
+          "postal_code": "NJ 07728",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Hovanian Group"
+    },
+    {
+      "entry_id": "027_kaplan_howard_j.",
+      "name": {
+        "full_name": "Howard J. Kaplan",
+        "prefix": null,
+        "first_name": "Howard J.",
+        "middle_name": null,
+        "last_name": "Kaplan",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "(305) 539-5115",
+          "formatting": "(305) 539-5115"
+        },
+        {
+          "type": "home",
+          "number": "305 466 0677",
+          "formatting": "305 466 0677"
+        }
+      ],
+      "emails": [
+        {
+          "address": "hk@kaplangroup.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "1717 N. bayshore Drive, Suite 2000"
+          ],
+          "city": "Miami",
+          "state": null,
+          "postal_code": "FL 33132",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "027_kaplan_howard_j.",
+      "name": {
+        "full_name": "Howard J. Kaplan",
+        "prefix": null,
+        "first_name": "Howard J.",
+        "middle_name": null,
+        "last_name": "Kaplan",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "305 466 9954 (hf)",
+          "formatting": "305 466 9954 (hf)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "20023 NE 9 Place"
+          ],
+          "city": "North Miami Beach",
+          "state": null,
+          "postal_code": "FL 33179",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "027_howegego_lucy",
+      "name": {
+        "full_name": "Howegego Lucy (Johnson)",
+        "prefix": null,
+        "first_name": "Lucy",
+        "middle_name": null,
+        "last_name": "Howegego",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null,
+        "formatting_notes": "Nickname: Johnson"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-903 5310",
+          "formatting": "0207-903 5310 (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "0207-242 3136",
+          "formatting": "0207-242 3136 (UK London)"
+        },
+        {
+          "type": "portable",
+          "number": "0410 841808",
+          "formatting": "0410 841808"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "027_hsu_peter",
+      "name": {
+        "full_name": "Hsu, Peter",
+        "prefix": null,
+        "first_name": "Peter",
+        "middle_name": null,
+        "last_name": "Hsu",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "001 212 734 6007",
+          "formatting": "001 212 734 6007 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "medium",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "027_hunt_laura",
+      "name": {
+        "full_name": "Hunt, Laura",
+        "prefix": null,
+        "first_name": "Laura",
+        "middle_name": null,
+        "last_name": "Hunt",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 212 355 3822",
+          "formatting": "001 212 355 3822 (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 212 644 1991",
+          "formatting": "001 212 644 1991 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "001 917 969 9442",
+          "formatting": "001 917 969 9442 (International)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "LBHunt@aol.com",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "1 E. 62nd, Apt 3C"
+          ],
+          "city": null,
+          "state": null,
+          "postal_code": "10021",
+          "country": null,
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "027_hunt_laura",
+      "name": {
+        "full_name": "Hunt, Laura",
+        "prefix": null,
+        "first_name": "Laura",
+        "middle_name": null,
+        "last_name": "Hunt",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "001 970 925 2300 (Aspen)",
+          "formatting": "001 970 925 2300 (Aspen) (International)"
+        },
+        {
+          "type": "home",
+          "number": "001 214 526 4404",
+          "formatting": "001 214 526 4404 (International)"
+        },
+        {
+          "type": "portable",
+          "number": "214 876 6150",
+          "formatting": "214 876 6150"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "3525 Turtle Creek Blvd., Apt 12B"
+          ],
+          "city": "Dallas",
+          "state": null,
+          "postal_code": "TX 75219",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "027_hunter_gordon,_kit_&_georgina",
+      "name": {
+        "full_name": "Hunter Gordon, Kit",
+        "prefix": null,
+        "first_name": "Gordon, Kit & Georgina",
+        "middle_name": null,
+        "last_name": "Hunter",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Georgina"
+      },
+      "phones": [
+        {
+          "type": "home",
+          "number": "0207-229 7566",
+          "formatting": "0207-229 7566 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "31 Alexander Street"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W2",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "027_hunter_carlyn_&_laurie",
+      "name": {
+        "full_name": "Hunter, Carlyn",
+        "prefix": null,
+        "first_name": "Carlyn & Laurie",
+        "middle_name": null,
+        "last_name": "Hunter",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Laurie"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0207-376 7652",
+          "formatting": "0207-376 7652 (UK London)"
+        },
+        {
+          "type": "unknown",
+          "number": "001 307 733 7149",
+          "formatting": "001 307 733 7149 (International)"
+        },
+        {
+          "type": "home",
+          "number": "0207-584 4168",
+          "formatting": "0207-584 4168 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "9 Mailard St."
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW3 6DT",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "027_huntsman_jon",
+      "name": {
+        "full_name": "Huntsman, Jon",
+        "prefix": null,
+        "first_name": "Jon",
+        "middle_name": null,
+        "last_name": "Huntsman",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 801 364 0998",
+          "formatting": "001 801 364 0998 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "1369 Military Way, Utah"
+          ],
+          "city": "Salt Lake City",
+          "state": null,
+          "postal_code": "84103",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "027_kaye_mary",
+      "name": {
+        "full_name": "Mary Kaye",
+        "prefix": null,
+        "first_name": "Mary",
+        "middle_name": null,
+        "last_name": "Kaye",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "001 801 364 0998",
+          "formatting": "001 801 364 0998 (International)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "1369 Military Way, Utah"
+          ],
+          "city": "Salt Lake City",
+          "state": null,
+          "postal_code": "84103",
+          "country": "US",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": ""
+    },
+    {
+      "entry_id": "027_hurd_nick_&_kim",
+      "name": {
+        "full_name": "Hurd, Nick",
+        "prefix": null,
+        "first_name": "Nick & Kim",
+        "middle_name": null,
+        "last_name": "Hurd",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Kim"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0781 804 8464",
+          "formatting": "0781 804 8464"
+        },
+        {
+          "type": "home",
+          "number": "0207 792 5354",
+          "formatting": "0207 792 5354 (UK London)"
+        }
+      ],
+      "emails": [
+        {
+          "address": "nhurd@nhurd.homechoice.co",
+          "type": "personal",
+          "notes": ""
+        }
+      ],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "Three Mile Cross, Berkshire"
+          ],
+          "city": "Reading",
+          "state": null,
+          "postal_code": null,
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Hartley Court"
+    },
+    {
+      "entry_id": "027_hurd_nick_&_kim",
+      "name": {
+        "full_name": "Hurd, Nick",
+        "prefix": null,
+        "first_name": "Nick & Kim",
+        "middle_name": null,
+        "last_name": "Hurd",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Kim"
+      },
+      "phones": [
+        {
+          "type": "unknown",
+          "number": "0993 841828 (rip)",
+          "formatting": "0993 841828 (rip)"
+        },
+        {
+          "type": "work",
+          "number": "0208-995 3031",
+          "formatting": "0208-995 3031 (UK London)"
+        },
+        {
+          "type": "home",
+          "number": "0207-792 5354",
+          "formatting": "0207-792 5354 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": [
+            "24 Chepstow Place"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "W24TA",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Hartley Court"
+    },
+    {
+      "entry_id": "027_hurley_liz",
+      "name": {
+        "full_name": "Hurley, Liz",
+        "prefix": null,
+        "first_name": "Liz",
+        "middle_name": null,
+        "last_name": "Hurley",
+        "suffix": null,
+        "couple": false,
+        "partner_name": null
+      },
+      "phones": [
+        {
+          "type": "work",
+          "number": "0207-589 6822",
+          "formatting": "0207-589 6822 (UK London)"
+        }
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "unknown",
+          "address_lines": [
+            "3 Cromwell Place"
+          ],
+          "city": "London",
+          "state": null,
+          "postal_code": "SW7 2JE",
+          "country": "UK",
+          "notes": ""
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "medium",
+        "addresses": "high",
+        "overall_legibility": "excellent"
+      },
+      "formatting_notes": "Simian Films"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 23,
+    "entries_with_emails": 5,
+    "entries_with_addresses": 20,
+    "entries_with_handwritten_notes": 0,
+    "couples": 9,
+    "average_confidence": "high",
+    "notable_figures_count": 0
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "Hoffman, Jessica",
+      "Holland-Martin, Ben",
+      "Hollond, Bea",
+      "James",
+      "Hollond, Bea",
+      "James",
+      "Horne Adam",
+      "Tierney",
+      "Horne Adam",
+      "Tierney",
+      "Horne Adam",
+      "Tierney (assistant)",
+      "Hovenian, Nina",
+      "Hovnanian, Shaunt",
+      "Hovnanian, Shaunt",
+      "Howard J. Kaplan",
+      "Howard J. Kaplan",
+      "Howegego Lucy (Johnson)",
+      "Hsu, Peter",
+      "Hunt, Laura",
+      "Hunt, Laura",
+      "Hunter Gordon, Kit",
+      "Georgina",
+      "Hunter, Carlyn",
+      "Laurie",
+      "Huntsman, Jon",
+      "Mary Kaye",
+      "Hurd, Nick",
+      "Kim",
+      "Hurd, Nick",
+      "Kim",
+      "Hurley, Liz"
+    ],
+    "organizations": [
+      "European Financial Products Ltd",
+      "European Financial Products Ltd"
+    ],
+    "locations": {
+      "international": [
+        "UK"
+      ],
+      "us_cities": [
+        "London",
+        "Edgewater",
+        "Dorest",
+        "Bourton on the Water",
+        "Reading",
+        "North Miami Beach",
+        "Salt Lake City",
+        "Red Bank",
+        "Dallas",
+        "Miami",
+        "Freehold"
+      ],
+      "elite_addresses": [
+        "14 Eaton Terrace"
+      ]
+    }
+  },
+  "insights": [
+    "Geographic cluster: London (7 entries)"
+  ]
+}

@@ -1,0 +1,725 @@
+{
+  "page_number": 21,
+  "alphabetical_section": "F-G",
+  "page_header": null,
+  "contacts": [
+    {
+      "entry_id": "021_frost_david_carina",
+      "name": {
+        "full_name": "Frost, Mr David & Lady Carina",
+        "prefix": "Mr",
+        "first_name": "David",
+        "middle_name": null,
+        "last_name": "Frost",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Lady Carina"
+      },
+      "phones": [
+        {"type": "home", "number": "0207-351 3036 (h)", "formatting": "UK format"},
+        {"type": "home", "number": "0207-241 0317 (h)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["22 Carlyle Square", "London SW3 6EY"],
+          "city": "London",
+          "postal_code": "SW3 6EY",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Sir David Frost - broadcaster"
+    },
+    {
+      "entry_id": "021_frostrup_mariella",
+      "name": {
+        "full_name": "Frostrup, Mariella",
+        "prefix": null,
+        "first_name": "Mariella",
+        "middle_name": null,
+        "last_name": "Frostrup",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "07970 727 272", "formatting": "UK mobile"},
+        {"type": "home", "number": "0207-792 2976", "formatting": "UK format"}
+      ],
+      "emails": [
+        {"type": "personal", "email": "mariella@brazanhusky.com"}
+      ],
+      "addresses": [],
+      "handwritten_notes": ["Email: mariella@brazanhusky.com"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high"
+      },
+      "formatting_notes": "Media personality"
+    },
+    {
+      "entry_id": "021_fry_cosmo_amanda",
+      "name": {
+        "full_name": "Fry, Cosmo & Amanda",
+        "prefix": null,
+        "first_name": "Cosmo",
+        "middle_name": null,
+        "last_name": "Fry",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Amanda"
+      },
+      "phones": [
+        {"type": "home", "number": "020-7373 5435(h)0", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["29 Sinhope Gdns", "London, SW5"],
+          "city": "London",
+          "postal_code": "SW5",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "UK couple"
+    },
+    {
+      "entry_id": "021_fulhurst_teresa",
+      "name": {
+        "full_name": "Fulhurst Teresa",
+        "prefix": null,
+        "first_name": "Teresa",
+        "middle_name": null,
+        "last_name": "Fulhurst",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "mobile", "number": "001 917 705 7230", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "US mobile contact"
+    },
+    {
+      "entry_id": "021_furstenberg_heinrich_milana",
+      "name": {
+        "full_name": "Furstenberg, Helnrich & Milana",
+        "prefix": null,
+        "first_name": "Helnrich",
+        "middle_name": null,
+        "last_name": "Furstenberg",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Milana"
+      },
+      "phones": [
+        {"type": "home", "number": "00 49 771 86308 ( h)", "formatting": "International to Germany"},
+        {"type": "work", "number": "00 49 771 86423 ( w)", "formatting": "International to Germany"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["771 Donaueseschingin", "Rosenberg Germany"],
+          "city": "Donaueschingen",
+          "country": "Germany"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "German nobility - Fürstenberg family"
+    },
+    {
+      "entry_id": "021_furstenbug_alex_alexandra",
+      "name": {
+        "full_name": "Fürstenbug Alex , Alexandra V.",
+        "prefix": null,
+        "first_name": "Alex",
+        "middle_name": null,
+        "last_name": "Fürstenbug",
+        "suffix": null,
+        "couple": true,
+        "partner_name": "Alexandra V."
+      },
+      "phones": [
+        {"type": "home", "number": "001 212 396 4393(h)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Related to Fürstenberg family"
+    },
+    {
+      "entry_id": "021_furstenburg_buravelli_nina",
+      "name": {
+        "full_name": "Furstenburg Buravelli, Nina",
+        "prefix": null,
+        "first_name": "Nina",
+        "middle_name": null,
+        "last_name": "Furstenburg Buravelli",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "00 39 0584671155(p)", "formatting": "International to Italy"},
+        {"type": "home", "number": "00 39 05636311144(h)", "formatting": "International to Italy"}
+      ],
+      "emails": [
+        {"type": "personal", "email": "00 39 0584409077(country)"}
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["via Delle Mantellante 26", "Roma, Italy"],
+          "city": "Rome",
+          "country": "Italy"
+        }
+      ],
+      "handwritten_notes": ["Email: 00 39 0584409077(country)"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Italian contact"
+    },
+    {
+      "entry_id": "021_fyson_edwina",
+      "name": {
+        "full_name": "Fyson, Edwina",
+        "prefix": null,
+        "first_name": "Edwina",
+        "middle_name": null,
+        "last_name": "Fyson",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "00 345 661 30 30 (h)", "formatting": "International"},
+        {"type": "work", "number": "00 345 661 30 30 (w)", "formatting": "International"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["13 Ives Street", "London, SW"],
+          "city": "London",
+          "postal_code": "SW",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "London contact"
+    },
+    {
+      "entry_id": "021_gaetani_geiasio",
+      "name": {
+        "full_name": "Gaetani, Geiasio",
+        "prefix": null,
+        "first_name": "Geiasio",
+        "middle_name": null,
+        "last_name": "Gaetani",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "06 678 1781", "formatting": "Italian format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Via Gregoriana", "Roma, Italy"],
+          "city": "Rome",
+          "country": "Italy"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Italian nobility - Gaetani family"
+    },
+    {
+      "entry_id": "021_gaetani_rufreido",
+      "name": {
+        "full_name": "Gaetani, Rufreido",
+        "prefix": null,
+        "first_name": "Rufreido",
+        "middle_name": null,
+        "last_name": "Gaetani",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "mobile", "number": "001 212 371 4136", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Gaetani family member"
+    },
+    {
+      "entry_id": "021_gallman_kuki",
+      "name": {
+        "full_name": "Gallman, Kuki",
+        "prefix": null,
+        "first_name": "Kuki",
+        "middle_name": null,
+        "last_name": "Gallman",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "00 25 4 2620048 ( h)", "formatting": "International to Kenya"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Box 16593", "Gigiri Road", "Nairobi", "Kenya"],
+          "city": "Nairobi",
+          "country": "Kenya"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Kenya-based conservationist/author"
+    },
+    {
+      "entry_id": "021_ganero_mario_jr",
+      "name": {
+        "full_name": "Ganero, Mario Jr.",
+        "prefix": null,
+        "first_name": "Mario",
+        "middle_name": null,
+        "last_name": "Ganero",
+        "suffix": "Jr."
+      },
+      "phones": [
+        {"type": "pager", "number": "55 11 9970 1020 (p)", "formatting": "International to Brazil"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "Brazil contact"
+    },
+    {
+      "entry_id": "021_001_646_251_2211",
+      "name": {
+        "full_name": null,
+        "prefix": null,
+        "first_name": null,
+        "middle_name": null,
+        "last_name": null,
+        "suffix": null
+      },
+      "phones": [
+        {"type": "unknown", "number": "001 646 251 2211", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "low",
+        "phones": "high"
+      },
+      "formatting_notes": "Orphan number - may be continuation"
+    },
+    {
+      "entry_id": "021_ganoza_esteban_juan",
+      "name": {
+        "full_name": "Ganoza, Esteban Juan",
+        "prefix": null,
+        "first_name": "Esteban Juan",
+        "middle_name": null,
+        "last_name": "Ganoza",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "+51 1 264 4276 (hf)", "formatting": "International to Peru"},
+        {"type": "mobile", "number": "+51 735 2000 (p)", "formatting": "International to Peru"}
+      ],
+      "emails": [
+        {"type": "business", "email": "jganoza@terra.com.pe"}
+      ],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Avenida El Rosario 450", "San Isidro, Lima 27 Peru", "+511 442 9734 (h)"],
+          "city": "Lima",
+          "country": "Peru"
+        },
+        {
+          "type": "business",
+          "address_lines": ["Hacienda Chiclín (w)", "Trujillo, Peru"],
+          "city": "Trujillo",
+          "country": "Peru"
+        }
+      ],
+      "handwritten_notes": ["Email: jganoza@terra.com.pe", "Hacienda Chiclín (w)"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Peruvian business/landowner"
+    },
+    {
+      "entry_id": "021_garcia_ludmila",
+      "name": {
+        "full_name": "Garcia, Ludmila",
+        "prefix": null,
+        "first_name": "Ludmila",
+        "middle_name": null,
+        "last_name": "Garcia",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "00 34 1420 0211 (h)", "formatting": "International to Spain"},
+        {"type": "home", "number": "00 34 1420 6290 (h)", "formatting": "International to Spain"},
+        {"type": "work", "number": "00 34 1386 5813 (w)", "formatting": "International to Spain"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Los Jeronicos Apt 4-22", "Calle de Moreto 9", "28014 Madrid Spain"],
+          "city": "Madrid",
+          "postal_code": "28014",
+          "country": "Spain"
+        },
+        {
+          "type": "business",
+          "address_lines": ["& Villa las Libres", "Camino Real", "Marbella Spain"],
+          "city": "Marbella",
+          "country": "Spain"
+        }
+      ],
+      "handwritten_notes": ["00 34 52 774594 ( h)"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Spanish contact with Madrid and Marbella addresses"
+    },
+    {
+      "entry_id": "021_garson_jeremy",
+      "name": {
+        "full_name": "Garson Jeremy",
+        "prefix": null,
+        "first_name": "Jeremy",
+        "middle_name": null,
+        "last_name": "Garson",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207-771 3264", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "UK contact"
+    },
+    {
+      "entry_id": "021_gaspar_nacho",
+      "name": {
+        "full_name": "Gaspar, Nacho",
+        "prefix": null,
+        "first_name": "Nacho",
+        "middle_name": null,
+        "last_name": "Gaspar",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "00 34 1 5630325 ( h)", "formatting": "International to Spain"},
+        {"type": "work", "number": "00 34 1 5645030 ( w)", "formatting": "International to Spain"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["43 Camino del Sur", "La Moraleja", "Madrid Spain 28409"],
+          "city": "Madrid",
+          "postal_code": "28409",
+          "country": "Spain"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Madrid contact - La Moraleja upscale area"
+    },
+    {
+      "entry_id": "021_gaul_harriett",
+      "name": {
+        "full_name": "Gaul, Harriett",
+        "prefix": null,
+        "first_name": "Harriett",
+        "middle_name": null,
+        "last_name": "Gaul",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0208-878 0111(h)", "formatting": "UK format"},
+        {"type": "home", "number": "0208-382 917 1(f)", "formatting": "UK format"},
+        {"type": "home", "number": "0208-876 0111", "formatting": "UK format"},
+        {"type": "work", "number": "0207—499 9080(w)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["Percy Lodge", "11 Elwoa Church Rd", "London SW14 7AB"],
+          "city": "London",
+          "postal_code": "SW14 7AB",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": ["001 212 829 2331 (friend in NY)", "001 212 341 8341 (when in NY)", "+31 44 2454 02/01 (w)"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "Multiple international contacts"
+    },
+    {
+      "entry_id": "021_geary_tim",
+      "name": {
+        "full_name": "Geary Tim",
+        "prefix": null,
+        "first_name": "Tim",
+        "middle_name": null,
+        "last_name": "Geary",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "mobile", "number": "001 917 566 0551", "formatting": "International to US"}
+      ],
+      "emails": [
+        {"type": "personal", "email": "tim@sohohouseny.com/tim@t"}
+      ],
+      "addresses": [],
+      "handwritten_notes": ["Email: tim@sohohouseny.com/tim@t"],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "emails": "high"
+      },
+      "formatting_notes": "Soho House connection"
+    },
+    {
+      "entry_id": "021_gardner_adam",
+      "name": {
+        "full_name": "Gardner, Adam",
+        "prefix": null,
+        "first_name": "Adam",
+        "middle_name": null,
+        "last_name": "Gardner",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "mobile", "number": "001 212 691 9660", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "US contact"
+    },
+    {
+      "entry_id": "021_garland_michael",
+      "name": {
+        "full_name": "Garland Michael",
+        "prefix": null,
+        "first_name": "Michael",
+        "middle_name": null,
+        "last_name": "Garland",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0777 5787777(p)", "formatting": "UK mobile"},
+        {"type": "home", "number": "0207-235 2729(h)", "formatting": "UK format"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "UK contact"
+    },
+    {
+      "entry_id": "021_gelardin_jack",
+      "name": {
+        "full_name": "Gelardin, Jack",
+        "prefix": null,
+        "first_name": "Jack",
+        "middle_name": null,
+        "last_name": "Gelardin",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "home", "number": "0207- 376 9497(h)", "formatting": "UK format"},
+        {"type": "work", "number": "0207- 409 2324(w)", "formatting": "UK format"},
+        {"type": "home", "number": "0101 212 734 7905 (h)", "formatting": "International to US"}
+      ],
+      "emails": [],
+      "addresses": [
+        {
+          "type": "home",
+          "address_lines": ["24 Mallard St.", "London SW3"],
+          "city": "London",
+          "postal_code": "SW3",
+          "country": "UK"
+        }
+      ],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high",
+        "addresses": "high"
+      },
+      "formatting_notes": "UK and US connections"
+    },
+    {
+      "entry_id": "021_german_ribon_catriona",
+      "name": {
+        "full_name": "German-Ribon Catriona",
+        "prefix": null,
+        "first_name": "Catriona",
+        "middle_name": null,
+        "last_name": "German-Ribon",
+        "suffix": null
+      },
+      "phones": [
+        {"type": "mobile", "number": "0779 965 1673", "formatting": "UK mobile"}
+      ],
+      "emails": [],
+      "addresses": [],
+      "handwritten_notes": [],
+      "confidence": {
+        "name": "high",
+        "phones": "high"
+      },
+      "formatting_notes": "UK mobile contact"
+    }
+  ],
+  "page_metadata": {
+    "total_entries": 23,
+    "legibility": "excellent",
+    "page_condition": "good",
+    "notes": "Notable entries include Sir David Frost (broadcaster), Mariella Frostrup (media personality), Fürstenberg nobility, Gaetani Italian nobility, and multiple international contacts"
+  },
+  "cross_references": [],
+  "entities": {
+    "people": [
+      "David Frost",
+      "Lady Carina Frost",
+      "Mariella Frostrup",
+      "Cosmo Fry",
+      "Amanda Fry",
+      "Teresa Fulhurst",
+      "Helnrich Furstenberg",
+      "Milana Furstenberg",
+      "Alex Fürstenbug",
+      "Alexandra V. Fürstenbug",
+      "Nina Furstenburg Buravelli",
+      "Edwina Fyson",
+      "Geiasio Gaetani",
+      "Rufreido Gaetani",
+      "Kuki Gallman",
+      "Mario Ganero Jr.",
+      "Esteban Juan Ganoza",
+      "Ludmila Garcia",
+      "Jeremy Garson",
+      "Nacho Gaspar",
+      "Harriett Gaul",
+      "Tim Geary",
+      "Adam Gardner",
+      "Michael Garland",
+      "Jack Gelardin",
+      "Catriona German-Ribon"
+    ],
+    "organizations": [
+      "Soho House",
+      "Hacienda Chiclín"
+    ],
+    "locations": [
+      "London, UK",
+      "Germany",
+      "Rome, Italy",
+      "Nairobi, Kenya",
+      "Brazil",
+      "Peru",
+      "Madrid, Spain",
+      "Marbella, Spain"
+    ]
+  },
+  "insights": [
+    "Sir David Frost entry - prominent British broadcaster and interviewer",
+    "Mariella Frostrup - well-known British media personality",
+    "Multiple Fürstenberg family entries - German nobility connections",
+    "Gaetani family members - Italian aristocracy",
+    "Kuki Gallman in Kenya - conservationist and author of 'I Dreamed of Africa'",
+    "Peruvian landowner/business connection (Ganoza with Hacienda Chiclín)",
+    "Strong Spanish presence with Madrid and Marbella contacts",
+    "Soho House connection through Tim Geary",
+    "International scope spanning Europe, Africa, South America",
+    "Mix of nobility, media personalities, and international business figures"
+  ]
+}
