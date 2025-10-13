@@ -9,12 +9,12 @@ Last Updated: October 11, 2025
 | Metric | Birthday Book | Black Book | Flight Logs | Total |
 |--------|--------------|------------|-------------|-------|
 | **Total Pages** | 128 | 95 | 118 | 341 |
-| **V1 Extracted** | 137* | 94 | 118 | 349 |
+| **V1 Extracted** | 128 | 94 | 118 | 349 |
 | **V2 Completed** | 11 | 81 | 8 | 100 |
 | **V2 Remaining** | 117 | 14 | 30** | 161 |
 | **External Data** | ❌ | ✅ | ✅ | - |
 
-\* Birthday Book has 137 extracted pages (includes covers and additional materials)
+\* Birthday Book has 127 extracted pages (includes covers and additional materials)
 \** Flight Logs pages 39-118 covered by external PDF
 
 ## Detailed Progress
@@ -25,7 +25,7 @@ Last Updated: October 11, 2025
 
 #### V1 Extraction (First Pass)
 - **Status**: ✅ Complete
-- **Pages**: 137 pages extracted
+- **Pages**: 128 pages extracted
 - **Method**: Claude multimodal vision on original PNGs
 - **Quality**: Mixed - handwriting challenging, photos need better analysis
 
