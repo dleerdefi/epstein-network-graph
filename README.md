@@ -150,6 +150,39 @@ Claude's vision capabilities provide:
 - Layout understanding
 - Signature analysis
 
+## Methodology: Data Validation and Importance Weighting
+
+To ensure the highest degree of accuracy and to enable objective, data-driven analysis, this project employs a structured methodology for processing the source documents. Our approach is designed to overcome the challenges of inconsistent data quality—particularly nearly or partially illegible handwritten entries—and to create a non-biased system for evaluating the strength and importance of connections within the network.
+
+This methodology is built on two core concepts: **Cross-Document Validation** and a **Composite Importance Score**.
+
+### Cross-Document Validation
+
+To address the challenge of illegible handwritten entries in the flight logs and birthday book, we utilize the different document types as a system of checks and balances. The typed "Black Book," with its extensive and more legible list of names and contact details, serves as a primary reference lexicon.
+
+When a handwritten name is ambiguous, we perform searches against the Black Book's contents to find probable matches. This strategy allows us to decipher and validate entries with a higher degree of confidence than would be possible from analyzing a single document in isolation.
+
+### The Pyramid of Association & Composite Importance Score
+
+While our primary goal is to present data without opinion, we recognize that not all connections are of equal significance. To quantify the relative importance of individuals in a non-biased manner, we use a multi-faceted weighting system that begins with the **Pyramid of Association**. This pyramid provides a baseline weight based on the nature of the document in which a person is found:
+
+**Tier 3 (Foundation): The Black Book - The Extended Network**
+Represents the broadest and least intimate level of connection. Inclusion here is weighted the lowest.
+
+**Tier 2 (Mid-Tier): The Birthday Book - The Social Circle**
+Represents an acknowledged social or professional relationship that requires personal effort. Inclusion here carries a medium weight.
+
+**Tier 1 (Apex): The Flight Logs - The Inner Circle**
+Represents direct, intimate access and trust. Inclusion on a flight log is the strongest indicator of a close relationship and is weighted the highest.
+
+Building upon this pyramid, we calculate a **Composite Importance Score** for each individual. This score is algorithmically generated based on the following quantitative metrics:
+
+- **Presence**: Points are assigned based on which document(s) an individual appears in, according to the Pyramid of Association.
+- **Frequency**: The score is increased based on the frequency of appearances. The total number of flights an individual took is a critical metric that significantly raises their importance score.
+- **Richness**: The quantity of data associated with a contact contributes to their weight. For instance, a Black Book entry with multiple phone numbers, addresses, and an employment title is scored more highly than a name with a single data point.
+
+This multi-faceted weighting system allows the data to speak for itself, enabling a purely quantitative analysis to identify the most central and active individuals within the network, free from subjective interpretation.
+
 ## Data Format
 
 All extracted data is structured JSON with:

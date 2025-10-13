@@ -1,0 +1,971 @@
+{
+  "page_number": 10,
+  "date_header": {
+    "year": 1992,
+    "month": "MAY",
+    "full_text": "1992 MAY",
+    "confidence": "high"
+  },
+  "flights": [
+    {
+      "date": {
+        "original": "20",
+        "parsed": "1992-05-20",
+        "display": "05/20/1992",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "TEB",
+        "from_codes": [
+          "CMH"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "60",
+        "flight_number": "144",
+        "confidence": "high"
+      },
+      "remarks": "REPOSITION TO TEB",
+      "passengers": [],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "3",
+        "glider": "",
+        "helicopter": "1"
+      }
+    },
+    {
+      "date": {
+        "original": "20",
+        "parsed": "1992-05-20",
+        "display": "05/20/1992",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "JZI",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "JZI"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "V",
+        "flight_number": "145",
+        "confidence": "low"
+      },
+      "remarks": "JEFFREY, GHISLAINE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "6",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "21",
+        "parsed": "1992-05-21",
+        "display": "05/21/1992",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "JZI",
+        "to": "PBI",
+        "from_codes": [
+          "JZI"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "confidence": "medium"
+      },
+      "flight_data": {
+        "miles_flown": "40",
+        "flight_number": "146",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY, GHISLAINE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "",
+        "helicopter": "1"
+      }
+    },
+    {
+      "date": {
+        "original": "25",
+        "parsed": "1992-05-25",
+        "display": "05/25/1992",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "80",
+        "flight_number": "147",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY, GHISLAINE, 1 MALE, 1 MALE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "1 Male",
+          "code": null,
+          "type": "unidentified",
+          "gender": "male",
+          "confidence": "high"
+        },
+        {
+          "name": "1 Male",
+          "code": null,
+          "type": "unidentified",
+          "gender": "male",
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "2",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "4",
+        "glider": "",
+        "helicopter": "2"
+      }
+    },
+    {
+      "date": {
+        "original": "29",
+        "parsed": "1992-05-29",
+        "display": "05/29/1992",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "PBI",
+        "from_codes": [
+          "CMH"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "45",
+        "flight_number": "148",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY, GHISLAINE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "2",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "4",
+        "glider": "",
+        "helicopter": "2"
+      }
+    },
+    {
+      "date": {
+        "original": "31",
+        "parsed": "1992-05-31",
+        "display": "05/31/1992",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "LGA",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "LGA"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "85",
+        "flight_number": "157",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY, GHISLAINE, 1 MALE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "1 Male",
+          "code": null,
+          "type": "unidentified",
+          "gender": "male",
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "2",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "9",
+        "glider": "",
+        "helicopter": "2"
+      }
+    },
+    {
+      "date": {
+        "original": "JUNE 1",
+        "parsed": "1992-06-01",
+        "display": "06/01/1992",
+        "confidence": "medium",
+        "notes": "Month change to June"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LGA",
+        "to": "CMH",
+        "from_codes": [
+          "LGA"
+        ],
+        "to_codes": [
+          "CMH"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "37",
+        "flight_number": "151",
+        "confidence": "high"
+      },
+      "remarks": "REPOSITION TO CMH",
+      "passengers": [],
+      "landings": {
+        "count": "9",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "0",
+        "glider": "",
+        "helicopter": "1"
+      }
+    },
+    {
+      "date": {
+        "original": "14",
+        "parsed": "1992-06-14",
+        "display": "06/14/1992",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "ACK",
+        "from_codes": [
+          "CMH"
+        ],
+        "to_codes": [
+          "ACK"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "85",
+        "flight_number": "152",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY, GHISLAINE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "3",
+        "glider": "",
+        "helicopter": "1"
+      }
+    },
+    {
+      "date": {
+        "original": "18",
+        "parsed": "1992-06-18",
+        "display": "06/18/1992",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "PBI",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "84",
+        "flight_number": "153",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY, GHISLAINE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "2",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "4",
+        "glider": "",
+        "helicopter": "2"
+      }
+    },
+    {
+      "date": {
+        "original": "21",
+        "parsed": "1992-06-21",
+        "display": "06/21/1992",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "10",
+        "flight_number": "154",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY, GHISLAINE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "2",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "6",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "21",
+        "parsed": "1992-06-21",
+        "display": "06/21/1992",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "CMH",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "CMH"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "V",
+        "flight_number": "155",
+        "confidence": "low"
+      },
+      "remarks": "REPOSITION TO CMH",
+      "passengers": [],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "3",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "27",
+        "parsed": "1992-06-27",
+        "display": "06/27/1992",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "BMI",
+        "from_codes": [
+          "CMH"
+        ],
+        "to_codes": [
+          "BMI"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "145",
+        "flight_number": "156",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY, GHISLAINE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "2",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "",
+        "helicopter": "2"
+      }
+    },
+    {
+      "date": {
+        "original": "27",
+        "parsed": "1992-06-27",
+        "display": "06/27/1992",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "BMI",
+        "to": "ACK",
+        "from_codes": [
+          "BMI"
+        ],
+        "to_codes": [
+          "ACK"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "V",
+        "flight_number": "157",
+        "confidence": "low"
+      },
+      "remarks": "JEFFREY, GHISLAINE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "",
+        "confidence": "low"
+      },
+      "aircraft_category": {
+        "airplane": "8",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "27",
+        "parsed": "1992-06-27",
+        "display": "06/27/1992",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ACK",
+        "to": "TEB",
+        "from_codes": [
+          "ACK"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "80",
+        "flight_number": "158",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY, GHISLAINE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "3",
+        "glider": "",
+        "helicopter": "1"
+      }
+    },
+    {
+      "date": {
+        "original": "2",
+        "parsed": "1992-07-02",
+        "display": "07/02/1992",
+        "confidence": "medium"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "SAF",
+        "from_codes": [
+          "CMH"
+        ],
+        "to_codes": [
+          "SAF"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "100",
+        "flight_number": "160",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY, GHISLAINE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "2",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "7",
+        "glider": "",
+        "helicopter": "3"
+      }
+    },
+    {
+      "date": {
+        "original": "4",
+        "parsed": "1992-07-04",
+        "display": "07/04/1992",
+        "confidence": "medium"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SAF",
+        "to": "ASF",
+        "from_codes": [
+          "SAF"
+        ],
+        "to_codes": [
+          "ASF"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "49",
+        "flight_number": "161",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY, GHISLAINE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "7",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "5",
+        "parsed": "1992-07-05",
+        "display": "07/05/1992",
+        "confidence": "medium"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ASE",
+        "to": "GRI",
+        "from_codes": [
+          "ASE"
+        ],
+        "to_codes": [
+          "GRI"
+        ],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "40",
+        "flight_number": "162",
+        "confidence": "high"
+      },
+      "remarks": "GHISLAINE, ABAGAIL KOPPEL, STEVE TUCKERMAN, JUDY TUCKERMAN",
+      "passengers": [
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Abagail Koppel",
+          "code": "AK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Steve Tuckerman",
+          "code": "ST",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Judy Tuckerman",
+          "code": "JT",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "",
+        "helicopter": ""
+      }
+    }
+  ],
+  "page_totals": {
+    "page_total": {
+      "value": "81",
+      "confidence": "medium"
+    },
+    "amount_forward": {
+      "value": "5586",
+      "confidence": "medium"
+    },
+    "total_to_date": {
+      "value": "5818",
+      "confidence": "medium"
+    },
+    "validation": {
+      "math_check": "uncertain",
+      "continuity_check": "pass",
+      "notes": "Continues from page 9 totals. 81 + 5586 should = 5667, not 5818. Possible misread."
+    }
+  },
+  "pilot_signature": {
+    "present": true,
+    "legible": false
+  },
+  "page_metadata": {
+    "total_flights": 17,
+    "date_range": {
+      "start": "1992-05-20",
+      "end": "1992-07-05"
+    },
+    "aircraft_used": [
+      "HS125-700 (N108JE)"
+    ],
+    "notable_passengers": [
+      "Jeffrey",
+      "Ghislaine Maxwell"
+    ],
+    "extraction_quality": "good",
+    "handwriting_legibility": "fair",
+    "notes": "Month transition May \u2192 June visible"
+  },
+  "validation": {
+    "date_progression": "valid",
+    "no_time_travel": true,
+    "sequential_dates": true,
+    "totals_accurate": false,
+    "previous_page_continuity": true
+  }
+}
