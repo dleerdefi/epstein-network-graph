@@ -1,5 +1,5 @@
 {
-  "page_number": 12,
+  "page_number": 13,
   "date_header": {
     "year": 1992,
     "month": "AUG",
@@ -9,9 +9,9 @@
   "flights": [
     {
       "date": {
-        "original": "3",
-        "parsed": "1992-08-03",
-        "display": "08/03/1992",
+        "original": "24",
+        "parsed": "1992-08-24",
+        "display": "08/24/1992",
         "confidence": "high"
       },
       "aircraft": {
@@ -20,54 +20,18 @@
         "confidence": "high"
       },
       "route": {
-        "from": "HTO",
-        "to": "POU",
-        "from_codes": ["HTO"],
-        "to_codes": ["POU"],
-        "confidence": "high"
-      },
-      "flight_data": {
-        "miles_flown": "",
-        "flight_number": "181",
-        "confidence": "medium"
-      },
-      "remarks": "DEAD HEAD",
-      "passengers": [],
-      "landings": {
-        "count": "1",
-        "confidence": "high"
-      },
-      "aircraft_category": {
-        "airplane": "4",
-        "glider": "",
-        "helicopter": "4"
-      }
-    },
-    {
-      "date": {
-        "original": "3",
-        "parsed": "1992-08-03",
-        "display": "08/03/1992",
-        "confidence": "high"
-      },
-      "aircraft": {
-        "make_model": "HS125-700",
-        "tail_number": "N108JE",
-        "confidence": "high"
-      },
-      "route": {
-        "from": "POU",
+        "from": "GRI",
         "to": "TEB",
-        "from_codes": ["POU"],
+        "from_codes": ["GRI"],
         "to_codes": ["TEB"],
         "confidence": "high"
       },
       "flight_data": {
         "miles_flown": "",
-        "flight_number": "182",
+        "flight_number": "199",
         "confidence": "medium"
       },
-      "remarks": "JEFFREY, GHISLAINE, JAMES MURPHY",
+      "remarks": "JEFFREY, GHISLAINE",
       "passengers": [
         {
           "name": "Jeffrey Epstein",
@@ -82,13 +46,6 @@
           "type": "identified",
           "notable": true,
           "confidence": "high"
-        },
-        {
-          "name": "James Murphy",
-          "code": "JM",
-          "type": "identified",
-          "notable": true,
-          "confidence": "high"
         }
       ],
       "landings": {
@@ -96,16 +53,16 @@
         "confidence": "high"
       },
       "aircraft_category": {
-        "airplane": "4",
+        "airplane": "2",
         "glider": "",
-        "helicopter": "4"
+        "helicopter": "6"
       }
     },
     {
       "date": {
-        "original": "4",
-        "parsed": "1992-08-04",
-        "display": "08/04/1992",
+        "original": "26",
+        "parsed": "1992-08-26",
+        "display": "08/26/1992",
         "confidence": "high"
       },
       "aircraft": {
@@ -115,42 +72,23 @@
       },
       "route": {
         "from": "TEB",
-        "to": "SAF",
+        "to": "CMH",
         "from_codes": ["TEB"],
-        "to_codes": ["SAF"],
+        "to_codes": ["CMH"],
         "confidence": "high"
       },
       "flight_data": {
-        "miles_flown": "10",
-        "flight_number": "183",
+        "miles_flown": "440",
+        "flight_number": "200",
         "confidence": "high"
       },
-      "remarks": "JEFFREY, GHISLAINE, JAMES MURPHY, CHRISTINE KENNEALLY",
+      "remarks": "JEFFREY",
       "passengers": [
         {
           "name": "Jeffrey Epstein",
           "code": "JE",
           "type": "identified",
           "notable": true,
-          "confidence": "high"
-        },
-        {
-          "name": "Ghislaine Maxwell",
-          "code": "GM",
-          "type": "identified",
-          "notable": true,
-          "confidence": "high"
-        },
-        {
-          "name": "James Murphy",
-          "code": "JM",
-          "type": "identified",
-          "confidence": "high"
-        },
-        {
-          "name": "Christine Kenneally",
-          "code": "CK",
-          "type": "identified",
           "confidence": "high"
         }
       ],
@@ -159,16 +97,16 @@
         "confidence": "high"
       },
       "aircraft_category": {
-        "airplane": "4",
+        "airplane": "1",
         "glider": "",
-        "helicopter": "5"
+        "helicopter": "1"
       }
     },
     {
       "date": {
-        "original": "8",
-        "parsed": "1992-08-08",
-        "display": "08/08/1992",
+        "original": "27",
+        "parsed": "1992-08-27",
+        "display": "08/27/1992",
         "confidence": "high"
       },
       "aircraft": {
@@ -177,18 +115,62 @@
         "confidence": "high"
       },
       "route": {
-        "from": "SAF",
-        "to": "JAC",
-        "from_codes": ["SAF"],
-        "to_codes": ["JAC"],
+        "from": "CMH",
+        "to": "TEB",
+        "from_codes": ["CMH"],
+        "to_codes": ["TEB"],
         "confidence": "high"
       },
       "flight_data": {
-        "miles_flown": "143",
-        "flight_number": "184",
+        "miles_flown": "90",
+        "flight_number": "201",
         "confidence": "high"
       },
-      "remarks": "JEFFREY, GHISLAINE, JAMES MURPHY, CHRISTINE KENNEALLY",
+      "remarks": "JEFFREY",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "",
+        "helicopter": "4"
+      }
+    },
+    {
+      "date": {
+        "original": "27",
+        "parsed": "1992-08-27",
+        "display": "08/27/1992",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "DAB",
+        "from_codes": ["TEB"],
+        "to_codes": ["DAB"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "202",
+        "confidence": "medium"
+      },
+      "remarks": "JEFFREY, ARTHUR HALLERAN, TOMMY QUINN, (REMNANTS OF HURRICANE ANDREW, DIVERTED TO DAB",
       "passengers": [
         {
           "name": "Jeffrey Epstein",
@@ -198,23 +180,18 @@
           "confidence": "high"
         },
         {
-          "name": "Ghislaine Maxwell",
-          "code": "GM",
+          "name": "Arthur Halleran",
+          "code": "AH",
           "type": "identified",
-          "notable": true,
-          "confidence": "high"
+          "confidence": "medium",
+          "notable": true      
         },
         {
-          "name": "James Murphy",
-          "code": "JM",
+          "name": "Thomas H. Quinn",
+          "code": "TQ",
           "type": "identified",
-          "confidence": "high"
-        },
-        {
-          "name": "Christine Kenneally",
-          "code": "CK",
-          "type": "identified",
-          "confidence": "high"
+          "confidence": "high",
+          "notable": true
         }
       ],
       "landings": {
@@ -229,9 +206,9 @@
     },
     {
       "date": {
-        "original": "8",
-        "parsed": "1992-08-08",
-        "display": "08/08/1992",
+        "original": "27",
+        "parsed": "1992-08-27",
+        "display": "08/27/1992",
         "confidence": "high"
       },
       "aircraft": {
@@ -240,332 +217,22 @@
         "confidence": "high"
       },
       "route": {
-        "from": "JAC",
-        "to": "BZN",
-        "from_codes": ["JAC"],
-        "to_codes": ["BZN"],
+        "from": "DAB",
+        "to": "PBI",
+        "from_codes": ["DAB"],
+        "to_codes": ["PBI"],
         "confidence": "high"
       },
       "flight_data": {
         "miles_flown": "",
-        "flight_number": "185",
+        "flight_number": "203",
         "confidence": "medium"
       },
-      "remarks": "JEFFREY, GHISLAINE, JAMES MURPHY, CHRISTINE KENNEALLY",
+      "remarks": "JEFFREY",
       "passengers": [
         {
           "name": "Jeffrey Epstein",
           "code": "JE",
-          "type": "identified",
-          "notable": true,
-          "confidence": "high"
-        },
-        {
-          "name": "Ghislaine Maxwell",
-          "code": "GM",
-          "type": "identified",
-          "notable": true,
-          "confidence": "high"
-        },
-        {
-          "name": "James Murphy",
-          "code": "JM",
-          "type": "identified",
-          "confidence": "high"
-        },
-        {
-          "name": "Christine Kenneally",
-          "code": "CK",
-          "type": "identified",
-          "confidence": "high"
-        }
-      ],
-      "landings": {
-        "count": "1",
-        "confidence": "high"
-      },
-      "aircraft_category": {
-        "airplane": "5",
-        "glider": "",
-        "helicopter": "5"
-      }
-    },
-    {
-      "date": {
-        "original": "8",
-        "parsed": "1992-08-08",
-        "display": "08/08/1992",
-        "confidence": "high"
-      },
-      "aircraft": {
-        "make_model": "HS125-700",
-        "tail_number": "N108JE",
-        "confidence": "high"
-      },
-      "route": {
-        "from": "BZN",
-        "to": "CMH",
-        "from_codes": ["BZN"],
-        "to_codes": ["CMH"],
-        "confidence": "high"
-      },
-      "flight_data": {
-        "miles_flown": "",
-        "flight_number": "186",
-        "confidence": "medium"
-      },
-      "remarks": "JEFFREY, GHISLAINE, JAMES MURPHY, CHRISTINE KENNEALLY",
-      "passengers": [
-        {
-          "name": "Jeffrey Epstein",
-          "code": "JE",
-          "type": "identified",
-          "notable": true,
-          "confidence": "high"
-        },
-        {
-          "name": "Ghislaine Maxwell",
-          "code": "GM",
-          "type": "identified",
-          "notable": true,
-          "confidence": "high"
-        },
-        {
-          "name": "James Murphy",
-          "code": "JM",
-          "type": "identified",
-          "confidence": "high"
-        },
-        {
-          "name": "Christine Kenneally",
-          "code": "CK",
-          "type": "identified",
-          "confidence": "high"
-        }
-      ],
-      "landings": {
-        "count": "1",
-        "confidence": "high"
-      },
-      "aircraft_category": {
-        "airplane": "3",
-        "glider": "",
-        "helicopter": "3"
-      }
-    },
-    {
-      "date": {
-        "original": "10",
-        "parsed": "1992-08-10",
-        "display": "08/10/1992",
-        "confidence": "high"
-      },
-      "aircraft": {
-        "make_model": "HS125-700",
-        "tail_number": "N108JE",
-        "confidence": "high"
-      },
-      "route": {
-        "from": "CMH",
-        "to": "BOS",
-        "from_codes": ["CMH"],
-        "to_codes": ["BOS"],
-        "confidence": "high"
-      },
-      "flight_data": {
-        "miles_flown": "80",
-        "flight_number": "187",
-        "confidence": "high"
-      },
-      "remarks": "JEFFREY, JAMES MURPHY, CHRISTINE KENNEALLY, 1 PAX",
-      "passengers": [
-        {
-          "name": "Jeffrey Epstein",
-          "code": "JE",
-          "type": "identified",
-          "confidence": "high"
-        },
-        {
-          "name": "James Murphy",
-          "code": "JM",
-          "type": "identified",
-          "notable": true,
-          "confidence": "high"
-        },
-        {
-          "name": "Christine Kenneally",
-          "code": "CK",
-          "type": "identified",
-          "notable": true,
-          "confidence": "high"
-        },
-        {
-          "name": "1 Passenger",
-          "code": null,
-          "type": "unidentified",
-          "confidence": "high"
-        }
-      ],
-      "landings": {
-        "count": "1",
-        "confidence": "high"
-      },
-      "aircraft_category": {
-        "airplane": "1",
-        "glider": "",
-        "helicopter": "1"
-      }
-    },
-    {
-      "date": {
-        "original": "10",
-        "parsed": "1992-08-10",
-        "display": "08/10/1992",
-        "confidence": "high"
-      },
-      "aircraft": {
-        "make_model": "HS125-700",
-        "tail_number": "N108JE",
-        "confidence": "high"
-      },
-      "route": {
-        "from": "BOS",
-        "to": "TEB",
-        "from_codes": ["BOS"],
-        "to_codes": ["TEB"],
-        "confidence": "high"
-      },
-      "flight_data": {
-        "miles_flown": "",
-        "flight_number": "188",
-        "confidence": "medium"
-      },
-      "remarks": "JEFFREY, JAMES MURPHY, CHRISTINE KENNEALLY, 1 PAX",
-      "passengers": [
-        {
-          "name": "Jeffrey Epstein",
-          "code": "JE",
-          "type": "identified",
-          "confidence": "high"
-        },
-        {
-          "name": "James Murphy",
-          "code": "JM",
-          "type": "identified",
-          "notable": true,
-          "confidence": "high"
-        },
-        {
-          "name": "Christine Kenneally",
-          "code": "CK",
-          "type": "identified",
-          "notable": true,
-          "confidence": "high"
-        },
-        {
-          "name": "1 Passenger",
-          "code": null,
-          "type": "unidentified",
-          "confidence": "high"
-        }
-      ],
-      "landings": {
-        "count": "1",
-        "confidence": "high"
-      },
-      "aircraft_category": {
-        "airplane": "1",
-        "glider": "",
-        "helicopter": "1"
-      }
-    },
-    {
-      "date": {
-        "original": "12",
-        "parsed": "1992-08-12",
-        "display": "08/12/1992",
-        "confidence": "high"
-      },
-      "aircraft": {
-        "make_model": "HS125-700",
-        "tail_number": "N108JE",
-        "confidence": "high"
-      },
-      "route": {
-        "from": "TEB",
-        "to": "DCA",
-        "from_codes": ["TEB"],
-        "to_codes": ["DCA"],
-        "confidence": "high"
-      },
-      "flight_data": {
-        "miles_flown": "85",
-        "flight_number": "189",
-        "confidence": "high"
-      },
-      "remarks": "JEFFREY, EVA ANDERSON",
-      "passengers": [
-        {
-          "name": "Jeffrey Epstein",
-          "code": "JE",
-          "type": "identified",
-          "notable": true,
-          "confidence": "high"
-        },
-        {
-          "name": "Eva Anderson",
-          "code": "EA",
-          "type": "identified",
-          "notable": true,
-          "confidence": "high"
-        }
-      ],
-      "landings": {
-        "count": "1",
-        "confidence": "high"
-      },
-      "aircraft_category": {
-        "airplane": "1",
-        "glider": "",
-        "helicopter": "1"
-      }
-    },
-    {
-      "date": {
-        "original": "12",
-        "parsed": "1992-08-12",
-        "display": "08/12/1992",
-        "confidence": "high"
-      },
-      "aircraft": {
-        "make_model": "HS125-700",
-        "tail_number": "N108JE",
-        "confidence": "high"
-      },
-      "route": {
-        "from": "DCA",
-        "to": "TEB",
-        "from_codes": ["DCA"],
-        "to_codes": ["TEB"],
-        "confidence": "high"
-      },
-      "flight_data": {
-        "miles_flown": "",
-        "flight_number": "190",
-        "confidence": "medium"
-      },
-      "remarks": "JEFFREY, EVA ANDERSON",
-      "passengers": [
-        {
-          "name": "Jeffrey Epstein",
-          "code": "JE",
-          "type": "identified",
-          "notable": true,
-          "confidence": "high"
-        },
-        {
-          "name": "Eva Anderson",
-          "code": "EA",
           "type": "identified",
           "notable": true,
           "confidence": "high"
@@ -583,9 +250,9 @@
     },
     {
       "date": {
-        "original": "14",
-        "parsed": "1992-08-14",
-        "display": "08/14/1992",
+        "original": "28",
+        "parsed": "1992-08-28",
+        "display": "08/28/1992",
         "confidence": "high"
       },
       "aircraft": {
@@ -594,18 +261,18 @@
         "confidence": "high"
       },
       "route": {
-        "from": "TEB",
-        "to": "BVY",
-        "from_codes": ["TEB"],
-        "to_codes": ["BVY"],
+        "from": "PBI",
+        "to": "DAB",
+        "from_codes": ["PBI"],
+        "to_codes": ["DAB"],
         "confidence": "high"
       },
       "flight_data": {
-        "miles_flown": "80",
-        "flight_number": "191",
-        "confidence": "medium"
+        "miles_flown": "30",
+        "flight_number": "204",
+        "confidence": "high"
       },
-      "remarks": "JEFFREY, GHISLAINE",
+      "remarks": "JEFFREY",
       "passengers": [
         {
           "name": "Jeffrey Epstein",
@@ -613,10 +280,47 @@
           "type": "identified",
           "notable": true,
           "confidence": "high"
-        },
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "5",
+        "glider": "",
+        "helicopter": "5"
+      }
+    },
+    {
+      "date": {
+        "original": "29",
+        "parsed": "1992-08-29",
+      "display": "08/29/1992",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "DAB",
+        "to": "PBI",
+        "from_codes": ["DAB"],
+        "to_codes": ["PBI"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "46",
+        "flight_number": "205",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY",
+      "passengers": [
         {
-          "name": "Ghislaine Maxwell",
-          "code": "GM",
+          "name": "Jeffrey Epstein",
+          "code": "JE",
           "type": "identified",
           "notable": true,
           "confidence": "high"
@@ -629,14 +333,14 @@
       "aircraft_category": {
         "airplane": "6",
         "glider": "",
-        "helicopter": ""
+        "helicopter": "6"
       }
     },
     {
       "date": {
-        "original": "14",
-        "parsed": "1992-08-14",
-        "display": "08/14/1992",
+        "original": "30",
+        "parsed": "1992-08-30",
+        "display": "08/30/1992",
         "confidence": "high"
       },
       "aircraft": {
@@ -645,18 +349,18 @@
         "confidence": "high"
       },
       "route": {
-        "from": "BVY",
-        "to": "ACK",
-        "from_codes": ["MVY"],
-        "to_codes": ["ACK"],
+        "from": "PBI",
+        "to": "DAB",
+        "from_codes": ["PBI"],
+        "to_codes": ["DAB"],
         "confidence": "high"
       },
       "flight_data": {
-        "miles_flown": "",
-        "flight_number": "192",
-        "confidence": "medium"
+        "miles_flown": "150",
+        "flight_number": "206",
+        "confidence": "high"
       },
-      "remarks": "JEFFREY, GHISLAINE, ARTHUR HALLERAN, TERRY",
+      "remarks": "JEFFREY",
       "passengers": [
         {
           "name": "Jeffrey Epstein",
@@ -664,10 +368,47 @@
           "type": "identified",
           "notable": true,
           "confidence": "high"
-        },
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "6",
+        "glider": "",
+        "helicopter": "6"
+      }
+    },
+    {
+      "date": {
+        "original": "30",
+        "parsed": "1992-08-30",
+        "display": "08/30/1992",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "DAB",
+        "to": "HTO",
+        "from_codes": ["DAB"],
+        "to_codes": ["HTO"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "207",
+        "confidence": "medium"
+      },
+      "remarks": "JEFFREY, ARTHUR HALLERAN, TOMMY QUINN",
+      "passengers": [
         {
-          "name": "Ghislaine Maxwell",
-          "code": "GM",
+          "name": "Jeffrey Epstein",
+          "code": "JE",
           "type": "identified",
           "notable": true,
           "confidence": "high"
@@ -677,62 +418,11 @@
           "code": "AH",
           "type": "identified",
           "notable": true,
-          "confidence": "medium"
-        },
-        {
-          "name": "Terry Kafka",
-          "code": "TK",
-          "type": "identified",
-          "notable": true,
-          "confidence": "medium"
-        }
-      ],
-      "landings": {
-        "count": "",
-        "confidence": "low"
-      },
-      "aircraft_category": {
-        "airplane": "",
-        "glider": "",
-        "helicopter": "4"
-      }
-    },
-    {
-      "date": {
-        "original": "15",
-        "parsed": "1992-08-15",
-        "display": "08/15/1992",
-        "confidence": "high"
-      },
-      "aircraft": {
-        "make_model": "HS125-700",
-        "tail_number": "N108JE",
-        "confidence": "high"
-      },
-      "route": {
-        "from": "ACK",
-        "to": "CMH",
-        "from_codes": ["ACK"],
-        "to_codes": ["CMH"],
-        "confidence": "high"
-      },
-      "flight_data": {
-        "miles_flown": "5.7",
-        "flight_number": "193",
-        "confidence": "high"
-      },
-      "remarks": "JEFFREY, GHISLAINE",
-      "passengers": [
-        {
-          "name": "Jeffrey Epstein",
-          "code": "JE",
-          "type": "identified",
-          "notable": true,
           "confidence": "high"
         },
         {
-          "name": "Ghislaine Maxwell",
-          "code": "GM",
+          "name": "Thomas H. Quinn",
+          "code": "TQ",
           "type": "identified",
           "notable": true,
           "confidence": "high"
@@ -745,14 +435,167 @@
       "aircraft_category": {
         "airplane": "2",
         "glider": "",
-        "helicopter": "2"
+        "helicopter": "1"
       }
     },
     {
       "date": {
-        "original": "16",
-        "parsed": "1992-08-16",
-        "display": "08/16/1992",
+        "original": "30",
+        "parsed": "1992-08-30",
+        "display": "08/30/1992",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "HTO",
+        "to": "TEB",
+        "from_codes": ["HTO"],
+        "to_codes": ["TEB"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "208",
+        "confidence": "medium"
+      },
+      "remarks": "JEFFREY",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "5",
+        "glider": "",
+        "helicopter": "6"
+      }
+    },
+    {
+      "date": {
+        "original": "30",
+        "parsed": "1992-08-30",
+        "display": "08/30/1992",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "CMH",
+        "from_codes": ["TEB"],
+        "to_codes": ["CMH"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "209",
+        "confidence": "medium"
+      },
+      "remarks": "DEAD HEAD FOR MAINTENANCE (ELECTRICAL)",
+      "passengers": [],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "",
+        "helicopter": "3"
+      }
+    },
+    {
+      "date": {
+        "original": "SEPT 2",
+        "parsed": "1992-09-02",
+        "display": "09/02/1992",
+        "confidence": "high",
+        "notes":"Month change to September"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "SPI",
+        "from_codes": ["CMH"],
+        "to_codes": ["SPI"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "210",
+        "confidence": "medium"
+      },
+      "remarks": "DEAD HEAD FOR MAINTENANCE (#1 MPI)",
+      "passengers": [],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "9",
+        "glider": "",
+        "helicopter": "9"
+      }
+    },
+    {
+      "date": {
+        "original": "17",
+        "parsed": "1992-09-17",
+        "display": "09/17/1992",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SPI",
+        "to": "CMH",
+        "from_codes": ["SPI"],
+        "to_codes": ["CMH"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "90",
+        "flight_number": "211",
+        "confidence": "high"
+      },
+      "remarks": "DEAD HEAD FROM MPI #1",
+      "passengers": [],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "",
+        "helicopter": "6"
+      }
+    },
+    {
+      "date": {
+        "original": "19",
+        "parsed": "1992-09-19",
+        "display": "09/19/1992",
         "confidence": "high"
       },
       "aircraft": {
@@ -768,8 +611,8 @@
         "confidence": "high"
       },
       "flight_data": {
-        "miles_flown": "3.3",
-        "flight_number": "194",
+        "miles_flown": "82",
+        "flight_number": "212",
         "confidence": "high"
       },
       "remarks": "JEFFREY, GHISLAINE",
@@ -780,159 +623,6 @@
           "type": "identified",
           "notable": true,
           "confidence": "high"
-        },
-        {
-          "name": "Ghislaine Maxwell",
-          "code": "GM",
-          "type": "identified",
-          "notable": true,
-          "confidence": "high"
-        }
-      ],
-      "landings": {
-        "count": "2",
-        "confidence": "high"
-      },
-      "aircraft_category": {
-        "airplane": "3",
-        "glider": "",
-        "helicopter": "3"
-      }
-    },
-    {
-      "date": {
-        "original": "19",
-        "parsed": "1992-08-19",
-        "display": "08/19/1992",
-        "confidence": "high"
-      },
-      "aircraft": {
-        "make_model": "HS125-700",
-        "tail_number": "N108JE",
-        "confidence": "high"
-      },
-      "route": {
-        "from": "SAF",
-        "to": "CNY",
-        "from_codes": ["SAF"],
-        "to_codes": ["CNY"],
-        "confidence": "high"
-      },
-      "flight_data": {
-        "miles_flown": "5.0",
-        "flight_number": "195",
-        "confidence": "high"
-      },
-      "remarks": "JEFFREY GHISLAINE (MOAB, UT)",
-      "passengers": [
-        {
-          "name": "Jeffrey Epstein",
-          "code": "JE",
-          "type": "identified",
-          "notable": true,
-          "confidence": "high"
-        },
-        {
-          "name": "Ghislaine Maxwell",
-          "code": "GM",
-          "type": "identified",
-          "notable": true,
-          "confidence": "high"
-        }
-      ],
-      "landings": {
-        "count": "1",
-        "confidence": "high"
-      },
-      "aircraft_category": {
-        "airplane": "4",
-        "glider": "",
-        "helicopter": "4"
-      }
-    },
-    {
-      "date": {
-        "original": "19",
-        "parsed": "1992-08-19",
-        "display": "08/19/1992",
-        "confidence": "high"
-      },
-      "aircraft": {
-        "make_model": "HS125-700",
-        "tail_number": "N108JE",
-        "confidence": "high"
-      },
-      "route": {
-        "from": "CNY",
-        "to": "MTJ",
-        "from_codes": ["CNY"],
-        "to_codes": ["MTJ"],
-        "confidence": "high"
-      },
-      "flight_data": {
-        "miles_flown": "",
-        "flight_number": "196",
-        "confidence": "medium"
-      },
-      "remarks": "JEFFREY, GHISLAINE (MONTROSE, CO.)",
-      "passengers": [
-        {
-          "name": "Jeffrey Epstein",
-          "code": "JE",
-          "type": "identified",
-          "notable": true,
-          "confidence": "high"
-        },
-        {
-          "name": "Ghislaine Maxwell",
-          "code": "GM",
-          "type": "identified",
-          "notable": true,
-          "confidence": "high"
-        }
-      ],
-      "landings": {
-        "count": "1",
-        "confidence": "high"
-      },
-      "aircraft_category": {
-        "airplane": "3",
-        "glider": "",
-        "helicopter": "3"
-      }
-    },
-    {
-      "date": {
-        "original": "20",
-        "parsed": "1992-08-20",
-        "display": "08/20/1992",
-        "confidence": "high"
-      },
-      "aircraft": {
-        "make_model": "HS125-700",
-        "tail_number": "N108JE",
-        "confidence": "high"
-      },
-      "route": {
-        "from": "MTJ",
-        "to": "ASE",
-        "from_codes": ["MTJ"],
-        "to_codes": ["ASE"],
-        "confidence": "high"
-      },
-      "flight_data": {
-        "miles_flown": "3.0",
-        "flight_number": "197",
-        "confidence": "high"
-      },
-      "remarks": "JEFFREY, GHISLAINE",
-      "passengers": [
-        {
-          "name": "Jeffrey Epstein",
-          "code": "JE",
-          "type": "identified",
-          "notable": true,
-          "confidence": "medium"
         },
         {
           "name": "Ghislaine Maxwell",
@@ -955,8 +645,8 @@
     {
       "date": {
         "original": "24",
-        "parsed": "1992-08-24",
-        "display": "08/24/1992",
+        "parsed": "1992-09-24",
+        "display": "09/24/1992",
         "confidence": "high"
       },
       "aircraft": {
@@ -965,18 +655,69 @@
         "confidence": "high"
       },
       "route": {
-        "from": "ASE",
-        "to": "GRI",
-        "from_codes": ["ASE"],
-        "to_codes": ["GRI"],
+        "from": "SAF",
+        "to": "PBI",
+        "from_codes": ["SAF"],
+        "to_codes": ["PBI"],
         "confidence": "high"
       },
       "flight_data": {
-        "miles_flown": "175",
-        "flight_number": "198",
+        "miles_flown": "90",
+        "flight_number": "213",
         "confidence": "high"
       },
-      "remarks": "JEFFREY, GHISLAINE (GRAND ISLE, NE.) FUEL STOP",
+      "remarks": "JEFFREY, GHISLAINE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "",
+        "confidence": "low"
+      },
+      "aircraft_category": {
+        "airplane": "3",
+        "glider": "",
+        "helicopter": "6"
+      }
+    },
+    {
+      "date": {
+        "original": "27",
+        "parsed": "1992-09-27",
+        "display": "09/27/1992",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": ["PBI"],
+        "to_codes": ["TEB"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "55",
+        "flight_number": "214",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY, GHISLAINE",
       "passengers": [
         {
           "name": "Jeffrey Epstein",
@@ -998,57 +739,150 @@
         "confidence": "high"
       },
       "aircraft_category": {
-        "airplane": "1",
+        "airplane": "2",
         "glider": "",
-        "helicopter": "2"
+        "helicopter": "6"
+      }
+    },
+    {
+      "date": {
+        "original": "28",
+        "parsed": "1992-09-28",
+        "display": "09/28/1992",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "BOS",
+        "from_codes": ["TEB"],
+        "to_codes": ["BOS"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "60",
+        "flight_number": "215",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY, EVA ANDERSSON",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Eva Andersson",
+          "code": "EA",
+          "type": "identified",
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "7",
+        "glider": "",
+        "helicopter": "7"
+      }
+    },
+    {
+      "date": {
+        "original": "28",
+        "parsed": "1992-09-28",
+        "display": "09/28/1992",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "BOS",
+        "to": "TEB",
+        "from_codes": ["BOS"],
+        "to_codes": ["TEB"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "216",
+        "confidence": "medium"
+      },
+      "remarks": "JEFFREY",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "9",
+        "glider": "",
+        "helicopter": "9"
       }
     }
   ],
   "page_totals": {
     "page_total": {
-      "value": "55",
+      "value": "48",
       "confidence": "medium"
     },
     "amount_forward": {
-      "value": "5948",
+      "value": "6085",
       "confidence": "medium"
     },
     "total_to_date": {
-      "value": "6085",
+      "value": "6886",
       "confidence": "medium"
     },
     "validation": {
       "math_check": "uncertain",
       "continuity_check": "pass",
-      "notes": "55 + 5948 should = 6003, handwritten shows 6085. Amount Forward matches page 11 Total to Date. Possible carry-over error or misread."
+      "notes": "48 + 6085 should = 6133, handwritten shows 6886. Significant discrepancy. Amount Forward matches page 12 Total to Date."
     }
   },
   "pilot_signature": {
     "present": true,
     "legible": false,
-    "notes": "Signature appears similar to previous pages"
+    "notes": "Signature appears to read 'Daniel Padoque' or similar"
   },
   "page_metadata": {
     "total_flights": 18,
     "date_range": {
-      "start": "1992-08-03",
-      "end": "1992-08-24"
+      "start": "1992-08-24",
+      "end": "1992-09-28"
     },
     "aircraft_used": [
       "HS125-700 (N108JE)"
     ],
     "notable_passengers": [
       "Arthur Halleran",
-      "Christine Kenneally",
-      "Eva Anderson",
+      "Eva Andersson",
       "Ghislaine Maxwell",
-      "James Murphy",
-      "Jeffrey Epstein"
+      "Jeffrey Epstein",
+      "Thomas H. Quinn"
     ],
-    "unidentified_passengers": 1,
+    "unidentified_passengers": 0,
     "extraction_quality": "good",
     "handwriting_legibility": "fair",
-    "notes": "Multiple trips with Jeffrey and Ghislaine across western US (Wyoming, Utah, Colorado, Montana). August 8 multi-leg journey: TEB→SAF→JAC→BZN→CMH. Destinations noted in remarks (Moab UT, Montrose CO, Grand Isle NE fuel stop). James Murphy and Christine Kenneally on Aug 3-10 trip."
+    "notes": "Month transition August → September. Multiple shuttle flights between DAB and PBI. Several flights on August 30 with various legs. Hurricane Andrew diversion to DAB noted on 08/27. Maintenance flights to SPI for #1 MPI Sept 2-17."
   },
   "validation": {
     "date_progression": "valid",

@@ -10,10 +10,9 @@
     {
       "date": {
         "original": "23",
-        "parsed": "1991-10-2e",
-        "display": "10/02/1991",
-        "confidence": "medium",
-        "notes": "Date range 23"
+        "parsed": "1991-10-23",
+        "display": "10/23/1991",
+        "confidence": "high"
       },
       "aircraft": {
         "make_model": "HS125-700",
@@ -318,7 +317,7 @@
       "date": {
         "original": "9",
         "parsed": "1991-11-09",
-        "display": "10/08/1991",
+        "display": "11/09/1991",
         "confidence": "high"
       },
       "aircraft": {
@@ -878,7 +877,7 @@
       "date": {
         "original": "26",
         "parsed": "1991-11-26",
-        "display": "10/26/1991",
+        "display": "11/26/1991",
         "confidence": "high"
       },
       "aircraft": {
@@ -954,22 +953,22 @@
   "page_metadata": {
     "total_flights": 18,
     "date_range": {
-      "start": "1991-10-02",
-      "end": "1991-10-25"
+      "start": "1991-10-23",
+      "end": "1991-11-26"
     },
     "aircraft_used": [
       "HS125-700 (N108JE)"
     ],
     "notable_passengers": [
-      "Jeffrey Epstein",
-      "Ghislaine Maxwell",
-      "Heather",
-      "Christine",
       "Eva Anderson",
-      "Harry (Harvard)"
+      "Ghislaine Maxwell",
+      "Harry (Harvard)",
+      "Jeffrey Epstein"
     ],
+    "unidentified_passengers": 1,
     "extraction_quality": "good",
-    "handwriting_legibility": "fair"
+    "handwriting_legibility": "fair",
+    "notes": "Month transition October → November. Multiple trips between TEB, CMH, BKL, PBI, and DCA. First appearance of Ghislaine Maxwell in this period (Nov 17). Eva Anderson travels Nov 23-24. Harvard connection noted."
   },
   "validation": {
     "date_progression": "valid",

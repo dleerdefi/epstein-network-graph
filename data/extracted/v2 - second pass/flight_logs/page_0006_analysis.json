@@ -748,7 +748,7 @@
     {
       "date": {
         "original": "22",
-        "parsed": "1992-12-22",
+        "parsed": "1991-12-22",
         "display": "12/22/1991",
         "confidence": "high"
       },
@@ -912,20 +912,20 @@
   "page_metadata": {
     "total_flights": 18,
     "date_range": {
-      "start": "1991-11-02",
-      "end": "1991-11-26"
+      "start": "1991-11-29",
+      "end": "1991-12-30"
     },
     "aircraft_used": [
       "HS125-700 (N108JE)"
     ],
     "notable_passengers": [
-      "Jeffrey",
       "Ghislaine Maxwell",
-      "Christine",
-      "Eva"
+      "Jeffrey Epstein"
     ],
+    "unidentified_passengers": 4,
     "extraction_quality": "good",
-    "handwriting_legibility": "fair"
+    "handwriting_legibility": "fair",
+    "notes": "Month transition November → December. Notable flight on Dec 14 after Seymour Epstein's death. Family flight with two aunts. Multi-leg trips Dec 5 (TEB→ESN→CMO→BKL→CMH) and Dec 21 (FRG→X31→PBI). LOU 'Ladies Poker' with family."
   },
   "validation": {
     "date_progression": "valid",
