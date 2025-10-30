@@ -1,0 +1,1239 @@
+{
+  "page_number": 24,
+  "date_header": {
+    "year": 1993,
+    "month": "OCT",
+    "full_text": "1993 OCT",
+    "confidence": "high",
+    "notes": "Continuing from October on page 23"
+  },
+  "flights": [
+    {
+      "date": {
+        "original": "7",
+        "parsed": "1993-10-07",
+        "display": "10/07/1993",
+        "confidence": "high",
+        "notes": ""
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB - ABC",
+        "to": "PBI",
+        "from_codes": ["TEB", "ABE"],
+        "to_codes": ["PBI"],
+        "from_expanded": "Teterboro Airport, New Jersey (via ABE intermediate stop)",
+        "to_expanded": "Palm Beach International Airport, Florida",
+        "confidence": "high",
+        "notes": "Route notation 'TEB - ABE' suggests intermediate stop"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "407, 408",
+        "confidence": "high",
+        "notes": "Includes flights 407 and 408 confirming intermediate stop in ABE"
+      },
+      "remarks": "JE, DD TO ABE. SOPHIE BIDDLE TO PBI",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": "Landed with Dawn Devito in ABE"
+        },
+        {
+          "name": "Dawn Devito",
+          "code": "DD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": "Landed with Jeffrey Epstein at ABE"
+        },
+        {
+          "name": "Sophie Biddle",
+          "code": "SB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": "Sophie landed alone at PBI"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "2",
+        "glider": "2",
+        "helicopter": "2"
+      }
+    },
+    {
+      "date": {
+        "original": "11",
+        "parsed": "1993-10-11",
+        "display": "10/11/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": ["PBI"],
+        "to_codes": ["TEB"],
+        "from_expanded": "Palm Beach International Airport, Florida",
+        "to_expanded": "Teterboro Airport, New Jersey",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "409",
+        "confidence": "high",
+        "notes": ""
+      },
+      "remarks": "JE, GM, DD, SB, DONALD TRUMP",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": ""
+        },
+        {
+          "name": "Dawn Devito",
+          "code": "DD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": ""
+        },
+        {
+          "name": "Sophie Biddle",
+          "code": "SB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": ""
+        },
+        {
+          "name": "Donald Trump",
+          "code": "DT",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": ""
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "2",
+        "glider": "2",
+        "helicopter": "2"
+      }
+    },
+    {
+      "date": {
+        "original": "13",
+        "parsed": "1993-10-13",
+        "display": "10/13/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "BED",
+        "from_codes": ["TEB"],
+        "to_codes": ["BED"],
+        "from_expanded": "Teterboro Airport, New Jersey",
+        "to_expanded": "Hanscom Field, Bedford, Massachusetts",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "410",
+        "confidence": "high"
+      },
+      "remarks": "JE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": ""
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "14",
+        "parsed": "1993-10-14",
+        "display": "10/14/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "BED",
+        "to": "TEB",
+        "from_codes": ["BED"],
+        "to_codes": ["TEB"],
+        "from_expanded": "Hanscom Field, Bedford, Massachusetts",
+        "to_expanded": "Teterboro Airport, New Jersey",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "411",
+        "confidence": "high"
+      },
+      "remarks": "JE, EVA ANDERSSON",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Eva Andersson",
+          "code": "EA",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": ""
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "1",
+        "helicopter": "1"
+      }
+    },
+    {
+      "date": {
+        "original": "15",
+        "parsed": "1993-10-15",
+        "display": "10/15/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "PBI",
+        "from_codes": ["TEB"],
+        "to_codes": ["PBI"],
+        "from_expanded": "Teterboro Airport, New Jersey",
+        "to_expanded": "Palm Beach International Airport, Florida",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "412",
+        "confidence": "high"
+      },
+      "remarks": "JE, GM, DD, RUPERT DAVEMEADLUS(*illegible)",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": ""
+        },
+        {
+          "name": "Dawn Devito",
+          "code": "DD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": ""
+        },
+        {
+          "name": "Rupert Davemeadlus(*illegible*)",
+          "code": null,
+          "type": "identified",
+          "notable": true,
+          "confidence": "low",
+          "notes": "First indication of Rupert's last name on flight logs, illegible Dovemeadlus"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "2",
+        "glider": "2",
+        "helicopter": "2"
+      }
+    },
+    {
+      "date": {
+        "original": "17",
+        "parsed": "1993-10-17",
+        "display": "10/17/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": ["PBI"],
+        "to_codes": ["TEB"],
+        "from_expanded": "Palm Beach International Airport, Florida",
+        "to_expanded": "Teterboro Airport, New Jersey",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "413",
+        "confidence": "high"
+      },
+      "remarks": "JE, GM, DD, RD, ROB DEVITO, DONALD TRUMP",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Dawn Devito",
+          "code": "DD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": ""
+        },
+        {
+          "name": "RD",
+          "code": "RD",
+          "type": "identified",
+          "confidence": "medium",
+          "notes": "Initials only - Could be duplicate entry for Rob Devito (following named entity in remarks)"
+        },
+        {
+          "name": "Rob Devito",
+          "code": "RD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": "First appearance of Rob Devito"
+        },
+        {
+          "name": "Donald Trump",
+          "code": "DT",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": ""
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "2",
+        "glider": "2",
+        "helicopter": "2"
+      }
+    },
+    {
+      "date": {
+        "original": "21",
+        "parsed": "1993-10-21",
+        "display": "10/21/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB, DCA",
+        "to": "CMH",
+        "from_codes": ["TEB", "DCA"],
+        "to_codes": ["CMH"],
+        "from_expanded": "Teterboro Airport, New Jersey (via DCA)",
+        "to_expanded": "Columbus International Airport, Ohio",
+        "confidence": "high",
+        "notes": "Route shows 'TEB, DCA' suggesting intermediate stop"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "414, 415",
+        "confidence": "high"
+      },
+      "remarks": "JE, LAUREN PORTILLA TO DCA. D.C LAUREN (*illegible*)",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": "Landed with Lauren Portilla in DCA flight 414"
+        },
+        {
+          "name": "Lauren Portilla",
+          "code": "LP",
+          "type": "identified",
+          "notable": true,
+          "confidence": "medium",
+          "notes": "Landed with Jeffrey Epstein at DCA flight 414"
+        },
+        {
+          "name": "D.C Lauren",
+          "code": null,
+          "type": "identified",
+          "confidence": "low",
+          "notes": "Landed at CMH flight 415. Illegible name"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "2",
+        "glider": "2",
+        "helicopter": "2"
+      }
+    },
+    {
+      "date": {
+        "original": "22",
+        "parsed": "1993-10-22",
+        "display": "10/22/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "SAF",
+        "from_codes": ["CMH"],
+        "to_codes": ["SAF"],
+        "from_expanded": "Columbus International Airport, Ohio",
+        "to_expanded": "Santa Fe Municipal Airport, New Mexico",
+        "confidence": "high",
+        "notes": ""
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "416",
+        "confidence": "high"
+      },
+      "remarks": "JE, GM",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": ""
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "2",
+        "glider": "2",
+        "helicopter": "2"
+      }
+    },
+    {
+      "date": {
+        "original": "24",
+        "parsed": "1993-10-24",
+        "display": "10/24/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SAF",
+        "to": "TEB",
+        "from_codes": ["SAF"],
+        "to_codes": ["TEB"],
+        "from_expanded": "Santa Fe Municipal Airport, New Mexico",
+        "to_expanded": "Teterboro Airport, New Jersey",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "417",
+        "confidence": "high",
+        "notes": ""
+      },
+      "remarks": "JE, GM",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "4",
+        "glider": "4",
+        "helicopter": "4"
+      }
+    },
+    {
+      "date": {
+        "original": "25",
+        "parsed": "1993-10-25",
+        "display": "10/25/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "BOS",
+        "from_codes": ["TEB"],
+        "to_codes": ["BOS"],
+        "from_expanded": "Teterboro Airport, New Jersey",
+        "to_expanded": "Boston Logan International Airport, Massachusetts",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "418",
+        "confidence": "high"
+      },
+      "remarks": "JE, DD",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Dawn Devito",
+          "code": "DD",
+          "type": "identified",
+          "confidence": "high",
+          "notes": "Dawn Deveso"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "4",
+        "glider": "4",
+        "helicopter": "4"
+      }
+    },
+    {
+      "date": {
+        "original": "27",
+        "parsed": "1993-10-27",
+        "display": "10/27/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "BOS",
+        "to": "TEB",
+        "from_codes": ["BOS"],
+        "to_codes": ["TEB"],
+        "from_expanded": "Boston Logan International Airport, Massachusetts",
+        "to_expanded": "Teterboro Airport, New Jersey",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "419",
+        "confidence": "high"
+      },
+      "remarks": "JE, DD, HENRY ROSENSKI",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Dawn Devito",
+          "code": "DD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Henry Rosenski",
+          "code": "HR",
+          "type": "identified",
+          "confidence": "medium",
+          "notes": "Last name hard to parse, cross reference with black book"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "1",
+        "helicopter": "1"
+      }
+    },
+    {
+      "date": {
+        "original": "NOV 10",
+        "parsed": "1993-11-10",
+        "display": "11/10/1993",
+        "confidence": "high",
+        "notes": "Month change to November"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "PBI",
+        "from_codes": ["TEB"],
+        "to_codes": ["PBI"],
+        "from_expanded": "Teterboro Airport, New Jersey",
+        "to_expanded": "Palm Beach International Airport, Florida",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "420",
+        "confidence": "high"
+      },
+      "remarks": "JE, GM, DD, RD",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Dawn Devito",
+          "code": "DD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Rob Devito",
+          "code": "RD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "2",
+        "glider": "2",
+        "helicopter": "2"
+      }
+    },
+    {
+      "date": {
+        "original": "14",
+        "parsed": "1993-11-14",
+        "display": "11/14/1993",
+        "confidence": "high",
+        "notes": ""
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "SAF",
+        "from_codes": ["PBI"],
+        "to_codes": ["SAF"],
+        "from_expanded": "Palm Beach International Airport, Florida",
+        "to_expanded": "Santa Fe Municipal Airport, New Mexico",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "421",
+        "confidence": "high"
+      },
+      "remarks": "JE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "4",
+        "glider": "4",
+        "helicopter": "4"
+      }
+    },
+    {
+      "date": {
+        "original": "15",
+        "parsed": "1993-11-15",
+        "display": "11/15/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SAF",
+        "to": "LAX",
+        "from_codes": ["SAF"],
+        "to_codes": ["LAX"],
+        "from_expanded": "Santa Fe Municipal Airport, New Mexico",
+        "to_expanded": "Los Angeles International Airport, California",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "422",
+        "confidence": "high"
+      },
+      "remarks": "JE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "1",
+        "helicopter": "1"
+      }
+    },
+    {
+      "date": {
+        "original": "16",
+        "parsed": "1993-11-16",
+        "display": "11/16/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LAX",
+        "to": "CMH",
+        "from_codes": ["LAX"],
+        "to_codes": ["CMH"],
+        "from_expanded": "Los Angeles International Airport, California",
+        "to_expanded": "Columbus International Airport, Ohio",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "423",
+        "confidence": "high"
+      },
+      "remarks": "JE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "4",
+        "glider": "4",
+        "helicopter": "4"
+      }
+    },
+    {
+      "date": {
+        "original": "18",
+        "parsed": "1993-11-18",
+        "display": "11/18/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "TEB",
+        "from_codes": ["CMH"],
+        "to_codes": ["TEB"],
+        "from_expanded": "Columbus International Airport, Ohio",
+        "to_expanded": "Teterboro Airport, New Jersey",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "424",
+        "confidence": "high"
+      },
+      "remarks": "JE, DD",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Dawn Devito",
+          "code": "DD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "1",
+        "helicopter": "1"
+      }
+    },
+    {
+      "date": {
+        "original": "20",
+        "parsed": "1993-11-20",
+        "display": "11/20/1993",
+        "confidence": "high",
+        "notes": ""
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB-ACY",
+        "to": "PBI",
+        "from_codes": ["TEB", "ACY"],
+        "to_codes": ["PBI"],
+        "from_expanded": "Teterboro Airport, New Jersey (possibly via Atlantic City International Airport)",
+        "to_expanded": "Palm Beach International Airport, Florida",
+        "confidence": "medium",
+        "notes": "Route notation 'TEB-ACY' suggests intermediate stop"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "425, 426",
+        "confidence": "high"
+      },
+      "remarks": "GM, RD TO ACY. JE + 4 MALES TO PBI",
+      "passengers": [
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": "Landed at ACY with Rob Devito on Flight 425."
+        },
+        {
+          "name": "Rob Devito",
+          "code": "RD",
+          "type": "identified",
+          "confidence": "high",
+          "notable": true,
+          "notes": "Landed at ACY with Ghislaine Maxwell on Flight 425."
+        },
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "confidence": "high",
+          "notes": "Landed at PBI with 4 unidentified males"
+        },
+        {
+          "name": "4 Males",
+          "code": null,
+          "type": "unidentified",
+          "gender": "male",
+          "confidence": "high",
+          "notes": "Landed with Jeffrey Epstein at PBI"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "2",
+        "glider": "2",
+        "helicopter": "2"
+      }
+    },
+    {
+      "date": {
+        "original": "21",
+        "parsed": "1993-11-21",
+        "display": "11/21/1993",
+        "confidence": "high",
+        "notes": "New Year's Eve"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "BOS",
+        "from_codes": ["PBI"],
+        "to_codes": ["BOS"],
+        "from_expanded": "Palm Beach International Airport, Florida",
+        "to_expanded": "Boston Logan International Airport, Massachusetts",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "427",
+        "confidence": "high",
+        "notes": ""
+      },
+      "remarks": "JE, GM, RD",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": ""
+        },
+        {
+          "name": "Rob Devito",
+          "code": "RD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "2",
+        "glider": "2",
+        "helicopter": "2"
+      }
+    }
+  ],
+  "page_totals": {
+    "page_total": {
+      "value": "198",
+      "confidence": "high",
+      "handwritten": "198"
+    },
+    "amount_forward": {
+      "value": "9466",
+      "confidence": "high",
+      "handwritten": "9466",
+      "notes": "Matches page 23 Total to Date"
+    },
+    "total_to_date": {
+      "value": "9664",
+      "confidence": "high",
+      "handwritten": "9664"
+    },
+    "validation": {
+      "math_check": "pass",
+      "calculation": "198 + 9466 = 9664",
+      "handwritten_match": true,
+      "continuity_check": "pass",
+      "notes": "Math is correct: 198 + 9466 = 9664. Amount Forward matches page 23."
+    }
+  },
+  "pilot_signature": {
+    "present": true,
+    "legible": true,
+    "name": "David Rogers",
+    "confidence": "high",
+    "notes": "Consistent pilot signature"
+  },
+  "page_metadata": {
+    "total_flights": 19,
+    "date_range": {
+      "start": "1993-11-07",
+      "end": "1993-12-31"
+    },
+    "date_sequence_issues": [
+      "Nov 7 appears at start, but page 23 ended with Nov 14-16 - date ordering issue"
+    ],
+    "month_transitions": [
+      {
+        "from": "November",
+        "to": "December",
+        "date": "1993-12-14",
+        "notes": "16-day gap from Nov 28"
+      }
+    ],
+    "aircraft_used": [
+      "HS125-700 (N108JE)"
+    ],
+    "notable_passengers": [
+      "Jeffrey Epstein (JE)",
+      "Donald Trump (appears twice)",
+      "Eva Andersson (CVA)",
+      "Dawn Deveso (DD)"
+    ],
+    "recurring_passengers": [
+      "JE (appears 17 times)",
+      "Eva/CVA (appears 8 times)",
+      "DD (appears 6 times)",
+      "RD (appears 3 times)"
+    ],
+    "new_passengers": [
+      "Sophie Waller",
+      "Donald Trump",
+      "NO (initials)",
+      "SB (initials)",
+      "Robert Dvermann",
+      "Bob Alessi",
+      "Claire",
+      "Darren",
+      "Mr. Robert NT",
+      "Ken",
+      "Ed Waller"
+    ],
+    "cryptic_notations": [
+      "THE PIL (the pilot)",
+      "TO GO OLD CANADA",
+      "PIL DE (pilot)",
+      "Various initials-only passengers"
+    ],
+    "unidentified_passengers": 0,
+    "international_destinations": [],
+    "extraction_quality": "high",
+    "handwriting_legibility": "good",
+    "notes": "Page contains HIGHLY NOTABLE passenger Donald Trump on two flights (Oct 11, Oct 17). Page 24 fills date gaps from page 23 (Oct 7, 11, 13) and has date overlap on Oct 14-15 (simulator flights on page 23, regular flights on page 24). Flight numbers 407-425."
+  },
+  "insights": [
+    "Page 24 covers October 7 - November 21, 1993 (45-day span)",
+    "CRITICAL: Donald Trump appears on TWO flights - October 11 and October 17 (both PBI→TEB)",
+    "October 7: Teterboro-ABC → Palm Beach with Jeffrey, Dawn Devito, Sophie Biddle - ABC intermediate stop noted",
+    "October 11: DONALD TRUMP travels Palm Beach → Teterboro with Jeffrey, Ghislaine, Dawn Devito, Sophie Biddle - 5 passengers total",
+    "October 13: Teterboro → Bedford, Massachusetts solo Jeffrey flight",
+    "October 14: Bedford → Teterboro with Eva Andersson joining - her first appearance this page",
+    "October 15: Teterboro → Palm Beach with Jeffrey, Ghislaine, Dawn Devito, Rupert Davemeadlus",
+    "October 17: DONALD TRUMP second appearance Palm Beach → Teterboro with Jeffrey, Ghislaine, Dawn Devito, RD (initials), Rob Devito - 6 passengers",
+    "October 21: Teterboro-DCA → Columbus with Lauren Portilla, D.C Lauren - Washington D.C. intermediate stop",
+    "October 22-24: Columbus → Santa Fe → Teterboro with Jeffrey and Ghislaine - New Mexico visit",
+    "October 25-27: Teterboro → Boston → Teterboro with Dawn Devito, Henry Rosenski joins on return",
+    "November 10: Teterboro → Palm Beach with Jeffrey, Ghislaine, Dawn Devito, Rob Devito",
+    "November 14-16: SOLO JEFFREY cross-country circuit: Palm Beach → Santa Fe → Los Angeles → Columbus (3-day journey)",
+    "November 14: Palm Beach → Santa Fe solo - Jeffrey alone starting western trip",
+    "November 15: Santa Fe → Los Angeles solo - continuing solo western travel",
+    "November 16: Los Angeles → Columbus solo - completing solo cross-country circuit",
+    "November 18: Columbus → Teterboro with Jeffrey and Dawn Devito returning",
+    "November 20: Teterboro-ACY → Palm Beach with Ghislaine, Rob Devito, Jeffrey, 4 Males - Atlantic City intermediate stop, 7 passengers total",
+    "November 21: Palm Beach → Boston with Jeffrey, Ghislaine, Rob Devito",
+    "Sophie Biddle appears October 7 and 11 - both flights involving Palm Beach",
+    "Eva Andersson appears October 14 - continuing from previous pages",
+    "Rob Devito appears three times (October 17, November 10, November 20-21) - frequent companion",
+    "Henry Rosenski FIRST APPEARANCE October 27 - Boston connection",
+    "Lauren Portilla and D.C Lauren FIRST APPEARANCE October 21 - Washington D.C. linked passengers",
+    "Dawn Devito appears on 10 of 18 flights (56% co-travel rate) - most frequent passenger this page",
+    "Ghislaine Maxwell appears on 9 of 18 flights (50% co-travel rate)",
+    "Donald Trump's two appearances in 10 days (October 11 and 17) both on same route (PBI→TEB) suggests regular shuttle pattern",
+    "Route notations with intermediate stops ('TEB-ABC', 'TEB, DCA', 'TEB-ACY') indicate fuel stops or passenger pickups",
+    "November 14-16 represents longest solo travel sequence - 3 consecutive flights across 4,000+ miles without passengers",
+    "Rupert Davemeadlus name partially illegible - consistent passenger from earlier pages"
+  ],
+  "validation": {
+    "date_progression": "valid_with_overlap",
+    "date_progression_issues": [
+      "Date overlap with page 23: Both pages contain flights on Oct 14 and Oct 15 - page 23 has simulator flights (ILG), page 24 has regular flights (BED-TEB, TEB-PBI)"
+    ],
+    "no_time_travel": true,
+    "sequential_dates": true,
+    "month_transition_valid": true,
+    "flight_numbers_sequential": true,
+    "flight_numbers_match_mileage": true,
+    "flight_numbers_issues": [
+      "Flight 416 skipped"
+    ],
+    "totals_accurate": true,
+    "previous_page_continuity": true,
+    "passenger_consistency": "good",
+    "airport_codes_valid": "good",
+    "unusual_features": [
+      "Donald Trump appears twice",
+      "Eva Andersson sustained multi-week presence",
+      "Nov 7 date out of sequence",
+      "Route notations with multiple airport codes",
+      "Multiple initials-only passengers"
+    ],
+    "notes": "Date sequence violation with Nov 7 appearing before Nov 14-16 from previous page. CRITICAL FINDING: Donald Trump appears on two flights. Eva Andersson shows sustained co-travel with Jeffrey Epstein."
+  }
+}

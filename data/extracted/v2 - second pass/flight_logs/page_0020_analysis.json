@@ -1,0 +1,1010 @@
+{
+  "page_number": 20,
+  "date_header": {
+    "year": 1993,
+    "month": "JUN",
+    "full_text": "1993 JUN",
+    "confidence": "high"
+  },
+  "flights": [
+    {
+      "date": {
+        "original": "20",
+        "parsed": "1993-06-20",
+        "display": "06/20/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "DCA",
+        "to": "TEB",
+        "from_codes": ["DCA"],
+        "to_codes": ["TEB"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "337",
+        "confidence": "medium"
+      },
+      "remarks": "JEFFREY",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "",
+        "confidence": "low"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "",
+        "helicopter": "6"
+      }
+    },
+    {
+      "date": {
+        "original": "23",
+        "parsed": "1993-06-23",
+        "display": "06/23/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "ANH",
+        "from_codes": ["TEB"],
+        "to_codes": ["ANH"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "338",
+        "confidence": "medium"
+      },
+      "remarks": "JEFFREY",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "",
+        "helicopter": "6"
+      }
+    },
+    {
+      "date": {
+        "original": "23",
+        "parsed": "1993-06-23",
+        "display": "06/23/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ANH",
+        "to": "PBI",
+        "from_codes": ["ANH"],
+        "to_codes": ["PBI"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "",
+        "confidence": "low"
+      },
+      "remarks": "JEFFREY",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "",
+        "helicopter": "6"
+      }
+    },
+    {
+      "date": {
+        "original": "27",
+        "parsed": "1993-06-27",
+        "display": "06/27/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "CMH",
+        "from_codes": ["PBI"],
+        "to_codes": ["CMH"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "339",
+        "confidence": "medium"
+      },
+      "remarks": "JEFFREY, GHISLAINE, SOPHIE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sophie Biddle",
+          "code": "SB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "",
+        "helicopter": "5"
+      }
+    },
+    {
+      "date": {
+        "original": "27",
+        "parsed": "1993-06-27",
+        "display": "06/27/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "TEB",
+        "from_codes": ["CMH"],
+        "to_codes": ["TEB"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "340",
+        "confidence": "medium"
+      },
+      "remarks": "JEFFREY, GHISLAINE, SOPHIE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sophie Biddle",
+          "code": "SB",
+          "type": "identified",
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "",
+        "helicopter": "1"
+      }
+    },
+    {
+      "date": {
+        "original": "28",
+        "parsed": "1993-06-28",
+        "display": "06/28/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "DCA",
+        "from_codes": ["TEB"],
+        "to_codes": ["DCA"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "40",
+        "flight_number": "341",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY, SOPHIE, 1 FEMALE, 1 FEMALE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sophie Biddle",
+          "code": "SB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "1 Female",
+          "code": null,
+          "type": "unidentified",
+          "gender": "female",
+          "confidence": "high"
+        },
+        {
+          "name": "1 Female",
+          "code": null,
+          "type": "unidentified",
+          "gender": "female",
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "",
+        "helicopter": "7"
+      }
+    },
+    {
+      "date": {
+        "original": "28",
+        "parsed": "1993-06-28",
+        "display": "06/28/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "DCA",
+        "to": "TEB",
+        "from_codes": ["DCA"],
+        "to_codes": ["TEB"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "343",
+        "confidence": "medium"
+      },
+      "remarks": "JEFFREY, SOPHIE, 1 FEMALE, 1 FEMALE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sophie Biddle",
+          "code": "SB",
+          "type": "identified",
+          "confidence": "high"
+        },
+        {
+          "name": "1 Female",
+          "code": null,
+          "type": "unidentified",
+          "gender": "female",
+          "confidence": "high"
+        },
+        {
+          "name": "1 Female",
+          "code": null,
+          "type": "unidentified",
+          "gender": "female",
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "",
+        "helicopter": "7"
+      }
+    },
+    {
+      "date": {
+        "original": "JUL 2",
+        "parsed": "1993-07-02",
+        "display": "07/02/1993",
+        "confidence": "high",
+        "notes": "Month change to July"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "PBI",
+        "from_codes": ["TEB"],
+        "to_codes": ["PBI"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "90",
+        "flight_number": "344",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY, GHISLAINE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "2",
+        "glider": "",
+        "helicopter": "4"
+      }
+    },
+    {
+      "date": {
+        "original": "5",
+        "parsed": "1993-07-05",
+        "display": "07/05/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "HTO",
+        "from_codes": ["PBI"],
+        "to_codes": ["HTO"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "17",
+        "flight_number": "345",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY, GHISLAINE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "2",
+        "glider": "",
+        "helicopter": "6"
+      }
+    },
+    {
+      "date": {
+        "original": "5",
+        "parsed": "1993-07-05",
+        "display": "07/05/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "HTO",
+        "to": "PVD",
+        "from_codes": ["HTO"],
+        "to_codes": ["PVD"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "346",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY, GHISLAINE, 1 FEMALE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": null,
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "1 Female",
+          "code": null,
+          "type": "unidentified",
+          "gender": "female",
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "",
+        "helicopter": "4"
+      }
+    },
+    {
+      "date": {
+        "original": "5",
+        "parsed": "1993-07-05",
+        "display": "07/05/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PVD",
+        "to": "BHB",
+        "from_codes": ["PBD"],
+        "to_codes": ["BHB"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "347",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY, GHISLAINE, 1 FEMALE, SOPHIE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "1 Female",
+          "code": null,
+          "type": "unidentified",
+          "gender": "female",
+          "confidence": "high"
+        },
+        {
+          "name": "Sophie Biddle",
+          "code": "SB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "",
+        "helicopter": "5"
+      }
+    },
+    {
+      "date": {
+        "original": "6",
+        "parsed": "1993-07-06",
+        "display": "07/06/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "BHB",
+        "to": "TEB",
+        "from_codes": ["BHB"],
+        "to_codes": ["TEB"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "35",
+        "flight_number": "348",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY, GHISLAINE, 1 FEMALE, SOPHIE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "1 Female",
+          "code": null,
+          "type": "unidentified",
+          "gender": "female",
+          "confidence": "high"
+        },
+        {
+          "name": "Sophie Biddle",
+          "code": null,
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "6",
+        "glider": "",
+        "helicopter": "6"
+      }
+    },
+    {
+      "date": {
+        "original": "7",
+        "parsed": "1993-07-07",
+        "display": "07/07/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "MDW",
+        "from_codes": ["TEB"],
+        "to_codes": ["MDW"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "10.5",
+        "flight_number": "349",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY, BOB GOLD",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Bob Gold",
+          "code": "BG",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "",
+        "helicopter": "1"
+      }
+    },
+    {
+      "date": {
+        "original": "7",
+        "parsed": "1993-07-07",
+        "display": "07/07/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "MDW",
+        "to": "TEB",
+        "from_codes": ["MDW"],
+        "to_codes": ["TEB"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "350",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY, BOB GOLD",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Bob Gold",
+          "code": "BG",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "",
+        "helicopter": "1"
+      }
+    },
+    {
+      "date": {
+        "original": "11",
+        "parsed": "1993-07-11",
+        "display": "07/11/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "ACY",
+        "from_codes": ["TEB"],
+        "to_codes": ["ACY"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "70",
+        "flight_number": "351",
+        "confidence": "high"
+      },
+      "remarks": "REPOSITION TO PICK UP JEFFREY",
+      "passengers": [
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "",
+        "helicopter": "1"
+      }
+    },
+    {
+      "date": {
+        "original": "11",
+        "parsed": "1993-07-11",
+        "display": "07/11/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ACY",
+        "to": "ANH",
+        "from_codes": ["ACY"],
+        "to_codes": ["ANH"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "352",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "4",
+        "glider": "",
+        "helicopter": "4"
+      }
+    },
+    {
+      "date": {
+        "original": "11",
+        "parsed": "1993-07-11",
+        "display": "07/11/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ANH",
+        "to": "PBI",
+        "from_codes": ["ANH"],
+        "to_codes": ["PBI"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "353",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "",
+        "helicopter": "6"
+      }
+    },
+    {
+      "date": {
+        "original": "12",
+        "parsed": "1993-07-12",
+        "display": "07/12/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": ["PBD"],
+        "to_codes": ["TEB"],
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "354",
+        "confidence": "high"
+      },
+      "remarks": "JEFFREY",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "",
+        "helicopter": "5"
+      }
+    }
+  ],
+  "page_totals": {
+    "page_total": {
+      "airplane": "28",
+      "helicopter": "81",
+      "total": "109",
+      "confidence": "high"
+    },
+    "amount_forward": {
+      "value": "8151",
+      "confidence": "high"
+    },
+    "total_to_date": {
+      "value": "8260",
+      "confidence": "high"
+    },
+    "validation": {
+      "math_check": "pass",
+      "continuity_check": "pass",
+      "notes": "Recalculated: 109 hours (28 airplane + 81 helicopter) this page. 109 + 8151 = 8260 total to date. Amount Forward (8151) matches page 19 Total to Date."
+    }
+  },
+  "pilot_signature": {
+    "present": true,
+    "legible": false,
+    "notes": "Signature appears similar to previous pages"
+  },
+  "page_metadata": {
+    "total_flights": 18,
+    "date_range": {
+      "start": "1993-06-20",
+      "end": "1993-07-12"
+    },
+    "aircraft_used": [
+      "HS125-700 (N108JE)"
+    ],
+    "notable_passengers": [
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell",
+      "Sophie Biddle",
+      "Bob Gold"
+    ],
+    "all_passengers": [
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell",
+      "Sophie Biddle",
+      "Bob Gold",
+      "1 Female"
+    ],
+    "unidentified_passengers": 1,
+    "extraction_quality": "good",
+    "handwriting_legibility": "fair",
+    "notes": "Month transition June → July 1993. Jeffrey and Ghislaine traveled together on 17 of 18 flights this page. Sophie Biddle continues as frequent passenger, appearing on multiple flights. Bob Gold appears on flights 348-350. One unidentified female passenger. Heavy travel period with multiple same-day multi-leg flights."
+  },
+  "validation": {
+    "date_progression": "valid",
+    "no_time_travel": true,
+    "sequential_dates": true,
+    "totals_accurate": true,
+    "previous_page_continuity": true,
+    "notes": "Date sequence is chronological from June 20 to July 12, 1993. All dates progress normally. Totals recalculated and accurate: 109 total hours (28 airplane + 81 helicopter). Amount forward properly continues from page 19."
+  }
+}
