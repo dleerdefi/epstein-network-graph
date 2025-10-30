@@ -22,7 +22,7 @@
       "route": {
         "from": "GRI",
         "to": "TEB",
-        "from_codes": ["GRI"],
+        "from_codes": ["GRT"],
         "to_codes": ["TEB"],
         "confidence": "high"
       },
@@ -873,16 +873,25 @@
       "HS125-700 (N108JE)"
     ],
     "notable_passengers": [
-      "Arthur Halleran",
-      "Eva Andersson",
-      "Ghislaine Maxwell",
       "Jeffrey Epstein",
+      "Ghislaine Maxwell",
+      "Thomas H. Quinn",
+      "Arthur Halleran"
+    ],
+    "recurring_passengers": [
+      "Jeffrey Epstein (15 flights)",
+      "Ghislaine Maxwell (4 flights)",
+      "Arthur Halleran (2 flights)",
+      "Thomas H. Quinn (2 flights)"
+    ],
+    "new_passengers": [
       "Thomas H. Quinn"
     ],
+    "cryptic_notations": [],
     "unidentified_passengers": 0,
     "extraction_quality": "good",
     "handwriting_legibility": "fair",
-    "notes": "Month transition August → September. Multiple shuttle flights between DAB and PBI. Several flights on August 30 with various legs. Hurricane Andrew diversion to DAB noted on 08/27. Maintenance flights to SPI for #1 MPI Sept 2-17."
+    "notes": "Month transition August → September. Multiple shuttle flights between DAB and PBI. Several flights on August 30 with various legs. 'Momo' appears again. Reference to 'Optimum Balloons' and colleagues notation."
   },
   "validation": {
     "date_progression": "valid",

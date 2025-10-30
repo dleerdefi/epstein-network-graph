@@ -112,8 +112,8 @@
     {
       "date": {
         "original": "12",
-        "parsed": "1992-11-12",
-        "display": "11/12/1992",
+        "parsed": "1992-10-12",
+        "display": "10/12/1992",
         "confidence": "high"
       },
       "aircraft": {
@@ -245,9 +245,10 @@
           "confidence": "high"
         },
         {
-          "name": "Doug",
-          "code": null,
+          "name": "Douglas J Band",
+          "code": "DJ",
           "type": "identified",
+          "notable": true,
           "confidence": "medium"
         }
       ],
@@ -351,8 +352,8 @@
     {
       "date": {
         "original": "20",
-        "parsed": "1992-11-20",
-        "display": "11/20/1992",
+        "parsed": "1992-10-20",
+        "display": "10/20/1992",
         "confidence": "high"
       },
       "aircraft": {
@@ -910,6 +911,7 @@
           "name": "Eva Cox",
           "code": "EC",
           "type": "identified",
+          "notable": true,
           "confidence": "high"
         }
       ],
@@ -951,27 +953,36 @@
   "page_metadata": {
     "total_flights": 18,
     "date_range": {
-      "start": "1992-11-09",
-      "end": "1992-12-11"
+      "start": "1992-10-09",
+      "end": "1992-11-13"
     },
     "aircraft_used": [
       "HS125-700 (N108JE)"
     ],
     "notable_passengers": [
-      "Eva Cox",
-      "Ghislaine Maxwell",
-      "Jeffrey Epstein"
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell"
     ],
+    "recurring_passengers": [
+      "Jeffrey Epstein (17 flights)",
+      "Ghislaine Maxwell (14 flights)",
+      "1 Female (3 flights)"
+    ],
+    "new_passengers": [
+      "Douglas J Band"
+    ],
+    "cryptic_notations": [],
     "unidentified_passengers": 3,
     "extraction_quality": "good",
     "handwriting_legibility": "fair",
-    "notes": "Month transition November → December. Jeffrey and Ghislaine travel together on nearly all flights. Trip to New Mexico (ABQ, SMO) Dec 3-5. Several flights with '1 Female' unidentified passenger. Note: Doug mentioned in Nov 16 flight."
+    "notes": "Month transition October → November. Jeffrey and Ghislaine travel together on nearly all flights. Trip to New Mexico (SMQ, ABQ, SAP) November 2-5. Several flights with '1 Female' unidentified passenger. Note: flight 254 appears out of sequence (Nov 11 after Nov 13)."
   },
   "validation": {
-    "date_progression": "valid",
-    "no_time_travel": true,
-    "sequential_dates": true,
+    "date_progression": "invalid",
+    "no_time_travel": false,
+    "sequential_dates": false,
     "totals_accurate": false,
-    "previous_page_continuity": true
+    "previous_page_continuity": true,
+    "notes": "Date sequence issue: Nov 13 (flight 253) appears before Nov 11 (flight 254)"
   }
 }

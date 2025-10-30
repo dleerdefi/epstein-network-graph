@@ -831,19 +831,46 @@
     "total_flights": 17,
     "date_range": {
       "start": "1991-04-25",
-      "end": "1991-07-29"
+      "end": "1991-06-29"
     },
     "aircraft_used": [
       "HS125-400P (N125JE)",
       "HS125-700 (N401CB)"
     ],
     "notable_passengers": [
+      "Jeffrey Epstein",
       "Ghislaine Maxwell",
-      "Jeffrey Epstein"
+      "Mark Epstein",
+      "Reba McEntire"
     ],
+    "recurring_passengers": [
+      "Del Coleman (2 flights)",
+      "Herb (2 flights)"
+    ],
+    "new_passengers": [
+      "David",
+      "Del Coleman",
+      "Doug",
+      "Fred",
+      "Ghislaine Maxwell",
+      "Herb",
+      "Hunting",
+      "Jeffrey",
+      "Jeffrey Epstein",
+      "Kevin McCutcheon",
+      "Linda",
+      "Mark Epstein",
+      "Michael",
+      "Mr. Martino",
+      "Reba McEntire",
+      "Reba's Husband",
+      "Saul Levy",
+      "Ted Steinert"
+    ],
+    "cryptic_notations": [],
     "extraction_quality": "good",
     "handwriting_legibility": "fair",
-    "notes": "First page - establishes baseline. Spans April through July 1991. Aircraft transition from N125JE to N401CB on June 25. Ghislaine Maxwell's first appearance in logs on July 26. Some remarks difficult to read due to handwriting."
+    "notes": "First page - establishes baseline. Some remarks difficult to read due to handwriting."
   },
   "validation": {
     "date_progression": "valid",

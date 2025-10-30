@@ -10,9 +10,10 @@
     {
       "date": {
         "original": "23",
-        "parsed": "1991-10-23",
-        "display": "10/23/1991",
-        "confidence": "high"
+        "parsed": "1991-10-2e",
+        "display": "10/02/1991",
+        "confidence": "medium",
+        "notes": "Date range 23"
       },
       "aircraft": {
         "make_model": "HS125-700",
@@ -317,7 +318,7 @@
       "date": {
         "original": "9",
         "parsed": "1991-11-09",
-        "display": "11/09/1991",
+        "display": "10/08/1991",
         "confidence": "high"
       },
       "aircraft": {
@@ -877,7 +878,7 @@
       "date": {
         "original": "26",
         "parsed": "1991-11-26",
-        "display": "11/26/1991",
+        "display": "10/26/1991",
         "confidence": "high"
       },
       "aircraft": {
@@ -953,22 +954,38 @@
   "page_metadata": {
     "total_flights": 18,
     "date_range": {
-      "start": "1991-10-23",
-      "end": "1991-11-26"
+      "start": "1991-10-02",
+      "end": "1991-10-25"
     },
     "aircraft_used": [
       "HS125-700 (N108JE)"
     ],
     "notable_passengers": [
-      "Eva Anderson",
+      "Jeffrey Epstein",
       "Ghislaine Maxwell",
-      "Harry (Harvard)",
-      "Jeffrey Epstein"
+      "Heather",
+      "Christine",
+      "Eva Anderson",
+      "Harry (Harvard)"
     ],
-    "unidentified_passengers": 1,
+    "recurring_passengers": [
+      "Jeffrey Epstein (12 flights)",
+      "Ghislaine Maxwell (3 flights)",
+      "Heather (3 flights)",
+      "Christine (2 flights)",
+      "Jeffrey (2 flights)"
+    ],
+    "new_passengers": [
+      "Christine",
+      "Christine Kenneally",
+      "Harry (Harvard)",
+      "Ira Zuckerman",
+      "Katie",
+      "T1 Male"
+    ],
+    "cryptic_notations": [],
     "extraction_quality": "good",
-    "handwriting_legibility": "fair",
-    "notes": "Month transition October → November. Multiple trips between TEB, CMH, BKL, PBI, and DCA. First appearance of Ghislaine Maxwell in this period (Nov 17). Eva Anderson travels Nov 23-24. Harvard connection noted."
+    "handwriting_legibility": "fair"
   },
   "validation": {
     "date_progression": "valid",

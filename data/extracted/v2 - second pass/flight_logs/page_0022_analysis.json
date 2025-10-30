@@ -1095,7 +1095,7 @@
       "Jeffrey Epstein",
       "Ghislaine Maxwell",
       "Les Wexner",
-      "Abagail Wexner",
+      "Abigail Wexner",
       "Sophie Biddle",
       "Dawn Devito",
       "Ira Zuckerman",
@@ -1105,7 +1105,7 @@
       "Jeffrey Epstein",
       "Ghislaine Maxwell",
       "Les Wexner",
-      "Abagail Wexner",
+      "Abigail Wexner",
       "Sophie Biddle",
       "Dawn Devito",
       "Ira Zuckerman",
@@ -1119,9 +1119,33 @@
       "1 Male"
     ],
     "unidentified_passengers": 1,
+    "recurring_passengers": [
+      "Jeffrey Epstein (15 flights)",
+      "Ghislaine Maxwell (10 flights)",
+      "Dawn Devito (4 flights)",
+      "Russ Kerry (3 flights)",
+      "Ira Zuckerman (2 flights)",
+      "Jerry Benic (2 flights)",
+      "Rupert (2 flights)",
+      "Sophie Biddle (2 flights)"
+    ],
+    "new_passengers": [
+      "Les Wexner (Jeffrey's key financial backer)",
+      "Abigail Wexner (Les Wexner's wife)",
+      "Ben Osman",
+      "Jerry Benic",
+      "Jim Taylor",
+      "Mary Richards",
+      "Michael Wells",
+      "Rupert",
+      "Russ Kerry",
+      "Ira Zuckerman",
+      "1 Male"
+    ],
+    "cryptic_notations": [],
     "extraction_quality": "high",
     "handwriting_legibility": "good",
-    "notes": "Page shows extensive Honduras travel (4 flights to/from SAP), Aspen luxury destination visit, October 10 has 4 flights with unusual airport codes (CVMX, ROL), multiple flight number duplications and errors"
+    "notes": "Page covers August 17 - September 17, 1993. HIGHLY SIGNIFICANT: Les and Abigail Wexner appear September 10 on international flight to Montreal (CYMX) with 8 total passengers. Mary Richards first appearance. Four-flight day on September 10. Flight number gaps in sequence."
   },
   "insights": [
     "August 17: Jeffrey and Ghislaine travel together TEB→CMH→SAF - establishing New Mexico base",

@@ -529,7 +529,7 @@
       "date": {
         "original": "28",
         "parsed": "1992-10-28",
-        "display": "10/28/1992",
+        "display": "10/27/1992",
         "confidence": "high"
       },
       "aircraft": {
@@ -717,7 +717,7 @@
       "date": {
         "original": "5",
         "parsed": "1992-11-05",
-        "display": "11/05/1992",
+        "display": "10/01/1992",
         "confidence": "high",
         "notes":"Month change to November"
       },
@@ -881,22 +881,32 @@
     "total_flights": 18,
     "date_range": {
       "start": "1992-09-05",
-      "end": "1992-11-08"
+      "end": "1992-10-08"
     },
     "aircraft_used": [
-      "C-172",
       "HS125-700 (N108JE)",
-      "HS125-700 (N908JE)"
+      "C-172"
     ],
     "notable_passengers": [
-      "Ghislaine Maxwell",
       "Jeffrey Epstein",
+      "Ghislaine Maxwell",
       "Mark Epstein"
     ],
-    "unidentified_passengers": 4,
+    "recurring_passengers": [
+      "Jeffrey Epstein (11 flights)",
+      "Ghislaine Maxwell (6 flights)",
+      "1 Female (5 flights)",
+      "Mark Epstein (2 flights)"
+    ],
+    "new_passengers": [
+      "David Mand",
+      "Kim"
+    ],
+    "cryptic_notations": [],
+    "unidentified_passengers": 3,
     "extraction_quality": "good",
     "handwriting_legibility": "fair",
-    "notes": "FlightSafety training entries Sept 9-11 at ILG (Wilmington, DE). Multiple C-172 checkout flights. Month transition September → October → November. Several flights with '1 Female' or '2 Females' unidentified passengers. Picked up at Concord gate on Nov 8."
+    "notes": "FlightSafety training entries Sept 9-11 at ILG (Wilmington, DE). Multiple C-172 checkout flights. Month transition September → October. Several flights with '1 Female' unidentified passenger."
   },
   "validation": {
     "date_progression": "valid",

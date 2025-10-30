@@ -1038,17 +1038,25 @@
       "HS125-700 (N108JE)"
     ],
     "notable_passengers": [
-      "Arthur Halleran",
-      "Christine Kenneally",
-      "Eva Anderson",
+      "Jeffrey Epstein",
       "Ghislaine Maxwell",
       "James Murphy",
-      "Jeffrey Epstein"
+      "Christine Kenneally"
     ],
-    "unidentified_passengers": 1,
+    "recurring_passengers": [
+      "Jeffrey Epstein (17 flights)",
+      "Ghislaine Maxwell (13 flights)",
+      "James Murphy (7 flights)",
+      "Christine Kenneally (6 flights)"
+    ],
+    "new_passengers": [
+      "Terry Kafka"
+    ],
+    "cryptic_notations": [],
+    "unidentified_passengers": 3,
     "extraction_quality": "good",
     "handwriting_legibility": "fair",
-    "notes": "Multiple trips with Jeffrey and Ghislaine across western US (Wyoming, Utah, Colorado, Montana). August 8 multi-leg journey: TEB→SAF→JAC→BZN→CMH. Destinations noted in remarks (Moab UT, Montrose CO, Grand Isle NE fuel stop). James Murphy and Christine Kenneally on Aug 3-10 trip."
+    "notes": "Multiple trips with Jeffrey and Ghislaine across western US (Wyoming, Utah, Colorado, Montana). Note 'Taxiing' appears twice - likely misread name. Destinations noted in remarks (Moab UT, Monterey CO, Grand Isle ME)."
   },
   "validation": {
     "date_progression": "valid",

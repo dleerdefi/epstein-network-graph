@@ -644,7 +644,7 @@
         "flight_number": "53",
         "confidence": "low"
       },
-      "remarks": "JEFFREY HEATHER",
+      "remarks": "JEFFREY, HEATHER",
       "passengers": [
         {
           "name": "Jeffrey Epstein",
@@ -897,6 +897,18 @@
       "Christine",
       "Heather"
     ],
+    "recurring_passengers": [
+      "Jeffrey Epstein (10 flights)",
+      "Ghislaine Maxwell (3 flights)",
+      "Heather (2 flights)"
+    ],
+    "new_passengers": [
+      "Christine Maxwell",
+      "Heather",
+      "Lisa",
+      "Ray Scorn"
+    ],
+    "cryptic_notations": [],
     "extraction_quality": "good",
     "handwriting_legibility": "fair"
   },

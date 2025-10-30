@@ -164,10 +164,10 @@
       "remarks": "LINDA",
       "passengers": [
         {
-          "name": "Linda",
-          "code": null,
+          "name": "Linda Scolaro",
+          "code": "LS",
           "type": "identified",
-          "confidence": "high"
+          "confidence": "medium"
         }
       ],
       "landings": {
@@ -835,7 +835,7 @@
       "date": {
         "original": "15",
         "parsed": "1993-01-15",
-        "display": "01/15/1993",
+        "display": "01/11/1993",
         "confidence": "high"
       },
       "aircraft": {
@@ -916,16 +916,29 @@
       "HS125-700 (N108JE)"
     ],
     "notable_passengers": [
-      "Eva Anderson",
-      "Ghislaine Maxwell",
       "Jeffrey Epstein",
-      "Mark Epstein",
-      "Sayne Miller (Author)"
+      "Ghislaine Maxwell",
+      "Tasha"
     ],
+    "recurring_passengers": [
+      "Jeffrey Epstein (15 flights)",
+      "Ghislaine Maxwell (6 flights)"
+    ],
+    "new_passengers": [
+      "Epstein Aunt 1",
+      "Epstein Aunt 2",
+      "Jim",
+      "Linda Scolaro",
+      "Nancy",
+      "Sayne Miller (Author)",
+      "Tasha",
+      "illegible"
+    ],
+    "cryptic_notations": [],
     "unidentified_passengers": 1,
     "extraction_quality": "good",
     "handwriting_legibility": "fair",
-    "notes": "Month transition December 1992 → January 1993 (year change). Trip to ICT and SAF Dec 19-21. Several flights with Jeffrey and Ghislaine together. Family flight with Mark Epstein and 2 aunts plus Nancy on Jan 8. New year begins with flights in January 1993. No passengers flight for 1949 Hudson delivery to Henry Resort on Dec 17."
+    "notes": "Month transition December 1992 → January 1993 (year change). Long flight TEB to ILT (1850 miles) on Dec 19. Trip includes ILT to SJU (San Juan). Several flights with Jeffrey and Ghislaine together. New year begins with flights in January 1993."
   },
   "validation": {
     "date_progression": "valid",

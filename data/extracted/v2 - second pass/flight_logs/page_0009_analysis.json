@@ -1153,11 +1153,33 @@
       "HS125-700 (N108JE)"
     ],
     "notable_passengers": [
-      "Jeffrey",
+      "Jeffrey Epstein",
       "Ghislaine Maxwell",
-      "Kristina",
-      "Kelly"
+      "Christina Estrada",
+      "Alan Greenberg",
+      "Ken Lipper"
     ],
+    "recurring_passengers": [
+      "Jeffrey Epstein (18 flights)",
+      "Ghislaine Maxwell (12 flights)",
+      "1 Male (6 flights)",
+      "Christina Estrada (6 flights)"
+    ],
+    "new_passengers": [
+      "1 Male",
+      "1 Passenger",
+      "Abagail Koppel",
+      "Alan Greenberg",
+      "Amanda 'Mandy' Ellison",
+      "Bob Wendy",
+      "Christina Estrada",
+      "Dr. Evelyn Gruss (Mrs Lipper - Wife)",
+      "Ken Lipper",
+      "Ms Lipper (daughter 1)",
+      "Ms Lipper (daughter 2)",
+      "Tunde Oso Bota"
+    ],
+    "cryptic_notations": [],
     "extraction_quality": "fair",
     "handwriting_legibility": "fair",
     "notes": "Some date sequence issues and totals discrepancy"

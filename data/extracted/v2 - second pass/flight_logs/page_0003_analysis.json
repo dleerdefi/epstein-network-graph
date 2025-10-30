@@ -937,10 +937,22 @@
     ],
     "notable_passengers": [
       "Jeffrey Epstein",
-      "Ghislaine",
+      "Ghislaine Maxwell",
       "Eva Andersson",
-      "Marc"
+      "Mark Epstein"
     ],
+    "recurring_passengers": [
+      "Jeffrey Epstein (12 flights)",
+      "Eva Andersson (3 flights)",
+      "Ghislaine Maxwell (3 flights)",
+      "Mark Epstein (2 flights)"
+    ],
+    "new_passengers": [
+      "Eva Andersson",
+      "Kristy",
+      "Roger Sahle"
+    ],
+    "cryptic_notations": [],
     "unidentified_passengers": 3,
     "extraction_quality": "good",
     "handwriting_legibility": "fair"

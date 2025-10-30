@@ -861,8 +861,29 @@
     ],
     "notable_passengers": [
       "Jeffrey Epstein",
-      "Mimi",
-      "Roberts"
+      "Dana Hammond"
+    ],
+    "recurring_passengers": [
+      "Jeffrey Epstein (10 flights)",
+      "Jeffrey (4 flights)",
+      "+2 PAX (3 flights)",
+      "1 PAX (2 flights)",
+      "Dana Hammond (2 flights)"
+    ],
+    "new_passengers": [
+      "+1 Female",
+      "+1 PAX",
+      "+2 PAX",
+      "1 PAX",
+      "Abby",
+      "Dana Hammond",
+      "Roger"
+    ],
+    "cryptic_notations": [
+      "ABOIC (unclear meaning)",
+      "RELOCATE DUE TO DCA CURFEW",
+      "RELOCATE FOR N# CHANGE, PAINT, INTERIOR CLEANED",
+      "Passenger count abbreviations: +1 PAX, +2 PAX, 1 PAX"
     ],
     "unidentified_passengers": 9,
     "extraction_quality": "good",

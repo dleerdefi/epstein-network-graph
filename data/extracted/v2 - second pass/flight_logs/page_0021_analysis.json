@@ -1125,14 +1125,26 @@
       "1 Male"
     ],
     "unidentified_passengers": 1,
-    "cryptic_notations": [
-      "1+2=4 PERSONAL (appears 3 times)",
-      "1+2=4 FREELANCE (appears 1 time)",
-      "& PERSONAL (appears 1 time)"
+    "recurring_passengers": [
+      "Jeffrey Epstein (14 flights)",
+      "Dawn Devito (10 flights)",
+      "Ghislaine Maxwell (8 flights)",
+      "Itzack Perlman (3 flights)",
+      "Sophie Biddle (3 flights)",
+      "Erin Nance (2 flights)"
     ],
+    "new_passengers": [
+      "Dawn Devito (FIRST APPEARANCE - July 13)",
+      "Yehuda Koppel (likely Abigail Koppel Wexner's father)",
+      "Maxine",
+      "Sophie's Friend",
+      "Erin Nance",
+      "1 Male"
+    ],
+    "cryptic_notations": [],
     "extraction_quality": "high",
     "handwriting_legibility": "good",
-    "notes": "Page contains significant international travel (Honduras SAP to USA), notable passenger Mr. Buffett, Eva Andersson appears, cryptic passenger notations '1+2=4' require interpretation, multiple flight number gaps and one duplicate (373)"
+    "notes": "Page covers July 13 - August 15, 1993. Dawn Devito's FIRST APPEARANCE (July 13) - becomes frequent passenger. Notable passengers: Itzack Perlman (famous violinist), Yehuda Koppel (likely Wexner family connection). Michigan airports (Ashland WI, Traverse City) prominent. Multiple flight number gaps in sequence."
   },
   "insights": [
     "July 13: Dawn Devito's FIRST APPEARANCE in flight logs - travels TEB→BOS→CMH with Jeffrey on her debut",

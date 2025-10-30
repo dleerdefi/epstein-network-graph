@@ -949,11 +949,27 @@
       "HS125-700 (N108JE)"
     ],
     "notable_passengers": [
-      "Jeffrey",
-      "Ghislaine",
-      "Kristy",
-      "Kelly",
-      "Eva Anderson"
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell",
+      "Eva Andersson Dubin",
+      "Tito Del Salto"
+    ],
+    "recurring_passengers": [
+      "Jeffrey Epstein (15 flights)",
+      "Eva Andersson Dubin (4 flights)",
+      "Tito Del Salto (4 flights)",
+      "Ghislaine Maxwell (3 flights)"
+    ],
+    "new_passengers": [
+      "+1 Male",
+      "+2 Males",
+      "Kimberly",
+      "Lisa Epstein",
+      "PAULA H EPSTEIN",
+      "Tito Del Salto"
+    ],
+    "cryptic_notations": [
+      "Passenger count notations: +1 Male, +2 Males"
     ],
     "extraction_quality": "good",
     "handwriting_legibility": "fair"

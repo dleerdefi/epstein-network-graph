@@ -905,12 +905,23 @@
       "C-182"
     ],
     "notable_passengers": [
-      "Jeffrey",
+      "Jeffrey Epstein",
       "Ghislaine Maxwell",
-      "Christine",
+      "Christine Kenneally",
       "Eva Anderson",
-      "Kenneth Lappe"
+      "Kenneth Lippur"
     ],
+    "recurring_passengers": [
+      "Jeffrey Epstein (11 flights)",
+      "Eva Anderson (3 flights)",
+      "Ghislaine Maxwell (3 flights)",
+      "Christine Kenneally (2 flights)"
+    ],
+    "new_passengers": [
+      "+2 PASSENGERS",
+      "Kenneth Lippur"
+    ],
+    "cryptic_notations": [],
     "extraction_quality": "good",
     "handwriting_legibility": "fair",
     "notes": "Year transition from 1991 to 1992"

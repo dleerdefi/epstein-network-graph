@@ -1128,12 +1128,27 @@
       "Jeffrey Epstein",
       "Ghislaine Maxwell",
       "James Murphy",
-      "Eva Andersson",
-      "Steve Hammond",
-      "Marcel Kovacs",
-      "Ira Zuckerman",
-      "Ethan Perlman"
+      "Itzhak Perlman",
+      "Arthur Halleran"
     ],
+    "recurring_passengers": [
+      "Jeffrey Epstein (15 flights)",
+      "Ghislaine Maxwell (10 flights)",
+      "James Murphy (7 flights)",
+      "1 Female (5 flights)",
+      "Itzhak Perlman (3 flights)"
+    ],
+    "new_passengers": [
+      "1 Female",
+      "Arthur Halleran",
+      "Itzhak Perlman",
+      "James Murphy",
+      "Jonathan [no last name provided]",
+      "Navah Perlman, or Leora Perlman (Ms Perlman)",
+      "Pam Stevens",
+      "Toby Perlman (Mrs Perlman)"
+    ],
+    "cryptic_notations": [],
     "unidentified_passengers": 3,
     "extraction_quality": "good",
     "handwriting_legibility": "fair",
